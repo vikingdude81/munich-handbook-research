@@ -1,0 +1,1202 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 21,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Osendior",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Matalot",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Belzebub",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Sententino",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Apolin",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Oreoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Pinen",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Otel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Tryboy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Noryoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Belferith",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Camoy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Sobronoy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Sismael",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Mirael",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelic or intermediate spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 2 has [...] the names Mirael and N. (for the name of the intended victim) inscribed in its centre"
+    },
+    {
+      "name": "Rator",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Lampoy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Despan",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Brunlo",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Dronoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Maloqui",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Satola",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Gelbid",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Mascifin",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Nartim",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Lodoni",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 3 has the names Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "O Vsyr",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Salaul",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Silitor",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Demor",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Zanno",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Syrtroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Risbel",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Cutroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Litor Onor",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Moloy",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Pumotor",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Tami",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Oor",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Ym",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus armigeri"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 7 has O Vsyr, Salaul, Silitor, Demor..."
+    },
+    {
+      "name": "Fyron",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 8 has the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Dyspil",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 8 has the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Onoroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 8 has the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Sysabel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 8 has the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Cotroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 8 has the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Tyroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 8 has the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Rimel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 8 has the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Orooth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 8 has the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Lantrayth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 9 has the names Lantrayth, Feremni and Oliromim"
+    },
+    {
+      "name": "Feremni",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 9 has the names Lantrayth, Feremni and Oliromim"
+    },
+    {
+      "name": "Oliromim",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 9 has the names Lantrayth, Feremni and Oliromim"
+    },
+    {
+      "name": "O Brimer",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 10 has O Brimer, Suburith..."
+    },
+    {
+      "name": "Suburith",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 10 has O Brimer, Suburith..."
+    },
+    {
+      "name": "Tranauit",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 10 has O Brimer, Suburith..."
+    },
+    {
+      "name": "Lyroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 10 has O Brimer, Suburith..."
+    },
+    {
+      "name": "Berien",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 10 has O Brimer, Suburith... vnq (?) Berien..."
+    },
+    {
+      "name": "Damayn",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 10 has O Brimer, Suburith... Damayn"
+    },
+    {
+      "name": "Firiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 11 has the names Firiel to the west..."
+    },
+    {
+      "name": "Melemil",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 11 has [...] Melemil to the south..."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 11 has [...] Berith to the east..."
+    },
+    {
+      "name": "Taraor",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 11 has [...] Taraor to the north"
+    },
+    {
+      "name": "Latranoy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Iszarin",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Bicol",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Danmals",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Gromon",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Zara",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Ralkal",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Sigtonia",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Samah",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Meneglasar",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 18 has the names Latranoy, Iszarin..."
+    },
+    {
+      "name": "Asyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 13 has the names Asyel, Castyel..."
+    },
+    {
+      "name": "Castyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 13 has the names Asyel, Castyel..."
+    },
+    {
+      "name": "Lamsiyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 13 has the names Asyel, Castyel..."
+    },
+    {
+      "name": "Rabam",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 13 has the names Asyel, Castyel..."
+    },
+    {
+      "name": "Erlain",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 13 has the names Asyel, Castyel..."
+    },
+    {
+      "name": "Olam",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 13 has the names Asyel, Castyel..."
+    },
+    {
+      "name": "Belam",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 13 has the names Asyel, Castyel..."
+    },
+    {
+      "name": "Lylet",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 23 has the name Lylet (or Bylet) inscribed in its centre"
+    },
+    {
+      "name": "Bylet",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 23 has the name Lylet (or Bylet) inscribed in its centre"
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual manuscript",
+      "attributes": {
+        "shelfmark": "Clm 849",
+        "content": "necromantic experiments"
+      },
+      "page_ref": "pp. 206–211 passim",
+      "raw_quote": "The circles in Clm 849 consist most fundamentally of single circular bands..."
+    },
+    {
+      "name": "magic circle",
+      "type": "ritual tool",
+      "attributes": {
+        "function": "protection, power focus, spirit control"
+      },
+      "page_ref": "pp. 203–211",
+      "raw_quote": "Magic circles are usually represented in histories of magic as protective devices... the circle is a focus of power meant to gain control over spirits."
+    },
+    {
+      "name": "pentagram",
+      "type": "ritual symbol",
+      "attributes": {
+        "usage": "inscribed in circles, used for positioning magicians"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "No. 6 has a pentagram inscribed in its centre; no. 10 has a pentagram inscribed..."
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "inscribed on circles, essential for conjurations"
+      },
+      "page_ref": "p. 206",
+      "raw_quote": "The Tetragrammaton must be inscribed on all circles, because without it 'all conjurations of the spirits will fail...'"
+    },
+    {
+      "name": "Agla",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "inscribed in circles"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 16 has Agla / Michael virtus dei / Gabriel fortitudo..."
+    },
+    {
+      "name": "Alpha et O",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "inscribed in circles"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "...Alpha et O, deus et homo; [...] Alpha et O..."
+    },
+    {
+      "name": "Sabaoth",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "divine name"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "no. 36 has four divine names outside its triple band: Sabaoth at the top..."
+    },
+    {
+      "name": "Adonay",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "divine name"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "...Adonay at the bottom, Agla at the left."
+    },
+    {
+      "name": "Emanuel",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "divine name"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "...Emanuel Paraclitus / Raphael medicina dei..."
+    },
+    {
+      "name": "Paraclitus",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "divine name (Holy Spirit)"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "...Emanuel Paraclitus / Raphael medicina dei..."
+    },
+    {
+      "name": "Raphael",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "divine name"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "...Raphael medicina dei..."
+    },
+    {
+      "name": "Michael",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "divine name / archangel"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "Agla / Michael virtus dei / Gabriel fortitudo..."
+    },
+    {
+      "name": "Gabriel",
+      "type": "sacred name",
+      "attributes": {
+        "usage": "divine name / archangel"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "...Michael virtus dei / Gabriel fortitudo..."
+    },
+    {
+      "name": "Locus magistri",
+      "type": "ritual location marker",
+      "attributes": {
+        "usage": "indicates master’s position in circle"
+      },
+      "page_ref": "p. 206",
+      "raw_quote": "...the term Locus magistri (nos 3, 7, 9, 12) or simply Magister..."
+    },
+    {
+      "name": "Magister",
+      "type": "ritual role",
+      "attributes": {
+        "usage": "magician performing rite"
+      },
+      "page_ref": "p. 206",
+      "raw_quote": "...simply Magister (nos 10, 11)."
+    },
+    {
+      "name": "Nomen discipuli",
+      "type": "ritual notation",
+      "attributes": {
+        "usage": "indicates apprentice’s name"
+      },
+      "page_ref": "p. 206",
+      "raw_quote": "...Nomen magistri, de tali ordine and Nomen discipuli are marked in the center."
+    },
+    {
+      "name": "Hic magister cum suis sociis",
+      "type": "ritual notation",
+      "attributes": {
+        "usage": "indicates master’s position with assistants"
+      },
+      "page_ref": "p. 206",
+      "raw_quote": "...the circle for no. 8 marks the position with the inscription Hic magister cum suis sociis."
+    },
+    {
+      "name": "Esto altissimus, vnus, eternus, amen",
+      "type": "ritual incantation",
+      "attributes": {
+        "usage": "inscribed on signum"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "...a rectangular signum with the inscription Esto altissimus, vnus, eternus, amen..."
+    },
+    {
+      "name": "Tu Belial, tu Astaroth, tu Paymon, ad hoc sitis opus michi adiutores",
+      "type": "conjuration formula",
+      "attributes": {
+        "usage": "direct invocation"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "The experiment is explicitly said to be without danger... Tu Belial, tu Astaroth, tu Paymon..."
+    },
+    {
+      "name": "Hunc circulum facio in nomine Patris...",
+      "type": "ritual incantation",
+      "attributes": {
+        "usage": "circle consecration formula"
+      },
+      "page_ref": "p. 208–209",
+      "raw_quote": "Hunc circulum facio in nomine dei Patris omnipotentis, qui solo verbo vniuersa creauit..."
+    },
+    {
+      "name": "In nomine Patris et Filij et Spiritus Sancti",
+      "type": "ritual incantation",
+      "attributes": {
+        "usage": "Trinitarian formula"
+      },
+      "page_ref": "p. 208–209",
+      "raw_quote": "The first circle for no. 39 has In nomine Patris et Filij et Spiritus Sancti..."
+    },
+    {
+      "name": "Celi enarrant",
+      "type": "ritual incantation",
+      "attributes": {
+        "usage": "Psalm-based formula"
+      },
+      "page_ref": "p. 208–209",
+      "raw_quote": "...Celi enarrant in the middle band..."
+    },
+    {
+      "name": "Deus tuum regi da",
+      "type": "ritual incantation",
+      "attributes": {
+        "usage": "prayer for protection"
+      },
+      "page_ref": "p. 208–209",
+      "raw_quote": "...and Deus tuum [sic] regi da in its three bands."
+    },
+    {
+      "name": "Per hoc signum sancte crucis...",
+      "type": "ritual incantation",
+      "attributes": {
+        "usage": "protection formula"
+      },
+      "page_ref": "p. 209",
+      "raw_quote": "...gracia dei defendat nos ab omni malo."
+    },
+    {
+      "name": "Deus sanctus, deus omnipotens...",
+      "type": "ritual incantation",
+      "attributes": {
+        "usage": "divine epithets"
+      },
+      "page_ref": "p. 209",
+      "raw_quote": "No. 23 has Deus sanctus, deus omnipotens, deus fortis..."
+    },
+    {
+      "name": "Liber Honorius (Honourius)",
+      "type": "ritual manuscript",
+      "attributes": {
+        "attribution": "pseudo-Honourius, son of Euclid"
+      },
+      "page_ref": "p. 205",
+      "raw_quote": "The Sworn Book ascribed to one 'Honourius, son of Euclid', gives elaborate instructions..."
+    },
+    {
+      "name": "De nigromancia (Roger Bacon)",
+      "type": "ritual manuscript",
+      "attributes": {
+        "attribution": "pseudo-Roger Bacon"
+      },
+      "page_ref": "pp. 205–206, n. 32",
+      "raw_quote": "The De nigromancia associated with Roger Bacon provides even fuller and more elaborate instructions..."
+    },
+    {
+      "name": "Rawlinson necromantic manuscript",
+      "type": "ritual manuscript",
+      "attributes": {
+        "content": "conjurations, circles"
+      },
+      "page_ref": "p. 206",
+      "raw_quote": "The Rawlinson necromantic manuscript is more interested in conjurations than in circles..."
+    },
+    {
+      "name": "Malleus maleficarum",
+      "type": "theological treatise",
+      "attributes": {
+        "relevance": "discusses demonic assumed bodies"
+      },
+      "page_ref": "p. 203, n. 31",
+      "raw_quote": "The Malleus maleficarum, ii.1.4, pp. 109–14, discusses the nature of these assumed bodies..."
+    },
+    {
+      "name": "Picatrix",
+      "type": "astral magic text",
+      "attributes": {
+        "origin": "Arabic → Latin translation"
+      },
+      "page_ref": "p. 211",
+      "raw_quote": "...influence on necromantic practice... This and similar writings had been translated from Arabic into Western European languages..."
+    },
+    {
+      "name": "astral magic",
+      "type": "magical tradition",
+      "attributes": {
+        "connection": "borrowed by necromancy"
+      },
+      "page_ref": "p. 211",
+      "raw_quote": "...necromancy clearly did borrow techniques, however superficially, from the traditions of astral magic derived from Arabic treatises such as Picatrix."
+    },
+    {
+      "name": "Roger Bolingbroke",
+      "type": "person",
+      "attributes": {
+        "role": "astronomer/magician"
+      },
+      "page_ref": "p. 211",
+      "raw_quote": "...master Roger Bolingbroke, was arrested... with the vestments of his magic and with waxen images..."
+    },
+    {
+      "name": "Eleanor Cobham",
+      "type": "person",
+      "attributes": {
+        "role": "Duchess of Bedford"
+      },
+      "page_ref": "p. 211",
+      "raw_quote": "In 1441 Eleanor Cobham, the Duchess of Bedford, was tried for treasonous magic along with accomplices who included Roger Bolingbroke."
+    },
+    {
+      "name": "Caesarius of Heisterbach",
+      "type": "person",
+      "attributes": {
+        "role": "preacher/narrator"
+      },
+      "page_ref": "p. 209, n. 14",
+      "raw_quote": "In one of the exempla told by Caesarius of Heisterbach..."
+    },
+    {
+      "name": "Honni the Circle-Drawer",
+      "type": "legendary figure",
+      "attributes": {
+        "role": "Jewish miracle worker"
+      },
+      "page_ref": "p. 210, n. 17",
+      "raw_quote": "...appears, for example, in the early Jewish story of Honi the Circle-drawer..."
+    },
+    {
+      "name": "Greek magical papyri",
+      "type": "ritual manuscript tradition",
+      "attributes": {
+        "role": "source of circle magic"
+      },
+      "page_ref": "p. 210, n. 17",
+      "raw_quote": "...appears... in the Greek magical papyri."
+    },
+    {
+      "name": "pentangle",
+      "type": "ritual symbol",
+      "attributes": {
+        "synonym": "pentagram"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "The pentacle of Solomon should circumscribe the circle..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Belial",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Satan",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Astaroth",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Paymon",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "mentioned in"
+    },
+    {
+      "from": "magic circle",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "described in"
+    },
+    {
+      "from": "pentagram",
+      "to": "magic circle",
+      "type": "inscribed in"
+    },
+    {
+      "from": "Tetragrammaton",
+      "to": "magic circle",
+      "type": "inscribed on"
+    },
+    {
+      "from": "Agla",
+      "to": "magic circle",
+      "type": "inscribed in"
+    },
+    {
+      "from": "De nigromancia (Roger Bacon)",
+      "to": "magic circle",
+      "type": "describes construction of"
+    },
+    {
+      "from": "Liber Honorius",
+      "to": "magic circle",
+      "type": "describes construction of"
+    },
+    {
+      "from": "Rawlinson necromantic manuscript",
+      "to": "magic circle",
+      "type": "includes circles in"
+    },
+    {
+      "from": "sacred names",
+      "to": "magic circle",
+      "type": "inscribed in"
+    },
+    {
+      "from": "conjuration formula",
+      "to": "magic circle",
+      "type": "inscribed on"
+    },
+    {
+      "from": "astral magic",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "influences"
+    },
+    {
+      "from": "Picatrix",
+      "to": "astral magic",
+      "type": "source of"
+    },
+    {
+      "from": "Roger Bolingbroke",
+      "to": "astral magic",
+      "type": "practitioner of"
+    },
+    {
+      "from": "Caesarius of Heisterbach",
+      "to": "magic circle",
+      "type": "describes protective function in exempla"
+    },
+    {
+      "from": "Honni the Circle-Drawer",
+      "to": "magic circle",
+      "type": "legendary user of"
+    },
+    {
+      "from": "Greek magical papyri",
+      "to": "magic circle",
+      "type": "source of"
+    }
+  ],
+  "summary": "This chunk details the structure, inscriptions, and functions of magic circles in the Munich Handbook (CLM 849), listing numerous spirit names, sacred formulas, ritual positions, and symbolic elements. It compares these to broader necromantic traditions, highlights connections with astral magic (e.g., via Picatrix), and references key figures like Roger Bacon and Roger Bolingbroke. The circle is shown both as a protective boundary and as a focal point of power for spirit conjuration.",
+  "key_passages": [
+    "The circles in Clm 849 consist most fundamentally of single circular bands or varying numbers of concentric bands... no. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer, Sententino and Apolin inscribed in and around its band",
+    "The Tetragrammaton must be inscribed on all circles, because without it 'all conjurations of the spirits will fail, and no spirit will answer truth, but falsehood'",
+    "Hunc circulum facio in nomine dei Patris omnipotentis, qui solo verbo vniuersa creauit... Hunc circulum facio in nomine Spiritus Sancti paracliti...",
+    "Tu Belial, tu Astaroth, tu Paymon, ad hoc sitis opus michi adiutores",
+    "The circle is a focus of power meant to gain control over spirits. The circles have power to convoke the demons (no. 9) and to terrify them (no. 7)."
+  ]
+}

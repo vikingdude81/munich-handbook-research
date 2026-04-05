@@ -1,0 +1,451 @@
+{
+  "source_id": "necro",
+  "chunk_id": 37,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Semiforas",
+      "type": "spirit",
+      "attributes": {
+        "rank": "great name",
+        "function": "used in treasure-divination ritual"
+      },
+      "page_ref": "106v-107r",
+      "raw_quote": "hoc est nomen magnum Semiforas, quod erat scriptum in fronte Aaron, sacerdotis creatoris."
+    },
+    {
+      "name": "Tuditha",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on host to summon a horse"
+      },
+      "page_ref": "107r",
+      "raw_quote": "hec nomina cum sa[n]gwine vespertilionis: Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon."
+    },
+    {
+      "name": "Layalym",
+      "type": "spirit",
+      "attributes": {
+        "function": "protective names used in averting harm"
+      },
+      "page_ref": "107v",
+      "raw_quote": "hec sunt nomina, scilicet: Layalym, Lyalgnea, Yalgnal, Narath, Lybarye, Lymbaros, Lyaslam."
+    },
+    {
+      "name": "Oriens",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked to reveal hidden treasure in dreams"
+      },
+      "page_ref": "106v-107r",
+      "raw_quote": "O Oriens benigne, maior pars mundi, celi, terreque sator..."
+    },
+    {
+      "name": "Sotuem",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in treasure ritual"
+      },
+      "page_ref": "106v",
+      "raw_quote": "per Sotuem, Sortfen,"
+    },
+    {
+      "name": "Haram",
+      "type": "spirit",
+      "attributes": {
+        "function": "spirit to appear in dream and guide to treasure"
+      },
+      "page_ref": "106v",
+      "raw_quote": "veniat ad me in sompnis Haram, spiritus benignus..."
+    },
+    {
+      "name": "Saday",
+      "type": "spirit",
+      "attributes": {
+        "function": "part of Semiforas name-sequence"
+      },
+      "page_ref": "107r",
+      "raw_quote": "Saday, Hay, Resel,- H, Q,- Ayn, Yemino, Selatados, Braruth, Huy, Adonay..."
+    },
+    {
+      "name": "Miserere mei, deus",
+      "type": "ritual",
+      "attributes": {
+        "function": "penitential prayer in treasure ritual"
+      },
+      "page_ref": "106r",
+      "raw_quote": "die coram eo Miserere mei, deus totum..."
+    },
+    {
+      "name": "Asperges me, domine, ysipo",
+      "type": "ritual",
+      "attributes": {
+        "function": "aspergillum rite in treasure ritual"
+      },
+      "page_ref": "106r",
+      "raw_quote": "asperge te aqua benedicta, dicens antyfonam, Asperges me, domine, ysopo..."
+    },
+    {
+      "name": "Oriens, Oriens, Oriens",
+      "type": "incantation",
+      "attributes": {
+        "function": "repeated nine times before sleep to summon treasure spirit"
+      },
+      "page_ref": "106v",
+      "raw_quote": "Oriens, Oriens, Oriens, precor, rogo, et peto, benignissime Oriens..."
+    },
+    {
+      "name": "conjuratio equi",
+      "type": "ritual",
+      "attributes": {
+        "function": "binds horse to master’s will"
+      },
+      "page_ref": "107r",
+      "raw_quote": "Coniuro te, eque bone, per creatorem celi et terre..."
+    },
+    {
+      "name": "kostolya, elogo, yetas",
+      "type": "incantation",
+      "attributes": {
+        "function": "used when dismounting horse after completing task"
+      },
+      "page_ref": "107v",
+      "raw_quote": "kostolya, elogo, yetas."
+    },
+    {
+      "name": "alba columba",
+      "type": "ingredient",
+      "attributes": {
+        "function": "sacrificed for invisibility ritual"
+      },
+      "page_ref": "107v",
+      "raw_quote": "Nunc igitur sume albam columbam, die Sabbati de nocte..."
+    },
+    {
+      "name": "carta agni virginea",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to draw protective figure in invisibility ritual"
+      },
+      "page_ref": "107v",
+      "raw_quote": "et cartam agni virgineam..."
+    },
+    {
+      "name": "sanguis columbae",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to draw protective figure in invisibility ritual"
+      },
+      "page_ref": "108r",
+      "raw_quote": "Scribe de huius £ collumbe sangwine hanc figuram."
+    },
+    {
+      "name": "lunae limatura",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in chemical prescription"
+      },
+      "page_ref": "108v",
+      "raw_quote": "dissolue in ea lune limaturam quantum soluere potes"
+    },
+    {
+      "name": "sal petri",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Item recipe salis petri, vitrioli, rorani,- ana tere..."
+    },
+    {
+      "name": "vitriolum",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Item recipe salis petri, vitrioli, rorani,- ana tere..."
+    },
+    {
+      "name": "roranus",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Item recipe salis petri, vitrioli, rorani,- ana tere..."
+    },
+    {
+      "name": "mercurius crudus",
+      "type": "ingredient",
+      "attributes": {
+        "function": "added to lunar solution"
+      },
+      "page_ref": "108v",
+      "raw_quote": "tunc recipe illam aquam in qua luna est soluta et inpone mercurij crudi quantum coagulare potest."
+    },
+    {
+      "name": "ceram nouam",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam, thuris albi, gummi arabicum..."
+    },
+    {
+      "name": "thurus albus",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam, thuris albi, gummi arabicum..."
+    },
+    {
+      "name": "gummi arabicum",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam, thuris albi, gummi arabicum..."
+    },
+    {
+      "name": "oxcroceum",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam, thuris albi, gummi arabicum, oxcroceum..."
+    },
+    {
+      "name": "asafetida",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... asafetidam..."
+    },
+    {
+      "name": "serabiuum",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... serabiuum..."
+    },
+    {
+      "name": "borax",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... boracem..."
+    },
+    {
+      "name": "semen orobi",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... semen orobi..."
+    },
+    {
+      "name": "cantalides",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... cantarides..."
+    },
+    {
+      "name": "puluis buffonum",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... puluis buffonum..."
+    },
+    {
+      "name": "cerusa",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... cerusam..."
+    },
+    {
+      "name": "sal nitri",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... sal nitri..."
+    },
+    {
+      "name": "sal commune",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... sal commune..."
+    },
+    {
+      "name": "vernicius",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... vernicium..."
+    },
+    {
+      "name": "terebentina",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... terebentinam..."
+    },
+    {
+      "name": "euforbia",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... euforbium..."
+    },
+    {
+      "name": "ovum",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of chemical mixture"
+      },
+      "page_ref": "108v",
+      "raw_quote": "Recipe ceram nouam... ouum, ana partes equales..."
+    },
+    {
+      "name": "triple circular band with cross",
+      "type": "tool",
+      "attributes": {
+        "function": "ritual circle for spirit conjuration"
+      },
+      "page_ref": "105v",
+      "raw_quote": "a Figure at bottom offol. 105v: a triple circular band, with a cross dividing the interior into four wedges."
+    },
+    {
+      "name": "consecratio circuli (triple)",
+      "type": "ritual",
+      "attributes": {
+        "function": "circle consecration formula"
+      },
+      "page_ref": "105v",
+      "raw_quote": "Hunc circulum facio in nomine Patris omnipotentis dei, qui solo verbo cuncta creauit..."
+    },
+    {
+      "name": "consecratio circuli (filii)",
+      "type": "ritual",
+      "attributes": {
+        "function": "middle circle consecration"
+      },
+      "page_ref": "105v",
+      "raw_quote": "Hunc circulum facio in nomine filij unigeniti dei viui, qui humanum genus proprio sangwine redemit."
+    },
+    {
+      "name": "consecratio circuli (spiritus sancti)",
+      "type": "ritual",
+      "attributes": {
+        "function": "inner circle consecration"
+      },
+      "page_ref": "105v",
+      "raw_quote": "Hunc circulum facio in nomine Spiritus Sancti paracliti, qui corda apostolorum et prophetarum suorum sanctissima gracia illustrauit."
+    },
+    {
+      "name": "onus",
+      "type": "concept",
+      "attributes": {
+        "function": "symbolic word placed at wedge edges"
+      },
+      "page_ref": "105v",
+      "raw_quote": "The word onus appears at the edge of each wedge."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Semiforas",
+      "to": "Aaron",
+      "type": "associated_with"
+    },
+    {
+      "from": "Tuditha",
+      "to": "spirit of horse summoning",
+      "type": "used_in_ritual_for"
+    },
+    {
+      "from": "Oriens",
+      "to": "treasure revelation",
+      "type": "reveals"
+    },
+    {
+      "from": "Sotuem",
+      "to": "treasure ritual",
+      "type": "invoked_in"
+    },
+    {
+      "from": "Haram",
+      "to": "Oriens",
+      "type": "sent_by"
+    },
+    {
+      "from": "conjuratio equi",
+      "to": "kostolya, elogo, yetas",
+      "type": "followed_by"
+    },
+    {
+      "from": "alba columba",
+      "to": "carta agni virginea",
+      "type": "used_with"
+    },
+    {
+      "from": "sanguis columbae",
+      "to": "invisibility ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "lunae limatura",
+      "to": "sal petri, vitrioli, rorani",
+      "type": "mixed_with"
+    },
+    {
+      "from": "mercurius crudus",
+      "to": "aqua luna soluta",
+      "type": "added_to"
+    },
+    {
+      "from": "ceram nouam",
+      "to": "thurus albus, gummi arabicum, oxcroceum...",
+      "type": "mixed_with"
+    }
+  ],
+  "summary": "This chunk contains several magical experiments from the Munich Handbook (CLM 849), including: a spirit conjuration circle with triple bands and Trinitarian inscriptions; a dream-based treasure-divination ritual invoking 'Oriens' and requiring penitential prayers, repeated invocations, and almsgiving; the great name 'Semiforas' used in magical operations; a horse-summoning rite involving Hebrew names written in bat blood and a binding incantation; protective spirit names for averting harm (Layalym et al.); an invisibility ritual using a white dove sacrificed on Saturday night and drawing with its blood; and a chemical recipe involving lunar salts, vitriol, mercury, wax, and various herbs/resins. Page references span 105v–108v.",
+  "key_passages": [
+    "Hunc circulum facio in nomine Patris omnipotentis dei, qui solo verbo cuncta creauit...",
+    "per Sotuem, Sortfen... vt in nocte sequenti veniat ad me in sompnis Haram, spiritus benignus...",
+    "Coniuro te, eque bone, per creatorem celi et terre...",
+    "Nunc igitur sume albam columbam, die Sabbati de nocte, et cartam agni virgineam...",
+    "Item recipe salis petri, vitrioli, rorani,- ana tere, et fac aquam fortem ex eis..."
+  ]
+}

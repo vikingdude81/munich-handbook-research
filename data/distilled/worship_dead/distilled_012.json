@@ -1,0 +1,202 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 12,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Osiris",
+      "type": "spirit",
+      "attributes": {
+        "role": "god of the dead, judge of the dead",
+        "associations": [
+          "Bacchus",
+          "Nimrod",
+          "Phallic god",
+          "Egyptian deity"
+        ],
+        "mythical motif": "shut up in an ark for one year"
+      },
+      "page_ref": "p. 133",
+      "raw_quote": "not only were the bull and lingam his symbols, but he is also identified with Iswara or Osiris by the titles 'Iswara' and 'Mahe shwara,' 'The Great Iswara.'"
+    },
+    {
+      "name": "Siva",
+      "type": "spirit",
+      "attributes": {
+        "role": "Destroyer, later identified with Brahma and Vishnu as part of Trimurti; Phallic god",
+        "associations": [
+          "Iswara",
+          "Rudra",
+          "Agni",
+          "lingam worship"
+        ],
+        "mythical motif": "makes a voyage during the Deluge on the ship Argha"
+      },
+      "page_ref": "p. 133, p. 134",
+      "raw_quote": "Siva is represented as making a voyage during the Deluge on the ship Argha?"
+    },
+    {
+      "name": "Nimrod",
+      "type": "person",
+      "attributes": {
+        "role": "founder of first great empire, first idolater",
+        "associations": [
+          "Osiris",
+          "Ham (grandfather)",
+          "Bacchus"
+        ],
+        "mythical motif": "deified after death; established Sun and Phallic worship"
+      },
+      "page_ref": "p. 133, p. 135",
+      "raw_quote": "But the worship of ancestors seems to have been a part of the idolatry propagated by Nimrod..."
+    },
+    {
+      "name": "Cushite race",
+      "type": "person",
+      "attributes": {
+        "role": "pre-Aryan inhabitants of India, Cushitic/Ethiopian origin",
+        "associations": [
+          "Siva worship",
+          "lingam/yantra symbols",
+          "Cyclopean monuments"
+        ]
+      },
+      "page_ref": "p. 134, p. 135",
+      "raw_quote": "Professor Kawlinson says that 'linguistic research shows that a Cushite or Ethiopian race extended along the shores of the Southern Ocean from Abyssinia to India'"
+    },
+    {
+      "name": "Rama",
+      "type": "spirit",
+      "attributes": {
+        "role": "Sun god, chief of Surya race",
+        "associations": [
+          "Cush",
+          "Sova (Seba?)",
+          "Raamah",
+          "Surya Vamsa"
+        ]
+      },
+      "page_ref": "p. 136",
+      "raw_quote": "Colonel Tod...observes, 'From Rama all the tribes named the Surya Vausa, or race of the Sun, claim descent.'"
+    },
+    {
+      "name": "Cama (Kham/Ham)",
+      "type": "spirit",
+      "attributes": {
+        "role": "god of desire; identified with Osiris and Horus",
+        "associations": [
+          "Reti",
+          "Bacchus",
+          "Osiris"
+        ]
+      },
+      "page_ref": "p. 139, p. 140",
+      "raw_quote": "Cama was originally Kham or Ham, but, as in other cases, was ultimately identified with his grandson Nimrod."
+    },
+    {
+      "name": "Yama",
+      "type": "spirit",
+      "attributes": {
+        "role": "judge of the dead, king of Hades",
+        "associations": [
+          "Osiris",
+          "Pluto",
+          "Dis"
+        ]
+      },
+      "page_ref": "p. 139",
+      "raw_quote": "The Indian 'Yama' seems to be another form of Osiris. Like the latter, he is the judge of the dead..."
+    },
+    {
+      "name": "Gama",
+      "type": "spirit",
+      "attributes": {
+        "role": "god of desire; son of Luksmi (Venus)",
+        "associations": [
+          "Cupid",
+          "Sambara",
+          "Rett"
+        ]
+      },
+      "page_ref": "p. 138, p. 139",
+      "raw_quote": "'Gama deva' is a youth like Cupid...with his arrows creates desire..."
+    },
+    {
+      "name": "Suttees",
+      "type": "ritual",
+      "attributes": {
+        "role": "widows who self-immolate on husband’s funeral pyre",
+        "associations": [
+          "purification by fire",
+          "funerary rites"
+        ]
+      },
+      "page_ref": "p. 137",
+      "raw_quote": "The Suttees, who devoted themselves on the funeral pyres of their husbands, were considered to become pure by burning"
+    },
+    {
+      "name": "Buddha (Sakya Muni)",
+      "type": "spirit",
+      "attributes": {
+        "role": "enlightened one; mortal avatar of supreme Buddha",
+        "associations": [
+          "seven mortal Buddhas",
+          "Nirvana",
+          "asceticism"
+        ]
+      },
+      "page_ref": "p. 141, p. 142",
+      "raw_quote": "Sakya Muni...is represented to have become 'Buddha,' or 'enlightened,' i.e., he had attained to the wisdom of God..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Nimrod",
+      "to": "Osiris",
+      "type": "identification"
+    },
+    {
+      "from": "Siva",
+      "to": "Rudra",
+      "type": "identification"
+    },
+    {
+      "from": "Yama",
+      "to": "Osiris",
+      "type": "identification"
+    },
+    {
+      "from": "Cama",
+      "to": "Osiris",
+      "type": "identification"
+    },
+    {
+      "from": "Cushite race",
+      "to": "Siva worship",
+      "type": "originator"
+    },
+    {
+      "from": "Buddha (Sakya Muni)",
+      "to": "seven Buddhas",
+      "type": "incarnation of"
+    },
+    {
+      "from": "Osiris",
+      "to": "Isis",
+      "type": "spouse"
+    },
+    {
+      "from": "Cama",
+      "to": "Reti",
+      "type": "spouse"
+    }
+  ],
+  "summary": "This chunk traces comparative mythology across Egypt, India, and the Near East, arguing for a Cushite origin of phallic/Sun worship and linking Osiris, Siva, Nimrod, and other deities as overlapping figures. It emphasizes ancestor veneration, funerary rites (e.g., suttee), and the identification of Indian Yama with Osiris, as well as early Buddhist cosmology involving multiple Buddhas.",
+  "key_passages": [
+    "But the worship of ancestors seems to have been a part of the idolatry propagated by Nimrod, for we are told that Osiris built a temple in Egypt to his grandfather Ham...",
+    "Siva...is represented as making a voyage during the Deluge on the ship Argha?",
+    "The Indian 'Yama' seems to be another form of Osiris. Like the latter, he is the judge of the dead, and weighs their good actions against their bad actions...",
+    "Cama was originally Kham or Ham...and his wife was 'Rhytia,' who are manifestly the same as Cama and Reti.",
+    "'The Suttees, who devoted themselves on the funeral pyres of their husbands, were considered to become pure by burning'"
+  ]
+}

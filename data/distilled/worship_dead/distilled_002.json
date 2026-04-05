@@ -1,0 +1,241 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 2,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Osiris",
+      "type": "spirit",
+      "attributes": {
+        "title": "Asar",
+        "role": "god associated with death and resurrection"
+      },
+      "page_ref": "p. xxiv (CONTENTS)",
+      "raw_quote": "\"Asar,\" a title of Osiris"
+    },
+    {
+      "name": "Semiramis",
+      "type": "spirit",
+      "attributes": {
+        "title": "the Branch-bearer",
+        "role": "goddess figure"
+      },
+      "page_ref": "p. xxiv (CONTENTS)",
+      "raw_quote": "\"Semiramis,\" \"the Branch-bearer\""
+    },
+    {
+      "name": "Zerbanit",
+      "type": "spirit",
+      "attributes": {
+        "title": "Mother of the Seed"
+      },
+      "page_ref": "p. xxiv (CONTENTS)",
+      "raw_quote": "\"Zerbanit,\" \"Mother of the Seed\""
+    },
+    {
+      "name": "Nin",
+      "type": "spirit",
+      "attributes": {
+        "title": "El bar, or the Son"
+      },
+      "page_ref": "p. xxiv (CONTENTS)",
+      "raw_quote": "Nin, El bar, or \"the Son\""
+    },
+    {
+      "name": "Zoroaster",
+      "type": "person",
+      "attributes": {
+        "alt_names": [
+          "Zoro",
+          "Zar",
+          "Zero"
+        ]
+      },
+      "page_ref": "p. xxiv (CONTENTS)",
+      "raw_quote": "Zoroaster, \"the Seed of the Woman\""
+    },
+    {
+      "name": "The Ark",
+      "type": "ritual",
+      "attributes": {
+        "symbolism": "symbol of Christ; later symbol of goddess"
+      },
+      "page_ref": "p. xxiv (CONTENTS)",
+      "raw_quote": "The Ark a symbol of Christ—Events of the Deluge incorporated with the revived Idolatry—The Ark became the symbol of the goddess"
+    },
+    {
+      "name": "Deluge",
+      "type": "ritual",
+      "attributes": {
+        "symbolism": "type of regeneration; basis for baptism"
+      },
+      "page_ref": "p. xxiv (CONTENTS)",
+      "raw_quote": "The Deluge the type of regeneration—Baptism of the Lesser Mysteries"
+    },
+    {
+      "name": "Greater Mysteries",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "revelation of the god; preparation via fasting and confession"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "Description of Greater Mysteries—Their object the revelation of the god"
+    },
+    {
+      "name": "Apporeta",
+      "type": "ritual",
+      "attributes": {
+        "description": "the dread secret"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "The dread secret or \"Apporeta\"—Revelation of the god as the Serpent"
+    },
+    {
+      "name": "daimonia",
+      "type": "spirit",
+      "attributes": {
+        "role": "inhabit idols; worshipped as spirits of the dead"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "The worship of the dead a stepping-stone to worship of daimonia"
+    },
+    {
+      "name": "human sacrifices",
+      "type": "ritual",
+      "attributes": {
+        "method": "by fire or by cross; offered for sins"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "Human sacrifices to the Pagan god by the Cross or by fire, both being symbols or manifestations of the god"
+    },
+    {
+      "name": "Round Cake",
+      "type": "ritual",
+      "attributes": {
+        "symbolism": "symbol of Sun god; offered for sins"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "The Round Cake, the symbol of the Sun god, offered for the sins of the people"
+    },
+    {
+      "name": "Purgatory",
+      "type": "ritual",
+      "attributes": {
+        "function": "linked to sacrifices for the dead"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "Sacrifices for the dead — Peuance — The Mysteries"
+    },
+    {
+      "name": "Mysteries",
+      "type": "ritual",
+      "attributes": {
+        "preparation": "fasting and confession"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "Initiates prepared by fasting and confession"
+    },
+    {
+      "name": "Serpent",
+      "type": "spirit",
+      "attributes": {
+        "role": "form of revelation in Apporeta; identification with Sun god"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "Revelation of the god as the Serpent"
+    },
+    {
+      "name": "Sun god",
+      "type": "spirit",
+      "attributes": {
+        "identified_with": "Serpent; Prince of Evil"
+      },
+      "page_ref": "p. 26 (CONTENTS)",
+      "raw_quote": "The Sun as God... The dead king... regarded as Son of God and therefore as the Sun—Goddess regarded as the Earth and Moon"
+    },
+    {
+      "name": "Osiris",
+      "type": "spirit",
+      "attributes": {
+        "title": "Asar"
+      },
+      "page_ref": "p. xxiv (CONTENTS)",
+      "raw_quote": "\"Asar,\" a title of Osiris"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Osiris",
+      "to": "Asar",
+      "type": "synonym"
+    },
+    {
+      "from": "Semiramis",
+      "to": "Zerbanit",
+      "type": "paired_deity"
+    },
+    {
+      "from": "Nin",
+      "to": "Cushites",
+      "type": "son_of"
+    },
+    {
+      "from": "Deluge",
+      "to": "Baptism",
+      "type": "types"
+    },
+    {
+      "from": "Greater Mysteries",
+      "to": "Apporeta",
+      "type": "contains"
+    },
+    {
+      "from": "daimonia",
+      "to": "idols",
+      "type": "inhabits"
+    },
+    {
+      "from": "human sacrifices",
+      "to": "Cross",
+      "type": "method"
+    },
+    {
+      "from": "human sacrifices",
+      "to": "fire",
+      "type": "method"
+    },
+    {
+      "from": "Round Cake",
+      "to": "Sun god",
+      "type": "symbol_of"
+    },
+    {
+      "from": "Purgatory",
+      "to": "sacrifices for the dead",
+      "type": "linked_to"
+    },
+    {
+      "from": "Mysteries",
+      "to": "fasting",
+      "type": "requires"
+    },
+    {
+      "from": "Sun god",
+      "to": "Serpent",
+      "type": "identifies_with"
+    },
+    {
+      "from": "dead king",
+      "to": "Sun god",
+      "type": "identified_as"
+    }
+  ],
+  "summary": "This chunk presents a theological-historical argument linking ancient pagan religious systems—including Egyptian, Babylonian, and other Near Eastern traditions—to a corrupted form of primal monotheism. It emphasizes the worship of the dead as a stepping-stone to spirit worship (daimonia), describes ritual practices such as the Greater Mysteries, human sacrifice, and offerings for the dead (including Purgatory), and identifies Osiris/Asar, Semiramis, Zerbanit, and the Sun god (often identified with the Serpent) as central deities. The text frames these traditions as part of a deliberate post-Flood restoration of idolatry that perverts original patriarchal faith.",
+  "key_passages": [
+    "\"The worship of the dead a stepping-stone to worship of daimonia—Influence of priesthood through their magical powers\"",
+    "\"Idols the habitation of the daimonia — Testimony of Spiritualists and Buddhists — Haunted houses, etc.\"",
+    "\"Human sacrifices to the Pagan god by the Cross or by fire, both being symbols or manifestations of the god\"",
+    "\"The Round Cake, the symbol of the Sun god, offered for the sins of the people Purgatory — Sacrifices for the dead — Peuance\"",
+    "\"Initiates prepared by fasting and confession—Description of Greater Mysteries—Their object the revelation of the god—The dread secret or \"Apporeta\"—Revelation of the god as the Serpent\""
+  ]
+}

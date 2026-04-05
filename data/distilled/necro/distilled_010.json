@@ -1,0 +1,511 @@
+{
+  "source_id": "necro",
+  "chunk_id": 10,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Tubal",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on image to afflict target",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "…the name of her whom you wish, and draw the image of a naked woman as best you can, saying, ‘I draw so-and-so, N., daughter of so-and-so, whom I wish to have, in the name of these six hot spirits, namely Tubal, Satan, Reuces, Cupido, Afalion, Duliatus…’"
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on image to afflict target",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "Then write on her right arm ‘Satan’, and on her left arm ‘Reuces’…"
+    },
+    {
+      "name": "Reuces",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on image to afflict target",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "Then write on her right arm ‘Satan’, and on her left arm ‘Reuces’…"
+    },
+    {
+      "name": "Cupido",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on image to arouse sexual desire",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "When you have done this, write on the genitals of the image the name ‘Cupid’, saying, ‘As you, Cupid, are on the genitals of this image…’"
+    },
+    {
+      "name": "Afalion",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on image to afflict legs",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "When you have said this, write on the right leg ‘Afalion’, and on the left leg ‘Duliatus’…"
+    },
+    {
+      "name": "Duliatus",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on image to afflict legs",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "When you have said this, write on the right leg ‘Afalion’, and on the left leg ‘Duliatus’…"
+    },
+    {
+      "name": "Sobedon",
+      "type": "spirit",
+      "attributes": {
+        "role": "lord to whom demons are bound in obedience",
+        "context": "conjuration"
+      },
+      "raw_quote": "I conjure all you demons inscribed on this image, by your lords to whom you are bound in obedience — Sobedon, Badalam and Berith — that you should inflame so-and-so…"
+    },
+    {
+      "name": "Badalam",
+      "type": "spirit",
+      "attributes": {
+        "role": "lord to whom demons are bound in obedience",
+        "context": "conjuration"
+      },
+      "raw_quote": "I conjure all you demons inscribed on this image, by your lords to whom you are bound in obedience — Sobedon, Badalam and Berith — that you should inflame so-and-so…"
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "role": "lord to whom demons are bound in obedience",
+        "context": "conjuration"
+      },
+      "raw_quote": "I conjure all you demons inscribed on this image, by your lords to whom you are bound in obedience — Sobedon, Badalam and Berith — that you should inflame so-and-so…"
+    },
+    {
+      "name": "Rator",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Lampoy",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Despan",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Brunlo",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Dronoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Maloqui",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Satola",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Gelbid",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Mascifm",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Nartim",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Lodoni",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named in circle of names",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni."
+    },
+    {
+      "name": "Zagam",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon invoked in Liber de angelis love ritual",
+        "context": "love magic"
+      },
+      "raw_quote": "...invoking a spirit of dubious character named Zagam (‘O Zagam, accept this dove which I sacrifice to you!’)."
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the south invoked in conjuration",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "...especially those four spirits who hold dominion and power over those spirits in the four parts of the globe, to wit, Astaroth, Aroch, Godras, [and] Vynicon."
+    },
+    {
+      "name": "Aroch",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four spirits governing quadrants",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "...especially those four spirits who hold dominion and power over those spirits in the four parts of the globe, to wit, Astaroth, Aroch, Godras, [and] Vynicon."
+    },
+    {
+      "name": "Godras",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four spirits governing quadrants",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "...especially those four spirits who hold dominion and power over those spirits in the four parts of the globe, to wit, Astaroth, Aroch, Godras, [and] Vynicon."
+    },
+    {
+      "name": "Vynicon",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four spirits governing quadrants",
+        "context": "love magic ritual"
+      },
+      "raw_quote": "...especially those four spirits who hold dominion and power over those spirits in the four parts of the globe, to wit, Astaroth, Aroch, Godras, [and] Vynicon."
+    },
+    {
+      "name": "CLM 849",
+      "type": "ritual",
+      "attributes": {
+        "title": "Munich Handbook of Necromancy",
+        "context": "source manuscript"
+      },
+      "raw_quote": "Our necromantic manual in Clm 849 includes four experiments said to induce love..."
+    },
+    {
+      "name": "Liber de angelis",
+      "type": "ritual",
+      "attributes": {
+        "title": "Book of Angels",
+        "context": "source text for comparative erotic magic"
+      },
+      "raw_quote": "An experiment for love in the Liber de angelis requires going to a crossroads or a gallows..."
+    },
+    {
+      "name": "amor hereos",
+      "type": "concept",
+      "attributes": {
+        "definition": "burning, insatiable love",
+        "context": "medieval erotic magic"
+      },
+      "raw_quote": "...a Netherlandish compilation gives detailed instructions for ‘the best and surest experiment in the world to secure friendship or love between a man and a woman’, and says that in Latin such love is called ‘amor hereos’, and is burning and insindissoluble."
+    },
+    {
+      "name": "white dove",
+      "type": "ingredient",
+      "attributes": {
+        "role": "sacrificial animal for love magic",
+        "context": "love ritual"
+      },
+      "raw_quote": "first you must have a totally white dove and a parchment made from a female dog that is in heat..."
+    },
+    {
+      "name": "female dog in heat",
+      "type": "ingredient",
+      "attributes": {
+        "role": "source of parchment for love magic",
+        "context": "love ritual"
+      },
+      "raw_quote": "...a parchment made from a female dog that is in heat, from whom it is most easily to be had..."
+    },
+    {
+      "name": "eagle quill",
+      "type": "tool",
+      "attributes": {
+        "role": "writing implement for inscribing demon names",
+        "context": "love ritual"
+      },
+      "raw_quote": "You should also have a quill from an eagle."
+    },
+    {
+      "name": "myrrh",
+      "type": "ingredient",
+      "attributes": {
+        "role": "fumigant in love magic ritual",
+        "context": "love ritual"
+      },
+      "raw_quote": "When you have said this, take myrrh and saffron, kindle a fire, and fumigate the image..."
+    },
+    {
+      "name": "saffron",
+      "type": "ingredient",
+      "attributes": {
+        "role": "fumigant in love magic ritual",
+        "context": "love ritual"
+      },
+      "raw_quote": "When you have said this, take myrrh and saffron, kindle a fire, and fumigate the image..."
+    },
+    {
+      "name": "horsehair",
+      "type": "tool",
+      "attributes": {
+        "role": "suspension cord for image",
+        "context": "love ritual"
+      },
+      "raw_quote": "When you have said this conjuration three times... take a hair from the tail of a horse and suspend the parchment with this hair..."
+    },
+    {
+      "name": "iron stylus",
+      "type": "tool",
+      "attributes": {
+        "role": "used to trace circle",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "Take an iron stylus and trace [a band with names in it] round the circle..."
+    },
+    {
+      "name": "sword",
+      "type": "tool",
+      "attributes": {
+        "role": "used to draw protective circle",
+        "context": "love summoning ritual"
+      },
+      "raw_quote": "Take a sword and make with it a circle on the ground."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Tubal",
+      "to": "image of woman",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Satan",
+      "to": "image of woman",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Reuces",
+      "to": "image of woman",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Cupido",
+      "to": "image of woman",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Afalion",
+      "to": "image of woman",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Duliatus",
+      "to": "image of woman",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Sobedon",
+      "to": "demons inscribed on image",
+      "type": "binds_obligates"
+    },
+    {
+      "from": "Badalam",
+      "to": "demons inscribed on image",
+      "type": "binds_obligates"
+    },
+    {
+      "from": "Berith",
+      "to": "demons inscribed on image",
+      "type": "binds_obligates"
+    },
+    {
+      "from": "Rator",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Lampoy",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Despan",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Brunlo",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Dronoth",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Maloqui",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Satola",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Gelbid",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Mascifm",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Nartim",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Lodoni",
+      "to": "circle of names",
+      "type": "member_of"
+    },
+    {
+      "from": "Zagam",
+      "to": "Liber de angelis",
+      "type": "mentioned_in"
+    },
+    {
+      "from": "Astaroth",
+      "to": "quadrant spirits",
+      "type": "member_of"
+    },
+    {
+      "from": "Aroch",
+      "to": "quadrant spirits",
+      "type": "member_of"
+    },
+    {
+      "from": "Godras",
+      "to": "quadrant spirits",
+      "type": "member_of"
+    },
+    {
+      "from": "Vynicon",
+      "to": "quadrant spirits",
+      "type": "member_of"
+    },
+    {
+      "from": "CLM 849",
+      "to": "love magic ritual (no. 3)",
+      "type": "contains"
+    },
+    {
+      "from": "white dove",
+      "to": "love magic ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "female dog in heat",
+      "to": "love magic ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "eagle quill",
+      "to": "love magic ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "myrrh",
+      "to": "love magic ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "saffron",
+      "to": "love magic ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "horsehair",
+      "to": "love magic ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "iron stylus",
+      "to": "circle summoning ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "sword",
+      "to": "circle summoning ritual",
+      "type": "used_in"
+    }
+  ],
+  "summary": "This chunk details a complex love magic ritual from the Munich Handbook (CLM 849), involving inscribing demon names on an image of the target woman made from parchment of a female dog in heat, using dove blood and eagle quill. It includes fumigation with myrrh and saffron, suspension of the image, and a final summoning circle containing eleven spirit names (e.g., Rator, Lampoy) to compel the woman’s presence via six angelic-appearing spirits. The ritual is framed as non-dangerous and highly effective, even attributed to Solomon.",
+  "key_passages": [
+    "‘I draw so-and-so, N., daughter of so-and-so, whom I wish to have, in the name of these six hot spirits, namely Tubal, Satan, Reuces, Cupido, Afalion, Duliatus, that she may love me above all others living in this world.’",
+    "‘As you, Satan, and you, Reuces, are inscribed on this image made in the name of so-and-so, may you so afflict her arms without delay, so that she can do nothing but desire to embrace me.’",
+    "I conjure all you demons inscribed on this image, by your lords to whom you are bound in obedience — Sobedon, Badalam and Berith — that you should inflame so-and-so…",
+    "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni. The centre of the circle is labelled ‘Place of the Master’.",
+    "When she enters the circle and you greet her, remember to touch her with the image that you have around your neck, and on this account she will love you for all eternity and will not care to see anyone but you."
+  ]
+}

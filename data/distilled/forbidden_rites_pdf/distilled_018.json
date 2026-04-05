@@ -1,0 +1,166 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 18,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit conjured",
+        "function": "bearer of hidden treasures, knowledge, invisibility, consecration power"
+      },
+      "page_ref": "172",
+      "raw_quote": "The conjuration of Mirage, from the supplementary material in the codex..."
+    },
+    {
+      "name": "Devil / Satan / Enemy",
+      "type": "spirit",
+      "attributes": {
+        "role": "primary adversarial entity",
+        "epithets": [
+          "most wicked dragon",
+          "accursed and most mendacious spirit",
+          "author of diabolical power",
+          "inventor of evils"
+        ]
+      },
+      "page_ref": "172–173",
+      "raw_quote": "'most wicked dragon', 'accursed and most mendacious spirit' and 'author of diabolical power, inventor of evils'"
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual",
+      "attributes": {
+        "context": "source of necromantic material",
+        "content": "conjurations, circle construction, spirit binding"
+      },
+      "page_ref": "172",
+      "raw_quote": "The conjuration of Mirage, from the supplementary material in the codex..."
+    },
+    {
+      "name": "Adolf Franz exorcism formula",
+      "type": "ritual",
+      "attributes": {
+        "origin": "West Frankish manuscript, 9th c.",
+        "structure": "triple invocation by God, angels, sacred symbols",
+        "function": "expulsion of demons"
+      },
+      "page_ref": "173–174",
+      "raw_quote": "Adolf Franz published a lengthy formula of exorcism taken from a West Frankish manuscript of the ninth century..."
+    },
+    {
+      "name": "The Conjuration of Malign Spirits Dwelling in the Bodies of People",
+      "type": "ritual",
+      "attributes": {
+        "origin": "late 15th-c. printed manual",
+        "function": "exorcism of demons from possessed individuals"
+      },
+      "page_ref": "174–176",
+      "raw_quote": "...a manual for exorcizing the possessed that was printed several times in the late fifteenth century went by the title The Conjuration of Malign Spirits Dwelling in the Bodies of People, as it is Done in Saint Peter."
+    },
+    {
+      "name": "Tant muructa? tiri?",
+      "type": "incantation",
+      "attributes": {
+        "context": "used by Niccolò Consigli (1384 Florence trial)",
+        "note": "diabolical incantation"
+      },
+      "page_ref": "178",
+      "raw_quote": "...intoning a diabolical incantation that began 'Tant muructa? tiri?'"
+    },
+    {
+      "name": "A G L A",
+      "type": "divine name",
+      "attributes": {
+        "usage": "used in exorcism of elves and demons",
+        "source": "medico-magical manuscript (15th c.)"
+      },
+      "page_ref": "176–177",
+      "raw_quote": "...by the name of the Lord God which is blessed forever A G L A..."
+    },
+    {
+      "name": "Chalk diagram / circle",
+      "type": "ritual tool",
+      "attributes": {
+        "function": "protective boundary in exorcism",
+        "context": "used with altar, stoles"
+      },
+      "page_ref": "178–179",
+      "raw_quote": "...laid before an altar after mass, inside a chalk diagram..."
+    },
+    {
+      "name": "Stoles",
+      "type": "ritual tool",
+      "attributes": {
+        "function": "binding agent in exorcism",
+        "context": "used with altar and chalk diagram"
+      },
+      "page_ref": "178–179",
+      "raw_quote": "...three stoles binding his body..."
+    },
+    {
+      "name": "Chasuble",
+      "type": "ritual tool",
+      "attributes": {
+        "function": "garment for energumen in exorcism"
+      },
+      "page_ref": "178–179",
+      "raw_quote": "...dressed in a chasuble and stole..."
+    },
+    {
+      "name": "Ritual bond (vinculum)",
+      "type": "ritual tool",
+      "attributes": {
+        "function": "control of evil spirits via divine names"
+      },
+      "page_ref": "178–179",
+      "raw_quote": "...recites a ritual bond (vinculum) to control the evil spirits by the power of various divine names."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Mirage",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "appears in"
+    },
+    {
+      "from": "Devil / Satan / Enemy",
+      "to": "Adolf Franz exorcism formula",
+      "type": "target of"
+    },
+    {
+      "from": "The Conjuration of Malign Spirits...",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "shares structural similarity with"
+    },
+    {
+      "from": "Tant muructa? tiri?",
+      "to": "Niccolò Consigli",
+      "type": "used by"
+    },
+    {
+      "from": "A G L A",
+      "to": "exorcism of elves and demons",
+      "type": "used in"
+    },
+    {
+      "from": "Chalk diagram / circle",
+      "to": "ritual exorcism practice",
+      "type": "component of"
+    },
+    {
+      "from": "Stoles",
+      "to": "chalk diagram / ritual binding",
+      "type": "used with"
+    }
+  ],
+  "summary": "This chunk analyzes the structural and terminological parallels between official Catholic exorcism rites and necromantic conjurations, especially from the Munich Handbook (CLM 849). It highlights shared elements such as divine invocations, threats of punishment, and commands addressed to spirits. Key examples include the conjuration of Mirage, a demonic spirit who brings treasure and knowledge, and comparisons with later printed exorcism manuals. The text also discusses how necromancers borrowed clerical authority structures while adapting them for personal command over spirits.",
+  "key_passages": [
+    "The conjuration of Mirage... is followed by material that the main block does not take over: a set of instructions for constructing a circle in a secret location, with various prayers, and supplementary conjurations in which Mirage is threatened with intensified pains if he does not present himself: 'If not, I exorcize you that the chains of your punishment may be rife with sulpur and pitch.'",
+    "You, therefore, most evil spirit, enemy of humankind, death’s plunderer [raptor], evader of justice [iustitie declinator], root of evils, font of vices, seducer of humans [deductor hominum] … master of demons … You, therefore, most evil Mirage, enemy of the faith of humankind, inventor [repertor] of death, herald of injustice [iniusticie declarator], root of evils, inciter of vices, seducer of humans [seductor hominis], master of demons …",
+    "The essential elements of this formula are exactly those seen in necromantic conjurations of a much later era... the exorcist insults the spirit with whom he is engaged in struggle, identifies his own action as that of Christ, and calls upon the angels and saints not simply as possessors of power that can be tapped through invocation but as active participants in the contest.",
+    "In comparison, the exorcisms cited above share their basic form (from declaration through instruction) with the necromantic conjurations we have examined, and they all rest on the mainstream theological assumption that the will of the demons can be constrained, with God’s permission and aid, and through the power of the sacred.",
+    "The Munich handbook was thus riding on the crest of a new development: what it represents is a particular version (or, from an orthodox perspective, perversion) of a more general interest in the elaboration and assembly of materials for the commanding of malign spirits."
+  ]
+}

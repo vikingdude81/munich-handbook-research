@@ -1,0 +1,314 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 31,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic entity conjured alongside Satan",
+        "title": "nequissime",
+        "function": "demonstrator of hidden knowledge, agent of will fulfillment"
+      },
+      "page_ref": "59v–62v (No. 32), 109r–111v [A], 139r–140v [B]",
+      "raw_quote": "Adiuro te, Mirage nequissime, inimicus fidei, humani generis mortis repertor, iniusticie declarator, malorum radix, fomes viciorum, seductor hominum, demonum magister..."
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "role": "primary adversarial spirit conjured",
+        "title": "dyabole"
+      },
+      "page_ref": "59v–62v (No. 32)",
+      "raw_quote": "Adiuro te, serpens antique, per iudicem viuorum et mortuorum..."
+    },
+    {
+      "name": "Ihesus Nazarenus",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine authority invoked to compel spirits",
+        "title": "qui te creauit"
+      },
+      "page_ref": "60r, 110v",
+      "raw_quote": "Imperat tibi Iesus Nazarenus, qui te creauit, vt cito impleas omnia que a te petam uel habere voluero uel scire desidero."
+    },
+    {
+      "name": "Agnus inmaculatus",
+      "type": "spiritual_entity",
+      "attributes": {
+        "role": "Christological title used as conjuratory authority"
+      },
+      "page_ref": "60r, 110v, 120r (implied)",
+      "raw_quote": "Per agnum inmaculatum... qui ambulat super aspidem et basiliscum, qui conculcauit leonem et draconem [Ps 90:13]"
+    },
+    {
+      "name": "Alpha et O",
+      "type": "spiritual_formula",
+      "attributes": {
+        "role": "divine name of God used in exorcism and binding"
+      },
+      "page_ref": "314r, 315v, 322r–v",
+      "raw_quote": "per Alpha et O, per Ihesum Christum filium tuum..."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spiritual_formula",
+      "attributes": {
+        "role": "ineffable divine name invoked for power"
+      },
+      "page_ref": "314r, 322v",
+      "raw_quote": "...per sanctum Tetragramaton..."
+    },
+    {
+      "name": "Emanuel",
+      "type": "spiritual_formula",
+      "attributes": {
+        "role": "divine name invoked in binding and conjuration"
+      },
+      "page_ref": "314r, 322v",
+      "raw_quote": "...per Emanuel..."
+    },
+    {
+      "name": "Sigillum Salomonis",
+      "type": "ritual_tool",
+      "attributes": {
+        "role": "seal used in binding spirits"
+      },
+      "page_ref": "61r–v",
+      "raw_quote": "...per omnes caractares, et per sigillum Salominis..."
+    },
+    {
+      "name": "Septem candelabra aurea",
+      "type": "ritual_tool",
+      "attributes": {
+        "role": "celestial symbols invoked in binding Mirage"
+      },
+      "page_ref": "62r",
+      "raw_quote": "...per annulos eius, per septem candelabra aurea ante dominum lucencia..."
+    },
+    {
+      "name": "Micheal",
+      "type": "spirit",
+      "attributes": {
+        "role": "archangel invoked in binding"
+      },
+      "page_ref": "314r, 60r",
+      "raw_quote": "...Michael et Gabriel [et] Raphahel..."
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "archangel invoked in binding"
+      },
+      "page_ref": "314r, 60r",
+      "raw_quote": "...Michael et Gabriel [et] Raphahel..."
+    },
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "role": "archangel invoked in binding"
+      },
+      "page_ref": "314r, 60r",
+      "raw_quote": "...Michael et Gabriel [et] Raphahel..."
+    },
+    {
+      "name": "Abraham",
+      "type": "spirit",
+      "attributes": {
+        "role": "patriarch invoked in binding"
+      },
+      "page_ref": "317v, 60r",
+      "raw_quote": "...tres patriarche Abraham, Ysaac, et Jacob..."
+    },
+    {
+      "name": "Isaac",
+      "type": "spirit",
+      "attributes": {
+        "role": "patriarch invoked in binding"
+      },
+      "page_ref": "317v, 60r",
+      "raw_quote": "...Illum metue qui in Ysaac immolatus est..."
+    },
+    {
+      "name": "Jacob",
+      "type": "spirit",
+      "attributes": {
+        "role": "patriarch invoked in binding"
+      },
+      "page_ref": "317v, 60r",
+      "raw_quote": "...tres patriarche Abraham, Ysaac, et Jacob..."
+    },
+    {
+      "name": "Apostoli Christi",
+      "type": "spirit",
+      "attributes": {
+        "role": "apostles invoked in binding"
+      },
+      "page_ref": "317v, 60r",
+      "raw_quote": "...apostoli Christi, sancti et electi dei..."
+    },
+    {
+      "name": "Sancti et electi dei",
+      "type": "spirit",
+      "attributes": {
+        "role": "saints invoked in binding"
+      },
+      "page_ref": "317v, 60r",
+      "raw_quote": "...omnes sancti et electi dei..."
+    },
+    {
+      "name": "Martyrum sanguis",
+      "type": "ritual_ingredient",
+      "attributes": {
+        "role": "invoked as source of binding power"
+      },
+      "page_ref": "318r",
+      "raw_quote": "Imperat tibi martyrum sangwis."
+    },
+    {
+      "name": "Sacramentum crucis",
+      "type": "ritual_ingredient",
+      "attributes": {
+        "role": "symbolic and spiritual authority invoked"
+      },
+      "page_ref": "318r, 60v",
+      "raw_quote": "Imperat tibi sacramentum crucis."
+    },
+    {
+      "name": "Corpus Christi",
+      "type": "ritual_ingredient",
+      "attributes": {
+        "role": "Eucharistic body invoked for binding power"
+      },
+      "page_ref": "62r, 319v",
+      "raw_quote": "...per corpus domini nostri Ihesu Christi."
+    },
+    {
+      "name": "Hostia sancta / inmaculata / conscripta / benedicta",
+      "type": "ritual_ingredient",
+      "attributes": {
+        "role": "various forms of Eucharistic offering invoked"
+      },
+      "page_ref": "62r–v",
+      "raw_quote": "...per hostiam sacram, per hostiam inmaculatam, per hostiam conscriptam et benedictam atque deo placentem..."
+    },
+    {
+      "name": "Nomen dei ineffabile",
+      "type": "spiritual_formula",
+      "attributes": {
+        "role": "ineffable name invoked for binding"
+      },
+      "page_ref": "322v",
+      "raw_quote": "...per nomen dei ineffabile..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Ihesus Nazarenus",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Agnus inmaculatus",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Alpha et O",
+      "to": "Mirage",
+      "type": "binds"
+    },
+    {
+      "from": "Tetragramaton",
+      "to": "Mirage",
+      "type": "binds"
+    },
+    {
+      "from": "Emanuel",
+      "to": "Mirage",
+      "type": "binds"
+    },
+    {
+      "from": "Sigillum Salomonis",
+      "to": "spirits",
+      "type": "binds"
+    },
+    {
+      "from": "Septem candelabra aurea",
+      "to": "Mirage",
+      "type": "binds"
+    },
+    {
+      "from": "Micheal",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Gabriel",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Raphael",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Abraham",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Isaac",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Jacob",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Apostoli Christi",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Sancti et electi dei",
+      "to": "Satan",
+      "type": "binds"
+    },
+    {
+      "from": "Martyrum sanguis",
+      "to": "spirits",
+      "type": "binds"
+    },
+    {
+      "from": "Sacramentum crucis",
+      "to": "spirits",
+      "type": "binds"
+    },
+    {
+      "from": "Corpus Christi",
+      "to": "spirits",
+      "type": "binds"
+    },
+    {
+      "from": "Hostia sancta",
+      "to": "spirits",
+      "type": "binds"
+    }
+  ],
+  "summary": "This chunk contains detailed conjuration formulas for binding and compelling spirits—specifically Satan and a spirit named Mirage—from the Munich Handbook (CLM 849), as analyzed in Kieckhefer’s *Forbidden Rites*. The texts are exorcistic, Trinitarian, and draw heavily on biblical allusions, Eucharistic imagery, and Solomonine magical tradition. Multiple divine names (Alpha et O, Tetragramaton, Emanuel) and ritual tools (Solomon’s seal, seven golden candlesticks) are invoked to compel obedience without harm to the conjurer.",
+  "key_passages": [
+    "Adiuro te, Mirage nequissime, inimicus fidei, humani generis mortis repertor, iniusticie declarator, malorum radix, fomes viciorum, seductor hominum, demonum magister...",
+    "Per agnum inmaculatum... qui ambulat super aspidem et basiliscum, qui conculcauit leonem et draconem [Ps 90:13 Vulg.], vt facias cito quidquid impero tibi et precipio.",
+    "per Alpha et O, per Emanuel, per nomen dei ineffabile, per sanctum Tetragramaton...",
+    "Exorcizo te, maledicte et mendacissime spiritus, • per verba veritatis, • per omnipotentem, • per Ihesum Christim Nazarenum, agnum immaculatum, de altissimo progressu[m], de Spiritu Sancto conceptum, ex Maria virgine natum...",
+    "Coniuro te et precipio tibi, N., • per hostiam sacram, • per hostiam inmaculatam, • per hostiam conscriptam et benedictam atque deo placentem."
+  ]
+}

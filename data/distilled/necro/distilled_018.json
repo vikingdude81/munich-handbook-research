@@ -1,0 +1,133 @@
+{
+  "source_id": "necro",
+  "chunk_id": 18,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "spirit conjured for knowledge, invisibility, treasure, and consecration",
+        "alternate_names": [
+          "ancient serpent"
+        ]
+      },
+      "page_ref": "Munich Handbook (CLM 849), experiment no. 32 and appended material",
+      "raw_quote": "the demon (or ‘ancient serpent’) named Mirage"
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "Devil",
+        "function": "subject of conjuration in longer bond formula"
+      },
+      "page_ref": "Munich Handbook, version of conjuration no. 32",
+      "raw_quote": "the Devil, or Satan, ‘most wicked enemy of the faith, death of the human race, tempter of righteousness, lover of evils, root and kindling of vices, seducer of humans, and master’, ‘most wicked dragon’, ‘accursed and most mendacious spirit’ and ‘author of diabolical power, inventor of evils’"
+    },
+    {
+      "name": "Circle construction",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "to conjure Mirage in secret location",
+        "elements": [
+          "prayers",
+          "intensified threats"
+        ]
+      },
+      "page_ref": "appended material to Munich Handbook (CLM 849)",
+      "raw_quote": "a set of instructions for constructing a circle in a secret location, with various prayers, and supplementary conjurations in which Mirage is threatened with intensified pains if he does not present himself"
+    },
+    {
+      "name": "Adolf Franz exorcism formula",
+      "type": "ritual",
+      "attributes": {
+        "origin": "West Frankish manuscript of the ninth century",
+        "structure": "conjuration by God, angels, creation, sacred symbols"
+      },
+      "page_ref": "published by Adolf Franz",
+      "raw_quote": "... 1 conjure you, Devil, Satan, Enemy, • by God the Father almighty; • and by those virtues which the Lord himself made and makes; ..."
+    },
+    {
+      "name": "The Conjuration of Malign Spirits Dwell. in Bodies of People",
+      "type": "ritual",
+      "attributes": {
+        "date": "late 15th century printed manual",
+        "form": "exorcism formula used for expelling demons from possessed persons"
+      },
+      "page_ref": "printed several times late 15th c.",
+      "raw_quote": "The simplest form of exorcism used here is simply, ‘I exorcize you, unclean spirit, in the name of God the Father almighty & and in the name of Jesus Christ his Son and by the power of the Holy Spirit & that you should recede from this servant of God, N.’"
+    },
+    {
+      "name": "Exorcism of elves and demons (15th-c. medico-magical ms)",
+      "type": "ritual",
+      "attributes": {
+        "manuscript type": "medico-magical",
+        "date": "15th century"
+      },
+      "page_ref": "same manuscript as above (unspecified shelfmark)",
+      "raw_quote": "In the name of the Father, and of the Son, and of the Holy Spirit, amen. I conjure you, elves and all kinds of demons, of the night or of the day, by the Father, and the Son, and the Holy Spirit..."
+    },
+    {
+      "name": "Exorcism of malignant spirits (same ms)",
+      "type": "ritual",
+      "attributes": {
+        "structure": "adjuration by blood of Christ, wounds, death, cross"
+      },
+      "page_ref": "same manuscript as above",
+      "raw_quote": "Again I conjure you demons or malignant spirits, whoever you are, by the sprinkling of the blood of Jesus Christ on the cross, and by his bloody wounds."
+    },
+    {
+      "name": "Niccolo Consigli",
+      "type": "person",
+      "attributes": {
+        "trial date": "1384",
+        "location": "Florence",
+        "accusation": "summoning demons and exorcizing the possessed"
+      },
+      "page_ref": "historical reference in analysis",
+      "raw_quote": "When Niccolo Consigli was tried at Florence in 1384, for example, he was accused not only of summoning demons to work harm but also of exorcizing the possessed and thus usurping clerical prerogatives."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Mirage",
+      "to": "circle construction",
+      "type": "ritual_target"
+    },
+    {
+      "from": "Satan",
+      "to": "conjuration no. 32",
+      "type": "ritual_subject"
+    },
+    {
+      "from": "Adolf Franz exorcism formula",
+      "to": "Munich Handbook conjurations",
+      "type": "structural_influence"
+    },
+    {
+      "from": "The Conjuration of Malign Spirits...",
+      "to": "Munich Handbook conjurations",
+      "type": "parallel_formulary"
+    },
+    {
+      "from": "exorcism of elves and demons",
+      "to": "necromantic conjurations",
+      "type": "formal_similar"
+    },
+    {
+      "from": "Niccolo Consigli",
+      "to": "exorcism practice",
+      "type": "historical_case_study"
+    }
+  ],
+  "summary": "This chunk analyzes the structure and content of necromantic conjurations in the Munich Handbook (CLM 849), especially focusing on the conjuration of Mirage and Satan. It compares these to mainstream exorcism traditions, highlighting formal parallels between official exorcisms and forbidden necromantic rituals. The text shows how both genres use divine authority, sacred names, and threats to compel spirits.",
+  "key_passages": [
+    "The conjuration begins anomalously with a statement regarding the powers being brought to bear against the Devil (‘may the angels and archangels accuse you ... may the elect of God accuse you’), followed by a prayer for divine aid...",
+    "[Come] to me in this hour, without any harm or injury or affliction to my soul or my body, or send another [spirit] or have him come, who will know perfectly how to fulfil my every desire, and will not withdraw from me until I have given him leave and he has fully satisfied my will.",
+    "The Word made flesh commands you, He who was born of the virgin commands you, Jesus of Nazareth commands you, He who created you commands you to carry out quickly what I ask or wish to have from you or desire to know...",
+    "It is not I who command you, nor my sins, O most unclean spirit, but the immaculate lamb, Jesus Christ Our Lord, the Son of God, commands you.",
+    "The angels press upon [urguent] you, the archangels press upon you, the prophets press upon you, the apostles press upon you, the martyrs press upon you, the confessors press upon you."
+  ]
+}

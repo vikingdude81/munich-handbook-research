@@ -1,0 +1,313 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 25,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Oymelor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "Oymelor, Demefin, Lamair, Masair, Simofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama, spiritus iocundissimi..."
+    },
+    {
+      "name": "Demefin",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Oymelor, Demefin, Lamair, Masair..."
+    },
+    {
+      "name": "Lamair",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Oymelor, Demefin, Lamair, Masair..."
+    },
+    {
+      "name": "Masair",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Oymelor, Demefin, Lamair, Masair..."
+    },
+    {
+      "name": "Simofor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Oymelor, Demefin, Lamair, Masair, Simofor..."
+    },
+    {
+      "name": "Rodobayl",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Rodobayl, Tentetos, Lotobor..."
+    },
+    {
+      "name": "Tentetos",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Rodobayl, Tentetos, Lotobor..."
+    },
+    {
+      "name": "Lotobor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Rodobayl, Tentetos, Lotobor..."
+    },
+    {
+      "name": "Memoyr",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Memoyr, Tamafin..."
+    },
+    {
+      "name": "Tamafin",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Memoyr, Tamafin..."
+    },
+    {
+      "name": "Leutaber",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Tamafin, Leutaber..."
+    },
+    {
+      "name": "Tatomofon",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Leutaber, Tatomofon..."
+    },
+    {
+      "name": "Faubair",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Tatomofon, Faubair..."
+    },
+    {
+      "name": "Selutabel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Faubair, Selutabel..."
+    },
+    {
+      "name": "Rimasor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Selutabel, Rimasor..."
+    },
+    {
+      "name": "Syrama",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of sixteen spirits invoked for banquet ritual"
+      },
+      "page_ref": "p. 248–250",
+      "raw_quote": "...Rimasor, Syrama..."
+    },
+    {
+      "name": "Vsyr",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "O Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy..."
+    },
+    {
+      "name": "Salaul",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual; appears as personal agent in anecdote"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "‘Ego sum vnus de vocatis spiritibus, ab aliis ad te missus, qui nominor Salaul...’"
+    },
+    {
+      "name": "Silitor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Vsyr, Salaul, Silitor..."
+    },
+    {
+      "name": "Demor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Silitor, Demor..."
+    },
+    {
+      "name": "Zanno",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Demor, Zanno..."
+    },
+    {
+      "name": "Syrtroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Zanno, Syrtroy..."
+    },
+    {
+      "name": "Risbel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Syrtroy, Risbel..."
+    },
+    {
+      "name": "Cutroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Risbel, Cutroy..."
+    },
+    {
+      "name": "Lytay",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Cutroy, Lytay..."
+    },
+    {
+      "name": "Onor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Lytay, Onor..."
+    },
+    {
+      "name": "Moloy",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Onor, Moloy..."
+    },
+    {
+      "name": "Pumotor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Moloy, Pumotor..."
+    },
+    {
+      "name": "Tami",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Pumotor, Tami..."
+    },
+    {
+      "name": "Oor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Tami, Oor..."
+    },
+    {
+      "name": "Ym",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen spirits invoked for castle ritual"
+      },
+      "page_ref": "p. 252–254",
+      "raw_quote": "...Oor, et Ym, spiritus armigeri..."
+    },
+    {
+      "name": "Fyrin",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of eight spirits invoked for boat ritual"
+      },
+      "page_ref": "p. 256–257",
+      "raw_quote": "Fyrin (quodd sic dicas: O Fyrin), Dyspil, Onoroy, Sysabel..."
+    },
+    {
+      "name": "Dyspil",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of eight spirits invoked for boat ritual"
+      },
+      "page_ref": "p. 256–257",
+      "raw_quote": "...Fyrin, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Onoroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of eight spirits invoked for boat ritual"
+      },
+      "page_ref": "p. 256–257",
+      "raw_quote": "...Dyspil, Onoroy..."
+    }
+  ]
+}

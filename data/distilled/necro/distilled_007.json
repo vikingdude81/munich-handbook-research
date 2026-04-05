@@ -1,0 +1,827 @@
+{
+  "source_id": "necro",
+  "chunk_id": 7,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Lautrayth (also Lantrayth)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "attends upon sinners; conjures horse for riding"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "O Lautrayth, Feremin, [and] Oliroomim, spirits who attend upon sinners..."
+    },
+    {
+      "name": "Feremin (also Feremni/Feremim)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "attends upon sinners; conjures horse for riding"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...Lautrayth, Feremin, [and] Oliroomim, spirits who attend upon sinners..."
+    },
+    {
+      "name": "Oliroomim (also Oliromim)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "attends upon sinners; conjures horse for riding"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...Lautrayth, Feremin, [and] Oliroomim, spirits who attend upon sinners..."
+    },
+    {
+      "name": "Firiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "powerful spirit",
+        "function": "one of four spirits invoked for invisibility cloak"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...conjure you, O Fyriel, Mememil, Berith, [and] Taraor, powerful, magnificent, illustrious spirits..."
+    },
+    {
+      "name": "Mememil (Melemil)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "powerful spirit",
+        "function": "one of four spirits invoked for invisibility cloak"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...conjure you, O Fyriel, Mememil, Berith, [and] Taraor..."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "powerful spirit",
+        "function": "one of four spirits invoked for invisibility cloak"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...conjure you, O Fyriel, Mememil, Berith, [and] Taraor..."
+    },
+    {
+      "name": "Taraor (Tarator)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "powerful spirit",
+        "function": "one of four spirits invoked for invisibility cloak"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...conjure you, O Fyriel, Mememil, Berith, [and] Taraor..."
+    },
+    {
+      "name": "Baltim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "defensive spirit conjured during flight to cause storm upon adversary"
+      },
+      "page_ref": "experiment no. 15 (flying throne)",
+      "raw_quote": "...he conjures the spirit Baltim, who comes and brings a storm upon the adversary."
+    },
+    {
+      "name": "king of the east",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "function": "source of airy spirit for horse-riding"
+      },
+      "page_ref": "experiment no. 14",
+      "raw_quote": "...adjuring him to send an ‘airy spirit’ on which he can ride..."
+    },
+    {
+      "name": "king of the clouds",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "function": "source of three duces for flying throne"
+      },
+      "page_ref": "experiment no. 15 (flying throne)",
+      "raw_quote": "...calls the king of the clouds to send three guides (or spirits with the rank of duke, duces )..."
+    },
+    {
+      "name": "duces",
+      "type": "spirit",
+      "attributes": {
+        "rank": "duke",
+        "function": "guides for flying throne"
+      },
+      "page_ref": "experiment no. 15 (flying throne)",
+      "raw_quote": "...three guides (or spirits with the rank of duke, duces ) to carry him..."
+    },
+    {
+      "name": "eight sailors",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirits",
+        "function": "transport magus via ship"
+      },
+      "page_ref": "experiment no. 8 (magical ship)",
+      "raw_quote": "...eight sailors, who will announce in reverential tone that they have been sent to fulfil his command."
+    },
+    {
+      "name": "Lutrayth, Feremim, Oliroomim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirits",
+        "function": "summoned by shaking bridle to produce horse"
+      },
+      "page_ref": "experiment no. 9 (horse ritual)",
+      "raw_quote": "...say, shaking the bridle, ‘Lutrayth, Feremim, Oliroomim’, and the horse will come at once."
+    },
+    {
+      "name": "kostolya, elogo, yetas",
+      "type": "spirit/incantation phrase",
+      "attributes": {
+        "function": "words spoken to summon horse in experiment no. 43"
+      },
+      "page_ref": "experiment no. 43",
+      "raw_quote": "...plus the words ‘kostolya, elogo, yetas’, and off he rides."
+    },
+    {
+      "name": "Brimer",
+      "type": "spirit/name on ring",
+      "attributes": {
+        "function": "inscribed on gold ring for raising dead person"
+      },
+      "page_ref": "experiment no. 10",
+      "raw_quote": "...around the outside these names should be carved: Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "Suburith",
+      "type": "spirit/name on ring",
+      "attributes": {
+        "function": "inscribed on gold ring for raising dead person"
+      },
+      "page_ref": "experiment no. 10",
+      "raw_quote": "...Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "Tranauit",
+      "type": "spirit/name on ring",
+      "attributes": {
+        "function": "inscribed on gold ring for raising dead person"
+      },
+      "page_ref": "experiment no. 10",
+      "raw_quote": "...Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "Lyroth",
+      "type": "spirit/name on ring",
+      "attributes": {
+        "function": "inscribed inside gold ring for raising dead person"
+      },
+      "page_ref": "experiment no. 10",
+      "raw_quote": "...on the inside, these names: Lyroth, Beryen, Damayn."
+    },
+    {
+      "name": "Beryen",
+      "type": "spirit/name on ring",
+      "attributes": {
+        "function": "inscribed inside gold ring for raising dead person"
+      },
+      "page_ref": "experiment no. 10",
+      "raw_quote": "...Lyroth, Beryen, Damayn."
+    },
+    {
+      "name": "Damayn",
+      "type": "spirit/name on ring",
+      "attributes": {
+        "function": "inscribed inside gold ring for raising dead person"
+      },
+      "page_ref": "experiment no. 10",
+      "raw_quote": "...Lyroth, Beryen, Damayn."
+    },
+    {
+      "name": "Psalm 120:1 (Vulg.) / Psalm 122:1",
+      "type": "scripture/incantation",
+      "attributes": {
+        "function": "recited during horse ritual"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...say, ‘T have lifted to you my eyes unto the mountains...’ [Ps. 120:If. Vulg.; cf. Ps. 122:1]."
+    },
+    {
+      "name": "Ave Maria",
+      "type": "prayer/incantation",
+      "attributes": {
+        "function": "used in flying throne ritual"
+      },
+      "page_ref": "experiment no. 15 (flying throne)",
+      "raw_quote": "...says various prayers (the Ave Maria, part of Psalm 50, the Lesser Doxology, etc.)..."
+    },
+    {
+      "name": "Psalm 50",
+      "type": "scripture/prayer",
+      "attributes": {
+        "function": "used in flying throne ritual"
+      },
+      "page_ref": "experiment no. 15 (flying throne)",
+      "raw_quote": "...says various prayers (the Ave Maria, part of Psalm 50...)"
+    },
+    {
+      "name": "Lesser Doxology",
+      "type": "prayer/incantation",
+      "attributes": {
+        "function": "used in flying throne ritual"
+      },
+      "page_ref": "experiment no. 15 (flying throne)",
+      "raw_quote": "...the Ave Maria, part of Psalm 50, the Lesser Doxology..."
+    },
+    {
+      "name": "Asperges me, Domine, ysopo",
+      "type": "scripture/incantation",
+      "attributes": {
+        "function": "used in invisibility ritual"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...saying, Asperges me, Domine, ysopo ... [Ps. 50:9 Vulg.]."
+    },
+    {
+      "name": "circle with square and inner circle (horse ritual)",
+      "type": "ritual",
+      "attributes": {
+        "function": "used to conjure horse spirits"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "The figure shown is a single circular band, with a square inscribed, and a circle inside the square..."
+    },
+    {
+      "name": "circle (invisibility ritual)",
+      "type": "ritual",
+      "attributes": {
+        "function": "used to conjure spirits for invisibility cloak"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...trace a circle such as appears here, with a magnificent sword..."
+    },
+    {
+      "name": "circle (ship ritual)",
+      "type": "ritual",
+      "attributes": {
+        "function": "used to conjure eight sailors"
+      },
+      "page_ref": "experiment no. 8",
+      "raw_quote": "...trace a circle with a horizontal band across the centre and a vertical band across the top semicircle..."
+    },
+    {
+      "name": "circle (throne ritual)",
+      "type": "ritual",
+      "attributes": {
+        "function": "used to summon flying throne"
+      },
+      "page_ref": "experiment no. 15",
+      "raw_quote": "...makes a circle, into which he places three jars with him..."
+    },
+    {
+      "name": "circle (ring ritual)",
+      "type": "ritual",
+      "attributes": {
+        "function": "used to raise dead person"
+      },
+      "page_ref": "experiment no. 10",
+      "raw_quote": "...make a circle with a sword, and on it write with the sword the names and figures..."
+    },
+    {
+      "name": "bridle (never used)",
+      "type": "tool/ingredient",
+      "attributes": {
+        "function": "instrument of control for spirit-horse"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...go out with a bridle that has never been used..."
+    },
+    {
+      "name": "horsehide",
+      "type": "ingredient",
+      "attributes": {
+        "function": "material on which to inscribe protective circle"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...if the circle given above is inscribed on horsehide with the blood of a horse and with the tooth of a white horse..."
+    },
+    {
+      "name": "tooth of white horse",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to inscribe protective circle"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...inscribed on horsehide with the blood of a horse and with the tooth of a white horse..."
+    },
+    {
+      "name": "iron stylus / nail",
+      "type": "tool/ingredient",
+      "attributes": {
+        "function": "used to trace circle"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...make a circle with a nail or an iron stylus..."
+    },
+    {
+      "name": "sword (magnificent)",
+      "type": "tool/ingredient",
+      "attributes": {
+        "function": "used to trace invisibility circle"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...trace a circle such as appears here, with a magnificent sword..."
+    },
+    {
+      "name": "sword (ritual circle for ring ritual)",
+      "type": "tool/ingredient",
+      "attributes": {
+        "function": "used to inscribe names and trace circle"
+      },
+      "page_ref": "experiment no. 10",
+      "raw_quote": "...make a circle with a sword, and on it write with the sword the names..."
+    },
+    {
+      "name": "frankincense",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in fumigation for invisibility ritual"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...have a vessel in which there is fire with frankincense (thus), myrrh and other incense..."
+    },
+    {
+      "name": "myrrh",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in fumigation for invisibility ritual"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...frankincense (thus), myrrh and other incense..."
+    },
+    {
+      "name": "olibano",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in fumigation for invisibility ritual"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...frankincense (thus), myrrh and other incense (olibano)..."
+    },
+    {
+      "name": "blessed water",
+      "type": "ingredient/ritual element",
+      "attributes": {
+        "function": "used to purify self and circle"
+      },
+      "page_ref": "experiment no. 11",
+      "raw_quote": "...take blessed water and sprinkle yourself and the circle..."
+    },
+    {
+      "name": "marrow of a dead man",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used for fumigation in ship ritual"
+      },
+      "page_ref": "experiment no. 8",
+      "raw_quote": "...fumigates it with the marrow of a dead man."
+    },
+    {
+      "name": "rib of a dead man or woman",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to trace ship circle"
+      },
+      "page_ref": "experiment no. 8",
+      "raw_quote": "...goes out under a waxing moon to a remote place with the rib of a dead man or woman."
+    },
+    {
+      "name": "ashes and flour",
+      "type": "ingredient",
+      "attributes": {
+        "function": "placed in jar #1 for flying throne ritual"
+      },
+      "page_ref": "experiment no. 15",
+      "raw_quote": "...into one jar ashes and flour..."
+    },
+    {
+      "name": "fire and salt",
+      "type": "ingredient",
+      "attributes": {
+        "function": "placed in jar #2 for flying throne ritual"
+      },
+      "page_ref": "experiment no. 15",
+      "raw_quote": "...into another fire and salt..."
+    },
+    {
+      "name": "water and chalk",
+      "type": "ingredient",
+      "attributes": {
+        "function": "placed in jar #3 for flying throne ritual"
+      },
+      "page_ref": "experiment no. 15",
+      "raw_quote": "...into the third water and chalk."
+    },
+    {
+      "name": "bat’s blood",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to inscribe names on door in experiment no. 43"
+      },
+      "page_ref": "experiment no. 43",
+      "raw_quote": "...writes a series of names on the door of a vacant house, at dusk, with bat’s blood..."
+    },
+    {
+      "name": "white dove",
+      "type": "ingredient",
+      "attributes": {
+        "function": "sacrificed in invisibility ritual no. 45"
+      },
+      "page_ref": "experiment no. 45",
+      "raw_quote": "...takes a white dove and a sheet of virgin parchment..."
+    },
+    {
+      "name": "virgin parchment",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in invisibility ritual no. 45"
+      },
+      "page_ref": "experiment no. 45",
+      "raw_quote": "...takes a white dove and a sheet of virgin parchment..."
+    },
+    {
+      "name": "heliotrope seed",
+      "type": "ingredient",
+      "attributes": {
+        "function": "inserted into black cat’s eyes for invisibility ritual"
+      },
+      "page_ref": "experiment no. 21",
+      "raw_quote": "...cut out its heart and eyes, and insert a heliotrope seed in place of each eye..."
+    },
+    {
+      "name": "human blood",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to water plant for invisibility ritual"
+      },
+      "page_ref": "experiment no. 21",
+      "raw_quote": "...waters it for fifteen days with human blood mixed with water..."
+    },
+    {
+      "name": "black cat (born in March)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in invisibility ritual no. 21"
+      },
+      "page_ref": "experiment no. 21",
+      "raw_quote": "...eviscerate a black cat born in March..."
+    },
+    {
+      "name": "Socrates (as authority)",
+      "type": "person",
+      "attributes": {
+        "function": "cited as authority on protective circle"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...and Socrates speaks of the power of this circle in his book of magic."
+    },
+    {
+      "name": "Rawlinson manuscript",
+      "type": "text/source",
+      "attributes": {
+        "function": "contains parallel necromantic procedures"
+      },
+      "page_ref": "intro to experiment no. 10",
+      "raw_quote": "...the Rawlinson necromantic manuscript, for example, gives procedures for raising the shades of the dead."
+    },
+    {
+      "name": "Antoninus of Florence (book)",
+      "type": "text/source",
+      "attributes": {
+        "function": "analogous reference for infested object"
+      },
+      "page_ref": "invisibility cloak ritual description",
+      "raw_quote": "...like the book Antoninus of Florence is said to have burned, was infested with malign spirits..."
+    },
+    {
+      "name": "unhulden",
+      "type": "person/group",
+      "attributes": {
+        "function": "practitioners using unguentum pharelis"
+      },
+      "page_ref": "intro paragraph",
+      "raw_quote": "...how unhulden and others use a salve called the unguentum pharelis..."
+    },
+    {
+      "name": "unguentum pharelis",
+      "type": "ingredient/ritual substance",
+      "attributes": {
+        "function": "salve used for magical illusion"
+      },
+      "page_ref": "intro paragraph",
+      "raw_quote": "...a salve called the unguentum pharelis, made of seven herbs mixed with the blood of a bird and the fat of an animal..."
+    },
+    {
+      "name": "seven herbs",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of unguentum pharelis"
+      },
+      "page_ref": "intro paragraph",
+      "raw_quote": "...a salve called the unguentum pharelis, made of seven herbs mixed with the blood of a bird..."
+    },
+    {
+      "name": "bird’s blood",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of unguentum pharelis"
+      },
+      "page_ref": "intro paragraph",
+      "raw_quote": "...seven herbs mixed with the blood of a bird and the fat of an animal..."
+    },
+    {
+      "name": "animal fat",
+      "type": "ingredient",
+      "attributes": {
+        "function": "component of unguentum pharelis"
+      },
+      "page_ref": "intro paragraph",
+      "raw_quote": "...seven herbs mixed with the blood of a bird and the fat of an animal..."
+    },
+    {
+      "name": "squatting position (prayer posture)",
+      "type": "ritual gesture",
+      "attributes": {
+        "function": "used in experiment no. 14"
+      },
+      "page_ref": "experiment no. 14",
+      "raw_quote": "...looks toward the eastern sky, kneeling and with folded hands as if he were in prison..."
+    },
+    {
+      "name": "squatting position (prayer posture)",
+      "type": "ritual gesture",
+      "attributes": {
+        "function": "used in experiment no. 14"
+      },
+      "page_ref": "experiment no. 14",
+      "raw_quote": "...looks toward the eastern sky, kneeling and with folded hands as if he were in prison..."
+    },
+    {
+      "name": "squatting position (prayer posture)",
+      "type": "ritual gesture",
+      "attributes": {
+        "function": "used in experiment no. 14"
+      },
+      "page_ref": "experiment no. 14",
+      "raw_quote": "...looks toward the eastern sky, kneeling and with folded hands as if he were in prison..."
+    },
+    {
+      "name": "squassare (to shake violently)",
+      "type": "ritual verb/action",
+      "attributes": {
+        "function": "verb used for shaking bridle"
+      },
+      "page_ref": "experiment no. 9",
+      "raw_quote": "...the term used for ‘shake’ or ‘shake violently’, squassare, may possibly suggest that this material derives from an Italian source."
+    },
+    {
+      "name": "T-O pattern (inverted)",
+      "type": "ritual diagram",
+      "attributes": {
+        "function": "basis of ship circle"
+      },
+      "page_ref": "experiment no. 8",
+      "raw_quote": "...trace a circle with a horizontal band across the centre and a vertical band across the top semicircle (forming an inverted version of the T-O pattern commonly found in medieval world maps)."
+    },
+    {
+      "name": "crescent shape (ship symbol)",
+      "type": "ritual diagram",
+      "attributes": {
+        "function": "represents ship on circle"
+      },
+      "page_ref": "experiment no. 8",
+      "raw_quote": "...Superimposed on this design is a crescent shape, possibly representing a ship..."
+    },
+    {
+      "name": "place of the master",
+      "type": "ritual location",
+      "attributes": {
+        "function": "designated center position in circle"
+      },
+      "page_ref": "experiment no. 9 (circle description)",
+      "raw_quote": "...‘The place of the master’ is marked in the center of the circle."
+    },
+    {
+      "name": "East, South, West directions",
+      "type": "ritual location",
+      "attributes": {
+        "function": "marked on invisibility circle"
+      },
+      "page_ref": "experiment no. 11 (circle description)",
+      "raw_quote": "...positions east, south, and west labelled..."
+    },
+    {
+      "name": "two characters",
+      "type": "ritual symbol",
+      "attributes": {
+        "function": "included on invisibility circle"
+      },
+      "page_ref": "experiment no. 11 (circle description)",
+      "raw_quote": "...along with two characters."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Lautrayth",
+      "to": "Feremin",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Lautrayth",
+      "to": "Oliroomim",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Feremin",
+      "to": "Oliroomim",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Firiel",
+      "to": "Melemil",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Firiel",
+      "to": "Berith",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Firiel",
+      "to": "Taraor",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Melemil",
+      "to": "Berith",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Melemil",
+      "to": "Taraor",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Berith",
+      "to": "Taraor",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Lautrayth",
+      "to": "bridle (never used)",
+      "type": "controls"
+    },
+    {
+      "from": "Feremin",
+      "to": "bridle (never used)",
+      "type": "controls"
+    },
+    {
+      "from": "Oliroomim",
+      "to": "bridle (never used)",
+      "type": "controls"
+    },
+    {
+      "from": "king of the clouds",
+      "to": "duces",
+      "type": "commands"
+    },
+    {
+      "from": "king of the east",
+      "to": "airy spirit",
+      "type": "sends"
+    },
+    {
+      "from": "Brimer",
+      "to": "gold ring (ritual)",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Suburith",
+      "to": "gold ring (ritual)",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Tranauit",
+      "to": "gold ring (ritual)",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Lyroth",
+      "to": "gold ring (ritual)",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Beryen",
+      "to": "gold ring (ritual)",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Damayn",
+      "to": "gold ring (ritual)",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Psalm 120:1",
+      "to": "horse ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "Ave Maria",
+      "to": "throne ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "Psalm 50",
+      "to": "throne ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "Lesser Doxology",
+      "to": "throne ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "Asperges me, Domine",
+      "to": "invisibility ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "circle (horse)",
+      "to": "Lautrayth",
+      "type": "conjures"
+    },
+    {
+      "from": "circle (invisibility)",
+      "to": "Firiel",
+      "type": "conjures"
+    },
+    {
+      "from": "circle (ship)",
+      "to": "eight sailors",
+      "type": "conjures"
+    },
+    {
+      "from": "circle (throne)",
+      "to": "king of the clouds",
+      "type": "conjures"
+    },
+    {
+      "from": "circle (ring)",
+      "to": "demons inscribed on ring",
+      "type": "conjures"
+    },
+    {
+      "from": "bridle (never used)",
+      "to": "horse",
+      "type": "controls"
+    },
+    {
+      "from": "heliotrope seed",
+      "to": "invisibility (experiment 21)",
+      "type": "causes"
+    },
+    {
+      "from": "white dove sacrifice",
+      "to": "sheet with coin",
+      "type": "produces"
+    },
+    {
+      "from": "square + circle diagram",
+      "to": "Lautrayth group",
+      "type": "used_in_conjuration"
+    },
+    {
+      "from": "Socrates",
+      "to": "circle (horse)",
+      "type": "cited_as_authority_on"
+    },
+    {
+      "from": "Rawlinson manuscript",
+      "to": "experiment no. 10",
+      "type": "parallel_to"
+    },
+    {
+      "from": "Antoninus of Florence",
+      "to": "invisibility cloak burning",
+      "type": "analogous_reference_for"
+    }
+  ],
+  "summary": "This chunk details several necromantic experiments from the Munich Handbook (CLM 849), focusing on obtaining illusionary transportation (horse, ship, flying throne) and invisibility. It includes spirit names (e.g., Lautrayth, Feremin, Oliroomim; Firiel, Melemil, Berith, Taraor), ritual circles with inscribed names and diagrams, ingredients (bridle, horsehide, bat’s blood, black cat, heliotrope seed, bird fat/blood, etc.), and incantations. It also references cross-textual sources like Socrates’ book of magic and the Rawlinson manuscript.",
+  "key_passages": [
+    "O Lautrayth, Feremin, [and] Oliroomim, spirits who attend upon sinners, 1, so- such-like, trusting in your power, conjure you by Him who spoke and [all things] were made...",
+    "The figure shown is a single circular band, with a square inscribed, and a circle inside the square. Short bars extend outward from the middle of each side of the square and touch the inner side of the circular band.",
+    "I conjure you, O Fyriel, Mememil, Berith, [and] Taraor, powerful, magnificent, illustrious spirits, in whom I place all my trust, by the one, inseparable and undivided Trinity...",
+    "...writes a series of names on the door of a vacant house, at dusk, with bat’s blood, then withdraws for a brief time. When he returns he finds a horse awaiting him.",
+    "When you wish to infuse a spirit into a dead person... around the outside these names should be carved: Brimer, Suburith, Tranauit; on the inside, these names: Lyroth, Beryen, Damayn."
+  ]
+}

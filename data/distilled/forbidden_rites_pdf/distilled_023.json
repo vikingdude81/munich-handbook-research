@@ -1,0 +1,430 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 23,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Apolin",
+      "type": "spirit",
+      "attributes": {
+        "role": "king, invoked first in conjuration",
+        "direction": "orientem (east)"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "Apolin, Maraloth, Berith, ego, talis, vos exorcisoa et coniuro ex parte dei omnipotentis..."
+    },
+    {
+      "name": "Maraloth",
+      "type": "spirit",
+      "attributes": {
+        "role": "king",
+        "variant_spelling": "Maraloch (p. 234)"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "Apolin, Maraloth, Berith... O rex Apolin, magne, potens, et venerabilis... Et similiter dicere [debes] versus Maraloth..."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "role": "king"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "Apolin, Maraloth, Berith... O rex Apolin, magne, potens, et venerabilis... Et similiter dicere [debes] versus Berich similiter."
+    },
+    {
+      "name": "Sathan",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal king invoked in final nocturnal call"
+      },
+      "page_ref": "234",
+      "raw_quote": "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [et] Lucifer, supplico vobis..."
+    },
+    {
+      "name": "Beliath",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal entity"
+      },
+      "page_ref": "234",
+      "raw_quote": "...Sathan, Beliath, Belzebuc, [et] Lucifer..."
+    },
+    {
+      "name": "Belzebuc",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal entity"
+      },
+      "page_ref": "234",
+      "raw_quote": "...Sathan, Beliath, Belzebuc, [et] Lucifer..."
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal entity"
+      },
+      "page_ref": "234",
+      "raw_quote": "...Sathan, Beliath, Belzebuc, [et] Lucifer..."
+    },
+    {
+      "name": "Dobel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...per hec sancta nomina quorum virtute ligamini – scilicet Dobel, Vriel, Sabaoth..."
+    },
+    {
+      "name": "Vriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...scilicet Dobel, Vriel, Sabaoth..."
+    },
+    {
+      "name": "Sabaoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...scilicet Dobel, Vriel, Sabaoth..."
+    },
+    {
+      "name": "Semoni",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Sabaoth, Semoni, Adonay..."
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Semoni, Adonay, Tetragramaton..."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Adonay, Tetragramaton..."
+    },
+    {
+      "name": "Albumay",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Tetragramaton, Albumay..."
+    },
+    {
+      "name": "Siloth",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Albumay, Siloth..."
+    },
+    {
+      "name": "Moreth",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Siloth, Moreth..."
+    },
+    {
+      "name": "Sadabin",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Moreth, Sadabin..."
+    },
+    {
+      "name": "Rodobel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Sadabin, Rodobel..."
+    },
+    {
+      "name": "Domiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Rodobel, Domiel..."
+    },
+    {
+      "name": "Perarabiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations; variant: Pararabiel"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Domiel, Perarabiel,c Alatuel..."
+    },
+    {
+      "name": "Alatuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Perarabiel,c Alatuel..."
+    },
+    {
+      "name": "Vsobel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in chain of invocations"
+      },
+      "page_ref": "231–232",
+      "raw_quote": "...Alatuel, nominem, nominam,d [et] Vsobel,"
+    },
+    {
+      "name": "Nomen magistri",
+      "type": "spirit",
+      "attributes": {
+        "role": "master spirit to be named by scribe"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "...nominem, nominam,d [et] Vsobel... Nomen magistri, de tali ordine and Nomen discipuli are marked in the centre."
+    },
+    {
+      "name": "Nomen discipuli",
+      "type": "spirit",
+      "attributes": {
+        "role": "disciple spirit to be named by scribe"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "...Nomen magistri, de tali ordine and Nomen discipuli are marked in the centre."
+    },
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "role": "mentioned in circle inscription"
+      },
+      "page_ref": "233 (note m)",
+      "raw_quote": "...the names of the spirits Belial, Satan, Mendior Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Mendior Matalot",
+      "type": "spirit",
+      "attributes": {
+        "role": "mentioned in circle inscription"
+      },
+      "page_ref": "233 (note m)",
+      "raw_quote": "...Belial, Satan, Mendior Matalot, Belzebub..."
+    },
+    {
+      "name": "Sententino",
+      "type": "spirit",
+      "attributes": {
+        "role": "mentioned in circle inscription"
+      },
+      "page_ref": "233 (note m)",
+      "raw_quote": "...Belial, Satan, Mendior Matalot, Belzebub, Lucifer, Sententino and Apolin are inscribed..."
+    },
+    {
+      "name": "three maximi reges",
+      "type": "spirit",
+      "attributes": {
+        "role": "three kings appearing in dream"
+      },
+      "page_ref": "232–234",
+      "raw_quote": "...in sompno apparent tibi tres maximi reges cum famulis innumeris..."
+    },
+    {
+      "name": "magister omnium scienciarum",
+      "type": "spirit",
+      "attributes": {
+        "role": "master spirit of all arts and sciences"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "...qui sit magister omnium scienciarum et arcium, veniens in forma humana placabilis..."
+    },
+    {
+      "name": "circulus (ritual circle)",
+      "type": "tool",
+      "attributes": {
+        "function": "protective boundary"
+      },
+      "page_ref": "232–234",
+      "raw_quote": "...scribe in dicto circulo nomen eius scriptum per te..."
+    },
+    {
+      "name": "sangwine (blood)",
+      "type": "ingredient",
+      "attributes": {
+        "source": "human blood implied; used for writing"
+      },
+      "page_ref": "232–234",
+      "raw_quote": "...scribi debet per te cum predicto sangwine..."
+    },
+    {
+      "name": "pannus (cloth)",
+      "type": "tool",
+      "attributes": {
+        "function": "receptacle for spirit names, worn under head"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "...depone ensem et involue in dicto panno..."
+    },
+    {
+      "name": "ensis (sword)",
+      "type": "tool",
+      "attributes": {
+        "function": "ritual object, held under head"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "...quod tibi dicet, ‘Da michi ensem quamh sub capite tenes.’"
+    },
+    {
+      "name": "pugillarem (writing tablet)",
+      "type": "tool",
+      "attributes": {
+        "function": "for recording spirit’s name and order"
+      },
+      "page_ref": "233",
+      "raw_quote": "...tamen debes habere pugillarem, et scribereomnia que tibi dicet."
+    },
+    {
+      "name": "CLM 849 (Munich Handbook)",
+      "type": "location",
+      "attributes": {
+        "date": "first half of 15th c.",
+        "format": "paper manuscript",
+        "dimensions": "14.7 cm × 21 cm"
+      },
+      "page_ref": "226–230",
+      "raw_quote": "The manuscript is from the first half of the fifteenth century, of unknown provenence... It is on paper..."
+    },
+    {
+      "name": "No. 1 (experiment for liberal arts knowledge)",
+      "type": "ritual",
+      "attributes": {
+        "duration": "30 days",
+        "method": "dream-based spirit conjuration"
+      },
+      "page_ref": "231–234",
+      "raw_quote": "No. 1. For gaining knowledge of the liberal arts (fols 3r–5v)..."
+    },
+    {
+      "name": "No. 2 (experiment for causing loss of senses)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "to remove knowledge or sanity"
+      },
+      "page_ref": "234",
+      "raw_quote": "No. 2. For causing a person to lose his senses (fols 6r–7v)"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Apolin",
+      "to": "Maraloth",
+      "type": "co-king"
+    },
+    {
+      "from": "Apolin",
+      "to": "Berith",
+      "type": "co-king"
+    },
+    {
+      "from": "Maraloth",
+      "to": "Berith",
+      "type": "co-king"
+    },
+    {
+      "from": "Dobel",
+      "to": "Vsobel",
+      "type": "chain_of_divine_names"
+    },
+    {
+      "from": "Tetragramaton",
+      "to": "Adonay",
+      "type": "divine_name_sequence"
+    },
+    {
+      "from": "Perarabiel",
+      "to": "Alatuel",
+      "type": "adjacent_in_invocation_chain"
+    },
+    {
+      "from": "magister omnium scienciarum",
+      "to": "discipulus (nomen discipuli)",
+      "type": "master-disciple"
+    },
+    {
+      "from": "sangwine",
+      "to": "pannus",
+      "type": "used_for_writing_on"
+    },
+    {
+      "from": "circulus",
+      "to": "nomen magistri",
+      "type": "contains_written_in"
+    },
+    {
+      "from": "circulus",
+      "to": "nomen discipuli",
+      "type": "contains_written_in"
+    },
+    {
+      "from": "circulus",
+      "to": "Belial",
+      "type": "inscribed_spirits"
+    },
+    {
+      "from": "circulus",
+      "to": "Mendior Matalot",
+      "type": "inscribed_spirits"
+    },
+    {
+      "from": "circulus",
+      "to": "Sententino",
+      "type": "inscribed_spirits"
+    },
+    {
+      "from": "CLM 849",
+      "to": "No. 1",
+      "type": "contains_ritual"
+    },
+    {
+      "from": "CLM 849",
+      "to": "No. 2",
+      "type": "contains_ritual"
+    }
+  ],
+  "summary": "This chunk presents detailed analysis and transcription of ritual No. 1 from the Munich Handbook (CLM 849), a 15th-century necromantic manual, focusing on how to conjure a master spirit for acquiring liberal arts knowledge through dream incubation. It lists multiple spirit names—both infernal (Apolin, Maraloth, Berith, Sathan, Belzebuc, etc.) and divine/angelic (Dobel, Vriel, Sabaoth, Tetragramaton, Adonay, Perarabiel, etc.)—and describes the ritual circle, blood-written inscriptions, protective cloth, sword, and writing tablet used. The text reveals a hybridized conjuration technique blending liturgical invocations with coercive demon summoning.",
+  "key_passages": [
+    "Apolin, Maraloth, Berith, ego, talis, vos exorcisoa et coniuro ex parte dei omnipotentis, qui vos vestra eleccione iussit antra subire profundi...",
+    "...per hec sancta nomina quorum virtute ligamini – scilicet Dobel, Vriel, Sabaoth, Semoni, Adonay, Tetragramaton, Albumay, Siloth, Moreth, Sadabin, Rodobel, Domiel, Perarabiel,c Alatuel, nominem, nominam,d [et] Vsobel...",
+    "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [et] Lucifer, supplico vobis vt precipiatis magistro – in eo [loco] (nominando eius nomen) – vt ipse debeat venire cras ante solis ortum ad me...",
+    "...scribi debet per te cum predicto sangwine... scribe in dicto circulo nomen eius scriptum per te...",
+    "In sompno apparent tibi tres maximi reges cum famulis innumeris, militibus et peditibus, inter quos est eciam quidam magister apparens..."
+  ]
+}

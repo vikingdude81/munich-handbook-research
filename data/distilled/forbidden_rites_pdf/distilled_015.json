@@ -1,0 +1,216 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": "16/39",
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Apolin",
+      "type": "spirit",
+      "attributes": {
+        "hierarchy": "king",
+        "role": "one of three kings conjured"
+      },
+      "page_ref": "144–146",
+      "raw_quote": "O King Apolin, great, powerful, and venerable, I, your servant..."
+    },
+    {
+      "name": "Maraloth",
+      "type": "spirit",
+      "attributes": {
+        "hierarchy": "king",
+        "role": "one of three kings"
+      },
+      "page_ref": "144–146",
+      "raw_quote": "...Apolin, Maraloth, Berith, I, so-and-so, exorcise and conjure you..."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "hierarchy": "king",
+        "role": "one of three kings"
+      },
+      "page_ref": "144–146",
+      "raw_quote": "...Apolin, Maraloth, Berith, I, so-and-so, exorcise and conjure you..."
+    },
+    {
+      "name": "master spirit (unspecified name)",
+      "type": "spirit",
+      "attributes": {
+        "role": "magister / demonic teacher",
+        "form": "pleasant human form",
+        "function": "instructor in all sciences"
+      },
+      "page_ref": "144–146",
+      "raw_quote": "...a certain master, whom the three kings will command... ‘Behold, we give you what you have many times requested.’"
+    },
+    {
+      "name": "Sathan",
+      "type": "spirit",
+      "attributes": {
+        "hierarchy": "demonic entity",
+        "role": "named in final invocation"
+      },
+      "page_ref": "145–146",
+      "raw_quote": "...O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [and] Lucifer..."
+    },
+    {
+      "name": "Beliath",
+      "type": "spirit",
+      "attributes": {
+        "hierarchy": "demonic entity",
+        "role": "named in final invocation"
+      },
+      "page_ref": "145–146",
+      "raw_quote": "...Sathan, Beliath, Belzebuc..."
+    },
+    {
+      "name": "Belzebuc",
+      "type": "spirit",
+      "attributes": {
+        "hierarchy": "demonic entity",
+        "role": "named in final invocation"
+      },
+      "page_ref": "145–146",
+      "raw_quote": "...Sathan, Beliath, Belzebuc..."
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "hierarchy": "demonic entity",
+        "role": "named in final invocation"
+      },
+      "page_ref": "145–146",
+      "raw_quote": "...Sathan, Beliath, Belzebuc, [and] Lucifer..."
+    },
+    {
+      "name": "sword",
+      "type": "tool",
+      "attributes": {
+        "function": "symbolic sacrifice / medium of instruction",
+        "usage": "placed under head during sleep; claimed and returned by master"
+      },
+      "page_ref": "144–147",
+      "raw_quote": "...the sword, which the demonic teacher claims at the beginning of the lessons but relinquishes to the magician at the end..."
+    },
+    {
+      "name": "circle",
+      "type": "ritual",
+      "attributes": {
+        "form": "single band inscribed within a square",
+        "elements": "seven spirits’ names, four cardinal directions, student/master labels"
+      },
+      "page_ref": "147",
+      "raw_quote": "The circle required for this first experiment is a single band inscribed within a square. Inscribed in and around the band are the names of seven spirits..."
+    },
+    {
+      "name": "blood (bird)",
+      "type": "ingredient",
+      "attributes": {
+        "source": "killed bird(s)",
+        "use": "writing spirit’s name and magician’s name in circle/cloth"
+      },
+      "page_ref": "145–146",
+      "raw_quote": "...write it with the aforementioned blood... If the blood of one bird is not enough, you may kill as many as you wish."
+    },
+    {
+      "name": "cloth bundle",
+      "type": "ritual",
+      "attributes": {
+        "function": "pillow during sleep; contains sword; used for grounding ritual space"
+      },
+      "page_ref": "144–146",
+      "raw_quote": "...put down the sword and wrap it in the aforesaid cloth, and, having made a bundle, lie down on it..."
+    },
+    {
+      "name": "tablet",
+      "type": "tool",
+      "attributes": {
+        "function": "recording medium for spirit’s teachings"
+      },
+      "page_ref": "145",
+      "raw_quote": "...you must have a tablet, and must write down all that he tells you."
+    },
+    {
+      "name": "Cesarius of Heisterbach story (schoolboy)",
+      "type": "concept",
+      "attributes": {
+        "function": "parallel narrative / comparative example",
+        "theme": "homage to demon for knowledge"
+      },
+      "page_ref": "147–149",
+      "raw_quote": "In the church of Saint Simeon in the diocese of Trier there was a little schoolboy... ‘If you pay homage to me, I will compose the verses for you.’"
+    },
+    {
+      "name": "ars notoria",
+      "type": "concept",
+      "attributes": {
+        "function": "comparative tradition",
+        "contrast": "uses angelic invocation vs. demonic in Munich Handbook"
+      },
+      "page_ref": "147–148",
+      "raw_quote": "...the later medieval magic of the so-called ars notoria, which uses prayers and invocation of angels to gain mastery of the liberal and mechanical arts."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Apolin",
+      "to": "Maraloth",
+      "type": "co-conjuration"
+    },
+    {
+      "from": "Apolin",
+      "to": "Berith",
+      "type": "co-conjuration"
+    },
+    {
+      "from": "Apolin",
+      "to": "master spirit",
+      "type": "commands"
+    },
+    {
+      "from": "Maraloth",
+      "to": "master spirit",
+      "type": "commands"
+    },
+    {
+      "from": "Berith",
+      "to": "master spirit",
+      "type": "commands"
+    },
+    {
+      "from": "master spirit",
+      "to": "magician",
+      "type": "instructs"
+    },
+    {
+      "from": "sword",
+      "to": "magician",
+      "type": "temporary possession → final return"
+    },
+    {
+      "from": "circle",
+      "to": "Apolin/Maraloth/Berith",
+      "type": "ritual space for conjuration"
+    },
+    {
+      "from": "bird blood",
+      "to": "circle/cloth",
+      "type": "used to inscribe names"
+    },
+    {
+      "from": "Caesarius story",
+      "to": "Munich Handbook experiment",
+      "type": "comparative precedent"
+    }
+  ],
+  "summary": "This chunk details a necromantic ritual from the Munich Handbook (CLM 849) for acquiring knowledge of all sciences through a demonic master spirit conjured by three kings (Apolin, Maraloth, Berith). It outlines preparation involving sleep, a protective circle, bird blood inscriptions, and a symbolic sword sacrifice. The text compares this practice to the ars notoria and medieval exempla like Caesarius of Heisterbach’s schoolboy story.",
+  "key_passages": [
+    "‘Apolin, Maraloth, Berith, I, so-and-so, exorcise and conjure you … to send me a certain spirit who is expert in teaching of all the sciences…'",
+    "When this has been said, the kings will depart and the master alone will remain, and will say to you, ‘Arise, behold your master.’",
+    "The circle required for this first experiment is a single band inscribed within a square. Inscribed in and around the band are the names of seven spirits and the four cardinal directions.",
+    "One might suppose that the magician conceives the sword further as a symbol for the power brought by his newly gained knowledge…",
+    "...the ars notoria did not call upon demonic aid, and ostensibly revolved around the recitation of devotions to the Virgin and to unfallen angels, its techniques were untraditional and superstitious..."
+  ]
+}

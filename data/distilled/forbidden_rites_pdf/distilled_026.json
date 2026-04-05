@@ -1,0 +1,545 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 26,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Fyron",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle figure"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "a single circular band... inscribed the names Fyron, Dyspil, Onoroy..."
+    },
+    {
+      "name": "Dyspil",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle figure"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "...Fyron, Dyspil, Onoroy, Sysabel..."
+    },
+    {
+      "name": "Onoroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle figure"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "...Fyron, Dyspil, Onoroy, Sysabel..."
+    },
+    {
+      "name": "Sysabel",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle figure"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "...Fyron, Dyspil, Onoroy, Sysabel..."
+    },
+    {
+      "name": "Cotroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle figure"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "...Sysabel, Cotroy, Tyroy, Rimel and Orooth."
+    },
+    {
+      "name": "Tyroy",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle figure"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "...Cotroy, Tyroy, Rimel and Orooth."
+    },
+    {
+      "name": "Rimel",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle figure"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "...Tyroy, Rimel and Orooth."
+    },
+    {
+      "name": "Orooth",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle figure"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "...Rimel and Orooth."
+    },
+    {
+      "name": "Hic magister cum suis sociis",
+      "type": "ritual_formula",
+      "attributes": {
+        "role": "inscription in ship-shaped crescent"
+      },
+      "page_ref": "p. 258, n.c",
+      "raw_quote": "Within this crescent shape... is the inscription Hic magister cum suis sociis."
+    },
+    {
+      "name": "Lautrayth (also Lutrayth)",
+      "type": "spirit",
+      "attributes": {
+        "role": "necromantic spirit invoked for horse"
+      },
+      "page_ref": "p. 259, No. 9; p. 260 n.b",
+      "raw_quote": "O Lautrayth, Feremin, [et] Oliroomim, spiritus peccatoribus insistentes..."
+    },
+    {
+      "name": "Feremin (also Feremni/Feremim)",
+      "type": "spirit",
+      "attributes": {
+        "role": "necromantic spirit invoked for horse"
+      },
+      "page_ref": "p. 259, No. 9; p. 260 n.b",
+      "raw_quote": "...Feremin... as Feremni... and Feremim..."
+    },
+    {
+      "name": "Oliroomim (also Oliromim)",
+      "type": "spirit",
+      "attributes": {
+        "role": "necromantic spirit invoked for horse"
+      },
+      "page_ref": "p. 259, No. 9; p. 260 n.b",
+      "raw_quote": "...Oliroomim... as Oliromim..."
+    },
+    {
+      "name": "Lantrayth",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant spelling of Lautrayth"
+      },
+      "page_ref": "p. 260, n.b",
+      "raw_quote": "The band contains the names Lantrayth, Feremni and Oliromim..."
+    },
+    {
+      "name": "Brimer",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named on consecrated ring for resurrection"
+      },
+      "page_ref": "p. 261–263, No. 10",
+      "raw_quote": "...sculpta sint hec nomina: Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "Suburith",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named on consecrated ring for resurrection"
+      },
+      "page_ref": "p. 261–263, No. 10",
+      "raw_quote": "...Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "Tranauit (also Tranayrt/Tramayrt)",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named on consecrated ring for resurrection"
+      },
+      "page_ref": "p. 261–263, No. 10; p. 262 n.d",
+      "raw_quote": "...Tranauit... as Tranayrt... and Tramayrt..."
+    },
+    {
+      "name": "Lyroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named on consecrated ring for resurrection"
+      },
+      "page_ref": "p. 261–263, No. 10",
+      "raw_quote": "...in parte vero interiori sculpta sint hec nomina: Lyroth, Beryen, Damayn."
+    },
+    {
+      "name": "Beryen (also Berien)",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named on consecrated ring for resurrection"
+      },
+      "page_ref": "p. 261–263, No. 10; p. 262 n.d",
+      "raw_quote": "...Beryen... as Berien..."
+    },
+    {
+      "name": "Damayn (also Damay/Damayrt)",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon named on consecrated ring for resurrection"
+      },
+      "page_ref": "p. 261–263, No. 10; p. 262 n.d",
+      "raw_quote": "...Damayn... as Damay..."
+    },
+    {
+      "name": "Fyriel (also Fyriel/Mememil/Taraor)",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirits invoked for invisibility"
+      },
+      "page_ref": "p. 264–266, No. 11; p. 265 n.b,c",
+      "raw_quote": "Ego... coniuro vos, O Fyriel, Mememil, Berith, [et] Taraor..."
+    },
+    {
+      "name": "Mememil (also Melemil)",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirits invoked for invisibility"
+      },
+      "page_ref": "p. 264–266, No. 11; p. 265 n.b,c",
+      "raw_quote": "...Mememil... as Melemil..."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirits invoked for invisibility"
+      },
+      "page_ref": "p. 264–266, No. 11; p. 265 n.b,c",
+      "raw_quote": "...Fyriel, Mememil, Berith..."
+    },
+    {
+      "name": "Taraor (also Tarator)",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirits invoked for invisibility"
+      },
+      "page_ref": "p. 264–266, No. 11; p. 265 n.b,c",
+      "raw_quote": "...Berith, [et] Taraor... as Tarator..."
+    },
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal prince invoked in love magic"
+      },
+      "page_ref": "p. 266–267, No. 12",
+      "raw_quote": "Tu Belial, tu Astarotht... ad hoc sitis opus michi adiutores."
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal prince invoked in love magic"
+      },
+      "page_ref": "p. 266–267, No. 12",
+      "raw_quote": "...Belial, tu Astarotht..."
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal prince invoked in love magic"
+      },
+      "page_ref": "p. 266–267, No. 12",
+      "raw_quote": "...Astarotht, tu Paymon..."
+    },
+    {
+      "name": "nautical conjuration ritual",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "transport via spirit-crewed ship"
+      },
+      "page_ref": "p. 258–259 (preceding No. 9)",
+      "raw_quote": "hoc circulo, ego invoco vos per vestram subieccionem michi factam..."
+    },
+    {
+      "name": "No. 9: Horse conjuration",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "obtain spirit-horse"
+      },
+      "page_ref": "p. 259, No. 9",
+      "raw_quote": "No. 9. For obtaining a horse (fols 23v–25v)"
+    },
+    {
+      "name": "No. 10: Resurrection ritual",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "animate dead person"
+      },
+      "page_ref": "p. 261, No. 10",
+      "raw_quote": "No. 10. For resuscitating a dead person (fols 25v–28r)"
+    },
+    {
+      "name": "No. 11: Invisibility ritual",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "become invisible"
+      },
+      "page_ref": "p. 264, No. 11",
+      "raw_quote": "No. 11. For invisibility (fols 28r–29v)"
+    },
+    {
+      "name": "No. 12: Love magic ritual",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "induce love in woman"
+      },
+      "page_ref": "p. 266, No. 12",
+      "raw_quote": "No. 12. For obtaining a woman’s love (fols 29v–31v)a"
+    },
+    {
+      "name": "protective circle",
+      "type": "tool",
+      "attributes": {
+        "use": "ritual containment and power"
+      },
+      "page_ref": "p. 258, p. 259, p. 261–263, p. 264–266",
+      "raw_quote": "hunc circulum cum hac naui figuram vestram debeatis assumere"
+    },
+    {
+      "name": "frenum (bridle)",
+      "type": "tool",
+      "attributes": {
+        "use": "bind spirit-horse; consecrated object"
+      },
+      "page_ref": "p. 259–260, No. 9",
+      "raw_quote": "Volo eciam tibi mitterea quomodo equus... possit haberi..."
+    },
+    {
+      "name": "anulus aureus (golden ring)",
+      "type": "tool",
+      "attributes": {
+        "use": "resurrection; protection"
+      },
+      "page_ref": "p. 261–263, No. 10",
+      "raw_quote": "Primo quidem ex auro anulum fieri facias..."
+    },
+    {
+      "name": "ense (sword)",
+      "type": "tool",
+      "attributes": {
+        "use": "drawing circle; inscribing names"
+      },
+      "page_ref": "p. 261, p. 264",
+      "raw_quote": "...cum quodam ense... scribe cum dicto ense nomina et figura[s]..."
+    },
+    {
+      "name": "circulus cum nomine sanctorum",
+      "type": "ritual_formula",
+      "attributes": {
+        "use": "Christianized protective circle"
+      },
+      "page_ref": "p. 258",
+      "raw_quote": "...in ipsa naui similiter potest fiere nominacio sanctorum, sicut in vera cristianitate..."
+    },
+    {
+      "name": "suffumigatio (fumigation)",
+      "type": "ritual_ingredient",
+      "attributes": {
+        "ingredients": [
+          "thure",
+          "mirra",
+          "olibano"
+        ]
+      },
+      "page_ref": "p. 264–265, No. 11",
+      "raw_quote": "...vas in quo sit ignis cum thure, mirra, et olibano..."
+    },
+    {
+      "name": "aqua benedicta (blessed water)",
+      "type": "ritual_ingredient",
+      "attributes": {
+        "use": "purification and protection"
+      },
+      "page_ref": "p. 264–265, p. 266",
+      "raw_quote": "Habeas aquam Benedictam et aspergas te et circulum..."
+    },
+    {
+      "name": "ceram virgineam (virgin wax)",
+      "type": "ritual_ingredient",
+      "attributes": {
+        "use": "love magic image"
+      },
+      "page_ref": "p. 266, No. 12",
+      "raw_quote": "Recipe ceram virgineam, arte virginizatam..."
+    },
+    {
+      "name": "acus (needles)",
+      "type": "tool",
+      "attributes": {
+        "use": "animate love image"
+      },
+      "page_ref": "p. 267, No. 12",
+      "raw_quote": "...faciat magister ab artifice perito nouem acus..."
+    },
+    {
+      "name": "carbones accensi (burning coals)",
+      "type": "ritual_ingredient",
+      "attributes": {
+        "use": "heat medium for wax image"
+      },
+      "page_ref": "p. 266, No. 12",
+      "raw_quote": "...arte virginizatam, et hoc in die Jouis vel in die dominico, hora Veneris vel hora Jouis; ex dicta cera facias ymaginem ad carbones accensas sine fumo..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Fyron",
+      "to": "protective circle",
+      "type": "inscribed_in"
+    },
+    {
+      "from": "Dyspil",
+      "to": "protective circle",
+      "type": "inscribed_in"
+    },
+    {
+      "from": "Onoroy",
+      "to": "protective circle",
+      "type": "inscribed_in"
+    },
+    {
+      "from": "Sysabel",
+      "to": "protective circle",
+      "type": "inscribed_in"
+    },
+    {
+      "from": "Cotroy",
+      "to": "protective circle",
+      "type": "inscribed_in"
+    },
+    {
+      "from": "Tyroy",
+      "to": "protective circle",
+      "type": "inscribed_in"
+    },
+    {
+      "from": "Rimel",
+      "to": "protective circle",
+      "type": "inscribed_in"
+    },
+    {
+      "from": "Orooth",
+      "to": "protective circle",
+      "type": "inscribed_in"
+    },
+    {
+      "from": "Lautrayth",
+      "to": "No. 9: Horse conjuration",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Feremin",
+      "to": "No. 9: Horse conjuration",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Oliroomim",
+      "to": "No. 9: Horse conjuration",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Brimer",
+      "to": "No. 10: Resurrection ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Suburith",
+      "to": "No. 10: Resurrection ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Tranauit",
+      "to": "No. 10: Resurrection ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Lyroth",
+      "to": "No. 10: Resurrection ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Beryen",
+      "to": "No. 10: Resurrection ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Damayn",
+      "to": "No. 10: Resurrection ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Fyriel",
+      "to": "No. 11: Invisibility ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Mememil",
+      "to": "No. 11: Invisibility ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Berith",
+      "to": "No. 11: Invisibility ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Taraor",
+      "to": "No. 11: Invisibility ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Belial",
+      "to": "No. 12: Love magic ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Astaroth",
+      "to": "No. 12: Love magic ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "Paymon",
+      "to": "No. 12: Love magic ritual",
+      "type": "invoked_by"
+    },
+    {
+      "from": "protective circle",
+      "to": "nautical conjuration ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "frenum",
+      "to": "No. 9: Horse conjuration",
+      "type": "instrument_of"
+    },
+    {
+      "from": "anulus aureus",
+      "to": "No. 10: Resurrection ritual",
+      "type": "instrument_of"
+    },
+    {
+      "from": "ense",
+      "to": "protective circle",
+      "type": "used_to_draw"
+    },
+    {
+      "from": "aqua benedicta",
+      "to": "protective circle",
+      "type": "consecrates"
+    },
+    {
+      "from": "ceram virgineam",
+      "to": "No. 12: Love magic ritual",
+      "type": "material_for_image"
+    },
+    {
+      "from": "acus",
+      "to": "No. 12: Love magic ritual",
+      "type": "used_in_animation_of"
+    }
+  ],
+  "summary": "This chunk contains detailed excerpts from the Munich Handbook (CLM 849), including four major necromantic rituals: a nautical spirit-transport rite, horse conjuration (No. 9), resurrection of the dead (No. 10), invisibility (No. 11), and love magic (No. 12). It lists specific spirit names—Fyron, Dyspil, Onoroy, Sysabel, Cotroy, Tyroy, Rimel, Orooth; Lautrayth/Feremin/Oliroomim; Brimer/Suburith/Tranauit/Lyroth/Beryen/Damayn; Fyriel/Mememil/Berith/Taraor; and Belial/Astaroth/Paymon—and describes their invocation via protective circles, ritual tools (sword, bridle, golden ring), and ingredients (blessed water, incense, virgin wax). The rituals blend Christian invocations with demonic evocation, reflecting the hybrid theological logic of medieval magical practice.",
+  "key_passages": [
+    "hoc circulo, ego invoco vos per vestram subieccionem michi factam, vt statim sine mora subito et incontinenti hincp debeatis accedere...",
+    "O Lautrayth, Feremin, [et] Oliroomim, spiritus peccatoribus insistentes, ego... vos coniuro per illum qui dixit et facta sunt...",
+    "Coniuro vos, omnes demones scriptos in hoc anulo – quem in manibus habeas, per Patrem et Filium et Spiritum Sanctum...",
+    "Ego, talis, coniuro vos, O Fyriel, Mememil, Berith, [et] Taraor, spiritus potentes... per vnicam, inseparabilem, ac indiuiduam trinitatem...",
+    "Tu Belial, tu Astarotht, tu Paymon, ad hoc sitis opus michi adiutores."
+  ]
+}

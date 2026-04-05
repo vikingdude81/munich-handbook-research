@@ -1,0 +1,938 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 33,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "role": "prepositus diei dominici",
+        "planet": "Sol"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Coniuro super te Raphael angelume qui est prepositus diei dominici"
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "prepositus diei secundi, scilicet Lune",
+        "planet": "Luna"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Coniuro super te Gabriel, qui est prepositus diei secundo, scilicet Lune"
+    },
+    {
+      "name": "Samael",
+      "type": "spirit",
+      "attributes": {
+        "role": "prepositus diei tercio, scilicet Martis",
+        "planet": "Mars"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Coniuro super te, Samael, angelo qui est prepositus diei tercio, scilicet Marti"
+    },
+    {
+      "name": "Michael",
+      "type": "spirit",
+      "attributes": {
+        "role": "prepositus diei 4o",
+        "planet": "Mercurius"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Coniuro super te, angele magne Michahel, qui es prepositus diei 4o"
+    },
+    {
+      "name": "Satquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "prepositus diei Jouis",
+        "planet": "Jupiter"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Coniuro super te, Satquiel, angele magne qui est prepositus diei Jouis"
+    },
+    {
+      "name": "Anael",
+      "type": "spirit",
+      "attributes": {
+        "role": "prepositus diei sexto",
+        "planet": "Venus"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Coniuro super te, angele magne Anael, qui es prepositus diei sexto"
+    },
+    {
+      "name": "Captiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "prepositus diei septimo, id est Sabbati",
+        "planet": "Saturnus"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Coniuro Captiel, qui prepositus es diei septimo, qui esto dies sabbati"
+    },
+    {
+      "name": "Saytam",
+      "type": "spirit",
+      "attributes": {
+        "role": "rex spirituum diei dominici",
+        "co-rulers": [
+          "Taatus",
+          "Candas",
+          "Vanibal"
+        ]
+      },
+      "page_ref": "p. 340",
+      "raw_quote": "Die ergo dominico regnat et seruit rex Saytam. Coadiutores sui sunt Taatus, Candas, Vanibal"
+    },
+    {
+      "name": "Almodab",
+      "type": "spirit",
+      "attributes": {
+        "role": "rex spirituum diei Lune",
+        "co-rulers": [
+          "Sylol",
+          "Millalu",
+          "Abuzaba"
+        ]
+      },
+      "page_ref": "p. 340",
+      "raw_quote": "Et die Lune regnat et seruit rex Almodab. Coadiutores sui sunt Sylol, Millalu, Abuzaba"
+    },
+    {
+      "name": "filius dyabuli",
+      "type": "spirit",
+      "attributes": {
+        "role": "rex spirituum diei Martis"
+      },
+      "page_ref": "p. 340",
+      "raw_quote": "Die Martis regnat et seruit rex filius dyabuli. Coadiutores sunt Carmath, Utanaual, Pascami"
+    },
+    {
+      "name": "Saba",
+      "type": "spirit",
+      "attributes": {
+        "role": "rex spirituum diei Mercurij",
+        "co-rulers": [
+          "Conas",
+          "Pactas",
+          "Sanbras"
+        ]
+      },
+      "page_ref": "p. 340",
+      "raw_quote": "Die Mercurij regnat et seruit rex Saba. Coadiutores sui sunt Conas, Pactas, Sanbras"
+    },
+    {
+      "name": "Madrath, filius Arath",
+      "type": "spirit",
+      "attributes": {
+        "role": "rex spirituum diei Jouis",
+        "co-rulers": [
+          "Hyrti uel Hyiti",
+          "Ignaro",
+          "Quiron",
+          "Saalalebeth"
+        ]
+      },
+      "page_ref": "p. 340–341",
+      "raw_quote": "Die Jouis regnat et seruit rex Madrath, filius Arath. Coadiutores sui sunt Hyrti uel Hyiti, Ignaro, Quiron, Saalalebeth"
+    },
+    {
+      "name": "Saabotes",
+      "type": "spirit",
+      "attributes": {
+        "role": "rex spirituum diei Veneris",
+        "co-rulers": [
+          "Nassath",
+          "Ynasa"
+        ]
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Veneris regnat rex et seruit Saabotes. Coadiutores sui sunt Nassath, Ynasa"
+    },
+    {
+      "name": "Hayton",
+      "type": "spirit",
+      "attributes": {
+        "role": "rex spirituum diei Saturni",
+        "co-rulers": [
+          "Assayby",
+          "Abimalyb",
+          "Haybalydoth",
+          "Yfla"
+        ]
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Saturni regnat Hayton, Assayby. Coadiutores sui sunt Abimalyb et Haybalydoth et Yfla"
+    },
+    {
+      "name": "Dardiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei dominici"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei dominico presunt tres angeli, scilicet Raphahel, Dardiel et Vrlacafel"
+    },
+    {
+      "name": "Vrlacafel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei dominici"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei dominico presunt tres angeli, scilicet Raphahel, Dardiel et Vrlacafel"
+    },
+    {
+      "name": "Sammyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Lune"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Die Lune presunt hij: Gab[ri]el, Michael, Sammyel"
+    },
+    {
+      "name": "Satyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Martis"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Martis presunt hij, scilicet Satyel, Sanyel, Barma-ly"
+    },
+    {
+      "name": "Sanyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Martis"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Martis presunt hij, scilicet Satyel, Sanyel, Barma-ly"
+    },
+    {
+      "name": "Barmaly",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Martis"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Martis presunt hij, scilicet Satyel, Sanyel, Barma-ly"
+    },
+    {
+      "name": "Gemi",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Mercurij"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Mercurij presunt hij, scilicet Gemi, Sabael, Sarpiel, Muriel"
+    },
+    {
+      "name": "Sabael",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Mercurij"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Mercurij presunt hij, scilicet Gemi, Sabael, Sarpiel, Muriel"
+    },
+    {
+      "name": "Sarpiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Mercurij"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Mercurij presunt hij, scilicet Gemi, Sabael, Sarpiel, Muriel"
+    },
+    {
+      "name": "Muriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Mercurij"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Mercurij presunt hij, scilicet Gemi, Sabael, Sarpiel, Muriel"
+    },
+    {
+      "name": "Pacta",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Jouis"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Jouis presunt hij, scilicet Pacta, Castiel, Assassael"
+    },
+    {
+      "name": "Castiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Jouis"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Jouis presunt hij, scilicet Pacta, Castiel, Assassael"
+    },
+    {
+      "name": "Assassael",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Jouis"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Jouis presunt hij, scilicet Pacta, Castiel, Assassael"
+    },
+    {
+      "name": "Sarquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Veneris"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Veneris presunt hij, scilicet Anael, Sarquiel, Sacquiel"
+    },
+    {
+      "name": "Sacquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Veneris"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Diei Veneris presunt hij, scilicet Anael, Sarquiel, Sacquiel"
+    },
+    {
+      "name": "Mataton",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Saturni"
+      },
+      "page_ref": "p. 342–343",
+      "raw_quote": "Diei Saturni presunt hij, scilicet Captiel, Mataton, Sartquiel, id est Satraquel"
+    },
+    {
+      "name": "Sartquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus assistens diei Saturni",
+        "alias": "Satraquel"
+      },
+      "page_ref": "p. 342–343",
+      "raw_quote": "Diei Saturni presunt hij, scilicet Captiel, Mataton, Sartquiel, id est Satraquel"
+    },
+    {
+      "name": "Yayn",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of prima hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Prima ergo diei hora dicitur Yayn. In hac hora facienda est carta ad destruendas voces hominum"
+    },
+    {
+      "name": "Yan",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of secunda hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Secunda enim hora diei dicitur Yan, Or"
+    },
+    {
+      "name": "Nassura",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of tertia hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Tercia vero hora diei dicitur Nassura"
+    },
+    {
+      "name": "Sala",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of quarta hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Quarta hora diei dicitur Sala"
+    },
+    {
+      "name": "Sadadat",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of quinta hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Quinta hora diei dicitur Sadadat"
+    },
+    {
+      "name": "Tamhut",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of sexta hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Sexta hora diei dicitur Tamhut"
+    },
+    {
+      "name": "Caror",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of septima hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Septima hora diei dicitur Caror"
+    },
+    {
+      "name": "Tariel",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of octava hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Octaua hora diei dicitur Tariel"
+    },
+    {
+      "name": "Karon",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of nona hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Nona hora diei dicitur Karon"
+    },
+    {
+      "name": "Hyon",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of decima hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Decima hora diei dicitur Hyon"
+    },
+    {
+      "name": "Nathalon",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of undecima hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Vndecima hora diei dicitur Nathalon"
+    },
+    {
+      "name": "Abat",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of duodecima hora diei"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Duodecima hora diei dicitur Abat"
+    },
+    {
+      "name": "Leron",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of prima hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Prima hora noctis dicitur Leron"
+    },
+    {
+      "name": "Latol",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of secunda hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Secunda hora noctis dicitur Latol"
+    },
+    {
+      "name": "Hami",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of tertia hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Tercia hora noctis dicitur Hami"
+    },
+    {
+      "name": "Atyn",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of quarta hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Quarta hora noctis dicitur Atyn"
+    },
+    {
+      "name": "Zaia",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of sexta hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Sexta hora noctis dicitur Zaia"
+    },
+    {
+      "name": "Nectius",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of septima hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Septima hora dicitur Nectius"
+    },
+    {
+      "name": "Tafat",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of octava hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Octaua hora noctis dicitur Tafat"
+    },
+    {
+      "name": "Conassuor",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of nona hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Nona hora noctis dicitur Conassuor"
+    },
+    {
+      "name": "Algo",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of decima hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Decima hora noctis dicitur Algo"
+    },
+    {
+      "name": "Caltrua",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of undecima hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Vndecima hora noctis dicitur Caltrua"
+    },
+    {
+      "name": "Salaij",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of duodecima hora noctis"
+      },
+      "page_ref": "p. 344–345",
+      "raw_quote": "Duodecima hora noctis dicitur Salaij"
+    },
+    {
+      "name": "Gaffriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of quinta hora diei"
+      },
+      "page_ref": "p. 345–346",
+      "raw_quote": "5e Gaffriel"
+    },
+    {
+      "name": "Cafriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "ruler of duodecima hora diei",
+        "also_ruler_of_saturn_hours": true
+      },
+      "page_ref": "p. 345–346",
+      "raw_quote": "12e Cafriel"
+    },
+    {
+      "name": "Mathael",
+      "type": "spirit",
+      "attributes": {
+        "role": "alternative ruler of Mercurius hour"
+      },
+      "page_ref": "p. 346",
+      "raw_quote": "eius angelus Michael uel Mathael"
+    },
+    {
+      "name": "Adonay",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "in nomine Adonay, Adonay, Eye, Eye, Eyu"
+    },
+    {
+      "name": "Sadaye",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "in nomine Sadaye, Saday, Cados, Cados, Cados"
+    },
+    {
+      "name": "Saraboth/Sabaoth",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Saday, Sabaoth"
+    },
+    {
+      "name": "Yhon/Yhaa",
+      "type": "concept",
+      "attributes": {
+        "role": "divine names used in conjurations"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "cum nomine sancto suo, Yhon... precioso nomine suo Yhaa"
+    },
+    {
+      "name": "Cados",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Cados, Cados, Cados"
+    },
+    {
+      "name": "Plasmator seculorum",
+      "type": "concept",
+      "attributes": {
+        "role": "divine epithet"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "Plasmatori seculorum"
+    },
+    {
+      "name": "Adonay dei Israel",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "page_ref": "p. 336–345",
+      "raw_quote": "per nomen Adonay, dei Israel"
+    },
+    {
+      "name": "Yma",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "page_ref": "p. 337–345",
+      "raw_quote": "Hacyn, Hacyn, Hacyn... Yma, Yma, Yma"
+    },
+    {
+      "name": "Assandalum croceum",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei dominici"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Suffumigium dies dominice assandalum croceum vel rubeum uel simile sibi"
+    },
+    {
+      "name": "Aloes",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Lune"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Lune est aloes, anacap, uel simile sibi"
+    },
+    {
+      "name": "Anacap",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Lune"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Lune est aloes, anacap, uel simile sibi"
+    },
+    {
+      "name": "Piper",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Martis"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Martis est piper aut abana, cygb uel sibi simile"
+    },
+    {
+      "name": "Abana",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Martis"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Martis est piper aut abana, cygb uel sibi simile"
+    },
+    {
+      "name": "Cyg",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Martis"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Martis est piper aut abana, cygb uel sibi simile"
+    },
+    {
+      "name": "Altast",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Mercurij"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Mercurij est altast aut ei simile"
+    },
+    {
+      "name": "Olibanum",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Jouis"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Jouis est olibanum aut croceum uel ei simile"
+    },
+    {
+      "name": "Croceum",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Jouis"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Jouis est olibanum aut croceum uel ei simile"
+    },
+    {
+      "name": "Almastic",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Veneris"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Veneris est almastic aut lignum radim uel ei simile"
+    },
+    {
+      "name": "Lignum radim",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Veneris"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Veneris est almastic aut lignum radim uel ei simile"
+    },
+    {
+      "name": "Assandaron",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Saturni"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Saturni est assandaron et sulphur aut ei simile"
+    },
+    {
+      "name": "Sulphur",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Saturni"
+      },
+      "page_ref": "p. 341",
+      "raw_quote": "Die Saturni est assandaron et sulphur aut ei simile"
+    },
+    {
+      "name": "Odee Capre",
+      "type": "ingredient",
+      "attributes": {
+        "use": "suffumigium diei Saturni for ligandas lianas"
+      },
+      "page_ref": "p. 342",
+      "raw_quote": "Hece sunt suffumigia dierum septimane... si in die Saturni operare volueris ad ligandas lianas, erit suffumigium thus Odee Capre"
+    },
+    {
+      "name": "Theriac",
+      "type": "ingredient",
+      "attributes": {
+        "use": "for images"
+      },
+      "page_ref": "p. 343",
+      "raw_quote": "cum sangwine rubeo et involues eam in panno albo nouo"
+    },
+    {
+      "name": "Lacryae Lyrae, Lyalguana, Loaffar, Vialuarab, Lebara, Lebarion, Layasales",
+      "type": "concept",
+      "attributes": {
+        "role": "seven precious names of the Creator to inscribe on images"
+      },
+      "page_ref": "p. 343–344",
+      "raw_quote": "Hicf autem cum sculpes, sculpe eam totaliter vt bene appareat.g Et hec sunt nomina: Lyara, Lyalguana, Loaffar, Vialuarab, Lebara, Lebarion, Layasales"
+    },
+    {
+      "name": "Haa",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in ritual"
+      },
+      "page_ref": "p. 343",
+      "raw_quote": "Ista ergo nomina cum nominari volueris invocanda sunt, scilicet Anguas, Yna, Dei Israel, Ybae,a Subae, Guabas, Ynissamon, Haa, Dosa, Barian"
+    },
+    {
+      "name": "Dosa",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in ritual"
+      },
+      "page_ref": "p. 343",
+      "raw_quote": "...Haa, Dosa..."
+    },
+    {
+      "name": "Barian",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in ritual"
+      },
+      "page_ref": "p. 343",
+      "raw_quote": "...Barian"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Raphael",
+      "to": "Sol",
+      "type": "ruler_of_planet"
+    },
+    {
+      "from": "Gabriel",
+      "to": "Luna",
+      "type": "ruler_of_planet"
+    },
+    {
+      "from": "Samael",
+      "to": "Mars",
+      "type": "ruler_of_planet"
+    },
+    {
+      "from": "Michael",
+      "to": "Mercurius",
+      "type": "ruler_of_planet"
+    },
+    {
+      "from": "Satquiel",
+      "to": "Jupiter",
+      "type": "ruler_of_planet"
+    },
+    {
+      "from": "Anael",
+      "to": "Venus",
+      "type": "ruler_of_planet"
+    },
+    {
+      "from": "Captiel",
+      "to": "Saturnus",
+      "type": "ruler_of_planet"
+    },
+    {
+      "from": "Saytam",
+      "to": "die dominicus",
+      "type": "rules_day"
+    },
+    {
+      "from": "Almodab",
+      "to": "die Lune",
+      "type": "rules_day"
+    },
+    {
+      "from": "filius dyabuli",
+      "to": "die Martis",
+      "type": "rules_day"
+    },
+    {
+      "from": "Saba",
+      "to": "die Mercurij",
+      "type": "rules_day"
+    },
+    {
+      "from": "Madrath, filius Arath",
+      "to": "die Jouis",
+      "type": "rules_day"
+    },
+    {
+      "from": "Saabotes",
+      "to": "die Veneris",
+      "type": "rules_day"
+    },
+    {
+      "from": "Hayton/Assayby",
+      "to": "die Saturni",
+      "type": "rules_day"
+    },
+    {
+      "from": "Raphael",
+      "to": "Adonay",
+      "type": "uses_in_conjuration"
+    },
+    {
+      "from": "Samael",
+      "to": "Acynirim",
+      "type": "commands_angelic_host"
+    },
+    {
+      "from": "Oraphaniely",
+      "to": "Gabriel",
+      "type": "commanded_by"
+    },
+    {
+      "from": "Daghyel",
+      "to": "Anael",
+      "type": "commanded_by"
+    },
+    {
+      "from": "Boel",
+      "to": "Captiel",
+      "type": "commanded_by"
+    },
+    {
+      "from": "Yhon/Yhaa",
+      "to": "sigillum terrae",
+      "type": "used_in_sigil"
+    },
+    {
+      "from": "Cados",
+      "to": "Adonay",
+      "type": "divine_epithet_of"
+    },
+    {
+      "from": "Plasmator seculorum",
+      "to": "Creator",
+      "type": "epithet_of"
+    },
+    {
+      "from": "angeli fortes et sancti",
+      "to": "conjurations",
+      "type": "addressed_in"
+    },
+    {
+      "from": "suffumigia",
+      "to": "dies septimane",
+      "type": "assigned_to_days"
+    },
+    {
+      "from": "nomina horarum",
+      "to": "angeli dominantes",
+      "type": "ruled_by"
+    }
+  ],
+  "summary": "This chunk details the Munich Handbook’s (CLM 849) necromantic rituals, focusing on weekday-based conjurations of angels and spirits. It lists angelic rulers for each day (Raphael/Sol to Captiel/Saturnus), their attendant spirits, planetary correspondences, seals, suffumigations (e.g., assandalum croceum for Sunday, aloes for Monday), and hour-specific divine names and functions. The text includes detailed invocations using layered divine names (Adonay, Sadaye, Cados, Yma, etc.), instructions for image-making (e.g., silver dog for tongue-binding), and references to protective circles inscribed with Trinitarian formulas and angelic names.",
+  "key_passages": [
+    "Coniuro super te, Samael, angelo qui est prepositus diei tercio, scilicet Marti, quod pro me laboretis et adimpleatis omnem meam voluntatem et totam meam peticionem.",
+    "Die Martis regnat et seruit rex filius dyabuli. Coadiutores sunt Carmath, Utanaual, Pascami.",
+    "Suffumigium dies dominice assandalum croceum vel rubeum uel simile sibi. Die Lune est aloes, anacap, uel simile sibi. Die Martis est piper aut abana...",
+    "Hec sunt nomina: Lyara, Lyalguana, Loaffar, Vialuarab, Lebara, Lebarion, Layasales. Hec sunt vij nomina que scribes in ventre forme.",
+    "In die dominico operari poteris ad ligandas li[n]gwas aut ad alias ligaciones hominum. Die Lune operandum est ad beniuolenciam et ad concordiam..."
+  ]
+}

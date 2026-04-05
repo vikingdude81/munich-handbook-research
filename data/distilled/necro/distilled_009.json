@@ -1,0 +1,437 @@
+{
+  "source_id": "necro",
+  "chunk_id": 9,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mirael",
+      "type": "spirit",
+      "attributes": {
+        "role": "malign spirit",
+        "function": "afflicts brain to cause dementia"
+      },
+      "raw_quote": "commanding the malign spirit Mirael to enter and afflict his brain"
+    },
+    {
+      "name": "Cartutay, Momabel, Sobil, Geteritacon",
+      "type": "spirit",
+      "attributes": {
+        "role": "antipathetic demon names",
+        "function": "carved on stones for sowing enmity"
+      },
+      "raw_quote": "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon."
+    },
+    {
+      "name": "Puzanil, Pimaton, Folfitoy, Mansator",
+      "type": "spirit",
+      "attributes": {
+        "role": "antipathetic demon names",
+        "function": "carved on stones for sowing enmity"
+      },
+      "raw_quote": "On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator. These names are highly antipathetic to each other."
+    },
+    {
+      "name": "Mosectus",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons"
+      },
+      "raw_quote": "calling upon ‘Mosectus, Barbectus and Belsabuct, the prince of demons’"
+    },
+    {
+      "name": "Barbectus",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon"
+      },
+      "raw_quote": "Mosectus, Barbectus and Belsabuct, the prince of demons"
+    },
+    {
+      "name": "Belsabuct",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons"
+      },
+      "raw_quote": "Mosectus, Barbectus and Belsabuct, the prince of demons"
+    },
+    {
+      "name": "Dyacom",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "On his forehead carve the name ‘Dyacom’"
+    },
+    {
+      "name": "Pumeon",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "On his chest, the three names ‘Pumeon’, ‘Terminas’, and ‘Peripaos’"
+    },
+    {
+      "name": "Terminas",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "On his chest, the three names ‘Pumeon’, ‘Terminas’, and ‘Peripaos’"
+    },
+    {
+      "name": "Peripaos",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "On his chest, the three names ‘Pumeon’, ‘Terminas’, and ‘Peripaos’"
+    },
+    {
+      "name": "Madam",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "on his shoulders the six names ‘Madam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Fabni",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "on his shoulders the six names ‘Madam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Gebel",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "on his shoulders the six names ‘Madam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Darail",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "on his shoulders the six names ‘Madam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Vmeloth",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "on his shoulders the six names ‘Madam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Thereoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "on his shoulders the six names ‘Madam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Byreoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "inscribed on image to gain favour"
+      },
+      "raw_quote": "on his stomach the name ‘Byreoth’"
+    },
+    {
+      "name": "Midain",
+      "type": "spirit",
+      "attributes": {
+        "role": "benevolent spirit who sows concord",
+        "function": "mentioned in conjuration to gain favour"
+      },
+      "raw_quote": "O Dyacon, Pumeon, Termines, Peripaos, Midain, Fabin, Gebel, Dorayl, Vmeloth, Tereoth and Bireoth..."
+    },
+    {
+      "name": "Dorayl",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Darail",
+        "function": "mentioned in conjuration to gain favour"
+      },
+      "raw_quote": "O Dyacon, Pumeon, Termines, Peripaos, Midain, Fabin, Gebel, Dorayl, Vmeloth, Tereoth and Bireoth..."
+    },
+    {
+      "name": "Bireoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Byreoth",
+        "function": "mentioned in conjuration to gain favour"
+      },
+      "raw_quote": "O Dyacon, Pumeon, Termines, Peripaos, Midain, Fabin, Gebel, Dorayl, Vmeloth, Tereoth and Bireoth..."
+    },
+    {
+      "name": "hateful and malignant, invidious and discordant demons",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic agents of enmity"
+      },
+      "raw_quote": "T conjure all you hateful and malignant, invidious and discordant demons ... to arouse at once between so-and-so and so-and-so as much hatred as there was between Cain and Abel."
+    },
+    {
+      "name": "spirits of Saturn",
+      "type": "spirit",
+      "attributes": {
+        "role": "astrological spirits invoked in harmful magic"
+      },
+      "raw_quote": "The operator should call upon the spirits of Saturn to descend from on high and afflict the named victim."
+    },
+    {
+      "name": "Vindicta Troie",
+      "type": "ritual",
+      "attributes": {
+        "function": "arouse hatred, cause bodily harm or death"
+      },
+      "raw_quote": "...an experiment called the Vindicta Troie (Vengeance of Troy), which can be used to arouse hatred or to cause bodily harm or even death."
+    },
+    {
+      "name": "Liber de angelis",
+      "type": "ritual",
+      "attributes": {
+        "function": "source text containing harmful and favour-granting rituals"
+      },
+      "raw_quote": "A fifteenth-century Liber de angelis, annulis, karecteribus et ymaginibus planetarum..."
+    },
+    {
+      "name": "sow hatred between two people",
+      "type": "ritual",
+      "attributes": {
+        "function": "psychological experiment no. 5",
+        "method": "stone burial and beating"
+      },
+      "raw_quote": "When you wish to sow hatred and mortal enmity between two men or women, or a man and a woman..."
+    },
+    {
+      "name": "inflict dementia",
+      "type": "ritual",
+      "attributes": {
+        "function": "psychological experiment no. 2",
+        "method": "conjuration + candle magic"
+      },
+      "raw_quote": "The other experiment in this category in the Munich handbook (no. 2) is intended to inflict dementia."
+    },
+    {
+      "name": "gain favour with dignitary",
+      "type": "ritual",
+      "attributes": {
+        "function": "psychological experiment no. 4",
+        "method": "image carving, metal casting, binding"
+      },
+      "raw_quote": "The Munich handbook provides one rather elaborate experiment designed to gain favour with any manner of dignitary (no. 4)..."
+    },
+    {
+      "name": "cinnamon",
+      "type": "ingredient",
+      "attributes": {
+        "role": "fumigation agent for image"
+      },
+      "raw_quote": "...fumigate his image with these aromatics - cinnamon, long pepper and the herb agrimony..."
+    },
+    {
+      "name": "long pepper",
+      "type": "ingredient",
+      "attributes": {
+        "role": "fumigation agent for image"
+      },
+      "raw_quote": "...fumigate his image with these aromatics - cinnamon, long pepper and the herb agrimony..."
+    },
+    {
+      "name": "agrimony",
+      "type": "ingredient",
+      "attributes": {
+        "role": "herb used in fumigation"
+      },
+      "raw_quote": "...fumigate his image with these aromatics - cinnamon, long pepper and the herb agrimony..."
+    },
+    {
+      "name": "silver or tin",
+      "type": "ingredient",
+      "attributes": {
+        "role": "material for casting images"
+      },
+      "raw_quote": "take silver or tin and melt it over a fire. When it is melted, cast it in his form..."
+    },
+    {
+      "name": "iron stylus",
+      "type": "tool",
+      "attributes": {
+        "role": "used to inscribe names on image"
+      },
+      "raw_quote": "you should have an iron stylus, and on his forehead carve the name ‘Dyacom’..."
+    },
+    {
+      "name": "clean linen cloth",
+      "type": "tool",
+      "attributes": {
+        "role": "wraps images"
+      },
+      "raw_quote": "When you have said this three times, continue as follows: ... wrap it in it [the image], then store it away carefully."
+    },
+    {
+      "name": "iron chain",
+      "type": "tool",
+      "attributes": {
+        "role": "binds image of target to magician’s image"
+      },
+      "raw_quote": "Then take a small iron chain and bind it to the neck of his image, placing the other end in the right hand of your image."
+    },
+    {
+      "name": "SATOR-AREPO square",
+      "type": "tool",
+      "attributes": {
+        "role": "amulet for gaining favour"
+      },
+      "raw_quote": "...writing out the SATOR-AREPO square on virgin parchment with the blood of a white dove..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Mirael",
+      "to": "inflict dementia",
+      "type": "agent-of"
+    },
+    {
+      "from": "Cartutay, Momabel, Sobil, Geteritacon",
+      "to": "sow hatred between two people",
+      "type": "used-in"
+    },
+    {
+      "from": "Puzanil, Pimaton, Folfitoy, Mansator",
+      "to": "sow hatred between two people",
+      "type": "used-in"
+    },
+    {
+      "from": "Mosectus",
+      "to": "egg division ritual",
+      "type": "invoked-in"
+    },
+    {
+      "from": "Dyacom",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Pumeon",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Terminas",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Peripaos",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Madam",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Fabni",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Gebel",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Darail",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Vmeloth",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Thereoth",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "Byreoth",
+      "to": "gain favour with dignitary",
+      "type": "inscribed-on-image"
+    },
+    {
+      "from": "spirits of Saturn",
+      "to": "Vindicta Troie",
+      "type": "invoked-in"
+    },
+    {
+      "from": "hateful and malignant, invidious and discordant demons",
+      "to": "sow hatred between two people",
+      "type": "conjured-by"
+    },
+    {
+      "from": "cinnamon",
+      "to": "gain favour with dignitary",
+      "type": "used-in-fumigation-of"
+    },
+    {
+      "from": "long pepper",
+      "to": "gain favour with dignitary",
+      "type": "used-in-fumigation-of"
+    },
+    {
+      "from": "agrimony",
+      "to": "gain favour with dignitary",
+      "type": "used-in-fumigation-of"
+    },
+    {
+      "from": "silver or tin",
+      "to": "gain favour with dignitary",
+      "type": "material-for-image-casting"
+    },
+    {
+      "from": "iron stylus",
+      "to": "gain favour with dignitary",
+      "type": "used-to-inscribe-names-on"
+    },
+    {
+      "from": "clean linen cloth",
+      "to": "gain favour with dignitary",
+      "type": "used-to-wrap-images"
+    },
+    {
+      "from": "iron chain",
+      "to": "gain favour with dignitary",
+      "type": "used-to-bind-image"
+    }
+  ],
+  "summary": "This chunk analyzes psychological experiments in the Munich Handbook (CLM 849), focusing on harmful and favour-granting magic. It details three key rituals: (1) sowing enmity using carved stones buried under thresholds, burned, cooled, and beaten; (2) inflicting dementia via conjuration of Mirael and candle magic; and (3) gaining favour through image carving, metal casting, and binding with spirits like Dyacom. The text emphasizes sympathetic magic principles and demonstrates how demonic invocations are secondary to imitative acts.",
+  "key_passages": [
+    "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon. On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator. These names are highly antipathetic to each other.",
+    "I conjure all you hateful and malignant, invidious and discordant demons ... to arouse at once between so-and-so and so-and-so as much hatred as there was between Cain and Abel.",
+    "On his forehead carve the name ‘Dyacom’; on his chest, the three names ‘Pumeon’, ‘Terminas’, and ‘Peripaos’; and on [his] shoulders the six names ‘Madam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’; and on his stomach the name ‘Byreoth’.",
+    "As I have separated these stones, thus may so-and-so separate himself from so-and-so, and may they be as distant as these stones.",
+    "Just as this candle is extinguished, so may all the power in N. be utterly consumed."
+  ]
+}

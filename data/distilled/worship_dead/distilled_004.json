@@ -1,0 +1,347 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 4,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Hesiod",
+      "type": "person",
+      "attributes": {
+        "era": "contemporary of Homer",
+        "role": "Pagan writer"
+      },
+      "page_ref": "56",
+      "raw_quote": "\"the gods were the souls of men who were afterwards worshipped by their posterity, on account of their extraordinary virtues.\""
+    },
+    {
+      "name": "Hermes Trismegistus (pseudo-)",
+      "type": "person",
+      "attributes": {
+        "role": "attributed author"
+      },
+      "page_ref": "56",
+      "raw_quote": "\"Aesculapius, Osiris and Thoth were all holy men, whose souls were worshipped after their death by the Egyptians.\""
+    },
+    {
+      "name": "Plutarch",
+      "type": "person",
+      "attributes": {
+        "role": "Pagan writer"
+      },
+      "page_ref": "56",
+      "raw_quote": "\"Cronus, Osiris, Horus, and all their other principal deities were once here men, but that after they died their souls migrated into some one or other of the heavenly bodies...\""
+    },
+    {
+      "name": "Sanchoniathon",
+      "type": "person",
+      "attributes": {
+        "role": "Phoenician writer"
+      },
+      "page_ref": "56",
+      "raw_quote": "\"II, or Cronus, was once a man, that he was deified by the Phoenicians after his death...\""
+    },
+    {
+      "name": "Diodorus Siculus",
+      "type": "person",
+      "attributes": {
+        "era": "flourished ca. 44 B.C.",
+        "role": "Pagan historian"
+      },
+      "page_ref": "56, 58",
+      "raw_quote": "\"Osiris, Vulcan, and other cognate deities were all originally sovereigns of the people by whom they were venerated.\""
+    },
+    {
+      "name": "Cicero",
+      "type": "person",
+      "attributes": {
+        "role": "Roman writer"
+      },
+      "page_ref": "56",
+      "raw_quote": "\"What, is not almost all heaven...filled with the human race?...those very gods themselves...had their originals here below, and ascended from hence into heaven.\""
+    },
+    {
+      "name": "Euhemeros",
+      "type": "person",
+      "attributes": {
+        "era": "ca. 3rd century B.C.",
+        "role": "Greek philosopher"
+      },
+      "page_ref": "56",
+      "raw_quote": "\"Valiant and powerful men have obtained divine honours after death, and that these are the very gods now become the object of our adoration.\""
+    },
+    {
+      "name": "Eusebius",
+      "type": "person",
+      "attributes": {
+        "era": "4th century A.D.",
+        "role": "Church historian"
+      },
+      "page_ref": "56, 60",
+      "raw_quote": "\"The gods first worshipped are the same persons, men and women, even to his time received and worshipped as gods.\""
+    },
+    {
+      "name": "Maimonides (Maimonedes)",
+      "type": "person",
+      "attributes": {
+        "role": "medieval philosopher"
+      },
+      "page_ref": "57",
+      "raw_quote": "\"The stars and spheres are every one of them animated beings, endued with life, knowledge and understanding.\""
+    },
+    {
+      "name": "Augustine",
+      "type": "person",
+      "attributes": {
+        "role": "Church Father"
+      },
+      "page_ref": "57, 60",
+      "raw_quote": "[No direct quote on p. 57; referenced in context of deified men becoming gods]"
+    },
+    {
+      "name": "Alexander the Great",
+      "type": "person",
+      "attributes": {
+        "role": "historical figure"
+      },
+      "page_ref": "56",
+      "raw_quote": "\"Even the higher gods, Jupiter, Juno and Saturn and the other gods, were men...the secret was told him by Leo, the high priest of Egyptian sacred things.\""
+    },
+    {
+      "name": "Orion (mythological)",
+      "type": "spirit",
+      "attributes": {
+        "role": "deified hero",
+        "association": "constellation"
+      },
+      "page_ref": "58",
+      "raw_quote": "\"He was added to the stars\"—that is to say, he was identified with that particular constellation which now bears his name."
+    },
+    {
+      "name": "Osiris",
+      "type": "spirit",
+      "attributes": {
+        "role": "Egyptian god",
+        "origin": "deified human",
+        "association": "ruler of the dead"
+      },
+      "page_ref": "56, 58–59",
+      "raw_quote": "\"Osiris (the principal god of the Egyptians)...was worshipped after his death by the Egyptians.\""
+    },
+    {
+      "name": "Cronus/Saturn",
+      "type": "spirit",
+      "attributes": {
+        "role": "god",
+        "origin": "deified human",
+        "association": "planet Saturn"
+      },
+      "page_ref": "56, 59–60",
+      "raw_quote": "\"II, or Cronus, was once a man...his soul was believed to have passed into the planet which bears his name, viz., Saturn.\""
+    },
+    {
+      "name": "Ham/Ammon",
+      "type": "spirit",
+      "attributes": {
+        "role": "deified patriarch",
+        "association": "sun god of Egypt"
+      },
+      "page_ref": "58–59",
+      "raw_quote": "\"Ham...was the principal Sun god of the Egyptians, and was worshipped under the name of Jupiter Ammon.\""
+    },
+    {
+      "name": "Nimrod",
+      "type": "person",
+      "attributes": {
+        "role": "founder-king",
+        "title": "Bel Nimrod",
+        "origin": "human"
+      },
+      "page_ref": "62–64",
+      "raw_quote": "\"Nimrod was the first king of the Babylonian empire, 'the first who began to be mighty on earth'...he is especially identified with Belus or Cronus.\""
+    },
+    {
+      "name": "Cush",
+      "type": "person",
+      "attributes": {
+        "role": "patriarch",
+        "father_of": "Nimrod"
+      },
+      "page_ref": "60, 62–63",
+      "raw_quote": "\"Belus...is therefore Ham...Ham sometimes took the place of Cush.\""
+    },
+    {
+      "name": "Cedrenus",
+      "type": "person",
+      "attributes": {
+        "role": "medieval chronicler"
+      },
+      "page_ref": "58–59",
+      "raw_quote": "\"Of the tribe of Japhet was born Seruch, who first introduced Hellenism and the worship of idols. For he...honoured their predecessors...with columnar statues...and sacrificed to them as such.\""
+    },
+    {
+      "name": "Epiphanius",
+      "type": "person",
+      "attributes": {
+        "era": "4th century A.D.",
+        "role": "Christian bishop"
+      },
+      "page_ref": "59",
+      "raw_quote": "\"The Egyptians, Babylonians, Phrygians and Phoenicians were the first propagators of this superstition of making images...But it was not until after (their death), and at a considerable interval, that Cronus, Rhea, Zeus...were esteemed and honoured as gods.\""
+    },
+    {
+      "name": "Belus",
+      "type": "spirit",
+      "attributes": {
+        "role": "Babylonian god",
+        "origin": "deified human king"
+      },
+      "page_ref": "61–64",
+      "raw_quote": "\"Belus was the first king of Babylon...after his death was worshipped as a god.\""
+    },
+    {
+      "name": "Bilu Nipru / Bel Nimrod",
+      "type": "spirit",
+      "attributes": {
+        "role": "god",
+        "origin": "Nimrod deified"
+      },
+      "page_ref": "62–64",
+      "raw_quote": "\"Bilu Nipru...might be read Nibrud...and might be regarded as the same name as Nebrod, the name of Nimrod among the Greeks.\""
+    },
+    {
+      "name": "Bilta Niprut / Belit Nipru",
+      "type": "spirit",
+      "attributes": {
+        "role": "goddess",
+        "consort_of": "Bilu Nipru"
+      },
+      "page_ref": "62–63",
+      "raw_quote": "\"Bilta Niprut...is represented as presiding over, and the protector of hunters.\""
+    },
+    {
+      "name": "Hea",
+      "type": "spirit",
+      "attributes": {
+        "role": "god",
+        "association": "first Bel Nimrod"
+      },
+      "page_ref": "64",
+      "raw_quote": "\"The first Bel Nimrod...is shown by Sir Henry Rawlinson to be the same as a god called 'Hea'\""
+    },
+    {
+      "name": "Dea Myrionymus",
+      "type": "spirit",
+      "attributes": {
+        "role": "goddess",
+        "epithet": "with ten thousand names"
+      },
+      "page_ref": "63",
+      "raw_quote": "\"The goddess...called 'Dea Myrionymus,' 'the goddess with ten thousand names,' implying that they were all one and the same being, worshipped under many different aspects.\""
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Hesiod",
+      "to": "gods as deified men",
+      "type": "supports"
+    },
+    {
+      "from": "Plutarch",
+      "to": "Osiris/Cronus/Horus as deified men",
+      "type": "attests"
+    },
+    {
+      "from": "Diodorus Siculus",
+      "to": "Osiris/Vulcan as former sovereigns",
+      "type": "attests"
+    },
+    {
+      "from": "Euhemeros",
+      "to": "gods as deified heroes",
+      "type": "supports"
+    },
+    {
+      "from": "Cicero",
+      "to": "gods as deified men",
+      "type": "cites Euhemerus"
+    },
+    {
+      "from": "Eusebius",
+      "to": "gods as deified humans",
+      "type": "attests"
+    },
+    {
+      "from": "Maimonides",
+      "to": "stars as animated beings",
+      "type": "supports cosmology"
+    },
+    {
+      "from": "Cedrenus",
+      "to": "ancestor worship → idolatry",
+      "type": "describes origin"
+    },
+    {
+      "from": "Epiphanius",
+      "to": "idolatry originating in Egypt/Babylon/Phoenicia",
+      "type": "attests"
+    },
+    {
+      "from": "Ham",
+      "to": "Jupiter Ammon",
+      "type": "identified_with"
+    },
+    {
+      "from": "Nimrod",
+      "to": "Belus",
+      "type": "identified_as"
+    },
+    {
+      "from": "Cush",
+      "to": "first Belus/Nimrod's father",
+      "type": "father_of"
+    },
+    {
+      "from": "Bilu Nipru",
+      "to": "Nimrod",
+      "type": "deified_form_of"
+    },
+    {
+      "from": "Bilta Niprut",
+      "to": "Bilu Nipru",
+      "type": "consort_of"
+    },
+    {
+      "from": "Hea",
+      "to": "first Bel Nimrod",
+      "type": "synonymous_with"
+    },
+    {
+      "from": "Osiris",
+      "to": "Isis",
+      "type": "spouse_of"
+    },
+    {
+      "from": "Cronus",
+      "to": "Rhea",
+      "type": "spouse_of"
+    },
+    {
+      "from": "Zeus",
+      "to": "Hera",
+      "type": "spouse_of"
+    },
+    {
+      "from": "Orion",
+      "to": "constellation Orion",
+      "type": "identified_with"
+    }
+  ],
+  "summary": "This chunk presents extensive patristic and classical evidence for the theory that pagan gods originated as deified human ancestors—particularly heroes, kings, and patriarchs like Nimrod, Ham, Osiris, Cronus, and Belus—who were worshipped after death. It traces how ancestor veneration evolved into idolatry and astral theology, with spirits believed to inhabit celestial bodies. The text explicitly links these beliefs to Babylonian origins and connects them to the broader Mediterranean religious tradition.",
+  "key_passages": [
+    "\"the gods were the souls of men who were afterwards worshipped by their posterity, on account of their extraordinary virtues.\" (Hesiod)",
+    "\"Osiris...was a holy man, whose soul was worshipped after his death by the Egyptians.\" (pseudo-Hermes Trismegistus)",
+    "\"Cronus, Osiris, Horus, and all their other principal deities were once here men, but that after they died their souls migrated into some one or other of the heavenly bodies...\" (Plutarch)",
+    "\"Belus was the first king of Babylon...after his death was worshipped as a god.\" (Castor, quoted)",
+    "\"The gods first worshipped are the same persons, men and women, even to his time received and worshipped as gods.\" (Eusebius)"
+  ]
+}

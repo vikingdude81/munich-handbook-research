@@ -1,0 +1,808 @@
+{
+  "source_id": "necro",
+  "chunk_id": 19,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Baruch",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations; 'foremost prince'"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Bartha is a king; Baltim, Galtim, and Saltim are dukes; Belial is ‘foremost prince’"
+    },
+    {
+      "name": "Belzebub",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Castiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Mirael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named in conjurations"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan."
+    },
+    {
+      "name": "Bartha",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Bartha is a king"
+    },
+    {
+      "name": "Baltim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "duke"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Baltim, Galtim, and Saltim are dukes"
+    },
+    {
+      "name": "Galtim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "duke"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Baltim, Galtim, and Saltim are dukes"
+    },
+    {
+      "name": "Saltim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "duke"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Baltim, Galtim, and Saltim are dukes"
+    },
+    {
+      "name": "Lytim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "overlord of seven demons"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "seven demons are ‘subjects’ of Lytim"
+    },
+    {
+      "name": "Orient",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "nature": "benevolent"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "In two experiments the spirit addressed is named Orient... 'O most high and benign king Orient', 'O benign Orient, maker of the greater part of the world, heaven, and earth'"
+    },
+    {
+      "name": "Apolin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "note": "possibly Apollion"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...one conjures not only Belzebub, Berith, Lucifer and Sathan, but also Apolin, Beliath and Maraloch"
+    },
+    {
+      "name": "Beliath",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...one conjures not only Belzebub, Berith, Lucifer and Sathan, but also Apolin, Beliath and Maraloch"
+    },
+    {
+      "name": "Maraloch",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...one conjures not only Belzebub, Berith, Lucifer and Sathan, but also Apolin, Beliath and Maraloch"
+    },
+    {
+      "name": "Belferith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Camoy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Noryoth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Ocel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Oreoth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Pinen",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Sismael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Sobronoy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Tryboy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...another addresses not only Mirael and Astaroth but also Belferith, Camoy, Noryoth, Ocel, Oreoth, Pinen, Sismael, Sobronoy and Tryboy"
+    },
+    {
+      "name": "Altramat",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Archidemath",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Discobermath",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Fritath",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Hegergibet",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Helyberp",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Pestiferat",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Sona",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Althes",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Cormes",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Dies",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Diles",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Dilia",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Fabar",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Felsmes",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Mithiomo",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Molbet",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Natheus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Onaris",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Pist",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Progemon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Thobar",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Vmon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Vralchim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Curson",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "note": "broad currency"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "When the list of spirits in this manual is compared with that in Picatrix... Of the eleven spirits named in experiment no. 34, only Curson has broad currency"
+    },
+    {
+      "name": "Hanni",
+      "type": "spirit",
+      "attributes": {
+        "note": "possibly Haniel"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...only Curson has broad currency (unless Hanni is equated with Haniel)"
+    },
+    {
+      "name": "Apollion",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Apolin"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Apolin could be Apollion"
+    },
+    {
+      "name": "Arath",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Arathiel"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Arath could be Arathiel"
+    },
+    {
+      "name": "Astra",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Astrael"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Astra could be Astrael"
+    },
+    {
+      "name": "Damay",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Dahnay"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Damay could be Dahnay"
+    },
+    {
+      "name": "Erlain",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Erel(l)im"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Erlain could be Erel(l)im"
+    },
+    {
+      "name": "Gana",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Ganael"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Gana could be Ganael"
+    },
+    {
+      "name": "Gebel",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Gebiel"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Gebel could be Gebiel"
+    },
+    {
+      "name": "Lamair",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Lama"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Lamair could be Lama"
+    },
+    {
+      "name": "Oor",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Or"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Oor could be Or"
+    },
+    {
+      "name": "Safrit",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Safriel"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Safrit could be Safriel"
+    },
+    {
+      "name": "Tami",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Tamiel"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Tami could be Tamiel"
+    },
+    {
+      "name": "Taraor",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Tara"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Taraor could be Tara"
+    },
+    {
+      "name": "Tatomofon",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Tatonon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Tatomofon could be Tatonon"
+    },
+    {
+      "name": "Thomo",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Thomax"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Thomo could be Thomax"
+    },
+    {
+      "name": "Ym",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Im"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Ym could be Im"
+    },
+    {
+      "name": "Zanno",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Zainon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Zanno or Zaimo could be Zainon"
+    },
+    {
+      "name": "Zaimo",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible identification of Zainon"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Zanno or Zaimo could be Zainon"
+    },
+    {
+      "name": "Iamblichus",
+      "type": "person",
+      "attributes": {
+        "role": "Neoplatonist source of demonic hierarchy"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "The notion of a demonic hierarchy... stems chiefly from the Neoplatonists, and above all Iamblichus."
+    },
+    {
+      "name": "Proclus",
+      "type": "person",
+      "attributes": {
+        "role": "Neoplatonist who categorized daimones by elements"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Proclus, drawing on Iamblichus’s elaborate categorization, spoke of daimones as ruling the fire, the air, the water, the earth and the underground region"
+    },
+    {
+      "name": "Michael Psellus",
+      "type": "person",
+      "attributes": {
+        "role": "added lucifugues to demon hierarchy"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...to this system Psellus added lucifugues (or light-fleeing) demons"
+    },
+    {
+      "name": "Johannes Trithemius",
+      "type": "person",
+      "attributes": {
+        "role": "lent authority to the expanded demon hierarchy"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...and Johannes Trithemius lent the weight of his authority to this system"
+    },
+    {
+      "name": "Thomas Aquinas",
+      "type": "person",
+      "attributes": {
+        "role": "theologian who accepted infernal hierarchy"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a ‘Lowerarchy’, as C.S. Lewis called it... The notion of a demonic hierarchy... is an assumption that the Malleus maleficarum shared with Thomas Aquinas."
+    },
+    {
+      "name": "C.S. Lewis",
+      "type": "person",
+      "attributes": {
+        "role": "coined term 'Lowerarchy' for infernal hierarchy"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...a ‘Lowerarchy’, as C.S. Lewis called it"
+    },
+    {
+      "name": "Apuleius",
+      "type": "person",
+      "attributes": {
+        "role": "source of daimon concept in Christian tradition"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Apuleius’s De deo Socratis remained long influential... daemones were rational beings whose natural sphere was the sublunary air"
+    },
+    {
+      "name": "John of Frankfurt",
+      "type": "person",
+      "attributes": {
+        "role": "theologian who debated demonic coercion"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "John of Frankfurt devoted a treatise in 1412 to the question... whether it is possible to have the power of coercing a demon through characters, figures, and recitation of words"
+    },
+    {
+      "name": "Nicholas Eymericus",
+      "type": "person",
+      "attributes": {
+        "role": "theologian who described demonic honor as sacrifice"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Nicholas Eymericus explains that some conjurers exhibit the honour of latria to the demons they invoke by sacrificing to them..."
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual",
+      "attributes": {
+        "source": "Richard Kieckhefer, Forbidden Rites"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "Altogether 189 spirits are addressed by name in the Munich handbook’s conjurations"
+    },
+    {
+      "name": "Picatrix",
+      "type": "ritual",
+      "attributes": {
+        "source": "comparative reference"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "When the list of spirits in this manual is compared with that in Picatrix, what is striking is the singular lack of correspondence."
+    },
+    {
+      "name": "Malleus maleficarum",
+      "type": "ritual",
+      "attributes": {
+        "source": "reference text"
+      },
+      "page_ref": "section 7, Demons and Daimons",
+      "raw_quote": "...the Malleus maleficarum shared with Thomas Aquinas."
+    },
+    {
+      "name": "Rawlinson MS D 252",
+      "type": "ritual",
+      "attributes": {
+        "source": "parallel manuscript"
+      },
+      "page_ref": "footnotes (e.g., n.37, 52)",
+      "raw_quote": "Compare the wording of the conjuration in Bodleian Library MS Rawlinson D 252..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Iamblichus",
+      "to": "Proclus",
+      "type": "influenced"
+    },
+    {
+      "from": "Proclus",
+      "to": "demon hierarchy",
+      "type": "categorized"
+    },
+    {
+      "from": "Psellus",
+      "to": "lucifugues",
+      "type": "added to system"
+    },
+    {
+      "from": "Trithemius",
+      "to": "demon hierarchy",
+      "type": "validated"
+    },
+    {
+      "from": "Aquinas",
+      "to": "Malleus maleficarum",
+      "type": "shared concept with"
+    },
+    {
+      "from": "Apuleius",
+      "to": "daemones",
+      "type": "described in De deo Socratis"
+    }
+  ]
+}

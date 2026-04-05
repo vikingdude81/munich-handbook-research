@@ -1,0 +1,245 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 4,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Jubertus of Bavaria",
+      "type": "person",
+      "attributes": {
+        "age": "60",
+        "origin": "Regensburg, Bavaria",
+        "role": "confessor/associate of Johannes Cunalis"
+      },
+      "page_ref": "45",
+      "raw_quote": "One of the many subjects brought before the judges in this campaign was a sixty-year-old man, Jubertus of Bavaria, from Regensburg, tried in 1437 at Briançon."
+    },
+    {
+      "name": "Johannes Cunalis",
+      "type": "person",
+      "attributes": {
+        "title": "priest and plebanus",
+        "location": "Munich, near Bohemia"
+      },
+      "page_ref": "45–46",
+      "raw_quote": "…he served a certain powerful man in Bavaria who was called Johannes Cunalis, who is a priest and plebanus, in a city called Munich in Bavaria, near Bohemia."
+    },
+    {
+      "name": "Luxuriosus",
+      "type": "spirit",
+      "attributes": {
+        "demonic classification": "devil",
+        "form": "charming maiden of twelve years"
+      },
+      "page_ref": "45–46",
+      "raw_quote": "...when he who spoke opened this book at once there appeared to him three demons, one named Luxuriosus..."
+    },
+    {
+      "name": "Superbus",
+      "type": "spirit",
+      "attributes": {
+        "demonic classification": "devil"
+      },
+      "page_ref": "45–46",
+      "raw_quote": "...another named Superbus, and the third Avarus, [all of them] devils."
+    },
+    {
+      "name": "Avarus",
+      "type": "spirit",
+      "attributes": {
+        "demonic classification": "devil"
+      },
+      "page_ref": "45–46",
+      "raw_quote": "...another named Superbus, and the third Avarus, [all of them] devils."
+    },
+    {
+      "name": "CLM 849",
+      "type": "ritual",
+      "attributes": {
+        "repository": "Bavarian State Library",
+        "common name": "Munich Handbook"
+      },
+      "page_ref": "45, 47–53",
+      "raw_quote": "The fact that our necromantic manuscript is now in the Bavarian State Library... Clm 849..."
+    },
+    {
+      "name": "librum de nigromancia",
+      "type": "ritual",
+      "attributes": {
+        "language": "Latin",
+        "owner": "Johannes Cunalis"
+      },
+      "page_ref": "45",
+      "raw_quote": "...this Johannes Cunalis had a book of necromancy [librum de nigromancia]..."
+    },
+    {
+      "name": "Das půch aller verpoten kunst",
+      "type": "ritual",
+      "attributes": {
+        "author": "Johannes Hartlieb",
+        "date": "1456–1464"
+      },
+      "page_ref": "47–48",
+      "raw_quote": "Hartlieb... wrote Das půch aller verpoten kunst (The Book of All Forbidden Arts) at the behest of Margrave Johann..."
+    },
+    {
+      "name": "Johannes Hartlieb",
+      "type": "person",
+      "attributes": {
+        "dates": "c. 1400–68",
+        "role": "physician to Duke of Bavaria, author"
+      },
+      "page_ref": "47–52",
+      "raw_quote": "Hartlieb served the duke of Bavaria in Munich during the last three decades of his life..."
+    },
+    {
+      "name": "necromancy (nigramancia)",
+      "type": "concept",
+      "attributes": {
+        "classification": "first of seven forbidden arts",
+        "synonym": "black art"
+      },
+      "page_ref": "48",
+      "raw_quote": "Hartlieb lists necromancy (nigramancia) as the first of the seven forbidden arts..."
+    },
+    {
+      "name": "verpintnuß",
+      "type": "ritual",
+      "attributes": {
+        "language": "Middle High German",
+        "context": "oath/pact with devils"
+      },
+      "page_ref": "48",
+      "raw_quote": "...must make an oath and pact [verpintnuß] with the devils."
+    },
+    {
+      "name": "Isidore of Seville",
+      "type": "person",
+      "attributes": {
+        "work": "Etymologies",
+        "classification of magic": "four species of divination by elements"
+      },
+      "page_ref": "48",
+      "raw_quote": "Isidore of Seville, who deals with magic and especially magical divination in his Etymologies..."
+    },
+    {
+      "name": "Hugh of St Victor",
+      "type": "person",
+      "attributes": {
+        "work": "Didascalicon",
+        "classification": "five categories of magic"
+      },
+      "page_ref": "48",
+      "raw_quote": "Hugh of St Victor’s Didascalicon borrows from Isidore..."
+    },
+    {
+      "name": "Nicholas Magni of Jawor",
+      "type": "person",
+      "attributes": {
+        "influence": "on Hartlieb and on categorization of forbidden arts"
+      },
+      "page_ref": "47–48",
+      "raw_quote": "...influenced in particular by Nicholas Magni of Jawor..."
+    },
+    {
+      "name": "Johannes Reuchlin",
+      "type": "person",
+      "attributes": {
+        "era": "late 15th century",
+        "stance": "critic of corrupted magical names"
+      },
+      "page_ref": "51",
+      "raw_quote": "...Humanist mages such as Johannes Reuchlin protested that the debased magic... could have no effect because the very names they used for the spirits were corrupt..."
+    },
+    {
+      "name": "Jamnes and Mambres",
+      "type": "concept",
+      "attributes": {
+        "source": "2 Timothy 3:8",
+        "context": "magicians who opposed Moses"
+      },
+      "page_ref": "51",
+      "raw_quote": "The formula ‘May your arts fail … as Jamnes and Mambres failed’..."
+    },
+    {
+      "name": "Michael Scot",
+      "type": "person",
+      "attributes": {
+        "role": "court astrologer",
+        "patron": "Frederick II"
+      },
+      "page_ref": "53",
+      "raw_quote": "A closer model might be Michael Scot, who served at the court of Frederick II and had an interest in astrology..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Johannes Cunalis",
+      "to": "Luxuriosus",
+      "type": "conjures"
+    },
+    {
+      "from": "Johannes Cunalis",
+      "to": "Superbus",
+      "type": "conjures"
+    },
+    {
+      "from": "Johannes Cunalis",
+      "to": "Avarus",
+      "type": "conjures"
+    },
+    {
+      "from": "Jubertus of Bavaria",
+      "to": "Johannes Cunalis",
+      "type": "served"
+    },
+    {
+      "from": "CLM 849",
+      "to": "Luxuriosus",
+      "type": "contains spirit names"
+    },
+    {
+      "from": "CLM 849",
+      "to": "Superbus",
+      "type": "contains spirit names"
+    },
+    {
+      "from": "CLM 849",
+      "to": "Avarus",
+      "type": "contains spirit names"
+    },
+    {
+      "from": "Jubertus of Bavaria",
+      "to": "librum de nigromancia",
+      "type": "describes usage of"
+    },
+    {
+      "from": "Hartlieb",
+      "to": "CLM 849",
+      "type": "may have consulted"
+    },
+    {
+      "from": "Isidore of Seville",
+      "to": "necromancy",
+      "type": "classified as divination by elements"
+    },
+    {
+      "from": "Hugh of St Victor",
+      "to": "Isidore of Seville",
+      "type": "borrowed from"
+    },
+    {
+      "from": "Hartlieb",
+      "to": "Nicholas Magni of Jawor",
+      "type": "influenced by"
+    }
+  ],
+  "summary": "This chunk situates the Munich Handbook (CLM 849) in its historical context, focusing on late medieval necromancy in and around Munich. It discusses the trial of Jubertus of Bavaria, who confessed to conjuring three demons—Luxuriosus, Superbus, and Avarus—from a book owned by the priest Johannes Cunalis. The chapter also examines Johannes Hartlieb’s classification of necromancy as the first forbidden art and his description of demonic pacts and rituals. It explores possible links between Hartlieb, CLM 849, and clerical magical practice, while analyzing the manuscript’s compilation process and scribal characteristics.",
+  "key_passages": [
+    "...when he who spoke opened this book at once there appeared to him three demons, one named Luxuriosus, another Superbus, and the third Avarus, [all of them] devils.",
+    "Hartlieb lists necromancy (nigramancia) as the first of the seven forbidden arts, along with geomancy, hydromancy, aeromancy, pyromancy, chiromancy and spatulamancy.",
+    "...one who wishes to exercise this art must give all sorts of sacrifices to the devils, and must make an oath and pact [verpintnuß] with the devils.",
+    "The writer’s own orthography was highly erratic; within the same experiment he sometimes slipped from one version to another in his names for demons...",
+    "What seems quite clear is that the writer was a cleric – probably a priest, and at least a person in minor orders."
+  ]
+}

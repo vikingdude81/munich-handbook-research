@@ -1,0 +1,322 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 1,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual",
+      "attributes": {
+        "description": "A late medieval necromantic manual; the subject of upcoming chapters in Kieckhefer’s study"
+      },
+      "page_ref": "p.24–25",
+      "raw_quote": "when we examine the Munich handbook of necromancy in following chapters what we will find there is a characteristically clerical form of magic, using Latin texts and presupposing knowledge of mainstream ritual."
+    },
+    {
+      "name": "Liber consecrationum (Book of Consecrations)",
+      "type": "ritual",
+      "attributes": {
+        "description": "A late medieval anonymous work on re-consecrating magical books; outlines procedures for restoring efficacy to corrupted experiments"
+      },
+      "page_ref": "p.20–21",
+      "raw_quote": "A short, anonymous work called the Liber consecrationum (Book of Consecrations), which circulated in late medieval manuscripts in varying forms, makes clear that the book itself was a sacred object requiring elaborate consecration..."
+    },
+    {
+      "name": "ars notoria",
+      "type": "ritual|concept",
+      "attributes": {
+        "description": "A heretical/magical tradition involving special figures, contemplation, prayer, fasting, and invocation of mysterious names for knowledge, wealth, honour or pleasure"
+      },
+      "page_ref": "p.18–19",
+      "raw_quote": "He thus sought to renew the ‘heresy and sorcery’ known as the ars notoria, which involves the use of special figures, contemplation of these figures amid prayer and fasting, and invocation of mysterious and presumably demonic names..."
+    },
+    {
+      "name": "On",
+      "type": "spirit",
+      "attributes": {
+        "description": "A divine name invoked in consecration prayers; part of a list of sacred names used to empower magical texts"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "by the power of these your most sacred names, On, Jesus Christ, Alpha and O, El, Eloy, Eloyye, Sithothith..."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spirit",
+      "attributes": {
+        "description": "A divine name (YHWH) invoked in consecration prayers; part of a list of sacred names used to empower magical texts"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Tetragramaton, Elyoram, Ryon, Deseryon..."
+    },
+    {
+      "name": "Sabaoth",
+      "type": "spirit",
+      "attributes": {
+        "description": "A divine name (often as ‘Lord Sabaoth’) invoked in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Sabaoth, Adonay..."
+    },
+    {
+      "name": "Eloy / Eloyye",
+      "type": "spirit",
+      "attributes": {
+        "description": "Variant forms of a divine name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...El, Eloy, Eloyye, Sithothith..."
+    },
+    {
+      "name": "Sithothith",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Eloyye, Sithothith..."
+    },
+    {
+      "name": "Sepmelamaton",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Sepmelamaton, Ezelphates..."
+    },
+    {
+      "name": "Ezelphates",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Sepmelamaton, Ezelphates..."
+    },
+    {
+      "name": "Deseryon",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Elyoram, Ryon, Deseryon..."
+    },
+    {
+      "name": "Erystion",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Deseryon, Erystion..."
+    },
+    {
+      "name": "Ysyornus",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Erystion, Ysyornus..."
+    },
+    {
+      "name": "Onela",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Ysyornus, Onela..."
+    },
+    {
+      "name": "Baysyn",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Onela, Baysyn..."
+    },
+    {
+      "name": "Moyn",
+      "type": "spirit",
+      "attributes": {
+        "description": "A mysterious divine or angelic name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Baysyn, Moyn..."
+    },
+    {
+      "name": "Messias",
+      "type": "spirit",
+      "attributes": {
+        "description": "A divine title/name invoked in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Moyn, Messias..."
+    },
+    {
+      "name": "Sother",
+      "type": "spirit",
+      "attributes": {
+        "description": "Greek for ‘Saviour’, invoked as a divine name in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Messias, Sother..."
+    },
+    {
+      "name": "Emanuel",
+      "type": "spirit",
+      "attributes": {
+        "description": "A divine name meaning ‘God with us’, invoked in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Sother, Emanuel..."
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "description": "A divine name (Hebrew ‘My Lord’) invoked in consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...Emanuel, Sabaoth, Adonay..."
+    },
+    {
+      "name": "malign spirits",
+      "type": "spirit",
+      "attributes": {
+        "description": "Demons or harmful entities to be summoned; explicitly invoked in the consecration prayers"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...specifically requests power to summon ‘malign spirits’ from wherever they may happen to be lurking."
+    },
+    {
+      "name": "litany of the saints",
+      "type": "ritual",
+      "attributes": {
+        "description": "A liturgical prayer recited during book consecration"
+      },
+      "page_ref": "p.20–21",
+      "raw_quote": "...must hear mass... and then he must carry the book back home... saying seven psalms (presumably the seven penitential psalms), ‘the litany’ (meaning the litany of the saints)..."
+    },
+    {
+      "name": "seven penitential psalms",
+      "type": "ritual",
+      "attributes": {
+        "description": "Psalms 6, 32, 38, 51, 102, 130, and 143; recited during book consecration"
+      },
+      "page_ref": "p.20–21",
+      "raw_quote": "...must say seven psalms (presumably the seven penitential psalms), ‘the litany’..."
+    },
+    {
+      "name": "Confiteor",
+      "type": "ritual",
+      "attributes": {
+        "description": "A prayer of confession recited before additional consecrations"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...he should use a series of further prayers, along with which he must say the Confiteor..."
+    },
+    {
+      "name": "holy water",
+      "type": "ingredient",
+      "attributes": {
+        "description": "Used in ritual purification and protection during book handling"
+      },
+      "page_ref": "p.21",
+      "raw_quote": "...take holy water, and make the sign of the cross on his forehead."
+    },
+    {
+      "name": "priestly cincture",
+      "type": "tool",
+      "attributes": {
+        "description": "A liturgical belt used to bind the magical book during consecration"
+      },
+      "page_ref": "p.20",
+      "raw_quote": "...after binding it with a priestly cincture and a stole placed in the form of a cross."
+    },
+    {
+      "name": "stole",
+      "type": "tool",
+      "attributes": {
+        "description": "A liturgical vestment used to bind the book during consecration"
+      },
+      "page_ref": "p.20",
+      "raw_quote": "...a stole placed in the form of a cross."
+    },
+    {
+      "name": "clerical underworld",
+      "type": "concept",
+      "attributes": {
+        "description": "A social group of underemployed clerics who practiced necromancy"
+      },
+      "page_ref": "p.24–25",
+      "raw_quote": "a society that had a surplus of clergy inevitably spawned an underemployed and largely unsupervised ‘clerical underworld’ capable of various forms of mischief, including necromancy..."
+    },
+    {
+      "name": "exorcism",
+      "type": "ritual|concept",
+      "attributes": {
+        "description": "Formal commands to demons to expel them; distinguished from conjuration only by intent"
+      },
+      "page_ref": "p.26",
+      "raw_quote": "What we now call exorcism was practised by an individual, usually a cleric... who addressed demons with formal commands..."
+    },
+    {
+      "name": "conjuring",
+      "type": "ritual|concept",
+      "attributes": {
+        "description": "Formal commands to summon demons; identical in form to exorcism but differing in intent"
+      },
+      "page_ref": "p.26",
+      "raw_quote": "What we now call conjuring was also practised by an individual, usually a cleric, who addressed demons with formal commands essentially identical to those of the exorcists..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Liber consecrationum",
+      "to": "malign spirits",
+      "type": "summons_target"
+    },
+    {
+      "from": "Liber consecrationum",
+      "to": "seven penitential psalms",
+      "type": "ritual_prerequisite"
+    },
+    {
+      "from": "Liber consecrationum",
+      "to": "litany of the saints",
+      "type": "ritual_prerequisite"
+    },
+    {
+      "from": "Liber consecrationum",
+      "to": "Confiteor",
+      "type": "ritual_prerequisite"
+    },
+    {
+      "from": "exorcism",
+      "to": "conjuring",
+      "type": "ritual_parallel"
+    },
+    {
+      "from": "ars notoria",
+      "to": "mysterious and presumably demonic names",
+      "type": "uses"
+    },
+    {
+      "from": "clerical underworld",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "produces_or_uses"
+    }
+  ],
+  "summary": "This chunk introduces the conceptual framing of magical books as sacred objects requiring consecration, focusing on the Liber consecrationum and its elaborate re-consecration rituals. It details divine names invoked in these rites (e.g., Tetragramaton, Sabaoth), ritual components (holy water, stole, litany), and distinguishes necromantic conjuring from exorcism only by intent. The Munich Handbook is identified as a central clerical source of demonic magic to be analyzed later.",
+  "key_passages": [
+    "A short, anonymous work called the Liber consecrationum (Book of Consecrations)... makes clear that the book itself was a sacred object requiring elaborate consecration...",
+    "by the power of these your most sacred names, On, Jesus Christ, Alpha and O, El, Eloy, Eloyye, Sithothith, Eon, Sepmelamaton, Ezelphates, Tetragramaton, Elyoram, Ryon, Deseryon, Erystion, Ysyornus, Onela, Baysyn, Moyn, Messias, Sother, Emanuel, Sabaoth, Adonay...",
+    "What we now call exorcism was practised by an individual... What we now call conjuring was also practised by an individual... In neither case was the command automatically efficacious: both exorcists and conjurers reckoned on the possibility that the demons might resist their invocations...",
+    "the Munich handbook of necromancy... is a characteristically clerical form of magic, using Latin texts and presupposing knowledge of mainstream ritual.",
+    "The rites of magic suggest questions analogous to those raised by any rites... it is better to perceive demonic magic as an illicit form of religion than as a cultural phenomenon distinct from religion."
+  ]
+}

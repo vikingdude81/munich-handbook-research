@@ -1,0 +1,465 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 38,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Castiel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "90, 156",
+      "raw_quote": "Castiel, 90, 156"
+    },
+    {
+      "name": "Mirael",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "74, 156, 172",
+      "raw_quote": "Mirael, 74, 156, 172"
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "87, 156, 173, 174",
+      "raw_quote": "Paymon, 87, 156, 173, 174"
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "80, 118, 138, 156, 161, 172",
+      "raw_quote": "Lucifer, 80, 118, 138, 156, 161, 172"
+    },
+    {
+      "name": "Satan (Sathan)",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "6, 82, 83, 109, 118, 142–5, 147, 148, 154, 156, 158, 161, 171, 172",
+      "raw_quote": "Satan (Sathan), 6, 82, 83, 109, 118, 142–5, 147, 148, 154, 156, 158, 161, 171, 172"
+    },
+    {
+      "name": "Semiforas (Shem ham-M’forash)",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "115",
+      "raw_quote": "Semiforas (Shem ham-M’forash), 115"
+    },
+    {
+      "name": "Oriens",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "140, 162",
+      "raw_quote": "Oriens, 140, 162"
+    },
+    {
+      "name": "Liber consecrationum",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "8–10, 25, 29, 128",
+      "raw_quote": "Liber consecrationum, 8–10, 25, 29, 128"
+    },
+    {
+      "name": "Liber de angelis",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "71, 72, 80, 86",
+      "raw_quote": "Liber de angelis, 71, 72, 80, 86"
+    },
+    {
+      "name": "Key of Solomon",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "26",
+      "raw_quote": "Key of Solomon, 26"
+    },
+    {
+      "name": "Testament of Solomon",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "161",
+      "raw_quote": "Testament of Solomon, 161"
+    },
+    {
+      "name": "Key of Pluto",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "26",
+      "raw_quote": "Key of Pluto, 26"
+    },
+    {
+      "name": "Livre des esperitz",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "161",
+      "raw_quote": "Livre des esperitz, 161"
+    },
+    {
+      "name": "Malleus maleficarum",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "5, 86, 155",
+      "raw_quote": "Malleus maleficarum, 5, 86, 155"
+    },
+    {
+      "name": "Lemegeton",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "161",
+      "raw_quote": "Lemegeton, 161"
+    },
+    {
+      "name": "Rawlinson MS D 252",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "24, 42–4, 56, 61, 100, 107, 110, 131, 140, 158, 159, 171, 175",
+      "raw_quote": "Rawlinson MS D 252, 24, 42–4, 56, 61, 100, 107, 110, 131, 140, 158, 159, 171, 175"
+    },
+    {
+      "name": "Liber de angelis",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "71, 72, 80, 86",
+      "raw_quote": "Liber de angelis, 71, 72, 80, 86"
+    },
+    {
+      "name": "Fasciculus morum",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "97, 170",
+      "raw_quote": "Fasciculus morum, 97, 170"
+    },
+    {
+      "name": "Floron, Mirror of",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "28, 104–6, 178",
+      "raw_quote": "Floron, Mirror of, 28, 104–6, 178"
+    },
+    {
+      "name": "Lilith, Mirror of",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "104, 106",
+      "raw_quote": "Lilith, Mirror of, 104, 106"
+    },
+    {
+      "name": "Opus Zoal",
+      "type": "ritual text",
+      "attributes": {},
+      "page_ref": "29",
+      "raw_quote": "Opus Zoal, 29"
+    },
+    {
+      "name": "Honorius, son of Euclid",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "171",
+      "raw_quote": "Honorius, son of Euclid, 171"
+    },
+    {
+      "name": "Scot, Michael",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "5, 37, 120",
+      "raw_quote": "Scot, Michael, 5, 37, 120"
+    },
+    {
+      "name": "Honi the Circle-Drawer",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "175",
+      "raw_quote": "Honi the Circle-Drawer, 175"
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "24, 85, 108, 115, 139, 159, 171",
+      "raw_quote": "Solomon, 24, 85, 108, 115, 139, 159, 171"
+    },
+    {
+      "name": "Gilles de Rais",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "186–7",
+      "raw_quote": "Gilles de Rais, 186–7"
+    },
+    {
+      "name": "Kramer, Heinrich",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "3, 82",
+      "raw_quote": "Kramer, Heinrich, 3, 82; see also Malleus maleficarum"
+    },
+    {
+      "name": "Honi the Circle-Drawer",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "175",
+      "raw_quote": "Honi the Circle-Drawer, 175"
+    },
+    {
+      "name": "circle",
+      "type": "tool",
+      "attributes": {},
+      "page_ref": "18, 23, 25, 29, 36, 42, 44–53, 55–60, 57, 62–3, 70–1, 74, 80, 84–7, 91, 100, 103, 106, 110–13, 115–6, 141, 142, 187",
+      "raw_quote": "circles, 18, 23, 25, 29, 36, 42, 44–53, 55–60, 57, 62–3, 70–1, 74, 80, 84–7, 91, 100, 103, 106, 110–13, 115–6, 141, 142, 187"
+    },
+    {
+      "name": "candles",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "71, 74, 75, 113, 119",
+      "raw_quote": "candles, 71, 74, 75, 113, 119"
+    },
+    {
+      "name": "crystals",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "29, 97, 98, 102, 103, 107",
+      "raw_quote": "crystals, 29, 97, 98, 102, 103, 107"
+    },
+    {
+      "name": "fingernails",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "29, 34, 96–8, 100, 103, 108–12, 115–6, 141, 142",
+      "raw_quote": "fingernails, 29, 34, 96–8, 100, 103, 108–12, 115–6, 141, 142"
+    },
+    {
+      "name": "hoopoes",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "42, 47–50, 63, 66 n. 25, 75, 117, 157, 158, 187",
+      "raw_quote": "hoopoes, 42, 47–50, 63, 66 n. 25, 75, 117, 157, 158, 187"
+    },
+    {
+      "name": "moon",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "24, 47, 51, 55, 59, 73, 76, 81, 105, 106, 114, 137, 177",
+      "raw_quote": "moon, 24, 47, 51, 55, 59, 73, 76, 81, 105, 106, 114, 137, 177"
+    },
+    {
+      "name": "rings",
+      "type": "tool",
+      "attributes": {},
+      "page_ref": "42, 59, 61–3, 84, 85, 97, 100, 128, 133, 139, 142, 161",
+      "raw_quote": "rings, 42, 59, 61–3, 84, 85, 97, 100, 128, 133, 139, 142, 161"
+    },
+    {
+      "name": "swords",
+      "type": "tool",
+      "attributes": {},
+      "page_ref": "42, 47–50, 59, 60, 62, 72, 84, 88, 98, 101, 104, 110–12, 117–9, 159, 160, 171, 173",
+      "raw_quote": "swords, 42, 47–50, 59, 60, 62, 72, 84, 88, 98, 101, 104, 110–12, 117–9, 159, 160, 171, 173"
+    },
+    {
+      "name": "mirrors",
+      "type": "tool",
+      "attributes": {},
+      "page_ref": "4, 28, 29, 61, 97–100, 103–8, 110, 112, 178",
+      "raw_quote": "mirrors, 4, 28, 29, 61, 97–100, 103–8, 110, 112, 178"
+    },
+    {
+      "name": "vessels",
+      "type": "tool",
+      "attributes": {},
+      "page_ref": "5, 28, 59, 78, 85, 86, 103, 108, 112",
+      "raw_quote": "vessels, 5, 28, 59, 78, 85, 86, 103, 108, 112"
+    },
+    {
+      "name": "fumigation (suffumigation)",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "59, 73, 78, 84, 158, 159, 177–8, 186, 187",
+      "raw_quote": "fumigation (suffumigation), 59, 73, 78, 84, 158, 159, 177–8, 186, 187"
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "42, 109, 110, 115, 135, 138, 160, 171",
+      "raw_quote": "Tetragrammaton, 42, 109, 110, 115, 135, 138, 160, 171"
+    },
+    {
+      "name": "SATOR-AREPO square",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "76, 113, 116",
+      "raw_quote": "SATOR-AREPO square, 76, 113, 116"
+    },
+    {
+      "name": "sign of the cross",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "47, 59, 110, 111, 160",
+      "raw_quote": "sign of the cross, 47, 59, 110, 111, 160"
+    },
+    {
+      "name": "conjurations",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "8, 12, 14, 16, 23, 29, 36, 42, 45, 48–9, 51, 53, 57, 58, 61, 62, 73–5, 80, 81, 83, 84, 86–8, 90, 91, 98, 102, 105–11, 115, 116, 127–34, 138, 140–4, 146, 147, 149, 156, 170, 174, 179",
+      "raw_quote": "conjurations, 8, 12, 14, 16, 23, 29, 36, 42, 45, 48–9, 51, 53, 57, 58, 61, 62, 73–5, 80, 81, 83, 84, 86–8, 90, 91, 98, 102, 105–11, 115, 116, 127–34, 138, 140–4, 146, 147, 149, 156, 170, 174, 179"
+    },
+    {
+      "name": "exorcisms",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "5, 14, 91, 127, 144–9, 157, 188",
+      "raw_quote": "exorcisms, 5, 14, 91, 127, 144–9, 157, 188"
+    },
+    {
+      "name": "invocations (as element in conjuration)",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "127–9, 132, 133–40, 145–6, 159",
+      "raw_quote": "invocations (as element in conjuration), 127–9, 132, 133–40, 145–6, 159"
+    },
+    {
+      "name": "declaration (as element in conjuration)",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "127, 131–4, 149",
+      "raw_quote": "declaration (as element in conjuration), 127, 131–4, 149"
+    },
+    {
+      "name": "instruction (as element in conjuration)",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "127–9, 134, 140–3, 146, 149, 160, 179",
+      "raw_quote": "instruction (as element in conjuration), 127–9, 134, 140–3, 146, 149, 160, 179"
+    },
+    {
+      "name": "necromancy",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "1–4, 6, 7, 10–13, 18, 22, 25, 26, 30, 32–5, 37, 44, 45, 54, 61, 64, 69–72, 80, 82, 101, 102, 127, 128, 160, 170, 175, 177, 180, 186–8",
+      "raw_quote": "necromancy, 1–4, 6, 7, 10–13, 18, 22, 25, 26, 30, 32–5, 37, 44, 45, 54, 61, 64, 69–72, 80, 82, 101, 102, 127, 128, 160, 170, 175, 177, 180, 186–8"
+    },
+    {
+      "name": "daimones",
+      "type": "concept",
+      "attributes": {},
+      "page_ref": "50, 154–5",
+      "raw_quote": "daimones, 50, 154–5"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Castiel",
+      "to": "Liber consecrationum",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Mirael",
+      "to": "Liber de angelis",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Paymon",
+      "to": "Liber de angelis",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Lucifer",
+      "to": "Testament of Solomon",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Satan (Sathan)",
+      "to": "Testament of Solomon",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Semiforas (Shem ham-M’forash)",
+      "to": "Liber consecrationum",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Oriens",
+      "to": "Liber de angelis",
+      "type": "mentioned in"
+    },
+    {
+      "from": "Solomon",
+      "to": "Key of Solomon",
+      "type": "attributed to"
+    },
+    {
+      "from": "Honi the Circle-Drawer",
+      "to": "circle",
+      "type": "associated with"
+    },
+    {
+      "from": "Scot, Michael",
+      "to": "necromancy",
+      "type": "practitioner of"
+    },
+    {
+      "from": "Gilles de Rais",
+      "to": "necromancy",
+      "type": "practitioner of"
+    },
+    {
+      "from": "Kramer, Heinrich",
+      "to": "Malleus maleficarum",
+      "type": "author of"
+    },
+    {
+      "from": "Rawlinson MS D 252",
+      "to": "conjurations",
+      "type": "contains"
+    },
+    {
+      "from": "Liber de angelis",
+      "to": "conjurations",
+      "type": "contains"
+    },
+    {
+      "from": "circle",
+      "to": "conjurations",
+      "type": "used in"
+    },
+    {
+      "from": "rings",
+      "to": "conjurations",
+      "type": "used in"
+    },
+    {
+      "from": "swords",
+      "to": "conjurations",
+      "type": "used in"
+    },
+    {
+      "from": "mirrors",
+      "to": "scrying",
+      "type": "used for"
+    },
+    {
+      "from": "Tetragrammaton",
+      "to": "conjurations",
+      "type": "used in"
+    },
+    {
+      "from": "SATOR-AREPO square",
+      "to": "conjurations",
+      "type": "used in"
+    },
+    {
+      "from": "sign of the cross",
+      "to": "exorcisms",
+      "type": "used in"
+    }
+  ],
+  "summary": "This chunk contains index entries and scattered references to spirits, ritual texts, tools, and concepts from Kieckhefer’s *Forbidden Rites*, with emphasis on the Munich Handbook (CLM 849) and related necromantic traditions. Named entities include spirits like Castiel, Mirael, Paymon, Lucifer, Satan, Semiforas, and Oriens; ritual texts such as *Liber consecrationum*, *Liber de angelis*, *Key of Solomon*, *Testament of Solomon*, *Lemegeton*, and *Rawlinson MS D 252*; tools like circles, rings, swords, mirrors, and vessels; and conceptual elements in conjuration (e.g., declaration, invocation, instruction). The index highlights recurring ritual components across medieval magical manuscripts.",
+  "key_passages": [
+    "Castiel, 90, 156",
+    "Semiforas (Shem ham-M’forash), 115",
+    "Liber consecrationum, 8–10, 25, 29, 128",
+    "conjurations, 8, 12, 14, 16, 23, 29, 36, 42, 45, 48–9, 51, 53, 57, 58, 61, 62, 73–5, 80, 81, 83, 84, 86–8, 90, 91, 98, 102, 105–11, 115, 116, 127–34, 138, 140–4, 146, 147, 149, 156, 170, 174, 179",
+    "necromancy, 1–4, 6, 7, 10–13, 18, 22, 25, 26, 30, 32–5, 37, 44, 45, 54, 61, 64, 69–72, 80, 82, 101, 102, 127, 128, 160, 170, 175, 177, 180, 186–8"
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "source_id": "necro",
+  "chunk_id": 36,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magister demonum",
+        "function": "master of demons in ritual"
+      },
+      "page_ref": "[99r], [100r], [103v]",
+      "raw_quote": "per magistrum vestrum Astaroth vobis concessa"
+    },
+    {
+      "name": "Belzebub",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum"
+      },
+      "page_ref": "[97v], [100r]",
+      "raw_quote": "Coniuro vos, principes omnium demoniorum, Astaroth, Belzebub, Berit..."
+    },
+    {
+      "name": "Berit",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum"
+      },
+      "page_ref": "[97v], [103v]",
+      "raw_quote": "Coniuro vos, principes omnium demoniorum... Berit..."
+    },
+    {
+      "name": "Fornicator",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum"
+      },
+      "page_ref": "[97v]",
+      "raw_quote": "...Fornicator, Temptator, et Seductor..."
+    },
+    {
+      "name": "Temptator",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum"
+      },
+      "page_ref": "[97v]",
+      "raw_quote": "...Fornicator, Temptator, et Seductor..."
+    },
+    {
+      "name": "Seductor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum"
+      },
+      "page_ref": "[97v]",
+      "raw_quote": "...Fornicator, Temptator, et Seductor..."
+    },
+    {
+      "name": "Natheus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum"
+      },
+      "page_ref": "[97v]",
+      "raw_quote": "Natheus, Molbet."
+    },
+    {
+      "name": "Molbet",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum"
+      },
+      "page_ref": "[97v]",
+      "raw_quote": "Natheus, Molbet."
+    },
+    {
+      "name": "Azraro",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[100r]",
+      "raw_quote": "Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda"
+    },
+    {
+      "name": "Rotunda",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[100r]",
+      "raw_quote": "Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda"
+    },
+    {
+      "name": "Istath",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[100r]",
+      "raw_quote": "Istath, Hoaz, Abays, Fastich"
+    },
+    {
+      "name": "Hoaz",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[100r]",
+      "raw_quote": "Istath, Hoaz, Abays, Fastich"
+    },
+    {
+      "name": "Abays",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[100r]",
+      "raw_quote": "Istath, Hoaz, Abays, Fastich"
+    },
+    {
+      "name": "Fastich",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[100r]",
+      "raw_quote": "Istath, Hoaz, Abays, Fastich"
+    },
+    {
+      "name": "Vmon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Vmon, Progemon, Mithiomo, Pist..."
+    },
+    {
+      "name": "Progemon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Vmon, Progemon, Mithiomo, Pist..."
+    },
+    {
+      "name": "Mithiomo",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Vmon, Progemon, Mithiomo, Pist..."
+    },
+    {
+      "name": "Pist",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Vmon, Progemon, Mithiomo, Pist..."
+    },
+    {
+      "name": "Uralchim",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Uralchim, Althes, Panite, Fabar..."
+    },
+    {
+      "name": "Althes",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Uralchim, Althes, Panite, Fabar..."
+    },
+    {
+      "name": "Panite",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Uralchim, Althes, Panite, Fabar..."
+    },
+    {
+      "name": "Fabar",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Uralchim, Althes, Panite, Fabar..."
+    },
+    {
+      "name": "Thobar",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Thobar, Cormes, Felsmes, Diles..."
+    },
+    {
+      "name": "Cormes",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Thobar, Cormes, Felsmes, Diles..."
+    },
+    {
+      "name": "Felsmes",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Thobar, Cormes, Felsmes, Diles..."
+    },
+    {
+      "name": "Diles",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Thobar, Cormes, Felsmes, Diles..."
+    },
+    {
+      "name": "Dilia",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Diles, Dilia, Dies, Onaris"
+    },
+    {
+      "name": "Dies",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Diles, Dilia, Dies, Onaris"
+    },
+    {
+      "name": "Onaris",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[97v]",
+      "raw_quote": "Diles, Dilia, Dies, Onaris"
+    },
+    {
+      "name": "El",
+      "type": "spirit",
+      "attributes": {
+        "note": "used in list of Christ's names"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "El, Eloy, Elyon..."
+    },
+    {
+      "name": "Eloy",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "El, Eloy, Elyon..."
+    },
+    {
+      "name": "Elyon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "El, Eloy, Elyon..."
+    },
+    {
+      "name": "Aloe",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Aloe, Sappa, Sother..."
+    },
+    {
+      "name": "Sappa",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Aloe, Sappa, Sother..."
+    },
+    {
+      "name": "Sother",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Aloe, Sappa, Sother..."
+    },
+    {
+      "name": "Emanuel",
+      "type": "spirit",
+      "attributes": {
+        "note": "Christological name"
+      },
+      "page_ref": "[98r], [102r]",
+      "raw_quote": "Emanuel, Tetragramaton..."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spirit",
+      "attributes": {
+        "note": "divine name"
+      },
+      "page_ref": "[98r], [100r]",
+      "raw_quote": "Tetragramaton, Saday..."
+    },
+    {
+      "name": "Saday",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Tetragramaton, Saday..."
+    },
+    {
+      "name": "Luamay",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Luamay, Athanatos..."
+    },
+    {
+      "name": "Athanatos",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Luamay, Athanatos..."
+    },
+    {
+      "name": "Ysos",
+      "type": "spirit",
+      "attributes": {
+        "note": "variant of Iesous (Jesus)"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Ysos, Kyrie..."
+    },
+    {
+      "name": "Kyrie",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Ysos, Kyrie..."
+    },
+    {
+      "name": "Primogenitus",
+      "type": "spirit",
+      "attributes": {
+        "note": "Christological title"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Primogenitus, Vita, Finis..."
+    },
+    {
+      "name": "Vita",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Primogenitus, Vita, Finis..."
+    },
+    {
+      "name": "Finis",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Primogenitus, Vita, Finis..."
+    },
+    {
+      "name": "Via",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Via, Flos, Fons..."
+    },
+    {
+      "name": "Flos",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Via, Flos, Fons..."
+    },
+    {
+      "name": "Fons",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Via, Flos, Fons..."
+    },
+    {
+      "name": "Veritas",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "...Ve- [98r] ritas, Sapiencia..."
+    },
+    {
+      "name": "Sapiencia",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "...Veritas, Sapiencia, Virtus..."
+    },
+    {
+      "name": "Virtus",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "...Sapiencia, Virtus, Paraclitus..."
+    },
+    {
+      "name": "Paraclitus",
+      "type": "spirit",
+      "attributes": {
+        "note": "Holy Spirit"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "...Virtus, Paraclitus..."
+    },
+    {
+      "name": "Mediator",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Mediator, Agnus..."
+    },
+    {
+      "name": "Agnus",
+      "type": "spirit",
+      "attributes": {
+        "note": "Lamb of God"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Mediator, Agnus, Ouis..."
+    },
+    {
+      "name": "Ouis",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Agnus, Ouis, Vitulus..."
+    },
+    {
+      "name": "Vitulus",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Ouis, Vitulus, Serpens..."
+    },
+    {
+      "name": "Serpens",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Vitulus, Serpens, Aries..."
+    },
+    {
+      "name": "Aries",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Serpens, Aries, Leo..."
+    },
+    {
+      "name": "Leo",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Aries, Leo, Os..."
+    },
+    {
+      "name": "Os",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Leo, Os, Verbum..."
+    },
+    {
+      "name": "Verbum",
+      "type": "spirit",
+      "attributes": {
+        "note": "Logos/Word of God"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Os, Verbum, Ianua..."
+    },
+    {
+      "name": "Ianua",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Verbum, Ianua, Ymago..."
+    },
+    {
+      "name": "Ymago",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Ianua, Ymago, Gloria..."
+    },
+    {
+      "name": "Gloria",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Ymago, Gloria, Lux..."
+    },
+    {
+      "name": "Lux",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Gloria, Lux, Sol..."
+    },
+    {
+      "name": "Sol",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Lux, Sol, Splendor..."
+    },
+    {
+      "name": "Splendor",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Sol, Splendor, Lapis angularis..."
+    },
+    {
+      "name": "Lapis angularis",
+      "type": "spirit",
+      "attributes": {
+        "note": "cornerstone"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Splendor, Lapis angularis, Sponsus..."
+    },
+    {
+      "name": "Sponsus",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Lapis angularis, Sponsus, Pastor..."
+    },
+    {
+      "name": "Pastor",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Sponsus, Pastor, Propheta..."
+    },
+    {
+      "name": "Propheta",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Pastor, Propheta, Sacerdos..."
+    },
+    {
+      "name": "Sacerdos",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Propheta, Sacerdos, Immortalis..."
+    },
+    {
+      "name": "Immortalis",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Sacerdos, Immortalis, Lex..."
+    },
+    {
+      "name": "Lex",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Immortalis, Lex, Rex..."
+    },
+    {
+      "name": "Rex",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Lex, Rex, Christus..."
+    },
+    {
+      "name": "Christus",
+      "type": "spirit",
+      "attributes": {
+        "note": "Messianic title"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Rex, Christus, Pater..."
+    },
+    {
+      "name": "Pater",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Christus, Pater, Filius..."
+    },
+    {
+      "name": "Filius",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Pater, Filius, Spiritus Sanctus..."
+    },
+    {
+      "name": "Spiritus Sanctus",
+      "type": "spirit",
+      "attributes": {
+        "note": "Holy Spirit"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Filius, Spiritus Sanctus, Agla..."
+    },
+    {
+      "name": "Agla",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Spiritus Sanctus, Agla, Petra..."
+    },
+    {
+      "name": "Petra",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Agla, Petra, Eternitas..."
+    },
+    {
+      "name": "Eternitas",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Petra, Eternitas, Neon..."
+    },
+    {
+      "name": "Neon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Eternitas, Neon, Burnon..."
+    },
+    {
+      "name": "Burnon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Neon, Burnon, Parli..."
+    },
+    {
+      "name": "Parli",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Burnon, Parli, Caon..."
+    },
+    {
+      "name": "Caon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Parli, Caon, Aepton..."
+    },
+    {
+      "name": "Aepton",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Caon, Aepton, Alpha et O..."
+    },
+    {
+      "name": "Alpha et O",
+      "type": "spirit",
+      "attributes": {
+        "note": "Revelation 21:6; Christological"
+      },
+      "page_ref": "[97r], [98r], [100r]",
+      "raw_quote": "...Alpha et O, Omnipotens..."
+    },
+    {
+      "name": "Omnipotens",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Alpha et O, Omnipotens, Misericors..."
+    },
+    {
+      "name": "Misericors",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Omnipotens, Misericors, Caritas..."
+    },
+    {
+      "name": "Caritas",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Misericors, Caritas, Eternus..."
+    },
+    {
+      "name": "Eternus Creator et Redemptor",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Caritas, Eternus Creator et Redemptor..."
+    },
+    {
+      "name": "Primus et Nouissimus",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Eternus Creator et Redemptor, Primus et Nouissimus..."
+    },
+    {
+      "name": "Dator et Receptor",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Primus et Nouissimus, Dator et Receptor..."
+    },
+    {
+      "name": "Ayos",
+      "type": "spirit",
+      "attributes": {
+        "note": "Greek for 'holy'"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Ayos, Otheos, Yschyros..."
+    },
+    {
+      "name": "Otheos",
+      "type": "spirit",
+      "attributes": {
+        "note": "Greek for 'God'"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Ayos, Otheos, Yschyros..."
+    },
+    {
+      "name": "Yschyros",
+      "type": "spirit",
+      "attributes": {
+        "note": "Greek for 'mighty'"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Otheos, Yschyros, Sanctus Deus..."
+    },
+    {
+      "name": "Sanctus Deus",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Yschyros, Sanctus Deus..."
+    },
+    {
+      "name": "Fords et Paciens",
+      "type": "spirit",
+      "attributes": {
+        "note": "likely 'Fortis et Paciens' (strong and patient)"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Sanctus Deus, Fords et Paciens..."
+    },
+    {
+      "name": "Iustus Iudex in vldmo die",
+      "type": "spirit",
+      "attributes": {
+        "note": "Just Judge on the last day"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Fords et Paciens, Iustus Iudex in vldmo die"
+    },
+    {
+      "name": "Michael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel"
+      },
+      "page_ref": "[99r]",
+      "raw_quote": "...et per 3es angelos, scilicet Michael, Gabriel, Raphael..."
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel"
+      },
+      "page_ref": "[99r]",
+      "raw_quote": "...et per 3es angelos, scilicet Michael, Gabriel, Raphael..."
+    },
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel"
+      },
+      "page_ref": "[99r]",
+      "raw_quote": "...et per 3es angelos, scilicet Michael, Gabriel, Raphael..."
+    },
+    {
+      "name": "Caspar",
+      "type": "spirit",
+      "attributes": {
+        "note": "one of the Magi"
+      },
+      "page_ref": "[98v], [102r]",
+      "raw_quote": "...per 3es magos, scilicet Caspar, Balthasar, Melchior..."
+    },
+    {
+      "name": "Balthasar",
+      "type": "spirit",
+      "attributes": {
+        "note": "one of the Magi"
+      },
+      "page_ref": "[98v], [102r]",
+      "raw_quote": "...per 3es magos, scilicet Caspar, Balthasar, Melchior..."
+    },
+    {
+      "name": "Melchior",
+      "type": "spirit",
+      "attributes": {
+        "note": "one of the Magi"
+      },
+      "page_ref": "[98v], [102r]",
+      "raw_quote": "...per 3es magos, scilicet Caspar, Balthasar, Melchior..."
+    },
+    {
+      "name": "Jaspar",
+      "type": "spirit",
+      "attributes": {
+        "note": "variant of Caspar"
+      },
+      "page_ref": "[102r]",
+      "raw_quote": "Jaspar, Balthasar, Melchior..."
+    },
+    {
+      "name": "Smoagel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102r]",
+      "raw_quote": "Jaspar, Balthasar, Melchior, Smoagel, Emanuel..."
+    },
+    {
+      "name": "Lytim",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v]",
+      "raw_quote": "Lytim, cum tuis subditis Ygrim, Andyron..."
+    },
+    {
+      "name": "Ygrim",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v]",
+      "raw_quote": "Lytim, cum tuis subditis Ygrim, Andyron..."
+    },
+    {
+      "name": "Andyron",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v]",
+      "raw_quote": "cum tuis subditis Ygrim, Andyron, Vzmyas..."
+    },
+    {
+      "name": "Vzmyas",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v]",
+      "raw_quote": "...Andyron, Vzmyas, Ytelteos..."
+    },
+    {
+      "name": "Ytelteos",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v]",
+      "raw_quote": "...Vzmyas, Ytelteos, Zymens..."
+    },
+    {
+      "name": "Zymens",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v]",
+      "raw_quote": "...Ytelteos, Zymens, Bylent..."
+    },
+    {
+      "name": "Bylent",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v]",
+      "raw_quote": "...Zymens, Bylent, Baruth..."
+    },
+    {
+      "name": "Baruth",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v], [103v]",
+      "raw_quote": "...Bylent, Baruth... Baruth..."
+    },
+    {
+      "name": "Naamay",
+      "type": "spirit",
+      "attributes": {
+        "note": "divine name used in exorcism"
+      },
+      "page_ref": "[102v]",
+      "raw_quote": "per nomen Naamay, Syy..."
+    },
+    {
+      "name": "Syy",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102v]",
+      "raw_quote": "per nomen Naamay, Syy..."
+    },
+    {
+      "name": "Messias",
+      "type": "spirit",
+      "attributes": {
+        "note": "variant spelling of Messiah"
+      },
+      "page_ref": "[102r]",
+      "raw_quote": "...per xij nomina Christi... Messvas..."
+    },
+    {
+      "name": "Sothei",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102r]",
+      "raw_quote": "Messvas, Sothei; Emanuel..."
+    },
+    {
+      "name": "Adonav",
+      "type": "spirit",
+      "attributes": {
+        "note": "variant of Adonai"
+      },
+      "page_ref": "[102r]",
+      "raw_quote": "...Adonav, Panthon, Pantocrathon..."
+    },
+    {
+      "name": "Panthon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102r]",
+      "raw_quote": "Adonav, Panthon, Pantocrathon..."
+    },
+    {
+      "name": "Pantocrathon",
+      "type": "spirit",
+      "attributes": {
+        "note": "variant of Pantokrator"
+      },
+      "page_ref": "[102r]",
+      "raw_quote": "Panthon, Pantocrathon..."
+    },
+    {
+      "name": "Elov",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102r]",
+      "raw_quote": "Pantocrathon, Elov, Theos..."
+    },
+    {
+      "name": "Theos",
+      "type": "spirit",
+      "attributes": {
+        "note": "Greek for God"
+      },
+      "page_ref": "[102r]",
+      "raw_quote": "Elov, Theos, Eton..."
+    },
+    {
+      "name": "Visio",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102r]",
+      "raw_quote": "Theos, Eton,- Visio, Saluator..."
+    },
+    {
+      "name": "Salvator",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[102r]",
+      "raw_quote": "Visio, Saluator, Alpha et O..."
+    },
+    {
+      "name": "Principium et finis",
+      "type": "spirit",
+      "attributes": {
+        "note": "Revelation 22:13"
+      },
+      "page_ref": "[102r]",
+      "raw_quote": "...principium et finis, via..."
+    },
+    {
+      "name": "Veritas",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "...Vera- ritas, Sapiencia..."
+    },
+    {
+      "name": "Sapientia",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "...Veritas, Sapiencia, Virtus..."
+    },
+    {
+      "name": "Virtus",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Sapientia, Virtus, Paraclitus..."
+    },
+    {
+      "name": "Paraclitus",
+      "type": "spirit",
+      "attributes": {
+        "note": "Holy Spirit as Advocate"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Virtus, Paraclitus, Ego sum qui sum..."
+    },
+    {
+      "name": "Ego sum qui sum",
+      "type": "spirit",
+      "attributes": {
+        "note": "Exodus 3:14"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Paraclitus, Ego sum qui sum, Mediator..."
+    },
+    {
+      "name": "Agnus",
+      "type": "spirit",
+      "attributes": {
+        "note": "Lamb of God"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "...Mediator, Agnus, Ouis..."
+    },
+    {
+      "name": "Ovis",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Agnus, Ouis, Vitulus..."
+    },
+    {
+      "name": "Vitulus",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Ovis, Vitulus, Serpens..."
+    },
+    {
+      "name": "Serpens",
+      "type": "spirit",
+      "attributes": {
+        "note": "bronze serpent / Christ as sign"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Vitulus, Serpens, Aries..."
+    },
+    {
+      "name": "Aries",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Serpens, Aries, Leo..."
+    },
+    {
+      "name": "Leo",
+      "type": "spirit",
+      "attributes": {
+        "note": "Lion of Judah"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Aries, Leo, Os..."
+    },
+    {
+      "name": "Os",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Leo, Os, Verbum..."
+    },
+    {
+      "name": "Verbum",
+      "type": "spirit",
+      "attributes": {
+        "note": "Logos / Word of God"
+      },
+      "page_ref": "[98r], [102r]",
+      "raw_quote": "...Os, Verbum, Ianua..."
+    },
+    {
+      "name": "Ianua",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Verbum, Ianua, Ymago..."
+    },
+    {
+      "name": "Mediator",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "...Ego sum qui sum, Mediator..."
+    },
+    {
+      "name": "Primogenitus",
+      "type": "spirit",
+      "attributes": {
+        "note": "firstborn"
+      },
+      "page_ref": "[98r]",
+      "raw_quote": "Tetragramaton, Saday, Luamay, Athanatos, Ysos, Kyrie, Primogenitus..."
+    },
+    {
+      "name": "Vita",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "...Primogenitus, Vita, Finis..."
+    },
+    {
+      "name": "Finis",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "[98r]",
+      "raw_quote": "Vita, Finis, Via..."
+    }
+  ]
+}

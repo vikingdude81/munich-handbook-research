@@ -1,0 +1,157 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 40,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "spirits of the dead",
+      "type": "spirit",
+      "attributes": {
+        "role": "supposed intermediaries",
+        "status": "deceived entities"
+      },
+      "page_ref": "p. 402",
+      "raw_quote": "The foundation of the system was manifestly the worship of the spirits of the dead, on the supposition that they were the active and powerful inhabitants of the unseen world..."
+    },
+    {
+      "name": "evil spirits",
+      "type": "spirit",
+      "attributes": {
+        "role": "deceivers",
+        "status": "personating spirits"
+      },
+      "page_ref": "p. 402–403",
+      "raw_quote": "...evil spirits personating the supposed spirits of the dead who could neither hear nor aid them."
+    },
+    {
+      "name": "Prince of Evil",
+      "type": "spirit",
+      "attributes": {
+        "title": "god of this world",
+        "role": "guiding spirit of idolatry"
+      },
+      "page_ref": "p. 401",
+      "raw_quote": "...him 'who deceiveth the whole world,' 'the spirit which worketh in the children of disobedience'... 'the god of this world.'"
+    },
+    {
+      "name": "Osiris",
+      "type": "spirit",
+      "attributes": {
+        "role": "false Christ of Paganism",
+        "status": "mythological figure"
+      },
+      "page_ref": "p. 367",
+      "raw_quote": "Osiris was the false Christ of Paganism."
+    },
+    {
+      "name": "Diana of the Ephesians",
+      "type": "spirit",
+      "attributes": {
+        "role": "idolatrous deity",
+        "status": "pagan goddess"
+      },
+      "page_ref": "p. 402",
+      "raw_quote": "...the people of Ephesus, who, in their enthusiasm, cried out for upwards of two hours, 'Great is Diana of the Ephesians.'"
+    },
+    {
+      "name": "Romanism",
+      "type": "concept",
+      "attributes": {
+        "comparison": "perversion of Christianity",
+        "status": "historical religious system"
+      },
+      "page_ref": "p. 405–406",
+      "raw_quote": "...like Romanism, which is a perversion of Christianity..."
+    },
+    {
+      "name": "idolatry",
+      "type": "concept",
+      "attributes": {
+        "nature": "spiritual deception",
+        "mechanism": "appeal to senses"
+      },
+      "page_ref": "p. 400–407",
+      "raw_quote": "...the ritual of idolatry appealed only to the senses, imagination, and the psychical or natural part of man."
+    },
+    {
+      "name": "psychical feelings",
+      "type": "concept",
+      "attributes": {
+        "etymology": "from ψυχή (soul)",
+        "role": "natural but non-spiritual affect"
+      },
+      "page_ref": "p. 400",
+      "raw_quote": "The word 'psychical' is from ψυχή, 'the soul,' or 'natural life'... feelings produced, not by any appeal to the conscience and moral faculties..."
+    },
+    {
+      "name": "Socrates",
+      "type": "person",
+      "attributes": {
+        "fate": "condemned to death",
+        "reason": "blasphemy against gods"
+      },
+      "page_ref": "p. 402",
+      "raw_quote": "...as was illustrated by the case of Socrates, condemned to death by the Athenians."
+    },
+    {
+      "name": "Roman Catholic countries (Virgin and Saints)",
+      "type": "concept",
+      "attributes": {
+        "cultural phenomenon": "devotion to images",
+        "status": "modern parallel to ancient idolatry"
+      },
+      "page_ref": "p. 403",
+      "raw_quote": "...a word spoken against the Virgin or Saints in some Roman Catholic countries, a few years ago, would have aroused the fury of the populace..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "spirits of the dead",
+      "to": "evil spirits",
+      "type": "personated_by"
+    },
+    {
+      "from": "evil spirits",
+      "to": "idolatry",
+      "type": "driving_force_of"
+    },
+    {
+      "from": "idolatry",
+      "to": "psychical feelings",
+      "type": "appeals_to"
+    },
+    {
+      "from": "Osiris",
+      "to": "Paganism",
+      "type": "central_figure_in"
+    },
+    {
+      "from": "Diana of the Ephesians",
+      "to": "idolatry",
+      "type": "example_of"
+    },
+    {
+      "from": "Socrates",
+      "to": "idolatry",
+      "type": "victim_of_persecution_for_challenging"
+    },
+    {
+      "from": "Romanism",
+      "to": "Paganism",
+      "type": "historical_parallel_to"
+    },
+    {
+      "from": "Roman Catholic devotion",
+      "to": "idolatry",
+      "type": "modern_manifestation_of"
+    }
+  ],
+  "summary": "This chunk presents a theological critique of ancient Paganism, identifying its foundation in the worship of the dead and linking it to spiritual deception by evil spirits. It argues that such practices appeal to the senses and natural affections (psychical feelings), leading adherents away from true spirituality and into moral corruption and demonic influence. The text draws parallels between ancient idolatry and later religious systems like Romanism, while referencing Osiris as a false Christ figure in Paganism.",
+  "key_passages": [
+    "The foundation of the system was manifestly the worship of the spirits of the dead, on the supposition that they were the active and powerful inhabitants of the unseen world, willing and able to assist their descendants in the flesh.",
+    "...evil spirits personating the supposed spirits of the dead who could neither hear nor aid them.",
+    "The word 'psychical' is from ψυχή, 'the soul,' or 'natural life'... feelings produced, not by any appeal to the conscience and moral faculties...",
+    "Osiris was the false Christ of Paganism.",
+    "...a word spoken against the Virgin or Saints in some Roman Catholic countries, a few years ago, would have aroused the fury of the populace..."
+  ]
+}

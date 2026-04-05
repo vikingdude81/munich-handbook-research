@@ -1,0 +1,152 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 12,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "necromancer",
+      "type": "person",
+      "attributes": {
+        "role": "cleric performing divination"
+      },
+      "page_ref": "p. 118",
+      "raw_quote": "he threatened to go to a certain necromantic wizard [maleficum quendam nigromanticum] and find out through him about this strange affair."
+    },
+    {
+      "name": "boy medium",
+      "type": "person",
+      "attributes": {
+        "age": "young",
+        "function": "scrying medium"
+      },
+      "page_ref": "p. 118",
+      "raw_quote": "the necromancer... anointed the fingernail of a young boy, then with his incantations inquired of him what he saw."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "hierarchy": "demon",
+        "function": "answers inquiries"
+      },
+      "page_ref": "p. 123",
+      "raw_quote": "within that circle they were to invoke the demon Berith, who would answer their inquiries."
+    },
+    {
+      "name": "AGLA",
+      "type": "ritual",
+      "attributes": {
+        "context": "angelic invocation on thumbnail"
+      },
+      "page_ref": "p. 120",
+      "raw_quote": "writes on it the letters ‘AGLA’... 'Lord Jesus Christ, king of glory, send us three angels to tell us the truth and not falsehood in all matters about which we shall inquire.'"
+    },
+    {
+      "name": "scrying",
+      "type": "ritual",
+      "attributes": {
+        "methods": [
+          "catoptromancy",
+          "crystallomancy",
+          "onychomancy",
+          "lecanomancy"
+        ]
+      },
+      "page_ref": "p. 120",
+      "raw_quote": "The general term for such divination is ‘scrying’, which is sometimes subdivided into specific forms such as catoptromancy (divination by means of a mirror), crystallomancy (by a crystal), cyclicomancy or lecanomancy (by a cup or basin filled with liquid)..."
+    },
+    {
+      "name": "John Dee’s ‘show-stone’",
+      "type": "tool",
+      "attributes": {
+        "function": "medium for angelic communication"
+      },
+      "page_ref": "p. 120",
+      "raw_quote": "One particularly dramatic notion about the magical properties of mirrors is the legend... John Dee’s ‘show-stone’, through which Edward Kelly and other mediums communicated with angels."
+    },
+    {
+      "name": "John Hartlieb’s procedures",
+      "type": "ritual",
+      "attributes": {
+        "methods": [
+          "hydromancy",
+          "pyromancy"
+        ],
+        "tools": [
+          "steel mirror",
+          "executioner’s sword",
+          "polished surface"
+        ]
+      },
+      "page_ref": "p. 120–121",
+      "raw_quote": "Johannes Hartlieb tells how a zaubermaister stands behind a child and recites secret words into his ear in the practice of hydromancy... he conjures the child and his nail with a long conjuration and recites three secret words into his ear."
+    },
+    {
+      "name": "Maurice",
+      "type": "person",
+      "attributes": {
+        "role": "boy medium"
+      },
+      "page_ref": "p. 123",
+      "raw_quote": "applied ointment to the thumbnail of a boy called Maurice, asked this medium what he saw there revealed..."
+    },
+    {
+      "name": "Brother Thomas Asty",
+      "type": "person",
+      "attributes": {
+        "accused": "theft"
+      },
+      "page_ref": "p. 123",
+      "raw_quote": "learned that the culprit was one of the canons, Brother Thomas Asty."
+    },
+    {
+      "name": "William Lee",
+      "type": "person",
+      "attributes": {
+        "accused": "theft"
+      },
+      "page_ref": "p. 124",
+      "raw_quote": "they charged one William Lee, a poor man, who had..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "necromancer",
+      "to": "boy medium",
+      "type": "ritual operator–medium"
+    },
+    {
+      "from": "Berith",
+      "to": "conjuration circle",
+      "type": "invoked by"
+    },
+    {
+      "from": "AGLA",
+      "to": "angelic invocation ritual",
+      "type": "component of"
+    },
+    {
+      "from": "scrying",
+      "to": "onychomancy",
+      "type": "generic–specific"
+    },
+    {
+      "from": "John Hartlieb",
+      "to": "hydromancy",
+      "type": "describes method"
+    },
+    {
+      "from": "Maurice",
+      "to": "Abbot William Sadyngstone",
+      "type": "medium for"
+    }
+  ],
+  "summary": "This chunk discusses medieval scrying-based divination, especially using children as mediums who gaze into polished surfaces (nails, mirrors, swords) to reveal hidden knowledge. It includes examples from judicial records and manuscripts such as the Rawlinson necromantic manuscript, referencing demon Berith and angelic invocations with the formula 'AGLA'. The text emphasizes the role of demons in providing visions and the theological concern over false revelations.",
+  "key_passages": [
+    "within that circle they were to invoke the demon Berith, who would answer their inquiries.",
+    "writes on it the letters ‘AGLA’... 'Lord Jesus Christ, king of glory, send us three angels to tell us the truth and not falsehood in all matters about which we shall inquire.'",
+    "The general term for such divination is ‘scrying’, which is sometimes subdivided into specific forms such as catoptromancy (divination by means of a mirror), crystallomancy (by a crystal), cyclicomancy or lecanomancy (by a cup or basin filled with liquid)...",
+    "he threatened to go to a certain necromantic wizard [maleficum quendam nigromanticum] and find out through him about this strange affair.",
+    "the demon who was providing information through the boy could no longer do so once the thief had been absolved."
+  ]
+}

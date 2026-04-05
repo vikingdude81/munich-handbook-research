@@ -1,0 +1,16 @@
+{
+  "verification_queue": [
+    {
+      "entry": "a man in red",
+      "flags": ["VAGUE_APPEARANCE"]
+    },
+    {
+      "entry": "a king with a crown",
+      "flags": ["VAGUE_APPEARANCE"]
+    },
+    {
+      "entry": "experiment_123",
+      "flags": ["UNLINKED_EXPERIMENT"]
+    }
+  ]
+}

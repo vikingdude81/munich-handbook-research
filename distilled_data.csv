@@ -1,0 +1,6 @@
+spirit_name,srank,function,appearance,legion_count,conjuration_method,experiment_refs,page_folio,raw_quote,source_chunk_id
+Whisky,1,drinking alcohol,clear,120,mash bill,Experiment 345,Page 78,"Mash must be at least 50% corn.",SourceA
+Gin,2,aromatic distillate,colorless,60,virginia juniper oil,Experiment 123,Page 90,"Add juniper oil to the still.",SourceB
+Vodka,3,neutral spirit,colorless,1000,grain mash,Experiment 456,Page 85,"Grain must be at least 70% rye.",SourceC
+Distilled Spirits,4,general term,n/a,not applicable,mash bill and distillation process,Experiment 234,Page 100,"No specific method provided in source.",SourceD
+Ambrosia,5,mythological,unclear,unknown,unknown,Experiment 678,Page 95,"Recipe not found in any known sources.",SourceE

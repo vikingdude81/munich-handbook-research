@@ -1,0 +1,420 @@
+{
+  "source_id": "necro",
+  "chunk_id": 31,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon/spirit",
+        "function": "subject of conjuration; commands obedience under divine authority"
+      },
+      "page_ref": "[59v–62v], [109r–111b], [139r–140b]",
+      "raw_quote": "Adiuro te, Mirage, non mea vi set uirtute Spiritus Sancti, ut sis subiectus mandatis meis, ea sine mora perficienda."
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "principal demon",
+        "function": "synonymous with Mirage in this conjuration; invoked under alternate name"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "Coniuracio Satane / Mirage"
+    },
+    {
+      "name": "Michael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "function": "agent of binding/constraining the demon"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "arguant te Michael et Gabriel [et] Raphael"
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "function": "agent of binding/constraining the demon"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "arguant te Michael et Gabriel [et] Raphael"
+    },
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "function": "agent of binding/constraining the demon"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "arguant te Michael et Gabriel [et] Raphael"
+    },
+    {
+      "name": "Abraham",
+      "type": "spirit",
+      "attributes": {
+        "rank": "patriarch",
+        "function": "agent of binding/constraining the demon"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "arguant te tres patriarche, scilicet Abraham, Ysaac, et Jacob"
+    },
+    {
+      "name": "Isaac",
+      "type": "spirit",
+      "attributes": {
+        "rank": "patriarch",
+        "function": "agent of binding/constraining the demon"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "arguant te tres patriarche, scilicet Abraham, Ysaac, et Jacob"
+    },
+    {
+      "name": "Jacob",
+      "type": "spirit",
+      "attributes": {
+        "rank": "patriarch",
+        "function": "agent of binding/constraining the demon"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "arguant te tres patriarche, scilicet Abraham, Ysaac, et Jacob"
+    },
+    {
+      "name": "Prophets",
+      "type": "spirit",
+      "attributes": {
+        "rank": "prophetic order",
+        "function": "agent of binding/constraining the demon"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "arguant te prophete et omnes apostoli"
+    },
+    {
+      "name": "Apostles",
+      "type": "spirit",
+      "attributes": {
+        "rank": "apostolic order",
+        "function": "agent of binding/constraining the demon"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "arguant te apostoli Christi; arguant te omnes sancti et electi dei"
+    },
+    {
+      "name": "Mambres",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demonic opponent (OT parallel to Jannes and Jambres)",
+        "function": "example of resistance overcome"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "sicut defecerunt Iamnes et Mambres [II Tim 3:8]"
+    },
+    {
+      "name": "Ioseph",
+      "type": "spirit",
+      "attributes": {
+        "rank": "biblical figure",
+        "function": "example of divine power over demonic pretenders"
+      },
+      "page_ref": "[59v, 60r]",
+      "raw_quote": "Ilium metue qui in Ysaac est ymmolatus, in Ioseph venundatus, in agno occisus, in homine crucifixus"
+    },
+    {
+      "name": "Emanuel",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name used in exorcism"
+      },
+      "page_ref": "[58v, 59r]",
+      "raw_quote": "Emanuel, Sabaoth, Adonay"
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name invoked for power"
+      },
+      "page_ref": "[59r]",
+      "raw_quote": "Tetragramaton"
+    },
+    {
+      "name": "Alpha and Omega (Alpha et O)",
+      "type": "concept",
+      "attributes": {
+        "function": "divine title used in exorcism"
+      },
+      "page_ref": "[58v, 59r]",
+      "raw_quote": "per Alpha et O, Christum filium tuum"
+    },
+    {
+      "name": "Shoeth, Hebatit, Het, Agla, Jocht, Othot, Vanecht, Nabuthi",
+      "type": "concept",
+      "attributes": {
+        "function": "divine names used in binding demons"
+      },
+      "page_ref": "[58v]",
+      "raw_quote": "Shoeth, Hebatit, Het, Agla, Jocht, Othot, Vanecht, Nabuthi"
+    },
+    {
+      "name": "Athon, Onay, Anay, Anathon, Vegeido, Ya, Yayay, El, Blemutum, Vsyon, Vsy, Elyas",
+      "type": "concept",
+      "attributes": {
+        "function": "divine names invoked for power"
+      },
+      "page_ref": "[58v]",
+      "raw_quote": "Athon, Onay, Anay, Anathon, Vegeido, Ya, Yayay, El, Blemutum, Vsyon, Vsy, Elyas"
+    },
+    {
+      "name": "Herbs",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in ritual power"
+      },
+      "page_ref": "[58v, 59r]",
+      "raw_quote": "per virtutem lapidum, harbarum, et verborum, et nominum tuorum"
+    },
+    {
+      "name": "Stones",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in ritual power"
+      },
+      "page_ref": "[58v, 59r]",
+      "raw_quote": "per virtutem lapidum, harbarum, et verborum"
+    },
+    {
+      "name": "Blood",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in divine invocation (cf. Christ's blood)"
+      },
+      "page_ref": "[58v]",
+      "raw_quote": "per sangwinem et aquam que exiuerunt de corpore tuo"
+    },
+    {
+      "name": "Water",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in divine invocation (cf. Christ's blood and water)"
+      },
+      "page_ref": "[58v]",
+      "raw_quote": "per sangwinem et aquam que exiuerunt de corpore tuo"
+    },
+    {
+      "name": "Cross",
+      "type": "tool",
+      "attributes": {
+        "function": "instrument of binding and protection"
+      },
+      "page_ref": "[59v, 60r]",
+      "raw_quote": "per virtutem crucis et passionis tue"
+    },
+    {
+      "name": "Sigillum Salomonis (Seal of Solomon)",
+      "type": "tool",
+      "attributes": {
+        "function": "used to bind demons"
+      },
+      "page_ref": "[61v]",
+      "raw_quote": "per sigillum Salominis, et per anulum - eius"
+    },
+    {
+      "name": "Septem Candelabra (Seven Golden Candlesticks)",
+      "type": "tool",
+      "attributes": {
+        "function": "ritual object invoked for power"
+      },
+      "page_ref": "[61v]",
+      "raw_quote": "per septem candelabra aure. ante dominum lucencia"
+    },
+    {
+      "name": "Eucharist / Hostia Sancta",
+      "type": "tool",
+      "attributes": {
+        "function": "ritual object invoked for power"
+      },
+      "page_ref": "[61v]",
+      "raw_quote": "per hostiam sanctam et per hostiam inmaculatam, per hostiam scriptam et per hostiam benedictam atque deo placente"
+    },
+    {
+      "name": "Baptism",
+      "type": "ritual",
+      "attributes": {
+        "function": "source of authority over demons"
+      },
+      "page_ref": "[61v]",
+      "raw_quote": "per potestatem quam habeo super te, Mirage, michi ab omnipotenti deo data in baptismo"
+    },
+    {
+      "name": "Exorcismus",
+      "type": "ritual",
+      "attributes": {
+        "function": "act of binding and commanding spirits"
+      },
+      "page_ref": "[61r]",
+      "raw_quote": "Exorcizo te, maledicte et mendacissime spiritus"
+    },
+    {
+      "name": "Coniuratio",
+      "type": "ritual",
+      "attributes": {
+        "function": "act of conjuring spirits"
+      },
+      "page_ref": "[59v]",
+      "raw_quote": "Coniuro et constringo atque precipio tibi"
+    },
+    {
+      "name": "Mandatum (command)",
+      "type": "ritual",
+      "attributes": {
+        "function": "divine or ritual instruction to spirit"
+      },
+      "page_ref": "[61v]",
+      "raw_quote": "mandatum meum et peticionem quam tibi manifestabo"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Mirage",
+      "to": "Satan",
+      "type": "synonymy"
+    },
+    {
+      "from": "Michael",
+      "to": "Mirage",
+      "type": "binding_authority"
+    },
+    {
+      "from": "Gabriel",
+      "to": "Mirage",
+      "type": "binding_authority"
+    },
+    {
+      "from": "Raphael",
+      "to": "Mirage",
+      "type": "binding_authority"
+    },
+    {
+      "from": "Abraham",
+      "to": "Mirage",
+      "type": "binding_authority"
+    },
+    {
+      "from": "Isaac",
+      "to": "Mirage",
+      "type": "binding_authority"
+    },
+    {
+      "from": "Jacob",
+      "to": "Mirage",
+      "type": "binding_authority"
+    },
+    {
+      "from": "Prophets",
+      "to": "Mirage",
+      "type": "binding_authority"
+    },
+    {
+      "from": "Apostles",
+      "to": "Mirage",
+      "type": "binding_authority"
+    },
+    {
+      "from": "Ioseph",
+      "to": "Mirage",
+      "type": "example_of_divine_power_over_demonic"
+    },
+    {
+      "from": "Emanuel",
+      "to": "Christ",
+      "type": "divine_title"
+    },
+    {
+      "from": "Tetragrammaton",
+      "to": "God",
+      "type": "divine_name"
+    },
+    {
+      "from": "Alpha et O",
+      "to": "Christ",
+      "type": "divine_title"
+    },
+    {
+      "from": "Shoeth, Hebatit...",
+      "to": "binding_demons",
+      "type": "used_in_binding"
+    },
+    {
+      "from": "Athon, Onay...",
+      "to": "invocation_power",
+      "type": "used_for_authority"
+    },
+    {
+      "from": "Herbs",
+      "to": "ritual_power",
+      "type": "ingredient_of_power"
+    },
+    {
+      "from": "Stones",
+      "to": "ritual_power",
+      "type": "ingredient_of_power"
+    },
+    {
+      "from": "Blood",
+      "to": "divine_invocation",
+      "type": "element_of_christian_sacramentality"
+    },
+    {
+      "from": "Water",
+      "to": "divine_invocation",
+      "type": "element_of_christian_sacramentality"
+    },
+    {
+      "from": "Cross",
+      "to": "protection_and_binding",
+      "type": "ritual_instrument"
+    },
+    {
+      "from": "Sigillum Salomonis",
+      "to": "binding_demons",
+      "type": "ritual_tool_for_constraining"
+    },
+    {
+      "from": "Septem Candelabra",
+      "to": "divine_power",
+      "type": "ritual_object_of_authority"
+    },
+    {
+      "from": "Eucharist",
+      "to": "divine_power",
+      "type": "sacramental_ingredient_of_ritual_force"
+    },
+    {
+      "from": "Baptism",
+      "to": "authority_over_demons",
+      "type": "source_of_spiritual_powers"
+    },
+    {
+      "from": "Exorcismus",
+      "to": "Mirage",
+      "type": "ritual_directed_at"
+    },
+    {
+      "from": "Coniuratio",
+      "to": "Mirage",
+      "type": "ritual_directed_at"
+    }
+  ],
+  "summary": "This chunk presents the conjuration of the demon Mirage (also called Satan), drawn from folios 59v–62v and parallel passages in CLM 849. It includes extensive invocations of divine names, biblical figures (patriarchs, prophets, apostles), and sacramental elements (cross, Eucharist, baptismal authority) to compel obedience. The ritual combines Christian liturgical language with magical formulae, invoking divine power over demons through Christ’s Passion, the Trinity, and sacred names like Tetragrammaton and Emanuel.",
+  "key_passages": [
+    "Adiuro te, Mirage, non mea vi set uirtute Spiritus Sancti, ut sis subiectus mandatis meis, ea sine mora perficienda. Cede ministris Ihesu Christi.",
+    "Exorcizo te, maledicte et mendacissime spiritus, per verbum veritatis, per omnipotentem, per Ihesum Christum Nazarenum, agnum immaculatum de altissimo progression, de Spiritu Sancto conceptual, ex Maria virgine natum.",
+    "Imperat tibi dominus. Imperat tibi magestas. Imperat tibi deus Pater. Imperat tibi Filius. Imperat tibi Spiritus Sanctus.",
+    "Coniuro et constringo atque precipio tibi, vt sine aliquo nocumento michi nunc et semper obedias, sine lesione et grauamine corporis et anime mee.",
+    "Per omnia quibus constringi et ligari possis... per sigillum Salominis, et per anulum - eius, ix candarias celestes..."
+  ]
+}

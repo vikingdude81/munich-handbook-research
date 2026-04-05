@@ -1,0 +1,534 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 17,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Toth",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince (of demons)"
+      },
+      "page_ref": "166",
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel..."
+    },
+    {
+      "name": "Zambrim et Mambrim",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic figures"
+      },
+      "page_ref": "166",
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel..."
+    },
+    {
+      "name": "Vsuel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "166",
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel..."
+    },
+    {
+      "name": "Saduel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "166",
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel..."
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince/kings of demons"
+      },
+      "page_ref": "166",
+      "raw_quote": "by the power and dignity of Lucifer, Aphaleon and Neutrion"
+    },
+    {
+      "name": "Aphaleon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "166",
+      "raw_quote": "by the power and dignity of Lucifer, Aphaleon and Neutrion"
+    },
+    {
+      "name": "Neutrion",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "166",
+      "raw_quote": "by the power and dignity of Lucifer, Aphaleon and Neutrion"
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "master/prince"
+      },
+      "page_ref": "166",
+      "raw_quote": "by your master Astaroth"
+    },
+    {
+      "name": "Sotuem",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "168",
+      "raw_quote": "by Sotuem [and] Sortfen; by your Sun..."
+    },
+    {
+      "name": "Sortfen",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "168",
+      "raw_quote": "by Sotuem [and] Sortfen; by your Sun..."
+    },
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon/ancient serpent"
+      },
+      "page_ref": "171",
+      "raw_quote": "...addresses the demon (or ‘ancient serpent’) named Mirage"
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "role": "Devil, most wicked enemy of the faith"
+      },
+      "page_ref": "171",
+      "raw_quote": "...addresses...the Devil, or Satan, ‘most wicked enemy of the faith, death of the human race...’"
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "spiritual_name",
+      "attributes": {
+        "spelling_variants": [
+          "Tetragramaton",
+          "Y-V-E",
+          "HX-V-V-HV",
+          "Y-V-E-X"
+        ]
+      },
+      "page_ref": "164, 166",
+      "raw_quote": "...the most common is the Tetragrammaton, the nomen altissimum..."
+    },
+    {
+      "name": "Adonay",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "164",
+      "raw_quote": "Adonay (nos 1, 7, 10, 13, 23, 25, 27, 28, 33, 35, 39)"
+    },
+    {
+      "name": "El",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "164",
+      "raw_quote": "El (nos 14, 28, 33, 39)"
+    },
+    {
+      "name": "Eloy",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "164",
+      "raw_quote": "Eloy (nos 25, 27, 28, 33, 35, 39)"
+    },
+    {
+      "name": "Alpha et O",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "164",
+      "raw_quote": "Alpha et O (nos 10, 25, 27, 28, 33, 39)"
+    },
+    {
+      "name": "Emanuel",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "164",
+      "raw_quote": "Emanuel (nos 20, 23, 25, 27, 28, 33, 39)"
+    },
+    {
+      "name": "Messyas",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "164",
+      "raw_quote": "Messyas (nos 7, 10, 23, 27, 28, 39)"
+    },
+    {
+      "name": "Soter",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "164",
+      "raw_quote": "Soter (nos 7, 10, 25, 27, 28, 39)"
+    },
+    {
+      "name": "Sabaoth",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "164",
+      "raw_quote": "Sabaoth (nos 1, 5, 7, 10, 13, 23, 25, 27, 33, 35, 39)"
+    },
+    {
+      "name": "YVE",
+      "type": "spiritual_name",
+      "attributes": {
+        "also_known_as": "YHVH"
+      },
+      "page_ref": "166",
+      "raw_quote": "...the name YVE, which Moses heard and spoke..."
+    },
+    {
+      "name": "YVEX",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "166",
+      "raw_quote": "...and by the name YVEX, and with the name [Y]V[E]X, which Abraham heard..."
+    },
+    {
+      "name": "Joth",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "166",
+      "raw_quote": "...and by the name Joth, and with the name Joth, which Jacob heard from the angel..."
+    },
+    {
+      "name": "Eyzaserie",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "166",
+      "raw_quote": "...and by the name Eyzaserie, and with the name Eyzaserie, which Moses heard on the mountain..."
+    },
+    {
+      "name": "Anathematon",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "166",
+      "raw_quote": "...and by the name Anathematon, and with the name Anathematon, which Aaron heard..."
+    },
+    {
+      "name": "Geremon",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "Geremon, by which he freed the Israelites"
+    },
+    {
+      "name": "Yegeron",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "Ygeron, by which he divided the Red Sea"
+    },
+    {
+      "name": "Anabona",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "Anabona, by which he merited to receive the tablets of the law"
+    },
+    {
+      "name": "Egyryon",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "Egyryon, by which Joshua overcame his foes"
+    },
+    {
+      "name": "Patheon",
+      "type": "spiritual_name",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "Patheon, by which David was saved from Goliath"
+    },
+    {
+      "name": "AGLA",
+      "type": "spiritual_name",
+      "attributes": {
+        "origin": "Hebrew abbreviation"
+      },
+      "page_ref": "167",
+      "raw_quote": "AGLA (no. 33), the common magical abbreviation for the Hebrew Ata gibor leolam Adonai"
+    },
+    {
+      "name": "Theos",
+      "type": "spiritual_name",
+      "attributes": {
+        "origin": "Greek liturgical"
+      },
+      "page_ref": "167",
+      "raw_quote": "Theos (no. 39)"
+    },
+    {
+      "name": "Yschiros",
+      "type": "spiritual_name",
+      "attributes": {
+        "origin": "Greek liturgical"
+      },
+      "page_ref": "167",
+      "raw_quote": "Yschiros (no. 28)"
+    },
+    {
+      "name": "Athanatos",
+      "type": "spiritual_name",
+      "attributes": {
+        "origin": "Greek liturgical"
+      },
+      "page_ref": "167",
+      "raw_quote": "Athanatos (nos 28, 33)"
+    },
+    {
+      "name": "Eleyson",
+      "type": "spiritual_name",
+      "attributes": {
+        "origin": "Greek liturgical (Kyrie eleison)"
+      },
+      "page_ref": "167",
+      "raw_quote": "Eleyson (no. 28), from the Kyrie eleison"
+    },
+    {
+      "name": "ho ōn",
+      "type": "spiritual_name",
+      "attributes": {
+        "translation": "The Existing One"
+      },
+      "page_ref": "167",
+      "raw_quote": "ho ōn (nos 14, 23, 27, 28, 33) or simply Hon (no. 25) ('The Existing One')"
+    },
+    {
+      "name": "Pancraton",
+      "type": "spiritual_name",
+      "attributes": {
+        "variant_of": "Pantocrator"
+      },
+      "page_ref": "167",
+      "raw_quote": "Pancraton (nos 28, 33) or Panthocrathon (no. 39), presumably variants on Pantocrator"
+    },
+    {
+      "name": "Apolyn",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "...invokes the demonic names Apolyn, Gebel, Astaroth, Tereol, Falmar and Tyroces"
+    },
+    {
+      "name": "Gebel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "...invokes the demonic names Apolyn, Gebel, Astaroth, Tereol, Falmar and Tyroces"
+    },
+    {
+      "name": "Tereol",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "...invokes the demonic names Apolyn, Gebel, Astaroth, Tereol, Falmar and Tyroces"
+    },
+    {
+      "name": "Falmar",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "...invokes the demonic names Apolyn, Gebel, Astaroth, Tereol, Falmar and Tyroces"
+    },
+    {
+      "name": "Tyroces",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "167",
+      "raw_quote": "...invokes the demonic names Apolyn, Gebel, Astaroth, Tereol, Falmar and Tyroces"
+    },
+    {
+      "name": "Virgil (the necromancer)",
+      "type": "person",
+      "attributes": {
+        "role": "legendary necromancer"
+      },
+      "page_ref": "168",
+      "raw_quote": "spirits are conjured by ‘all the experiments of Virgil [the necromancer]’"
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {
+        "role": "legendary magician, ring-bearer"
+      },
+      "page_ref": "168",
+      "raw_quote": "...his rings invoked...seven signs, his seal, and his characters"
+    },
+    {
+      "name": "Caspar",
+      "type": "saint",
+      "attributes": {
+        "role": "one of the three magi"
+      },
+      "page_ref": "165",
+      "raw_quote": "...the three magi, Caspar, Balthasar, [and] Melchior..."
+    },
+    {
+      "name": "Balthasar",
+      "type": "saint",
+      "attributes": {
+        "role": "one of the three magi"
+      },
+      "page_ref": "165",
+      "raw_quote": "...the three magi, Caspar, Balthasar, [and] Melchior..."
+    },
+    {
+      "name": "Melchior",
+      "type": "saint",
+      "attributes": {
+        "role": "one of the three magi"
+      },
+      "page_ref": "165",
+      "raw_quote": "...the three magi, Caspar, Balthasar, [and] Melchior..."
+    },
+    {
+      "name": "Sydrac",
+      "type": "saint",
+      "attributes": {
+        "role": "one of the three young men"
+      },
+      "page_ref": "168",
+      "raw_quote": "...the three young men Sydrac, Mysaach and Abdenago..."
+    },
+    {
+      "name": "Mysaach",
+      "type": "saint",
+      "attributes": {
+        "role": "one of the three young men"
+      },
+      "page_ref": "168",
+      "raw_quote": "...the three young men Sydrac, Mysaach and Abdenago..."
+    },
+    {
+      "name": "Abdenago",
+      "type": "saint",
+      "attributes": {
+        "role": "one of the three young men"
+      },
+      "page_ref": "168",
+      "raw_quote": "...the three young men Sydrac, Mysaach and Abdenago..."
+    },
+    {
+      "name": "Abraham",
+      "type": "saint",
+      "attributes": {
+        "role": "patriarch"
+      },
+      "page_ref": "168",
+      "raw_quote": "...the three patriarchs Abraham, Isaac and Jacob"
+    },
+    {
+      "name": "Isaac",
+      "type": "saint",
+      "attributes": {
+        "role": "patriarch"
+      },
+      "page_ref": "168",
+      "raw_quote": "...the three patriarchs Abraham, Isaac and Jacob"
+    },
+    {
+      "name": "Jacob",
+      "type": "saint",
+      "attributes": {
+        "role": "patriarch"
+      },
+      "page_ref": "168",
+      "raw_quote": "...the three patriarchs Abraham, Isaac and Jacob"
+    },
+    {
+      "name": "Oriens",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "168",
+      "raw_quote": "When Oriens is conjured, the invocations refer to his own dignities..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Toth",
+      "to": "Zambrim et Mambrim",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Toth",
+      "to": "Vsuel",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Toth",
+      "to": "Saduel",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Lucifer",
+      "to": "Aphaleon",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Lucifer",
+      "to": "Neutrion",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Mirage",
+      "to": "Satan",
+      "type": "variant_or_synonym"
+    },
+    {
+      "from": "Solomon",
+      "to": "seven signs",
+      "type": "possesses"
+    },
+    {
+      "from": "Solomon",
+      "to": "seal",
+      "type": "possesses"
+    },
+    {
+      "from": "Solomon",
+      "to": "characters",
+      "type": "possesses"
+    },
+    {
+      "from": "Caspar",
+      "to": "Balthasar",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Caspar",
+      "to": "Melchior",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Sydrac",
+      "to": "Mysaach",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Sydrac",
+      "to": "Abdenago",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Abraham",
+      "to": "Isaac",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Abraham",
+      "to": "Jacob",
+      "type": "co-occurs_with"
+    }
+  ],
+  "summary": "This chunk details the structure and content of conjurations in the Munich Handbook (CLM 849), focusing on the nine categories of invocations used to compel spirits—especially divine names, Christological references, and demonic hierarchies. It lists numerous divine and demonic names (e.g., Tetragrammaton, Adonay, Astaroth, Toth, Lucifer) and highlights ritual analogies drawn from biblical narratives (e.g., Jordan standing still, Red Sea parting). Special attention is given to the 'Bond of Satan or Mirage', a conjuration directed at the demon Mirage/Satan in multiple manuscript versions.",
+  "key_passages": [
+    "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel, to whom you are held to obey and tell the truth",
+    "by the power and dignity of Lucifer, Aphaleon and Neutrion",
+    "by your master Astaroth",
+    "spirits are conjured by ‘all the experiments of Virgil [the necromancer]’",
+    "just as God commanded the Jordan and it stood still that the children of Israel might walk across without hindrance, so to I command you to obey my precepts..."
+  ]
+}

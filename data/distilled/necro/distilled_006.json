@@ -1,0 +1,567 @@
+{
+  "source_id": "necro",
+  "chunk_id": 6,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Oymelor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafrn, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama..."
+    },
+    {
+      "name": "Demefin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Oymelor, Demefin, Lamair, Masair, Symofor..."
+    },
+    {
+      "name": "Lamair",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Demefin, Lamair, Masair..."
+    },
+    {
+      "name": "Masair",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Lamair, Masair, Symofor..."
+    },
+    {
+      "name": "Symofor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Masair, Symofor, Rodobayl..."
+    },
+    {
+      "name": "Rodobayl",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Symofor, Rodobayl, Tentetos..."
+    },
+    {
+      "name": "Tentetos",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Rodobayl, Tentetos, Lotobor..."
+    },
+    {
+      "name": "Lotobor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Tentetos, Lotobor, Memoyr..."
+    },
+    {
+      "name": "Memoyr",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Lotobor, Memoyr, Tamafrn..."
+    },
+    {
+      "name": "Tamafrn",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Memoyr, Tamafrn, Leutaber..."
+    },
+    {
+      "name": "Leutaber",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Tamafrn, Leutaber, Tatomofon..."
+    },
+    {
+      "name": "Tatomofon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Leutaber, Tatomofon, Faubair..."
+    },
+    {
+      "name": "Faubair",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Tatomofon, Faubair, Selutabel..."
+    },
+    {
+      "name": "Selutabel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Faubair, Selutabel, Rimasor..."
+    },
+    {
+      "name": "Rimasor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Selutabel, Rimasor, Syrama..."
+    },
+    {
+      "name": "Syrama",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "banquet conjurer"
+      },
+      "raw_quote": "...Rimasor, Syrama"
+    },
+    {
+      "name": "Usyr",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      },
+      "raw_quote": "O Usyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor and Ym..."
+    },
+    {
+      "name": "Salaul",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      },
+      "raw_quote": "...I am one of the spirits you have invoked; I am named Salaul..."
+    },
+    {
+      "name": "Silitor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Demor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Zanno",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Syrtroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Risbel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Cutroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Lytay",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Onor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Moloy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Pumotor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Tami",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Oor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "Ym",
+      "type": "spirit",
+      "attributes": {
+        "rank": "squire spirit",
+        "function": "castle conjurer"
+      }
+    },
+    {
+      "name": "hoopoe",
+      "type": "ingredient",
+      "attributes": {
+        "use": "binding and protection in necromantic rituals"
+      },
+      "raw_quote": "the hoopoe is possessed of great virtue for necromancers and invokers of demons... much used by such practitioners"
+    },
+    {
+      "name": "milk and honey",
+      "type": "ingredient",
+      "attributes": {
+        "use": "offering/spirit offering"
+      },
+      "raw_quote": "taking milk and honey with you, some of which you must sprinkle in the air"
+    },
+    {
+      "name": "shining sword",
+      "type": "tool",
+      "attributes": {
+        "use": "tracing circles, inscribing names"
+      },
+      "raw_quote": "carrying a shining sword... one must trace circles in a remote place. When this is done, inscribe sixteen names with the point of the sword"
+    },
+    {
+      "name": "quadruple band circle with pentangle",
+      "type": "ritual",
+      "attributes": {
+        "structure": "four concentric bands, pentagram/pentangle center, sword and other figures depicted"
+      },
+      "raw_quote": "The circle to be used for this experiment is depicted: a quadruple band with a pentangle inscribed in the centre..."
+    },
+    {
+      "name": "illusory banquet",
+      "type": "ritual",
+      "attributes": {
+        "function": "produce magical feast illusion"
+      },
+      "raw_quote": "The experiment for obtaining an illusory banquet, with service and entertainment (no. 6)..."
+    },
+    {
+      "name": "illusory castle",
+      "type": "ritual",
+      "attributes": {
+        "function": "produce magical fortress illusion"
+      },
+      "raw_quote": "The following experiment (no. 7) is designed to obtain an illusory castle, with defenders."
+    },
+    {
+      "name": "fifteen spirits",
+      "type": "spirit",
+      "attributes": {
+        "rank": "knights/spirit warriors",
+        "function": "banquet and castle illusions"
+      },
+      "raw_quote": "you will see sixteen splendid and stalwart knights... these twelve [sic] will not withdraw from you"
+    },
+    {
+      "name": "demonic oath",
+      "type": "ritual",
+      "attributes": {
+        "form": "swearing on consecrated book by God, infernal lords, infernal law"
+      },
+      "raw_quote": "they bind themselves first by the God who created them and all things, second by the (presumably demonic) lords whom they fear and adore, and third by ‘the law that we observe’"
+    },
+    {
+      "name": "seven herbs",
+      "type": "ingredient",
+      "attributes": {
+        "use": "flight ointment"
+      },
+      "raw_quote": "make an ointment from seven herbs, the fat of a goat and the blood of a bat"
+    },
+    {
+      "name": "bat's blood",
+      "type": "ingredient",
+      "attributes": {
+        "use": "flight ointment"
+      },
+      "raw_quote": "seven herbs... the blood of a bat"
+    },
+    {
+      "name": "goat fat",
+      "type": "ingredient",
+      "attributes": {
+        "use": "flight ointment"
+      },
+      "raw_quote": "seven herbs, the fat of a goat and the blood of a bat"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Oymelor",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Demefin",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Lamair",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Masair",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Symofor",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Rodobayl",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Tentetos",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Lotobor",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Memoyr",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Tamafrn",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Leutaber",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Tatomofon",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Faubair",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Selutabel",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Rimasor",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Syrama",
+      "to": "fifteen spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Usyr",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Salaul",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Silitor",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Demor",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Zanno",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Syrtroy",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Risbel",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Cutroy",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Lytay",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Onor",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Moloy",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Pumotor",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Tami",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Oor",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "Ym",
+      "to": "squire spirits",
+      "type": "member-of"
+    },
+    {
+      "from": "hoopoe",
+      "to": "illusory banquet",
+      "type": "used-in"
+    },
+    {
+      "from": "shining sword",
+      "to": "illusory banquet",
+      "type": "used-in"
+    },
+    {
+      "from": "milk and honey",
+      "to": "illusory castle",
+      "type": "used-in"
+    },
+    {
+      "from": "quadruple band circle with pentangle",
+      "to": "illusory banquet",
+      "type": "used-for"
+    },
+    {
+      "from": "demonic oath",
+      "to": "illusory banquet",
+      "type": "part-of"
+    },
+    {
+      "from": "seven herbs",
+      "to": "flight ointment",
+      "type": "ingredient-of"
+    },
+    {
+      "from": "bat's blood",
+      "to": "flight ointment",
+      "type": "ingredient-of"
+    },
+    {
+      "from": "goat fat",
+      "to": "flight ointment",
+      "type": "ingredient-of"
+    }
+  ],
+  "summary": "This chunk details two major illusion rituals from the Munich Handbook (CLM 849): an illusory banquet conjured by fifteen spirits using a sword-traced circle and hoopoe offering, and an illusory castle conjured by squire-spirits using milk-honey offerings. It includes spirit names, ritual instructions, circle diagrams, and ingredients like bat’s blood and seven herbs for flight ointments. The text also discusses the nature of demonic oaths and parallels with witchcraft narratives.",
+  "key_passages": [
+    "You should have some book brought to them at once, and on it you should have them swear in this manner: ‘All twelve of us swear on this sacred book ... to come to you without delay whenever you invoke us, and to have tables laid, such as you have seen and even better.’",
+    "The circle to be used for this experiment is depicted: a quadruple band with a pentangle inscribed in the centre, a sword depicted at the top (extending downward across all four bands, with its point on the top of the pentangle) and other figures (likewise extending across all four bands) on the upper left, upper right, lower right, and lower left.",
+    "You must know that no matter how much they eat, they will be all the more hungry, because they will seem like dishes but they will not exist, so that if a famished person were to gorge himself, believing them to be real, he would no doubt die just as if he ate nothing.",
+    "The hoopoe is possessed of great virtue for necromancers and invokers of demons [nigromanticis et demones invocantibus], on which account we use it much for our safekeeping.",
+    "make an ointment from seven herbs, the fat of a goat and the blood of a bat, and smear it on one’s face, hands and chest"
+  ]
+}

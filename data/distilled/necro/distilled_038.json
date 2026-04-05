@@ -1,0 +1,318 @@
+{
+  "source_id": "necro",
+  "chunk_id": 38,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Seals for planets and days of the week",
+      "type": "ritual",
+      "attributes": {
+        "description": "Illustrated on folios 73r, 73v, and 74r; part of no. 37c"
+      },
+      "page_ref": "Fol. 73r, 73v, 74r",
+      "raw_quote": "Fol. 73r, no. 37c: Seals for planets and days of the week."
+    },
+    {
+      "name": "Seal of Solomon",
+      "type": "ritual",
+      "attributes": {
+        "description": "Contains three characters"
+      },
+      "page_ref": "Fol. 95v, no. 37r",
+      "raw_quote": "Fol. 95v, no. 37r: Seal of Solomon (three characters)."
+    },
+    {
+      "name": "Three bands containing a tripartite prayer",
+      "type": "ritual",
+      "attributes": {
+        "description": "Found in two circles; first circle at fol. 99v no. 39, second at fol. 103r no. 39"
+      },
+      "page_ref": "Fol. 99v, 103r",
+      "raw_quote": "Fol. 99v, no. 39 (first circle): Three bands containing a tripartite prayer."
+    },
+    {
+      "name": "Three concentric bands with Trinitarian quadrants",
+      "type": "ritual",
+      "attributes": {
+        "description": "Innermost circle divided into inscribed quadrants; each dedicated to a member of the Trinity"
+      },
+      "page_ref": "Fol. 105v, no. 40",
+      "raw_quote": "Fol. 105v, no. 40: Three concentric bands; centre of innermost divided into inscribed quadrants; each circle dedicated to member of Trinity."
+    },
+    {
+      "name": "Complex character",
+      "type": "ritual",
+      "attributes": {
+        "description": "Illustrated at fol. 108r"
+      },
+      "page_ref": "Fol. 108r, no. 45",
+      "raw_quote": "Fol. 108r, no. 45: Complex character."
+    },
+    {
+      "name": "AGLA",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "page_ref": "p. 97, 139, 173 (index)",
+      "raw_quote": "AGLA, 97,139,173"
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "functions": "mentioned among named demons"
+      },
+      "page_ref": "p. 81, 87, 111, 138, 139, 156, 172-A (index)",
+      "raw_quote": "Astaroth, 81, 87, 111, 138, 139, 156, 172-A"
+    },
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "functions": "mentioned among named demons"
+      },
+      "page_ref": "p. 87, 155, 156, 172-4 (index)",
+      "raw_quote": "Belial, 87,155,156, 172-4"
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "functions": "mentioned among named demons"
+      },
+      "page_ref": "p. 59, 60, 83, 100, 117, 118, 156, 161, 173 (index)",
+      "raw_quote": "Berith, 59, 60, 83,100, 117, 118,156,161,173"
+    },
+    {
+      "name": "Castiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "functions": "mentioned among named angels"
+      },
+      "page_ref": "p. 90, 156 (index)",
+      "raw_quote": "Castiel, 90,156"
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon/angelic figure",
+        "functions": "mentioned among named demons"
+      },
+      "page_ref": "p. 80, 112, 138, 156, 161, 172 (index)",
+      "raw_quote": "Lucifer, 80, 112,138,156,161, 172"
+    },
+    {
+      "name": "Mirael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon/angel",
+        "functions": "mentioned among named spirits"
+      },
+      "page_ref": "p. 74, 156, L72 (index)",
+      "raw_quote": "Mirael, 74,156, L72"
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "functions": "mentioned among named demons"
+      },
+      "page_ref": "p. 87, 156, 173, 174 (index)",
+      "raw_quote": "Paymon, 87, 156, 173, 174"
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "functions": "mentioned among named demons"
+      },
+      "page_ref": "p. 82, 83, 109, U8, 142-5, 147, 148, 154, 156, 158, 111, 172 (index)",
+      "raw_quote": "Satan (Sathan), 6, 82, 83,109, U8, 142-5 . 147 . 148 . 154 .156,158,161, 111, 172"
+    },
+    {
+      "name": "Saturn",
+      "type": "spirit",
+      "attributes": {
+        "rank": "planet",
+        "functions": "used in planetary magic"
+      },
+      "page_ref": "p. 71, 72, 87 (index)",
+      "raw_quote": "Saturn, 71, 72, 87"
+    },
+    {
+      "name": "Venus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "planet",
+        "functions": "used in planetary magic"
+      },
+      "page_ref": "p. 79-81, 86, 87, 106, 177 (index)",
+      "raw_quote": "Venus, 79-81 . 86, 87,106, 177"
+    },
+    {
+      "name": "circle",
+      "type": "tool",
+      "attributes": {
+        "function": "ritual boundary for conjurations"
+      },
+      "page_ref": "pp. 18-23, 25, 29, 36, 42–53, 55–60, 70–74, 80, 84n, 100, 103, 106, 110–13, 115, 117–19, 126, 128, 133, 139, 144, 159, 170–6, 178, 186–7 (index)",
+      "raw_quote": "circles, 18, 23, 25, 29, 36, 42-53 . 55-60 . 57, 62H, 70^4, 74, 80, 84£Z, 21, 100, 103,106, 110-13 . 115 . 117-19 . 126 . 128 . 133 .139,144,159, 170-6 . 178 . 186-7"
+    },
+    {
+      "name": "candles",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in rituals"
+      },
+      "page_ref": "p. 71, 74, 75, 113, 119 (index)",
+      "raw_quote": "candles, 71. 74. 75. 113. 119"
+    },
+    {
+      "name": "crystals",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in scrying and divination"
+      },
+      "page_ref": "p. 29, 97, 98, 102, 103, 107 (index)",
+      "raw_quote": "crystals, 29, 97, 98,102,103,107"
+    },
+    {
+      "name": "fumigation",
+      "type": "ritual",
+      "attributes": {
+        "function": "ritual incense offering"
+      },
+      "page_ref": "p. 59, 22, 28, 84, 158, 159, 177-8, 186, 187 (index)",
+      "raw_quote": "fumigation (suffumigation), 59, 22, 28, 84, 158,159, 177-8 . 186 . 187"
+    },
+    {
+      "name": "hoopoes",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in illusionist or divinatory experiments"
+      },
+      "page_ref": "p. 42, 47-50, 63, 66 n. 25, 75, 117, 157, 158, 187 (index)",
+      "raw_quote": "hoopoes, 42, 47-50 . 63, 66 n. 25 . 75, 117. 157. 158. 187"
+    },
+    {
+      "name": "mirrors",
+      "type": "tool",
+      "attributes": {
+        "function": "used in scrying and illusionist experiments"
+      },
+      "page_ref": "p. 28, 29, 61, 97-100, 103-8, 110, 112 (index)",
+      "raw_quote": "mirrors, 4, 28, 29, 61, 97-100 . 103-8 . 110 . 112"
+    },
+    {
+      "name": "ring",
+      "type": "tool",
+      "attributes": {
+        "function": "used in love magic and protection"
+      },
+      "page_ref": "p. 42, 59, 61n3, 84, 85, 97, 100, 128, 133, 139, 142, 161 (index)",
+      "raw_quote": "rings, 42, 59, 61n3, 84, 85, 97,100,128,133,139,142, 161"
+    },
+    {
+      "name": "sword",
+      "type": "tool",
+      "attributes": {
+        "function": "ritual implement"
+      },
+      "page_ref": "p. 42, 47-50, 59, 60, 62, 72, 84, 88, 98, Ml, 104, 110-12, 117-19, 159, 160, 171, 173 (index)",
+      "raw_quote": "swords, 42, 47-50 . 59, 60, 62, 72, 84, 88, 98, Ml, 104, 110-12 . 117-19 . 159 . 160 . 171 . 173"
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "page_ref": "p. 42, M2, 1M, 115, 135, 138, MQ, HI (index)",
+      "raw_quote": "Tetragrammaton, 42, M2,1M, 115,135,138, MQ, HI"
+    },
+    {
+      "name": "SATOR-AREPO square",
+      "type": "ritual",
+      "attributes": {
+        "function": "protective or magical formula"
+      },
+      "page_ref": "p. 76, illus., 111, 116 (index)",
+      "raw_quote": "SATOR-AREPO square, 76, illus., 111, 116"
+    },
+    {
+      "name": "Liber consecrationum",
+      "type": "text",
+      "attributes": {
+        "function": "ritual manual"
+      },
+      "page_ref": "pp. 8-10, 25, 29, 128 (index)",
+      "raw_quote": "Liber consecrationum, 8-10 . 25, 29, 128"
+    },
+    {
+      "name": "Liber de angelis",
+      "type": "text",
+      "attributes": {
+        "function": "ritual manual"
+      },
+      "page_ref": "p. 71, 22, 80, 86 (index)",
+      "raw_quote": "Liber de angelis, 71, 22, 80, 86"
+    },
+    {
+      "name": "Key of Solomon",
+      "type": "text",
+      "attributes": {
+        "function": "ritual grimoire"
+      },
+      "page_ref": "p. 26 (index)",
+      "raw_quote": "Key of Solomon, 26"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "AGLA",
+      "to": "conjurations",
+      "type": "used_in"
+    },
+    {
+      "from": "Tetragrammaton",
+      "to": "conjurations",
+      "type": "used_in"
+    },
+    {
+      "from": "SATOR-AREPO square",
+      "to": "ritual protection",
+      "type": "provides"
+    },
+    {
+      "from": "circle",
+      "to": "conjurations",
+      "type": "required_for"
+    },
+    {
+      "from": "mirrors",
+      "to": "scrying",
+      "type": "used_in"
+    },
+    {
+      "from": "crystals",
+      "to": "scrying",
+      "type": "used_in"
+    }
+  ],
+  "summary": "This final chunk of Kieckhefer’s *Forbidden Rites* study includes index entries and brief references to ritual elements in the Munich Handbook (CLM 849), especially focusing on named spirits (demons and angels), ritual implements (circles, swords, mirrors), ingredients (candles, hoopoes), and textual sources. It also lists specific folios with diagrams: seals for planets/days of the week (fols. 73r–74v), Seal of Solomon (fol. 95v), tripartite prayer circles (fols. 99v, 103r), Trinitarian concentric bands (fol. 105v), and a complex character (fol. 108r).",
+  "key_passages": [
+    "Fol. 73r, no. 37c: Seals for planets and days of the week.",
+    "Fol. 95v, no. 37r: Seal of Solomon (three characters).",
+    "Fol. 105v, no. 40: Three concentric bands; centre of innermost divided into inscribed quadrants; each circle dedicated to member of Trinity.",
+    "circles, 18, 23, 25, 29, 36, 42-53 . 55-60 . 57, 62H, 70^4, 74, 80, 84£Z, 21, 100, 103,106, 110-13 . 115 . 117-19 . 126 . 128 . 133 .139,144,159, 170-6 . 178 . 186-7",
+    "mirrors, 4, 28, 29, 61, 97-100 . 103-8 . 110 . 112"
+  ]
+}

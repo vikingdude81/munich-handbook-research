@@ -1,0 +1,223 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 23,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Rephaim",
+      "type": "spirit",
+      "attributes": {
+        "description": "Spiritual dead; irredeemably evil; associated with the dead and spiritual alienation from God",
+        "scriptural_reference": [
+          "Prov. ii. 17, 18",
+          "xxi. 16"
+        ]
+      },
+      "page_ref": "236",
+      "raw_quote": "\"the path of the woman... inclineth to the Rephaim\" and... \"the man that wandereth out of the way of understanding shall remain in the congregation of the Rephaim.\""
+    },
+    {
+      "name": "Nephilim",
+      "type": "spirit",
+      "attributes": {
+        "origin": "Sons of God + daughters of men (Gen. 6)",
+        "characteristics": "Gigantic stature, strength, demoniacal origin",
+        "role": "Progenitors of giant races; source of unholy spirit communication"
+      },
+      "page_ref": "237",
+      "raw_quote": "\"the intercourse of 'the sons of God' with the women of Canaan... account for their gigantic stature and strength\""
+    },
+    {
+      "name": "Oannes",
+      "type": "spirit|deity",
+      "attributes": {
+        "identity": "Greek form of Nahash; Chaldean daemon; possibly Cush or Nimrod’s father",
+        "role": "First teacher of Pagan religion; associated with Dagon"
+      },
+      "page_ref": "237, 239",
+      "raw_quote": "\"Oannes... was probably Nimrod's own father, Cush... Oannes and Dagon... were worshipped as the daemons who first taught mankind the principles of the Pagan religion.\""
+    },
+    {
+      "name": "Dagon",
+      "type": "spirit|deity",
+      "attributes": {
+        "identity": "Same as Oannes; daemon god; husband of Derketo",
+        "role": "Worshipped as a daemon who taught Pagan religion"
+      },
+      "page_ref": "239",
+      "raw_quote": "\"Dagon... was the same as Oannes... daemons who first taught mankind the principles of the Pagan religion.\""
+    },
+    {
+      "name": "Derketo",
+      "type": "spirit|deity",
+      "attributes": {
+        "identity": "Feminine form of Dagon; mother or ancestor of Semiramis",
+        "role": "Goddess associated with Nephilim lineage"
+      },
+      "page_ref": "238, 239",
+      "raw_quote": "\"Derketo being the feminine form of Dagon.\""
+    },
+    {
+      "name": "Semiramis",
+      "type": "person|deified spirit",
+      "attributes": {
+        "identity": "Wife of Nimrod; possibly daughter of a Nephilim-born woman or Nephilim + human union",
+        "role": "Central figure in post-diluvian demon-worshipping tradition"
+      },
+      "page_ref": "238, 239",
+      "raw_quote": "\"Semiramis... was said to be the daughter of the goddess 'Derketo'... and therefore regarded as a goddess or daughter of the gods.\""
+    },
+    {
+      "name": "Nimrod",
+      "type": "person|deified spirit",
+      "attributes": {
+        "identity": "Called Nimrod the giant (Septuagint); Nephilim-descended; husband of Semiramis",
+        "role": "Most powerful Nephilim; god of Babylon; identified with Osiris, Orion, Assyrian Hercules"
+      },
+      "page_ref": "237, 238",
+      "raw_quote": "\"Nimrod is called in the Septuagint 'Nimrod the giant'... Nimrod was himself a giant—i.e., one of those beings which were the result of these Nephilim marriages, and in all probability the most powerful of them all.\""
+    },
+    {
+      "name": "Naamah",
+      "type": "person|spiritually influential figure",
+      "attributes": {
+        "identity": "Eighth-generation descendant of Cain; wife possibly of Ham; mother (or ancestor) of Cush and Canaan",
+        "role": "Transmitter of antediluvian occult knowledge"
+      },
+      "page_ref": "238",
+      "raw_quote": "\"Naamah... became the wife of some person of importance... may have invited or submitted to Nephilim intercourse.\""
+    },
+    {
+      "name": "Obi worship",
+      "type": "ritual|spirit communication",
+      "attributes": {
+        "geographic_origin": "Africa (land of Ham)",
+        "linguistic_link": "Cognate with Hebrew 'Ob'—Hebrew word for demons"
+      },
+      "page_ref": "237",
+      "raw_quote": "\"Obi,' or demon, worship... is most fully established; and the word 'Obi' is clearly cognate with 'Ob,' the Hebrew word for the demons, with whom the magicians and necromancers of Canaan had communication.\""
+    },
+    {
+      "name": "Incubus and Succubus",
+      "type": "spirit",
+      "attributes": {
+        "role": "Daemons who engage in spirit marriages during sleep"
+      },
+      "page_ref": "237",
+      "raw_quote": "\"They were called 'Incubus and Succubus,' or 'The Lilith.'\""
+    },
+    {
+      "name": "Lilith",
+      "type": "spirit",
+      "attributes": {
+        "role": "Female demon associated with spirit unions during sleep"
+      },
+      "page_ref": "237",
+      "raw_quote": "\"They were called 'Incubus and Succubus,' or 'The Lilith.'\""
+    },
+    {
+      "name": "Hypsuranius",
+      "type": "spirit|giant",
+      "attributes": {
+        "etymology": "Greek: 'issue from above' (i.e., descended from the gods)",
+        "role": "Nephilim-descended giant; son of daughters of Phos/Pur/Phlox by Nephilim fathers"
+      },
+      "page_ref": "242",
+      "raw_quote": "\"Hypsuranius... clear[ly] refer[s] to the same person... 'issue from above' (i.e., descended from the gods)...\""
+    },
+    {
+      "name": "Chrysor (Hephaestus)",
+      "type": "person|spiritually empowered figure",
+      "attributes": {
+        "role": "Magician and sorcerer skilled in words, charms, divinations; Nephilim-descended",
+        "significance": "Instrument for establishing general spirit intercourse"
+      },
+      "page_ref": "241, 243",
+      "raw_quote": "\"Chrysor... exercised himself in words and charms and divinations, wherefore he was worshipped after his death as a god.\""
+    },
+    {
+      "name": "Agroueros (Agrus)",
+      "type": "spirit|deified ancestor",
+      "attributes": {
+        "identity": "Identified with Noah; husbandman; father of Titans",
+        "role": "Deified patriarch; 'greatest of the gods' at Byblos"
+      },
+      "page_ref": "243",
+      "raw_quote": "\"Agroueros... belongs to the tenth generation from Protogonus, or Adam... Agroueros... is called 'the greatest of the gods.'\""
+    },
+    {
+      "name": "Titans",
+      "type": "spirit|deified race",
+      "attributes": {
+        "etymology": "'Earth-born'; contrasted with 'heaven-born' Nephilim-descended",
+        "identity": "Descendants of Agroueros/Noah; includes Saturn (Ham), Japetus (Japheth), Typhon (Shem)"
+      },
+      "page_ref": "243–244",
+      "raw_quote": "\"Titans... means 'earth-born,' and was probably given to them as being unaffected by the Nephilim intercourse, and in contradistinction to those who were, whom the Pagans regarded as 'heaven-born.'\""
+    },
+    {
+      "name": "Taautus (Thoth/Hermes)",
+      "type": "deified spirit",
+      "attributes": {
+        "role": "Inventor of writing; god of wisdom in Egyptian tradition"
+      },
+      "page_ref": "243",
+      "raw_quote": "\"Taautus who invented the writing of the first letters. The Egyptians call him Thoor... and the Greeks Hermes.\""
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Sons of God",
+      "to": "Daughters of men",
+      "type": "procreative"
+    },
+    {
+      "from": "Nephilim",
+      "to": "Rephaim",
+      "type": "synonymous_or_identical"
+    },
+    {
+      "from": "Oannes/Dagon",
+      "to": "Semiramis",
+      "type": "parental_or_ancestral"
+    },
+    {
+      "from": "Naamah",
+      "to": "Ham",
+      "type": "spousal"
+    },
+    {
+      "from": "Phos/Pur/Phlox",
+      "to": "Giants/Nephilim-descended",
+      "type": "maternal_line_procreative"
+    },
+    {
+      "from": "Chrysor",
+      "to": "Incubus/Succubus/Lilith tradition",
+      "type": "ritual_institutional"
+    },
+    {
+      "from": "Agroueros/Noah",
+      "to": "Titans",
+      "type": "paternal_ancestral"
+    },
+    {
+      "from": "Nimrod",
+      "to": "Semiramis",
+      "type": "spousal"
+    },
+    {
+      "from": "Nephilim",
+      "to": "Obi worship",
+      "type": "cultural_transmission"
+    }
+  ],
+  "summary": "This chunk explores the origins of spirit communication and necromantic traditions through the lens of Nephilim–human unions, linking them to biblical giants (Rephaim), ancient Near Eastern daemon worship (Oannes/Dagon), and post-diluvian mytho-historical figures like Semiramis and Nimrod. It argues that these unions gave rise to demonically influenced races and established spirit marriages, necromancy, and ancestor veneration as core features of Pagan religion—especially in Cushite/Nimrodic traditions—and traces their transmission through figures like Naamah, Chrysor (Hephaestus), and Agroueros (Noah). The text explicitly connects these themes to medieval European necromantic traditions by referencing the continuity of spirit intercourse practices into modern times.",
+  "key_passages": [
+    "\"the intercourse of 'the sons of God' with the women of Canaan... account for their gigantic stature and strength, and the existence of whole races of such giants cannot be explained on any other grounds.\"",
+    "\"Among no races do we find such habitual and fiendish cruelty as amongst the Obi worshippers of Africa... the word 'Obi' is clearly cognate with 'Ob,' the Hebrew word for the demons, with whom the magicians and necromancers of Canaan had communication.\"",
+    "\"Chrysor... exercised himself in words and charms and divinations, wherefore he was worshipped after his death as a god. This implies that Chrysor... was a magician and sorcerer skilled in the arts of invoking the spirits.\"",
+    "\"Agroueros... is called 'the greatest of the gods'... Noah... became the first or father of the gods, and hence is sometimes identified with Saturn.\"",
+    "\"These begat, by connection with their own mothers... the women of those times without shame having intercourse with any men whom they might chance to meet.\""
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "prompt": "Extract spirits and experiments from text, enforcing strict JSON schema. Include raw_quote, flag ambiguities (e.g., 'If name unclear, output null and note in quote context').",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "source_name": {"type": "string", "description": "Name of the spirit/experiment"},
+      "experiment_type": {"type": "string", "description": "Type of experiment (e.g., 'chemistry', 'biology')"},
+      "method": {"type": "string", "description": "Description of the method"},
+      "results": {"type": "string", "description": "Key results or observations"},
+      "raw_quote": {"type": "object", "description": "Quote with context (e.g., 'Unknown Source: [details]')"},
+      "ambiguity_note": {"type": "string", "description": "Note if ambiguity exists"}
+    },
+    "required": ["source_name", "experiment_type", "method", "results", "raw_quote"]
+  },
+  "examples": [
+    {
+      "source_name": "Lavoisier",
+      "experiment_type": "chemistry",
+      "method": "Oxidation-reduction experiments",
+      "results": "Law of conservation of mass",
+      "raw_quote": {"quote": "La matière ne se perd pas.", "context": "1780"},
+      "ambiguity_note": null
+    },
+    {
+      "source_name": "Unknown Source",
+      "experiment_type": "unidentified",
+      "method": "Unspecified",
+      "results": "Ambiguous data",
+      "raw_quote": {"quote": "Data is incomplete.", "context": "2023"},
+      "ambiguity_note": "Source name and experiment type unclear"
+    }
+  ]
+}

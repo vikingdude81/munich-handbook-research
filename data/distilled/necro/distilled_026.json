@@ -1,0 +1,857 @@
+{
+  "source_id": "necro",
+  "chunk_id": 26,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Salaul",
+      "type": "spirit",
+      "attributes": {
+        "rank": "miles",
+        "function": "appears to magician, executes commands"
+      },
+      "page_ref": "20v",
+      "raw_quote": "Ego sum vnus de vocatis spiritibus, ab aliis ad te missus, qui nominor Salaul, cui precipias quid tibi placet petere, et statim fiet."
+    },
+    {
+      "name": "O Vsyr",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "O Vsyr, Salaul, Silitol, Denior, Zaimo, Syrtroy, Ristel, Cutroy, Lytoy, Onor, Moloy, Pumiotor, Tamy, Dor, Ym, voco vos vt hie venire debeatis..."
+    },
+    {
+      "name": "Silitol",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Silitol, Denior [...]"
+    },
+    {
+      "name": "Denior",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Denior, Zaimo [...]"
+    },
+    {
+      "name": "Zaimo",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Zaimo, Syrtroy [...] (note: uel Zaimo added as alternative to Zanno)"
+    },
+    {
+      "name": "Syrtroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Syrtroy, Ristel [...] "
+    },
+    {
+      "name": "Ristel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Ristel, Cutroy [...] (note: Risbel appears elsewhere as alternative)"
+    },
+    {
+      "name": "Cutroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Cutroy, Lytoy [...] "
+    },
+    {
+      "name": "Lytoy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Lytoy, Onor [...] (note: Litor appears elsewhere as alternative)"
+    },
+    {
+      "name": "Onor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Onor, Moloy [...] "
+    },
+    {
+      "name": "Moloy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Moloy, Pumiotor [...] "
+    },
+    {
+      "name": "Pumiotor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Pumiotor, Tamy [...] "
+    },
+    {
+      "name": "Tamy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Tamy, Dor, Ym [...] (note: Tami appears elsewhere as alternative)"
+    },
+    {
+      "name": "Dor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Dor, Ym [...] (note: Oor appears elsewhere as alternative)"
+    },
+    {
+      "name": "Ym",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "20r",
+      "raw_quote": "[...] Dor, Ym, voco vos vt hie venire debeatis..."
+    },
+    {
+      "name": "Fyrin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus habitatores aque"
+      },
+      "page_ref": "22r",
+      "raw_quote": "O Fyrin, Dyspil, Onoroy, Sysabel, Cotroy, Tyroy, Orooth, Rimel, spiritus- habitatores aque..."
+    },
+    {
+      "name": "Dyspil",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus habitatores aque"
+      },
+      "page_ref": "21v",
+      "raw_quote": "[...] Dyspil, Onoroy [...] "
+    },
+    {
+      "name": "Onoroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus habitatores aque"
+      },
+      "page_ref": "21v",
+      "raw_quote": "[...] Onoroy, Sysabel [...] "
+    },
+    {
+      "name": "Sysabel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus habitatores aque"
+      },
+      "page_ref": "21v",
+      "raw_quote": "[...] Sysabel, Cotroy [...] "
+    },
+    {
+      "name": "Cotroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus habitatores aque"
+      },
+      "page_ref": "21v",
+      "raw_quote": "[...] Cotroy, Tyroy [...] "
+    },
+    {
+      "name": "Tyroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus habitatores aque"
+      },
+      "page_ref": "21v",
+      "raw_quote": "[...] Tyroy, Orooth [...] "
+    },
+    {
+      "name": "Orooth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus habitatores aque"
+      },
+      "page_ref": "21v",
+      "raw_quote": "[...] Orooth, Rimel [...] "
+    },
+    {
+      "name": "Rimel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus habitatores aque"
+      },
+      "page_ref": "21v",
+      "raw_quote": "[...] Rimel, spiritus- habitatores aque..."
+    },
+    {
+      "name": "Lautrayth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus peccatoribus insistentes"
+      },
+      "page_ref": "24r",
+      "raw_quote": "O Lautrayth, Feremin, [et] Oliroomim, spiritus peccatoribus insistentes..."
+    },
+    {
+      "name": "Feremin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus peccatoribus insistentes"
+      },
+      "page_ref": "24r",
+      "raw_quote": "[...] Feremin, [et] Oliroomim [...] (note: also appears as Feremni/feremim elsewhere)"
+    },
+    {
+      "name": "Oliroomim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus peccatoribus insistentes"
+      },
+      "page_ref": "24r",
+      "raw_quote": "[...] Oliroomim, spiritus peccatoribus insistentes..."
+    },
+    {
+      "name": "Brimer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (resurrection ritual)"
+      },
+      "page_ref": "26r",
+      "raw_quote": "[...] Brimer, Suburith, Tranauit [...] in parte exteriori sculpta sint hec nomina..."
+    },
+    {
+      "name": "Suburith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (resurrection ritual)"
+      },
+      "page_ref": "26r",
+      "raw_quote": "[...] Brimer, Suburith, Tranauit [...] "
+    },
+    {
+      "name": "Tranauit",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (resurrection ritual)"
+      },
+      "page_ref": "26r",
+      "raw_quote": "[...] Brimer, Suburith, Tranauit [...] "
+    },
+    {
+      "name": "Lyroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (resurrection ritual)"
+      },
+      "page_ref": "26r",
+      "raw_quote": "[...] Lyroth, Beryen, Damayn [...] "
+    },
+    {
+      "name": "Beryen",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (resurrection ritual)"
+      },
+      "page_ref": "26r",
+      "raw_quote": "[...] Lyroth, Beryen, Damayn [...] "
+    },
+    {
+      "name": "Damayn",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (resurrection ritual)"
+      },
+      "page_ref": "26r",
+      "raw_quote": "[...] Lyroth, Beryen, Damayn [...] "
+    },
+    {
+      "name": "ritual circle with spirit names",
+      "type": "ritual",
+      "attributes": {
+        "function": "conjuration of spirits for military vision and illusion"
+      },
+      "page_ref": "20r-21r",
+      "raw_quote": "O Vsyr, Salaul, Silitol, Denior, Zaimo, Syrtroy, Ristel, Cutroy, Lytoy, Onor, Moloy, Pumiotor, Tamy, Dor, Ym, voco vos vt hie venire debeatis per consecracionem huius circuli..."
+    },
+    {
+      "name": "ritual boat conjuration",
+      "type": "ritual",
+      "attributes": {
+        "function": "obtain a magical ship"
+      },
+      "page_ref": "21r-23r",
+      "raw_quote": "Vt vbicumque sis possis habere nauem, in qua tu cum quibuscumque voles quocumque ferris- vadas: ieiunus b die lune..."
+    },
+    {
+      "name": "ritual horse conjuration",
+      "type": "ritual",
+      "attributes": {
+        "function": "obtain a magical spirit-horse"
+      },
+      "page_ref": "23v-25v",
+      "raw_quote": "Volo eciam tibi mittere- quomodo equus, hoc est spiritus in equi forma, possit haberi..."
+    },
+    {
+      "name": "ritual resurrection",
+      "type": "ritual",
+      "attributes": {
+        "function": "resuscitate the dead"
+      },
+      "page_ref": "25v-28r",
+      "raw_quote": "Cum volueris [in] aliquem mortuum infundere spiritum, ita quod viuus, [vt] erat prius,- videbitur..."
+    },
+    {
+      "name": "ritual invisibility",
+      "type": "ritual",
+      "attributes": {
+        "function": "grant invisibility"
+      },
+      "page_ref": "28r-29v",
+      "raw_quote": "Tracto eciam de arte invisibilitatis, hodie quasi ab omnibus ignorata.-"
+    },
+    {
+      "name": "human rib (dead)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "engraved with names and used in boat ritual"
+      },
+      "page_ref": "21v",
+      "raw_quote": "fer tecum vnam [21v] costam hominis siue mulieris mortui, quam primo acuere debes..."
+    },
+    {
+      "name": "marrow of the dead",
+      "type": "ingredient",
+      "attributes": {
+        "use": "fumigation in boat ritual"
+      },
+      "page_ref": "21v",
+      "raw_quote": "suffumiga ipsum cum medulla mortui, vt dictum est."
+    },
+    {
+      "name": "iron key or stylus",
+      "type": "tool",
+      "attributes": {
+        "use": "draw horse ritual circle"
+      },
+      "page_ref": "23v",
+      "raw_quote": "cum quodam clauo siue stilo ferreo fac circulum, vt hie apparet,- sculpiens in eo nomina et figuras ibidem apparcntes."
+    },
+    {
+      "name": "horse bridle (unused)",
+      "type": "tool",
+      "attributes": {
+        "use": "ritual focus for horse spirit summoning"
+      },
+      "page_ref": "23v",
+      "raw_quote": "cum quodam freno nunquam operato, et in loco secreto cum quodam clauo siue stilo ferreo fac circulum..."
+    },
+    {
+      "name": "gold ring",
+      "type": "tool",
+      "attributes": {
+        "use": "resurrection ritual; inscribed with spirit names"
+      },
+      "page_ref": "25v",
+      "raw_quote": "Primo quidem ex auro anulum fieri facias. Eciam sculpta sint- in parte- exteriori hec nominal Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "sword",
+      "type": "tool",
+      "attributes": {
+        "use": "draw resurrection ritual circle"
+      },
+      "page_ref": "26r",
+      "raw_quote": "fac circulum cum quodam ense, et in ipso scribe cum dicto ense nomina et figura[s] vt hie apparet."
+    },
+    {
+      "name": "white linen shroud",
+      "type": "ingredient",
+      "attributes": {
+        "use": "store resurrection ring"
+      },
+      "page_ref": "27v",
+      "raw_quote": "Et predictum anulum bene teneas involutum in syndone albo."
+    },
+    {
+      "name": "circle with double band and pentagram",
+      "type": "ritual diagram",
+      "attributes": {
+        "function": "resurrection ritual; protective and binding"
+      },
+      "page_ref": "26r",
+      "raw_quote": "Figure on fol. 26r: a double circular band, with a pentagram inscribed. O Brimer, Suburith, Tranauit is inscribed in the outer band..."
+    },
+    {
+      "name": "circle with single band and crescent (ship)",
+      "type": "ritual diagram",
+      "attributes": {
+        "function": "boat summoning"
+      },
+      "page_ref": "21v",
+      "raw_quote": "Figure onfol. 21v: a single circular band in which are inscribed the names Fyrin, Dyspil, Onoroy, Sysabel, Cotroy, Tyroy, Rimel and Orooth..."
+    },
+    {
+      "name": "circle with square and inner circle",
+      "type": "ritual diagram",
+      "attributes": {
+        "function": "horse summoning"
+      },
+      "page_ref": "23v",
+      "raw_quote": "Figure on fol. 23v: a single circular band, with a square inscribed, and a circle inside the square..."
+    },
+    {
+      "name": "circle of protection",
+      "type": "ritual diagram",
+      "attributes": {
+        "function": "magical containment for all rituals"
+      },
+      "page_ref": "20r-21r",
+      "raw_quote": "...michi in omnibus istis apparere faciatis castrum fortissimum, cum profundis foveis..."
+    },
+    {
+      "name": "Latin incantation (boat ritual)",
+      "type": "incantation",
+      "attributes": {
+        "function": "bind water spirits"
+      },
+      "page_ref": "22r",
+      "raw_quote": "Fyrin (quod- sic dicas: O Fyrin), Dyspil, Onoroy, Sysabel, Cotroy, Tyroy, Orooth, Rimel, spiritus- habitatores aque..."
+    },
+    {
+      "name": "Latin incantation (spirit summoning)",
+      "type": "incantation",
+      "attributes": {
+        "function": "invoke army spirits"
+      },
+      "page_ref": "20r",
+      "raw_quote": "O Vsyr, Salaul, Silitol, Denior, Zaimo, Syrtroy, Ristel, Cutroy, Lytoy, Onor, Moloy, Pumiotor, Tamy, Dor, Ym, voco vos vt hie venire debeatis per consecracionem huius circuli..."
+    },
+    {
+      "name": "Latin incantation (horse ritual)",
+      "type": "incantation",
+      "attributes": {
+        "function": "bind three horse spirits"
+      },
+      "page_ref": "24r",
+      "raw_quote": "O Lautrayth, Feremin, [et] Oliroomim, spiritus peccatoribus insistentes, ego, talis, in vestra virtute confidens, vos coniuro..."
+    },
+    {
+      "name": "Latin incantation (resurrection ring)",
+      "type": "incantation",
+      "attributes": {
+        "function": "bind demons to ring"
+      },
+      "page_ref": "26v",
+      "raw_quote": "Coniuro vos, omnes demones scriptos in hoc anulo - quem in manibus habeas..."
+    },
+    {
+      "name": "ritual duration (one quadrant)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "limitation on ritual effect"
+      },
+      "page_ref": "21r",
+      "raw_quote": "Memento quod ars predicta nisi vno quadrante durare non potest, nisi durabit vnum quadrantem vna vice..."
+    },
+    {
+      "name": "ritual timing (moon phase)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "timing requirement"
+      },
+      "page_ref": "21v",
+      "raw_quote": "ieiunus b die lune; ipsa die, luna crescente..."
+    },
+    {
+      "name": "ritual timing (Tuesday, waning moon)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "timing requirement for horse ritual"
+      },
+      "page_ref": "23v",
+      "raw_quote": "Primo enim, 6a luna, die Martis, ieiunus..."
+    },
+    {
+      "name": "ritual timing (Sunday before sunrise)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "timing requirement for resurrection ritual"
+      },
+      "page_ref": "25v-26r",
+      "raw_quote": "Vero dominica die, ante solis ortum, accedas extra villam..."
+    },
+    {
+      "name": "ritual timing (Friday and Saturday night at tomb)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "timing requirement for resurrection ritual"
+      },
+      "page_ref": "25v-26r",
+      "raw_quote": "et in ipso pone, ita quod moretur ipsa die Veneris et Sabbati die."
+    },
+    {
+      "name": "ritual timing (third day at horse ritual site)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "timing requirement for retrieving bridle"
+      },
+      "page_ref": "25r",
+      "raw_quote": "Tercia vero dei, in vesperis, reuertaris illuc..."
+    },
+    {
+      "name": "ritual timing (sixth day at tomb)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "timing requirement for resurrection ring activation"
+      },
+      "page_ref": "27r",
+      "raw_quote": "Sexta vero die, cum predicto ense, reuerteris..."
+    },
+    {
+      "name": "ritual direction (orient)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "directional orientation"
+      },
+      "page_ref": "20r",
+      "raw_quote": "incipiendo ab oriente, sic dices: O Vsyr..."
+    },
+    {
+      "name": "ritual direction (west)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "directional orientation for boat ritual"
+      },
+      "page_ref": "22r",
+      "raw_quote": "...hanc coniuracionem dices versus occidentem..."
+    },
+    {
+      "name": "ritual direction (south)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "directional orientation for resurrection ritual"
+      },
+      "page_ref": "26r",
+      "raw_quote": "...dicendo versus meridiem hanc coniuracionem..."
+    },
+    {
+      "name": "ritual direction (north)",
+      "type": "ritual constraint",
+      "attributes": {
+        "function": "directional orientation for resurrection ritual"
+      },
+      "page_ref": "27r",
+      "raw_quote": "...similiter versus occidentem, deinde versus aquilonem et versus orientem..."
+    },
+    {
+      "name": "ritual fumigation",
+      "type": "ritual action",
+      "attributes": {
+        "function": "preparation for spirit summoning"
+      },
+      "page_ref": "21v",
+      "raw_quote": "suffumiga ipsum cum medulla mortui, vt dictum est."
+    },
+    {
+      "name": "ritual circle destruction",
+      "type": "ritual action",
+      "attributes": {
+        "function": "closing ritual"
+      },
+      "page_ref": "23r",
+      "raw_quote": "Quibus recessis, aboleas circulum..."
+    },
+    {
+      "name": "ritual burial of remains",
+      "type": "ritual action",
+      "attributes": {
+        "function": "disposal of ritual materials"
+      },
+      "page_ref": "23r",
+      "raw_quote": "...et costam subterra ibi."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Salaul",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Silitol",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Denior",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Zaimo",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Syrtroy",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Ristel",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Cutroy",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Lytoy",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Onor",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Moloy",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Pumiotor",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Tamy",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Dor",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Ym",
+      "to": "O Vsyr",
+      "type": "member-of"
+    },
+    {
+      "from": "Fyrin",
+      "to": "spiritus habitatores aque",
+      "type": "instance-of"
+    },
+    {
+      "from": "Dyspil",
+      "to": "spiritus habitatores aque",
+      "type": "instance-of"
+    },
+    {
+      "from": "Onoroy",
+      "to": "spiritus habitatores aque",
+      "type": "instance-of"
+    },
+    {
+      "from": "Sysabel",
+      "to": "spiritus habitatores aque",
+      "type": "instance-of"
+    },
+    {
+      "from": "Cotroy",
+      "to": "spiritus habitatores aque",
+      "type": "instance-of"
+    },
+    {
+      "from": "Tyroy",
+      "to": "spiritus habitatores aque",
+      "type": "instance-of"
+    },
+    {
+      "from": "Orooth",
+      "to": "spiritus habitatores aque",
+      "type": "instance-of"
+    },
+    {
+      "from": "Rimel",
+      "to": "spiritus habitatores aque",
+      "type": "instance-of"
+    },
+    {
+      "from": "Lautrayth",
+      "to": "spiritus peccatoribus insistentes",
+      "type": "instance-of"
+    },
+    {
+      "from": "Feremin",
+      "to": "spiritus peccatoribus insistentes",
+      "type": "instance-of"
+    },
+    {
+      "from": "Oliroomim",
+      "to": "spiritus peccatoribus insistentes",
+      "type": "instance-of"
+    },
+    {
+      "from": "Brimer",
+      "to": "demon (resurrection ritual)",
+      "type": "instance-of"
+    },
+    {
+      "from": "Suburith",
+      "to": "demon (resurrection ritual)",
+      "type": "instance-of"
+    },
+    {
+      "from": "Tranauit",
+      "to": "demon (resurrection ritual)",
+      "type": "instance-of"
+    },
+    {
+      "from": "Lyroth",
+      "to": "demon (resurrection ritual)",
+      "type": "instance-of"
+    },
+    {
+      "from": "Beryen",
+      "to": "demon (resurrection ritual)",
+      "type": "instance-of"
+    },
+    {
+      "from": "Damayn",
+      "to": "demon (resurrection ritual)",
+      "type": "instance-of"
+    },
+    {
+      "from": "ritual circle with spirit names",
+      "to": "O Vsyr",
+      "type": "contains"
+    },
+    {
+      "from": "ritual boat conjuration",
+      "to": "Fyrin",
+      "type": "uses"
+    },
+    {
+      "from": "ritual horse conjuration",
+      "to": "Lautrayth",
+      "type": "uses"
+    },
+    {
+      "from": "ritual resurrection",
+      "to": "Brimer",
+      "type": "uses"
+    },
+    {
+      "from": "human rib (dead)",
+      "to": "ritual boat conjuration",
+      "type": "ingredient-in"
+    },
+    {
+      "from": "marrow of the dead",
+      "to": "ritual boat conjuration",
+      "type": "ingredient-in"
+    },
+    {
+      "from": "iron key or stylus",
+      "to": "ritual horse conjuration",
+      "type": "tool-in"
+    },
+    {
+      "from": "horse bridle (unused)",
+      "to": "ritual horse conjuration",
+      "type": "focus-of"
+    },
+    {
+      "from": "gold ring",
+      "to": "ritual resurrection",
+      "type": "artifact-in"
+    },
+    {
+      "from": "sword",
+      "to": "ritual resurrection",
+      "type": "tool-in"
+    },
+    {
+      "from": "white linen shroud",
+      "to": "gold ring",
+      "type": "storage-for"
+    },
+    {
+      "from": "circle with double band and pentagram",
+      "to": "ritual resurrection",
+      "type": "diagram-in"
+    },
+    {
+      "from": "circle with single band and crescent (ship)",
+      "to": "ritual boat conjuration",
+      "type": "diagram-in"
+    },
+    {
+      "from": "circle with square and inner circle",
+      "to": "ritual horse conjuration",
+      "type": "diagram-in"
+    },
+    {
+      "from": "Latin incantation (boat ritual)",
+      "to": "Fyrin",
+      "type": "addresses"
+    },
+    {
+      "from": "Latin incantation (spirit summoning)",
+      "to": "O Vsyr",
+      "type": "addresses"
+    },
+    {
+      "from": "Latin incantation (horse ritual)",
+      "to": "Lautrayth",
+      "type": "addresses"
+    },
+    {
+      "from": "Latin incantation (resurrection ring)",
+      "to": "Brimer",
+      "type": "addresses"
+    }
+  ],
+  "summary": "This chunk contains detailed ritual descriptions from the Munich Handbook of necromancy (CLM 849), as analyzed by Kieckhefer. It includes: (1) a military illusion ritual invoking spirits like Salaul and the 'armigeri' group to create phantom armies and fortresses; (2) a boat summoning ritual requiring a dead person's rib, fumigation with marrow, and invocation of eight water-dwelling spirits (Fyrin et al.); (3) a horse conjuration invoking three spirits (Lautrayth, Feremin/Oliroomim) using an unused bridle; and (4) resurrection magic involving a gold ring inscribed with demon names (Brimer, Suburith, etc.) and consecrated over five days in running water. Each ritual includes precise timing (moon phases, weekdays), directional requirements, circle diagrams, Latin incantations, and instructions for ritual construction/destruction.",
+  "key_passages": [
+    "O Vsyr, Salaul, Silitol, Denior, Zaimo, Syrtroy, Ristel, Cutroy, Lytoy, Onor, Moloy, Pumiotor, Tamy, Dor, Ym, voco vos vt hie venire debeatis per consecracionem huius circuli...",
+    "Ego sum vnus de vocatis spiritibus, ab aliis ad te missus, qui nominor Salaul, cui precipias quid tibi placet petere, et statim fiet.",
+    "Fyrin (quod- sic dicas: O Fyrin), Dyspil, Onoroy, Sysabel, Cotroy, Tyroy, Orooth, Rimel, spiritus- habitatores aque, qui naues nauigantium periclitare conamini, ego vos coniuro et exorcizo...",
+    "O Lautrayth, Feremin, [et] Oliroomim, spiritus peccatoribus insistentes, ego, talis, in vestra virtute confidens, vos coniuro per ilium qui dixit et facta sunt...",
+    "Coniuro vos, omnes demones scriptos in hoc anulo - quem in manibus habeas, per Patrem et Filium et Spiritum Sanctum... vt in eo hec virtus existat, uidelicet quod quandocumque inposuero ipsum in digito alicuius mortui, vna uobis ipsum ingrediatur..."
+  ]
+}

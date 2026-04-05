@@ -1,0 +1,250 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 3,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "All Souls",
+      "type": "ritual",
+      "attributes": {
+        "denomination": "Roman Catholic Church",
+        "date": "2nd November"
+      },
+      "page_ref": "47",
+      "raw_quote": "Wherever the Roman Catholic Church exists, solemn Mass for All Souls is said on the 2nd November..."
+    },
+    {
+      "name": "All Saints",
+      "type": "ritual",
+      "attributes": {
+        "denomination": "Church of England",
+        "status": "retained despite rejection of All Souls"
+      },
+      "page_ref": "47",
+      "raw_quote": "...the Church of England...clings devoutly to All Saints."
+    },
+    {
+      "name": "Aya Marca",
+      "type": "ritual",
+      "attributes": {
+        "etymology": "'Aya' = corpse, 'Marca' = carrying in arms",
+        "description": "Peruvian festival of the dead with tears, lugubrious songs, plaintive music, tomb visits, food/drink offerings"
+      },
+      "page_ref": "47",
+      "raw_quote": "\"The month...is called 'Aya Marca,' from 'Aya', a 'corpse', and 'Marca', 'carrying in arms', because they celebrated the solemn festival of the dead with tears, lugubrious songs and plaintive music..."
+    },
+    {
+      "name": "Dii Manes",
+      "type": "spirit",
+      "attributes": {
+        "context": "Roman festival of the dead",
+        "synonym": "Feralia"
+      },
+      "page_ref": "48",
+      "raw_quote": "In Rome the festival of the dead, or 'Feralia,' called 'Dii Manes,' or 'the day of the spirits of the dead'..."
+    },
+    {
+      "name": "Lemuria",
+      "type": "ritual",
+      "attributes": {
+        "date": "May 11th (17th day of second month in old Latin calendar)",
+        "description": "Festival of spirits believed to be souls of deceased friends"
+      },
+      "page_ref": "48",
+      "raw_quote": "\"In more ancient times, the 'festival of the spirits,' believed to be the souls of deceased friends, was called 'Lemuria'..."
+    },
+    {
+      "name": "Anthesteria",
+      "type": "ritual",
+      "attributes": {
+        "date": "February 11th–13th",
+        "dedication": "Bacchus (identical with Osiris)",
+        "cultural link": "connected to same event as Egyptian mourning for Osiris"
+      },
+      "page_ref": "48",
+      "raw_quote": "A feast called the 'Anthesteria' was also celebrated at Athens on February llth-13th, in honour of Bacchus, who was identical with the Egyptian Osiris..."
+    },
+    {
+      "name": "Osiris",
+      "type": "deity",
+      "attributes": {
+        "epithet": "Lord of Tombs",
+        "myth": "shut up in the deep for one year like Noah, resurrection celebrated"
+      },
+      "page_ref": "47",
+      "raw_quote": "...the seventeenth day of their second month commenced their solemn mourning for Osiris, the Lord of Tombs, who was fabled to have been 'shut up in the deep for one year like Noah...'"
+    },
+    {
+      "name": "Pleiades",
+      "type": "constellation",
+      "attributes": {
+        "astronomical role": "marker for festivals of dead and agriculture across multiple cultures",
+        "cultural associations": [
+          "Australian Aborigines",
+          "Society Islanders",
+          "Mexicans"
+        ]
+      },
+      "page_ref": "48–49",
+      "raw_quote": "\"Mr Haliburton has some interesting arguments to prove that the festival in many nations was fixed by the first rising of the Pleiades above the horizon.\""
+    },
+    {
+      "name": "Matarii i nia",
+      "type": "ritual",
+      "attributes": {
+        "alternative name": "'The Pleiades above'",
+        "cultural group": "Society Islanders",
+        "date": "November",
+        "function": "festival of the dead and first-fruits, marks start of year"
+      },
+      "page_ref": "49",
+      "raw_quote": "\"This festival of the dead and of the first-fruits is evidently that referred to by Ellis...called by them 'Matarii i nia,' or 'The Pleiades above'..."
+    },
+    {
+      "name": "Deluge",
+      "type": "concept",
+      "attributes": {
+        "biblical reference": "Mosaic account",
+        "significance": "foundation for global mourning festivals and ancestor veneration"
+      },
+      "page_ref": "49–50",
+      "raw_quote": "\"...one or other of the two great events in the history of the Deluge...were observed throughout the ancient world...intimately connected with...that worship of the dead which...was the central principle of the ancient idolatry.\""
+    },
+    {
+      "name": "Babylon",
+      "type": "location",
+      "attributes": {
+        "role": "cradle of ancient Paganism",
+        "influence": "source of religion for Egypt, Greece, Rome, etc."
+      },
+      "page_ref": "50–52",
+      "raw_quote": "\"It would appear probable that...the very unity of the religious system...emanated from Babylon..."
+    },
+    {
+      "name": "Chaldeans",
+      "type": "cultural group",
+      "attributes": {
+        "role": "originators of astronomy/religion",
+        "language": "Sumerian/Accadian sacred language used for incantations"
+      },
+      "page_ref": "51–52",
+      "raw_quote": "\"...the Chaldees to the Egyptians and thence to the Greeks...used for their incantations and magical sorceries by the Assyrians..."
+    },
+    {
+      "name": "Etruscans",
+      "type": "cultural group",
+      "attributes": {
+        "origin theory": "Asiatic colony from Chaldea",
+        "religious role": "transmitters of Paganism to Rome"
+      },
+      "page_ref": "52–53",
+      "raw_quote": "\"Colonel Conder...shows that the Etruscan language was remarkably similar to the ancient Chaldean or Accadian.\""
+    },
+    {
+      "name": "Saturn",
+      "type": "deity",
+      "attributes": {
+        "etymology": "Chaldean origin",
+        "epithet": "father of the gods",
+        "geographic association": "Saturnia, Janicula, Saturnian Land"
+      },
+      "page_ref": "52–53",
+      "raw_quote": "\"...two cities...called Saturnia and Janicula...Saturn was certainly of Chaldean origin.\""
+    },
+    {
+      "name": "Cadmus",
+      "type": "person",
+      "attributes": {
+        "role": "Phoenician teacher",
+        "contributions": "introduced Phoenician/Egyptian gods, letters to Greeks; founded Thebes (after Egyptian city)"
+      },
+      "page_ref": "52",
+      "raw_quote": "\"Much of the religion of Greece was introduced by Cadmus the 'Phoenician', who...taught the Greeks the worship of Phoenician and Egyptian gods..."
+    },
+    {
+      "name": "Hesiod",
+      "type": "person",
+      "attributes": {
+        "role": "ancient Greek poet",
+        "relevance": "cited as evidence that gods were deified men"
+      },
+      "page_ref": "54",
+      "raw_quote": "\"Hesiod...says that 'the gods were the souls of men who were afterwards worshipped by their posterity, on account of their extraordinary virtues.'\""
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Osiris",
+      "to": "Bacchus",
+      "type": "syncretism"
+    },
+    {
+      "from": "Bacchus",
+      "to": "Dionysius",
+      "type": "identification"
+    },
+    {
+      "from": "Thoth",
+      "to": "Hermes",
+      "type": "identification"
+    },
+    {
+      "from": "Cronus",
+      "to": "Saturn",
+      "type": "syncretism"
+    },
+    {
+      "from": "Bel",
+      "to": "Baal",
+      "type": "etymological/functional equivalence (implied)"
+    },
+    {
+      "from": "Horus",
+      "to": "Apollo",
+      "type": "distinct titles of same divine incarnation"
+    },
+    {
+      "from": "Chaldeans",
+      "to": "Egyptians",
+      "type": "religious transmission"
+    },
+    {
+      "from": "Egyptians",
+      "to": "Greeks",
+      "type": "religious transmission"
+    },
+    {
+      "from": "Etruscans",
+      "to": "Romans",
+      "type": "religious transmission"
+    },
+    {
+      "from": "Babylon",
+      "to": "all ancient Pagan religions",
+      "type": "origin point"
+    },
+    {
+      "from": "Pleiades",
+      "to": "festival of the dead",
+      "type": "astronomical regulator"
+    },
+    {
+      "from": "Deluge tradition",
+      "to": "ancestor veneration practices",
+      "type": "cultural foundation"
+    },
+    {
+      "from": "deified ancestors",
+      "to": "gods",
+      "type": "origin theory (per Hesiod)"
+    }
+  ],
+  "summary": "This chunk explores cross-cultural parallels in death rituals and ancestor veneration, emphasizing the near-universal timing of such festivals around November or early spring, often linked to Pleiades visibility. It traces shared motifs—including mourning for Osiris/Adonis, Roman Feralia/Lemuria, Greek Anthesteria—to a common primordial origin, which the text attributes to Babylon and the Deluge tradition. The chapter argues that ancient deities originated as deified ancestors whose worship became entangled with astral phenomena and cosmological cycles.",
+  "key_passages": [
+    "\"Wherever the Roman Catholic Church exists, solemn Mass for All Souls is said on the 2nd November...\"",
+    "\"The Egyptians began their year at the same time as the Jews, and on the seventeenth day of their second month commenced their solemn mourning for Osiris, the Lord of Tombs...\"",
+    "\"In Rome the festival of the dead, or 'Feralia,' called 'Dii Manes,' or 'the day of the spirits of the dead'...",
+    "\"The festival of the dead was held on the 28th November [MS: likely typo for 1st Nov], and was regulated by the Pleiades...\"",
+    "\"Hesiod...says that 'the gods were the souls of men who were afterwards worshipped by their posterity, on account of their extraordinary virtues.'\""
+  ]
+}

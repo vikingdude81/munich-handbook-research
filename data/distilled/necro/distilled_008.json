@@ -1,0 +1,191 @@
+{
+  "source_id": "necro",
+  "chunk_id": 8,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Brimer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "named demon",
+        "function": "bearer of consecrated ring in resuscitation ritual"
+      },
+      "raw_quote": "I conjure you, O Brimer, Suburith, [etc.] ... that you should come to me now without delay, bearing the consecrated ring"
+    },
+    {
+      "name": "Suburith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "named demon"
+      },
+      "raw_quote": "I conjure you, O Brimer, Suburith, [etc.] ... that you should come to me now without delay, bearing the consecrated ring"
+    },
+    {
+      "name": "six spirits",
+      "type": "spirit",
+      "attributes": {
+        "rank": "group of demons",
+        "function": "appear at circle upon first conjuration; request and depart with ring"
+      },
+      "raw_quote": "When you have said this once, six spirits will at once appear at the circle, requesting the ring"
+    },
+    {
+      "name": "spirit in horseman form",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "delivers consecrated ring; claims it is not fitting for them to come personally"
+      },
+      "raw_quote": "you will see toward the east someone coming on horseback, who, when he arrives at the circle, will say, 'So-and-so' - naming the names written above"
+    },
+    {
+      "name": "consecrated ring",
+      "type": "ritual tool",
+      "attributes": {
+        "function": "causes living person to appear dead; revives corpse for up to six days"
+      },
+      "raw_quote": "whenever I place it on the finger of a dead person, one of you will enter him, and he will appear alive as before"
+    },
+    {
+      "name": "hoopoe",
+      "type": "ingredient",
+      "attributes": {
+        "part_used": "feather and blood",
+        "function": "used to draw circle for love/fate ritual"
+      },
+      "raw_quote": "If you draw it on a Friday with the feather of a hoopoe and with its blood on a freshly prepared sheet of parchment"
+    },
+    {
+      "name": "white cloth",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to wrap consecrated ring"
+      },
+      "raw_quote": "Keep this ring with you, wrapped in a sheet of white cloth."
+    },
+    {
+      "name": "pentagram",
+      "type": "ritual diagram",
+      "attributes": {
+        "form": "inscribed within double circular band",
+        "function": "central symbol on ring"
+      },
+      "raw_quote": "The figure shown for this experiment is a double circular band with a pentagram inscribed."
+    },
+    {
+      "name": "monumentum (white shroud)",
+      "type": "ritual ingredient",
+      "attributes": {
+        "context": "resurrection ritual, Christological parody"
+      },
+      "raw_quote": "The reference to the monumentum , the white shroud, and Sunday morning before dawn all make it clear that this resuscitation is intended as a replication or perhaps a parody of Christ’s Resurrection."
+    },
+    {
+      "name": "sword",
+      "type": "ritual tool",
+      "attributes": {
+        "function": "used in conjuration; carried away after ritual"
+      },
+      "raw_quote": "you likewise should leave the circle, taking the sword with you, and not destroying the circle"
+    },
+    {
+      "name": "Oymelor, Symofos, Manoir, Faubair",
+      "type": "spirit",
+      "attributes": {
+        "rank": "names on outermost band of ring"
+      },
+      "raw_quote": "Oymelor, Symofos, Manoir and Faubair in the outermost band"
+    },
+    {
+      "name": "Demefin, Rodobayl, Tamafin, Abelutabel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "names on second band of ring"
+      },
+      "raw_quote": "Demefin, Rodobayl, Tamafin and Abelutabel in the next"
+    },
+    {
+      "name": "Lamair, Tentetos, Leutaber, Rimasor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "names on third band of ring"
+      },
+      "raw_quote": "Lamair, Tentetos, Leutaber and Rimasor in the next"
+    },
+    {
+      "name": "Masair, Lotobor, Tatomofon, Sirama",
+      "type": "spirit",
+      "attributes": {
+        "rank": "names on innermost band of ring"
+      },
+      "raw_quote": "Masair, Lotobor, Tatomofon and Sirama in the innermost"
+    },
+    {
+      "name": "Lantrayth / Lautrayth / Lutrayth",
+      "type": "spirit",
+      "attributes": {
+        "variant_forms": [
+          "Feremni",
+          "Feremin",
+          "Feremim"
+        ]
+      },
+      "raw_quote": "The nomenclature is again variable: Lantrayth appears also as Lautrayth and Lutrayth, Feremni as Feremin and Feremim"
+    },
+    {
+      "name": "Oliromim / Oliroomim",
+      "type": "spirit",
+      "attributes": {
+        "variant_forms": [
+          "Oliroomim"
+        ]
+      },
+      "raw_quote": "Oliromim as Oliroomim."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Brimer",
+      "to": "six spirits",
+      "type": "co-officiant"
+    },
+    {
+      "from": "spirit in horseman form",
+      "to": "consecrated ring",
+      "type": "delivers"
+    },
+    {
+      "from": "hoopoe blood",
+      "to": "circle drawing",
+      "type": "used_in"
+    },
+    {
+      "from": "white cloth",
+      "to": "consecrated ring",
+      "type": "stores"
+    },
+    {
+      "from": "pentagram",
+      "to": "ring design",
+      "type": "part_of"
+    },
+    {
+      "from": "monumentum",
+      "to": "resurrection ritual",
+      "type": "ritual_context"
+    },
+    {
+      "from": "sword",
+      "to": "conjuration",
+      "type": "used_in"
+    }
+  ],
+  "summary": "This chunk details a complex resuscitation and illusionist necromantic ritual from the Munich Handbook (CLM 849), including spirit conjurations (Brimer, Suburith, six spirits, horseman demon), use of a consecrated ring to simulate death/resurrection, and associated ingredients (hoopoe blood/feather for circle drawing, white cloth for storage). It includes detailed descriptions of the ritual steps across multiple days, the structure of the magical ring with nested bands of spirit names, and theological commentary on how these practices parody Christ’s Resurrection and align with medieval views of Antichristian illusion.",
+  "key_passages": [
+    "When you have said this once, six spirits will at once appear at the circle, requesting the ring, which you will give them. When you have given it, they will depart...",
+    "You will take the ring, saying to him, 'Thanks to you and to them.' When you have said this, he will at once withdraw; and you too shall depart from the circle, destroying it completely.",
+    "Keep this ring with you, wrapped in a sheet of white cloth. When you wish to cause someone to appear dead... place this ring on his finger, and he will appear to be a corpse...",
+    "The figure shown for this experiment is a double circular band with a pentagram inscribed. The names carved on the ring are repeated, along with astrological signs, within the two bands.",
+    "The reference to the monumentum , the white shroud, and Sunday morning before dawn all make it clear that this resuscitation is intended as a replication or perhaps a parody of Christ’s Resurrection."
+  ]
+}

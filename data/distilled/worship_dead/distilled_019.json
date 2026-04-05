@@ -1,0 +1,313 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 19,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Beelzebub",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons",
+        "scriptural_reference": "Matthew 12:24-27 (implied)"
+      },
+      "page_ref": "p. 201",
+      "raw_quote": "the prince of these demons was Beelzebub or Satan."
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons",
+        "synonym_of": "Beelzebub"
+      },
+      "page_ref": "p. 201",
+      "raw_quote": "the prince of these demons was Beelzebub or Satan."
+    },
+    {
+      "name": "daimonia",
+      "type": "spirit",
+      "attributes": {
+        "role": "evil spirits, messengers/angels of the prince of demons",
+        "scriptural_basis": "1 Corinthians 10:20"
+      },
+      "page_ref": "pp. 205-206",
+      "raw_quote": "the daimonia of Scripture, evil spirits, the messengers or angels of the prince of the demons"
+    },
+    {
+      "name": "Hermes Trismegistus",
+      "type": "person",
+      "attributes": {
+        "role": "supposed originator of ancient Pagan magic",
+        "tradition": "Hermetic philosophy"
+      },
+      "page_ref": "p. 204",
+      "raw_quote": "The spirits invoked by the necromancers and the magicians were supposed to be the spirits of the dead, and this may have been the belief of the first great magician, Hermes himself."
+    },
+    {
+      "name": "Clementine Homilies",
+      "type": "text",
+      "attributes": {
+        "author_attribution": "Clement (mentioned by Paul)",
+        "date_context": "early Christian era"
+      },
+      "page_ref": "p. 204",
+      "raw_quote": "Clement, who is supposed to be the person of that name mentioned by the Apostle Paul..."
+    },
+    {
+      "name": "necromancy",
+      "type": "ritual",
+      "attributes": {
+        "definition": "art of calling up souls from Hades",
+        "purpose": "consultation with spirits of the dead"
+      },
+      "page_ref": "p. 204",
+      "raw_quote": "induce him by the offer of a large sum of money to call up a soul from Hades, by the art which is termed necromancy"
+    },
+    {
+      "name": "hierophauts and prophets of the shrines",
+      "type": "spiritual_role",
+      "attributes": {
+        "role": "Egyptian religious specialists",
+        "context": "pre-Christian Egyptian practice"
+      },
+      "page_ref": "p. 204",
+      "raw_quote": "I will go to Egypt and cultivate the friendship of the hierophauts and prophets of the shrines"
+    },
+    {
+      "name": "Jamblicus",
+      "type": "person",
+      "attributes": {
+        "era": "Constantinian period",
+        "role": "Egyptian philosopher/magician"
+      },
+      "page_ref": "p. 206",
+      "raw_quote": "the disciples of Jamblicus asserted that they had often witnessed the same miracle in the case of their master, who when he prayed was raised to the height of ten cubits from the earth"
+    },
+    {
+      "name": "Zoroaster (Chaldean)",
+      "type": "person",
+      "attributes": {
+        "era": "ancient",
+        "role": "Chaldean magician-prophet"
+      },
+      "page_ref": "p. 206",
+      "raw_quote": "luminous rays emanating from the soul do sometimes divinely penetrate the body, which is then of itself raised above the earth, and that this was the case with Zoroaster"
+    },
+    {
+      "name": "Francis of Assisi",
+      "type": "person",
+      "attributes": {
+        "role": "Christian saint",
+        "phenomena": "levitation"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "the so-called 'saints,' Francis of Assisi, Petrus a Martina, and Francis of Macerata... raised from the earth when he prayed"
+    },
+    {
+      "name": "Francis of Macerata",
+      "type": "person",
+      "attributes": {
+        "role": "Christian saint",
+        "phenomena": "levitation + luminous body"
+      },
+      "page_ref": "p. 207",
+      "raw_quote": "his body became luminous, 'a flame resting on his head'"
+    },
+    {
+      "name": "St Philip Neri",
+      "type": "person",
+      "attributes": {
+        "role": "Catholic saint",
+        "phenomena": "levitation during Mass + clairvoyance"
+      },
+      "page_ref": "p. 207-208",
+      "raw_quote": "Philip was often seen with his whole body raised in the air... when he was saying Mass"
+    },
+    {
+      "name": "Hecate",
+      "type": "deity",
+      "attributes": {
+        "role": "chthonic goddess",
+        "ritual_context": "theurgic invocation"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "in the fumes of the incense which he burned before the statue of 'Hecate,' the image was seen to laugh"
+    },
+    {
+      "name": "Isis",
+      "type": "deity",
+      "attributes": {
+        "role": "Egyptian goddess",
+        "phenomena": "animated statues"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "the statue of Isis shook the silver serpent on her forehead and nodded assent to her worshippers"
+    },
+    {
+      "name": "Theurgists",
+      "type": "practitioner_group",
+      "attributes": {
+        "era": "late antiquity",
+        "practice": "ritual invocation of divine beings"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "The Theurgists caused the appearance of the gods (i.e., daimonia) in the air in the midst of a gaseous vapour"
+    },
+    {
+      "name": "Psellus",
+      "type": "person",
+      "attributes": {
+        "era": "Byzantine",
+        "role": "writer on demons/magic"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "when the priests used their magical powers, 'the statues laughed and lamps were spontaneously kindled'"
+    },
+    {
+      "name": "Lucan",
+      "type": "person",
+      "attributes": {
+        "era": "Roman",
+        "role": "poet"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "Lucan... speaks of the images of the gods weeping as foretelling misfortune"
+    },
+    {
+      "name": "Virgil",
+      "type": "person",
+      "attributes": {
+        "era": "Roman",
+        "role": "poet"
+      },
+      "page_ref": "p. 208",
+      "raw_quote": "Virgil... Georgics... tears shed by Gods our country's patrons / And sweat from Lares told the city's woes"
+    },
+    {
+      "name": "Spiritualism (19th c.)",
+      "type": "ritual_movement",
+      "attributes": {
+        "era": "1848 onward",
+        "geographic_scope": "US and UK",
+        "practices": "table-turning, materialization, trance mediumship"
+      },
+      "page_ref": "p. 203-205",
+      "raw_quote": "The revival in the nineteenth century of the long-disused practices of necromancy is a startling fact"
+    },
+    {
+      "name": "Wallace (naturalist)",
+      "type": "person",
+      "attributes": {
+        "role": "evolutionist philosopher",
+        "stance": "supportive investigator"
+      },
+      "page_ref": "p. 204",
+      "raw_quote": "My position, therefore, is that the phenomena of Spiritualism in their entirety do not require further confirmation"
+    },
+    {
+      "name": "Clementine Homilies (source)",
+      "type": "text",
+      "attributes": {
+        "context": "patristic literature",
+        "use_in_argument": "historical precedent for necromantic practice"
+      },
+      "page_ref": "p. 204",
+      "raw_quote": "a passage from the Clementine Homilies, quoted by Mr Pember, very clearly shows what was generally believed at the time they were written"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Beelzebub",
+      "to": "Satan",
+      "type": "synonym"
+    },
+    {
+      "from": "daimonia",
+      "to": "evil spirits",
+      "type": "equivalent_term"
+    },
+    {
+      "from": "daimonia",
+      "to": "demons",
+      "type": "equivalent_term"
+    },
+    {
+      "from": "Hermes Trismegistus",
+      "to": "necromancy",
+      "type": "tradition_founder"
+    },
+    {
+      "from": "Clementine Homilies",
+      "to": "necromancy",
+      "type": "historical_source"
+    },
+    {
+      "from": "Jamblicus",
+      "to": "levitation",
+      "type": "phenomenon_attested"
+    },
+    {
+      "from": "Zoroaster (Chaldean)",
+      "to": "levitation",
+      "type": "phenomenon_attested"
+    },
+    {
+      "from": "Francis of Assisi",
+      "to": "levitation",
+      "type": "phenomenon_attested"
+    },
+    {
+      "from": "St Philip Neri",
+      "to": "levitation",
+      "type": "phenomenon_attested"
+    },
+    {
+      "from": "Hecate",
+      "to": "Theurgists",
+      "type": "ritual_object_of_invocation"
+    },
+    {
+      "from": "Isis",
+      "to": "animated statues",
+      "type": "phenomenon_manifested"
+    },
+    {
+      "from": "Psellus",
+      "to": "statues laughing",
+      "type": "source_documentation"
+    },
+    {
+      "from": "Lucan",
+      "to": "weeping statues",
+      "type": "literary_source"
+    },
+    {
+      "from": "Virgil",
+      "to": "sweating Lares",
+      "type": "literary_source"
+    },
+    {
+      "from": "Spiritualism (19th c.)",
+      "to": "necromancy",
+      "type": "revival_of"
+    },
+    {
+      "from": "Spiritualism (19th c.)",
+      "to": "daimonia",
+      "type": "agent_behind_phenomena"
+    },
+    {
+      "from": "Wallace (naturalist)",
+      "to": "Spiritualism (19th c.)",
+      "type": "investigator"
+    }
+  ],
+  "summary": "This chunk argues that spirit communication practices—including ancient necromancy, pagan theurgy, Christian saint veneration, and modern Spiritualism—are all manifestations of the same underlying phenomenon: communication with evil spirits (daimonia) rather than departed souls. It traces historical continuity from Hermes Trismegistus through late antique Theurgists to medieval Catholic saints and 19th-century Spiritualism, identifying consistent patterns of levitation, materialization, clairvoyance, and spirit manifestation as evidence of demonic agency.",
+  "key_passages": [
+    "the spirits who reply to the deluded votaries of Spiritualism... are not the spirits of the dead, but identical in every respect with the daimonia of Scripture, and the demon gods of the Pagans.",
+    "Clement... induce him by the offer of a large sum of money to call up a soul from Hades, by the art which is termed necromancy...",
+    "The whole system, in short, of the ancient Paganism was professedly the worship of the dead.",
+    "the spirits invoked are supposed to be, and claim themselves to be, the spirits of departed relatives or friends... This was the character of the magic taught by Hermes Trismegistus.",
+    "My position, therefore, is that the phenomena of Spiritualism in their entirety do not require further confirmation. They are proved quite as well as any facts are proved in other sciences."
+  ]
+}

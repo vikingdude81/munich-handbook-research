@@ -1,0 +1,959 @@
+{
+  "source_id": "necro",
+  "chunk_id": 33,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "planet": "Sun",
+        "day": "Sunday"
+      },
+      "page_ref": "72r, 69r, 75r, 76v",
+      "raw_quote": "Coniuro super te Raphael angelum qui est prepositus diei dominici"
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "planet": "Moon",
+        "day": "Monday"
+      },
+      "page_ref": "69v, 75r, 76v",
+      "raw_quote": "Coniuro super te Gabriel, qui est prepositus diei secundo, scilicet Lune"
+    },
+    {
+      "name": "Samael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "planet": "Mars",
+        "day": "Tuesday"
+      },
+      "page_ref": "70r, 75r, 76v",
+      "raw_quote": "Coniuro super te, Samael, angelo qui esfi prepositus diei tercio, scilicet Martis"
+    },
+    {
+      "name": "Michael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "planet": "Mercury",
+        "day": "Wednesday"
+      },
+      "page_ref": "70v, 75r, 76v",
+      "raw_quote": "Coniuro super te, angele magne Michahel, qui es prepositus diei 4o"
+    },
+    {
+      "name": "Satquiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "planet": "Jupiter",
+        "day": "Thursday"
+      },
+      "page_ref": "71v, 75r, 76v",
+      "raw_quote": "Coniuro super te, Satquiel, angele magne qui est- prepositus diei Jouis"
+    },
+    {
+      "name": "Anael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "planet": "Venus",
+        "day": "Friday"
+      },
+      "page_ref": "71r, 75r, 76v",
+      "raw_quote": "Coniuro super te, angele magne Anael, qui es prepositus diei sexto"
+    },
+    {
+      "name": "Captiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "planet": "Saturnus",
+        "day": "Saturday"
+      },
+      "page_ref": "71v, 75r, 76v",
+      "raw_quote": "Coniuro Captiel, qui prepositus es- diei septimo, qui est - dies sabbati"
+    },
+    {
+      "name": "Saytam",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king spirit",
+        "day": "Sunday"
+      },
+      "page_ref": "75v",
+      "raw_quote": "Die ergo dominico regnat et seruit rex Saytam. Coadiutores sui sunt- Taatus, Candas, Vanibal"
+    },
+    {
+      "name": "Almodab",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king spirit",
+        "day": "Monday"
+      },
+      "page_ref": "75v",
+      "raw_quote": "Et die Lune regnat et seruit rex Almodab. Coadiutores sui sunt Sylol, Millalu, Abuzaba"
+    },
+    {
+      "name": "rex filius dyabulD",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king spirit",
+        "day": "Tuesday"
+      },
+      "page_ref": "75v",
+      "raw_quote": "Die Martis regnat et serait rex filius dyabulD Coadiutores sunt Carmath, Utanaual, Pascami"
+    },
+    {
+      "name": "Saba",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king spirit",
+        "day": "Wednesday"
+      },
+      "page_ref": "75v",
+      "raw_quote": "Die Mercurij regnat et seruit rex Saba. Coadiutores sui sunt- Conas, Pactas, Sanbras"
+    },
+    {
+      "name": "Madrath filius Arath",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king spirit",
+        "day": "Thursday"
+      },
+      "page_ref": "75v",
+      "raw_quote": "Die Jouis regnat et seruit rex Madrath, filius Arath. Coadiutores sui sunt Hyrti uel Hyiti, Ignaro,- Quiron, Saalalebeth"
+    },
+    {
+      "name": "Saabotes",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king spirit",
+        "day": "Friday"
+      },
+      "page_ref": "75v",
+      "raw_quote": "Die Veneris [75v] regnat rex et seruit Saabotes. Coadiutores sui sunt Nassath, Ynasa"
+    },
+    {
+      "name": "Hayton",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king spirit",
+        "day": "Saturday"
+      },
+      "page_ref": "75v",
+      "raw_quote": "Die Saturni regnat Hayton, Assayby. Coadiutores sui sunt Abimalyb et Haybalydoth et Yfla"
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in conjurations"
+      },
+      "page_ref": "69r, 69v, 70r, etc.",
+      "raw_quote": "Coniuro et confirmo super vos... in nomine Ad on ay, Adonay..."
+    },
+    {
+      "name": "Sadaye",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in conjurations"
+      },
+      "page_ref": "69r",
+      "raw_quote": "in nomine Sadaye, Saday, Cados, Cados, Cados, altus..."
+    },
+    {
+      "name": "Yhwh-related names (Eye, Yhaa, etc.)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in conjurations"
+      },
+      "page_ref": "69r",
+      "raw_quote": "...qui est ille qui fuit, est, et erit, Eye, Alorave... Yhon, super terrain que sigilla terra est, honorato, precioso nomine suo Yhaa"
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in circle inscriptions"
+      },
+      "page_ref": "68v (fig. e)",
+      "raw_quote": "occidens and Tetragramaton at the right..."
+    },
+    {
+      "name": "Agla",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in circle inscriptions"
+      },
+      "page_ref": "68v (fig. e)",
+      "raw_quote": "oriens and Agla at the left"
+    },
+    {
+      "name": "Adonay (in circle formula)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in circle inscriptions"
+      },
+      "page_ref": "68v (fig. e)",
+      "raw_quote": "septentrion [sic] and Adonay at the bottom"
+    },
+    {
+      "name": "Sabboth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in circle inscriptions"
+      },
+      "page_ref": "68v (fig. e)",
+      "raw_quote": "Tetragramaton at the right, septentrion [sic] and Adonay at the bottom, oriens and Agla at the left... Sabaoth... marked just outside"
+    },
+    {
+      "name": "Circle of CLM 849",
+      "type": "ritual",
+      "attributes": {
+        "description": "triple circular band with divine names",
+        "function": "protective ritual space"
+      },
+      "page_ref": "68v (fig. e)",
+      "raw_quote": "Figure at top offol. 68v: a triple circular band, with Sabaoth and meridies marked just outside... Hunc circulum facio in nomine dei Patris omnipotentis..."
+    },
+    {
+      "name": "Assandarium (assandalum)",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Sunday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Suffumigium dies dominice assandalum croceum vel rubeum uel simile sibi"
+    },
+    {
+      "name": "Aloes (aloes)",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Monday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Die Lune est aloes, anacap, uel simile sibi"
+    },
+    {
+      "name": "Piper (pepper)",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Tuesday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Die Martis est piper aut abana, cyg b uel sibi simile"
+    },
+    {
+      "name": "Abana (abana)",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Tuesday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Die Martis est piper aut abana, cyg b uel sibi simile"
+    },
+    {
+      "name": "Cygnus (cyg b)",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Tuesday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Die Martis est piper aut abana, cyg b uel sibi simile"
+    },
+    {
+      "name": "Altast",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Wednesday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Die Mercurij est altast aut ei simile"
+    },
+    {
+      "name": "Olibanum",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Thursday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Die Jouis est olibanum aut croceum uel ei simile"
+    },
+    {
+      "name": "Almastic",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Friday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Die Veneris est almastic aut lignum radim uel ei simile"
+    },
+    {
+      "name": "Sulphur",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Saturday",
+        "use": "suffumigium"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Die Saturni est assandaron et sulphur aut ei simile"
+    },
+    {
+      "name": "Thus Odee Capre",
+      "type": "ingredient",
+      "attributes": {
+        "day": "Saturday",
+        "use": "suffumigium for binding spells"
+      },
+      "page_ref": "76r",
+      "raw_quote": "Et si in die Saturni operare volueris ad ligandas lignas,- erit suffumigium thus Odee Capre"
+    },
+    {
+      "name": "Silver (argentum)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "image-making for tongue-binding"
+      },
+      "page_ref": "79v",
+      "raw_quote": "Prima hora diei fac ymaginem canis ex argento uel stanno- puro"
+    },
+    {
+      "name": "Tin (stannum)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "image-making for tongue-binding"
+      },
+      "page_ref": "79v",
+      "raw_quote": "Prima hora diei fac ymaginem canis ex argento uel stanno- puro"
+    },
+    {
+      "name": "Red blood (sangwine rubeo)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "image-making for tongue-binding"
+      },
+      "page_ref": "79v",
+      "raw_quote": "cum sangwine rubeo et involues earn in panno albo nouo"
+    },
+    {
+      "name": "White cloth (panno albo nouo)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "wrapping images"
+      },
+      "page_ref": "79v",
+      "raw_quote": "cum sangwine rubeo et involues earn in panno albo nouo"
+    },
+    {
+      "name": "Cera (beeswax)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "joining images for amicicia"
+      },
+      "page_ref": "80r",
+      "raw_quote": "iunges ymagines, conglutinando- 1 eas cum cera"
+    },
+    {
+      "name": "Lune (Moon) names (Lyara, Lyalguana, etc.)",
+      "type": "spirit",
+      "attributes": {
+        "function": "divine names inscribed on images"
+      },
+      "page_ref": "79v",
+      "raw_quote": "Hec sunt nomina: Lyara, Lyalguana, Loaffar, Vialuarab, Lebara, Lebarion, Layasales"
+    },
+    {
+      "name": "Amicicia names (Malthayl, Caramel, etc.)",
+      "type": "spirit",
+      "attributes": {
+        "function": "divine names inscribed on images for friendship"
+      },
+      "page_ref": "80r",
+      "raw_quote": "Et hec sunt ista vij nomina, hec scribes: Malthayl, Caramel, Azariel, Zaraimayl,- Parsail, Porbayl, Seralabelis"
+    },
+    {
+      "name": "Dardiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Sunday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Diei dominico presunt tres angeli, scilicet Raphahel, Dardiel et- Vrlacafel"
+    },
+    {
+      "name": "Vrlacafel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Sunday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Diei dominico presunt tres angeli, scilicet Raphahel, Dardiel et- Vrlacafel"
+    },
+    {
+      "name": "Sammyel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Monday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Die Lune presunt- hij: Gab[ri]el, Michael, Sammyel"
+    },
+    {
+      "name": "Barmaly",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Tuesday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Diei Martis presunt hij, scilicet Satyel, Sanyel, Barma- [76v] ly"
+    },
+    {
+      "name": "Gemi",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Wednesday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Diei Mercurij presunt hij, scilicet Gemi, Sabael, Sarpiel, Muriel"
+    },
+    {
+      "name": "Pacta",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Thursday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Diei Jouis presunt hij, scilicet Pacta, Castiel, Assassael"
+    },
+    {
+      "name": "Sarquiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Friday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Diei Veneris presunt hij, scilicet Anael, Sarquiel, Sacquiel"
+    },
+    {
+      "name": "Mataton",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Saturday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Diei Saturni presunt hij, scilicet Captiel, Mataton, Sartquiel"
+    },
+    {
+      "name": "Sartquiel (Satraquel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Saturday"
+      },
+      "page_ref": "76v",
+      "raw_quote": "Diei Saturni presunt hij, scilicet Captiel, Mataton, Sartquiel, id est Satraquel"
+    },
+    {
+      "name": "Yayn (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "bind tongues"
+      },
+      "page_ref": "77r",
+      "raw_quote": "Prima ergo diei hora dicitur Yayn. In hac hora facienda est carta ad destruendas voces hominum et mala verba eorum et lingwas ligandas"
+    },
+    {
+      "name": "Yan (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "amicicia, grace"
+      },
+      "page_ref": "77r",
+      "raw_quote": "Secunda enim hora diei dicitur Yan, Or, et in ea operaberis ad amiciciam et graciam..."
+    },
+    {
+      "name": "Nassura (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "venerate beasts/birds/fish"
+      },
+      "page_ref": "77r",
+      "raw_quote": "Tercia vero hora diei dicitur Nassura. In ea facias cartam uel ymagines ad venerandum- feras vel aues..."
+    },
+    {
+      "name": "Sala (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "bind wild animals"
+      },
+      "page_ref": "77r",
+      "raw_quote": "Quarta hora diei dicitur Sala. In ea fac cartam uel ymaginem ad ligandum omnes bestias siluestres, leones, vrsos..."
+    },
+    {
+      "name": "Sadadat (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "bind animals generally"
+      },
+      "page_ref": "77r",
+      "raw_quote": "Quinta hora diei dicitur Sadadat. In ea fac cartas ad ligaciones et ad applicandas quaslibet bestias..."
+    },
+    {
+      "name": "Tamhut (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "release captives"
+      },
+      "page_ref": "77r",
+      "raw_quote": "Sexta hora diei dicitur Tamhut. In ea operari poteris ad extrahendum captiuos de carcere, ad ligatos soluendos"
+    },
+    {
+      "name": "Caror (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "make peace between kings"
+      },
+      "page_ref": "77r",
+      "raw_quote": "Septima hora diei dicitur Caror. In ea operatur ad ponendum pacem inter reges"
+    },
+    {
+      "name": "Tariel (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "sow discord"
+      },
+      "page_ref": "77v",
+      "raw_quote": "Octaua hora diei dicitur Tariel. In ea operari poteris ad mandeolenam et discor- [77v] diam- ponendam inter homines"
+    },
+    {
+      "name": "Karon (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "travel safely"
+      },
+      "page_ref": "77v",
+      "raw_quote": "Nona hora diei dicitur Karon. In ea facienda est carta ad itincrandum 1 uel ad eundum inter latrones sine timore"
+    },
+    {
+      "name": "Hyon (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "exorcise demons, help women"
+      },
+      "page_ref": "77v",
+      "raw_quote": "Decima hora diei dicitur Hyon. In ea operari poteris ad demonia uel demoniacos uel ventum malum uel pauorem uel iuuandum ad dominas"
+    },
+    {
+      "name": "Nathalon (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "induce menstruation, bind lovers"
+      },
+      "page_ref": "77v",
+      "raw_quote": "Vndecima hora diei dicitur Nathalon. In ea operari poteris ad proouocandum sangwinis fluxum in mulieribus et ad ligandum viram cum muliere uel e contrario"
+    },
+    {
+      "name": "Abat (hour name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "reconcile spouses"
+      },
+      "page_ref": "77v",
+      "raw_quote": "Duodecima hora diei dicitur Abat. In ea operari poteris inter maliuolos ad pacem ponendam inter viram et mulierem"
+    },
+    {
+      "name": "Leron (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "deal with demons, evil winds"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Prima hora noctis dicitur Leron. In ea fac ad demoniacos opera tua, aut ad uentos malos aut ad congregandas et loquitur cum eis"
+    },
+    {
+      "name": "Latol (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "fishing, water omens"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Secunda hora noctis dicitur Latol. In ea operari poteris ad piscariam et ad omina nascencia aque"
+    },
+    {
+      "name": "Hami (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "control fire"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Tercia hora noctis dicitur Hami. In ea operari poteris ad accendendum uel ad exti[n]gwendum ignem..."
+    },
+    {
+      "name": "Atyn (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "expel from house"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Quarta hora noctis dicitur Atyn. In ea operari [78r] poteris ad destraendum domum uel huiusmodi ad expellendum homines de loco ad locum"
+    },
+    {
+      "name": "Caron (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "dream divination"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Quinta hora noctis dicitur Caron. In ea fac questiones vt in sompnis videat quod futuram est in mundo uel in diebus uel in annis et ad secreta reuelanda"
+    },
+    {
+      "name": "Zaia (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "plant magic"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Sexta hora noctis dicitur Zaia. In ea operari poteris ad arbores et fractus earam et ad ceteras plantas terre..."
+    },
+    {
+      "name": "Nectius (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "expel, harm, death"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Septima hora dicitur Nectius. In ea operari poteris ad expellendum homines de domo sua uel quod infirmetur uel quod moriatur"
+    },
+    {
+      "name": "Tafat (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "sow enmity"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Octaua hora noctis 2 dicitur Tafat. In ea poteris operari ad inimicicaam ponendam inter quos voluerint"
+    },
+    {
+      "name": "Conassuor (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "bind tongues, gain access to rulers"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Nona hora noctis dicitur Conassuor. In ea poteris operari ad ligaciones li[n]gwaram aut ad intrandum ad reges et dominos"
+    },
+    {
+      "name": "Algo (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "break tongue-bindings, counter plots"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Decima hora noctis dicitur Algo. In ea operari poteris ad destraendas li[n]gwas uel omnem cogitacionem super te aut concilium malum quod super te cogitatum fuerit"
+    },
+    {
+      "name": "Caltraa (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "bird magic"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Vndecima hora noctis dicitur Caltraa. In ea operari poteris que volueris in auibus, ad eas ligandas- uel capiendas"
+    },
+    {
+      "name": "Salaij (nocturnal hour)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour ruler",
+        "function": "reveal thefts, lost items"
+      },
+      "page_ref": "78r",
+      "raw_quote": "Duodecima hora noctis dicitur Salaij. In ea poteris [78v] operari ad inveniendum quidquid predictum est uel ad reuelacionem furti uel maloram factoram"
+    },
+    {
+      "name": "Gaffriel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "hour angel",
+        "day": "Friday"
+      },
+      "page_ref": "79r",
+      "raw_quote": "5e Gaffriel"
+    },
+    {
+      "name": "Cafriel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel/hour angel",
+        "planet": "Saturn"
+      },
+      "page_ref": "79r, 72v",
+      "raw_quote": "Ecce sigillum Caffrielis,- angeli cuius Stella est Saturnus"
+    },
+    {
+      "name": "Mathael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "alternative name for Michael",
+        "planet": "Mercury"
+      },
+      "page_ref": "79r",
+      "raw_quote": "et angelus eius Michael uel Mathael"
+    },
+    {
+      "name": "Adonav (variant of Adonay)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in Mars and Mercury conjurations"
+      },
+      "page_ref": "70r, 70v",
+      "raw_quote": "per nomen domini Adonav... et per nomen Adonav, dei viui et veri"
+    },
+    {
+      "name": "Cados (variant of Kadosh)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in conjurations"
+      },
+      "page_ref": "69r, 69v, 70r, etc.",
+      "raw_quote": "...Cados, Cados, Cados..."
+    },
+    {
+      "name": "Sadav (variant of Saday)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in Saturn conjuration"
+      },
+      "page_ref": "71v",
+      "raw_quote": "...Sadav, Ya, Sar, domini formatoris seculorum..."
+    },
+    {
+      "name": "Yhah (YHWH-related)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in Sol conjuration"
+      },
+      "page_ref": "69r",
+      "raw_quote": "...Yhaa..."
+    },
+    {
+      "name": "Eloy (variant of Elohim)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in Mars conjuration"
+      },
+      "page_ref": "70r",
+      "raw_quote": "...Eloy, Arar, Eloym, Eloym..."
+    },
+    {
+      "name": "Asaame/Asaomie/Asamye (angelic names)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic names",
+        "function": "used in Mercury conjuration"
+      },
+      "page_ref": "70v",
+      "raw_quote": "...Asaame, Asaomie, Asamye..."
+    },
+    {
+      "name": "Thytagora (Mercury hour angel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "function": "ruler of 40th host"
+      },
+      "page_ref": "70v",
+      "raw_quote": "...quorum Thytagora, angelo maiori, ford atque potent if"
+    },
+    {
+      "name": "Orophaniel (Lunar angel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "function": "ruler of 2nd host"
+      },
+      "page_ref": "69v",
+      "raw_quote": "...qui seruiunt Oraphaniely, angelo magno..."
+    },
+    {
+      "name": "Acynerim (Mars angel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "function": "ruler of 3rd host"
+      },
+      "page_ref": "70r",
+      "raw_quote": "...ministrando Acynerim, angelo magno..."
+    },
+    {
+      "name": "Salamia (Solar angel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "function": "ruler of 1st host"
+      },
+      "page_ref": "69r",
+      "raw_quote": "...angelo magno et honorato, Salamia..."
+    },
+    {
+      "name": "Daghyel (Venus angel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "function": "ruler of 6th host"
+      },
+      "page_ref": "70v",
+      "raw_quote": "...coram Daghyel, angelo magno principi..."
+    },
+    {
+      "name": "Boel (Saturn angel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "function": "ruler of 7th host"
+      },
+      "page_ref": "71v",
+      "raw_quote": "...seruiencium exercitui septimo coram Boel, angelo magno..."
+    },
+    {
+      "name": "Pastor (Jupiter angel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "function": "ruler of 5th host"
+      },
+      "page_ref": "71v",
+      "raw_quote": "...pastore angelo magno sancto et potenti principi..."
+    },
+    {
+      "name": "Icibores (speaker in conjuration)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "ritual actor",
+        "function": "petitioner"
+      },
+      "page_ref": "69r",
+      "raw_quote": "...quod pro me Icibores et adimpleas omnem voluntatem meam..."
+    },
+    {
+      "name": "Haa (divine name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in hour names"
+      },
+      "page_ref": "79r",
+      "raw_quote": "...et respondebunt voluntati tue. Et sunt ex nominibus creatoris... Haa..."
+    },
+    {
+      "name": "Subae (divine name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in hour names"
+      },
+      "page_ref": "79r",
+      "raw_quote": "...Subae, Guabas..."
+    },
+    {
+      "name": "Guabas (divine name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in hour names"
+      },
+      "page_ref": "79r",
+      "raw_quote": "...Guabas..."
+    },
+    {
+      "name": "Ynissamon (divine name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in hour names"
+      },
+      "page_ref": "79r",
+      "raw_quote": "...Ynissamon..."
+    },
+    {
+      "name": "Barian (divine name)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in hour names"
+      },
+      "page_ref": "79r",
+      "raw_quote": "...Barian"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Raphael",
+      "to": "Sol",
+      "type": "ruler"
+    },
+    {
+      "from": "Gabriel",
+      "to": "Luna",
+      "type": "ruler"
+    }
+  ]
+}

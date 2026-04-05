@@ -1,0 +1,594 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 10,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Zagam",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic spirit invoked in love magic",
+        "context": "invoked with dove sacrifice"
+      },
+      "page_ref": "p. 101",
+      "raw_quote": "O Zagam, accept this dove which I sacrifice to you!"
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the south",
+        "function": "has power to bind man and woman in love"
+      },
+      "page_ref": "p. 102",
+      "raw_quote": "O Astaroth, prince of the south, I conjure you with all the [spirits] under your command..."
+    },
+    {
+      "name": "Aroch",
+      "type": "spirit",
+      "attributes": {
+        "role": "companion spirit to Astaroth in conjuration"
+      },
+      "page_ref": "p. 102",
+      "raw_quote": "...Astaroth, Aroch, Godras, [and] Vynicon."
+    },
+    {
+      "name": "Godras",
+      "type": "spirit",
+      "attributes": {
+        "role": "companion spirit to Astaroth in conjuration"
+      },
+      "page_ref": "p. 102",
+      "raw_quote": "...Astaroth, Aroch, Godras, [and] Vynicon."
+    },
+    {
+      "name": "Vynicon",
+      "type": "spirit",
+      "attributes": {
+        "role": "companion spirit to Astaroth in conjuration"
+      },
+      "page_ref": "p. 102",
+      "raw_quote": "...Astaroth, Aroch, Godras, [and] Vynicon."
+    },
+    {
+      "name": "Tubal",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six hot spirits invoked on image for love magic",
+        "context": "inscribed on forehead"
+      },
+      "page_ref": "p. 104",
+      "raw_quote": "...in the name of these six hot spirits, namely Tubal, Satan, Reuces, Cupido, Afalion, Duliatus..."
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "role": "inscribed on image’s right arm in love ritual"
+      },
+      "page_ref": "p. 104",
+      "raw_quote": "Then write on her right arm ‘Satan’, and on her left arm ‘Reuces’."
+    },
+    {
+      "name": "Reuces",
+      "type": "spirit",
+      "attributes": {
+        "role": "inscribed on image’s left arm in love ritual"
+      },
+      "page_ref": "p. 104",
+      "raw_quote": "Then write on her right arm ‘Satan’, and on her left arm ‘Reuces’."
+    },
+    {
+      "name": "Cupido",
+      "type": "spirit",
+      "attributes": {
+        "role": "inscribed on image’s genitals to arouse desire"
+      },
+      "page_ref": "p. 104",
+      "raw_quote": "When you have done this, write on the genitals of the image the name ‘Cupid’, saying..."
+    },
+    {
+      "name": "Afalion",
+      "type": "spirit",
+      "attributes": {
+        "role": "inscribed on image’s right leg"
+      },
+      "page_ref": "p. 104",
+      "raw_quote": "When you have said this, write on the right leg ‘Afalion’, and on the left leg ‘Duliatus’."
+    },
+    {
+      "name": "Duliatus",
+      "type": "spirit",
+      "attributes": {
+        "role": "inscribed on image’s left leg"
+      },
+      "page_ref": "p. 104",
+      "raw_quote": "When you have said this, write on the right leg ‘Afalion’, and on the left leg ‘Duliatus’."
+    },
+    {
+      "name": "Sobedon",
+      "type": "spirit",
+      "attributes": {
+        "role": "lord to whom demons are bound in obedience"
+      },
+      "page_ref": "p. 105",
+      "raw_quote": "...by your lords to whom you are bound in obedience – Sobedon, Badalam and Berith..."
+    },
+    {
+      "name": "Badalam",
+      "type": "spirit",
+      "attributes": {
+        "role": "lord to whom demons are bound in obedience"
+      },
+      "page_ref": "p. 105",
+      "raw_quote": "...by your lords to whom you are bound in obedience – Sobedon, Badalam and Berith..."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "role": "lord to whom demons are bound in obedience"
+      },
+      "page_ref": "p. 105",
+      "raw_quote": "...by your lords to whom you are bound in obedience – Sobedon, Badalam and Berith..."
+    },
+    {
+      "name": "Rator",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle; part of circle names"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim and Lodoni."
+    },
+    {
+      "name": "Lampoy",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Rator, Lampoy, Despan..."
+    },
+    {
+      "name": "Despan",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Rator, Lampoy, Despan..."
+    },
+    {
+      "name": "Brunlo",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Rator, Lampoy, Despan, Brunlo..."
+    },
+    {
+      "name": "Dronoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Brunlo, Dronoth, Maloqui..."
+    },
+    {
+      "name": "Maloqui",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Dronoth, Maloqui, Satola..."
+    },
+    {
+      "name": "Satola",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Maloqui, Satola, Gelbid..."
+    },
+    {
+      "name": "Gelbid",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Satola, Gelbid, Mascifin..."
+    },
+    {
+      "name": "Mascifin",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Gelbid, Mascifin, Nartim..."
+    },
+    {
+      "name": "Nartim",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Mascifin, Nartim and Lodoni."
+    },
+    {
+      "name": "Lodoni",
+      "type": "spirit",
+      "attributes": {
+        "role": "last named in protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...Nartim and Lodoni."
+    },
+    {
+      "name": "Place of the Master",
+      "type": "location",
+      "attributes": {
+        "context": "center of ritual circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "The centre of the circle is labelled ‘Place of the Master’."
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual",
+      "attributes": {
+        "role": "necromantic manual containing love experiments"
+      },
+      "page_ref": "p. 103–107",
+      "raw_quote": "Our necromantic manual in Clm 849 includes four experiments said to induce love..."
+    },
+    {
+      "name": "Liber de angelis",
+      "type": "ritual",
+      "attributes": {
+        "role": "source of parallel love magic experiment involving Zagam"
+      },
+      "page_ref": "p. 101",
+      "raw_quote": "An experiment for love in the Liber de angelis requires going to a crossroads or a gallows..."
+    },
+    {
+      "name": "amor hereos",
+      "type": "concept",
+      "attributes": {
+        "role": "Latin term for burning, indissoluble love"
+      },
+      "page_ref": "p. 100",
+      "raw_quote": "...in Latin such love is called ‘amor hereos’, and is burning and indissoluble."
+    },
+    {
+      "name": "allectory",
+      "type": "ingredient",
+      "attributes": {
+        "role": "aphrodisiac stone"
+      },
+      "page_ref": "p. 100",
+      "raw_quote": "...such as the stone allectory and the herb henbane."
+    },
+    {
+      "name": "henbane",
+      "type": "ingredient",
+      "attributes": {
+        "role": "aphrodisiac herb"
+      },
+      "page_ref": "p. 100",
+      "raw_quote": "...such as the stone allectory and the herb henbane."
+    },
+    {
+      "name": "St John’s wort",
+      "type": "ingredient",
+      "attributes": {
+        "role": "aphrodisiac herb"
+      },
+      "page_ref": "p. 100",
+      "raw_quote": "...various herbs were used as aphrodisiacs (St John’s wort, valerian, vervain)..."
+    },
+    {
+      "name": "valerian",
+      "type": "ingredient",
+      "attributes": {
+        "role": "aphrodisiac herb"
+      },
+      "page_ref": "p. 100",
+      "raw_quote": "...various herbs were used as aphrodisiacs (St John’s wort, valerian, vervain)..."
+    },
+    {
+      "name": "vervain",
+      "type": "ingredient",
+      "attributes": {
+        "role": "aphrodisiac herb"
+      },
+      "page_ref": "p. 100",
+      "raw_quote": "...various herbs were used as aphrodisiacs (St John’s wort, valerian, vervain)..."
+    },
+    {
+      "name": "myrrh",
+      "type": "ingredient",
+      "attributes": {
+        "role": "used in fumigation of image"
+      },
+      "page_ref": "p. 104",
+      "raw_quote": "When you have said this, take myrrh and saffron, kindle a fire, and fumigate the image..."
+    },
+    {
+      "name": "saffron",
+      "type": "ingredient",
+      "attributes": {
+        "role": "used in fumigation of image"
+      },
+      "page_ref": "p. 104",
+      "raw_quote": "...take myrrh and saffron, kindle a fire, and fumigate the image..."
+    },
+    {
+      "name": "white dove",
+      "type": "ingredient",
+      "attributes": {
+        "role": "sacrificed; blood used to inscribe image"
+      },
+      "page_ref": "p. 103–104",
+      "raw_quote": "...have a totally white dove and a parchment made from a female dog that is in heat..."
+    },
+    {
+      "name": "female dog (in heat)",
+      "type": "ingredient",
+      "attributes": {
+        "role": "source of parchment for love image"
+      },
+      "page_ref": "p. 103",
+      "raw_quote": "...a parchment made from a female dog that is in heat, from whom it is most easily to be had..."
+    },
+    {
+      "name": "eagle’s quill",
+      "type": "tool",
+      "attributes": {
+        "role": "used to write on image"
+      },
+      "page_ref": "p. 103",
+      "raw_quote": "You should also have a quill from an eagle."
+    },
+    {
+      "name": "iron stylus",
+      "type": "tool",
+      "attributes": {
+        "role": "used to trace protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "Take an iron stylus and trace [a band with names in it] round the circle..."
+    },
+    {
+      "name": "iron chain",
+      "type": "tool",
+      "attributes": {
+        "role": "used to bind image of dignitary to magician’s image"
+      },
+      "page_ref": "p. 99",
+      "raw_quote": "...second binding the dignitary’s image to the magician’s own with a small iron chain..."
+    },
+    {
+      "name": "horsehair",
+      "type": "tool",
+      "attributes": {
+        "role": "used to suspend image"
+      },
+      "page_ref": "p. 105",
+      "raw_quote": "Take a hair from the tail of a horse and suspend the parchment with this hair..."
+    },
+    {
+      "name": "sword (for circle)",
+      "type": "tool",
+      "attributes": {
+        "role": "used to trace protective circle"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "Take a sword and make with it a circle on the ground."
+    },
+    {
+      "name": "ring (ritual)",
+      "type": "tool",
+      "attributes": {
+        "role": "used during conjuration"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "When you have said this three times, gazing at a ring, you will hear a voice..."
+    },
+    {
+      "name": "wax image",
+      "type": "tool",
+      "attributes": {
+        "role": "used in love magic and judicial cases"
+      },
+      "page_ref": "p. 102–103",
+      "raw_quote": "...a second figure out of wax and baptizing it as well..."
+    },
+    {
+      "name": "circle (ritual)",
+      "type": "tool",
+      "attributes": {
+        "role": "protective space for conjuration; also used to receive woman"
+      },
+      "page_ref": "p. 106",
+      "raw_quote": "...make a circle on the ground... stand inside it..."
+    },
+    {
+      "name": "Parmenides",
+      "type": "person",
+      "attributes": {
+        "role": "legendary figure cited as user of image magic"
+      },
+      "page_ref": "p. 99",
+      "raw_quote": "Parmen[i]des used this experiment to obtain favour from the king of the Persians."
+    },
+    {
+      "name": "Oldradus da Ponte",
+      "type": "person",
+      "attributes": {
+        "role": "fourteenth-century author on demonic love magic"
+      },
+      "page_ref": "p. 101",
+      "raw_quote": "Oldradus da Ponte explained in the early fourteenth century that invoking demons to tempt women is mortally sinful..."
+    },
+    {
+      "name": "Peter Recordi",
+      "type": "person",
+      "attributes": {
+        "role": "Carmelite friar tried for erotic magic"
+      },
+      "page_ref": "p. 102",
+      "raw_quote": "When the Carmelite friar Peter Recordi was tried by an inquisitorial tribunal at Carcassonne in 1329..."
+    },
+    {
+      "name": "William Netherstreet",
+      "type": "person",
+      "attributes": {
+        "role": "English chaplain accused of erotic necromancy"
+      },
+      "page_ref": "p. 102",
+      "raw_quote": "...an English chaplain named William Netherstreet was charged in 1377..."
+    },
+    {
+      "name": "Geraud Cassendi",
+      "type": "person",
+      "attributes": {
+        "role": "notary tried for demonic love magic"
+      },
+      "page_ref": "p. 103",
+      "raw_quote": "At Carcassonne in 1410, Geraud Cassendi, a notary, was tried by an inquisitor..."
+    },
+    {
+      "name": "Agnolo di Corso",
+      "type": "person",
+      "attributes": {
+        "role": "magician who invoked Satan and Beelzebub"
+      },
+      "page_ref": "p. 103",
+      "raw_quote": "...one Agnolo di Corso had worshipped and invoked Satan and Beelzebub..."
+    },
+    {
+      "name": "Alice Kyteler",
+      "type": "person",
+      "attributes": {
+        "role": "woman accused of using demonic materials for erotic magic"
+      },
+      "page_ref": "p. 103",
+      "raw_quote": "In 1324 Alice Kyteler was charged with using ‘the intestines and innards of cocks sacrificed … to demons’..."
+    },
+    {
+      "name": "Tournai trial (late 15th c.)",
+      "type": "ritual",
+      "attributes": {
+        "role": "judicial case mirroring Munich experiment"
+      },
+      "page_ref": "p. 102–103",
+      "raw_quote": "The case from Tournai is highly reminiscent of the Netherlandish experiment mentioned earlier..."
+    },
+    {
+      "name": "Tristan and Iseult",
+      "type": "person",
+      "attributes": {
+        "role": "literary figures illustrating symbolic use of love magic"
+      },
+      "page_ref": "p. 100",
+      "raw_quote": "...in Thomas of Britain’s version of Tristan the love potion seems to function as a symbol..."
+    },
+    {
+      "name": "Krishna",
+      "type": "person",
+      "attributes": {
+        "role": "comparative figure in illusionist magic"
+      },
+      "page_ref": "p. 106–107",
+      "raw_quote": "...Krishna is said to have used his powers of illusion (ma-ya-) to fashion replicas..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Zagam",
+      "to": "Liber de angelis",
+      "type": "appears_in"
+    },
+    {
+      "from": "Astaroth",
+      "to": "conjuration ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "Tubal",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "mentioned_in"
+    },
+    {
+      "from": "Sobedon",
+      "to": "conjuration formula",
+      "type": "named_in"
+    },
+    {
+      "from": "Rator",
+      "to": "protective circle",
+      "type": "part_of"
+    },
+    {
+      "from": "Place of the Master",
+      "to": "protective circle",
+      "type": "center_of"
+    },
+    {
+      "from": "Munich Handbook (CLM 849)",
+      "to": "CLM 849",
+      "type": "identical_to"
+    },
+    {
+      "from": "amor hereos",
+      "to": "Netherlandish compilation",
+      "type": "mentioned_in"
+    },
+    {
+      "from": "white dove",
+      "to": "love magic ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "myrrh",
+      "to": "fumigation ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "saffron",
+      "to": "fumigation ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "iron chain",
+      "to": "sympathetic binding ritual",
+      "type": "used_in"
+    },
+    {
+      "from": "Munich Handbook (CLM 849)",
+      "to": "Liber de angelis",
+      "type": "parallel_to"
+    },
+    {
+      "from": "Parmenides",
+      "to": "image magic experiment",
+      "type": "cited_user_of"
+    }
+  ],
+  "summary": "This chunk details necromantic love magic from the Munich Handbook (CLM 849), focusing on a complex ritual involving inscribed parchment images, demon conjurations, and protective circles. It includes named spirits (e.g., Tubal, Satan, Astaroth, Zagam) used in sympathetic and coercive operations to compel love or bring victims to the magician. The text also references judicial cases and parallels with other grimoires like the Liber de angelis.",
+  "key_passages": [
+    "‘I draw so-and-so, N., daughter of so-and-so, whom I wish to have, in the name of these six hot spirits, namely Tubal, Satan, Reuces, Cupido, Afalion, Duliatus, that she may love me above all others living in this world.’",
+    "O Zagam, accept this dove which I sacrifice to you! ... I ask you, O Zagam, and all your companions, to bring forth [the desired woman]...",
+    "The circle is shown as a single band containing the names Rator, Lampoy, Despan, Brunlo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim and Lodoni. The centre of the circle is labelled ‘Place of the Master’.",
+    "I conjure you demons inscribed in this circle... by these names which cause you terror, namely Rator, Lampoy, [etc.]...",
+    "When she enters the circle and you greet her, remember to touch her with the image that you have around your neck, and on this account she will love you for all eternity..."
+  ]
+}

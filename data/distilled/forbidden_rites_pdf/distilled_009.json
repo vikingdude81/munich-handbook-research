@@ -1,0 +1,569 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 9,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mirael",
+      "type": "spirit",
+      "attributes": {
+        "role": "malign spirit conjured to inflict dementia"
+      },
+      "page_ref": "p. 94",
+      "raw_quote": "commanding the malign spirit Mirael to enter and afflict his brain"
+    },
+    {
+      "name": "Cartutay",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four antipathetic names carved on a stone in experiment no. 5"
+      },
+      "page_ref": "p. 92",
+      "raw_quote": "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon."
+    },
+    {
+      "name": "Momabel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four antipathetic names carved on a stone in experiment no. 5"
+      },
+      "page_ref": "p. 92",
+      "raw_quote": "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon."
+    },
+    {
+      "name": "Sobil",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four antipathetic names carved on a stone in experiment no. 5"
+      },
+      "page_ref": "p. 92",
+      "raw_quote": "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon."
+    },
+    {
+      "name": "Geteritacon",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four antipathetic names carved on a stone in experiment no. 5"
+      },
+      "page_ref": "p. 92",
+      "raw_quote": "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon."
+    },
+    {
+      "name": "Puzanil",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four antipathetic names carved on a stone in experiment no. 5"
+      },
+      "page_ref": "p. 92",
+      "raw_quote": "On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator."
+    },
+    {
+      "name": "Pimaton",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four antipathetic names carved on a stone in experiment no. 5"
+      },
+      "page_ref": "p. 92",
+      "raw_quote": "On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator."
+    },
+    {
+      "name": "Folfitoy",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four antipathetic names carved on a stone in experiment no. 5"
+      },
+      "page_ref": "p. 92",
+      "raw_quote": "On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator."
+    },
+    {
+      "name": "Mansator",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four antipathetic names carved on a stone in experiment no. 5"
+      },
+      "page_ref": "p. 92",
+      "raw_quote": "On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator."
+    },
+    {
+      "name": "Mosectus",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons invoked by Riccola di Puccio"
+      },
+      "page_ref": "p. 93",
+      "raw_quote": "calling upon ‘Mosectus, Barbectus and Belsabuct, the prince of demons’"
+    },
+    {
+      "name": "Barbectus",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon invoked alongside Mosectus and Belsabuct"
+      },
+      "page_ref": "p. 93",
+      "raw_quote": "calling upon ‘Mosectus, Barbectus and Belsabuct, the prince of demons’"
+    },
+    {
+      "name": "Belsabuct",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon invoked alongside Mosectus and Barbectus"
+      },
+      "page_ref": "p. 93",
+      "raw_quote": "calling upon ‘Mosectus, Barbectus and Belsabuct, the prince of demons’"
+    },
+    {
+      "name": "Dyacom",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his forehead carve the name ‘Dyacom’"
+    },
+    {
+      "name": "Pumeon",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his chest, the three names ‘Pumeon’, ‘Terminas’, and ‘Peripaos’"
+    },
+    {
+      "name": "Terminas",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his chest, the three names ‘Pumeon’, ‘Terminas’, and ‘Peripaos’"
+    },
+    {
+      "name": "Peripaos",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his chest, the three names ‘Pumeon’, ‘Terminas’, and ‘Peripaos’"
+    },
+    {
+      "name": "Midam",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his shoulders the six names ‘Midam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Fabni",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his shoulders the six names ‘Midam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Gebel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his shoulders the six names ‘Midam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Darail",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his shoulders the six names ‘Midam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Vmeloth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his shoulders the six names ‘Midam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Thereoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his shoulders the six names ‘Midam’, ‘Fabni’, ‘Gebel’, ‘Darail’, ‘Vmeloth’ and ‘Thereoth’"
+    },
+    {
+      "name": "Byreoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name inscribed on image in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "On his stomach the name ‘Byreoth’"
+    },
+    {
+      "name": "Dyacon",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant spelling of Dyacom in incantation"
+      },
+      "page_ref": "p. 98",
+      "raw_quote": "O Dyacon, Pumeon, Termines, Peripaos..."
+    },
+    {
+      "name": "Termines",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant spelling of Terminas in incantation"
+      },
+      "page_ref": "p. 98",
+      "raw_quote": "O Dyacon, Pumeon, Termines, Peripaos..."
+    },
+    {
+      "name": "Midain",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant spelling of Midam in incantation"
+      },
+      "page_ref": "p. 98",
+      "raw_quote": "O Dyacon, Pumeon, Termines, Peripaos, Midain..."
+    },
+    {
+      "name": "Fabin",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant spelling of Fabni in incantation"
+      },
+      "page_ref": "p. 98",
+      "raw_quote": "...Fabin, Gebel, Dorayl, Vmeloth..."
+    },
+    {
+      "name": "Dorayl",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant spelling of Darail in incantation"
+      },
+      "page_ref": "p. 98",
+      "raw_quote": "...Gebel, Dorayl, Vmeloth..."
+    },
+    {
+      "name": "Bireoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant spelling of Byreoth in incantation"
+      },
+      "page_ref": "p. 98",
+      "raw_quote": "...Tereoth and Bireoth"
+    },
+    {
+      "name": "Tereoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant spelling of Thereoth in incantation"
+      },
+      "page_ref": "p. 98",
+      "raw_quote": "...Tereoth and Bireoth"
+    },
+    {
+      "name": "Vengeance of Troy (Vindicta Troie)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "cause hatred, bodily harm, or death"
+      },
+      "page_ref": "p. 91",
+      "raw_quote": "A fifteenth-century Liber de angelis [...] contains an experiment called the Vindicta Troie (Vengeance of Troy), which can be used to arouse hatred or to cause bodily harm or even death."
+    },
+    {
+      "name": "Liber de angelis",
+      "type": "ritual text",
+      "attributes": {
+        "date": "15th c.",
+        "contents": "contains Vindicta Troie and techniques for discord"
+      },
+      "page_ref": "p. 91, 94",
+      "raw_quote": "A fifteenth-century Liber de angelis [...] contains an experiment called the Vindicta Troie"
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual text",
+      "attributes": {
+        "manuscript_id": "CLM 849",
+        "contents": "contains psychological experiments, no. 2 and no. 5 for harm"
+      },
+      "page_ref": "passim",
+      "raw_quote": "The psychological experiments in the Munich handbook are generally much longer [...] Even of all the experiments in the Munich manual, only two (nos 2 and 5), are designed specifically and exclusively to cause harm"
+    },
+    {
+      "name": "Picatrix",
+      "type": "ritual text",
+      "attributes": {
+        "origin": "Arabic-to-Latin translation",
+        "contents": "astral magic with psychological effects"
+      },
+      "page_ref": "p. 90, 94–95",
+      "raw_quote": "astral magic translated into Latin from Arabic sources such as Picatrix [...] recipes for madness in Picatrix"
+    },
+    {
+      "name": "Thabit ibn Qurra’s De imaginibus",
+      "type": "ritual text",
+      "attributes": {
+        "contents": "experiments using images to channel astrological power"
+      },
+      "page_ref": "p. 90",
+      "raw_quote": "Thabit ibn Qurra’s De imaginibus [...] experiments for such goals as destroying a city or region, becoming ruler of a place"
+    },
+    {
+      "name": "SATOR-AREPO square",
+      "type": "ritual ingredient/tool",
+      "attributes": {
+        "material": " virgin parchment",
+        "ink": "blood of white dove"
+      },
+      "page_ref": "p. 96",
+      "raw_quote": "One fifteenth-century compilation prescribes writing out the SATOR-AREPO square on virgin parchment with the blood of a white dove"
+    },
+    {
+      "name": "human bones and hair",
+      "type": "ritual ingredient",
+      "attributes": {
+        "use": "fumigation in Vindicta Troie"
+      },
+      "page_ref": "p. 91",
+      "raw_quote": "The image should be fumigated with various substances, including human bones and hair"
+    },
+    {
+      "name": "funeral cloth",
+      "type": "ritual ingredient/tool",
+      "attributes": {
+        "use": "wrapping image in Vindicta Troie"
+      },
+      "page_ref": "p. 91",
+      "raw_quote": "wrapped in a funeral cloth and buried"
+    },
+    {
+      "name": "candle (funeral)",
+      "type": "ritual ingredient/tool",
+      "attributes": {
+        "material": "wax from funeral candles"
+      },
+      "page_ref": "p. 91, 94",
+      "raw_quote": "made of wax, preferably from candles used at a funeral"
+    },
+    {
+      "name": "iron stylus",
+      "type": "ritual tool",
+      "attributes": {
+        "use": "carving names on image"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "you should have an iron stylus, and on his forehead carve the name ‘Dyacom’"
+    },
+    {
+      "name": "silver or tin (for casting)",
+      "type": "ritual ingredient",
+      "attributes": {
+        "use": "casting images in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "on the first hour of Sunday under a waxing moon take silver or tin and melt it over a fire"
+    },
+    {
+      "name": "cinnamon, long pepper, agrimony",
+      "type": "ritual ingredient",
+      "attributes": {
+        "use": "fumigation in experiment no. 4"
+      },
+      "page_ref": "p. 97",
+      "raw_quote": "fumigate his image with these aromatics – cinnamon, long pepper and the herb agrimony"
+    },
+    {
+      "name": "iron chain",
+      "type": "ritual tool",
+      "attributes": {
+        "use": "binding images in experiment no. 4"
+      },
+      "page_ref": "p. 98",
+      "raw_quote": "take a small iron chain and bind it to the neck of his image"
+    },
+    {
+      "name": "linen cloth",
+      "type": "ritual ingredient/tool",
+      "attributes": {
+        "use": "wrapping images"
+      },
+      "page_ref": "p. 97–98",
+      "raw_quote": "have a clean linen cloth, and wrap the image in it"
+    },
+    {
+      "name": "black hen’s egg",
+      "type": "ritual ingredient/tool",
+      "attributes": {
+        "use": "used by Riccola di Puccio to sever love"
+      },
+      "page_ref": "p. 93",
+      "raw_quote": "using magic to bring disaffection between a husband and wife; she recited charms [...] over an egg from a black hen"
+    },
+    {
+      "name": "female cat",
+      "type": "ritual participant",
+      "attributes": {
+        "use": "receives half of divided egg"
+      },
+      "page_ref": "p. 93",
+      "raw_quote": "then he cut the egg in half and gave one part to a female cat"
+    },
+    {
+      "name": "male dog",
+      "type": "ritual participant",
+      "attributes": {
+        "use": "receives other half of divided egg"
+      },
+      "page_ref": "p. 93",
+      "raw_quote": "and the other to a male dog"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Cartutay",
+      "to": "Momabel",
+      "type": "antipathetic_pair"
+    },
+    {
+      "from": "Sobil",
+      "to": "Geteritacon",
+      "type": "antipathetic_pair"
+    },
+    {
+      "from": "Puzanil",
+      "to": "Pimaton",
+      "type": "antipathetic_pair"
+    },
+    {
+      "from": "Folfitoy",
+      "to": "Mansator",
+      "type": "antipathetic_pair"
+    },
+    {
+      "from": "Dyacom",
+      "to": "Pumeon",
+      "type": "co-occurrence_in_conjuration"
+    },
+    {
+      "from": "Terminas",
+      "to": "Peripaos",
+      "type": "co-occurrence_in_conjuration"
+    },
+    {
+      "from": "Midam",
+      "to": "Fabni",
+      "type": "co-occurrence_in_conjuration"
+    },
+    {
+      "from": "Gebel",
+      "to": "Darail",
+      "type": "co-occurrence_in_conjuration"
+    },
+    {
+      "from": "Vmeloth",
+      "to": "Thereoth",
+      "type": "co-occurrence_in_conjuration"
+    },
+    {
+      "from": "Byreoth",
+      "to": "Dyacom",
+      "type": "co-occurrence_in_conjuration"
+    },
+    {
+      "from": "Mosectus",
+      "to": "Barbectus",
+      "type": "demon_ranks"
+    },
+    {
+      "from": "Belsabuct",
+      "to": "Mosectus",
+      "type": "demon_ranks"
+    },
+    {
+      "from": "Vindicta Troie",
+      "to": "Liber de angelis",
+      "type": "contained_in"
+    },
+    {
+      "from": "Picatrix",
+      "to": "Munich Handbook",
+      "type": "influenced"
+    },
+    {
+      "from": "Thabit ibn Qurra’s De imaginibus",
+      "to": "Picatrix",
+      "type": "parallel_tradition"
+    },
+    {
+      "from": "Munich Handbook",
+      "to": "Liber de angelis",
+      "type": "comparative_example"
+    },
+    {
+      "from": "SATOR-AREPO square",
+      "to": "blood of white dove",
+      "type": "requires_material"
+    },
+    {
+      "from": "funeral candle wax",
+      "to": "Vindicta Troie image",
+      "type": "material_for"
+    },
+    {
+      "from": "iron stylus",
+      "to": "Dyacom",
+      "type": "used_to_inscribe"
+    },
+    {
+      "from": "silver/tin casting",
+      "to": "experiment no. 4",
+      "type": "procedure_of"
+    },
+    {
+      "from": "cinnamon, long pepper, agrimony",
+      "to": "fumigation",
+      "type": "ingredients_for"
+    },
+    {
+      "from": "iron chain",
+      "to": "binding images",
+      "type": "used_in"
+    },
+    {
+      "from": "linen cloth",
+      "to": "image wrapping",
+      "type": "used_for"
+    },
+    {
+      "from": "black hen’s egg",
+      "to": "Riccola di Puccio",
+      "type": "used_by"
+    },
+    {
+      "from": "female cat",
+      "to": "male dog",
+      "type": "antipathetic_pair_in_ritual"
+    }
+  ],
+  "summary": "This chunk details psychological experiments from the Munich Handbook (CLM 849), focusing on harm-inducing rituals (nos. 2 and 5) that use sympathetic magic—e.g., stones, images, burial—and invoke demonic spirits like Mirael or antipathetic names (Cartutay–Geteritacon; Puzanil–Mansator). It contrasts these with a more elaborate favor-gaining ritual (no. 4), which inscribes eleven demonic names on tin images and binds them symbolically. The text also references parallel traditions in the Liber de angelis (e.g., Vindicta Troie) and Picatrix, highlighting the Munich Handbook’s preference for imitative over natural-ingredient magic.",
+  "key_passages": [
+    "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon. On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator. These names are highly antipathetic to each other.",
+    "I conjure you most inimical spirits, by the glory of the everlasting God, to sow and arouse as much hatred between so-and-so and so-and-so, whose names are carved here on these stones, as there is between you.",
+    "O Dyacon, Pumeon, Termines, Peripaos, Midain, Fabin, Gebel, Dorayl, Vmeloth, Tereoth and Bireoth, most benevolent spirits who sow concord [...] that by this image made in the name of so-and-so you may bind him to me in such a manner that he will revere me above all mortals.",
+    "The psychological experiments in the Munich handbook are generally much longer and more fully developed than the materials in these Arabic sources. What they add are chiefly conjurations and operations of sympathetic magic.",
+    "Even of all the experiments in the Munich manual, only two (nos 2 and 5), are designed specifically and exclusively to cause harm, and the damage is specifically psychological"
+  ]
+}

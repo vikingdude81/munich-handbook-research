@@ -1,0 +1,406 @@
+{
+  "source_id": "necro",
+  "chunk_id": 28,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Floron",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus",
+        "function": "reveals past, present, future"
+      },
+      "page_ref": "fols 37r-38r, 38r-39v",
+      "raw_quote": "O Floron, in speculo sicut solitus es apparere citissime respondeas."
+    },
+    {
+      "name": "Lylet",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "reveals truth about theft, homicide, and other matters"
+      },
+      "page_ref": "fol 42r-43r",
+      "raw_quote": "Coniuro vos demones vt veniatis et compareatis et dicatis michi de quocumque interrogauero vos omnem veritatem..."
+    },
+    {
+      "name": "speculum Floron (first version)",
+      "type": "ritual tool",
+      "attributes": {
+        "material": "puro calibe",
+        "size": "ad mensuram palme vnius in rotundo"
+      },
+      "page_ref": "fols 37r-38r",
+      "raw_quote": "Fac fieri speculum de puro calibe, ad mensuram palme vnius in rotundo; habeatque manubrium ad tenendum..."
+    },
+    {
+      "name": "speculum Floron (second version)",
+      "type": "ritual tool",
+      "attributes": {
+        "material": "puro calibe",
+        "size": "ad mensuram palme vnius in rotundo"
+      },
+      "page_ref": "fols 38r-39v",
+      "raw_quote": "Fac fieri speculum de puro calibe, ad mensuram palme vnius in rotundo..."
+    },
+    {
+      "name": "speculum Lilit",
+      "type": "ritual tool",
+      "attributes": {
+        "shape": "ad modum Clypei",
+        "inscriptions": [
+          "Deus sanctus",
+          "deus omnipotens",
+          "deus fortis",
+          "deus inmortalis",
+          "pater futuri seculi"
+        ]
+      },
+      "page_ref": "fol 42r-43r",
+      "raw_quote": "Istud vero speculum debet formari ad modum Clypei... hec nomina depingantur: Deus sanctus, deus omnipotens..."
+    },
+    {
+      "name": "crystallum",
+      "type": "ritual tool",
+      "attributes": {
+        "preparation": "laud cum vino",
+        "inscriptions": [
+          "Hon",
+          "Hely",
+          "Sabaoth",
+          "Adonay",
+          "Emanuel",
+          "Alpha et O"
+        ]
+      },
+      "page_ref": "fols 43r-v, 43v-44r",
+      "raw_quote": "accipe puerum virginem et cristallum, quern laua cum vino. Deinde scribe in illo cum oleo oliue hec nomina: Hon, Hely..."
+    },
+    {
+      "name": "clauus Plutonis",
+      "type": "ritual tool",
+      "attributes": {
+        "material": "ferrum inventum ex inprouisu",
+        "day made": "die Veneris"
+      },
+      "page_ref": "fol 44v",
+      "raw_quote": "Sume tibi ferrum inventum ex inprouisu, et fac tibi fieri clauem huiusmodi, factam die Veneris."
+    },
+    {
+      "name": "cultellus nigerrimus vel albus",
+      "type": "ritual tool",
+      "attributes": {
+        "used in": "No. 22 for discovering thief/murderer"
+      },
+      "page_ref": "fol 41r",
+      "raw_quote": "recipe cultellum cum manubrio nigro vel albo, et facias circulum in terra..."
+    },
+    {
+      "name": "Onelf On, Adonay, Emanuel...",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used on": "serraginem",
+        "function": "inscribed for revelation"
+      },
+      "page_ref": "fol 41r",
+      "raw_quote": "Onelf On, Adonay, Emanuel, sanctus deus fortis, sanctus Ely, sanctus Elyon, sanctus dominus deus Sabaoth..."
+    },
+    {
+      "name": "lignum aloes, ambra, mirra, olibanus albus",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "subfumigatio of mirrors"
+      },
+      "page_ref": "fols 37v, 38v",
+      "raw_quote": "subfumiga... cum ligno aloes, ambra, et mirra, et olibano albo."
+    },
+    {
+      "name": "balsamum purum",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "unguentum of mirror’s reflective side"
+      },
+      "page_ref": "fols 37v, 38v",
+      "raw_quote": "in loco secreto vngatur ex puro balsamo ex parte lucida..."
+    },
+    {
+      "name": "mel, lac, vinum (mixed)",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "aspergillum in No. 18 & 19"
+      },
+      "page_ref": "fols 37v, 38v",
+      "raw_quote": "mel, lac, et vinum equaliter insimul mixtum in aerem aspergat..."
+    },
+    {
+      "name": "cattus niger (born March)",
+      "type": "ritual ingredient",
+      "attributes": {
+        "parts used": "cor, oculi",
+        "herb inserted": "elyotropia"
+      },
+      "page_ref": "fol 40v",
+      "raw_quote": "Studeas invenire vnam cattam nigram, natam in mense Martij, et exviscera earn..."
+    },
+    {
+      "name": "herba elyotropia",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "filling eye sockets of black cat"
+      },
+      "page_ref": "fol 40v",
+      "raw_quote": "imple- foramina oculorum semine cuiusdam herbe que elyotropia dicitur..."
+    },
+    {
+      "name": "sanguis humanus + aqua mixta",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "rigare corpus catte per 15 dies"
+      },
+      "page_ref": "fol 40v",
+      "raw_quote": "eam riga- cum sangwine humano et aqua commistis..."
+    },
+    {
+      "name": "oleum olivae",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "writing names on crystal"
+      },
+      "page_ref": "fols 43v, 44r",
+      "raw_quote": "scribe in illo cum oleo oliue hec nomina: Hon, Hely..."
+    },
+    {
+      "name": "pulvis albus herbae (alba)",
+      "type": "ritual ingredient",
+      "attributes": {
+        "function": "indicates efficacy of grain"
+      },
+      "page_ref": "fol 40v",
+      "raw_quote": "vsque quo crescit herba alba, cuius semen suo opere- semper ilia verba repetendo."
+    },
+    {
+      "name": "cornu ovinae corrigia",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "tying paper with names to boy’s finger"
+      },
+      "page_ref": "fol 45r",
+      "raw_quote": "liga corrigiam ouinam, quam ad tres missas quas perfecte audiuisti tecum habuisti..."
+    },
+    {
+      "name": "sacrificium galli albi",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "consecrating Pluto’s key"
+      },
+      "page_ref": "fol 44v",
+      "raw_quote": "repone earn per noctem cum sacrificio galli albi in quadruuio..."
+    },
+    {
+      "name": "sanguis galli albi",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "drawing figure on key"
+      },
+      "page_ref": "fol 44v",
+      "raw_quote": "fac super istam clauem antequam posueris subtus terrain hanc figuram de sangwine galli albi."
+    },
+    {
+      "name": "figura crucis XL",
+      "type": "ritual ingredient",
+      "attributes": {
+        "used for": "protection of key"
+      },
+      "page_ref": "fol 44v",
+      "raw_quote": "et dimitte ibi tribus diebus. Tercia autem nocte, ante gallicinium..."
+    },
+    {
+      "name": "conjuratio ad equum (No. 17)",
+      "type": "ritual incantation",
+      "attributes": {
+        "function": "to summon spirit for transport"
+      },
+      "page_ref": "before fol 37r",
+      "raw_quote": "Coniuro te, eque bone, • per creatorem celi et terre... vt me, N., ad locum talem deferas..."
+    },
+    {
+      "name": "conjurationes Floron (two versions)",
+      "type": "ritual incantation",
+      "attributes": {
+        "language": "Chaldaica verba",
+        "function": "invoke spirit for revelation"
+      },
+      "page_ref": "fols 37v, 39r",
+      "raw_quote": "Bismille araathe mem- bismissa gassim gisim galisim darrgosim..."
+    },
+    {
+      "name": "conjurationes Lilit (two versions)",
+      "type": "ritual incantation",
+      "attributes": {
+        "function": "bind and summon demon Lylet"
+      },
+      "page_ref": "fols 42v, 43r",
+      "raw_quote": "Coniuro vos demones vt veniatis et compareatis... per Alpha et O..."
+    },
+    {
+      "name": "conjurationes cristalli (two versions)",
+      "type": "ritual incantation",
+      "attributes": {
+        "function": "invoke angels into crystal"
+      },
+      "page_ref": "fols 43r-v, 43v-44r",
+      "raw_quote": "Coniuro vos in nomine Dedeon, et dij Egarias et Semisonay..."
+    },
+    {
+      "name": "conjuratio ad furtum per puerum (No. 22)",
+      "type": "ritual incantation",
+      "attributes": {
+        "function": "bind boy to reveal thief/murderer"
+      },
+      "page_ref": "fol 41v",
+      "raw_quote": "Coniuro te, puer, • per Patrem et Filium et Spiritum Sanctum..."
+    },
+    {
+      "name": "quadriuium",
+      "type": "location",
+      "attributes": {
+        "function": "place to consecrate Lylet’s mirror"
+      },
+      "page_ref": "fol 43r",
+      "raw_quote": "tacite et secrete defer ad quadriuium vel ad sepulc[r]um alicuius hominis interfecti..."
+    },
+    {
+      "name": "septem dies (luna crescente)",
+      "type": "ritual timing",
+      "attributes": {
+        "used for": "mirror making in No. 19"
+      },
+      "page_ref": "fol 38v-39r",
+      "raw_quote": "Debet fieri... prima die Veneris, luna J crescente..."
+    },
+    {
+      "name": "noctes quindecim (xv dies)",
+      "type": "ritual timing",
+      "attributes": {
+        "used for": "cat ritual in No. 21"
+      },
+      "page_ref": "fol 40v",
+      "raw_quote": "hoc continuando per xv dies vsque quo crescit herba alba..."
+    },
+    {
+      "name": "figurae Salomonis (sigilla)",
+      "type": "ritual diagram",
+      "attributes": {
+        "used in": "Lylet’s mirror, No. 22"
+      },
+      "page_ref": "fols 42v, 41r",
+      "raw_quote": " circa duo lattera superiora sigilla Salomonis depingantur majora..."
+    },
+    {
+      "name": "figura clavis (key with tooth)",
+      "type": "ritual diagram",
+      "attributes": {
+        "used for": "Pluto’s key"
+      },
+      "page_ref": "fol 44v",
+      "raw_quote": "Figure on upper right of fol. 44v: a key, with a single tooth extending to the left and a single tooth to the right."
+    },
+    {
+      "name": "figura circuli (double band)",
+      "type": "ritual diagram",
+      "attributes": {
+        "used in": "No. 18, No. 22"
+      },
+      "page_ref": "fols 37r, 42r",
+      "raw_quote": "Figure on fol. 37r: a double circular band, divided into ten segments..."
+    },
+    {
+      "name": "figura pueri super signum",
+      "type": "ritual diagram",
+      "attributes": {
+        "used in": "No. 22"
+      },
+      "page_ref": "fol 42r",
+      "raw_quote": "Hie sederat [=sedeat] puer super signum... Hie sedeat magister super signum..."
+    },
+    {
+      "name": "figura crucis XL",
+      "type": "ritual diagram",
+      "attributes": {
+        "used in": "Pluto’s key ritual"
+      },
+      "page_ref": "fol 44v",
+      "raw_quote": "Figure part-wav down fol. 44v: a large cross, followed by XL."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Floron",
+      "to": "speculum Floron (first version)",
+      "type": "inhabits"
+    },
+    {
+      "from": "Lylet",
+      "to": "speculum Lilit",
+      "type": "inhabits"
+    },
+    {
+      "from": "sanguis humanus + aqua",
+      "to": "herba elyotropia",
+      "type": "used with"
+    },
+    {
+      "from": "balsamum purum",
+      "to": "speculum Floron",
+      "type": "applied to"
+    },
+    {
+      "from": "lignum aloes, ambra, mirra, olibanus albus",
+      "to": "speculum Floron",
+      "type": "used in subfumigatio of"
+    },
+    {
+      "from": "conjuratio ad equum",
+      "to": "Floron",
+      "type": "used to summon"
+    },
+    {
+      "from": "conjurationes Floron",
+      "to": "speculum Floron",
+      "type": "recited over"
+    },
+    {
+      "from": "conjurationes Lilit",
+      "to": "Lylet",
+      "type": "used to bind"
+    },
+    {
+      "from": "conjurationes cristalli",
+      "to": "crystallum",
+      "type": "recited over"
+    },
+    {
+      "from": "figurae Salomonis",
+      "to": "speculum Lilit",
+      "type": "inscribed on"
+    },
+    {
+      "from": "clauus Plutonis",
+      "to": "sanguis galli albi",
+      "type": "anointed with"
+    },
+    {
+      "from": "quadriuium",
+      "to": "speculum Lilit",
+      "type": "location of consecration"
+    }
+  ],
+  "summary": "This chunk details several magical mirror and crystal rituals from the Munich Handbook (CLM 849), including two versions of the Speculum Floron for revelation, a third method using mirrors in Jupiter-Venus conjunction, and the First Mirror of Lilith (Lylet) for divination. It also includes rituals for invisibility (using a black cat born in March), theft/murder detection via crystal or boy’s gaze, and Pluto’s Key to open locks. Ritual ingredients include calibe mirrors, balsam, aloes, amber, myrrh, white frankincense, human blood, cat organs, elyotropia seeds, and mixed mel/lac/vinum. Incantations are largely in pseudo-Chaldaic or Latin with divine names (Alpha et O, Sabaoth, Emanuel). Timing follows planetary days (Venus, Friday) and lunar phases (waxing moon).",
+  "key_passages": [
+    "O Floron, in speculo sicut solitus es apparere citissime respondeas.",
+    "Coniuro vos demones vt veniatis et compareatis et dicatis michi de quocumque interrogauero vos omnem veritatem, in nomine Patris et Filij et Spiritus Sancti. Amen.",
+    "Studeas invenire vnam cattam nigram, natam in mense Martij, et exviscera earn... Sapreson lampsones sampsanay, invisibilis fiat homo.",
+    "Coniuro te, puer, • per Patrem et Filium et Spiritum Sanctum... vt quidquid tu videos nobis insinues...",
+    "Sume tibi ferrum inventum ex inprouisu, et fac tibi fieri clauem huiusmodi, factam die Veneris."
+  ]
+}

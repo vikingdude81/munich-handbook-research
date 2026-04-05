@@ -1,0 +1,750 @@
+{
+  "source_id": "necro",
+  "chunk_id": 30,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Deus inuisibilis",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in consecration prayers"
+      },
+      "page_ref": "[55r]",
+      "raw_quote": "Oracio. Deus inuisibilis, deus inestimabilis, deus incorruptibilis, deus piissime, deus excelse, deus gloriose, deus inmense, deus tocius misericordie..."
+    },
+    {
+      "name": "On",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "central sacred name used repeatedly in consecrations"
+      },
+      "page_ref": "[53v], [136r], [137r]",
+      "raw_quote": "...On, Ihesus, Christus, Alpha et O, El, Eloye..."
+    },
+    {
+      "name": "Alpha et O",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "symbol of God's eternal nature"
+      },
+      "page_ref": "[53v], [136r], [137r]",
+      "raw_quote": "...On, Alpha et O, Principium et Finis..."
+    },
+    {
+      "name": "Elyon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "used in consecration invocations"
+      },
+      "page_ref": "[136r], [137r]",
+      "raw_quote": "...El, Ely, Eloye, On, Otheon, Stimlamathon,-Ezelphares, Tetragramaton..."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "sacred four-letter name of God"
+      },
+      "page_ref": "[53v], [136r], [137r]",
+      "raw_quote": "...Tetragramaton, Elyoram, Ryon..."
+    },
+    {
+      "name": "Emanuel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "God with us; invoked in consecrations"
+      },
+      "page_ref": "[53v], [136r], [137r]",
+      "raw_quote": "...Messy as, Sother,- Emanuel, Sabaoth, Adonay..."
+    },
+    {
+      "name": "Sabaoth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "Lord of Hosts; invoked in consecrations"
+      },
+      "page_ref": "[53v], [136r], [137r]",
+      "raw_quote": "...Emanuel, Sabaoth, Adonay..."
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "Lord; invoked in consecrations"
+      },
+      "page_ref": "[53v], [136r], [137r]",
+      "raw_quote": "...Emanuel, Sabaoth, Adonay..."
+    },
+    {
+      "name": "Messias",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "anointed one; invoked in consecrations"
+      },
+      "page_ref": "[136r], [137v]",
+      "raw_quote": "...Noyn, Messias, Cother..."
+    },
+    {
+      "name": "Sother",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "Savior; invoked in consecrations"
+      },
+      "page_ref": "[136r], [137v]",
+      "raw_quote": "...Elyon, Sother, Emanuel..."
+    },
+    {
+      "name": "Principium et Finis",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine title",
+        "function": "Alpha and Omega; invoked in consecrations"
+      },
+      "page_ref": "[137v]",
+      "raw_quote": "...On, Alpha et O, Principium et finis..."
+    },
+    {
+      "name": "Sancta Maria",
+      "type": "spirit",
+      "attributes": {
+        "rank": "saint",
+        "function": "intercessor in consecration rites"
+      },
+      "page_ref": "[54r], [136v]",
+      "raw_quote": "Sancta Maria, mater domini nostri Ihesu Christi, te benedical et sanctificet..."
+    },
+    {
+      "name": "Ihesus Christus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine figure",
+        "function": "central figure invoked for authority in all rites"
+      },
+      "page_ref": "[53v], [136r]",
+      "raw_quote": "...prestante domino nostro Ihesu Christo, qui viuit et regnat per omnia secula seculorum. Amen."
+    },
+    {
+      "name": "Pater",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine person",
+        "function": "first person of the Trinity; invoked in consecrations"
+      },
+      "page_ref": "[54r]",
+      "raw_quote": "Bene^dicat te Pater. Bene^dicat te Filius. Bene^dicat te Spiritus Sanctus."
+    },
+    {
+      "name": "Filius",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine person",
+        "function": "second person of the Trinity"
+      },
+      "page_ref": "[54r]",
+      "raw_quote": "Bene^dicat te Pater. Bene^dicat te Filius. Bene^dicat te Spiritus Sanctus."
+    },
+    {
+      "name": "Spiritus Sanctus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine person",
+        "function": "third person of the Trinity; invoked for grace"
+      },
+      "page_ref": "[54r], [136v]",
+      "raw_quote": "Bene^dicat te Pater. Bene^dicat te Filius. Bene^dicat te Spiritus Sanctus."
+    },
+    {
+      "name": "exorcista",
+      "type": "ritual",
+      "attributes": {
+        "function": "operator performing the ritual; commands spirits"
+      },
+      "page_ref": "[55v]",
+      "raw_quote": "...cum exorcista voluerit dispergat, et per sanctissimum nomen tuum quod scribitur 4or litteris..."
+    },
+    {
+      "name": "consecratio libri",
+      "type": "ritual",
+      "attributes": {
+        "function": "consecration of the handbook; requires nine days"
+      },
+      "page_ref": "[55r]",
+      "raw_quote": "Hoc factum per ix dies, erit liber consecratus..."
+    },
+    {
+      "name": "exorcismus spirituum",
+      "type": "ritual",
+      "attributes": {
+        "function": "binding and commanding spirits"
+      },
+      "page_ref": "[55v]",
+      "raw_quote": "...ad consecrandum vinculum spirituum et ad consecrandum omnia experimenta corrupta..."
+    },
+    {
+      "name": "A G L A",
+      "type": "ritual",
+      "attributes": {
+        "function": "sacred syllable sequence used in exorcism"
+      },
+      "page_ref": "[55v]",
+      "raw_quote": "...cum exorcista voluerit, loth, both, vel hec, vel A G L A..."
+    },
+    {
+      "name": "Ioth, Varo, Hee, Teth",
+      "type": "ritual",
+      "attributes": {
+        "function": "four-letter sacred syllables used in consecrations"
+      },
+      "page_ref": "[56v]",
+      "raw_quote": "...scribitur per iiij litteras, scilicet Ioth, Varo, Hee, Teth..."
+    },
+    {
+      "name": "Mare",
+      "type": "ingredient",
+      "attributes": {
+        "function": "elemental force that responds to divine names"
+      },
+      "page_ref": "[56r]",
+      "raw_quote": "...quo audito a mare regreditur, aer conmutatur..."
+    },
+    {
+      "name": "Aer",
+      "type": "ingredient",
+      "attributes": {
+        "function": "air element that trembles at divine names"
+      },
+      "page_ref": "[56r]",
+      "raw_quote": "...quo audito a mare regreditur, aer conmutatur,- vel N. concitatur,- terra tremit..."
+    },
+    {
+      "name": "Terra",
+      "type": "ingredient",
+      "attributes": {
+        "function": "earth element that trembles at divine names"
+      },
+      "page_ref": "[56r]",
+      "raw_quote": "...terra 12 timet, ignis extingwitur..."
+    },
+    {
+      "name": "Ignis",
+      "type": "ingredient",
+      "attributes": {
+        "function": "fire element that is quenched at divine names"
+      },
+      "page_ref": "[56r]",
+      "raw_quote": "...ignis extingwitur, omnisque exercitus terrenus et infernalis tremet..."
+    },
+    {
+      "name": "aqua benedicta",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in ritual purification and consecration"
+      },
+      "page_ref": "[54r], [136v]",
+      "raw_quote": "...et aqua benedicta respergi..."
+    },
+    {
+      "name": "signum sancte crucis",
+      "type": "tool",
+      "attributes": {
+        "function": "used to invoke divine protection"
+      },
+      "page_ref": "[54r], [136v]",
+      "raw_quote": "...et signum sancte cruce fronti tuo inpone..."
+    },
+    {
+      "name": "Confiteor",
+      "type": "tool",
+      "attributes": {
+        "function": "penitential prayer recited during consecration"
+      },
+      "page_ref": "[54r], [136v]",
+      "raw_quote": "...et in vtroque tuo Confiteor debes dicere..."
+    },
+    {
+      "name": "documentum",
+      "type": "tool",
+      "attributes": {
+        "function": "written instruction or model used for ritual preparation"
+      },
+      "page_ref": "[55r]",
+      "raw_quote": "...si alicui experimento deficit documentum ante consecracionem..."
+    },
+    {
+      "name": "exercitus celestis",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic host",
+        "function": "celestial army that responds to divine authority"
+      },
+      "page_ref": "[54v], [137r]",
+      "raw_quote": "...omnes virtutes celestes te benedicant et confirment, omnes angeli et archangeli..."
+    },
+    {
+      "name": "exercitus infernalis",
+      "type": "spirit",
+      "attributes": {
+        "rank": "infernal host",
+        "function": "demonic forces commanded by exorcist via divine names"
+      },
+      "page_ref": "[56r], [137r]",
+      "raw_quote": "...omnisque exercitus terrenus et infernalis tremet..."
+    },
+    {
+      "name": "maligni spiritus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demonic",
+        "function": "subject to exorcist’s commands via divine names"
+      },
+      "page_ref": "[56v], [137r]",
+      "raw_quote": "...da huic experimento potestatem et virtutem super malignos spiritus..."
+    },
+    {
+      "name": "virtutes celestes",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "celestial powers that assist in consecration"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...omnes virtutes celestes te benedicant et confirment..."
+    },
+    {
+      "name": "angeli",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic beings",
+        "function": "serve in consecration rites"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...omnes angeli et archangeli, virtutes et potestates..."
+    },
+    {
+      "name": "archangeli",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "serve in consecration rites"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...omnes angeli et archangeli, virtutes et potestates..."
+    },
+    {
+      "name": "principatus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "celestial order invoked in consecration"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...omnes angeli et archangeli, virtutes et potestates, principatus..."
+    },
+    {
+      "name": "virtutes",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "celestial order invoked in consecration"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...omnes angeli et archangeli, virtutes et potestates..."
+    },
+    {
+      "name": "potestates",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "celestial order invoked in consecration"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...omnes angeli et archangeli, virtutes et potestates..."
+    },
+    {
+      "name": "throni",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "celestial order invoked in consecration"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...principatus, throni et [54v] dominaciones..."
+    },
+    {
+      "name": "dominaciones",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "celestial order invoked in consecration"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...principatus, throni et dominaciones..."
+    },
+    {
+      "name": "cherubin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "celestial order invoked in consecration"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...cherubin et seraphin..."
+    },
+    {
+      "name": "seraphin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angelic hierarchy",
+        "function": "celestial order invoked in consecration"
+      },
+      "page_ref": "[54v]",
+      "raw_quote": "...cherubin et seraphin..."
+    },
+    {
+      "name": "sancti virgines",
+      "type": "spirit",
+      "attributes": {
+        "rank": "saints",
+        "function": "intercessors invoked in consecration"
+      },
+      "page_ref": "[54r]",
+      "raw_quote": "Benedicant te omnes sancte virgines."
+    },
+    {
+      "name": "sancti dei",
+      "type": "spirit",
+      "attributes": {
+        "rank": "saints",
+        "function": "intercessors invoked in consecration"
+      },
+      "page_ref": "[54r]",
+      "raw_quote": "...omnes sancti et electi dei..."
+    },
+    {
+      "name": "Psalmus 37",
+      "type": "ritual",
+      "attributes": {
+        "function": "scriptural psalm recited during consecration"
+      },
+      "page_ref": "[55r]",
+      "raw_quote": "...Ne derelinquas me, domine deus meus, ne discesseris a me. Intende in adiutorium meum..."
+    },
+    {
+      "name": "Psalmus 32",
+      "type": "ritual",
+      "attributes": {
+        "function": "scriptural psalm recited during consecration"
+      },
+      "page_ref": "[55r]",
+      "raw_quote": "...Fiat misericordia tua, domine, super nos, quemadmodum speraui in te..."
+    },
+    {
+      "name": "Psalmus 70",
+      "type": "ritual",
+      "attributes": {
+        "function": "scriptural psalm recited during consecration"
+      },
+      "page_ref": "[55r]",
+      "raw_quote": "...In te, domine, speraui; non confundar in aeternum..."
+    },
+    {
+      "name": "Psalmus 87",
+      "type": "ritual",
+      "attributes": {
+        "function": "scriptural psalm recited during consecration"
+      },
+      "page_ref": "[55r]",
+      "raw_quote": "...Inclina aurem tuam adpreces nostras..."
+    },
+    {
+      "name": "Psalmus 101",
+      "type": "ritual",
+      "attributes": {
+        "function": "scriptural psalm recited during consecration"
+      },
+      "page_ref": "[55r]",
+      "raw_quote": "...Domine, exaudi oracionem meam, et clamor meus ad te veniat..."
+    },
+    {
+      "name": "Psalmus 103",
+      "type": "ritual",
+      "attributes": {
+        "function": "scriptural psalm cited in consecration prayer"
+      },
+      "page_ref": "[137r]",
+      "raw_quote": "...qui omnia in sapiencia fecisti [Ps 103:24 Vulg.]..."
+    },
+    {
+      "name": "Psalmus 109",
+      "type": "ritual",
+      "attributes": {
+        "function": "scriptural psalm cited in consecration prayer"
+      },
+      "page_ref": "[56r]",
+      "raw_quote": "...terminum suum quem preteriri non poterit [Ps 109:9 Vulg.]..."
+    },
+    {
+      "name": "Abraham",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "patriarch invoked in consecration prayers"
+      },
+      "page_ref": "[56r], [137r]",
+      "raw_quote": "...qui Abrahe sub triplici persona ad radicem manibus apparuisti..."
+    },
+    {
+      "name": "Moses",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "lawgiver invoked in consecration prayers"
+      },
+      "page_ref": "[56r], [137r]",
+      "raw_quote": "...qui Moysi in medio rubi in flamma ignis locutus fuisti..."
+    },
+    {
+      "name": "Noah",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "patriarch saved by ark; invoked in consecration"
+      },
+      "page_ref": "[56r]",
+      "raw_quote": "...qui Noe et eos qui cum eo erant in archa saluasti..."
+    },
+    {
+      "name": "Joshua",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "invoked for miracle of sun/moon standing still"
+      },
+      "page_ref": "[137r]",
+      "raw_quote": "...qui solem et lunam per inuocacionem Iosue stare fecisti..."
+    },
+    {
+      "name": "Daniel",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "invoked for deliverance from lions’ den"
+      },
+      "page_ref": "[56r], [137r]",
+      "raw_quote": "...qui Danielem de lacu leonum rapuisti..."
+    },
+    {
+      "name": "Susanna",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "invoked for deliverance from false accusation"
+      },
+      "page_ref": "[56r], [137r]",
+      "raw_quote": "...qui Susannam in te confidentem de falso crimine liberasti..."
+    },
+    {
+      "name": "Jonah",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "invoked for deliverance from whale’s belly"
+      },
+      "page_ref": "[56r], [137r]",
+      "raw_quote": "...qui Yonam de ventre ceti saluasti..."
+    },
+    {
+      "name": "Sadrach, Meshach, Abednego",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "three youths delivered from fiery furnace"
+      },
+      "page_ref": "[56r], [137r]",
+      "raw_quote": "...qui tres pueros de camino ardenti, scilicet Sydrach, Mysaac, Abdenago..."
+    },
+    {
+      "name": "Eva",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "first woman; invoked in consecration prayers"
+      },
+      "page_ref": "[137r]",
+      "raw_quote": "...quem 1 eciam cum Euam propter preua[r]icacionem eiecisti..."
+    },
+    {
+      "name": "Adam",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "first man; invoked in consecration prayers"
+      },
+      "page_ref": "[58r]",
+      "raw_quote": "...qui Adam et Euam ad similitudinem [tuam] formasti..."
+    },
+    {
+      "name": "Ioseph",
+      "type": "biblical_figure",
+      "attributes": {
+        "function": "invoked in consecration prayers (unclear reference)"
+      },
+      "page_ref": "[58r]",
+      "raw_quote": "...per passio[n]em tuam..."
+    },
+    {
+      "name": "Spiritualis Paraclitus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "Holy Spirit",
+        "function": "divine helper invoked in consecration"
+      },
+      "page_ref": "[58r]",
+      "raw_quote": "...per spiritual paraclitum tuum..."
+    },
+    {
+      "name": "sacramentum altaris",
+      "type": "ritual",
+      "attributes": {
+        "function": "Eucharist; invoked in consecration prayers"
+      },
+      "page_ref": "[58r]",
+      "raw_quote": "...per sacramentum quod discipulis tuis dedisti pridie quam passus fuisti..."
+    },
+    {
+      "name": "Trinitas Sancta",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine mystery",
+        "function": "Trinity invoked in consecration"
+      },
+      "page_ref": "[58r]",
+      "raw_quote": "...per sanctam trinit at em et indiuiduam..."
+    },
+    {
+      "name": "Sanctae Virgines",
+      "type": "spirit",
+      "attributes": {
+        "rank": "saints",
+        "function": "intercessors invoked in consecration"
+      },
+      "page_ref": "[54r]",
+      "raw_quote": "Benedicant te omnes sancte virgines."
+    },
+    {
+      "name": "sancti et electi dei",
+      "type": "spirit",
+      "attributes": {
+        "rank": "saints",
+        "function": "intercessors invoked in consecration"
+      },
+      "page_ref": "[54r]",
+      "raw_quote": "...omnes sancti et electi dei..."
+    },
+    {
+      "name": "Martyres",
+      "type": "spirit",
+      "attributes": {
+        "rank": "saints",
+        "function": "implied in ‘sancti’ but not explicitly named"
+      },
+      "page_ref": null,
+      "raw_quote": null
+    }
+  ],
+  "relationships": [
+    {
+      "from": "On",
+      "to": "Alpha et O",
+      "type": "synonym"
+    },
+    {
+      "from": "Tetragramaton",
+      "to": "Adonay",
+      "type": "equivalent"
+    },
+    {
+      "from": "Ihesus Christus",
+      "to": "Emanuel",
+      "type": "identical"
+    },
+    {
+      "from": "Deus inuisibilis",
+      "to": "consecratio libri",
+      "type": "used_in"
+    },
+    {
+      "from": "exorcista",
+      "to": "maligni spiritus",
+      "type": "commands"
+    },
+    {
+      "from": "sacred names",
+      "to": "spiritual obedience",
+      "type": "causes"
+    },
+    {
+      "from": "aqua benedicta",
+      "to": "consecratio libri",
+      "type": "used_in"
+    },
+    {
+      "from": "signum sancte crucis",
+      "to": "consecratio libri",
+      "type": "used_in"
+    },
+    {
+      "from": "Confiteor",
+      "to": "consecratio libri",
+      "type": "recited_during"
+    },
+    {
+      "from": "Psalmus 37",
+      "to": "consecratio libri",
+      "type": "recited_during"
+    },
+    {
+      "from": "Psalmus 32",
+      "to": "consecratio libri",
+      "type": "recited_during"
+    },
+    {
+      "from": "Psalmus 70",
+      "to": "consecratio libri",
+      "type": "recited_during"
+    },
+    {
+      "from": "Psalmus 87",
+      "to": "consecratio libri",
+      "type": "recited_during"
+    },
+    {
+      "from": "Psalmus 101",
+      "to": "consecratio libri",
+      "type": "recited_during"
+    },
+    {
+      "from": "exercitus celestis",
+      "to": "maligni spiritus",
+      "type": "opposes"
+    },
+    {
+      "from": "sacred names",
+      "to": "exorcismus spirituum",
+      "type": "basis_for"
+    },
+    {
+      "from": "Ihesus Christus",
+      "to": "consecratio libri",
+      "type": "authority_for"
+    }
+  ],
+  "summary": "This chunk contains extensive Latin consecration prayers for the Munich Handbook of necromancy (CLM 849), focusing on divine invocations to empower ritual texts and spirit-binding experiments. It lists numerous sacred names (e.g., On, Alpha et O, Tetragramaton, Emanuel) and emphasizes their power over elemental forces (earth, air, fire, water) and spirits (both celestial and infernal). Ritual instructions include nine-day book consecration, use of holy water, the sign of the cross, Confiteor recitation, and psalms. Biblical figures like Moses, Noah, Daniel, and Jonah are invoked for their exorcistic authority.",
+  "key_passages": [
+    "Hoc factum per ix dies, erit liber consecratus, et quocienscumque aliud consecrare volueris, incipias primam oracionem legere, scilicet Deus invisibilis...",
+    "...per sanctissima nomina tua - On, Alpha et O, El, Eloye, On, Otheon, Stimlamathon,-Ezelphares, Tetragramaton...",
+    "Quo audito a mare regreditur, aer conmutatur,- vel N. concitatur,- terra tremit, ignis extingwitur, omnisque exercitus terrenus et infernalis tremet...",
+    "...per sanctissimum nomen tuum quod scribitur 4or litteris, scilicet Ioth, Varo, Hee, Teth, quo audito mare regreditur...",
+    "Hoc factum per ix dies, erit liber consecratus..."
+  ]
+}

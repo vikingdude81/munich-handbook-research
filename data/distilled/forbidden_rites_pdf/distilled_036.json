@@ -1,0 +1,564 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 36,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual",
+      "attributes": {
+        "description": "Manuscript containing the experiments described in this chunk"
+      },
+      "page_ref": "fols. 96v–105v",
+      "raw_quote": "This experiment begins a section that is labelled on fol. 96v as follows: Incipiunt experimenta verissima et probata..."
+    },
+    {
+      "name": "Vmon, Progemon, Mithiomo, Pist, Vralchim, Althes, Panite, Fabar, Thobar, Cormes, Felsmes, Diles, Dilia, Dies, Onaris",
+      "type": "spirit",
+      "attributes": {
+        "role": "demons conjured by name in first incantation"
+      },
+      "page_ref": "p. 371 (97r)",
+      "raw_quote": "Vmon, Progemon, Mithiomo, Pist, Vralchim, Althes, Panite, Fabar, Thobar, Cormes, Felsmes, Diles, Dilia, Dies, Onaris, coniuro vos demones prenominatos..."
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons; also called 'magister vester' (your master)"
+      },
+      "page_ref": "pp. 372, 375–376, 380",
+      "raw_quote": "Coniuro vos, principes omnium demoniorum, Astaroth, Belzebub, Berit..."
+    },
+    {
+      "name": "Belzebub",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "Coniuro vos, principes omnium demoniorum... Belzebub..."
+    },
+    {
+      "name": "Berit",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "...Belzebub, Berit..."
+    },
+    {
+      "name": "Fornicator",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons; epithet for demon"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "...Fornicator, Temptator, et Seductor..."
+    },
+    {
+      "name": "Temptator",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons; epithet"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "...Fornicator, Temptator, et Seductor..."
+    },
+    {
+      "name": "Seductor",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons; epithet"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "...Temptator, et Seductor..."
+    },
+    {
+      "name": "Possessor hominum",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons; epithet"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "...Possessor hominum, Natheus..."
+    },
+    {
+      "name": "Natheus",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons; possibly variant of Nephilim or demon name"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "...Possessor hominum, Natheus..."
+    },
+    {
+      "name": "Molbet",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons; possibly variant or corruption"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "...Natheus, Molbet."
+    },
+    {
+      "name": "El, Eloy, Elyon, Aloe, Sappa, Sother, Emanuel, Tetragramaton, Saday, Luamay, Athanatos, Ysos, Kyrie, Primogenitus, Vita, Finis, Via, Flos, Fons, Veritas, Sapiencia, Virtus, Paraclitus, Ego sum qui sum, Mediator, Agnus, Ouis, Vitulus, Serpens, Aries, Leo, Os, Verbum, Ianua, Ymago, Gloria, Lux, Sol, Splendor, Lapis angularis, Sponsus, Pastor, Propheta, Sacerdos, Immortalis, Lex, Rex, Christus, Pater, Filius, Spiritus Sanctus, Agla, Petra, Eternitas, Neon, Burnon, Parli, Caon, Aepton, Alpha et O, Omnipotens, Misericors, Caritas, Eternus Creator et Redemptor, Primus et Nouissimus, Dator et Receptor, Ayos, Otheos, Yschyros, Sanctus Deus, Fortis et Paciens, Iustus Iudex in vltimo die",
+      "type": "spirit",
+      "attributes": {
+        "role": "72 names of Christ used as divine authority in conjurations"
+      },
+      "page_ref": "p. 373 (98r)",
+      "raw_quote": "Per ista lxxija nomina Christi precipio vobis vt michi sitis obedientes..."
+    },
+    {
+      "name": "Michael, Gabriel, Raphael",
+      "type": "spirit",
+      "attributes": {
+        "role": "three archangels invoked"
+      },
+      "page_ref": "p. 374 (98v)",
+      "raw_quote": "...et per 3es angelos, scilicet Michael, Gabriel, [et] Raphael..."
+    },
+    {
+      "name": "Lucas, Marcus, Matheus, Ioannes",
+      "type": "spirit",
+      "attributes": {
+        "role": "Four Evangelists invoked"
+      },
+      "page_ref": "p. 374 (98v)",
+      "raw_quote": "...per 4or ewangelistas, Lucam, Marcum, Matheum, Johannem..."
+    },
+    {
+      "name": "Caspar, Balthasar, Melchior",
+      "type": "spirit",
+      "attributes": {
+        "role": "Three Magi invoked"
+      },
+      "page_ref": "p. 374 (98v), p. 376–377, 379",
+      "raw_quote": "...per 3es magos, scilicet Caspar, Balthasar, [et] Melchior..."
+    },
+    {
+      "name": "Iaspar, Smoagel",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant Magi names used in later conjurations"
+      },
+      "page_ref": "p. 378 (102r)",
+      "raw_quote": "Jaspar, Balthasar, Melchior, Smoagel, Emanuel..."
+    },
+    {
+      "name": "Lytim, Ygrim, Andyron, Vzmyas, Ytelteos, Zymens, Bylent, Baruth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demons conjured by name in later incantation"
+      },
+      "page_ref": "p. 379 (102v)",
+      "raw_quote": "Lytim, cum tuis subditis Ygrim, Andyron, Vzmyas, Ytelteos, Zymens, Bylent, Baruth..."
+    },
+    {
+      "name": "Naamay, Syy",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine names invoked in final conjuration"
+      },
+      "page_ref": "p. 379 (102v)",
+      "raw_quote": "Coniuro vos demones et precipio vobis per nomen Naamay, Syy..."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name; appears in ritual inscriptions"
+      },
+      "page_ref": "p. 376 (100r)",
+      "raw_quote": "...sub pedibus pueri scribatur hoc nomen Tetragramaton..."
+    },
+    {
+      "name": "Istath, Hoaz, Abays, Fastich",
+      "type": "spirit",
+      "attributes": {
+        "role": "names inscribed on knife handle"
+      },
+      "page_ref": "p. 376 (100r)",
+      "raw_quote": "...in manubrio cultelli et nomen pueri et hec nomina: Istath, Hoaz, Abays, Fastich..."
+    },
+    {
+      "name": "Alpha et O",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title/name; inscribed on knife thumb and used repeatedly"
+      },
+      "page_ref": "p. 376 (100r), p. 372, etc.",
+      "raw_quote": "...et in pollice scribe Alpha et O."
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "magister vester; invoked as source of magical power"
+      },
+      "page_ref": "p. 376 (100r), p. 380",
+      "raw_quote": "...arte et magisterio, a magistro vestro Astaroth vobis concessa..."
+    },
+    {
+      "name": "Asef Caroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "magister vester in second experiment; possible corruption or variant of Astaroth"
+      },
+      "page_ref": "p. 381 (104v)",
+      "raw_quote": "...arte et magisterio a magistro vestro Asef Caroth vobis concessa..."
+    },
+    {
+      "name": "Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda",
+      "type": "spirit",
+      "attributes": {
+        "role": "demons whispered to boy in ear"
+      },
+      "page_ref": "p. 376 (100r)",
+      "raw_quote": "Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda; hecg dic ter."
+    },
+    {
+      "name": "Abgo, Safrit, Bos, Zelentes, Vm, Vom, Motmyo, Thitodens, Gemitias, Gana, Vresius, Pharachte, Foliath, Gebath, Dyrus, Virus, Vnyrus, Peamde, Febat, Gebat, Tyros, Vijas, Nubar, Azathi",
+      "type": "spirit",
+      "attributes": {
+        "role": "demons conjured by name in second experiment"
+      },
+      "page_ref": "p. 376 (100v)",
+      "raw_quote": "Abgo, Safrit, Bos, Zelentes, Vm, Vom, Motmyo, Thitodens, Gemitias, Gana, Vresius, Pharachte, Foliath, Gebath, Dyrus, Virus, Vnyrus, Peamde, Febat, Gebat, Tyros, Vijas, Nubar, Azathi..."
+    },
+    {
+      "name": "Progeneri, Mutimo, Possunt, Thomopest, Vtany, Votanes, Filij, Fibos, Fibet, Baruth, Sachith, Propiietas, Voltam, Panyte, Farum, Cubarum, Crutines, Tyrygel, Dyrus, Formys, Fembusalk, Berith, Sathanas",
+      "type": "spirit",
+      "attributes": {
+        "role": "24 names inscribed for third experiment"
+      },
+      "page_ref": "p. 380 (103v)",
+      "raw_quote": "Hec sunt nomina que scribi debent: in nomine Progeneri, Mutimo, Possunt, Thomopest, Vtany, Votanes..."
+    },
+    {
+      "name": "Emogeni, Thomo, Gyton, Sertugidis, Jubutzis",
+      "type": "spirit",
+      "attributes": {
+        "role": "demons invoked in third experiment"
+      },
+      "page_ref": "p. 381 (104r)",
+      "raw_quote": "...Emogeni, Thomo, Gyton, Sertugidis, Jubutzis."
+    },
+    {
+      "name": "Abgoth, Sanfrielis, Selentis, Vniueny, Vtimo, Geremittarum, Dydones, Rayma, Rofanes, Panyte, Fabath, Gallath, Dyrus, Fyrus, Virytus, Finibet, Arath",
+      "type": "spirit",
+      "attributes": {
+        "role": "demons conjured in third experiment"
+      },
+      "page_ref": "p. 381 (104r)",
+      "raw_quote": "Abgoth, Sanfrielis, Selentis, Vniueny, Vtimo, Geremittarum, Dydones, Rayma, Rofanes..."
+    },
+    {
+      "name": "crucifixion details (3999 wounds, 162 wounds, 58 wounds)",
+      "type": "ritual",
+      "attributes": {
+        "role": "specific Passion references used in conjurations"
+      },
+      "page_ref": "p. 373 (98v)",
+      "raw_quote": "...per milia sex wlnera domini nostri Ihesu Christi, / per centum sex wlnera... / per quinquaginta sex wlnera..."
+    },
+    {
+      "name": "crucifixion details (crown of thorns, reed, blows, 3 nails, lance)",
+      "type": "ritual",
+      "attributes": {
+        "role": "Passion instruments invoked"
+      },
+      "page_ref": "p. 374 (98v)",
+      "raw_quote": "...per spineam coronam... per arundinem et alapas... per 3es clauos, / per lanceam..."
+    },
+    {
+      "name": "sacred anatomy references (blood and water from side)",
+      "type": "ritual",
+      "attributes": {
+        "role": "theological-magical motif"
+      },
+      "page_ref": "p. 374 (98v), p. 379 (102v)",
+      "raw_quote": "...dum continuo exiuit sa[n]gwis et aqua..."
+    },
+    {
+      "name": "sacred anatomy references (sweat like blood, darkened sun, moon turned to blood)",
+      "type": "ritual",
+      "attributes": {
+        "role": "cosmic signs at Passion"
+      },
+      "page_ref": "p. 377 (101r)",
+      "raw_quote": "...per sudorem sa[n]gwineum Ihesu Christi... / per solem obscuratum, / per lunam conuersam in sa[n]gwinem..."
+    },
+    {
+      "name": "triple circle ritual",
+      "type": "ritual",
+      "attributes": {
+        "role": "core protective structure"
+      },
+      "page_ref": "p. 371 (97r), p. 375 (99v), p. 380 (103r)",
+      "raw_quote": "...facias circulos 3es cum gladio."
+    },
+    {
+      "name": "tripod stool",
+      "type": "tool",
+      "attributes": {
+        "role": "ritual seat"
+      },
+      "page_ref": "p. 371 (97r), p. 375 (99v)",
+      "raw_quote": "...accipe sedem tripedem..."
+    },
+    {
+      "name": "sword",
+      "type": "tool",
+      "attributes": {
+        "role": "ritual implement; used for circles, blessing, cutting"
+      },
+      "page_ref": "p. 371 (97r), p. 375 (99v)",
+      "raw_quote": "...facias circulos 3es cum gladio... unusquisque habeat gladium suum..."
+    },
+    {
+      "name": "olive oil",
+      "type": "ingredient",
+      "attributes": {
+        "role": "used to anoint boy’s fingernail"
+      },
+      "page_ref": "p. 371 (97r), p. 376 (100r)",
+      "raw_quote": "...vnge sibi vngwem cum oleo oliue..."
+    },
+    {
+      "name": "knife",
+      "type": "tool",
+      "attributes": {
+        "role": "used to rasp fingernail and inscribe names"
+      },
+      "page_ref": "p. 371 (97r), p. 376 (100r)",
+      "raw_quote": "...radas sibi vngwem cum cultello..."
+    },
+    {
+      "name": "white or black horn",
+      "type": "ingredient",
+      "attributes": {
+        "role": "material for knife handle"
+      },
+      "page_ref": "p. 376 (100r)",
+      "raw_quote": "...cultelli et nomen pueri... manubrium sit factum de cornu nigro uel albo."
+    },
+    {
+      "name": "white linen cloth",
+      "type": "ingredient",
+      "attributes": {
+        "role": "used to wipe boy’s nail"
+      },
+      "page_ref": "p. 375 (99v)",
+      "raw_quote": "...terge puero vngwem tunica tua..."
+    },
+    {
+      "name": "boy (puer virgineus)",
+      "type": "person",
+      "attributes": {
+        "role": "medium/seer; must be legitimate-born and chaste"
+      },
+      "page_ref": "p. 371 (97r), p. 375 (99v)",
+      "raw_quote": "Accipe puerum virginem de legittimo thoro..."
+    },
+    {
+      "name": "fingernail divination",
+      "type": "ritual",
+      "attributes": {
+        "role": "core method of scrying"
+      },
+      "page_ref": "pp. 371–379 (97r–102v), pp. 380–381 (103r–104r)",
+      "raw_quote": "Experimentum verissimum et probatum... ad omnia indaganda que volueris, siue presencia, siue preterita, siue futura..."
+    },
+    {
+      "name": "theft investigation ritual",
+      "type": "ritual",
+      "attributes": {
+        "role": "primary purpose of the experiment"
+      },
+      "page_ref": "pp. 371–379 (97r–102v), pp. 380–381 (103r–104r)",
+      "raw_quote": "...ostendensi vngwem istius pueri virginei oleo linito crescere... videre in eo furem et furtum factum nobis ablatum..."
+    },
+    {
+      "name": "Pater Noster",
+      "type": "ritual",
+      "attributes": {
+        "role": "prayer invoked"
+      },
+      "page_ref": "p. 374 (98v)",
+      "raw_quote": "...et per dominicam oracionem, scilicet Pater noster..."
+    },
+    {
+      "name": "Sanctus (Trisagion)",
+      "type": "ritual",
+      "attributes": {
+        "role": "heavenly hymn invoked"
+      },
+      "page_ref": "p. 374 (98v)",
+      "raw_quote": "...qui non cessant clamare, dicentes, ‘Sanctus, sanctus, sanctus’..."
+    },
+    {
+      "name": "St. Mary",
+      "type": "spirit",
+      "attributes": {
+        "role": "intercessor invoked"
+      },
+      "page_ref": "p. 373 (98v)",
+      "raw_quote": "...per sanctam Mariam, matrem domini nostri Ihesu Christi..."
+    },
+    {
+      "name": "St. John the Evangelist",
+      "type": "spirit",
+      "attributes": {
+        "role": "Gospel source for incipit"
+      },
+      "page_ref": "p. 371 (97r)",
+      "raw_quote": "...per inicium sancti ewangelij secundum Johannem: In principio erat verbum..."
+    },
+    {
+      "name": "Virgil",
+      "type": "person",
+      "attributes": {
+        "role": "author of magical experiments referenced"
+      },
+      "page_ref": "p. 374 (98v)",
+      "raw_quote": "...per omnia experimenta Virgilij..."
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {
+        "role": "source of magical characters"
+      },
+      "page_ref": "p. 374 (98v)",
+      "raw_quote": "...per omnes karacteres Salomonis..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Astaroth",
+      "to": "demons",
+      "type": "ruler_of"
+    },
+    {
+      "from": "Belzebub",
+      "to": "demons",
+      "type": "prince_of"
+    },
+    {
+      "from": "Berit",
+      "to": "demons",
+      "type": "prince_of"
+    },
+    {
+      "from": "Astaroth",
+      "to": "magic power",
+      "type": "source_of"
+    },
+    {
+      "from": "Christ",
+      "to": "conjurations",
+      "type": "authority_source"
+    },
+    {
+      "from": "Evangelists",
+      "to": "conjurations",
+      "type": "authority_source"
+    },
+    {
+      "from": "Three Magi",
+      "to": "conjurations",
+      "type": "authority_source"
+    },
+    {
+      "from": "Michael",
+      "to": "conjurations",
+      "type": "intercessor"
+    },
+    {
+      "from": "Gabriel",
+      "to": "conjurations",
+      "type": "intercessor"
+    },
+    {
+      "from": "Raphael",
+      "to": "conjurations",
+      "type": "intercessor"
+    },
+    {
+      "from": "Boy (puer)",
+      "to": "fingernail",
+      "type": "medium_for_scrying"
+    },
+    {
+      "from": "olive oil",
+      "to": "boy’s fingernail",
+      "type": "anointed_with"
+    },
+    {
+      "from": "knife",
+      "to": "boy’s fingernail",
+      "type": "rasped_on"
+    },
+    {
+      "from": "tripod stool",
+      "to": "ritual seating",
+      "type": "used_as"
+    },
+    {
+      "from": "circles",
+      "to": "protection",
+      "type": "provides"
+    },
+    {
+      "from": "sword",
+      "to": "circles",
+      "type": "drawn_with"
+    },
+    {
+      "from": "Tetragramaton",
+      "to": "ritual inscriptions",
+      "type": "included_in"
+    },
+    {
+      "from": "Alpha et O",
+      "to": "divine names",
+      "type": "variant_of"
+    },
+    {
+      "from": "Passion of Christ",
+      "to": "conjurations",
+      "type": "basis_for"
+    },
+    {
+      "from": "Crucifixion wounds (3999, 162, 58)",
+      "to": "conjurations",
+      "type": "quoted_in"
+    },
+    {
+      "from": "blood and water",
+      "to": "Passion",
+      "type": "result_of"
+    },
+    {
+      "from": "sweat like blood",
+      "to": "Passion",
+      "type": "miraculous_sign"
+    },
+    {
+      "from": "darkened sun/moon to blood",
+      "to": "Passion",
+      "type": "cosmic_sign"
+    }
+  ],
+  "summary": "This chunk details two necromantic experiments from the Munich Handbook (CLM 849) involving scrying into a boy’s anointed fingernail to reveal thieves and stolen goods. It includes extensive demon conjurations invoking Christological names, Passion motifs, angelic hierarchies, and ecclesiastical authorities. The rituals require protective circles, ritual tools (sword, knife, tripod stool), olive oil, and strict procedural steps. Named spirits include Astaroth, Belzebub, Berit, and multiple demonic entities with Greek-sounding names, alongside divine names like Tetragramaton and Alpha et O.",
+  "key_passages": [
+    "Vmon, Progemon, Mithiomo, Pist, Vralchim, Althes, Panite, Fabar, Thobar, Cormes, Felsmes, Diles, Dilia, Dies, Onaris, coniuro vos demones prenominatos...",
+    "Coniuro vos, principes omnium demoniorum, Astaroth, Belzebub, Berit, Fornicator, Temptator, et Seductor, Possessor hominum, Natheus, Molbet.",
+    "Per ista lxxija nomina Christi precipio vobis vt michi sitis obedientes et isto puero virgineo...",
+    "Accipe puerum virginem de legittimo thoro, et fac 3es circulos.",
+    "Hec sunt nomina que scribi debent: in nomine Progeneri, Mutimo, Possunt, Thomopest, Vtany, Votanes..."
+  ]
+}

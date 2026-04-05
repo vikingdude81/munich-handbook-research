@@ -1,0 +1,428 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 28,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Lilith",
+      "type": "spirit",
+      "attributes": {
+        "role": "female demoness; associated with mirror ritual"
+      },
+      "page_ref": "42r–43r (No. 23)",
+      "raw_quote": "Hoc est primum speculum Lilit et suorum virorum suorumque militum seniorum."
+    },
+    {
+      "name": "Lylet",
+      "type": "spirit",
+      "attributes": {
+        "variant_spelling": [
+          "Bylet"
+        ],
+        "role": "demon conjured via mirror; claims connection to Nocma and Arieth"
+      },
+      "page_ref": "42r–43r (No. 23)",
+      "raw_quote": "Coniuro te, Lylet, ac socios tuos... vt in quacumque hora te vocauero, in hoc speculo michi appareas cum tuis sociis..."
+    },
+    {
+      "name": "Nocma",
+      "type": "spirit",
+      "attributes": {
+        "role": "mother of Lylet; referenced in conjuration"
+      },
+      "page_ref": "42v (No. 23)",
+      "raw_quote": "...per illud sacramentum quod tu Nocma matri tue fecisti verbo..."
+    },
+    {
+      "name": "Arieth",
+      "type": "spirit",
+      "attributes": {
+        "role": "father of Lylet; invoked in conjuration"
+      },
+      "page_ref": "42v (No. 23)",
+      "raw_quote": "...per honorem patris tui Arieth..."
+    },
+    {
+      "name": "speculum calibeum limpidum et politum",
+      "type": "tool",
+      "attributes": {
+        "material": "polished metal mirror; made on Thursday or Friday of crescent moon"
+      },
+      "page_ref": "280–281 (No. 20)",
+      "raw_quote": "...habeas tecum speculum calibeum limpidum et politum, factum luna 4a uel 7a vel xiija.a..."
+    },
+    {
+      "name": "cristallus",
+      "type": "tool",
+      "attributes": {
+        "preparation": "washed with wine; inscribed with divine names in olive oil"
+      },
+      "page_ref": "43r–44r (No. 24, 25)",
+      "raw_quote": "Si vis scire de omni re de qua dubitaueris, accipe puerum virginem et cristallum, quem laua cum vino."
+    },
+    {
+      "name": "cultellus de Venere factus",
+      "type": "tool",
+      "attributes": {
+        "material": "iron made on Friday (Venus day)"
+      },
+      "page_ref": "281 (No. 20), 282 (No. 21)",
+      "raw_quote": "...abscide cor cum cultello qui sit de Venere facto..."
+    },
+    {
+      "name": "Onel, On, Adonay, Emanuel",
+      "type": "spiritual_name",
+      "attributes": {
+        "usage": "inscribed on ritual tools; part of protective/invocatory formulae"
+      },
+      "page_ref": "283 (No. 22), 41r",
+      "raw_quote": "Onel, On, Adonay, Emanuel, sanctus deus fortis..."
+    },
+    {
+      "name": "Basyon",
+      "type": "spiritual_name",
+      "attributes": {
+        "role": "divine name invoked in binding pueri"
+      },
+      "page_ref": "45r (No. 27-A)",
+      "raw_quote": "Coniuro te, virgo iuuenis, per deum verum Basyon..."
+    },
+    {
+      "name": "Ioth, Nabnoth",
+      "type": "spiritual_name",
+      "attributes": {
+        "role": "binding names used to constrain demons; referenced as Salomon’s vessel-binding formulae"
+      },
+      "page_ref": "45r (No. 27-A)",
+      "raw_quote": "...per hec duo nomina: Ioth [et] Nabnoth, per que Salomon constringebat in vase vitreo demones."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spiritual_name",
+      "attributes": {
+        "role": "central divine name; appears repeatedly across rituals"
+      },
+      "page_ref": "45r, 46v–47r (No. 27-A, 27-C)",
+      "raw_quote": "...per hoc nomen domini: Tetragramaton..."
+    },
+    {
+      "name": "Ely, Eloy, Eloe",
+      "type": "spiritual_name",
+      "attributes": {
+        "role": "divine names invoked in binding and consecration rites"
+      },
+      "page_ref": "45r, 47r (No. 27-A, 27-C)",
+      "raw_quote": "...per hec sacratissima nomina: Ely, Eloy, Messyas, Sother, Emanuel, Sabaoth, Adonay..."
+    },
+    {
+      "name": "EmanuEl",
+      "type": "spiritual_name",
+      "attributes": {
+        "variant_spelling": [
+          "Emanuel",
+          "EmanuEl"
+        ]
+      },
+      "page_ref": "280–291 (multiple)",
+      "raw_quote": "...Christus, Deus fortis, Emanuel..."
+    },
+    {
+      "name": "Alpha et O",
+      "type": "spiritual_name",
+      "attributes": {
+        "role": "apocalyptic divine title; used in nearly all conjurations"
+      },
+      "page_ref": "280–47r (repeatedly)",
+      "raw_quote": "Tu qui es deus, Alpha et O, fac hoc speculum crescere et clarescere..."
+    },
+    {
+      "name": "Balbieit, Zelans, Zelles, Dimedero, Cadar",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "demonic names invoked in Lilith mirror ritual"
+      },
+      "page_ref": "42v (No. 23)",
+      "raw_quote": "...Christus  vincit ipsum  Balbieit  Zelans, Zelles, Dimedero, Cadar..."
+    },
+    {
+      "name": "Dedeon",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "invoked in crystal scrying; possibly angelic"
+      },
+      "page_ref": "43v (No. 24)",
+      "raw_quote": "Coniuro vos in nomine Dedeon, et dij Egarias et Semisonay..."
+    },
+    {
+      "name": "Bessabes",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "invoked to bind angels to crystal"
+      },
+      "page_ref": "43v (No. 25)",
+      "raw_quote": "Coniuro vos in nomine Bessabes, et Hint, et Serem..."
+    },
+    {
+      "name": "Egippia, Benoham, Beanke",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "list of 25 names inscribed on pueri’s fingernail in No. 27-A"
+      },
+      "page_ref": "44v–45r (No. 27-A)",
+      "raw_quote": "...Egippia, Benoham, Beanke (vel Beanre), Reranressym..."
+    },
+    {
+      "name": "Discobermath",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "demonic name invoked in final binding incantation"
+      },
+      "page_ref": "45r (No. 27-A)",
+      "raw_quote": "...aperite nobis, Discobermath, Archidemath, Fritath..."
+    },
+    {
+      "name": "Neyilon",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "demon invoked in Pluto’s Key ritual"
+      },
+      "page_ref": "44v (No. 26)",
+      "raw_quote": "O spiritus Neyilon [et] Achalas, accipite sacrificium..."
+    },
+    {
+      "name": "Pluto",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal ruler; key named after him"
+      },
+      "page_ref": "44v (No. 26)",
+      "raw_quote": "No. 26. Key of Pluto, to open all locks..."
+    },
+    {
+      "name": "serraginem",
+      "type": "tool",
+      "attributes": {
+        "material": "steel blade; cleansed内外"
+      },
+      "page_ref": "283 (No. 22)",
+      "raw_quote": "...accipietc magister serraginem bene mundatam intus et extra..."
+    },
+    {
+      "name": "corrigia ovina",
+      "type": "ingredient/tool",
+      "attributes": {
+        "usage": "bound around pueri’s finger with written names"
+      },
+      "page_ref": "45r (No. 27-A)",
+      "raw_quote": "...liga corrigiam ouinam, quam ad tres missas quas perfecte audiuisti tecum habuisti..."
+    },
+    {
+      "name": "cattus niger",
+      "type": "ingredient",
+      "attributes": {
+        "birth_month": "March; used for invisibility ritual"
+      },
+      "page_ref": "281 (No. 21)",
+      "raw_quote": "Studeas invenire vnam cattam nigram, natam in mense Martij..."
+    },
+    {
+      "name": "elyotropia",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "herb used to fill eye sockets of black cat for invisibility"
+      },
+      "page_ref": "281 (No. 21)",
+      "raw_quote": "...et impleb foramina oculorum semine cuiusdam herbe que elyotropia dicitur..."
+    },
+    {
+      "name": "sanguis humanus",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "mixed with water to irrigate white herb in invisibility ritual"
+      },
+      "page_ref": "281 (No. 21)",
+      "raw_quote": "...rigad cum sangwine humano et aqua commistis..."
+    },
+    {
+      "name": "cera virginea",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "to embed crystal in No. 25"
+      },
+      "page_ref": "44r (No. 25)",
+      "raw_quote": "...quem in cera reconde ex una parte virginea."
+    },
+    {
+      "name": "oleum olivae",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "used to inscribe divine names on crystal or mirror"
+      },
+      "page_ref": "43v, 44r (No. 24, 25)",
+      "raw_quote": "...scribe in illo cum oleo oliue hec nomina..."
+    },
+    {
+      "name": "fenestrata circulus",
+      "type": "ritual_structure",
+      "attributes": {
+        "description": "ritual circle drawn on ground for scrying rituals"
+      },
+      "page_ref": "283 (No. 22), 41r",
+      "raw_quote": "...facias circulum in terra..."
+    },
+    {
+      "name": "figurae Salomonis",
+      "type": "ritual_structure",
+      "attributes": {
+        "description": "pentagrams or hexagrams used for protection and binding"
+      },
+      "page_ref": "42v (No. 23), 45r (No. 27-A)",
+      "raw_quote": "...circumdetur... sigillum Salomonis..."
+    },
+    {
+      "name": "quadriuium",
+      "type": "location",
+      "attributes": {
+        "role": "ritual site for burying tools/spirits; crossroads"
+      },
+      "page_ref": "42v, 44v (No. 23, 26)",
+      "raw_quote": "...defer ad quadriuium vel ad sepulc[r]um..."
+    },
+    {
+      "name": "sepulcrum hominis interfecti",
+      "type": "location",
+      "attributes": {
+        "role": "ritual site for Lilith mirror; burial place of murdered man"
+      },
+      "page_ref": "42v (No. 23)",
+      "raw_quote": "...vel ad sepulc[r]um alicuius hominis interfecti..."
+    },
+    {
+      "name": "puer puellaque virgines",
+      "type": "ritual_agent",
+      "attributes": {
+        "role": "child seers used in scrying; must be chaste and legitimate-born"
+      },
+      "page_ref": "283 (No. 22), 43r, 44v–45r (multiple)",
+      "raw_quote": "Habeas puerum uel puellam virginem..."
+    },
+    {
+      "name": "magister",
+      "type": "ritual_agent",
+      "attributes": {
+        "role": "ritualist; conjures spirits, interrogates pueri"
+      },
+      "page_ref": "280–47r (repeatedly)",
+      "raw_quote": "Magister inspiciat in speculo et videbit militem armatum..."
+    },
+    {
+      "name": "Clm 849",
+      "type": "manuscript_reference",
+      "attributes": {
+        "role": "Munich codex; source of the rituals"
+      },
+      "page_ref": "implied by Kieckhefer’s reference to CLM 849 in title",
+      "raw_quote": "[No direct quote, but context confirms this is from Munich, Bayerische Staatsbibliothek, CLM 849]"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Lilith",
+      "to": "Lylet",
+      "type": "variant_spelling"
+    },
+    {
+      "from": "Lylet",
+      "to": "Nocma",
+      "type": "offspring_parent"
+    },
+    {
+      "from": "Lylet",
+      "to": "Arieth",
+      "type": "offspring_parent"
+    },
+    {
+      "from": "Lylet",
+      "to": "Balbieit",
+      "type": "commanded_by"
+    },
+    {
+      "from": "Lylet",
+      "to": "Zelans",
+      "type": "commanded_by"
+    },
+    {
+      "from": "Lylet",
+      "to": "Zelles",
+      "type": "commanded_by"
+    },
+    {
+      "from": "Lylet",
+      "to": "Dimedero",
+      "type": "commanded_by"
+    },
+    {
+      "from": "Lylet",
+      "to": "Cadar",
+      "type": "commanded_by"
+    },
+    {
+      "from": "speculum calibeum",
+      "to": "Lilith ritual",
+      "type": "instrument_of"
+    },
+    {
+      "from": "cristallus",
+      "to": "Dedeon",
+      "type": "invoked_in"
+    },
+    {
+      "from": "serraginem",
+      "to": "Onel, On, Adonay, Emanuel",
+      "type": "inscribed_with"
+    },
+    {
+      "from": "puer puellaque virgines",
+      "to": "scrying rituals",
+      "type": "agent_of"
+    },
+    {
+      "from": "magister",
+      "to": "conjuration formulae",
+      "type": "reciter_of"
+    },
+    {
+      "from": "Ioth",
+      "to": "Nabnoth",
+      "type": "paired_binding_names"
+    },
+    {
+      "from": "Tetragramaton",
+      "to": "Ely, Eloy, Eloe",
+      "type": "hierarchy_of_divine_names"
+    },
+    {
+      "from": "Alpha et O",
+      "to": "all conjurations",
+      "type": "common_invocation"
+    },
+    {
+      "from": "quadriuium",
+      "to": "Pluto’s key ritual",
+      "type": "ritual_site_for"
+    },
+    {
+      "from": "sepulcrum hominis interfecti",
+      "to": "Lilith mirror ritual",
+      "type": "ritual_site_for"
+    }
+  ],
+  "summary": "This chunk contains detailed excerpts from the Munich Handbook (CLM 849), focusing on spirit conjuration via scrying tools—especially mirrors and crystals—and child mediums. It includes rituals for invisibility, theft detection, and infernal communication, with prominent invocation of divine names (e.g., Tetragramaton, Alpha et O) and demonic hierarchies (Lilith/Lylet). Rituals require specific timing (crescent moon, Friday), ritual purity, and protective circles. Connections to Salomonic tradition are evident in sigils and binding formulas.",
+  "key_passages": [
+    "Coniuro te, Lylet, ac socios tuos, per Alpha et O, per primum et nouissimum... vt in quacumque hora te vocauero, in hoc speculo michi appareas cum tuis sociis...",
+    "Magister inspiciat in speculo et videbit militem armatum in equo sedentem et armigerum suum commitantem secum.",
+    "Si vis scire de omni re de qua dubitaueris, accipe puerum virginem et cristallum, quem laua cum vino.",
+    "Coniuro te, virgo iuuenis, per deum verum Basyon, et per nomen On, Berion, Sabaoth, Adonay...",
+    "Hoc est primum speculum Lilit et suorum virorum suorumque militum seniorum."
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 20,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual",
+      "attributes": {
+        "description": "Medieval necromantic manual containing spirit lists and conjurations"
+      },
+      "page_ref": "pp. 190–201",
+      "raw_quote": "The most sustained discussion of demons in the Munich manual is an extended list which names and describes eleven spirits (no. 34)."
+    },
+    {
+      "name": "Oriens",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "title": "rex Orientis / altissimus et benignissime rex",
+        "function": "reveals hidden matters, commands legions"
+      },
+      "page_ref": "p. 192–193, 196",
+      "raw_quote": "Oriens (or rex Orientis) (altissimus et benignissimus rex, no. 4; benign[issim]e, no. 41)"
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum",
+        "variant_names": [
+          "Astoroth",
+          "Astarotht"
+        ],
+        "page_refs": "pp. 193–194"
+      },
+      "page_ref": "p. 193",
+      "raw_quote": "Astaroth (or Astoroth or Astarotht) (demon malignus, no. 2; no. 12; no. 33; princeps demoniorum, no. 38)"
+    },
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "rank": "inicialis princeps",
+        "page_refs": "p. 193"
+      },
+      "page_ref": "p. 193",
+      "raw_quote": "Belial (inicialis princeps, no. 12)"
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum",
+        "titles": [
+          "fornicator, temptator, et seductor, possessor hominum"
+        ],
+        "page_refs": "pp. 192–194"
+      },
+      "page_ref": "p. 193",
+      "raw_quote": "Berith (or Berit) (no. 1; spiritus potens, magnificus, et illustris, no. 11; princeps demoniorum, fornicator, temptator, et seductor, possessor hominum, no. 38)"
+    },
+    {
+      "name": "Belzebub",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum",
+        "variant_names": [
+          "Belzebuc"
+        ],
+        "page_refs": "p. 193"
+      },
+      "page_ref": "p. 193",
+      "raw_quote": "Belzebub (or Belzebuc?) (no. 1; princeps demoniorum, no. 38)"
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps",
+        "page_refs": "p. 196"
+      },
+      "page_ref": "p. 196",
+      "raw_quote": "Lucifer (no. 1)"
+    },
+    {
+      "name": "Satan / Sathan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon [from cardinal direction]",
+        "variant_names": [
+          "Sathan"
+        ],
+        "page_refs": "p. 196"
+      },
+      "page_ref": "p. 196",
+      "raw_quote": "Satan (no. 1; demon [from cardinal direction], no. 27)"
+    },
+    {
+      "name": "Hanni",
+      "type": "spirit",
+      "attributes": {
+        "appearance": "fiery flame or human form",
+        "page_refs": "p. 191"
+      },
+      "page_ref": "p. 191",
+      "raw_quote": "Hanni comes in a fiery flame, but also takes human form."
+    },
+    {
+      "name": "Curson",
+      "type": "spirit",
+      "attributes": {
+        "appearance": "human and aerial body",
+        "function": "reveals divine and hidden matters, even regarding divinity and creation"
+      },
+      "page_ref": "p. 191",
+      "raw_quote": "Curson is said readily to assume a human and aerial body; presumably the others as well take on aerial bodies when they come visibly."
+    },
+    {
+      "name": "Bartha",
+      "type": "spirit",
+      "attributes": {
+        "rank": "rex",
+        "page_refs": "p. 195"
+      },
+      "page_ref": "p. 195",
+      "raw_quote": "Bartha (or Bartham?) (rex, no. 15)"
+    },
+    {
+      "name": "Baltim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "dux",
+        "page_refs": "p. 194"
+      },
+      "page_ref": "p. 194",
+      "raw_quote": "Baltim (or Balthym? or Balthim or Baltym) (dux, no. 15)"
+    },
+    {
+      "name": "Saltim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "dux",
+        "page_refs": "p. 196"
+      },
+      "page_ref": "p. 196",
+      "raw_quote": "Saltim (dux, no. 15)"
+    },
+    {
+      "name": "Galtim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "dux",
+        "variant_names": [
+          "Galtym",
+          "Galtyra"
+        ],
+        "page_refs": "p. 195"
+      },
+      "page_ref": "p. 195",
+      "raw_quote": "Galtim (or Galtym? or Galtyra?) (dux, no. 15)"
+    },
+    {
+      "name": "Lytim",
+      "type": "spirit",
+      "attributes": {
+        "subordinates": [
+          "Andyron",
+          "Baruth",
+          "Lylet",
+          "Vzmyas",
+          "Ygrim",
+          "Ytelteos",
+          "Zymens"
+        ],
+        "page_refs": "p. 194"
+      },
+      "page_ref": "p. 194",
+      "raw_quote": "Lytim (demon, no. 39)"
+    },
+    {
+      "name": "Le livre des esperitz",
+      "type": "ritual",
+      "attributes": {
+        "date": "15th c.",
+        "manuscript": "Trinity College, Cambridge, MS 0.8.29",
+        "content": "lists forty-seven spirits with functions"
+      },
+      "page_ref": "p. 192",
+      "raw_quote": "Identical in form but independent in content is the list contained in Le livre des esperitz found in a fifteenth-century French manuscript (Trinity College, Cambridge, MS 0.8.29)."
+    },
+    {
+      "name": "Bezlebuth",
+      "type": "spirit",
+      "attributes": {
+        "function": "reveals all secrets of hell",
+        "page_refs": "p. 192"
+      },
+      "page_ref": "p. 192",
+      "raw_quote": "The service Bezlebuth performs, which would have endeared him to Faustus, is to reveal all the secrets of hell."
+    },
+    {
+      "name": "Asmoday",
+      "type": "spirit",
+      "attributes": {
+        "rank": "great king",
+        "functions": [
+          "furnishes a ring of virtues",
+          "teaches mathematics",
+          "answers questions truly",
+          "makes invisible",
+          "reveals hidden treasure"
+        ],
+        "page_refs": "p. 192"
+      },
+      "page_ref": "p. 192",
+      "raw_quote": "...including Asmoday (a great king with three heads, who furnishes a ring of virtues, teaches mathematics, answers questions truly, makes a person invisible, reveals hidden treasure..."
+    },
+    {
+      "name": "Testament of Solomon",
+      "type": "concept",
+      "attributes": {
+        "influence": "source for demon catalogues",
+        "page_refs": "p. 192"
+      },
+      "page_ref": "p. 192",
+      "raw_quote": "These catalogues were especially common in the treatises and grimoires of the early modern era... but the basic idea can be traced to medieval sources."
+    },
+    {
+      "name": "Pseudomonarchia daemonum",
+      "type": "concept",
+      "attributes": {
+        "author": "Johannes Weyer",
+        "spirits_count": "sixty-nine demons with offices and functions"
+      },
+      "page_ref": "p. 192",
+      "raw_quote": "...(Johannes Weyer’s Pseudomonarchia daemonum lists sixty-nine demons with their offices and functions)"
+    },
+    {
+      "name": "Lemegeton",
+      "type": "concept",
+      "attributes": {
+        "spirits_count": "seventy-two demons",
+        "page_refs": "p. 192"
+      },
+      "page_ref": "p. 192",
+      "raw_quote": "The Lemegeton lists seventy-two demons with their functions, including Asmoday..."
+    },
+    {
+      "name": "Liber officiorum",
+      "type": "concept",
+      "attributes": {
+        "content": "catalogues four emperors and various kings, dukes, marquises, and counts"
+      },
+      "page_ref": "p. 192",
+      "raw_quote": "Trithemius speaks of a Liber officiorum that catalogues four emperors and various kings, duces, marquises, and counts."
+    },
+    {
+      "name": "Rawlinson MS",
+      "type": "ritual",
+      "attributes": {
+        "content": "contains instructions for striking spirits outside circle",
+        "page_refs": "p. 190"
+      },
+      "page_ref": "p. 190",
+      "raw_quote": "The Rawlinson manuscript says at one juncture that if the spirit refuses to withdraw, the master should trace a circle with the point of his sword and then ‘strike’ the spirit who is left standing outside the circle."
+    },
+    {
+      "name": "Tobit (Book of Tobias)",
+      "type": "concept",
+      "attributes": {
+        "status": "non-canonical in Protestant tradition",
+        "function": "demon expelling via fish liver fumigation"
+      },
+      "page_ref": "p. 190",
+      "raw_quote": "When Tobias placed a fish’s liver on coals, demons were expelled (Tob 6) – but the book of Tobias is not canonical..."
+    },
+    {
+      "name": "Roger Bacon (necromantic treatise ascribed to)",
+      "type": "concept",
+      "attributes": {
+        "warning": "demons try to frighten magicians with illusions, hissing, and terrifying shapes"
+      },
+      "page_ref": "p. 190–191",
+      "raw_quote": "...the treatise on necromancy ascribed to Roger Bacon warns that demons will try to frighten the magician with illusions..."
+    },
+    {
+      "name": "Paris theologians (1398)",
+      "type": "concept",
+      "attributes": {
+        "condemned": "belief that demons can be coerced by magical arts"
+      },
+      "page_ref": "p. 189–190",
+      "raw_quote": "...the theologians at the University of Paris had in 1398 condemned the belief that... demons are compelled to speak truthfully."
+    },
+    {
+      "name": "Charlemagne’s Admonitio generalis (789)",
+      "type": "concept",
+      "attributes": {
+        "condemns": "invocation of unknown angels"
+      },
+      "page_ref": "p. 189",
+      "raw_quote": "In 789, Charlemagne’s Admonitio generalis condemned the invocation of ‘unknown angels’, presumably for the same reason."
+    },
+    {
+      "name": "Johann von Frankfurt",
+      "type": "person",
+      "attributes": {
+        "era": "early 15th c.",
+        "view": "demons cannot be coerced; they come fraudulently, not by compulsion"
+      },
+      "page_ref": "p. 189",
+      "raw_quote": "Johann von Frankfurt noted in the early fifteenth century that Plato distinguished between good daimons (calodemones) and evil (cacodemones), but for scriptural and dogmatic reasons he rejects this distinction..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Munich Handbook (CLM 849)",
+      "to": "Le livre des esperitz",
+      "type": "influences"
+    },
+    {
+      "from": "Testament of Solomon",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "source_of_concept"
+    },
+    {
+      "from": "Testament of Solomon",
+      "to": "Pseudomonarchia daemonum",
+      "type": "source_of_concept"
+    },
+    {
+      "from": "Liber officiorum",
+      "to": "Lemegeton",
+      "type": "influences"
+    },
+    {
+      "from": "Roger Bacon (necromantic treatise ascribed to)",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "parallel_tradition"
+    },
+    {
+      "from": "Paris theologians (1398)",
+      "to": "Johann von Frankfurt",
+      "type": "intellectual_context"
+    },
+    {
+      "from": "Charlemagne’s Admonitio generalis (789)",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "historical_precedent"
+    }
+  ],
+  "summary": "This chunk details the demonology of the Munich Handbook (CLM 849), especially its list of eleven named spirits with ranks, appearances, and functions. It compares these to similar lists in Le livre des esperitz and later grimoires like Pseudomonarchia daemonum and Lemegeton, tracing roots to Testament of Solomon. The text also discusses medieval theological debates over demonic coercion, corporeality, and appearance—especially the insistence that demons cannot be compelled but come fraudulently—and references key figures like Johann von Frankfurt and institutions like the Paris theologians (1398).",
+  "key_passages": [
+    "The most sustained discussion of demons in the Munich manual is an extended list which names and describes eleven spirits (no. 34). Each has a rank: marquis, ‘president’ (preses), count, duke, prince or king.",
+    "They may be able to take on any appearance they wish, conceivably even that of a famed beauty such as Helen of Troy... but it seems to have been agreed that their most natural shape is terrifying.",
+    "Johann von Frankfurt noted in the early fifteenth century... He insists that demons cannot be coerced: they are free agents, with intellect and will, and cannot be bound by human actions...",
+    "The service Bezlebuth performs, which would have endeared him to Faustus, is to reveal all the secrets of hell.",
+    "Identical in form but independent in content is the list contained in Le livre des esperitz found in a fifteenth-century French manuscript (Trinity College, Cambridge, MS 0.8.29)."
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 18,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Buddha",
+      "type": "person",
+      "attributes": {
+        "role": "recipient of five holy scriptures",
+        "tradition": "Cushite origin"
+      },
+      "page_ref": "p. 149",
+      "raw_quote": "the tradition of the original Buddha is that he received 'five holy Scriptures which gave knowledge of retrospection and ability of accomplishing the desires of the heart'"
+    },
+    {
+      "name": "Hermes",
+      "type": "person",
+      "attributes": {
+        "title": "Trismegistus",
+        "tradition": "Hermetic wisdom"
+      },
+      "page_ref": "p. 149, 152–153",
+      "raw_quote": "Augustine quotes Hermes Trismegistus as stating 'that visible and tangible images... are... the bodies of the gods, and that there dwell in them certain spirits'"
+    },
+    {
+      "name": "daimonia",
+      "type": "spirit",
+      "attributes": {
+        "synonyms": [
+          "demons",
+          "evil spirits"
+        ],
+        "function": "gods of pagans, agents of necromancy"
+      },
+      "page_ref": "p. 152–154",
+      "raw_quote": "spirits... who had become their gods... afterwards was used to denote any supernatural being... as in the case of Socrates"
+    },
+    {
+      "name": "Pythoness",
+      "type": "spirit-medium",
+      "attributes": {
+        "role": "oracle at Delphi",
+        "mechanism": "vapour-induced frenzy"
+      },
+      "page_ref": "p. 152–153",
+      "raw_quote": "the priestess... sat on a tripod over a chasm whence proceeded a peculiar vapour which threw her into a frenzy"
+    },
+    {
+      "name": "spirit of divination (Python)",
+      "type": "spirit",
+      "attributes": {
+        "scriptural reference": "Acts 16:16–18"
+      },
+      "page_ref": "p. 153",
+      "raw_quote": "the damsel possessed of 'a spirit of divination,' literally 'a spirit of Python,' which was cast out by Paul"
+    },
+    {
+      "name": "Canaanite nations’ religion",
+      "type": "ritual tradition",
+      "attributes": {
+        "practitioners": "magicians, wizards, necromancers",
+        "scriptural condemnation": "Lev. xvii.7; Deut. xxxii.17"
+      },
+      "page_ref": "p. 152–153",
+      "raw_quote": "the magicians, wizards, necromancers, diviners, sorcerers, enchanters and persons with familiar spirits who were the priesthood of the Canaanitish nations"
+    },
+    {
+      "name": "temple sleep (incubation)",
+      "type": "ritual procedure",
+      "attributes": {
+        "practices": [
+          "fasting 24h",
+          "abstaining from wine 3 days",
+          "sleep on sacrificial skin"
+        ]
+      },
+      "page_ref": "p. 198–199",
+      "raw_quote": "they had to fast for twenty-four hours, and abstain from wine for three days, after which they went to sleep in the temple lying upon the skin of one of the sacrificial victims"
+    },
+    {
+      "name": "Themnanteis",
+      "type": "ritual specialist",
+      "attributes": {
+        "function": "prophetic diviners not requiring trance"
+      },
+      "page_ref": "p. 198",
+      "raw_quote": "Other diviners called 'Themnanteis,' who did not require to be mesmerised, but were free and unconfined"
+    },
+    {
+      "name": "Theomanteis",
+      "type": "ritual specialist",
+      "attributes": {
+        "subtypes": [
+          "daimono-leeptoi",
+          "enthousiastai",
+          "Ekstatikoi"
+        ]
+      },
+      "page_ref": "p. 198–199",
+      "raw_quote": "One sort of the Theomanteis... were possessed with prophesying demons... called 'daimono-leeptoi,' 'possessed with demons.'"
+    },
+    {
+      "name": "laurel leaves",
+      "type": "ingredient",
+      "attributes": {
+        "ritual use": "prophetic frenzy"
+      },
+      "page_ref": "p. 198",
+      "raw_quote": "Some used to eat the leaves of the laurel, which was thought to conduce to this state, from which it was called 'the prophetic plant.'"
+    },
+    {
+      "name": "Cyprian of Carthage",
+      "type": "person",
+      "attributes": {
+        "role": "early Church Father",
+        "work": "on 'The Vanity of Idols'"
+      },
+      "page_ref": "p. 197",
+      "raw_quote": "These spirits lurk under the statues and consecrated images... they disturb their life, they disquiet their slumbers"
+    },
+    {
+      "name": "Clement of Alexandria",
+      "type": "person",
+      "attributes": {
+        "role": "early Church Father",
+        "focus": "demoniac knowledge"
+      },
+      "page_ref": "p. 197",
+      "raw_quote": "It is evident, since they are demoniac spirits, that they know some things both more quickly and more perfectly (than men)"
+    },
+    {
+      "name": "Isis at Busiris",
+      "type": "location|deity",
+      "attributes": {
+        "ritual context": "temple healing"
+      },
+      "page_ref": "p. 198",
+      "raw_quote": "In the temple of Isis at Busiris the goddess herself... appeared to the sleeper and prescribed remedies"
+    },
+    {
+      "name": "Beelzebub",
+      "type": "spirit",
+      "attributes": {
+        "title": "Prince of demons",
+        "scriptural link": "Matt. xii.24–28"
+      },
+      "page_ref": "p. 196–197",
+      "raw_quote": "Satan himself, 'the Prince of the power of the air' (Matt.xii. 24-28)"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Buddha",
+      "to": "five holy Scriptures",
+      "type": "reveals"
+    },
+    {
+      "from": "Hermes Trismegistus",
+      "to": "idols",
+      "type": "inhabited by spirits"
+    },
+    {
+      "from": "daimonia",
+      "to": "Canaanite gods",
+      "type": "synonymous with"
+    },
+    {
+      "from": "Pythoness",
+      "to": "spirit of Python",
+      "type": "possessed by"
+    },
+    {
+      "from": "temple sleep",
+      "to": "Isis at Busiris",
+      "type": "ritual context for"
+    },
+    {
+      "from": "Cyprian of Carthage",
+      "to": "daimonia",
+      "type": "describes activity of"
+    },
+    {
+      "from": "Theomanteis",
+      "to": "daimono-leeptoi",
+      "type": "category includes"
+    },
+    {
+      "from": "Beelzebub",
+      "to": "Satan",
+      "type": "identified with"
+    }
+  ],
+  "summary": "This chunk explores the intersection of ancient wisdom traditions (Buddhism, Hermeticism), spirit invocation practices, and early Christian critiques of pagan necromancy. It argues that the 'powers' claimed by Buddha and Hermes—retrospection, desire-fulfillment, incantatory efficacy—rely on interaction with spirits (daimonia), identified in Christian theology as demons or fallen angels. Rituals such as temple sleep, oracle consultation, and spirit possession are analyzed as mechanisms for accessing supernatural agency, especially in healing and divination contexts.",
+  "key_passages": [
+    "Augustine quotes Hermes Trismegistus as stating 'that visible and tangible images... are... the bodies of the gods, and that there dwell in them certain spirits which have been invited to come in them, and which have power to inflict harm, or to fulfil the desires of those by whom divine honours and services are rendered to them.'",
+    "It is clear also that the spirits primarily invoked by Hermes or Buddha... were not those of the persons afterwards worshipped as gods... If not, they must have been simply the same daimonia as those mentioned in the New Testament, namely, spirits of evil who produced in those they possessed various forms of disease or insanity",
+    "The human originals of the Pagan gods were, at the most, three individuals... but what the people generally worshipped were certain beings clothed with certain characteristics, powers and attributes, whose spirits were supposed to inhabit certain images, shrines, temples or other places, and these... were devils, i.e., 'daimonia,' or evil spirits",
+    "These spirits lurk under the statues and consecrated images. These inspire the breasts of their prophets with their afflatus, animate the fibres of the entrails, direct the flight of birds, rule the lots, give efficiency to oracles...",
+    "The same symptoms occurred in the case of the Pythoness of the Delphic Oracle, and as it is clear, from the notice in the Acts, that this was due to possession by a demon, we may conclude that the Theomanteis were similarly possessed."
+  ]
+}

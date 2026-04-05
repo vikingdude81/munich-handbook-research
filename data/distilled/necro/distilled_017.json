@@ -1,0 +1,203 @@
+{
+  "source_id": "necro",
+  "chunk_id": 17,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Lylet",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "role": "named demon conjured with unnamed companions"
+      },
+      "raw_quote": "one conjuration addresses the demon Lylet along with her companions (socii), who remain unnamed."
+    },
+    {
+      "name": "Toth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "prince of demons",
+        "role": "mentioned as ruler invoking power over other demons"
+      },
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel..."
+    },
+    {
+      "name": "Zambrim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demonic ruler"
+      },
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim..."
+    },
+    {
+      "name": "Mambrim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demonic ruler"
+      },
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim..."
+    },
+    {
+      "name": "Vsuel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demonic ruler"
+      },
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel..."
+    },
+    {
+      "name": "Saduel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demonic ruler"
+      },
+      "raw_quote": "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel..."
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "prince/master demon"
+      },
+      "raw_quote": "by your master Astaroth"
+    },
+    {
+      "name": "Oriens",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon with subordinate spirits, kings, and dignities"
+      },
+      "raw_quote": "When Oriens is conjured, the invocations refer to his own dignities and subordinate spirits: 'by your kings, and by all your royal powers; by Sotuem [and] Sortfen...'"
+    },
+    {
+      "name": "Sotuem",
+      "type": "spirit",
+      "attributes": {
+        "rank": "subordinate spirit under Oriens"
+      },
+      "raw_quote": "by Sotuem [and] Sortfen"
+    },
+    {
+      "name": "Sortfen",
+      "type": "spirit",
+      "attributes": {
+        "rank": "subordinate spirit under Oriens"
+      },
+      "raw_quote": "by Sotuem [and] Sortfen"
+    },
+    {
+      "name": "Apollon",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name invoked for power"
+      },
+      "raw_quote": "one invokes the demonic names Apolyn, Gebel, Astaroth..."
+    },
+    {
+      "name": "Gebel",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name invoked for power"
+      },
+      "raw_quote": "one invokes the demonic names Apolyn, Gebel, Astaroth..."
+    },
+    {
+      "name": "Tereol",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name invoked for power"
+      },
+      "raw_quote": "one invokes the demonic names Apolyn, Gebel, Astaroth, Tereol..."
+    },
+    {
+      "name": "Falmar",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name invoked for power"
+      },
+      "raw_quote": "one invokes the demonic names Apolyn, Gebel, Astaroth, Tereol, Falmar..."
+    },
+    {
+      "name": "Tyroces",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic name invoked for power"
+      },
+      "raw_quote": "one invokes the demonic names Apolyn, Gebel, Astaroth, Tereol, Falmar and Tyroces"
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "highest prince of demons"
+      },
+      "raw_quote": "by the power and dignity of Lucifer, Aphaleon and Neutrion"
+    },
+    {
+      "name": "Aphaleon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demonic ruler"
+      },
+      "raw_quote": "by the power and dignity of Lucifer, Aphaleon and Neutrion"
+    },
+    {
+      "name": "Neutrion",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demonic ruler"
+      },
+      "raw_quote": "by the power and dignity of Lucifer, Aphaleon and Neutrion"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Toth",
+      "to": "Zambrim et Mambrim",
+      "type": "co-ruler"
+    },
+    {
+      "from": "Toth",
+      "to": "Vsuel",
+      "type": "ruler-over"
+    },
+    {
+      "from": "Toth",
+      "to": "Saduel",
+      "type": "ruler-over"
+    },
+    {
+      "from": "Astaroth",
+      "to": "Oriens",
+      "type": "superior-to"
+    },
+    {
+      "from": "Oriens",
+      "to": "Sotuem",
+      "type": "subordinate-under"
+    },
+    {
+      "from": "Oriens",
+      "to": "Sortfen",
+      "type": "subordinate-under"
+    },
+    {
+      "from": "Lucifer",
+      "to": "Aphaleon",
+      "type": "co-ruler"
+    },
+    {
+      "from": "Lucifer",
+      "to": "Neutrion",
+      "type": "co-ruler"
+    }
+  ],
+  "summary": "This chunk details the structure and content of conjurations in the Munich Handbook (CLM 849), especially focusing on invocations used to compel spirits. It catalogues nine categories of invocation—divine persons, sacred names, events in Christ’s life, saints, Virgin Mary, angels, material creation, Last Judgement, and demonic rulers—and lists numerous specific examples. Several named demons are mentioned (e.g., Lylet, Oriens, Toth, Astaroth), along with their ranks and subordinate spirits. The text also discusses how sacred names (Tetragrammaton, Adonay, El, etc.) function as magical keys to control spirits.",
+  "key_passages": [
+    "one conjuration addresses the demon Lylet along with her companions (socii), who remain unnamed.",
+    "by Toth, your prince; by Zambrim et Mambrim; by Vsuel [and] by Saduel, to whom you are held to obey and tell the truth",
+    "by your master Astaroth",
+    "When Oriens is conjured, the invocations refer to his own dignities and subordinate spirits: 'by your kings, and by all your royal powers; by Sotuem [and] Sortfen...'",
+    "one invokes the demonic names Apolyn, Gebel, Astaroth, Tereol, Falmar and Tyroces"
+  ]
+}

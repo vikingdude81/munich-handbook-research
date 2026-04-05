@@ -1,0 +1,232 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 8,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "spirit (unnamed horseman)",
+      "type": "spirit",
+      "attributes": {
+        "role": "messenger",
+        "appears": "on horseback from the east"
+      },
+      "page_ref": "82",
+      "raw_quote": "you will see toward the east someone coming on horseback, who, when he arrives at the circle, will say, ‘So-and-so’ – naming the names written above"
+    },
+    {
+      "name": "consecrated ring",
+      "type": "ritual",
+      "attributes": {
+        "function": "controls appearance of life/death",
+        "duration": "6 days per spirit"
+      },
+      "page_ref": "82",
+      "raw_quote": "You will take the ring, saying to him, ‘Thanks to you and to them.’ When you have said this, he will at once withdraw… place this ring on his finger, and he will appear to be a corpse"
+    },
+    {
+      "name": "white cloth",
+      "type": "ingredient",
+      "attributes": {
+        "use": "wrapping for the ring"
+      },
+      "page_ref": "82",
+      "raw_quote": "Keep this ring with you, wrapped in a sheet of white cloth."
+    },
+    {
+      "name": "hoopoe feather and blood",
+      "type": "ingredient",
+      "attributes": {
+        "use": "writing instrument for protective circle"
+      },
+      "page_ref": "83",
+      "raw_quote": "If you draw it on a Friday with the feather of a hoopoe and with its blood on a freshly prepared sheet of parchment"
+    },
+    {
+      "name": "double circular band with pentagram",
+      "type": "ritual",
+      "attributes": {
+        "structure": "concentric bands, pentagram inscribed",
+        "function": "protective/operational circle"
+      },
+      "page_ref": "83",
+      "raw_quote": "The figure shown for this experiment is a double circular band with a pentagram inscribed."
+    },
+    {
+      "name": "Lamair",
+      "type": "spirit",
+      "attributes": {
+        "role": "named spirit in circle inscription"
+      },
+      "page_ref": "85 (note 23)",
+      "raw_quote": "Masair, Lotobor, Tatomofon and Sirama in the innermost…"
+    },
+    {
+      "name": "Oymelor",
+      "type": "spirit",
+      "attributes": {
+        "role": "named spirit in circle inscription"
+      },
+      "page_ref": "85 (note 23)",
+      "raw_quote": "Oymelor, Symofos, Manoir and Faubair in the outermost band"
+    },
+    {
+      "name": "Demefin",
+      "type": "spirit",
+      "attributes": {
+        "role": "named spirit in circle inscription"
+      },
+      "page_ref": "85 (note 23)",
+      "raw_quote": "Demefin, Rodobayl, Tamafin and Abelutabel in the next"
+    },
+    {
+      "name": "Feremni",
+      "type": "spirit",
+      "attributes": {
+        "role": "named spirit",
+        "variant_forms": [
+          "Feremin",
+          "Feremim"
+        ]
+      },
+      "page_ref": "86 (note 38)",
+      "raw_quote": "The nomenclature is again variable: Lantrayth appears also as Lautrayth and Lutrayth, Feremni as Feremin and Feremim"
+    },
+    {
+      "name": "Oliromim",
+      "type": "spirit",
+      "attributes": {
+        "role": "named spirit",
+        "variant_forms": [
+          "Oliroomim"
+        ]
+      },
+      "page_ref": "86 (note 38)",
+      "raw_quote": "Oliromim as Oliroomim"
+    },
+    {
+      "name": "Antichrist",
+      "type": "concept",
+      "attributes": {
+        "theological_context": "illusionist resurrection",
+        "role": "theologized figure of deceptive miracle-working"
+      },
+      "page_ref": "83",
+      "raw_quote": "pretending to resurrect the dead was one specialty associated traditionally with Antichrist"
+    },
+    {
+      "name": "Honorius of Regensburg",
+      "type": "person",
+      "attributes": {
+        "role": "theologian",
+        "source": "Elucidarium"
+      },
+      "page_ref": "83",
+      "raw_quote": "Honorius of Regensburg in his Elucidarium had his disciple ask whether Antichrist will truly raise the dead"
+    },
+    {
+      "name": "Hildegard of Bingen",
+      "type": "person",
+      "attributes": {
+        "role": "mystic",
+        "source": "Scivias"
+      },
+      "page_ref": "83",
+      "raw_quote": "Hildegard of Bingen agreed that Antichrist’s miracle is an illusion"
+    },
+    {
+      "name": "Rawlinson MS D 252",
+      "type": "location",
+      "attributes": {
+        "role": "manuscript source",
+        "content": "conjuration of spirit in equine form"
+      },
+      "page_ref": "84 (note 1)",
+      "raw_quote": "Rawlinson MS D 252, fols 75v–76v"
+    },
+    {
+      "name": "spiritus equus",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirit in horse form",
+        "function": "transport and treasure-finding"
+      },
+      "page_ref": "84 (note 1)",
+      "raw_quote": "vocaui istos eosdem spiritus, et eundem spiritum ve[l] equum michi feci apportari"
+    },
+    {
+      "name": "Clm 849",
+      "type": "location",
+      "attributes": {
+        "role": "Munich manuscript",
+        "context": "necromantic experiments"
+      },
+      "page_ref": "multiple (e.g., 85 note 17)",
+      "raw_quote": "a warning against the sign of the cross outside the context of flight occurs also in Clm 849, no. 1"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "spirit (unnamed horseman)",
+      "to": "consecrated ring",
+      "type": "delivers"
+    },
+    {
+      "from": "hoopoe feather and blood",
+      "to": "double circular band with pentagram",
+      "type": "used in creation of"
+    },
+    {
+      "from": "Lamair",
+      "to": "double circular band with pentagram",
+      "type": "inscribed on"
+    },
+    {
+      "from": "Oymelor",
+      "to": "double circular band with pentagram",
+      "type": "inscribed on"
+    },
+    {
+      "from": "Demefin",
+      "to": "double circular band with pentagram",
+      "type": "inscribed on"
+    },
+    {
+      "from": "Feremni",
+      "to": "spirit (unnamed horseman)",
+      "type": "variant name of?"
+    },
+    {
+      "from": "Oliromim",
+      "to": "spirit (unnamed horseman)",
+      "type": "variant name of?"
+    },
+    {
+      "from": "Honorius of Regensburg",
+      "to": "Antichrist",
+      "type": "theologized about"
+    },
+    {
+      "from": "Hildegard of Bingen",
+      "to": "Antichrist",
+      "type": "theologized about"
+    },
+    {
+      "from": "Rawlinson MS D 252",
+      "to": "spiritus equus",
+      "type": "contains conjuration of"
+    },
+    {
+      "from": "Clm 849",
+      "to": "double circular band with pentagram",
+      "type": "contains ritual for"
+    }
+  ],
+  "summary": "This chunk details necromantic experiments from the Munich Handbook (CLM 849), focusing on a spirit-conjuration rite involving a horseman who delivers a consecrated ring used to control life/death appearances. It includes descriptions of protective circles, ritual ingredients (hoopoe blood and feather), named spirits inscribed on magical rings, and theological reflections on Antichrist’s deceptive miracles. The text also references parallel traditions in Rawlinson MS D 252 and compares medieval illusionist magic to theological debates about demonic deception.",
+  "key_passages": [
+    "you will see toward the east someone coming on horseback, who, when he arrives at the circle, will say, ‘So-and-so’ – naming the names written above – ‘send you this consecrated ring…'",
+    "When you wish a corpse to appear animated, place the ring as aforesaid… and within an hour it will arise in the form to which it is previously accustomed, and will speak before all with a living voice, and will be able to display this quality for six days",
+    "If you draw it on a Friday with the feather of a hoopoe and with its blood on a freshly prepared sheet of parchment…",
+    "The figure shown for this experiment is a double circular band with a pentagram inscribed. The names carved on the ring are repeated, along with astrological signs, within the two bands.",
+    "pretending to resurrect the dead was one specialty associated traditionally with Antichrist."
+  ]
+}

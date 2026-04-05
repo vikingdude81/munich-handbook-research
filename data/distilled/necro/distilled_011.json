@@ -1,0 +1,357 @@
+{
+  "source_id": "necro",
+  "chunk_id": 11,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "rank": "principal prince",
+        "role": "helper in image-making ritual"
+      },
+      "raw_quote": "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\""
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper in image-making ritual"
+      },
+      "raw_quote": "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\""
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper in image-making ritual"
+      },
+      "raw_quote": "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\""
+    },
+    {
+      "name": "Bel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "infernal spirit",
+        "role": "used in bone-conjuration rituals"
+      },
+      "raw_quote": "\"the names of the ‘infernal spirits’ Bel and Ebal on a rib...\""
+    },
+    {
+      "name": "Ebal",
+      "type": "spirit",
+      "attributes": {
+        "rank": "infernal spirit",
+        "role": "used in bone-conjuration rituals"
+      },
+      "raw_quote": "\"the names of the ‘infernal spirits’ Bel and Ebal on a rib...\""
+    },
+    {
+      "name": "Asyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit for constraint rituals"
+      },
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Castiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit for constraint rituals"
+      },
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Lamisniel",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit for constraint rituals"
+      },
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Rabam",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit for constraint rituals"
+      },
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Erlain",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit for constraint rituals"
+      },
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Belam",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit for constraint rituals"
+      },
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Olam",
+      "type": "spirit",
+      "attributes": {
+        "role": "mentioned in shield diagram on shoulderblade"
+      },
+      "raw_quote": "\"Horizontal bands bear the names Asyel, Castyel, Lamsiyel, Rabam, Erlain, Olam and Belam.\""
+    },
+    {
+      "name": "Lamsiyel",
+      "type": "spirit",
+      "attributes": {
+        "variant spelling": "Lamisniel",
+        "role": "conjured spirit"
+      },
+      "raw_quote": "\"Asyel, Castiel, Lamsiyel, Rabam, Erlain, Elam, Belam, I conjure you by the true God...\""
+    },
+    {
+      "name": "Elam",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjuring formula variant"
+      },
+      "raw_quote": "\"Asyel, Castiel, Lamsiyel, Rabam, Erlain, Elam, Belam, I conjure you...\""
+    },
+    {
+      "name": "Venus (planet/hour)",
+      "type": "concept",
+      "attributes": {
+        "ritual timing": "hour for image-making"
+      },
+      "raw_quote": "\"at the hour of Venus or the hour of Jove\""
+    },
+    {
+      "name": "Jove (Jupiter)",
+      "type": "concept",
+      "attributes": {
+        "ritual timing": "hour for image-making and image completion"
+      },
+      "raw_quote": "\"at the hour of Venus or the hour of Jove... beginning at the hour of Jove\""
+    },
+    {
+      "name": "Mars (planet/hour)",
+      "type": "concept",
+      "attributes": {
+        "ritual timing": "hour for image activation"
+      },
+      "raw_quote": "\"leaving it aside from the hour of the Sun until the hour of Mars\""
+    },
+    {
+      "name": "Sun (hour)",
+      "type": "concept",
+      "attributes": {
+        "ritual timing": "start time for needle-making"
+      },
+      "raw_quote": "\"from the hour of the Sun until the hour of Saturn\""
+    },
+    {
+      "name": "Saturn (planet/hour)",
+      "type": "concept",
+      "attributes": {
+        "ritual timing": "end time for needle-making and image creation"
+      },
+      "raw_quote": "\"from the hour of the Sun until the hour of Saturn\""
+    },
+    {
+      "name": "virgin wax",
+      "type": "ingredient",
+      "attributes": {
+        "preparation": "rendered virginal by art",
+        "ritual timing": "Thursday or Sunday"
+      },
+      "raw_quote": "\"Take virgin wax, rendered virginal by art [ceram virgineam, arte virginizatam ]...\""
+    },
+    {
+      "name": "hairs (of woman)",
+      "type": "ingredient",
+      "attributes": {
+        "source": "intended victim",
+        "use": "in image-making"
+      },
+      "raw_quote": "\"the master must obtain hairs from the woman he wishes to seduce...\""
+    },
+    {
+      "name": "red bristles",
+      "type": "ingredient",
+      "attributes": {
+        "quantity": "three",
+        "use": "in image-making"
+      },
+      "raw_quote": "\"three bristles of red hair, and you should have with you a knife with a white handle...\""
+    },
+    {
+      "name": "white-handled knife",
+      "type": "tool",
+      "attributes": {
+        "purpose": "for image-making ritual"
+      },
+      "raw_quote": "\"a knife with a white handle made for this purpose\""
+    },
+    {
+      "name": "needles (9 or 13)",
+      "type": "tool",
+      "attributes": {
+        "quantity": "nine in main experiment, thirteen in Greek parallel",
+        "material": "metal",
+        "use": "piercing image"
+      },
+      "raw_quote": "\"fix the needles in the image... nine needles made by an experienced craftsman\""
+    },
+    {
+      "name": "fruit-bearing tree",
+      "type": "location",
+      "attributes": {
+        "ritual use": "site of circle and conjuration"
+      },
+      "raw_quote": "\"go to a fruit-bearing tree, and the master should make a circle\""
+    },
+    {
+      "name": "circle",
+      "type": "ritual",
+      "attributes": {
+        "function": "location for conjuration and rendezvous",
+        "form": "simple but effective"
+      },
+      "raw_quote": "\"a circle, which is simple in form but important in its effects...\""
+    },
+    {
+      "name": "burning coals",
+      "type": "ingredient",
+      "attributes": {
+        "use": "for melting wax image and ritual heating"
+      },
+      "raw_quote": "\"over burning coals placed in a pot, without smoke\""
+    },
+    {
+      "name": "shoulderblade (animal)",
+      "type": "tool",
+      "attributes": {
+        "source animals": "ass, hare, goose, capon",
+        "use": "inscribe names and heat for constraint"
+      },
+      "raw_quote": "\"this shoulderblade should be from an ass, a hare, a goose or a capon...\""
+    },
+    {
+      "name": "white thorn wood",
+      "type": "ingredient",
+      "attributes": {
+        "use": "fire-starting material"
+      },
+      "raw_quote": "\"seek out wood from a white thorn or wood floating on water, and make fire with it\""
+    },
+    {
+      "name": "rib bone",
+      "type": "tool",
+      "attributes": {
+        "use": "inscribe Bel/Ebal names and burn for erotic compulsion"
+      },
+      "raw_quote": "\"writing the names of the ‘infernal spirits’ Bel and Ebal on a rib...\""
+    },
+    {
+      "name": "Liber de angelis",
+      "type": "text",
+      "attributes": {
+        "reference context": "source of dove-sacrifice amatory experiment"
+      },
+      "raw_quote": "\"the blood of a dove must be used here — and a dove must be offered as sacrifice in the amatory experiment from the Liber de angelis...\""
+    },
+    {
+      "name": "On the Secret Arts of the Imaginary Art",
+      "type": "text",
+      "attributes": {
+        "source reference": "origin of erotic experiment no. 12"
+      },
+      "raw_quote": "\"this experiment was taken [from the book] On the Secret Arts of the Imaginary Art, [from the book] On the Flowers of All Experiments\""
+    },
+    {
+      "name": "Greek magical papyrus",
+      "type": "text",
+      "attributes": {
+        "parallel tradition": "ancient wax figure piercing ritual"
+      },
+      "raw_quote": "\"resembles a procedure well known in antiquity and described in a Greek magical papyrus...\""
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Belial",
+      "to": "Astaroth",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Belial",
+      "to": "Paymon",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Asyel",
+      "to": "Castiel",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Lamisniel",
+      "to": "Rabam",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Erlain",
+      "to": "Belam",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "Bel",
+      "to": "Ebal",
+      "type": "co-occurs_with"
+    },
+    {
+      "from": "virgin wax",
+      "to": "needles",
+      "type": "used_in_ritual"
+    },
+    {
+      "from": "shoulderblade",
+      "to": "Asyel",
+      "type": "inscribed_with_names"
+    },
+    {
+      "from": "fruit-bearing tree",
+      "to": "circle",
+      "type": "contains"
+    },
+    {
+      "from": "burning coals",
+      "to": "virgin wax",
+      "type": "melts"
+    },
+    {
+      "from": "rib bone",
+      "to": "Bel",
+      "type": "inscribed_with_names"
+    },
+    {
+      "from": "Liber de angelis",
+      "to": "dove sacrifice",
+      "type": "source_of"
+    },
+    {
+      "from": "On the Secret Arts of the Imaginary Art",
+      "to": "erotic experiment no. 12",
+      "type": "source_of"
+    }
+  ],
+  "summary": "This chunk details two main erotic magic experiments from the Munich Handbook (CLM 849): Experiment 12 uses wax image-making with angelic/demonic invocations (Belial, Astaroth, Paymon), timing under planetary hours (Venus/Jove/Mars/Sun/Saturn), and piercing with needles to compel love; Experiment 13 involves inscribing spirit names on animal shoulderblades or ribs and heating them in fire while conjuring infernal spirits (Asyel, Castiel, Bel, Ebal) to constrain or incite a person’s will through symbolic burning. The text also references parallels in ancient Greek magic, Picatrix, and other medieval sources.",
+  "key_passages": [
+    "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\"",
+    "\"Just as this needle is fixed in the heart of this image, so may the love of N. be fixed to the love of N., so that she cannot sleep, wake, lie down, sleep, [or] walk until she burns with love of me.\"",
+    "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you...\"",
+    "\"writing the names of the ‘infernal spirits’ Bel and Ebal on a rib, and in between his own name and that of the woman he wishes to seduce. Then he burns the rib, and when it is hot he should conjure Bel and Ebal not to rest until they cause the woman’s heart to burn...\"",
+    "\"the experiment was taken [from the book] On the Secret Arts of the Imaginary Art, [from the book] On the Flowers of All Experiments\""
+  ]
+}

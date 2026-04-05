@@ -1,0 +1,563 @@
+SOURCE: Kieckhefer, Forbidden Rites — full text of Munich Handbook study
+CHUNK: 1/39  |  CHARS: 0-24657 of 925451
+============================================================
+
+Skip to main content
+ 
+Texts
+ 
+Video
+ 
+Audio
+ 
+Software
+ 
+Images
+Sign up for free
+Log in
+ Search metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived web sites
+Advanced Search
+About Blog Events Projects Help Donate  Contact Jobs Volunteer
+Full text of "Forbidden Rites A Necromancer's Manual Of The Fifteenth Century ( Magic In History) Richard Kieckhefer"
+See other formats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forbidden 
+
+Rites 
+
+
+
+Magic in History 
+
+
+F orbidden 
+Rites 
+
+A Necromancer’s Manual of 
+the Fifteenth Century 
+
+
+Richard Kieckhefer 
+
+
+THE PENNSYLVANIA STATE UNIVERSITY PRESS 
+University Park, Pennsylvania 
+
+
+
+
+Copyright © 1997 Richard Kieckhefer 
+
+
+Published in 1998 in the United States of America and Canada by The Pennsylvania State University Press, 
+University Park, PA 16802 
+
+First published in 1997 in the United Kingdom by Sutton Publishing Limited 
+Library of Congress Cataloging-in-Publication Data 
+Kieckhefer, Richard. 
+
+Forbidden rites : a necromancer's manual of the fifteenth century / Richard Kieckhefer. 
+p. cm. 
+
+Includes bibliographical references and index. 
+
+ISBN 0-271-01750-3 (cloth : alk. paper) 
+
+ISBN 0-271-01751-1 (pbk. : alk. paper) 
+
+1. Bayerische Staatsbibliothek. Manuscript. Clm 849. 2 Magic—History. 3. Demonology—History. 
+
+I. Title. 
+
+BF1593.K525 1997 
+
+133.4'3—dc21 97-26745 
+
+
+Fifth printing, 2012 
+
+It is the policy of The Pennsylvania State University Press to use acid-free paper for the first printing of all 
+clothbound books. Publications on uncoated stock satisfy minimum requirements of American National 
+Standard for Information Sciences—Permanence of Paper for Printed Library Materials, ANSI Z39.48— 
+1992. 
+
+
+
+Contents 
+
+
+Tables 
+
+
+Acknowledgements 
+
+1. Introduction 
+
+Magical Books and Magical Rites 
+
+2, The Munich Handbook of Necromancy 
+
+Clm 849 
+
+T_ Banquets. Horses and Castles 
+
+I llusionist E xperiments 
+
+4. Love. Favour and Madness 
+
+P sychological E xperiments 
+
+5, _ Learning Hidden and Future Things 
+
+Divinatory Experiments 
+
+A_ Formulas for Commanding Spirits 
+
+Conjurations and Exorcisms 
+
+7. _ Demons and Daimons 
+
+The Spirits Conjured 
+
+8. _The Magic of Circles and Spheres 
+
+9. Conclusion 
+
+E dition of the N ecromancer ’s H andbook in Clm 849. fols 3r-108v 
+S elective B ibliography 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plates 
+
+
+I ndex 
+
+
+
+
+Tables 
+
+
+A. Experiments in Clm 849. fols 3-108 
+
+B. Types of necromancy found in Clm 849 
+
+C. Spirits named in the conjurations 
+
+D. Spirits listed in no. 34 
+
+E. Specifications for each day of the week 
+
+F. Specifications for day hours 
+
+G. Specifications for night hours 
+
+H. Gatherings of Clm 849 
+
+
+
+
+
+
+
+
+
+
+Acknowledgements 
+
+
+I am indebted to the Bayerische Staatsbibliothek for providing a microfilm and 
+photographs of Clm 849; to the British Library and Cambridge University 
+Library for providing relevant materials; to Martina Stratmann for supplying a 
+codicological analysis of Clm 849; to Barbara Newman, H.C. Erik Midelfort, 
+Steve Muhlberger, John Leland and Frank Klaassen for reading my analysis, 
+sharing with me their insights, giving me the benefit of their suggestions, and 
+helping to protect me from errors; to Charles Burnett in particular, who read both 
+the analysis and the edition of the manuscript with meticulous care and expertise 
+and helped resolve many problems; to Vincent Cornell and Sani Umar for 
+information about Arabic texts; and to Persephone, a familiar companion who 
+reminds me constantly about the significance of my work. 
+
+
+
+Cave! terrentia hac in scientia latent, si cupis 
+scire occulta, pericula multa pro te et upupis! 
+
+
+
+1 
+
+
+Introduction: Magical Books 
+and Magical Rites 
+
+W e are what we read - and the power of books to transform the minds 
+and personalities of their readers can give cause for anxiety as well 
+as for celebration. A cluster of related developments in late medieval 
+Europe brought heightened concern about what people were reading. The 
+spread of literacy and the rise of a far wider reading public, lay as well as 
+clerical, brought greater demand for written material. The availability of 
+paper, a medium far less costly than parchment, made books more readily 
+accessible than they had previously been, and allowed for more abundant 
+supply of reading matter to feed this demand, even before the invention of 
+printing with movable type. And the emergence of silent reading habits 
+made reading a more private activity. 1 Historians have attended to the 
+impact of these developments on medieval heresy, on churchmen’s fear that 
+literacy contributed to the diffusion of heretical views, and on the efforts at 
+censorship that ensued. But less work has been done on the dissemination of 
+magical texts, which in some ways represented an even more sinister threat 
+to orthodox culture, and on attempts to control these texts. 1 A book of magic 
+which deliberately and expressly invited contact with demons presented all 
+the hazards of reading in their deepest and most pressing form. 
+
+Beginning around the early fourteenth century, possession and use of 
+magical writings becomes a recurrent theme in the records of prosecution. 
+When Bernard Delicieux was accused in 1319 of having used necromancy 
+against the pope, he was cleared of that charge but nevertheless condemned 
+to prison for merely possessing a book of necromancy. 1 Fear of necromancy 
+and of necromantic writings was becoming an obsession at the time, 
+especially at the court of Pope John XXII, who in the previous year had 
+commissioned the bishop of Frejus and others to investigate a group of 
+clerics and laymen charged with using books of necromancy, geomancy and 
+other magical arts.- In 1320 Matteo and Galeazzo Visconti were tried for 
+
+
+using necromancy against Pope John; the offence here was actual use of the 
+art, yet when one witness said he had been shown a book filled with 
+experiments for love, hatred, finding of stolen objects and so forth, the very 
+sight of such a book was evidently cause for horror.- In 1406-7, informants 
+claimed that a group of clerics had used formulas from magical books 
+against Benedict XIII and the king of France, and the ensuing inquiry 
+uncovered a box filled with booklets containing prayers, hymns and 
+conjurations.- But in 1409, at the Council of Pisa, Benedict in turn was 
+charged with using necromancy and hiring necromancers. The pope, it was 
+said, had sought out a book of necromancy available only from the Saracens 
+and had purchased it for some 1,000 francs. A book of necromancy was 
+allegedly found under the pontiff’s bed.- In such cases the uncovering of 
+necromantic writings made more plausible the charge that necromancy had 
+actually been used, but more fundamentally the books themselves would 
+have impressed contemporaries as unsavoury and incriminating, somewhat 
+as the discovery of Satanic paraphernalia might seem incriminating today. 
+Not surprisingly, inquisitors and other judges used such discoveries as 
+propaganda in their zealous campaigns against magic. In 1382 an inquisitor 
+wrote to the government of Siena about a band of magicians at Rugomagno; 
+one Agnolo di Corso had been found in possession of a book of seventy 
+chapters, which others had copied, and which spoke of invoking evil spirits 
+to murder people or constrain their affections.- Two years later Niccolo 
+Consigli was executed at Florence for practicing necromancy and 
+unlicensed exorcisms; his judges confiscated and burned the books of 
+necromancy from which he had taken conjurations.- One might even say it 
+was common for books of magic to be set forth as codefendants alongside 
+their owners and users - and indeed, as we shall see, those who condemned 
+books of magic in some ways ascribed to them a kind of personality.- When 
+the books were burned, there were those (as we shall see) who heard the 
+voices of demons in the crackling of the flames. 
+
+The book-burning might at times be voluntary: according to a fifteenth- 
+century biographer, Gerard Groot studied magic in his youth, and was 
+accused of practising it as well, but when he converted to a life of piety and 
+foreswore the art of necromancy, he consigned his books of magic to the 
+flames.- The movement he went on to found, the Devotio Modema, was 
+one of the most influential forces in the devotional culture of pre- 
+Reformation Europe, a movement of inner piety nurtured by devout reading, 
+
+
+manifested in the copying out of pious phrases in personal florilegia, and 
+financially supported by the copying of manuscripts - a movement, in short, 
+firmly grounded in the book-culture of late medieval Europe, and initiated 
+with an act of penitential book-burning. 
+
+From the early years of Christianity, conversion to Christ had meant, 
+among other things, doing away with books of magic. The scene at Ephesus, 
+as described in the Acts of the Apostles (18:19-19:20), perhaps epitomized 
+what happened on a smaller scale elsewhere. When Paul arrived in the town 
+and made converts to the new faith, ‘a number of those who practised magic 
+arts brought their books together and burned them in the sight of all, and 
+they counted the value of them and found it came to fifty thousand pieces of 
+silver’.- (This comes to roughly 1,666 times as many silver pieces as Judas 
+received for betraying Christ.) By the later Middle Ages, treatment of those 
+found with offending literature was often more judicial than pastoral. To be 
+sure, a monk of Sulby monastery was treated leniently when he was found 
+possessing books of magic in 1500. A superior in the Premonstratensian 
+order had heard of a brother named Thomas Wryght who had been using 
+books of experiments and gone about paying people generously to teach 
+him the occult arts. Faced with the evidence - one of his books of 
+experiments - he insisted that he owned such books only out of curiosity, 
+not for actual use. The matter was treated as a disciplinary one within the 
+monastic setting, and the brother received a light penance.- But in an age 
+when books of this sort were held in deep suspicion one could never count 
+on such clemency, as Bernard Delicieux well knew. 
+
+Anything that arouses such deep anxiety is a subject of historical interest, 
+and books of magic hold considerable fascination indeed. To know why 
+books of magic aroused fear we must gain a fuller understanding of what 
+the books themselves were likely to contain. Most of them no doubt have 
+perished in the inquisitors’ flames, but some eluded detection and have 
+survived. The focus of following chapters in this study is arguably among 
+the most interesting sources we have for the study of medieval magic: a 
+fifteenth-century handbook of explicitly demonic magic, or what 
+contemporaries called ‘necromancy’. This compilation is contained in a 
+manuscript in the Bavarian State Library in Munich. To be sure, the text is 
+neither edifying nor profound, nor is it particularly original; in late medieval 
+Europe there were no doubt many compilations equally illustrative of 
+common magical practice, most of them now lost. But among the 
+
+
+manuscripts that survive, few are quite as diverse in content, or as full, 
+explicit and candid in their instructions as this work. 
+
+Detailed examination of such a compilation may most obviously help us 
+understand the mentality of the necromancers themselves who copied such 
+books, whether for curiosity or for use. But study of this handbook may 
+clarify several other factors in the history of magic, and three in particular. 
+First, examination of a necromancer’s manual sheds light on the function 
+and cultural significance of a magical book itself. We will know more about 
+the cultural significance of books generally - and we will know more fully 
+the range of meanings a book could have - when we have grasped the role 
+of this exceptional category of books. Second, the mentality of the 
+necromancers’ opponents becomes clearer from examination of such a 
+compilation: the views of the Renaissance mages (such as Marsilio Ficino 
+and Johannes Reuchlin) who insisted that they practised a higher and purer 
+form of magic than did these base necromancers, and those of the 
+demonologists (Heinrich Kramer and his successors) for whom necromancy 
+was a dark filter shading their perception of witchcraft. The reactions of the 
+opponents may be historically more important than the attitudes of the 
+necromancers themselves, because they tell us more about the culture as a 
+whole, but we cannot begin to comprehend these reactions without knowing 
+the realities on which they were based. Third, the rites contained in this 
+compendium illustrate strikingly the links between magical practice and 
+orthodox liturgy. The analogy 1 will use is that of a tapestry, whose display 
+side implies a reverse side: so too, a society that ascribes a high degree of 
+power to ritual and its users will invite the development of unofficial and 
+transgressive ritual, related in form to its official counterpart, however 
+sharply it may differ in its uses. 
+
+A book of magic as a cultural artifact 
+
+A book of magic is also a magical book. It not only tells how to perform 
+magical works, but shares in the numinous qualities and powers of the rites 
+it contains. To be sure, not all magic is book magic: much magical practice 
+arises from oral culture, is transmitted orally, and is used without needing 
+inscription on paper or parchment, even if it is the largely accidental 
+circumstance of its having been transcribed at some point that accounts for 
+its survival and its accessibility to us. But in the later Middle Ages certain 
+
+
+
+forms of magic were increasingly assimilated to liturgy and increasingly 
+written, so that a magical act was the performance from a script, or the 
+observance of a rite whose details were enshrined in a text. This 
+development surely owed much to the spread of literacy among the laity, but 
+even more to the practice of magic among the clergy, particularly those on 
+the fringes of the clerical elite. Judicial and anecdotal evidence suggests that 
+explicitly demonic magic, called ‘nigromancy’ or ‘necromancy’,- was 
+largely the domain of priests, perhaps especially those without full-time 
+parish employment, as well as ordained monks with some education and 
+esoteric interests, university students and others who had been received into 
+minor orders.- It was within this context that a book of magic would most 
+naturally be perceived as a magical book, sharing in the numinous quality of 
+the rites it prescribes. 
+
+Christian ritual had from early centuries been the enactment not of oral 
+tradition but of texts embodied in books. With the unprecedented late 
+medieval diffusion of literacy, availability of reading matter and expansion 
+of the clergy, books might still be accessible only to an elite, but it was a 
+much expanded elite, and the numbers and varieties of books available were 
+far greater than in previous centuries, so that maintaining control over this 
+diffusion and this variety was scarcely possible, however much hierarchs 
+may have attempted to censor the available reading matter. Little surprise, 
+then, if books of magic found their way onto some readers’ shelves, whether 
+for use or for mere curiosity. 
+
+Apart from its function as a repository of information and insight, a book 
+can be of interest as a physical object, as a mirror of its writer’s life and 
+mind, and as a mirror of the society and culture from which it emanates and 
+to which it returns. The surviving books of medieval demonic magic repay 
+study from each of these perspectives, although their claims to significance 
+differ from those of ordinary texts: a book of magic is a physical object like 
+any other book, but even as object it is perceived as having sinister power, 
+as a kind of negative relic; it reveals something of the writer’s life and mind, 
+but more often than in most other cases, and for more obviously compelling 
+reasons, the authorship remains anonymous or pseudonymous; and it serves 
+as a mirror of the surrounding culture, but often the mirror is a distorting 
+one, a deliberately transgressive adaptation of what the society takes to be 
+holy. 
+
+Any book of rituals serves as point of contact between sacred texts 
+
+
+(permanent, authoritative repositories of power) and their performance 
+(which utilizes this power for specific occasions). The book itself, like a 
+liturgical vessel or a sacred building, is consecrated; when a formula is read 
+from it, the power of the text is enhanced by the sacrality of the book from 
+which it is read. A book of magic may also be consecrated, to confirm the 
+numinous power resident in the physical object. A book of magic is thus 
+significant not only as a source for information about magical practice - 
+generally more reliable than court records, denunciatory treatises and 
+literary accounts - but also as itself a magical object, treasured and closely 
+guarded by its possessors, and condemned to burning by judges in mimickry 
+of the punishment that might await the magicians themselves. 
+
+This perception of a book of magic as itself a magical object, and 
+therefore as suspect, is seldom so dramatically manifested as in the 
+canonization proceedings for Archbishop Antoninus of Florence (the man 
+from whom, incidentally, the Malleus maleficarum derived most of its 
+misogynist tropes).- One witness to the sanctity of the archbishop told how 
+the saint had gone one day to a barber-surgeon of Florence named Master 
+Peter to have his hair cut. During the process the prelate began to wonder 
+how a man who read no Latin was able not only to cut hair but also to cure 
+the sick people who came to him. He learned that the barber had obtained a 
+‘book of surgery’ from a Cistercian and had learned from it the art of 
+healing. Antoninus asked Peter to bring forth this book and show it to him; 
+the man readily complied. 
+
+The archbishop recognized that the book was full of incantations, and 
+formulas and signs belonging to the wicked magical arts. So one day he 
+went to San Marco for lunch, and when certain members of the city’s 
+nobility were with him in the cloister after the meal, he had fire brought 
+in an earthen vessel, and he set fire to the book. Immediately the air was 
+so darkened that the citizens were afraid, and clung to the archbishop. He 
+comforted them, saying that when the book was fully burned this 
+darkening and clouding of the air would cease, as indeed happened. 
+Then, calling these citizens and Master Peter about him, he explained 
+that the book contained incantations, and that at some point a mass had 
+been celebrated over it for conjuring and summoning demons, so that 
+wherever the book was, a multitude of demons resided there. 
+
+
+The burning thus served as an exorcism; the very pages seemed quite 
+literally infected by demons, who needed to be banished. Once this was 
+accomplished, Antoninus admonished Peter to find some other means for 
+healing the sick; the man obeyed this admonition, and the canonization 
+proceedings assure us that God did not allow his family to go lacking. 
+
+The notion that demons could infest a book appears elsewhere: Michael 
+Scot told of a magical book inhabited by spirits who call out when the book 
+is opened, ‘What do you want? What do you seek? What do you order? Say 
+what you want and it shall be done forthwith.’- The theme admits at least 
+two interpretations. One might see it as a way of symbolizing the ubiquity 
+of malign spirits, their eagerness to seize any opportunity for mischief, and 
+their dense concentration in those places and objects seen as special 
+‘occasions of sin’. Beyond this, it can express obsessive anxiety about the 
+book itself as an object invested with a kind of negative sacrality, something 
+taboo, a source of spiritual and psychological contagion. The difference is 
+not that the first interpretation is cultural and the second psychological; both 
+interpretations function on both levels, relating the concerns of individual 
+observers to the shared perceptions of the society. But the first interpretation 
+places greater weight on the theological assumption that malevolent forces 
+are secretly present in the world, an ‘objective’ assumption in the sense that 
+it is widely diffused within the culture, eliciting and appealing to a diversity 
+of personal concerns and anxieties, while the second stresses the aversion of 
+the individual observer, a reaction inevitably both experienced and 
+expressed in culturally conditioned terms. 
+
+Archbishop Antoninus’s authority was perhaps too great for a mere 
+barber-surgeon to challenge his interpretation of the book he had been using, 
+but not all practitioners were so amenable to instruction. In the 1340s, the 
+inquisitor Pietro da PAquila charged the Florentine physician Francesco di 
+Simone with having purchased a book on the virtues of herbs, in which 
+(according to the inquisitor) there was necromantic content. The physician 
+testified that he had indeed bought such a book, but that there was no taint 
+of necromancy in it, and if he had known that the volume contained 
+anything prohibited he would never have bought it.— It makes little 
+difference for our present purposes whether the inquisitor’s or the 
+archbishop’s reading of a particular book was correct, or grounded in a 
+careful reading of the volume’s contents. Either of them might have been 
+scandalized by simple charms of a sort that a theologian would in principle 
+
+
+have deemed innocent but a careless or overly zealous critic might perceive 
+as tainted and implicitly demonic.- In other cases it seems more likely that 
+magical books condemned as demonic were in fact collections of expressly 
+demonic magic; Piero di ser Lippo claimed that the book he confiscated 
+from Agnolo di Corso contained formulas for adoration and invocation of 
+spirits such as Satan and Beelzebub, and there is no reason to doubt that the 
+inquisitor encountered a work of genuine demonic magic, of the sort that 
+have on occasion survived. 
+
+Less dramatic than the action of Archbishop Antoninus, but similar to it 
+in certain respects, was the judicial treatment of a magical book by the 
+secular authorities at Dijon: 
+
+Concerning the execution [ execution ] of a book of devilry [ deablerie\. 
+On the sixth day of August, in the year 1463, at the command of my 
+lords of the Chambre des comptes at Dijon, after consultation in this 
+Chambre, a book made of paper and covered with leather that was 
+colored green was brought from the house and residence of the widow 
+and heirs of Thomas of Dampmartin, during his life resident of Dijon. In 
+this book were written many evil and false invocations of devils 
+[deables ], divinations, charms [ charoyes ], and other things of the 
+magical art, which give very bad example and are against God and the 
+holy Christian faith. In it were contained many depictions of devils and 
+other detestable figures and characters. At the end of this book were 
+several chapters and articles on necromancy [ nigromance ] and 
+chiromancy. This book had been seen by my lords of the Council and the 
+Chambres des comptes. And after they inspected it with great and serious 
+deliberation - in the presence of lord Jehan Bon Varlet, priest of the 
+chapel of my lord the duke of Dijon, dean of Saint-Seigne, vicar and 
+scelleur of the reverend father in God my lord the bishop of Lengres in 
+Dijon; master Jehan de Molesmes, secretary of my lord the duke; Ayme 
+d’Eschenon, mayor of the town and commune of Dijon; Jehan Rabustel, 
+procurator of that town; Aime Barjod, procurator of my lord in the 
+district of Dijon; and many others - this book was cast into the fire and 
+totally burned to cinders, to the despite and confusion of the evil enemies 
+[of the faith], and so that it could never again be used in any manner. - 
+
+Here there is no allegation of supernatural phenomena, and the book is not 
+
+
+seen as infected or possessed by demons needing to be exorcized. None the 
+less, the book itself is treated as if it were a human subject, to be examined 
+and, once found guilty, executed by burning. Nothing in the account need be 
+taken as implying that the book itself possesses numinous powers, yet the 
+book elicits the loathing and the judicial reaction normally reserved for a 
+personal agent and embodiment of evil. From one perspective there is 
+nothing unusual about investing a book with personality: the reading of any 
+book can be perceived as a kind of dialogue between the reader and the text. 
+Rarely, however, is the perception carried to this extreme. 
+

@@ -1,0 +1,408 @@
+{
+  "source_id": "necro",
+  "chunk_id": 29,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Sona",
+      "type": "spirit",
+      "attributes": {
+        "role": "bound by conjuration on strap"
+      },
+      "page_ref": "45v",
+      "raw_quote": "Coniuro te, Sona, per hoc nomen domini: Tetragramaton, et per hoc nomen dei: loth, et per hoc nomen dei: Nabnoth..."
+    },
+    {
+      "name": "Discobermath",
+      "type": "spirit",
+      "attributes": {
+        "role": "named among spirits to open in conjuration"
+      },
+      "page_ref": "45v",
+      "raw_quote": "Vos demones ab oriente,- vos demones ab occidente, vos demones ab meridie, vos demones a septentrione, aperite nobis, Discobermath, Archidemath, Fritath..."
+    },
+    {
+      "name": "Puer (boy)",
+      "type": "ritual instrument",
+      "attributes": {
+        "age requirement": "<12 years",
+        "gender": "virgin",
+        "function": "seer / spirit medium"
+      },
+      "page_ref": "46r, 47v, 49r",
+      "raw_quote": "Sit puer infra xij annos existens. Et post mane et in crepusculo noctis, circulum protrahendo..."
+    },
+    {
+      "name": "virgo iuvenis (young virgin)",
+      "type": "ritual instrument",
+      "attributes": {
+        "function": "seer / spirit medium",
+        "required state": "chaste"
+      },
+      "page_ref": "45v, 46r, 47r",
+      "raw_quote": "Coniuro te, virgo iuvenis, per deum verum Basvon, et per nomen On, Berion, Sabaoth, Adonav..."
+    },
+    {
+      "name": "spatula arietis dextram (right shoulder blade of ram)",
+      "type": "ingredient",
+      "attributes": {
+        "preparation": "anointed with olive oil",
+        "function": "scrying surface"
+      },
+      "page_ref": "47v",
+      "raw_quote": "accipe spatulam arietis dextram, oleo oliue invnctam, quam ponendo super manubrium cultelli, inspiciat puer- virgo."
+    },
+    {
+      "name": "candelabrum (candle)",
+      "type": "tool",
+      "attributes": {
+        "function": "light source for scrying ritual"
+      },
+      "page_ref": "47v",
+      "raw_quote": "Tu vero ex alia parte, tenendo candelam accensam, dicas hoc modo..."
+    },
+    {
+      "name": "sator arepo (sator arepo square)",
+      "type": "ritual",
+      "attributes": {
+        "function": "circle-drawing incantation"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Sator, arepo, tenet, opera, rotas. In nomine Patris et Filij et Spiritus Sancti. Amen."
+    },
+    {
+      "name": "bacimine (basin)",
+      "type": "tool",
+      "attributes": {
+        "function": "scrying vessel"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Incipit ars verissima de bacimine..."
+    },
+    {
+      "name": "resina alba (white resin)",
+      "type": "ingredient",
+      "attributes": {
+        "preparation": "melted over candle onto stone, collected as powder",
+        "function": "ink for spirit binding"
+      },
+      "page_ref": "49v-50r",
+      "raw_quote": "Accipe resinam albam quam accendes per candelam super lapidem aliquem planum sub pelui desuper aliquantulum eleuata..."
+    },
+    {
+      "name": "oleum oliue (olive oil)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "medium for anointing and inscribing"
+      },
+      "page_ref": "49v, 50r",
+      "raw_quote": "primo in oleo oliue, et linies inferiores quatuor articulos sinistre manus pueri masculi virginis."
+    },
+    {
+      "name": "pulvis (powder)",
+      "type": "ingredient",
+      "attributes": {
+        "source": "resin vapor",
+        "function": "inscribe spirit-binding marks"
+      },
+      "page_ref": "50r",
+      "raw_quote": "colligas in pergamen[t]o aliquo uel corio albo puluerem ilium adherentem pelui ex vaporacione resine predicte..."
+    },
+    {
+      "name": "Bethala, Pamelon, Anguis, Floris, Ereth, Alya, Cabyona, Ely, Eloy, Sadamay, Melgry, Asmyacre",
+      "type": "spirit",
+      "attributes": {
+        "role": "twelve spirits to appear in boy’s hand",
+        "function": "answer questions"
+      },
+      "page_ref": "49v-50r",
+      "raw_quote": "Bethala, Pamelon, Anguis, Floris, Ereth, 3 Alya, Cabyona, Ely, Eloy, Sadamay, Melgry, Asmyacre, intretis in nomine domini."
+    },
+    {
+      "name": "Carab, Riasteli, Careb, Basal, Mistal, Oronothel, Fabanin, Non, Va, Vatuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in ear of boy to appear in basin"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Hec nomina dices in aurem pueri virginis: Carab, Riasteli, Careb, Basal, Mistal, Oronothel, Fabanin, Non, Va, Vatuel."
+    },
+    {
+      "name": "Caspar, Balthasar, Melchior",
+      "type": "spirit",
+      "attributes": {
+        "role": "Three Kings invoked in conjurations"
+      },
+      "page_ref": "49r, 51r",
+      "raw_quote": "Coniuro vos per tres reges, Caspar, Balthasar, Melchior..."
+    },
+    {
+      "name": "Sydrac, Misac, Abdenago",
+      "type": "spirit",
+      "attributes": {
+        "role": "Three Holy Children invoked in conjurations"
+      },
+      "page_ref": "49r, 51r",
+      "raw_quote": "Coniuro vos per tres pueros Sydrac, Misac, Abdenago..."
+    },
+    {
+      "name": "Abiniabyndo, Abyncola, Abracalos, Pyel, Thyel, Syel",
+      "type": "spirit",
+      "attributes": {
+        "role": "named spirits appearing in mirror/blade"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Abiniabyndo, Abyncola, Abracalos, Pyel, Thyel, Syel."
+    },
+    {
+      "name": "Ely, Eloe, Sabaoth, Adonay, Elyon, On",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "49r, 51r",
+      "raw_quote": "...per hec sancta nomina tua: Ely, Eloe, Sabaoth, Adonay, Elyon, On..."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "45v, 46r, 47r, 49r",
+      "raw_quote": "per hoc nomen domini: Tetragramaton..."
+    },
+    {
+      "name": "Alpha et O",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "47v, 48r, 51r",
+      "raw_quote": "...qui est Alpha et O, primus et nouissimus..."
+    },
+    {
+      "name": "Elthie",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "47r",
+      "raw_quote": "per sanctum nomen dei Elthie..."
+    },
+    {
+      "name": "Ely, Elov, Eloem",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "47r",
+      "raw_quote": "...Ihesu Christi: Ely, Elov, Eloem..."
+    },
+    {
+      "name": "Pantocrator",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "46r (margin note)",
+      "raw_quote": "Sic in MS, for Pantocrator?"
+    },
+    {
+      "name": "On, Orion, Sabaoth, Adonay",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "46r",
+      "raw_quote": "Coniuro te, virgo iuvenis, per deum On, Orion, Sabaoth, Adonay..."
+    },
+    {
+      "name": "Basvon",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "45v",
+      "raw_quote": "per deum verum Basvon..."
+    },
+    {
+      "name": "Messyas, Soter, Emanuel, Pancraton, Occinomos",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...nomen domini: Messyas, Soter, Emanuel, Pancraton, Occinomos, Tetragramaton..."
+    },
+    {
+      "name": "Agyos, Otheos, Athanatos, Yschiros, Kirios, Alleluia, Eleyson",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Agyos, Otheos, Athanatos, Yschiros, Kirios, Alleluia, Eleyson..."
+    },
+    {
+      "name": "Jesus Nazarenus",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "49r",
+      "raw_quote": "...Jesus Nazarenus, Messyas, Sother, Emanuel, Fords, Fons, Leo, Petra..."
+    },
+    {
+      "name": "Fords, Fons, Leo, Petra",
+      "type": "divine name",
+      "attributes": {
+        "function": "conjuration authority"
+      },
+      "page_ref": "49r",
+      "raw_quote": "...Fords, Fons, Leo, Petra..."
+    },
+    {
+      "name": "Cedon, Zephata, Eloym, Eloyay",
+      "type": "spirit",
+      "attributes": {
+        "role": "named spirits to appear in boy’s palm"
+      },
+      "page_ref": "51r",
+      "raw_quote": "[...] Cedon, Zephata, Eloym, Eloyay, venite et apparete in vngwe istius pueri sub forma Humana..."
+    },
+    {
+      "name": "Rabuel, Astena, Hytatol",
+      "type": "spirit",
+      "attributes": {
+        "role": "named among spirits to obey conjurer"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Rabuel, Astena, Hytatol, cogitate facere voluntatem meam per predictas potestates."
+    },
+    {
+      "name": "Gospar, Dasper, Gespar, Lapir, Sparsis, Nota, Caliusf Asper",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in middle conjuration"
+      },
+      "page_ref": "48r",
+      "raw_quote": "Gospar, Dasper, Gespar, Lapir, Sparsis, Nota, Caliusf Asper."
+    },
+    {
+      "name": "Britonia, Bresis, Diton, Crasis, Sanete, Garbamion",
+      "type": "spirit",
+      "attributes": {
+        "role": "named in middle conjuration"
+      },
+      "page_ref": "48r",
+      "raw_quote": "Britonia, Bresis, Diton, Crasis, Sanete, Garbamion, libera nos famulos ab omni malo."
+    },
+    {
+      "name": "A, Q, O, P, E, V",
+      "type": "ritual symbol",
+      "attributes": {
+        "function": "characters to be inscribed on pelu (stone slab)"
+      },
+      "page_ref": "49v-50r",
+      "raw_quote": "Karacteres isti [5Or] scribendi sunt vt infra docetur: A, Q,- O, P, E, V."
+    },
+    {
+      "name": "pelu (stone slab)",
+      "type": "tool",
+      "attributes": {
+        "function": "surface for resin incense and inscribed characters"
+      },
+      "page_ref": "49v-50r",
+      "raw_quote": "...super pelui desuper aliquantulum eleuata...antequam ipsa resina sub ipsa pelui accenditur."
+    },
+    {
+      "name": "cingulum sacerdotalis (priest’s girdle)",
+      "type": "tool",
+      "attributes": {
+        "function": "ritual binding of book"
+      },
+      "page_ref": "53r",
+      "raw_quote": "...cum cingulo sacerdotali et stola dedicata liget eum in modum crucis circumquaque..."
+    },
+    {
+      "name": "stola (stole)",
+      "type": "tool",
+      "attributes": {
+        "function": "ritual binding of book"
+      },
+      "page_ref": "53r",
+      "raw_quote": "...cum cingulo sacerdotali et stola dedicata liget eum in modum crucis circumquaque..."
+    },
+    {
+      "name": "liber consecracionum (Book of Consecrations)",
+      "type": "ritual text",
+      "attributes": {
+        "function": "ritual manual",
+        "preparation required": "9-day purification, daily Mass attendance"
+      },
+      "page_ref": "52r-53r, 135r",
+      "raw_quote": "ab omni pollucione mentis et corporis se debet abstinere in cibo [et] potu...nouem diebus ante opus inceptum..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Sona",
+      "to": "Tetragramaton",
+      "type": "conjuration authority"
+    },
+    {
+      "from": "Discobermath",
+      "to": "Salomon",
+      "type": "bound by"
+    },
+    {
+      "from": "puer",
+      "to": "virgo iuvenis",
+      "type": "variant of"
+    },
+    {
+      "from": "spatula arietis dextram",
+      "to": "candelabrum",
+      "type": "used with"
+    },
+    {
+      "from": "bacimine",
+      "to": "Carab, Riasteli...",
+      "type": "spirit appears in"
+    },
+    {
+      "from": "resina alba",
+      "to": "oleum oliue",
+      "type": "mixed with"
+    },
+    {
+      "from": "Bethala...",
+      "to": "puer",
+      "type": "appears in hand of"
+    },
+    {
+      "from": "Ely, Eloe, Sabaoth...",
+      "to": "conjuration",
+      "type": "used in"
+    },
+    {
+      "from": "liber consecracionum",
+      "to": "cingulum sacerdotalis",
+      "type": "ritually bound with"
+    },
+    {
+      "from": "Caspar, Balthasar, Melchior",
+      "to": "Sydrac, Misac, Abdenago",
+      "type": "co-invoked in"
+    }
+  ],
+  "summary": "This chunk contains detailed ritual instructions for spirit conjuration using child seers (puer/virgo), including scrying on ram’s shoulder blade and basin, binding spirits by divine names (Tetragramaton, Alpha et O, Elthie), and invoking angelic hierarchies. It lists numerous spirit names (e.g., Discobermath, Bethala, Carab) and ritual ingredients (resin, olive oil, incense). Also includes the prologue to the Liber consecracionum, outlining purification requirements for practitioners.",
+  "key_passages": [
+    "Coniuro te, Sona, per hoc nomen domini: Tetragramaton, et per hoc nomen dei: loth, et per hoc nomen dei: Nabnoth...",
+    "Vos demones ab oriente,- vos demones ab occidente, vos demones ab meridie, vos demones a septentrione, aperite nobis, Discobermath, Archidemath, Fritath...",
+    "accipe spatulam arietis dextram, oleo oliue invnctam, quam ponendo super manubrium cultelli, inspiciat puer- virgo.",
+    "Hec nomina dices in aurem pueri virginis: Carab, Riasteli, Careb, Basal, Mistal, Oronothel, Fabanin, Non, Va, Vatuel.",
+    "ab omni pollucione mentis et corporis se debet abstinere in cibo [et] potu...nouem diebus ante opus inceptum..."
+  ]
+}

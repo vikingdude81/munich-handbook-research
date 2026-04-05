@@ -1,0 +1,754 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 34,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Malthayl",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on love magic images"
+      },
+      "page_ref": "p. 347 (80r)",
+      "raw_quote": "et hec sunt ista vij nomina, hec scribes: Malthayl, Caramel, Azariel, Zaraimayl,k Parsail, Porbayl, Seralabelis."
+    },
+    {
+      "name": "Caramel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on love magic images"
+      },
+      "page_ref": "p. 347 (80r)",
+      "raw_quote": "et hec sunt ista vij nomina, hec scribes: Malthayl, Caramel, Azariel, Zaraimayl,k Parsail, Porbayl, Seralabelis."
+    },
+    {
+      "name": "Azariel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on love magic images"
+      },
+      "page_ref": "p. 347 (80r)",
+      "raw_quote": "et hec sunt ista vij nomina, hec scribes: Malthayl, Caramel, Azariel, Zaraimayl,k Parsail, Porbayl, Seralabelis."
+    },
+    {
+      "name": "Zaraimayl",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on love magic images"
+      },
+      "page_ref": "p. 347 (80r)",
+      "raw_quote": "et hec sunt ista vij nomina, hec scribes: Malthayl, Caramel, Azariel, Zaraimayl,k Parsail, Porbayl, Seralabelis."
+    },
+    {
+      "name": "Parsail",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on love magic images"
+      },
+      "page_ref": "p. 347 (80r)",
+      "raw_quote": "et hec sunt ista vij nomina, hec scribes: Malthayl, Caramel, Azariel, Zaraimayl,k Parsail, Porbayl, Seralabelis."
+    },
+    {
+      "name": "Porbayl",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on love magic images"
+      },
+      "page_ref": "p. 347 (80r)",
+      "raw_quote": "et hec sunt ista vij nomina, hec scribes: Malthayl, Caramel, Azariel, Zaraimayl,k Parsail, Porbayl, Seralabelis."
+    },
+    {
+      "name": "Seralabelis",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on love magic images"
+      },
+      "page_ref": "p. 347 (80r)",
+      "raw_quote": "et hec sunt ista vij nomina, hec scribes: Malthayl, Caramel, Azariel, Zaraimayl,k Parsail, Porbayl, Seralabelis."
+    },
+    {
+      "name": "Samahil",
+      "type": "spirit",
+      "attributes": {
+        "role": "incantation formula starter for tongue-binding ritual"
+      },
+      "page_ref": "p. 349 (82v)",
+      "raw_quote": "coniura eam cum qui sic incipiunt Samahil, et non erit potens loqui super eum malum verbum."
+    },
+    {
+      "name": "Sarastan",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names inscribed on crucible mouth in night image 1"
+      },
+      "page_ref": "p. 349 (82v–83r)",
+      "raw_quote": "sculpa in quo[libet] ore crucibuli hec nomina: Sarastan, Hasas, Dalas, Sassa;"
+    },
+    {
+      "name": "Hasas",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names inscribed on crucible mouth in night image 1"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "sculpa in quo[libet] ore crucibuli hec nomina: Sarastan, Hasas, Dalas, Sassa;"
+    },
+    {
+      "name": "Dalas",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names inscribed on crucible mouth in night image 1"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "sculpa in quo[libet] ore crucibuli hec nomina: Sarastan, Hasas, Dalas, Sassa;"
+    },
+    {
+      "name": "Sassa",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names inscribed on crucible mouth in night image 1"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "sculpa in quo[libet] ore crucibuli hec nomina: Sarastan, Hasas, Dalas, Sassa;"
+    },
+    {
+      "name": "Bezat",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Zenit",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Caffan",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Dalfat",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Dana",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Aneth",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Beas",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Manith",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Hassas",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Dalaph",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Sefa",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twelve names inscribed on crucible rim"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et scribe super os crucibuli hec xij nomina: Bezat, Berith, Zenit, Caffan, Dalfat, Dana, Aneth, Beas, Manith, Hassas, Dalaph, Sefa."
+    },
+    {
+      "name": "Leorphahel",
+      "type": "spirit",
+      "attributes": {
+        "role": "name inscribed on image over crucible; variant Leorpahel"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et sculpe super faciem ymaginis istud [83r] nomen: Leorphahel [uel] Leorpahel"
+    },
+    {
+      "name": "Rosahal",
+      "type": "spirit",
+      "attributes": {
+        "role": "name inscribed on vessel-form over crucible"
+      },
+      "page_ref": "p. 349 (83r)",
+      "raw_quote": "et super formam nomen istud: Rosahal."
+    },
+    {
+      "name": "Notooa",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on night image 2"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe super faciem ymaginis hec nomina: Notooa,c Har, Beel, Cead, Vasas, Naaya, Haat."
+    },
+    {
+      "name": "Har",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on night image 2"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe super faciem ymaginis hec nomina: Notooa,c Har, Beel, Cead, Vasas, Naaya, Haat."
+    },
+    {
+      "name": "Beel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on night image 2"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe super faciem ymaginis hec nomina: Notooa,c Har, Beel, Cead, Vasas, Naaya, Haat."
+    },
+    {
+      "name": "Cead",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on night image 2"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe super faciem ymaginis hec nomina: Notooa,c Har, Beel, Cead, Vasas, Naaya, Haat."
+    },
+    {
+      "name": "Vasas",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on night image 2"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe super faciem ymaginis hec nomina: Notooa,c Har, Beel, Cead, Vasas, Naaya, Haat."
+    },
+    {
+      "name": "Naaya",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on night image 2"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe super faciem ymaginis hec nomina: Notooa,c Har, Beel, Cead, Vasas, Naaya, Haat."
+    },
+    {
+      "name": "Haat",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of seven names inscribed on night image 2"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe super faciem ymaginis hec nomina: Notooa,c Har, Beel, Cead, Vasas, Naaya, Haat."
+    },
+    {
+      "name": "Raagor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on folio held by night image 2"
+      },
+      "page_ref": "p. 350 (84r)",
+      "raw_quote": "hec sunt nomina, scilicet, Raagor, Ralaz, Branar, Cundaz,e Natho, Jany."
+    },
+    {
+      "name": "Ralaz",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on folio held by night image 2"
+      },
+      "page_ref": "p. 350 (84r)",
+      "raw_quote": "hec sunt nomina, scilicet, Raagor, Ralaz, Branar, Cundaz,e Natho, Jany."
+    },
+    {
+      "name": "Branar",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on folio held by night image 2"
+      },
+      "page_ref": "p. 350 (84r)",
+      "raw_quote": "hec sunt nomina, scilicet, Raagor, Ralaz, Branar, Cundaz,e Natho, Jany."
+    },
+    {
+      "name": "Cundaz",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on folio held by night image 2"
+      },
+      "page_ref": "p. 350 (84r)",
+      "raw_quote": "hec sunt nomina, scilicet, Raagor, Ralaz, Branar, Cundaz,e Natho, Jany."
+    },
+    {
+      "name": "Natho",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on folio held by night image 2"
+      },
+      "page_ref": "p. 350 (84r)",
+      "raw_quote": "hec sunt nomina, scilicet, Raagor, Ralaz, Branar, Cundaz,e Natho, Jany."
+    },
+    {
+      "name": "Jany",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on folio held by night image 2"
+      },
+      "page_ref": "p. 350 (84r)",
+      "raw_quote": "hec sunt nomina, scilicet, Raagor, Ralaz, Branar, Cundaz,e Natho, Jany."
+    },
+    {
+      "name": "Vabros",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on reptile-fugation image"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe in facie eius hec nomina: Vabros, Wiez, Bercca,g Beror, Berabut, Baramel."
+    },
+    {
+      "name": "Wiez",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on reptile-fugation image"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe in facie eius hec nomina: Vabros, Wiez, Bercca,g Beror, Berabut, Baramel."
+    },
+    {
+      "name": "Bercca",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on reptile-fugation image"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe in facie eius hec nomina: Vabros, Wiez, Bercca,g Beror, Berabut, Baramel."
+    },
+    {
+      "name": "Beror",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on reptile-fugation image"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe in facie eius hec nomina: Vabros, Wiez, Bercca,g Beror, Berabut, Baramel."
+    },
+    {
+      "name": "Berabut",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on reptile-fugation image"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe in facie eius hec nomina: Vabros, Wiez, Bercca,g Beror, Berabut, Baramel."
+    },
+    {
+      "name": "Baramel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of six names inscribed on reptile-fugation image"
+      },
+      "page_ref": "p. 350 (83v)",
+      "raw_quote": "scribe in facie eius hec nomina: Vabros, Wiez, Bercca,g Beror, Berabut, Baramel."
+    },
+    {
+      "name": "Raccedi",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names inscribed on enemy’s door"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "[scribe] ista nomina cum ista aqua in porta domus eius: Raccedi,i Palicos, Pytalas, Pila,"
+    },
+    {
+      "name": "Palicos",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names inscribed on enemy’s door"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "[scribe] ista nomina cum ista aqua in porta domus eius: Raccedi,i Palicos, Pytalas, Pila,"
+    },
+    {
+      "name": "Pytalas",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names inscribed on enemy’s door"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "[scribe] ista nomina cum ista aqua in porta domus eius: Raccedi,i Palicos, Pytalas, Pila,"
+    },
+    {
+      "name": "Pila",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names inscribed on enemy’s door"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "[scribe] ista nomina cum ista aqua in porta domus eius: Raccedi,i Palicos, Pytalas, Pila,"
+    },
+    {
+      "name": "Baraa",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Atle",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Hate",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Carbara",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Garglale",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Ha",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Conadiuro Famal",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Alul",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Beaali",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Aguel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Arpa",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Nafaca",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Paluo",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of fifteen names inscribed on army-dispersal image"
+      },
+      "page_ref": "p. 351 (84r)",
+      "raw_quote": "sculpe in ea hec nomina: Baraa, Atle, Hate, Carbara, Garglale, Ha,"
+    },
+    {
+      "name": "Tartarath",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Acuta",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Col",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Cafra",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Cal",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Guabrath",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Afah",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Audena",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Matha",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Coltasia",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Bal",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Mathail",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Cafia",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Falduc",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Atal",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Parclena",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Cul",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Mathiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Fustaul",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Gaulyar",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    },
+    {
+      "name": "Etal",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of twenty-five names inscribed on enemy-expulsion image"
+      },
+      "page_ref": "p. 351 (84v)",
+      "raw_quote": "sculpe in ea hec nomina: Tartarath, Acuta, Col, Cafra, Cal, Guabrath, Afah,"
+    }
+  ]
+}

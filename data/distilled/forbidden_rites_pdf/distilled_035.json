@@ -1,0 +1,1355 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 35,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Anael",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel mandating Friday's image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] angeli mandantes eam sunt Anael, Naquiel, Sagriel [...]"
+    },
+    {
+      "name": "Naquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel mandating Friday's image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] angeli mandantes eam sunt Anael, Naquiel, Sagriel [...]"
+    },
+    {
+      "name": "Sagriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel mandating Friday's image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] angeli mandantes eam sunt Anael, Naquiel, Sagriel [...]"
+    },
+    {
+      "name": "Sarabores",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind associated with Friday's image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] et venti sunt Sarabores, et 3es adiutores Trathacas, Nasat, Nasaa."
+    },
+    {
+      "name": "Trathacas",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper of Friday's image winds"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] et venti sunt Sarabores, et 3es adiutores Trathacas, Nasat, Nasaa."
+    },
+    {
+      "name": "Nasat",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper of Friday's image winds"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] et venti sunt Sarabores, et 3es adiutores Trathacas, Nasat, Nasaa."
+    },
+    {
+      "name": "Nasaa",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper of Friday's image winds"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] et venti sunt Sarabores, et 3es adiutores Trathacas, Nasat, Nasaa."
+    },
+    {
+      "name": "Tarquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Anael, Tarquiel, Samuel, [...]"
+    },
+    {
+      "name": "Samuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Anael, Tarquiel, Samuel, [...]"
+    },
+    {
+      "name": "Hassahaa",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Anael, Tarquiel, Samuel, Hassahaa, Saaca, Giraca, [...]"
+    },
+    {
+      "name": "Saaca",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Anael, Tarquiel, Samuel, Hassahaa, Saaca, Giraca, [...]"
+    },
+    {
+      "name": "Giraca",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Anael, Tarquiel, Samuel, Hassahaa, Saaca, Giraca, [...]"
+    },
+    {
+      "name": "Adtulia",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Archalia, Aler, Gnad, Alualia, Saana, Samorie, Mahyra, Cartel, Harat, Maslatym, Caci, Yca, Yca, Dad, Dada, per ipsum qui est Cados, Salba, dominum angelorum et ventorum [...]"
+    },
+    {
+      "name": "Archalia",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Archalia, Aler, Gnad, Alualia [...]"
+    },
+    {
+      "name": "Aler",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Archalia, Aler, Gnad, Alualia [...]"
+    },
+    {
+      "name": "Gnad",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Archalia, Aler, Gnad, Alualia [...]"
+    },
+    {
+      "name": "Alualia",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Archalia, Aler, Gnad, Alualia [...]"
+    },
+    {
+      "name": "Saana",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Saana, Samorie, Mahyra, Cartel [...]"
+    },
+    {
+      "name": "Samorie",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Saana, Samorie, Mahyra, Cartel [...]"
+    },
+    {
+      "name": "Mahyra",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Saana, Samorie, Mahyra, Cartel [...]"
+    },
+    {
+      "name": "Cartel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Saana, Samorie, Mahyra, Cartel [...]"
+    },
+    {
+      "name": "Harat",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Harat, Maslatym, Caci, Yca, Yca, Dad, Dada [...]"
+    },
+    {
+      "name": "Maslatym",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Harat, Maslatym, Caci, Yca, Yca, Dad, Dada [...]"
+    },
+    {
+      "name": "Caci",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Maslatym, Caci, Yca, Yca, Dad, Dada [...]"
+    },
+    {
+      "name": "Yca",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration (repeated)"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Caci, Yca, Yca, Dad, Dada [...]"
+    },
+    {
+      "name": "Dad",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Caci, Yca, Yca, Dad, Dada [...]"
+    },
+    {
+      "name": "Dada",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Friday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Caci, Yca, Yca, Dad, Dada [...]"
+    },
+    {
+      "name": "Cya",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Cya, Mutaron, Sathauel [...]"
+    },
+    {
+      "name": "Mutaron",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Cya, Mutaron, Sathauel [...]"
+    },
+    {
+      "name": "Sathauel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Cya, Mutaron, Sathauel [...]"
+    },
+    {
+      "name": "Amamnim",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirit commanded by Saturday's angels"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] precipite spiritibus Amamnim et Astaba, Hertanalit [...]"
+    },
+    {
+      "name": "Astaba",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirit commanded by Saturday's angels"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] precipite spiritibus Amamnim et Astaba, Hertanalit [...]"
+    },
+    {
+      "name": "Hertanalit",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirit commanded by Saturday's angels"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] precipite spiritibus Amamnim et Astaba, Hertanalit [...]"
+    },
+    {
+      "name": "Albilfael",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] per nomen domini benedictum Albilfael, Fiel, Ignaborum [...]"
+    },
+    {
+      "name": "Fiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] per nomen domini benedictum Albilfael, Fiel, Ignaborum [...]"
+    },
+    {
+      "name": "Ignaborum",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] per nomen domini benedictum Albilfael, Fiel, Ignaborum [...]"
+    },
+    {
+      "name": "Yada",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Albilfael, Fiel, Ignaborum, Yada, Yaffla [...]"
+    },
+    {
+      "name": "Yaffla",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Yada, Yaffla, Tasagaf [...] "
+    },
+    {
+      "name": "Tasagaf",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Yada, Yaffla, Tasagaf [...] "
+    },
+    {
+      "name": "Hyaalym",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Tasagaf, Hyaalym [...] "
+    },
+    {
+      "name": "Anagodyny",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Hyaalym, Anagodyny [...] "
+    },
+    {
+      "name": "Dymas",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Anagodyny, Dymas [...] "
+    },
+    {
+      "name": "Anazana",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Dymas, Anazana [...] "
+    },
+    {
+      "name": "Salodaya",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Anazana, Salodaya [...] "
+    },
+    {
+      "name": "Athym",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Salodaya, Athym [...] "
+    },
+    {
+      "name": "Adyr",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Athym, Adyr [...] "
+    },
+    {
+      "name": "Elsyday",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Adyr, Elsyday [...] "
+    },
+    {
+      "name": "Adaptinor",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Elsyday, Adaptinor [...] "
+    },
+    {
+      "name": "Sabath",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Adaptinor, Sabath [...] "
+    },
+    {
+      "name": "Adoray",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Sabath, Adoray [...] "
+    },
+    {
+      "name": "Eloym",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Adoray, Eloym [...] "
+    },
+    {
+      "name": "Eloe",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Eloym, Eloe [...] "
+    },
+    {
+      "name": "Gna",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Eloe, Gna [...] "
+    },
+    {
+      "name": "Cithe",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Gna, Cithe [...] "
+    },
+    {
+      "name": "Sereaye",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Cithe, Sereaye [...] "
+    },
+    {
+      "name": "Alssylayessus",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Sereaye, Alssylayessus [...] "
+    },
+    {
+      "name": "Agnibora",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Alssylayessus, Agnibora [...] "
+    },
+    {
+      "name": "Osatietas",
+      "type": "spirit",
+      "attributes": {
+        "role": "blessed name of the Lord invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Agnibora, Osatietas [...] "
+    },
+    {
+      "name": "Cassie",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel of Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Osatietas, angelorum Cassie [...] "
+    },
+    {
+      "name": "Mittaron",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Mittaron, Satquiel [...] "
+    },
+    {
+      "name": "Satquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Mittaron, Satquiel [...] "
+    },
+    {
+      "name": "Mira",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] precipite me Mira et Affla [...] "
+    },
+    {
+      "name": "Affla",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] precipite me Mira et Affla [...] "
+    },
+    {
+      "name": "Alualuaht",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Alualuaht, Sayp [...] "
+    },
+    {
+      "name": "Sayp",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Alualuaht, Sayp [...] "
+    },
+    {
+      "name": "Aladep",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday's conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Sayp, Aladep [...] "
+    },
+    {
+      "name": "Castuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel mandating Saturn’s image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] hanc autem ymaginem mandant isti angeli: Castuel, Maratron uel Matraton, Satael."
+    },
+    {
+      "name": "Maratron",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel mandating Saturn’s image (variant: Matraton)"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Castuel, Maratron uel Matraton, Satael."
+    },
+    {
+      "name": "Matraton",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel mandating Saturn’s image (variant: Maratron)"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Castuel, Maratron uel Matraton, Satael."
+    },
+    {
+      "name": "Satael",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel mandating Saturn’s image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Castuel, Maratron uel Matraton, Satael."
+    },
+    {
+      "name": "Memmi",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind serving Saturn’s image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Et venti huic seruientes sunt hij: Memmi, Aloybain, Aflas, Analuabith."
+    },
+    {
+      "name": "Aloybain",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind serving Saturn’s image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Et venti huic seruientes sunt hij: Memmi, Aloybain, Aflas, Analuabith."
+    },
+    {
+      "name": "Aflas",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind serving Saturn’s image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Et venti huic seruientes sunt hij: Memmi, Aloybain, Aflas, Analuabith."
+    },
+    {
+      "name": "Analuabith",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind serving Saturn’s image"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Et venti huic seruientes sunt hij: Memmi, Aloybain, Aflas, Analuabith."
+    },
+    {
+      "name": "Cya",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s second conjuration"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] Venite, Cya, Mutaron, Sathauel [...] "
+    },
+    {
+      "name": "Stigisl",
+      "type": "spirit",
+      "attributes": {
+        "role": "sigil of Saturn"
+      },
+      "page_ref": "357",
+      "raw_quote": "[...] angeli commissi sigillo Saturni Stigisl [...]"
+    },
+    {
+      "name": "Abarthiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 12th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] Duodecimo mense regnat et dominatur princeps Abarthiel cum suis seruitoribus."
+    },
+    {
+      "name": "Assandaran",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 11th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] Vndecimo mense regnat et dominatur princeps Assandaran cum suis seruitoribus."
+    },
+    {
+      "name": "Macgmel",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 10th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] Decimo mense regnat et dominatur princeps Macgmel cum suis seruitoribus."
+    },
+    {
+      "name": "Andegor",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 9th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] Nono mense regnat et dominatur princeps Andegor cum suis seruitoribus."
+    },
+    {
+      "name": "Illdegage",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 8th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] Octauo mense regnat et dominatur princeps Illdegage cum suis seruitoribus."
+    },
+    {
+      "name": "Patderon",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 7th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] Septimo mense regnat et dominatur princeps Patderon cum suis seruitoribus."
+    },
+    {
+      "name": "Morel",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 6th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] Sexto mense regnat et dominatur princeps Morel cum suis seruitoribus."
+    },
+    {
+      "name": "Terogat",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 5th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] Quinto mense regnat et dominatur princeps Terogat cum suis seruitoribus."
+    },
+    {
+      "name": "Tanenon",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 4th month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] 4o mense regnat et seruit princeps Tanenon cum suis seruitoribus."
+    },
+    {
+      "name": "Dyrnaot",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 3rd month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] 3o mense regnat et dominatur princeps Dyrnaot cum suis seruitoribus."
+    },
+    {
+      "name": "Ragiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of the 2nd month"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] 2o mense regnat et dominatur princeps Ragiel cum suis seruitoribus."
+    },
+    {
+      "name": "Aysansasyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "first prince (eastern throno)"
+      },
+      "page_ref": "359",
+      "raw_quote": "[...] primus angelus est princeps, qui est in primo throno [...] et iste vocatur Aysansasyel [...]"
+    },
+    {
+      "name": "Baytan",
+      "type": "spirit",
+      "attributes": {
+        "role": "king reigning on Sunday"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] diei ergo dominico regnat et seruit Baytan rex [...] "
+    },
+    {
+      "name": "Caatus",
+      "type": "spirit",
+      "attributes": {
+        "role": "coadjutor of Sunday’s king"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] coadiutores sui sunt Caatus, Candas, Vambal [...] "
+    },
+    {
+      "name": "Candas",
+      "type": "spirit",
+      "attributes": {
+        "role": "coadjutor of Sunday’s king"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] coadiutores sui sunt Caatus, Candas, Vambal [...] "
+    },
+    {
+      "name": "Vambal",
+      "type": "spirit",
+      "attributes": {
+        "role": "coadjutor of Sunday’s king"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] coadiutores sui sunt Caatus, Candas, Vambal [...] "
+    },
+    {
+      "name": "Captiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel of Saturday (7th day)"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] diei sabbati, Captiel [...] "
+    },
+    {
+      "name": "Mataton",
+      "type": "spirit",
+      "attributes": {
+        "role": "co-invoked with Captiel on Saturday"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Rex Mayron, Assayby, invoco te et appello et tuos adiutores Abymalib et Haybaly [...] Vosp angeli qui presidetis diei sabbati, Captiel, Mataton, Sarquiel [...] "
+    },
+    {
+      "name": "Sarquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "co-invoked with Captiel and Mataton on Saturday"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Vosp angeli qui presidetis diei sabbati, Captiel, Mataton, Sarquiel [...] "
+    },
+    {
+      "name": "Abymalib",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper of Captiel"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] tuos adiutores Abymalib et Haybaly [...] "
+    },
+    {
+      "name": "Haybaly",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper of Captiel"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] tuos adiutores Abymalib et Haybaly [...] "
+    },
+    {
+      "name": "Dot",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s second conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Dot et Yfla [...] "
+    },
+    {
+      "name": "Yfla",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s second conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Dot et Yfla [...] "
+    },
+    {
+      "name": "Mira",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] precipite me Mira et Affla [...] "
+    },
+    {
+      "name": "Affla",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] precipite me Mira et Affla [...] "
+    },
+    {
+      "name": "Alualuaht",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Alualuaht, Sayp [...] "
+    },
+    {
+      "name": "Sayp",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Sayp, Aladep [...] "
+    },
+    {
+      "name": "Aladep",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "358",
+      "raw_quote": "[...] Sayp, Aladep [...] "
+    },
+    {
+      "name": "Yayn",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel of the first hour (day)"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] Prima ergo diei hora dicitur Yayn. In hac hora facienda est cartha ad destruendas voces hominum [...] "
+    },
+    {
+      "name": "Yaspel",
+      "type": "spirit",
+      "attributes": {
+        "role": "second day’s angel"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] Prima enim dies dominica vocatur Metraton. Et 2a Yaspel [...] "
+    },
+    {
+      "name": "Geminiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "third day’s angel"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] Tercia Geminiel. 4a Gabriel. 5a Michael. 6a Raphael. 7a Sarphiel uel Captiel [...] "
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "fourth day’s angel"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] Tercia Geminiel. 4a Gabriel [...] "
+    },
+    {
+      "name": "Michael",
+      "type": "spirit",
+      "attributes": {
+        "role": "fifth day’s angel"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] 5a Michael [...] "
+    },
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "role": "sixth day’s angel; also first hour’s angel and Sunday’s angel"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] 6a Raphael. [...] Angelus diei dominici est Raphael [...] Prima enim hora diei dominatur Raphael [...] "
+    },
+    {
+      "name": "Sarphiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "seventh day’s angel (also Captiel)"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] 7a Sarphiel uel Captiel [...] "
+    },
+    {
+      "name": "Captiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "seventh day’s angel (also Sarphiel)"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] 7a Sarphiel uel Captiel [...] "
+    },
+    {
+      "name": "Metraton",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel of Sunday"
+      },
+      "page_ref": "361",
+      "raw_quote": "[...] Prima enim dies dominica vocatur Metraton. Et 2a Yaspel [...] "
+    },
+    {
+      "name": "Yemat",
+      "type": "spirit",
+      "attributes": {
+        "role": "earth’s name in the 4th season"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Terra, queu in 4o tempore vocaris Yemat vel Yaneaa [...] "
+    },
+    {
+      "name": "Yaneaa",
+      "type": "spirit",
+      "attributes": {
+        "role": "earth’s name in the 4th season (variant)"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Terra, queu in 4o tempore vocaris Yemat vel Yaneaa [...] "
+    },
+    {
+      "name": "Amabel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel serving the 4th season"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] O nomina angelorum qui seruitis 4o tempore, Amabel [...] "
+    },
+    {
+      "name": "Terayl",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel serving the 4th season"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Terayl, Atrarayl [...] "
+    },
+    {
+      "name": "Atrarayl",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel serving the 4th season"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Terayl, Atrarayl [...] "
+    },
+    {
+      "name": "Castiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration (variant of Castuel)"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] O angeli fortes, Castiel, Matraton [...] "
+    },
+    {
+      "name": "Fatael",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Fatael [...] "
+    },
+    {
+      "name": "Genuum",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Et vos ventos, Genuum, Altibayn [...] "
+    },
+    {
+      "name": "Altibayn",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Genuum, Altibayn [...] "
+    },
+    {
+      "name": "Analuabith",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind invoked in Saturday’s final conjuration (variant of Analuabith)"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Analuabet [...] "
+    },
+    {
+      "name": "Mittaton",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Eya, Mittaton [...] "
+    },
+    {
+      "name": "Sathane",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in Saturday’s final conjuration (note: possibly not Satan but a name variant)"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] Eya, Mittaton, Sathane [...] "
+    },
+    {
+      "name": "Amamim",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirits commanded in Saturday’s final conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] precipite spiritibus Amamnim et Astaba [...] "
+    },
+    {
+      "name": "Astaba",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirits commanded in Saturday’s final conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] precipite spiritibus Amamnim et Astaba [...] "
+    },
+    {
+      "name": "Hertanalit",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirits commanded in Saturday’s final conjuration"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] vt venia[n]t cito, meum completumo mandatum [...] Hertanalit [...] "
+    },
+    {
+      "name": "Hactanaabit",
+      "type": "spirit",
+      "attributes": {
+        "role": "spirits commanded in Saturday’s final conjuration (variant)"
+      },
+      "page_ref": "362",
+      "raw_quote": "[...] vt veniant cito meum complez mandatum [...] Hactanaabit [...] "
+    },
+    {
+      "name": "Tomitat",
+      "type": "spirit",
+      "attributes": {
+        "role": "name of the Sun in 4th season"
+      },
+      "page_ref": "363",
+      "raw_quote": "[...] O Tomitat, nomen Solis in 4o tempore [...] "
+    },
+    {
+      "name": "Saarlaquia",
+      "type": "spirit",
+      "attributes": {
+        "role": "name of the Moon in 4th season"
+      },
+      "page_ref": "363",
+      "raw_quote": "[...] O Saarlaquia, nomen Lune in 4o tempore [...] "
+    },
+    {
+      "name": "Safaten",
+      "type": "spirit",
+      "attributes": {
+        "role": "name of the heavens in 4th season"
+      },
+      "page_ref": "363",
+      "raw_quote": "[...] O Safaten, nomen celorum in 4o tempore [...] "
+    },
+    {
+      "name": "Pedyoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names of the East"
+      },
+      "page_ref": "363",
+      "raw_quote": "[...] Orientis Pedyoth, Malchaam [...] "
+    },
+    {
+      "name": "Malchaam",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names of the East"
+      },
+      "page_ref": "363",
+      "raw_quote": "[...] Pedyoth, Malchaam [...] "
+    },
+    {
+      "name": "Mendie",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names of the East"
+      },
+      "page_ref": "363",
+      "raw_quote": "[...] Mendie, Danoe [...] "
+    },
+    {
+      "name": "Danoe",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names of the East"
+      },
+      "page_ref": "363",
+      "raw_quote": "[...] Mendie, Danoe [...] "
+    },
+    {
+      "name": "Yamhor",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of four names of the North"
+      },
+      "page_ref": "363",
+      "raw_quote": "[...] Septentrionis Yamhor [...] "
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Anael",
+      "to": "Veneris",
+      "type": "ministers"
+    },
+    {
+      "from": "Castuel",
+      "to": "Saturnus",
+      "type": "mandates"
+    },
+    {
+      "from": "Aysansasyel",
+      "to": "princeps orientalis throni",
+      "type": "governs"
+    },
+    {
+      "from": "Ragiel",
+      "to": "2o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Dyrnaot",
+      "to": "3o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Tanenon",
+      "to": "4o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Terogat",
+      "to": "5o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Morel",
+      "to": "6o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Patderon",
+      "to": "7o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Illdegage",
+      "to": "8o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Andegor",
+      "to": "9o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Macgmel",
+      "to": "10o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Assandaran",
+      "to": "11o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Abarthiel",
+      "to": "12o mense",
+      "type": "regnat in"
+    },
+    {
+      "from": "Raphael",
+      "to": "Sol",
+      "type": "ministers"
+    },
+    {
+      "from": "Captiel",
+      "to": "sabbati dies",
+      "type": "governs"
+    },
+    {
+      "from": "Captiel",
+      "to": "Mataton",
+      "type": "co-invoked with"
+    },
+    {
+      "from": "Captiel",
+      "to": "Sarquiel",
+      "type": "co-invoked with"
+    },
+    {
+      "from": "Yayn",
+      "to": "first hour",
+      "type": "dominates"
+    },
+    {
+      "from": "Metraton",
+      "to": "Sunday",
+      "type": "governs"
+    },
+    {
+      "from": "Abarthiel",
+      "to": "princeps duodecimi mensis",
+      "type": "identifies as"
+    }
+  ],
+  "summary": "This chunk details conjurations and ritual procedures from the Munich Handbook (CLM 849), focusing on image magic for Friday (Venus) and Saturday (Saturn). It includes lists of angels, winds, planetary rulers, and temporal hierarchies tied to months, days, hours, and cardinal directions. The Saturn section describes binding rituals involving images made of pitch, with specific incantations invoking spirits like Castuel, Matraton, Satael, and Amamnim. Temporal frameworks include 12 monthly princes (e.g., Ragiel, Dyrnaot), four seasonal divisions each governed by three angels, and daily/hourly angelic rulers (e.g., Raphael for Sunday/first hour). Protective circles, ritual tools (gladius), and ingredients (cera alba, pice clara) are also specified.",
+  "key_passages": [
+    "[...] hanc autem ymaginem mandant isti angeli: Castuel, Maratron uel Matraton, Satael. Et venti huic seruientes sunt hij: Memmi, Aloybain, Aflas, Analuabith.",
+    "Venite, Cya, Mutaron, Sathauel, angeli commissi sigillo Saturni Stigisl [...] precipite spiritibus Amamnim et Astaba [...] vt venia[n]t cito, meum completumo mandatum [...]",
+    "[...] primus angelus est princeps, qui est in primo throno et in parte orientali, dominatur primo tempore et mense primo, et iste vocatur Aysansasyel [...]",
+    "Prima enim hora diei dominatur Raphael [...] Angelus diei dominici est Raphael [...] Prima enim dies dominica vocatur Metraton.",
+    "[...] duodecimo mense regnat et dominatur princeps Abarthiel cum suis seruitoribus."
+  ]
+}

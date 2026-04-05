@@ -1,0 +1,786 @@
+{
+  "source_id": "necro",
+  "chunk_id": 25,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Dyacom (Dyacon)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual for gaining dignity"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "O Dyacon, Pumeon, Termines, Peripaos, Midain, Fabin, Gebel, Dorayl, Vmeloth, Tereoth, et Bireoth, spiritus benignissimi et concordiam seminantes..."
+    },
+    {
+      "name": "Pumeon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Pumeon, Termines..."
+    },
+    {
+      "name": "Terminas (Termines)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Pumeon, Termines..."
+    },
+    {
+      "name": "Peripaos (Peripaos)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Termines, Peripaos..."
+    },
+    {
+      "name": "Midam (Midain)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Peripaos, Midain..."
+    },
+    {
+      "name": "Fabni (Fabin)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Midain, Fabin..."
+    },
+    {
+      "name": "GebeP (Gebel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Fabin, Gebel..."
+    },
+    {
+      "name": "Darail (Dorayl)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Gebel, Dorayl..."
+    },
+    {
+      "name": "Vmeloth (Umeloth)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Dorayl, Vmeloth..."
+    },
+    {
+      "name": "Thereoth (Tereoth)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Vmeloth, Tereoth..."
+    },
+    {
+      "name": "Byreoth (Bireoth)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in image ritual"
+      },
+      "page_ref": "fol. 12r–13r",
+      "raw_quote": "...Tereoth, et Bireoth..."
+    },
+    {
+      "name": "Cartutay",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on stone for hatred ritual"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...nomen vnius cum hiis nominibus: Cartutay, Momabel, Sobil, et Geteritacon."
+    },
+    {
+      "name": "Momabel",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on stone for hatred ritual"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...Cartutay, Momabel..."
+    },
+    {
+      "name": "Sobil",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on stone for hatred ritual"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...Momabel, Sobil..."
+    },
+    {
+      "name": "Geteritacon",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on stone for hatred ritual"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...Sobil, et Geteritacon."
+    },
+    {
+      "name": "Puzanil",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on stone for hatred ritual"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...nomen alt[er]ius et hec nomina, scilicet Puzanil, Pimaton, Folfitoy, et Mansator."
+    },
+    {
+      "name": "Pimaton",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on stone for hatred ritual"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...Puzanil, Pimaton..."
+    },
+    {
+      "name": "Folfitoy",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on stone for hatred ritual"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...Pimaton, Folfitoy..."
+    },
+    {
+      "name": "Mansator",
+      "type": "spirit",
+      "attributes": {
+        "function": "inscribed on stone for hatred ritual"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...Folfitoy, et Mansator."
+    },
+    {
+      "name": "Apo lyn (Apolyon)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "named in hatred ritual incantation"
+      },
+      "page_ref": "fol. 14v",
+      "raw_quote": "...et per hec nomina demonum, videlicet ‘Apolyn’, ‘Gebel’, ‘Astaroth’, ‘Tereol’, ‘Fulmar’, et ‘Tvroces’..."
+    },
+    {
+      "name": "Gebel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "named in hatred ritual incantation"
+      },
+      "page_ref": "fol. 14v",
+      "raw_quote": "...Apolyn’, ‘Gebel’, ‘Astaroth’..."
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "named in hatred ritual incantation"
+      },
+      "page_ref": "fol. 14v",
+      "raw_quote": "...Gebel’, ‘Astaroth’..."
+    },
+    {
+      "name": "Tereol",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "named in hatred ritual incantation"
+      },
+      "page_ref": "fol. 14v",
+      "raw_quote": "...Astaroth’, ‘Tereol’..."
+    },
+    {
+      "name": "Fulmar",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "named in hatred ritual incantation"
+      },
+      "page_ref": "fol. 14v",
+      "raw_quote": "...‘Tereol’, ‘Fulmar’..."
+    },
+    {
+      "name": "Tvroces",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "named in hatred ritual incantation"
+      },
+      "page_ref": "fol. 14v",
+      "raw_quote": "...‘Fulmar’, et ‘Tvroces’"
+    },
+    {
+      "name": "Oymelor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama, spiritus iocundissimi..."
+    },
+    {
+      "name": "Demefin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Oymelor, Demefin..."
+    },
+    {
+      "name": "Lamair",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Demefin, Lamair..."
+    },
+    {
+      "name": "Masair",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Lamair, Masair..."
+    },
+    {
+      "name": "Symofor (Simofor)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r, 17v",
+      "raw_quote": "...Masair, Symofor..."
+    },
+    {
+      "name": "Rodobayl (Rodobail)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r, 17v",
+      "raw_quote": "...Symofor, Rodobayl..."
+    },
+    {
+      "name": "Tentetos",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Rodobayl, Tentetos..."
+    },
+    {
+      "name": "Lotobor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Tentetos, Lotobor..."
+    },
+    {
+      "name": "Memoyr (Memoir)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r, 17v",
+      "raw_quote": "...Lotobor, Memoyr..."
+    },
+    {
+      "name": "Tamafin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Memoyr, Tamafin..."
+    },
+    {
+      "name": "Leutaber (Zeugaber)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r, 17v",
+      "raw_quote": "...Tamafin, Leutaber..."
+    },
+    {
+      "name": "Tatomofon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Leutaber, Tatomofon..."
+    },
+    {
+      "name": "Faubair",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Tatomofon, Faubair..."
+    },
+    {
+      "name": "Selutabel (Belutabel)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r, 17v",
+      "raw_quote": "...Faubair, Selutabel..."
+    },
+    {
+      "name": "Rimasor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r",
+      "raw_quote": "...Selutabel, Rimasor..."
+    },
+    {
+      "name": "Syrama (Sirama)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus iocundissimi",
+        "function": "invoked in banquet ritual"
+      },
+      "page_ref": "fol. 16r, 17v",
+      "raw_quote": "...Rimasor, Syrama"
+    },
+    {
+      "name": "Vsyr",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "O Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor, et Ym, spiritus armigeri..."
+    },
+    {
+      "name": "Salaul",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Vsyr, Salaul..."
+    },
+    {
+      "name": "Silitor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Salaul, Silitor..."
+    },
+    {
+      "name": "Demor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Silitor, Demor..."
+    },
+    {
+      "name": "Zanno",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Demor, Zanno..."
+    },
+    {
+      "name": "Syrtroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Zanno, Syrtroy..."
+    },
+    {
+      "name": "Risbel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Syrtroy, Risbel..."
+    },
+    {
+      "name": "Cutroy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Risbel, Cutroy..."
+    },
+    {
+      "name": "Lytay",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Cutroy, Lytay..."
+    },
+    {
+      "name": "Onor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Lytay, Onor..."
+    },
+    {
+      "name": "Moloy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Onor, Moloy..."
+    },
+    {
+      "name": "Pumotor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Moloy, Pumotor..."
+    },
+    {
+      "name": "Tami",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Pumotor, Tami..."
+    },
+    {
+      "name": "Oor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Tami, Oor..."
+    },
+    {
+      "name": "Im (Ym)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri",
+        "function": "invoked in castle ritual"
+      },
+      "page_ref": "fol. 18v–19r",
+      "raw_quote": "...Oor, et Ym..."
+    },
+    {
+      "name": "Locus magistri",
+      "type": "location",
+      "attributes": {
+        "context": "center of diagram in earlier ritual"
+      },
+      "page_ref": "p. before fol. 12r (mentioned in header)",
+      "raw_quote": "The centre is labelled Locus magistri."
+    },
+    {
+      "name": "Lapis viosus",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used for hatred ritual; river stone"
+      },
+      "page_ref": "fol. 14r",
+      "raw_quote": "...duos lapides viuos...qui debent esse fluminei..."
+    },
+    {
+      "name": "Cinnamomum (cinnamon)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in suffumigation for dignity ritual"
+      },
+      "page_ref": "fol. 12v–13r",
+      "raw_quote": "...suffumiga ymaginem illius ad fumum horum aromaticum, scilicet cinamomi, piperis longi, et herba agrimonia..."
+    },
+    {
+      "name": "Piper longum (long pepper)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in suffumigation for dignity ritual"
+      },
+      "page_ref": "fol. 12v–13r",
+      "raw_quote": "...cynamomi, piperis longi..."
+    },
+    {
+      "name": "Agrimonia (agrimony)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in suffumigation for dignity ritual"
+      },
+      "page_ref": "fol. 12v–13r",
+      "raw_quote": "...et herba agrimonia"
+    },
+    {
+      "name": "Sulphur",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in suffumigation for hatred ritual"
+      },
+      "page_ref": "fol. 14v",
+      "raw_quote": "...suffumiga eum cum fumo sulphuris..."
+    },
+    {
+      "name": "Ferrum (iron)",
+      "type": "tool/ingredient",
+      "attributes": {
+        "function": "used for stylus in dignity ritual"
+      },
+      "page_ref": "fol. 12r",
+      "raw_quote": "Habeas stilum ferreum, et in eius fronte sculpes hoc nomen ‘Dyacom’..."
+    },
+    {
+      "name": "Argentum/stagnum (silver/lead)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used for casting image in dignity ritual"
+      },
+      "page_ref": "fol. 12r",
+      "raw_quote": "...habeas argentum siue stagnum, et ad ignem decola."
+    },
+    {
+      "name": "Lapis mollis (soft stone)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used for carving images in dignity ritual"
+      },
+      "page_ref": "fol. 12r",
+      "raw_quote": "Primo igitur habeas duos lapides molles..."
+    },
+    {
+      "name": "Linteum candidissimum (very white linen cloth)",
+      "type": "tool/ingredient",
+      "attributes": {
+        "function": "used to wrap image in dignity ritual"
+      },
+      "page_ref": "fol. 12r",
+      "raw_quote": "...habeas pannum lineum candidissimum, et hanc ymaginem in ipsam involve."
+    },
+    {
+      "name": "Catenula ferrea (iron chain)",
+      "type": "tool",
+      "attributes": {
+        "function": "used to bind image in dignity ritual"
+      },
+      "page_ref": "fol. 13r",
+      "raw_quote": "...habeas quandam catenulam ferream, et ad collum ipsius ymaginis liga..."
+    },
+    {
+      "name": "Ensem lucidissimum (very bright sword)",
+      "type": "tool",
+      "attributes": {
+        "function": "used in banquet ritual to inscribe names and draw circles"
+      },
+      "page_ref": "fol. 15v–16r",
+      "raw_quote": "...ferre ensem lucidissimum..."
+    },
+    {
+      "name": "Vppupa (turtle dove)",
+      "type": "tool/ingredient",
+      "attributes": {
+        "function": "used as binding agent in banquet ritual"
+      },
+      "page_ref": "fol. 15v–17r",
+      "raw_quote": "...et cum dicto ense...habere vppupam..."
+    },
+    {
+      "name": "Circulus quadruplex cum pentangulo (quadruple band circle with pentangle)",
+      "type": "ritual diagram",
+      "attributes": {
+        "function": "used in banquet ritual"
+      },
+      "page_ref": "fol. 15v diagram, described p. 16r",
+      "raw_quote": "Diagram on fol. 15v: a quadruple band with a pentangle inscribed in the centre..."
+    },
+    {
+      "name": "Circulus armorum (army circle)",
+      "type": "ritual diagram",
+      "attributes": {
+        "function": "shown to summoned spirits in castle ritual"
+      },
+      "page_ref": "fol. 19r",
+      "raw_quote": "...ostende eis statim hunc circulum, qui habet multum ipsos 15 demones pauentare (uel spanentare)..."
+    },
+    {
+      "name": "Lac et mel (milk and honey)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "sprinkled in air for castle ritual"
+      },
+      "page_ref": "fol. 18v",
+      "raw_quote": "...portans tecum lac et mel, de quo per aerem aspergere debes."
+    },
+    {
+      "name": "Matheus Hispanus",
+      "type": "person",
+      "attributes": {
+        "role": "mentioned in closing of banquet ritual"
+      },
+      "page_ref": "fol. 18v",
+      "raw_quote": "...quam Matheus Hispanus totaliter ignorauit, etc."
+    },
+    {
+      "name": "Parmen[ides]",
+      "type": "person",
+      "attributes": {
+        "role": "mentioned as user of image ritual"
+      },
+      "page_ref": "fol. 13r",
+      "raw_quote": "Hoc enim experimentum 2 vsus fuit Parmen[i]des ad regis Persarum graciam obtinendam."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Dyacom",
+      "to": "Pumeon",
+      "type": "co-occurs_in_conjuration"
+    },
+    {
+      "from": "Dyacom",
+      "to": "Terminas",
+      "type": "co-occurs_in_conjuration"
+    },
+    {
+      "from": "Dyacom",
+      "to": "Peripaos",
+      "type": "co-occurs_in_conjuration"
+    },
+    {
+      "from": "Cartutay",
+      "to": "Momabel",
+      "type": "co-occurs_on_stone"
+    },
+    {
+      "from": "Puzanil",
+      "to": "Pimaton",
+      "type": "co-occurs_on_stone"
+    },
+    {
+      "from": "Apolyon",
+      "to": "Gebel",
+      "type": "co-occurs_in_demon_list"
+    },
+    {
+      "from": "Vsyr",
+      "to": "Salaul",
+      "type": "co-occurs_in_conjuration"
+    },
+    {
+      "from": "Oymelor",
+      "to": "Demefin",
+      "type": "co-occurs_in_conjuration"
+    },
+    {
+      "from": "Lapis viosus",
+      "to": "Cartutay",
+      "type": "inscribed_with_name"
+    },
+    {
+      "from": "Ferrum",
+      "to": "Dyacom",
+      "type": "used_to_engrave_name"
+    },
+    {
+      "from": "Ensem lucidissimum",
+      "to": "Oymelor",
+      "type": "used_in_conjuration_of"
+    }
+  ],
+  "summary": "This chunk contains three rituals from the Munich Handbook: (1) No. 4 for gaining dignity/honour, involving spirit conjurations with named spirits like Dyacom and companions, image-making in stone/lead/silver, and binding rituals; (2) No. 5 for arousing hatred between friends, using inscribed river stones with demonic names like Cartutay and Puzanil groups, fire, and exorcisms invoking demons such as Apolyon and Astaroth; (3) No. 6 & 7 for banquet and castle summonings, respectively, involving circles with 15–16 spirit names (e.g., Oymelor group, Vsyr group), ritual tools like sword and turtle dove, and diagrams. Includes detailed instructions on materials, circle/diagram construction, incantations in Latin, and cross-references to other rituals.",
+  "key_passages": [
+    "O Dyacon, Pumeon, Termines, Peripaos, Midain, Fabin, Gebel, Dorayl, Vmeloth, Tereoth, et Bireoth, spiritus benignissimi et concordiam seminantes...",
+    "Coniuro vos spiritus inimicissimos, per eterni dei gloriam, quod inter talem et talem...quantum odium inter vos est, tantum inter ipsos seminetis et inseratis.",
+    "Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama, spiritus iocundissimi...",
+    "O Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor, et Ym, spiritus armigeri...",
+    "Hoc enim experimentum 2 vsus fuit Parmen[i]des ad regis Persarum graciam obtinendam."
+  ]
+}

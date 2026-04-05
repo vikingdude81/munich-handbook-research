@@ -1,0 +1,156 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 21,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "daimonia",
+      "type": "spirit",
+      "attributes": {
+        "role": "evil spirits masquerading as dead ancestors or deities",
+        "function": "respond to necromantic invocations, perform signs and wonders"
+      },
+      "page_ref": "218–223",
+      "raw_quote": "these foreign spirits must be the same daimonia as those which the ancient Pagans invoked by similar methods."
+    },
+    {
+      "name": "Hermes",
+      "type": "person",
+      "attributes": {
+        "role": "founder of pagan magic and necromantic tradition",
+        "syncretic identity": "also identified with Cush, Hephaestus, Thoth"
+      },
+      "page_ref": "223–225",
+      "raw_quote": "the intercourse with the dead by the modern votaries of Spiritualism and Theosophy is merely the revival of the old Pagan worship instituted by Hermes"
+    },
+    {
+      "name": "Cannes (Annedotus)",
+      "type": "spirit|person",
+      "attributes": {
+        "nature": "partly human, partly fish; a daemon",
+        "role": "antediluvian teacher of arts, letters, and idolatry"
+      },
+      "page_ref": "224–225",
+      "raw_quote": "a being called 'Cannes,' 'the Annedotus,' partly human and partly fish, who appeared to the people of Babylonia and taught them 'letters and science and every kind of art.'"
+    },
+    {
+      "name": "Chrysor (Hephaestus)",
+      "type": "person|spirit",
+      "attributes": {
+        "role": "sixth descendant from Adam; inventor of words, charms, divinations",
+        "posthumous worship": "worshipped as god called Diamichius"
+      },
+      "page_ref": "224–225",
+      "raw_quote": "Chrysor... exercised himself in words and charms and divinations, wherefore men worshipped him after death as a god and called him Diamichius the great inventor."
+    },
+    {
+      "name": "Theodorus",
+      "type": "person",
+      "attributes": {
+        "role": "intended successor to Emperor Valens, named by spirits via table-divination"
+      },
+      "page_ref": "218",
+      "raw_quote": "The spirits spelled 'Theod,' and concluding that Theodorus was intended they made no further inquiry... after the defeat of Valens by the Goths, Theodosius was proclaimed Emperor of the East."
+    },
+    {
+      "name": "planchette",
+      "type": "tool",
+      "attributes": {
+        "use": "device for receiving spirit communications; used in table-turning"
+      },
+      "page_ref": "218",
+      "raw_quote": "methods of invoking the spirits as table turning and of receiving their answers by means of a planchette were equally methods of ancient magic."
+    },
+    {
+      "name": "Balaam",
+      "type": "person",
+      "attributes": {
+        "role": "prophet granted true but morally ambiguous divinatory faculty"
+      },
+      "page_ref": "219",
+      "raw_quote": "the case of Balaam, and the allusion in Deut. xiii. 1, etc., to prophets who, although able to foresee the future, made use of their power for evil purposes"
+    },
+    {
+      "name": "Elisha",
+      "type": "person",
+      "attributes": {
+        "role": "prophet with clairvoyant abilities"
+      },
+      "page_ref": "219",
+      "raw_quote": "clairvoyance, as in the case of Elisha, when he perceived the messenger of the king of Israel coming to him before he entered his house (2 Kings vi. 32)"
+    },
+    {
+      "name": "The Doune Murderers",
+      "type": "spirit|event",
+      "attributes": {
+        "nature": "apparition of murderers, not spirits of the dead but evil daimonia"
+      },
+      "page_ref": "221–222",
+      "raw_quote": "I saw a car at some distance driving towards us... it completely vanished... It appeared that some years before, the owner of 'The Doune'... was waylaid and murdered... by four men who drove there on an outside car"
+    },
+    {
+      "name": "Isis",
+      "type": "deity",
+      "attributes": {
+        "role": "Pagan goddess mother; counterpart to Hermes/Hephaestus"
+      },
+      "page_ref": "218",
+      "raw_quote": "as in the case of Isis, who proclaimed herself to be 'the first of the celestials and the uniform manifestation of the gods'"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "daimonia",
+      "to": "spirit communication",
+      "type": "source_of"
+    },
+    {
+      "from": "Hermes",
+      "to": "antediluvian idolatry",
+      "type": "reviver_of"
+    },
+    {
+      "from": "Chrysor",
+      "to": "Hephaestus",
+      "type": "syncretic_identity_with"
+    },
+    {
+      "from": "Cannes",
+      "to": "Hermes",
+      "type": "antediluvian_predecessor_to"
+    },
+    {
+      "from": "planchette",
+      "to": "table-turning",
+      "type": "component_of"
+    },
+    {
+      "from": "Balaam",
+      "to": "prophetic faculty",
+      "type": "exemplar_of"
+    },
+    {
+      "from": "Elisha",
+      "to": "clairvoyance",
+      "type": "exemplar_of"
+    },
+    {
+      "from": "The Doune Murderers",
+      "to": "daimonia",
+      "type": "manifestation_by"
+    },
+    {
+      "from": "Isis",
+      "to": "Hermes",
+      "type": "divine_consort_in_pagan_trinity"
+    }
+  ],
+  "summary": "This chunk argues that modern spiritualist and theosophical spirit communication is a revival of ancient pagan necromancy, rooted in pre-diluvian traditions taught by figures like Hermes/Cush and Chrysor/Hephaestus. It draws parallels between ancient methods (e.g., table-turning with planchette) and modern mediumship, asserting that all such spirits are daimonia—evil spirits masquerading as ancestors or gods.",
+  "key_passages": [
+    "these foreign spirits must be the same daimonia as those which the ancient Pagans invoked by similar methods.",
+    "the intercourse with the dead by the modern votaries of Spiritualism and Theosophy is merely the revival of the old Pagan worship instituted by Hermes",
+    "methods of invoking the spirits as table turning and of receiving their answers by means of a planchette were equally methods of ancient magic.",
+    "Chrysor... exercised himself in words and charms and divinations, wherefore men worshipped him after death as a god and called him Diamichius the great inventor.",
+    "the apparition was not of the murdered man, but of the murderers... the spirit of a human being... we must therefore conclude that these apparitions are not the spirits of the dead, but evil spirits who... personate them."
+  ]
+}

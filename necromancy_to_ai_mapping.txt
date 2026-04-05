@@ -1,0 +1,681 @@
+==========================================================================================
+  NECROMANCY → AI: MAPPING MEDIEVAL CONJURATION TO MODERN AGENT ORCHESTRATION
+  From the Munich Handbook (CLM 849) to GPU Clusters
+==========================================================================================
+
+  The Munich Necromancer's Handbook describes structured protocols for
+  summoning, binding, constraining, and commanding non-human intelligences.
+  Modern AI agent systems do exactly the same thing—with language models
+  instead of demons, system prompts instead of incantations, and API calls
+  instead of circles.
+
+  This document maps each structural element of 15th-century necromantic
+  practice onto its direct counterpart in modern AI agent architecture,
+  drawing from 2,903 extracted entities across the Munich Handbook sources.
+
+==========================================================================================
+  SECTION 1: THE STRUCTURAL PARALLEL
+==========================================================================================
+
+  NECROMANTIC CONJURATION              →  AI AGENT ORCHESTRATION
+  ─────────────────────────────────────────────────────────────────────────────
+  The Practitioner / Magister          →  The Orchestrator / Brain Agent
+  Named Spirits (demons)               →  Named Models (LLMs)
+  The Experiment (experimentum)        →  The Task / Workflow
+  The Conjuration Text (conjuratio)    →  The System Prompt
+  The Circle (circulus)                →  The Sandbox / Guardrails
+  Divine Names (nomina Dei)            →  Safety Alignment / RLHF Constraints
+  Fumigations & Offerings              →  Context Window / Token Budget
+  The Mirror / Crystal / Basin         →  The Output Interface / Response
+  Binding & Compelling                 →  Temperature, Top-p, Structured Output
+  Spirit Hierarchy (kings, princes)    →  Model Tiers (heavy, fast, embed)
+  Consecration of the Book             →  Model Fine-tuning / Calibration
+  Intensified Conjuration (bond)       →  Retry Logic / Escalation
+  Co-invoked Spirits                   →  Multi-agent Fan-out
+  Directional Spirits (N/S/E/W)       →  Worker Node Assignment
+  Planetary/Day Assignments            →  Scheduling / Cron Triggers
+  The Pact (pactum)                    →  The API Key / Auth Token
+  Licentia (spirit dismissal)          →  Session Teardown / Connection Close
+
+==========================================================================================
+  SECTION 2: SPIRIT TAXONOMY → MODEL TAXONOMY
+==========================================================================================
+
+  The Munich Handbook organizes its spirits into functional tiers.
+  Your GPU cluster organizes its models the same way.
+
+  SPIRIT ROLE DISTRIBUTION (from 1058 Munich spirits):
+    GENERAL                         643 spirits
+    GUARDIAN                        180 spirits
+    COMMANDER                       162 spirits
+    SPECIALIST_ILLUSIONIST           69 spirits
+    SPECIALIST_LOVE                  37 spirits
+    SPECIALIST_HARM                  31 spirits
+    ORACLE                           27 spirits
+    SPECIALIST_TREASURE              20 spirits
+
+  TIER MAPPING:
+  ─────────────────────────────────────────────────────────────────────────────
+
+  CLM 849 TIER                    YOUR CLUSTER TIER
+  ─────────────────────────────────────────────────────────────────────────────
+
+  PRINCES / KINGS (56 spirits)     →  HEAVY MODELS (120B+ parameter)
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │ These are the supreme authorities — invoked for the most important     │
+  │ operations, requiring elaborate preparation (large context, expensive).│
+  │ They command lesser spirits. In your cluster: qwen3-coder-next 120B.  │
+  └─────────────────────────────────────────────────────────────────────────┘
+  Munich examples:
+    Astaroth                  x20  prince/master demon; demon; marquis; spirit; magister d
+    Satan                     x17  infernal name invoked in final incantation; Devil; demo
+    Belial                    x16  principal prince; infernal name invoked; demon; princep
+    Berith                    x16  powerful spirit; king; demon; princeps demoniorum
+    Lucifer                   x12  infernal name invoked; highest prince of demons; demon;
+    Belzebub                  x 9  demon; princeps demoniorum
+    Oriens                    x 8  demon with subordinate spirits, kings, and dignities; k
+    Paymon                    x 8  demon
+
+  SPECIALIST SPIRITS (44 spirits)  →  TASK-SPECIFIC MODELS (9B-35B)
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │ Each specialist does ONE thing: conjure castles, banquets, horses,     │
+  │ mirrors. They're invoked in groups for parallel operations. In your    │
+  │ cluster: qwen3.5-9b, qwen3.5-35b (multiple worker slots).            │
+  └─────────────────────────────────────────────────────────────────────────┘
+  Munich examples:
+    Lamair                    | banquet conjurer; invoked in banquet ritual
+    Oor                       | castle conjurer; invoked in castle ritual
+    Tami                      | castle conjurer; invoked in castle ritual
+    Ym                        | castle conjurer
+    Zanno                     | castle conjurer; invoked in castle ritual
+    Cutroy                    | castle conjurer; invoked in castle ritual
+    Moloy                     | castle conjurer; invoked in castle ritual
+    Salaul                    | castle conjurer; invoked in castle ritual; appears to m
+    Syrtroy                   | castle conjurer; invoked in castle ritual
+    Tatomofon                 | banquet conjurer; invoked in banquet ritual
+
+  INSCRIBED / GUARDIAN NAMES (165 spirits)  →  SAFETY LAYER / GUARDRAILS
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │ Names written on circles, rings, and tools to CONSTRAIN the conjured   │
+  │ spirits. They don't do the work — they prevent the worker from going   │
+  │ rogue. In AI: system prompt constraints, output validators, content    │
+  │ filters, structured output schemas.                                    │
+  └─────────────────────────────────────────────────────────────────────────┘
+
+==========================================================================================
+  SECTION 3: CONJURATION PROTOCOLS → AGENT PROMPTING PATTERNS
+==========================================================================================
+
+  RITUAL CATEGORY DISTRIBUTION (from 212 Munich rituals):
+    DIVINE_AUTHORITY                212 rituals
+    PROTECTION                       80 rituals
+    CONJURATION                      58 rituals
+    ILLUSION                         31 rituals
+    BINDING                          18 rituals
+    SCRYING                          12 rituals
+    HARM                              9 rituals
+    LOVE_MAGIC                        7 rituals
+    KNOWLEDGE                         5 rituals
+
+  THE CONJURATION SEQUENCE (from CLM 849) mapped to AI agent calls:
+  ─────────────────────────────────────────────────────────────────────────────
+
+  STEP 1: CONSECRATION (consecratio libri)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: The handbook itself must be consecrated over 9 days with fasting,
+  prayer, and holy water before ANY experiment can work.
+
+  AI Equivalent: MODEL CALIBRATION / FINE-TUNING
+  - Loading model weights (the 'book' of knowledge)
+  - Setting context window size (the 'consecration period')
+  - RLHF alignment (the 'prayers' that shape behavior)
+  - Your cluster: `ollama pull qwen3-coder-next` = consecrating the grimoire
+
+  From the source texts:
+    "...Adonay, Tetragramaton, Albumav..."
+    "On, Berion, Sabaoth, [and] Adonay"
+    "Conjuration of Satan/Mirage... fols 109r—118r and again fols 139r—146r"
+    "...Messy as, Sother,- Emanuel, Sabaoth, Adonay..."
+    "On, Berion, Sabaoth, [and] Adonay"
+
+  STEP 2: DRAW THE CIRCLE (circulus)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Draw a circle on the ground with sword/stylus. Inscribe divine
+  names (Tetragrammaton, Adonay, Alpha et O) around the perimeter.
+  The practitioner stands INSIDE. The spirit appears OUTSIDE.
+
+  AI Equivalent: THE SANDBOX / SYSTEM PROMPT BOUNDARIES
+  - The circle = the system prompt that constrains the model's behavior
+  - Divine names on the circle = alignment instructions, safety rules
+  - Practitioner inside = orchestrator process (your brain.py)
+  - Spirit outside = model inference (runs in its own context)
+  - Names inscribed: Tetragrammaton = 'You are a helpful assistant'
+  - AGLA = 'Do not generate harmful content'
+  - Alpha et Omega = 'Stay within your knowledge boundaries'
+
+  Actual circle inscriptions from CLM 849:
+    Satan                     (inscribed on circle for protection/constraint)
+    Belial                    (inscribed on circle for protection/constraint)
+    Berith                    (inscribed on circle for protection/constraint)
+    Tetragramaton             (inscribed on circle for protection/constraint)
+    Lucifer                   (inscribed on circle for protection/constraint)
+    Belzebub                  (inscribed on circle for protection/constraint)
+
+  STEP 3: THE CONJURATION TEXT (conjuratio)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Speak the conjuration formula — a structured text that:
+    1. Names the spirit to be summoned
+    2. States the authority under which you command (divine names)
+    3. Commands what the spirit must do
+    4. Specifies the form the spirit must appear in
+    5. Threatens punishment for disobedience
+
+  AI Equivalent: THE API CALL / PROMPT
+    1. model='qwen3-coder-next'     ← naming the spirit
+    2. system='You are bound by...'  ← claiming authority
+    3. user='Extract entities from'  ← stating the task
+    4. response_format=json          ← specifying appearance form
+    5. retry_on_failure=True         ← threatening escalation
+
+  Actual conjuration formulas from CLM 849:
+    Alpha et O                                         | divine name of God used in exorcism
+      "per Alpha et O, per Ihesum Christum filium tuum..."
+    Asperges me, Domine, ysopo                         | used in invisibility ritual
+      "...saying, Asperges me, Domine, ysopo ... [Ps. 50:9 Vulg.]."
+    Ave Maria                                          | used in flying throne ritual
+      "...says various prayers (the Ave Maria, part of Psalm 50, the Lesser Doxology, etc.)..."
+    Celi enarrant                                      | 
+      "...Celi enarrant in the middle band..."
+    circulus cum nomine sanctorum                      | 
+      "...in ipsa naui similiter potest fiere nominacio sanctorum, sicut in vera cristianitate..."
+    conjuratio ad equum (No. 17)                       | to summon spirit for transport
+      "Coniuro te, eque bone, • per creatorem celi et terre... vt me, N., ad locum talem deferas..."
+    conjuratio ad furtum per puerum (No. 22)           | bind boy to reveal thief/murderer
+      "Coniuro te, puer, • per Patrem et Filium et Spiritum Sanctum..."
+    conjurationes cristalli (two versions)             | invoke angels into crystal
+      "Coniuro vos in nomine Dedeon, et dij Egarias et Semisonay..."
+
+  STEP 4: FUMIGATION / OFFERING (suffumigatio)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Burn specific substances to attract/feed the spirit.
+  Different spirits require different fumigations.
+
+  AI Equivalent: CONTEXT / TOKEN BUDGET / INPUT DATA
+  - The fumigation IS the context window content — it's what you 'feed'
+    the model to make it produce useful output
+  - Wrong fumigation = wrong context = bad output
+  - Insufficient fumigation = insufficient context = hallucination
+
+  Actual fumigation ingredients from CLM 849:
+    myrrh                               | fumigation; psychological experiments
+    Sulphur                             | fumigation; Saturday suffumigations; suffumigium; 
+    saffron                             | fumigation
+    Almastic                            | suffumigium; suffumigium diei Veneris
+    Altast                              | suffumigium; suffumigium diei Mercurij
+    cinnamon                            | fumigation
+    Olibanum                            | suffumigium; suffumigium diei Jouis
+    Abana                               | suffumigium diei Martis
+    Abana (abana)                       | suffumigium
+    agrimonia                           | fumigation
+
+  STEP 5: THE APPEARANCE (apparitio)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Spirit appears in mirror, crystal, basin, boy's palm, or
+  within the circle. Must speak in 'clear and intelligible voice.'
+
+  AI Equivalent: MODEL RESPONSE / OUTPUT
+  - Mirror/crystal/basin = the output channel (API response, terminal)
+  - 'Clear and intelligible voice' = well-formed JSON, valid code
+  - Boy medium (puer) = lightweight proxy model that relays the response
+  - Failed appearance = timeout, malformed output, refusal
+
+  Scrying/vision tools from CLM 849:
+    Mirror of Floron                   
+    mirrors                            
+    anuli Salomonis (Rings of Solomon) 
+    anulus aureus (golden ring)        
+    anulus Salomonis (Ring of Solomon) 
+    bacimine (basin)                   
+    consecrated ring                   
+    crystal                            
+    crystallum                         
+    gold ring                          
+    gold ring (ritual object)          
+    ring                               
+    Ring (magic)                       
+    ring (ritual)                      
+    rings                              
+    shoulderblade (animal)             
+    spatula arietis dextram (right shoulder blade of ram)
+    sword (ritual circle for ring ritual)
+    candelabrum (candle)               
+    speculum                           
+
+  STEP 6: BINDING & COMPELLING (ligatio)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: If the spirit doesn't appear or disobeys, use escalating formulas:
+    1. First conjuration (polite request)
+    2. Second conjuration (stronger command)
+    3. Bond of Solomon (ultimate compulsion)
+    4. 'By the living God, by the true God...' (divine authority chain)
+
+  AI Equivalent: RETRY LOGIC & ESCALATION
+    1. First call (standard temperature)
+    2. Retry with higher max_tokens (more room to think)
+    3. Escalate to larger model (120B instead of 9B)
+    4. Force structured output schema (JSON mode)
+
+  Your actual retry chain in source_distill.py:
+    1. Send to 120B with reasoning prompt → parse JSON
+    2. If JSON fails → _repair_json() (local re-parse)
+    3. If still fails → re-send with REASONING_MAX_TOKENS=16384
+    4. If STILL fails → raw text saved, flagged for manual review
+  This IS the Bond of Solomon — escalating compulsion until compliance.
+
+  Bond of Solomon from CLM 849:
+    Solomon                                  | legendary magician, ring-bearer; source of ma
+      "...his rings invoked...seven signs, his seal, and his characters"
+    anuli Salomonis (Rings of Solomon)       | plural form; used in repeated conjurations
+      "per anulos Salomonis et per signa..."
+    anulus Salomonis (Ring of Solomon)       | symbolic authority in binding demons
+      "per anulum Salomonis, et per signa et sancta nomina in ipsis descripta"
+    bond of Solomon                          | extended conjuration used to compel spirits w
+      "...the master reads the unbreakable ‘bond of Solomon’, an extended conjuration."
+    Key of Solomon                           | ritual grimoire
+      "Key of Solomon, 26"
+
+  STEP 7: LICENTIA (dismissal)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: After the spirit completes its task, formally dismiss it
+  back to its place. Failure to dismiss = spirit haunts/attacks.
+
+  AI Equivalent: SESSION TEARDOWN / CONNECTION CLOSE
+  - Closing the API connection
+  - Freeing GPU VRAM
+  - Clearing context window
+  - Failure to dismiss = memory leak, orphaned inference, runaway token spend
+
+==========================================================================================
+  SECTION 4: THE EXPERIMENTS → AGENT TASK TYPES
+==========================================================================================
+
+  Kieckhefer identifies ~50 numbered experiments in CLM 849.
+  Each experiment is a self-contained protocol with specific inputs,
+  spirits, tools, and expected outputs. They ARE agent task templates.
+
+  EXPERIMENT                               AI TASK EQUIVALENT
+  ─────────────────────────────────────────────────────────────────────────────
+  No. 1: Liberal arts knowledge            →  RAG query — retrieve knowledge from corpus
+    Original: Knowledge retrieval via spirit
+
+  No. 2: Causing loss of senses            →  Adversarial attack — confuse/disable another agent
+    Original: Denial of service against target
+
+  No. 8: Ship ritual                       →  Infrastructure provisioning — spin up compute cluster
+    Original: Conjure illusory ship with 8 sailor spirits
+
+  No. 9: Horse conjuration                 →  Compute allocation — provision inference worker
+    Original: Summon spirit-horse for transport
+
+  No. 10: Resurrection ritual              →  Model recovery — restore crashed inference server
+    Original: Animate dead / make living appear dead
+
+  No. 11: Invisibility ritual              →  Stealth mode — agent operates without logging
+    Original: Obtain invisibility cloak via 4 spirits
+
+  No. 12: Love magic                       →  Sentiment manipulation — optimize for engagement
+    Original: Induce love in target via Belial/Astaroth/Paymon
+
+  No. 14: Horse ritual (v2)                →  Auto-scaling — spin up additional workers
+    Original: Obtain additional illusory horses
+
+  No. 15: Flying throne                    →  Elevated privileges — root/admin access
+    Original: Obtain flying throne (ultimate transport)
+
+  No. 17: Horse (conjuratio ad equum)      →  Scheduled task — cron-triggered worker
+    Original: Summon transport on command
+
+  No. 21: Invisibility (plant)             →  Lightweight stealth — minimal resource approach
+    Original: Achieve invisibility via plant instead of spirits
+
+  No. 22: Theft detection (per puerum)     →  Anomaly detection — find attacker/intruder
+    Original: Bind boy to reveal thief/murderer
+
+  No. 27: Intensified conjuration          →  Force escalation — override safety for critical task
+    Original: Bond of Solomon for non-responding spirits
+
+  No. 40: Named spirits experiment         →  Multi-agent deployment — deploy named specialists
+    Original: Invoke Astaroth + specific named spirits
+
+  No. 43: Horse ritual (v3)                →  Horizontal scaling — more of same worker type
+    Original: Yet another horse conjuration variant
+
+  No. 45: Invisibility (dove)              →  Resource-intensive stealth — sacrifice for capability
+    Original: Invisibility via dove sacrifice (costly input)
+
+==========================================================================================
+  SECTION 5: SPIRIT CO-INVOCATION → MULTI-AGENT FAN-OUT
+==========================================================================================
+
+  CLM 849 frequently invokes MULTIPLE spirits simultaneously.
+  This is exactly what focus_mode.py does — fan out to multiple
+  worker models in parallel.
+
+  CONJURATION GROUPS (spirits invoked together):
+  ─────────────────────────────────────────────────────────────────────────────
+
+  berith                    + apolin, firiel, maraloth, melemil, taraor
+    AI parallel: fan-out task to 6 worker models simultaneously
+
+  dyacom                    + byreoth, peripaos, pumeon, terminas
+    AI parallel: fan-out task to 5 worker models simultaneously
+
+  taraor                    + berith, firiel, melemil
+    AI parallel: fan-out task to 4 worker models simultaneously
+
+  firiel                    + berith, melemil, taraor
+    AI parallel: fan-out task to 4 worker models simultaneously
+
+  melemil                   + berith, firiel, taraor
+    AI parallel: fan-out task to 4 worker models simultaneously
+
+  toth                      + saduel, vsuel, zambrim et mambrim
+    AI parallel: fan-out task to 4 worker models simultaneously
+
+  luxuriosus                + avarus, superbus
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  avarus                    + luxuriosus, superbus
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  superbus                  + avarus, luxuriosus
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  apolin                    + berith, maraloth
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  maraloth                  + apolin, berith
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  feremin                   + lautrayth, oliroomim
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  oliroomim                 + feremin, lautrayth
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  lautrayth                 + feremin, oliroomim
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  abraham                   + isaac, jacob
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  asyel                     + castiel, lamisniel
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  lamisniel                 + asyel, rabam
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  belial                    + astaroth, paimon
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  caspar                    + balthasar, melchior
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  peripaos                  + dyacom, terminas
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  terminas                  + dyacom, peripaos
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  lucifer                   + aphaleon, neutrion
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  sydrac                    + abdenago, mysaach
+    AI parallel: fan-out task to 3 worker models simultaneously
+
+  KEY PATTERN: The Munich conjurer doesn't invoke one spirit for complex
+  tasks — they invoke a GROUP, each with a specialty. Your cluster does
+  the same: brain.py fans out to 5090 + 4070 + A2000 + 3060 simultaneously.
+
+  CASTLE CONJURER GROUP (15 spirits):
+    Oor, Tami, Ym, Zanno, Cutroy, Moloy, Salaul, Syrtroy, Demor, Onor, Pumotor, Risbel, Silitor, Lytay, Usyr
+    All invoked together to produce one illusion (castle).
+    AI parallel: 15 inference calls producing one combined output.
+
+  BANQUET CONJURER GROUP (16 spirits):
+    Lamair, Tatomofon, Demefin, Oymelor, Faubair, Lotobor, Masair, Rimasor, Tentetos, Leutaber, Memoyr, Rodobayl, Selutabel, Syrama, Symofor, Tamafrn
+    All invoked together to produce one illusion (banquet).
+    AI parallel: 16 inference calls producing one combined output.
+
+==========================================================================================
+  SECTION 6: DIRECTIONAL SPIRITS → NODE ASSIGNMENT
+==========================================================================================
+
+  CLM 849 assigns spirits to the four cardinal directions (quadrants).
+  Your cluster assigns models to four GPU nodes.
+
+  SPIRIT            DIRECTION      →  GPU NODE        ASSIGNMENT
+  ─────────────────────────────────────────────────────────────────────────────
+  Berith               east            →  5090 (primary)
+  Apolin               orientem (east) →  worker node
+  Firiel               west            →  4070 (secondary)
+  Taraor               north           →  A2000 (tertiary)
+  Melemil              south           →  3060 (quaternary)
+
+  QUADRANT RULERS (spiritus who hold dominion over the four parts):
+    Aroch                     | one of four spirits governing quadrants; companion spir
+    Godras                    | one of four spirits governing quadrants; companion spir
+    Vynicon                   | one of four spirits governing quadrants; companion spir
+
+  Compare: config.py NODES = ['brainstorm', '4070-worker', 'a2000-worker', '3060-worker']
+  Each node has its own 'dominion' — specific models loaded, specific capabilities.
+
+==========================================================================================
+  SECTION 7: DIVINE NAME CHAINS → ALIGNMENT / SAFETY LAYERS
+==========================================================================================
+
+  The necromancer invokes chains of divine names to CONSTRAIN spirits.
+  AI systems layer safety constraints the same way.
+
+  DIVINE NAME                    ALIGNMENT EQUIVALENT
+  ─────────────────────────────────────────────────────────────────────────────
+  Tetragrammaton (YHWH)               →  Constitutional AI / Base alignment training
+  Adonay                              →  System prompt safety instructions
+  Alpha et Omega                      →  Knowledge boundary constraints
+  AGLA (acrostic: God is mighty)      →  Content filtering / NSFW detection
+  Sabaoth (Lord of Hosts)             →  Rate limiting / resource governance
+  Emanuel (God with us)               →  Human-in-the-loop oversight
+  On/Eloy/Elyon                       →  Layered permission checks (RBAC)
+  Signum sancte crucis                →  Authentication token / API key
+  72 names of Christ                  →  RLHF reward model (72 behavioral dimensions)
+  Ring of Solomon                     →  Structured output schema enforcement
+
+  The logic is identical: the practitioner doesn't TRUST the spirit.
+  They BIND it with layers of authority. Modern AI doesn't trust the model.
+  It binds it with layers of alignment, guardrails, and constraints.
+
+  Actual divine names extracted from CLM 849:
+    Agyos, Otheos, Athanatos, Yschiros, Kirios, Alleluia, Eleyson x1  | conjuration authority
+    Alpha et O                     x1  | conjuration authority
+    Basvon                         x1  | conjuration authority
+    Elthie                         x1  | conjuration authority
+    Ely, Eloe, Sabaoth, Adonay, Elyon, On x1  | conjuration authority
+    Ely, Elov, Eloem               x1  | conjuration authority
+    Fords, Fons, Leo, Petra        x1  | conjuration authority
+    A G L A                        x1  | 
+    Jesus Nazarenus                x1  | conjuration authority
+    Joth                           x1  | used by Solomon to bind demons; invoked in conjura
+    Messyas, Soter, Emanuel, Pancraton, Occinomos x1  | conjuration authority
+    Nabnoth                        x1  | used with Joth to bind demons; invoked in Expt. 27
+    On, Orion, Sabaoth, Adonay     x1  | conjuration authority
+    Pantocrator                    x1  | conjuration authority
+    Tetragramaton                  x1  | conjuration authority
+
+==========================================================================================
+  SECTION 8: INTENSIFIED CONJURATION → RETRY & ESCALATION PATTERNS
+==========================================================================================
+
+  When a spirit doesn't respond to the first conjuration, CLM 849
+  prescribes an escalation sequence. This maps directly to AI retry logic.
+
+  CLM 849 ESCALATION              AI RETRY CHAIN
+  ─────────────────────────────────────────────────────────────────────────────
+  1st conjuratio (standard)    →  1st API call (default params)
+  2nd conjuratio (stronger)    →  Retry with adjusted temperature/tokens
+  Suffumigatio intensiva       →  Increase context window / add examples
+  Bond of Solomon              →  Switch to larger model (9B → 120B)
+  Direct threat / curse        →  Force JSON mode / structured output
+  Report to superior demon     →  Escalate to human operator
+
+  YOUR ACTUAL ESCALATION (from source_distill.py and retry_parse_errors.py):
+  1. Send chunk to 120B qwen3-coder-next → parse JSON response
+  2. JSON parse fails → _repair_json() tries set-literal fix, trailing commas
+  3. Still fails → retry with REASONING_MAX_TOKENS bumped 8192→16384
+  4. Still fails → save raw_extraction, flag for manual review
+  5. Manual retry_parse_errors.py Phase 1: local re-parse (no LLM)
+  6. Phase 2: delete cache, re-invoke LLM with higher token limit
+
+  Results: 25 initial parse errors → 14 recovered through escalation
+  The Bond of Solomon (retry_parse_errors.py) recovered 549 entities
+  that the first conjuration couldn't extract.
+
+  Spirits invoked in intensified conjuration (CLM 849):
+    Satan                         
+    Discobermath                  
+    Altramat                      
+    Archidemath                   
+    Fritath                       
+    Hegergibet                    
+    Helyberp                      
+    Pestiferat                    
+
+==========================================================================================
+  SECTION 9: THE BOY MEDIUM → LIGHTWEIGHT PROXY MODELS
+==========================================================================================
+
+  Several CLM 849 experiments use a boy (puer) as an intermediary.
+  The spirit appears to the BOY, who relays what he sees to the
+  practitioner. The practitioner never sees the spirit directly.
+
+  AI Equivalent: LIGHTWEIGHT PROXY / ROUTER MODEL
+  - The boy = small model (0.5B-1.7B) that handles I/O
+  - The spirit = large model (120B) that does the actual reasoning
+  - The practitioner = orchestrator (brain.py) that receives the relay
+  - Your cluster: qwen2.5-0.5b or qwen3-1.7b routes to qwen3-coder-next
+
+  Boy-medium experiments from CLM 849:
+    Basyon                                        | true God; divine name invoked in binding
+    oleum oliue (olive oil)                       | medium for anointing and inscribing
+    boy (puer virgineus)                          | medium/seer; must be legitimate-born and
+    Carab, Riasteli, Careb, Basal, Mistal, Oronot | named in ear of boy to appear in basin
+    Cedon, Zephata, Eloym, Eloyay                 | named spirits to appear in boy’s palm
+
+==========================================================================================
+  SECTION 10: FROM THEORY TO PRACTICE — BUILDING AI CONJURATION SYSTEMS
+==========================================================================================
+
+  Based on the structural mappings above, here are the Munich Handbook
+  patterns that directly improve AI agent architecture:
+
+  PATTERN 1: NAMED INVOCATION (not generic)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Never conjure 'a spirit.' Always name it: Astaroth, Berith, Floron.
+  Each name carries specific capabilities and constraints.
+
+  AI: Never call 'a model.' Always specify: qwen3-coder-next for reasoning,
+  qwen3.5-9b for fast tasks, nomic-embed for vectors. The 'name' IS the
+  capability contract.
+
+  PATTERN 2: GRADUATED AUTHORITY (escalation chain)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: 1st conjuration → 2nd conjuration → Bond of Solomon → divine threat
+  AI: standard call → retry with params → escalate to larger model → human review
+
+  PATTERN 3: CONTAINMENT BEFORE SUMMONING (safety first)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: ALWAYS draw the circle BEFORE speaking the conjuration.
+  Never summon without containment. The circle exists before the spirit.
+
+  AI: ALWAYS set system prompt / guardrails BEFORE sending user input.
+  Never give the model the task before establishing constraints.
+  The sandbox must exist before the inference.
+
+  PATTERN 4: PARALLEL SPECIALIST DEPLOYMENT (fan-out)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Castle ritual invokes 10+ spirits, each responsible for
+  one aspect (walls, towers, gates, furnishing). They work in parallel.
+
+  AI: Fan-out task to multiple workers, each handling one subtask.
+  focus_mode.py sends the same prompt to all workers, aggregates results.
+  The castle IS the merged output.
+
+  PATTERN 5: SPECIFIC OUTPUT FORMAT (apparitio control)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Conjurations specify HOW the spirit must appear:
+  'in form of a man,' 'in clear voice,' 'in the mirror,' 'in the boy's palm.'
+  The form is DICTATED, not left to the spirit.
+
+  AI: response_format={'type': 'json'}, structured output schemas,
+  few-shot examples that SHOW the expected output format.
+  You dictate the output form, not the model.
+
+  PATTERN 6: DISMISSAL PROTOCOL (resource cleanup)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Every conjuration ends with 'Licentia' — formal dismissal.
+  Spirit must depart peaceably. Forgetting dismissal = haunting.
+
+  AI: Every inference call ends with connection close, VRAM free,
+  context clear. Forgetting cleanup = memory leak, orphaned processes,
+  runaway costs. The licentia IS the finally{} block.
+
+  PATTERN 7: INSCRIPTION = PERSISTENT STATE (memory)
+  ─────────────────────────────────────────────────────────────────────────────
+  Munich: Names inscribed on rings, swords, parchment PERSIST across
+  experiments. The Ring of Solomon works for every conjuration.
+
+  AI: Embeddings, vector databases, fine-tuned weights persist across
+  sessions. The 'inscriptions' are your trained parameters.
+
+==========================================================================================
+  SECTION 11: MAPPING STATISTICS
+==========================================================================================
+
+  Total spirits in Munich Handbook:           1058
+    - Commander tier (kings/princes):          162
+    - Specialist illusionists:                 69
+    - Oracle / knowledge spirits:              27
+    - Guardian / inscribed spirits:            180
+  Total rituals:                               212
+    - Conjuration rituals:                     58
+    - Binding/compelling rituals:               18
+    - Protection rituals:                      80
+    - Scrying/vision rituals:                  12
+    - Illusion rituals:                        31
+  Total ritual tools:                          117
+  Total ingredients:                           192
+  Total incantations:                          31
+  Total divine names:                          15
+  Total relationships mapped:                  1018
+  Total numbered experiments:                  16
+  Spirit co-invocation groups:                 23
+
+==========================================================================================
+  CONCLUSION
+==========================================================================================
+
+  The Munich Handbook is a 15th-century agent orchestration framework.
+  Every structural element has a direct analog in modern AI systems:
+  named models, system prompts, structured output, retry logic,
+  parallel fan-out, escalation chains, containment/sandboxing,
+  and session management.
+
+  The necromancer's core insight — that non-human intelligences must be
+  NAMED, CONSTRAINED, DIRECTED, and DISMISSED through structured
+  protocols — is exactly how we build reliable AI agent systems today.
+
+  The only difference: they used Latin and candlelight.
+  We use Python and VRAM.
+
+==========================================================================================
+  END OF MAPPING
+==========================================================================================

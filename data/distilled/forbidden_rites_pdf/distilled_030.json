@@ -1,0 +1,607 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 30,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "On",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name used in consecrations and exorcisms"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "…On, Alpha et O, El, Eloy, Eloyye, Sithothith,s Eon, Sepmelamaton, Ezelpha-[54r] tes,t Tetragramaton…"
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spirit",
+      "attributes": {
+        "role": "four-letter divine name (YHWH), central to ritual efficacy"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Elyoram, Ryon, Deseryon, Erystion, Ysyornus, Onela, Baysyn, Moyn, Messyas, Sother,u Emanuel, Sabaoth, Adonay – et per omnia secreta nomina tua que in hoc libro continentur…"
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name invoked repeatedly for authority over spirits"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Elyoram, Ryon, Deseryon, Erystion… Sabaoth, Adonay – et per omnia secreta nomina tua que in hoc libro continentur…"
+    },
+    {
+      "name": "Messias / Messyas",
+      "type": "spirit",
+      "attributes": {
+        "role": "messianic title invoked in consecrations"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Moyn, Messyas, Sother,u Emanuel, Sabaoth, Adonay…"
+    },
+    {
+      "name": "Emanuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name meaning 'God with us', used in conjurations"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Messyas, Sother,u Emanuel, Sabaoth, Adonay…"
+    },
+    {
+      "name": "Sabaoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title (Lord of Hosts), invoked for power over spirits"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Emanuel, Sabaoth, Adonay…"
+    },
+    {
+      "name": "Alpha et O / Alpha et O",
+      "type": "spirit",
+      "attributes": {
+        "role": "apocalyptic divine title (Revelation), invoked for cosmic authority"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Ihesus Christus, Alpha et O, El, Ely, Eloye, On, Otheon…"
+    },
+    {
+      "name": "Elyon / Elyo / Eloye",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title (Most High), invoked repeatedly"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...El, Ely, Elyo, Eloe, Elyon…"
+    },
+    {
+      "name": "Sother",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title (Savior), invoked in consecrations"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Elyon, Sother, Emanuel…"
+    },
+    {
+      "name": "Stimlamathon / Stimulamaton",
+      "type": "spirit",
+      "attributes": {
+        "role": "mysterious divine name, possibly corrupted or esoteric"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Otheon, Stimlamathon,w Ezelpha-[54r] tes,t Tetragramaton…"
+    },
+    {
+      "name": "Ezelphares / Ezelpha-[54r] tes",
+      "type": "spirit",
+      "attributes": {
+        "role": "esoteric divine name"
+      },
+      "page_ref": "54r–58v",
+      "raw_quote": "...Stimlamathon,w Ezelpha-[54r] tes,t Tetragramaton…"
+    },
+    {
+      "name": "A G L A",
+      "type": "spirit",
+      "attributes": {
+        "role": "tetragrammaton-related magical formula (A = Agla, G = God, L = Lord, A = Almighty)"
+      },
+      "page_ref": "55v",
+      "raw_quote": "...per sanctissimum nomen tuum quod scribitur 4or litteris, loth, hoth, vel hec, vel A G L A, g, e, he, van…"
+    },
+    {
+      "name": "Ioth / Ioth",
+      "type": "spirit",
+      "attributes": {
+        "role": "Hebrew letter used in divine name formulas"
+      },
+      "page_ref": "56r",
+      "raw_quote": "...quod scribitur per iiij litteras, scilicet Ioth, Varo, Hee, Teth…"
+    },
+    {
+      "name": "Varo",
+      "type": "spirit",
+      "attributes": {
+        "role": "part of four-letter divine name formula"
+      },
+      "page_ref": "56r",
+      "raw_quote": "...Ioth, Varo, Hee, Teth…"
+    },
+    {
+      "name": "He / Hee",
+      "type": "spirit",
+      "attributes": {
+        "role": "part of four-letter divine name formula"
+      },
+      "page_ref": "56r",
+      "raw_quote": "...Ioth, Varo, Hee, Teth…"
+    },
+    {
+      "name": "Teth / Teth",
+      "type": "spirit",
+      "attributes": {
+        "role": "part of four-letter divine name formula"
+      },
+      "page_ref": "56r",
+      "raw_quote": "...Ioth, Varo, Hee, Teth…"
+    },
+    {
+      "name": "Meloth / Meloth",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in consecration formula"
+      },
+      "page_ref": "57r",
+      "raw_quote": "...Adonay, Meloth, Adonay, Ioiloth…"
+    },
+    {
+      "name": "Ioiloth / Ioiloth",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in consecration formula"
+      },
+      "page_ref": "57r",
+      "raw_quote": "...Meloth, Adonay, Ioiloth…"
+    },
+    {
+      "name": "Exclaui / Azeth",
+      "type": "spirit",
+      "attributes": {
+        "role": "mysterious divine names in consecration"
+      },
+      "page_ref": "57r",
+      "raw_quote": "...Adonay, Meloth, Adonay, Ioiloth, Exclaui, Azeth…"
+    },
+    {
+      "name": "Sadoy / Saday",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Shaddai (God Almighty)"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Adonay, Saday, Alpha et O…"
+    },
+    {
+      "name": "Vsion / Vsyion",
+      "type": "spirit",
+      "attributes": {
+        "role": "mysterious divine name"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Aseroye, Esyon, Prearraton, Tetragramaton, Ezelphares, Otaizomos, Onoyteon, Stimulacio…"
+    },
+    {
+      "name": "Prearraton / Prameliwz / Premelus",
+      "type": "spirit",
+      "attributes": {
+        "role": "esoteric divine name (possibly corrupted or interpolated)"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Aseroye, Esyon, Prearraton, Tetragramaton…"
+    },
+    {
+      "name": "Otaizomos / Occinomos",
+      "type": "spirit",
+      "attributes": {
+        "role": "esoteric divine name"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Tetragramaton, Otaizomos, Onoyteon…"
+    },
+    {
+      "name": "Onoydeon / Onoyteon",
+      "type": "spirit",
+      "attributes": {
+        "role": "esoteric divine name"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Otaizomos, Onoyteon, Stimulacio…"
+    },
+    {
+      "name": "Elioram / Elioram",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name variant"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...On, Elioram, Messias…"
+    },
+    {
+      "name": "Pantrathon / Pantrather",
+      "type": "spirit",
+      "attributes": {
+        "role": "esoteric divine name"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Aseroye, Vsion, Pantrathon,w Tetragramaton…"
+    },
+    {
+      "name": "Premelus / Premelus",
+      "type": "spirit",
+      "attributes": {
+        "role": "esoteric divine name"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Sabaoth, Pantrather, Premelus,z Principium et finis…"
+    },
+    {
+      "name": "Principium / Primogenitus",
+      "type": "spirit",
+      "attributes": {
+        "role": "biblical titles of Christ invoked in consecrations"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Premelus,z Principium et finis, Primogenitus…"
+    },
+    {
+      "name": "Sapiencia / Virtus",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine attributes invoked as names"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Primogenitus, Sapiencia, Virtus…"
+    },
+    {
+      "name": "Hostium / Ianua / Petra / Lapis",
+      "type": "spirit",
+      "attributes": {
+        "role": "biblical metaphors for Christ invoked as divine names"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Hostium, Ianua, Petra, lapis, Os…"
+    },
+    {
+      "name": "Verbum / Salus / Angelus / Sponsus",
+      "type": "spirit",
+      "attributes": {
+        "role": "biblical titles of Christ invoked as divine names"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Os, Verbum, Salus, Angelus, Sponsus…"
+    },
+    {
+      "name": "Sacerdos / Mediator / Agnus / Ouis",
+      "type": "spirit",
+      "attributes": {
+        "role": "biblical titles of Christ invoked as divine names"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Sacerdos, Pastor, Propheta, Mediator, Agnus, Ouis…"
+    },
+    {
+      "name": "Vitulus / Serpens / Aries / Leo",
+      "type": "spirit",
+      "attributes": {
+        "role": "biblical typologies of Christ invoked as divine names"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Agnus, Ouis, Vitulus, Serpens, Aries, Leo…"
+    },
+    {
+      "name": "Vermis / Athanatos / Kyrios",
+      "type": "spirit",
+      "attributes": {
+        "role": "biblical titles of Christ invoked as divine names"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Leo, Vermis, Athanathos,b Kirios…"
+    },
+    {
+      "name": "Ayos / Theos",
+      "type": "spirit",
+      "attributes": {
+        "role": "Greek divine titles (Holy, God) invoked in Latin context"
+      },
+      "page_ref": "57v–58r",
+      "raw_quote": "...Kirios, Ayos, Otheos…"
+    },
+    {
+      "name": "Athon / Onay / Anay / Anathon",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine names in concluding consecration formula"
+      },
+      "page_ref": "58v",
+      "raw_quote": "...Athon, Onay, Anay, Anathon, Vegeido…"
+    },
+    {
+      "name": "Vegeido",
+      "type": "spirit",
+      "attributes": {
+        "role": "mysterious divine name"
+      },
+      "page_ref": "58v",
+      "raw_quote": "...Anathon, Vegeido, Ya, Yayay…"
+    },
+    {
+      "name": "Ya / Yayay",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name variants"
+      },
+      "page_ref": "58v",
+      "raw_quote": "...Vegeido, Ya, Yayay…"
+    },
+    {
+      "name": "Blemutum",
+      "type": "spirit",
+      "attributes": {
+        "role": "mysterious divine name"
+      },
+      "page_ref": "58v",
+      "raw_quote": "...Ya, Yayay, El, Blemutum, Vsyon, Vsy…"
+    },
+    {
+      "name": "Vsy / Vsyion",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Vsion/Vsyion"
+      },
+      "page_ref": "58v",
+      "raw_quote": "...Blemutum, Vsyon, Vsy…"
+    },
+    {
+      "name": "Elyas",
+      "type": "spirit",
+      "attributes": {
+        "role": "prophetic name invoked in consecration"
+      },
+      "page_ref": "58r",
+      "raw_quote": "...Enay, Enacuel, Ananyel, Aniazyel, Sodamel, Agyten, Colymas, Elyas…"
+    },
+    {
+      "name": "Schyros / Schyros",
+      "type": "spirit",
+      "attributes": {
+        "role": "esoteric divine name"
+      },
+      "page_ref": "58r",
+      "raw_quote": "...Elyas, Schyros,d Athanathos,e Ymas…"
+    },
+    {
+      "name": "Athanathos / Athanathos",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of 'athanatos' (immortal), invoked as divine name"
+      },
+      "page_ref": "58r",
+      "raw_quote": "...Schyros,d Athanathos,e Ymas…"
+    },
+    {
+      "name": "Ymas / Ymas",
+      "type": "spirit",
+      "attributes": {
+        "role": "esoteric divine name"
+      },
+      "page_ref": "58r",
+      "raw_quote": "...Athanathos,e Ymas, Ely, Messyas."
+    },
+    {
+      "name": "Shoeth / Hebatit / Het / Agla / Jocht / Othot / Vanecht / Nabuthi",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelic/demonic binding names used by Solomon"
+      },
+      "page_ref": "58v–59r",
+      "raw_quote": "...per nomeni per quod Solomon astringebat dyabolos et conclusit eos, Shoeth, Hebatit, Het, Agla, Jocht, Othot, Vanecht, Nabuthi…"
+    },
+    {
+      "name": "Poterestates / Potestates",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelic hierarchy rank invoked in consecrations"
+      },
+      "page_ref": "54v–58r",
+      "raw_quote": "...omnes angeli et archangeli, virtutes et potestates, principatus…"
+    },
+    {
+      "name": "Principatus / Throni / Dominaciones",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelic hierarchy ranks invoked in consecrations"
+      },
+      "page_ref": "54v–58r",
+      "raw_quote": "...principatus, virtutes, potestates, troni, et dominaciones…"
+    },
+    {
+      "name": "Cherubin / Seraphin",
+      "type": "spirit",
+      "attributes": {
+        "role": "highest angelic orders invoked in consecrations"
+      },
+      "page_ref": "54v–58r",
+      "raw_quote": "...cherubin et seraphin…"
+    },
+    {
+      "name": "Sancta Maria",
+      "type": "spirit",
+      "attributes": {
+        "role": "Mary, invoked for intercessory blessing"
+      },
+      "page_ref": "54v–58r",
+      "raw_quote": "...Sancta Maria, mater domini nostri Ihesu Christi, te bene dicat et sanctificet…"
+    },
+    {
+      "name": "Deus invisibilis",
+      "type": "ritual",
+      "attributes": {
+        "role": "first consecratory prayer title"
+      },
+      "page_ref": "304–305",
+      "raw_quote": "...incipias primam oracionem legere, scilicet Deus invisibilis, cum reliquis sequentibus…"
+    },
+    {
+      "name": "Consecratio libri",
+      "type": "ritual",
+      "attributes": {
+        "role": "book consecration ritual involving nine days"
+      },
+      "page_ref": "304–305",
+      "raw_quote": "...Et sic in dei virtute confisus ad librum consecracionum accedas securus… Hoc factum per ix dies, erit liber consecratus…"
+    },
+    {
+      "name": "Confiteor",
+      "type": "ritual",
+      "attributes": {
+        "role": "penitential prayer recited during consecration"
+      },
+      "page_ref": "304–305",
+      "raw_quote": "...et in vtroque tuo Confiteor debes dicere…"
+    },
+    {
+      "name": "Aqua benedicta",
+      "type": "ingredient",
+      "attributes": {
+        "role": "holy water used for aspersion during ritual"
+      },
+      "page_ref": "304–305",
+      "raw_quote": "...et aqua benedicta respergi…"
+    },
+    {
+      "name": "Signum sancte crucis",
+      "type": "tool",
+      "attributes": {
+        "role": "sign of the cross made on forehead"
+      },
+      "page_ref": "304–305",
+      "raw_quote": "...et signum sancte crucis fronti tuo inpone…"
+    },
+    {
+      "name": "Exorcista",
+      "type": "person",
+      "attributes": {
+        "role": "ritual operator commanding spirits"
+      },
+      "page_ref": "55v–58r",
+      "raw_quote": "...exorcista voluerit in unum omnes congregare, et cum voluerit dispergat…"
+    },
+    {
+      "name": "Maligni spiritus / infernales principes / aereas potestates",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic forces to be constrained and commanded"
+      },
+      "page_ref": "55v–58r",
+      "raw_quote": "...aereas potestates et insanabilem… per hanc oracionem consecratam, humiliter et mirabiliter constringat, vt velint vel nolint humani voluntati obediant."
+    },
+    {
+      "name": "Experimentum",
+      "type": "ritual",
+      "attributes": {
+        "role": "magical operation requiring consecration"
+      },
+      "page_ref": "304–312",
+      "raw_quote": "...hoc experimento sanctissimis nominibus insignito vt virtutem quam obtinere debeat potenter obtineat…"
+    },
+    {
+      "name": "Documentum",
+      "type": "ingredient",
+      "attributes": {
+        "role": "witness or proof required before consecration"
+      },
+      "page_ref": "304–305",
+      "raw_quote": "...si alicui experimento deficit documentum ante consecracionem, habeas istud preparatum…"
+    },
+    {
+      "name": "Vinculum spirituum",
+      "type": "ritual",
+      "attributes": {
+        "role": "binding of spirits through consecration"
+      },
+      "page_ref": "54r",
+      "raw_quote": "...ad consecrandum vinculum spirituum et ad consecrandum omnia experimenta corrupta…"
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "location",
+      "attributes": {
+        "role": "source manuscript for the rituals"
+      },
+      "page_ref": "implied throughout Kieckhefer’s analysis",
+      "raw_quote": "[No direct mention in this chunk, but context confirms CLM 849 as source]"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "On",
+      "to": "Tetragramaton",
+      "type": "synonymy"
+    },
+    {
+      "from": "Adonay",
+      "to": "Sabaoth",
+      "type": "co-occurrence"
+    },
+    {
+      "from": "Messias",
+      "to": "Emanuel",
+      "type": "co-occurrence"
+    },
+    {
+      "from": "Alpha et O",
+      "to": "Ihesus Christus",
+      "type": "identification"
+    },
+    {
+      "from": "A G L A",
+      "to": "consecratio libri",
+      "type": "ritual_use"
+    },
+    {
+      "from": "documentum",
+      "to": "experimentum",
+      "type": "prerequisite"
+    },
+    {
+      "from": "aereas potestates",
+      "to": "infernales principes",
+      "type": "synonymy"
+    },
+    {
+      "from": "exorcista",
+      "to": "maligni spiritus",
+      "type": "commander_to_subordinate"
+    },
+    {
+      "from": "consecratio libri",
+      "to": "experimentum",
+      "type": "prerequisite"
+    },
+    {
+      "from": "Deus invisibilis",
+      "to": "consecratio libri",
+      "type": "ritual_component"
+    }
+  ],
+  "summary": "This chunk contains extensive liturgical and consecratory material from the Munich Handbook (CLM 849), focused on ritual book and experiment consecration. It features repeated invocations of divine names—many drawn from Jewish and Christian mystical traditions (e.g., Tetragrammaton, Adonay, Alpha et O)—used to empower magical operations against spirits. The texts emphasize the authority of the exorcist over demonic forces (aereas potestates, infernales principes) through sacred names and biblical allusions. Ritual steps include nine-day preparation, Confiteor recitation, aspersion with holy water, and sign of the cross. Several esoteric name-formulas appear (e.g., Stimlamathon, Otaizomos), likely reflecting transmission from Arabic or Byzantine grimoire traditions.",
+  "key_passages": [
+    "Hoc factum per ix dies, erit liber consecratus, et quocienscumque aliud consecrare volueris, incipias primam oracionem legere, scilicet Deus invisibilis, cum reliquis sequentibus…",
+    "per sanctissimum nomen tuum quod scribitur 4or litteris, loth, hoth, vel hec, vel A G L A, g, e, he, van, quo audito mare regreditur, aer commutatur…",
+    "...aereas potestates et insanabilem principem per hanc oracionem consecratam, humiliter et mirabiliter constringat, vt velint vel nolint humani voluntati obediant.",
+    "per nomeni per quod Solomon astringebat dyabolos et conclusit eos, Shoeth, Hebatit, Het, Agla, Jocht, Othot, Vanecht, Nabuthi…",
+    "...exorcista voluerit in unum omnes congregare, et cum voluerit dispergat, et per sanctissimum nomen tuum… consecratur hoc experimentum"
+  ]
+}

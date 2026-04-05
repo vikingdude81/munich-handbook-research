@@ -1,0 +1,542 @@
+{
+  "source_id": "necro",
+  "chunk_id": 32,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Astra",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "responds to conjuration in mirror ritual"
+      },
+      "page_ref": "63r",
+      "raw_quote": "Coniuro te, Astra, Astaroth, Cebal,"
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "responds to conjuration in mirror ritual"
+      },
+      "page_ref": "63r",
+      "raw_quote": "Coniuro te, Astra, Astaroth, Cebal,"
+    },
+    {
+      "name": "Cebal",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "responds to conjuration in mirror ritual"
+      },
+      "page_ref": "63r",
+      "raw_quote": "Coniuro te, Astra, Astaroth, Cebal,"
+    },
+    {
+      "name": "Toth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps",
+        "function": "commands spirits in mirror ritual"
+      },
+      "page_ref": "63r",
+      "raw_quote": "per Tothf principem vestrum,"
+    },
+    {
+      "name": "Zambrim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "obedience demanded in conjuration"
+      },
+      "page_ref": "63r",
+      "raw_quote": "et per Zambrim et Mambrim,"
+    },
+    {
+      "name": "Mambrim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "obedience demanded in conjuration"
+      },
+      "page_ref": "63r",
+      "raw_quote": "et per Zambrim et Mambrim,"
+    },
+    {
+      "name": "Vsuel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "obedience demanded in conjuration"
+      },
+      "page_ref": "63r",
+      "raw_quote": "per Vsuel [el] per Saduel, quibus obedire tenemini de veritate,"
+    },
+    {
+      "name": "Saduel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "obedience demanded in conjuration"
+      },
+      "page_ref": "63r",
+      "raw_quote": "per Vsuel [el] per Saduel, quibus obedire tenemini de veritate,"
+    },
+    {
+      "name": "Spiritus qui portet michi aurum et argentum denarios",
+      "type": "spirit",
+      "attributes": {
+        "function": "brings gold, silver, and hidden treasures; serves will of conjurer"
+      },
+      "page_ref": "62v–63r",
+      "raw_quote": "ut facias michi venire vnum spiritum qui portet- michi aurum et argentum uel thesauros absconditos,"
+    },
+    {
+      "name": "Spiritus promptus et ydoneum in omni sciencia",
+      "type": "spirit",
+      "attributes": {
+        "function": "grants knowledge and invisibility; serves will of conjurer"
+      },
+      "page_ref": "62v–63r",
+      "raw_quote": "ut adducas michi vnum spiritun promptum et ydoneum in omni sciencu et ut habeat potestatem me faciendi inuisibilem quandocumque voluero"
+    },
+    {
+      "name": "Barbaras",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus comes et dux",
+        "function": "reveals hidden treasures; commands 36 legions"
+      },
+      "page_ref": "65v",
+      "raw_quote": "Barbaras [est] magnus comes et dux, et apparet in signo Sagitarij siluestris... Habet sub se xxxvj legiones."
+    },
+    {
+      "name": "Cason",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus dux",
+        "function": "reveals past/present/future; grants friendship and dignity; commands 45 legions"
+      },
+      "page_ref": "65v",
+      "raw_quote": "Cason magnus dux est et fortis... Dat ad plenitudinem vera responsiua- de presentibus, preteritis, et futuris... Habet sub se xlv legiones."
+    },
+    {
+      "name": "Otius",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus preses et comes",
+        "function": "reveals hidden things; commands 36 legions"
+      },
+      "page_ref": "65v",
+      "raw_quote": "Otius magnus preses et comes [est], et apparet in signo Vipere... Dat ad plenitudinem vera responsiua- de presentibus et futuris et occultis rebus."
+    },
+    {
+      "name": "Cvrson",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus rex",
+        "function": "reveals hidden treasures; commands 22 legions"
+      },
+      "page_ref": "65v–66r",
+      "raw_quote": "Cvrson magnus rex est et fortis... Dat optimos familiares. Habet sub se xxij legiones, partim de ordine virtutum et partim de ordine thronorum."
+    },
+    {
+      "name": "Alugor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus dux",
+        "function": "reveals hidden things and duels; commands 1 legio"
+      },
+      "page_ref": "66r",
+      "raw_quote": "Alugor magnus J dux est... Dat eciam milites in occursum, et dat graciam omnium regum, marchionum, et omnium militum. Habet sub se l m legiones."
+    },
+    {
+      "name": "Taob",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus princeps",
+        "function": "influences women’s love; commands 25 legions"
+      },
+      "page_ref": "66r",
+      "raw_quote": "Taob magnus est et princeps... Dat graciam amicorum et inimicoram. Habet sub se 25- legiones,"
+    },
+    {
+      "name": "Volach",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus preses",
+        "function": "reveals hidden treasures; commands serpents; commands 27 legions"
+      },
+      "page_ref": "66v",
+      "raw_quote": "Volach magnus preses est... Dat ad plenitudinem vera responsa de occultis thesauris... Serpentes et absque illis custodibus B posse omnium serpentum tradit in manus exorciste. Habet sub se xxvij legiones."
+    },
+    {
+      "name": "Gaeneron",
+      "type": "spirit",
+      "attributes": {
+        "rank": "dux fortis et potens",
+        "function": "reveals hidden treasures; incites love of women; commands 27 legions"
+      },
+      "page_ref": "66v",
+      "raw_quote": "Gaeneron dux est fortis et potens... Dat optime amorem mulierum, et precipue puellarum. Habet sub se xxvij legiones."
+    },
+    {
+      "name": "Twueries",
+      "type": "spirit",
+      "attributes": {
+        "rank": "marchio magnus et fortis",
+        "function": "teaches liberal arts; reveals hidden places; commands 30 legions"
+      },
+      "page_ref": "66v–67r",
+      "raw_quote": "Twueries marchio magnus et fortis [est]... Docet ad plenitudinem gramaticam, loycam, rethoricam, ac dictata,- et facit loca thesaurorum aperiri,"
+    },
+    {
+      "name": "Hanni",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus preses",
+        "function": "reveals hidden treasures; commands 30 legions"
+      },
+      "page_ref": "67r",
+      "raw_quote": "Hanni preses magnus [est]... Dat optimos familiares et graciam magnatum et principum, et loca thesaurorum que a spiritibus custodiunt[ur] mirabiliter ostendit. Habet sub se xxx legiones."
+    },
+    {
+      "name": "Svcax",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus marchio",
+        "function": "incites love of widows; commands 23 legions"
+      },
+      "page_ref": "67r",
+      "raw_quote": "Svcax magnus marchio est... Multum mirabiliter dat amorem mulierum, et maxime omnium viduarum. Habet sub se 23 legiones."
+    },
+    {
+      "name": "Bel et Ebal",
+      "type": "spirit",
+      "attributes": {
+        "function": "spirits conjured in love ritual; incite burning love"
+      },
+      "page_ref": "65v bis",
+      "raw_quote": "Coniuro vos spiritus infernales Bel et Ebal, quorum nomina in ista costa scripta sunt et in igne ardescunt,"
+    },
+    {
+      "name": "Pneumaton",
+      "type": "spirit",
+      "attributes": {
+        "function": "divine name used to bind rebellious spirits"
+      },
+      "page_ref": "65r",
+      "raw_quote": "Per nomen Pneumaton, et in nomine Pneumaton, quod Moyses nominauit et absorpti fuerunt a cauernis terre, Dath, An, et Abyron,"
+    },
+    {
+      "name": "Dath",
+      "type": "spirit",
+      "attributes": {
+        "function": "rebellious spirit absorbed by earth"
+      },
+      "page_ref": "65r",
+      "raw_quote": "Dath, An, et Abyron"
+    },
+    {
+      "name": "An",
+      "type": "spirit",
+      "attributes": {
+        "function": "rebellious spirit absorbed by earth"
+      },
+      "page_ref": "65r",
+      "raw_quote": "Dath, An, et Abyron"
+    },
+    {
+      "name": "Abyron",
+      "type": "spirit",
+      "attributes": {
+        "function": "rebellious spirit absorbed by earth"
+      },
+      "page_ref": "65r",
+      "raw_quote": "Dath, An, et Abyron"
+    },
+    {
+      "name": "Spiritus infernales",
+      "type": "spirit",
+      "attributes": {
+        "function": "generic term for infernal spirits conjured"
+      },
+      "page_ref": "65v bis",
+      "raw_quote": "Coniuro vos spiritus infernales Bel et Ebal..."
+    },
+    {
+      "name": "Thoth",
+      "type": "concept",
+      "attributes": {
+        "function": "Egyptian deity referenced as 'princeps vestrum'"
+      },
+      "page_ref": "63r",
+      "raw_quote": "per Tothf principem vestrum,"
+    },
+    {
+      "name": "verbena",
+      "type": "ingredient",
+      "attributes": {
+        "use": "placed in circle for mirror ritual"
+      },
+      "page_ref": "62v",
+      "raw_quote": "et inpone herbam que vocatur verbena."
+    },
+    {
+      "name": "speculum",
+      "type": "tool",
+      "attributes": {
+        "use": "used in divination ritual; spirit appears in it"
+      },
+      "page_ref": "62v",
+      "raw_quote": "Postea accipe speculum, et line ipsum cum oleo oliue cum pollice,"
+    },
+    {
+      "name": "oleum olivae",
+      "type": "ingredient",
+      "attributes": {
+        "use": "used to anoint mirror"
+      },
+      "page_ref": "62v",
+      "raw_quote": "line ipsum cum oleo oliue cum pollice"
+    },
+    {
+      "name": "lapides (from cemetery)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "used to draw circle for mirror ritual"
+      },
+      "page_ref": "62v",
+      "raw_quote": "Circue cimiterium et collige tot lapides quot- sunt versus in psalmo Misereri mei deus"
+    },
+    {
+      "name": "circulus (ceremonial)",
+      "type": "ritual",
+      "attributes": {
+        "function": "protective circle drawn for spirit conjuration"
+      },
+      "page_ref": "62v, 67v–68r",
+      "raw_quote": "pone circulum quando vis... Hunc circulum facio in nomine dei Patris omnipotentis..."
+    },
+    {
+      "name": "exorcismus (Salomonis)",
+      "type": "ritual",
+      "attributes": {
+        "function": "binds spirits; used when they refuse to obey"
+      },
+      "page_ref": "63r",
+      "raw_quote": "Quod si noluerint, lege vinculum Salomonis; de vinculo spirituum non est soluendum"
+    },
+    {
+      "name": "Agla",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name inscribed on knife and circle"
+      },
+      "page_ref": "67v–68r",
+      "raw_quote": "hec nomina ex utraque parte sunt scripta: Agla [et] Sabaoth... contra orientem, Agla"
+    },
+    {
+      "name": "Sabaoth",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name inscribed on knife and circle"
+      },
+      "page_ref": "67v–68r",
+      "raw_quote": "hec nomina ex utraque parte sunt scripta: Agla [et] Sabaoth... contra occidentem, Tetragramaton; contra septentrionem, Adonay; contra meridiem, Sabaoth."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name inscribed in circle"
+      },
+      "page_ref": "68r",
+      "raw_quote": "contra occidentem, Tetragramaton"
+    },
+    {
+      "name": "Adonay",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name inscribed in circle"
+      },
+      "page_ref": "68r",
+      "raw_quote": "contra septentrionem, Adonay"
+    },
+    {
+      "name": "Thure et mirra",
+      "type": "ingredient",
+      "attributes": {
+        "use": "used for fumigation around circle"
+      },
+      "page_ref": "68r",
+      "raw_quote": "accipe turribulum, inposito thure £ et mirra, [et] circuas 1 - 1 ex- [68r] teriora circuli"
+    },
+    {
+      "name": "cultellus cum manubrio albo uel nigro",
+      "type": "tool",
+      "attributes": {
+        "function": "used to inscribe circles and divine names"
+      },
+      "page_ref": "67v–68r",
+      "raw_quote": "habeat cultellum cum manubrio albo uel nigro, in cuius lamina hec nomina ex utraque parte sunt scripta: Agla [et] Sabaoth."
+    },
+    {
+      "name": "Psalmi (vii)",
+      "type": "ritual",
+      "attributes": {
+        "function": "recited during conjuration"
+      },
+      "page_ref": "68r",
+      "raw_quote": "J stans contra orientem extra circulum,- dicat vij psalmos cum letania"
+    },
+    {
+      "name": "Misereri mei deus (Ps 50)",
+      "type": "ritual",
+      "attributes": {
+        "function": "source for number of stones in circle"
+      },
+      "page_ref": "62v",
+      "raw_quote": "Circue cimiterium et collige tot lapides quot- sunt versus in psalmo Misereri mei deus"
+    },
+    {
+      "name": "Alpha et O",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name used in incantations"
+      },
+      "page_ref": "62v, 64r",
+      "raw_quote": "per Alpha et O... per nomen dei ineffabile... per sanctum Tetragramaton"
+    },
+    {
+      "name": "Emanuel",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name used in incantations"
+      },
+      "page_ref": "62v, 64r",
+      "raw_quote": "et per Emanuel... et per nomen dei ineffabile"
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "concept",
+      "attributes": {
+        "function": "divine name used in incantations"
+      },
+      "page_ref": "62v, 64r",
+      "raw_quote": "per sanctum Tetragramaton"
+    },
+    {
+      "name": "Trinitas Sancta",
+      "type": "concept",
+      "attributes": {
+        "function": "basis for invocations and circle-making"
+      },
+      "page_ref": "62v, 68r",
+      "raw_quote": "In nomine Patris veni, et in nomine Filij veni, et in nomine Spiritus Sancti veni... Hunc circulum facio in nomine Spiritus Sancti paracliti"
+    },
+    {
+      "name": "crux sancta",
+      "type": "ritual",
+      "attributes": {
+        "function": "makes sign of cross over circles"
+      },
+      "page_ref": "68r",
+      "raw_quote": "Post hec faciet crucem per omnes circulos, [dicens], Per hoc signum sancte crucis gracia dei defendat nos ab omni malo."
+    },
+    {
+      "name": "costa (rib bone)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used in love ritual; inscribed with Bel et Ebal and burned"
+      },
+      "page_ref": "65v bis",
+      "raw_quote": "scribe in costam nomen tuum et mulieris, Bel et Ebal... pone ad ignem et fac cremari costam"
+    },
+    {
+      "name": "ignis (fire)",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to burn inscribed bone in love ritual"
+      },
+      "page_ref": "65v bis",
+      "raw_quote": "pone ad ignem et fac cremari costam, et quando est in maximo calore uel furore lege coniuracionem"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Astra",
+      "to": "spirit conjuration ritual",
+      "type": "subject of"
+    },
+    {
+      "from": "Toth",
+      "to": "Zambrim",
+      "type": "commands"
+    },
+    {
+      "from": "Cvrson",
+      "to": "spiritus qui portet aurum et argentum",
+      "type": "similar to"
+    },
+    {
+      "from": "Volach",
+      "to": "serpentes",
+      "type": "controls"
+    },
+    {
+      "from": "Bel et Ebal",
+      "to": "spiritus infernales",
+      "type": "instance of"
+    },
+    {
+      "from": "Pneumaton",
+      "to": "Dath",
+      "type": "binds"
+    },
+    {
+      "from": "Agla",
+      "to": "circulus",
+      "type": "inscribed in"
+    },
+    {
+      "from": "Sabaoth",
+      "to": "circulus",
+      "type": "inscribed in"
+    },
+    {
+      "from": "Tetragramaton",
+      "to": "circulus",
+      "type": "inscribed in"
+    },
+    {
+      "from": "Adonay",
+      "to": "circulus",
+      "type": "inscribed in"
+    },
+    {
+      "from": "Thure et mirra",
+      "to": "fumigatio",
+      "type": "used in"
+    },
+    {
+      "from": "verbena",
+      "to": "circulus",
+      "type": "placed in"
+    },
+    {
+      "from": "lapides",
+      "to": "circulus",
+      "type": "used to draw"
+    }
+  ],
+  "summary": "This chunk contains detailed excerpts from the Munich Handbook of necromancy (CLM 849), as analyzed by Kieckhefer. It includes spirit conjurations for obtaining hidden treasures and knowledge, a mirror-based divination ritual involving cemetery stones and verbena, a list of named demons with ranks and legions, a love spell using inscribed bone burned in fire, and instructions for drawing protective circles with divine names (Agla, Sabaoth, Tetragramaton, Adonay) while reciting psalms and making the sign of the cross.",
+  "key_passages": [
+    "Coniuro te, Astra, Astaroth, Cebal, per Patrem et Filium et Spiritual Sanctum... vt obediatis michif",
+    "Per nomen Pneumaton, et in nomine Pneumaton, quod Moyses nominauit et absorpti fuerunt a cauernis terre, Dath, An, et Abyron...",
+    "Barbaras [est] magnus comes et dux... Habet sub se xxxvj legiones.",
+    "Coniuro vos spiritus infernales Bel et Ebal, quorum nomina in ista costa scripta sunt et in igne ardescunt, per omnes virtutes celorum et terre...",
+    "Hunc circulum facio in nomine dei Patris omnipotentis... Hunc circulum facio in nomine dei viui... Hunc circulum facio in nomine Spiritus Sancti paracliti."
+  ]
+}

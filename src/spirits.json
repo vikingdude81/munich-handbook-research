@@ -1,0 +1,20 @@
+{
+  "spirits": [
+    {
+      "name": "Spirit A",
+      "rank": "Rank 1",
+      "function": "Function X",
+      "appearance": "Appearance Y",
+      "legion_count": 5,
+      "conjuration_method": "Method Z",
+      "experiment_refs": ["ref1", "ref2"],
+      "page/folio": "Page 10",
+      "raw_quote": "Quote A",
+      "provenance": {
+        "chunk_id": "chunk1",
+        "passage_snippet": "Snippet X"
+      },
+      "NEEDS_VERIFICATION": true
+    }
+  ]
+}

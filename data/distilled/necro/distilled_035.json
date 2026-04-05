@@ -1,0 +1,324 @@
+{
+  "source_id": "necro",
+  "chunk_id": 35,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Anael",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus mandans",
+        "day": "diei Veneris"
+      },
+      "page_ref": "p. [90r]",
+      "raw_quote": "Sexta ymago est diei Veneris, et angeli mandantes earn sunt Anael, Naquiel, Sagriel..."
+    },
+    {
+      "name": "Naquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus mandans",
+        "day": "diei Veneris"
+      },
+      "page_ref": "p. [90r]",
+      "raw_quote": "Sexta ymago est diei Veneris, et angeli mandantes earn sunt Anael, Naquiel, Sagriel..."
+    },
+    {
+      "name": "Sagriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus mandans",
+        "day": "diei Veneris"
+      },
+      "page_ref": "p. [90r]",
+      "raw_quote": "Sexta ymago est diei Veneris, et angeli mandantes earn sunt Anael, Naquiel, Sagriel..."
+    },
+    {
+      "name": "Sarabores",
+      "type": "spirit",
+      "attributes": {
+        "role": "venti",
+        "day": "diei Veneris"
+      },
+      "page_ref": "p. [90r]",
+      "raw_quote": "...et venti sunt Sarabores, et 3es adiutores Trathacas..."
+    },
+    {
+      "name": "Trathacas",
+      "type": "spirit",
+      "attributes": {
+        "role": "adiutor"
+      },
+      "page_ref": "p. [90r]",
+      "raw_quote": "...et 3es adiutores Trathacas, Nasat, Nasaa."
+    },
+    {
+      "name": "Nasat",
+      "type": "spirit",
+      "attributes": {
+        "role": "adiutor"
+      },
+      "page_ref": "p. [90r]",
+      "raw_quote": "...et 3es adiutores Trathacas, Nasat, Nasaa."
+    },
+    {
+      "name": "Nasaa",
+      "type": "spirit",
+      "attributes": {
+        "role": "adiutor"
+      },
+      "page_ref": "p. [90r]",
+      "raw_quote": "...et 3es adiutores Trathacas, Nasat, Nasaa."
+    },
+    {
+      "name": "Castuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus mandans",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [90v]",
+      "raw_quote": "Septima ymago est diei sabbati... hec ymago est multum honorata et preciosa... mandant isti angeli: Castuel, Maratron uel Matraton, Satael."
+    },
+    {
+      "name": "Maratron",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus mandans",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [90v]",
+      "raw_quote": "...mandant isti angeli: Castuel, Maratron uel Matraton, Satael."
+    },
+    {
+      "name": "Matraton",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus mandans",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [90v]",
+      "raw_quote": "...mandant isti angeli: Castuel, Maratron uel Matraton, Satael."
+    },
+    {
+      "name": "Satael",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus mandans",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [90v]",
+      "raw_quote": "...mandant isti angeli: Castuel, Maratron uel Matraton, Satael."
+    },
+    {
+      "name": "Memmi",
+      "type": "spirit",
+      "attributes": {
+        "role": "ventus",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [90v]",
+      "raw_quote": "Et venti huic seruientes sunt hij: Memmi, Aloybain, Atlas, Analuabith."
+    },
+    {
+      "name": "Aloybain",
+      "type": "spirit",
+      "attributes": {
+        "role": "ventus",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [90v]",
+      "raw_quote": "Et venti huic seruientes sunt hij: Memmi, Aloybain, Atlas, Analuabith."
+    },
+    {
+      "name": "Atlas",
+      "type": "spirit",
+      "attributes": {
+        "role": "ventus",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [90v]",
+      "raw_quote": "Et venti huic seruientes sunt hij: Memmi, Aloybain, Atlas, Analuabith."
+    },
+    {
+      "name": "Analuabith",
+      "type": "spirit",
+      "attributes": {
+        "role": "ventus",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [90v]",
+      "raw_quote": "Et venti huic seruientes sunt hij: Memmi, Aloybain, Atlas, Analuabith."
+    },
+    {
+      "name": "Amamni",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [91r]",
+      "raw_quote": "...precite spiritibus Amamni- et Astaba..."
+    },
+    {
+      "name": "Astaba",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [91r]",
+      "raw_quote": "...precite spiritibus Amamni- et Astaba..."
+    },
+    {
+      "name": "Hertanalit",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus",
+        "day": "diei sabbati"
+      },
+      "page_ref": "p. [91r]",
+      "raw_quote": "...Hertanalit,’ 1 vt venia[n]t cito..."
+    },
+    {
+      "name": "Aysansasyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "1st month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "...primus angelus est princeps, qui est in primo throno et in parte orientali... vocatur Aysansasyel..."
+    },
+    {
+      "name": "Ragiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "2nd month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "2o mense regnat et dominatin' princeps Ragiel cum suis seraitoribus."
+    },
+    {
+      "name": "Dyrnaot",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "3rd month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "3o mense regnat et dominatur princeps Dyrnaot cum suis seraitoribus."
+    },
+    {
+      "name": "Tanenon",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "4th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "Secundum tempus: 4o mense regnat et serait princeps Tanenon cum suis seraitoribus."
+    },
+    {
+      "name": "Terogat",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "5th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "Quinto mense regnat et dominatur- 1 princeps Terogat cum suis seraitoribus."
+    },
+    {
+      "name": "Morel",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "6th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "Sexto mense regnat et dominatur princeps Morel cum suis seraitoribus."
+    },
+    {
+      "name": "Patderon",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "7th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "3 m tempus: Septimo mense regnat et dominatur princeps Patderon cum suis seraitoribus."
+    },
+    {
+      "name": "Illdegage",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "8th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "Octauo mense regnat et dominatur princeps Illdegage cum suis seraitoribus."
+    },
+    {
+      "name": "Andegor",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "9th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "Nono mense regnat et dominatur princeps Andegor cum suis sont."
+    },
+    {
+      "name": "Macgmel",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "10th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "4m tempus: Decimo mense regnat et dominatur princeps Macgmel cum suis seraitoribus."
+    },
+    {
+      "name": "Assandaran",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "11th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "Vndecimo mense regnat et dominatur princeps Assandaran cum suis seraitoribus."
+    },
+    {
+      "name": "Abarthiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "princeps",
+        "month": "12th month"
+      },
+      "page_ref": "p. [92r]",
+      "raw_quote": "Duodecimo mense regnat et dominatur princeps 2 Abarthiel cum suis seraitoribus."
+    },
+    {
+      "name": "Metraton",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus diei",
+        "day": "dies dominica"
+      },
+      "page_ref": "p. [92v]",
+      "raw_quote": "Prima enim dies dominica 3 vocatur Metraton."
+    },
+    {
+      "name": "Yaspel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angelus diei",
+        "day": "dies secundus"
+      },
+      "page_ref": "p. [92v]",
+      "raw_quote": "Et 2a Yaspel..."
+    }
+  ]
+}

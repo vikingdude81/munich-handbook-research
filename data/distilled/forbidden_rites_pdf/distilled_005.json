@@ -1,0 +1,155 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 5,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit",
+        "variant_form": "Satan (alternative)"
+      },
+      "page_ref": "57n33",
+      "raw_quote": "a conjuration edited from two versions in the later folios is addressed to a spirit named Mirage, while an alternative form in the main block addresses Satan."
+    },
+    {
+      "name": "Matthew the Spaniard",
+      "type": "person",
+      "attributes": {
+        "role": "claimed authority/figure of reference"
+      },
+      "page_ref": "62",
+      "raw_quote": "'Matthew the Spaniard' was utterly ignorant of this magic"
+    },
+    {
+      "name": "Socrates",
+      "type": "person",
+      "attributes": {
+        "role": "supposed ancient authority cited by compiler"
+      },
+      "page_ref": "63",
+      "raw_quote": "Socrates himself, he claims, speaks of the power of one circle (no. 9) in his book of magic."
+    },
+    {
+      "name": "Rawlinson necromantic manuscript",
+      "type": "ritual",
+      "attributes": {
+        "context": "source for flying horse ritual",
+        "linked_text": "De nigromancia / Thesaurus spirituum"
+      },
+      "page_ref": "58–60",
+      "raw_quote": "The fifteenth-century writer of the Rawlinson necromantic manuscript tells how to summon a demon in the form of a horse by using conjurations, a ring with the Tetragrammaton inscribed on it, and a diagram made with the blood of a hoopoe or a bat."
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "tool",
+      "attributes": {
+        "use": "inscribed on ring for conjuration"
+      },
+      "page_ref": "58",
+      "raw_quote": "a ring with the Tetragrammaton inscribed on it"
+    },
+    {
+      "name": "hoopoe blood",
+      "type": "ingredient",
+      "attributes": {
+        "use": "in diagram for flying horse ritual"
+      },
+      "page_ref": "58",
+      "raw_quote": "a diagram made with the blood of a hoopoe or a bat"
+    },
+    {
+      "name": "bat blood",
+      "type": "ingredient",
+      "attributes": {
+        "use": "alternative to hoopoe in diagram"
+      },
+      "page_ref": "58",
+      "raw_quote": "a diagram made with the blood of a hoopoe or a bat"
+    },
+    {
+      "name": "red bridle horse",
+      "type": "spirit",
+      "attributes": {
+        "form": "demon appearing as horse",
+        "identifier": "chosen among many spirits"
+      },
+      "page_ref": "58",
+      "raw_quote": "a multitude of spirits will appear in the sky, with many horses; the magician must choose the horse with the red bridle"
+    },
+    {
+      "name": "Clm 849",
+      "type": "ritual",
+      "attributes": {
+        "collection": "Munich Handbook",
+        "contents": "necromantic experiments"
+      },
+      "page_ref": "55–63 passim",
+      "raw_quote": "Twelve of the experiments in Clm 849 are ‘illusionist’ ones..."
+    },
+    {
+      "name": "De nigromancia / Thesaurus spirituum",
+      "type": "ritual",
+      "attributes": {
+        "attribution": "ascribed to Roger Bacon",
+        "relation": "source for Rawlinson horse ritual"
+      },
+      "page_ref": "59n2",
+      "raw_quote": "The ceremony given here for conjuring the horse is borrowed, perhaps directly, from the De nigromancia or Thesaurus spirituum ascribed to Roger Bacon."
+    },
+    {
+      "name": "Sabbath feasts (demonic)",
+      "type": "concept",
+      "attributes": {
+        "comparison": "to illusory banquet in no. 6"
+      },
+      "page_ref": "63n16",
+      "raw_quote": "the banquet that demons bring forth is in one particular like the feasts ascribed in later years to witches at their sabbaths: the food does not really exist..."
+    },
+    {
+      "name": "infernal hierarchy",
+      "type": "concept",
+      "attributes": {
+        "description": "perversion of angelic order"
+      },
+      "page_ref": "63n14",
+      "raw_quote": "demons are bound by a perverse hierarchy of their own – an inversion of the angelic hierarchy"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Mirage",
+      "to": "Satan",
+      "type": "alternative_form"
+    },
+    {
+      "from": "Rawlinson necromantic manuscript",
+      "to": "De nigromancia / Thesaurus spirituum",
+      "type": "borrowed_from"
+    },
+    {
+      "from": "Clm 849",
+      "to": "illusionist experiments",
+      "type": "contains"
+    },
+    {
+      "from": "Sabbath feasts (demonic)",
+      "to": "illusory banquet (no. 6)",
+      "type": "compared_to"
+    },
+    {
+      "from": "infernal hierarchy",
+      "to": "oath in experiment no. 6",
+      "type": "basis_for"
+    }
+  ],
+  "summary": "This chunk discusses the Munich Handbook (Clm 849), focusing on its 'illusionist' necromantic experiments—those producing illusory spectacles like flying horses, banquets, castles, and invisibility. It highlights connections to other traditions (e.g., Arabic astral magic, Jewish divination, and later witch-trial concepts) and cites named spirits such as Mirage (with Satan as alternative), along with ritual tools like the Tetragrammaton ring and ingredients like hoopoe/bat blood. The Rawlinson manuscript’s flying horse rite is analyzed in detail and linked to the Thesaurus spirituum/De nigromancia tradition.",
+  "key_passages": [
+    "a conjuration edited from two versions in the later folios is addressed to a spirit named Mirage, while an alternative form in the main block addresses Satan.",
+    "The ceremony given here for conjuring the horse is borrowed, perhaps directly, from the De nigromancia or Thesaurus spirituum ascribed to Roger Bacon.",
+    "Twelve of the experiments in Clm 849 are ‘illusionist’ ones, intended to make things appear other than as they are...",
+    "Socrates himself, he claims, speaks of the power of one circle (no. 9) in his book of magic.",
+    "the banquet that demons bring forth is in one particular like the feasts ascribed in later years to witches at their sabbaths: the food does not really exist..."
+  ]
+}

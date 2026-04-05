@@ -1,0 +1,174 @@
+{
+  "source_id": "necro",
+  "chunk_id": 16,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Master Peter of Ardene",
+      "type": "person",
+      "attributes": {
+        "role": "surgeon",
+        "nationality": "Irish",
+        "location": "Paris"
+      },
+      "page_ref": "n/a (exemplum narrative)",
+      "raw_quote": "a certain surgeon from my home country, and in fact even a native of my very parish, named Master Peter of Ardene"
+    },
+    {
+      "name": "Spanish magician",
+      "type": "person",
+      "attributes": {
+        "role": "magus"
+      },
+      "page_ref": "n/a (exemplum narrative)",
+      "raw_quote": "a certain Spanish magician [magus] was on close terms with him"
+    },
+    {
+      "name": "demon summoned by the Spanish magician",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "behavioral_trait": "obeys ritual timing tied to liturgical calendar"
+      },
+      "page_ref": "n/a (exemplum narrative)",
+      "raw_quote": "the demon...delayed his coming...mourning and sighing...‘You people are really strange [Mirum est de vobis], for the angels in heaven are celebrating the feast of the Virgin Mary, and you cannot take your rest here on earth!’"
+    },
+    {
+      "name": "conjure / adjure / exorcize",
+      "type": "ritual",
+      "attributes": {
+        "function": "core action in necromantic formulas",
+        "synonymy": "interchangeable terms"
+      },
+      "page_ref": "p. [unspecified], section 'Formulas for Commanding Spirits'",
+      "raw_quote": "the terms ‘conjuration’ and ‘exorcism’ are essentially interchangeable in medieval usage"
+    },
+    {
+      "name": "Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim, Lodoni",
+      "type": "spirit",
+      "attributes": {
+        "role": "named demonic names invoked in conjuration"
+      },
+      "page_ref": "n/a (example from no. 3)",
+      "raw_quote": "by these names, which cause you fear and terror: Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni"
+    },
+    {
+      "name": "Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor, Ym",
+      "type": "spirit",
+      "attributes": {
+        "rank": "arms-bearing spirits",
+        "function": "bear arms and deceive human senses"
+      },
+      "page_ref": "n/a (example from no. 7)",
+      "raw_quote": "O Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor and Ym, arms-bearing spirits, whose role it is to bear arms and to deceive human senses wherever you wish"
+    },
+    {
+      "name": "Aa, Ely, Sother, Adonay, Cel, Sabaoth, Messyas, Alazabra, Osian",
+      "type": "spirit",
+      "attributes": {
+        "role": "ineffable names of the Creator",
+        "effect": "arouse fear in all things in heaven, earth, and hell"
+      },
+      "page_ref": "n/a (example from no. 7)",
+      "raw_quote": "by these most precious and ineffable names of the Creator of all...to wit Aa, Ely, Sother, Adonay, Cel, Sabaoth, Messyas, Alazabra and Osian"
+    },
+    {
+      "name": "circle",
+      "type": "ritual",
+      "attributes": {
+        "function": "demonic containment",
+        "symbolic_form": "drawn by magician"
+      },
+      "page_ref": "n/a (exemplum narrative)",
+      "raw_quote": "made a circle according to his art"
+    },
+    {
+      "name": "Book of Consecrations",
+      "type": "ritual_text",
+      "attributes": {
+        "context": "contains prayers, not all conjurations"
+      },
+      "page_ref": "n/a (reference in text)",
+      "raw_quote": "...especially in the Book of Consecrations"
+    },
+    {
+      "name": "pseudo-Chaldean incantation",
+      "type": "ritual_text",
+      "attributes": {
+        "origin": "Arabic",
+        "example": "Bismille araathe...."
+      },
+      "page_ref": "n/a (no. 18)",
+      "raw_quote": "One notable exception is a conjuration given in pseudo-Chaldean (no. 18): Bismille araathe...."
+    },
+    {
+      "name": "Rawlinson manuscript",
+      "type": "ritual_text",
+      "attributes": {
+        "feature": "uses vernacular for spirit-addressing formulas"
+      },
+      "page_ref": "n/a (reference in text)",
+      "raw_quote": "In the Rawlinson manuscript, the text shifts to the vernacular particularly for formulas addressed to the spirits when they have come"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Spanish magician",
+      "to": "demon summoned by the Spanish magician",
+      "type": "summoner-to-spirit"
+    },
+    {
+      "from": "Master Peter of Ardene",
+      "to": "Spanish magician",
+      "type": "acquaintance"
+    },
+    {
+      "from": "conjure / adjure / exorcize",
+      "to": "ritual command",
+      "type": "semantic_equivalent"
+    },
+    {
+      "from": "Rator et al.",
+      "to": "demon conjuration formula (no. 3)",
+      "type": "invoked_in"
+    },
+    {
+      "from": "Vsyr et al.",
+      "to": "demon conjuration formula (no. 7)",
+      "type": "invoked_in"
+    },
+    {
+      "from": "Aa et al.",
+      "to": "demon conjuration formula (no. 7)",
+      "type": "invoked_in"
+    },
+    {
+      "from": "circle",
+      "to": "ritual containment space",
+      "type": "constitutes"
+    },
+    {
+      "from": "Book of Consecrations",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "part_of"
+    },
+    {
+      "from": "pseudo-Chaldean incantation",
+      "to": "Arabic linguistic origin",
+      "type": "borrowed_from"
+    },
+    {
+      "from": "Rawlinson manuscript",
+      "to": "vernacular usage in spirit-addressing formulas",
+      "type": "exemplifies"
+    }
+  ],
+  "summary": "This chunk focuses on the structure and function of conjurations in the Munich Handbook (CLM 849), analyzing their formal elements: declaration, address, invocations, and instruction. It includes detailed examples from nos. 3 and 7, listing named spirits (e.g., Rator et al.; Vsyr et al.) and divine/demonic names used for coercion. A narrative exemplum involving Master Peter of Ardene and a Spanish magician illustrates ritual summoning and demon responses tied to liturgical time. The text also notes linguistic features (Latin vs. vernacular), cross-cultural comparisons with Jewish magic, and references to other manuscripts like the Rawlinson and pseudo-Chaldean texts.",
+  "key_passages": [
+    "The conjurations are so centrally important to necromantic experiments that the art of necromancy...can even be referred to simply as the conjuring of spirits.",
+    "[Declaration:] I conjure [Address:] you demons inscribed in this circle, to whom is given the power of seducing and binding women in the love of men...",
+    "O Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor and Ym, arms-bearing spirits, whose role it is to bear arms and to deceive human senses wherever you wish...",
+    "by these names, which cause you fear and terror: Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim and Lodoni...",
+    "the terms ‘conjuration’ and ‘exorcism’ are essentially interchangeable in medieval usage"
+  ]
+}

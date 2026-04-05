@@ -1,0 +1,5 @@
+{
+    "source_files": ["file1.py", "file2.py"],
+    "target_language": "js",
+    "output_file_name": "distilled_code.js"
+}

@@ -1,0 +1,217 @@
+{
+  "source_id": "necro",
+  "chunk_id": 4,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Luxuriosus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "seduction/rape; associated with lust (luxuria)",
+        "appearance": "form of a charming maiden of twelve years"
+      },
+      "raw_quote": "one named Luxuriosus, another Superbus, and the third Avarus, [all of them] devils. And the first appeared to him in the form of a charming maiden of twelve years..."
+    },
+    {
+      "name": "Superbus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "illusionist; associated with pride (superbia)",
+        "appearance": "adoration at dawn"
+      },
+      "raw_quote": "likewise, during the night he adored that devil as a god... Likewise, he said that when he passed along the roads and was with the demons and found a cross, the devils fled from it..."
+    },
+    {
+      "name": "Avarus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "associated with avarice (avaritia); key motive in necromantic divination"
+      },
+      "raw_quote": "...the spirit of avarice (i avaritia ) is a key motive of the necromancer, and sometimes of his client..."
+    },
+    {
+      "name": "Johannes Cunalis",
+      "type": "person",
+      "attributes": {
+        "role": "priest-necromancer",
+        "location": "Munich, Bavaria"
+      },
+      "raw_quote": "this Johannes Cunalis had a book of necromancy [librum de nigromancia ], and that when he who spoke opened this book at once there appeared to him three demons..."
+    },
+    {
+      "name": "Jubertus",
+      "type": "person",
+      "attributes": {
+        "role": "associate or master of Johannes Cunalis",
+        "location": "Bavaria"
+      },
+      "raw_quote": "it is perhaps no distortion to suggest that the spirit of lust (luxuria) is one main incentive for the psychological experiments, the spirit of pride (superbia ) is a prime factor in the illusionist ones..."
+    },
+    {
+      "name": "CLM 849",
+      "type": "ritual",
+      "attributes": {
+        "title": "Munich Handbook of Necromancy",
+        "status": "manuscript",
+        "contents": "necromantic experiments, circles, incantations"
+      },
+      "raw_quote": "The link between necromancy and witchcraft emerges also from the work of Johannes Hartlieb... Clm 849 (e.g., the anointing of a boy’s fingernail for scrying, or the conjuring of a demon in the form of a horse for magical transportation)..."
+    },
+    {
+      "name": "Sancta Maria Heremitta",
+      "type": "location",
+      "attributes": {
+        "geography": "river crossing in Bavaria"
+      },
+      "raw_quote": "...one night with the aid of demons his master had a bridge constructed over a river in Bavaria at a place called Sancta Maria Heremitta."
+    },
+    {
+      "name": "Johannes Fabri",
+      "type": "person",
+      "attributes": {
+        "location": "Vienna",
+        "role": "victim of image magic"
+      },
+      "raw_quote": "...as he had done in the duchy of Austria in the case of a man called Johannes Fabri of Vienna."
+    },
+    {
+      "name": "Johanneta",
+      "type": "person",
+      "attributes": {
+        "status": "widow",
+        "role": "intended victim of image magic"
+      },
+      "raw_quote": "...he had proposed to blind Johanneta, the widow of Johannes Paganus of the present place..."
+    },
+    {
+      "name": "poison-making",
+      "type": "ritual",
+      "attributes": {
+        "ingredients": [
+          "basilisk",
+          "toad",
+          "serpent",
+          "spider",
+          "scorpion"
+        ],
+        "method": "aid of devils"
+      },
+      "raw_quote": "...poisons were made by the aid of devils... taken from a basilisk, toad, serpent, spider or scorpion..."
+    },
+    {
+      "name": "herb-gathering",
+      "type": "ritual",
+      "attributes": {
+        "timing": "feast of Saint John the Baptist",
+        "posture": "on bended knees",
+        "intent": "medicine but adoration of devils"
+      },
+      "raw_quote": "...on the feast of Saint John the Baptist he gathered certain herbs for medicine... on bended knees he first adored them, then extracting them in the name of his devils..."
+    },
+    {
+      "name": "keys (ritual use)",
+      "type": "tool",
+      "attributes": {
+        "use": "tracing image of target"
+      },
+      "raw_quote": "With two keys he had traced her image, in a manner and form which he explained in the examination..."
+    },
+    {
+      "name": "Holy Friday",
+      "type": "ritual",
+      "attributes": {
+        "timing": "before Easter",
+        "offering": "three or five pence to Luxuriosus"
+      },
+      "raw_quote": "...to Luxuriosus he gave three or five pence on Holy Friday before Easter..."
+    },
+    {
+      "name": "cross-desecration",
+      "type": "ritual",
+      "attributes": {
+        "actions": [
+          "spat",
+          "trampled",
+          "urinated/defecated"
+        ],
+        "frequency": "thrice",
+        "direction": "posterior to east"
+      },
+      "raw_quote": "...made a cross on the ground, and spat on it three times, and trampled on it three times with his left foot, and urinated and defecated on it..."
+    },
+    {
+      "name": "Table B",
+      "type": "concept",
+      "attributes": {
+        "source": "Kieckhefer’s analysis",
+        "content": "classification of necromantic types in Clm 849"
+      },
+      "raw_quote": "Table B . Types of necromancy found in Clm 849 — Illusionist / Psychological / Divinatory..."
+    },
+    {
+      "name": "Jubertus’s spirits correlation",
+      "type": "concept",
+      "attributes": {
+        "mapping": [
+          "Superbus → illusionist",
+          "Luxuriosus → psychological",
+          "Avarus → divinatory/recovery"
+        ]
+      },
+      "raw_quote": "Correlation: Superbus — grandeur of display... Luxuriosus - seduction or rape... Avarus — recovery or discovery of goods..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Johannes Cunalis",
+      "to": "Luxuriosus",
+      "type": "conjures"
+    },
+    {
+      "from": "Johannes Cunalis",
+      "to": "Superbus",
+      "type": "adores"
+    },
+    {
+      "from": "Johannes Cunalis",
+      "to": "Avarus",
+      "type": "adores"
+    },
+    {
+      "from": "Jubertus",
+      "to": "Johannes Cunalis",
+      "type": "master of"
+    },
+    {
+      "from": "CLM 849",
+      "to": "Table B",
+      "type": "contains classification in"
+    },
+    {
+      "from": "Luxuriosus",
+      "to": "psychological experiments",
+      "type": "drives"
+    },
+    {
+      "from": "Superbus",
+      "to": "illusionist experiments",
+      "type": "drives"
+    },
+    {
+      "from": "Avarus",
+      "to": "divinatory experiments",
+      "type": "motivates"
+    }
+  ],
+  "summary": "This chunk presents testimonial evidence from a trial involving Johannes Cunalis and his demon conjurations (Luxuriosus, Superbus, Avarus), describes ritual practices (cross-desecration, herb-gathering, poison-making), links these to the Munich Handbook CLM 849, and introduces Kieckhefer’s Table B classifying necromantic types. It also discusses manuscript compilation theory and possible authorship.",
+  "key_passages": [
+    "one named Luxuriosus, another Superbus, and the third Avarus, [all of them] devils. And the first appeared to him in the form of a charming maiden of twelve years...",
+    "...the spirit of lust (luxuria) is one main incentive for the psychological experiments, the spirit of pride (superbia ) is a prime factor in the illusionist ones, and the spirit of avarice (i avaritia ) is a key motive...",
+    "poisons were made by the aid of devils... taken from a basilisk, toad, serpent, spider or scorpion...",
+    "With two keys he had traced her image, in a manner and form which he explained in the examination...",
+    "Table B . Types of necromancy found in Clm 849 — Illusionist / Psychological / Divinatory..."
+  ]
+}

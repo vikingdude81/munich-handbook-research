@@ -1,0 +1,256 @@
+{
+  "source_id": "necro",
+  "chunk_id": "13",
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Floron",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit",
+        "function": "appears in mirror to answer questions about past, present, future; gives written responses first, then oral"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 18/19)",
+      "raw_quote": "he will see an armed knight seated on a horse... he will greet the knight [with the words], se desperata, decentissime visibiliter greciomo."
+    },
+    {
+      "name": "Lilith (also Lilit / Lylet)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "appears in mirror with servants; reveals truth about theft, murder, or other circumstances"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 23)",
+      "raw_quote": "She will appear in a mirror with two or more servants, and will tell the truth or give appropriate signs regarding a theft, murder, or other circumstance."
+    },
+    {
+      "name": "Bylet",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spirit (possibly alternate name for Lilith’s spirit/knight)"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 23)",
+      "raw_quote": "the text seems to slip into calling the spirit Bylet before the experiment is over."
+    },
+    {
+      "name": "virgin boy",
+      "type": "ritual participant",
+      "attributes": {
+        "age requirement": "typically under 12, born of legitimate marriage",
+        "gender requirement": "male; occasionally girls used but rare"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849)",
+      "raw_quote": "The medium must be a virgin boy... Sometimes we are told that he must be younger than twelve, and born of legitimate marriage."
+    },
+    {
+      "name": "Mirror of Floron",
+      "type": "tool",
+      "attributes": {
+        "material": "pure steel",
+        "size": "one palm around",
+        "preparation": "anointed with balsam, fumigated with aloes/ambergris/myrrh/white frankincense; names inscribed on unpolished rim"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 18)",
+      "raw_quote": "Have a mirror made of pure steel, measuring one palm around... have it bright and shiny like a sword... anointed with pure and bright balsam, and fumigated with aloes, ambergris, myrrh and white frankincense."
+    },
+    {
+      "name": "crystal",
+      "type": "tool",
+      "attributes": {
+        "preparation": "washed with wine; names of Christ written on it with olive oil (Expt. 24); or name 'Honely' written in wax with oil (Expt. 25)"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 24–25)",
+      "raw_quote": "the master first takes a crystal and washes it with wine, then he writes certain names of Christ on it with olive oil..."
+    },
+    {
+      "name": "polished thumbnail/fingernail",
+      "type": "tool",
+      "attributes": {
+        "medium requirement": "used by boy to gaze into; scraped with knife before use"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 27)",
+      "raw_quote": "scrape well the thumb nail of his left hand with a knife... bind to the same thumb, beneath the nail, a slip with the following names written on it."
+    },
+    {
+      "name": "Egippia",
+      "type": "spirit name (on parchment)",
+      "attributes": {
+        "used in": "thumbnail scrying ritual; part of list of 27+ names"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 27)",
+      "raw_quote": "Egippia, Benoham, Beanke vel Beanre, Reranressym, Alredessym, Ebemidyrr, Fetolinie [?], Dysi..."
+    },
+    {
+      "name": "Discobermath",
+      "type": "spirit name (conjuration)",
+      "attributes": {
+        "used in": "final conjuration of Expt. 27"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 27)",
+      "raw_quote": "O you demons from the east... open up to us, Discobermath, Archidemath, Fritath, Altramat..."
+    },
+    {
+      "name": "Joth",
+      "type": "divine name (used in binding)",
+      "attributes": {
+        "function": "used by Solomon to bind demons; invoked in conjuration of Expt. 27"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 27)",
+      "raw_quote": "I command you to be bound beneath the deep waters of the sea, by these two names, Joth [and] Nabnoth, by which Solomon bound demons in a glass vessel."
+    },
+    {
+      "name": "Nabnoth",
+      "type": "divine name (used in binding)",
+      "attributes": {
+        "function": "used with Joth to bind demons; invoked in Expt. 27"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 27)",
+      "raw_quote": "...by these two names, Joth [and] Nabnoth, by which Solomon bound demons in a glass vessel."
+    },
+    {
+      "name": "bond of Solomon",
+      "type": "ritual text",
+      "attributes": {
+        "function": "extended conjuration used to compel spirits who refuse to cooperate"
+      },
+      "page_ref": "n/a (Munich Handbook Clm 849, Expt. 33)",
+      "raw_quote": "...the master reads the unbreakable ‘bond of Solomon’, an extended conjuration."
+    },
+    {
+      "name": "Rawlinson necromantic manuscript",
+      "type": "text reference",
+      "attributes": {
+        "content focus": "divinatory magic; warnings about false accusation"
+      },
+      "page_ref": "n/a (cited in Kieckhefer)",
+      "raw_quote": "the spirits must be strictly enjoined not to defame any innocent parties."
+    },
+    {
+      "name": "Stephen of Bourbon",
+      "type": "person",
+      "attributes": {
+        "role": "medieval preacher/canon; cited for story about demon deception"
+      },
+      "page_ref": "n/a (cited in Kieckhefer)",
+      "raw_quote": "While I was a student at Paris, one Christmas Eve... a certain most noted thief entered our hostel..."
+    },
+    {
+      "name": "William Lee",
+      "type": "person",
+      "attributes": {
+        "role": "petitioner falsely accused by necromantic divination"
+      },
+      "page_ref": "n/a (Coventry case, mid-1480s)",
+      "raw_quote": "...the said persons using the said unlawful crafts advised and counselled the said John Haddon to take and examine your said orator for withdrawing of the said money..."
+    },
+    {
+      "name": "John Haddon",
+      "type": "person",
+      "attributes": {
+        "role": "victim of theft who consulted necromancers; accused William Lee based on their divination"
+      },
+      "page_ref": "n/a (Coventry case)",
+      "raw_quote": "...forty pounds of money was taken and withdrawn from one John Haddon of the said city, draper..."
+    },
+    {
+      "name": "Bunwell",
+      "type": "location",
+      "attributes": {
+        "event": "spiritus aerialis appeared to treasure-seekers; rooster baptized and sacrificed"
+      },
+      "page_ref": "n/a (Norfolk trial, 1465)",
+      "raw_quote": "When a spiritus aerialis appeared, at Bunwell, they promised it the body of a Christian man in exchange for its leading them to treasure..."
+    },
+    {
+      "name": "Thomas Forde",
+      "type": "person",
+      "attributes": {
+        "role": "execrated diviner sentenced to pillory (1418) for fraud"
+      },
+      "page_ref": "n/a (London, 1418)",
+      "raw_quote": "Thomas Forde was sentenced to the pillory at London in 1418 for having defrauded women by claims of magical power..."
+    },
+    {
+      "name": "Mary of Nijmeghen",
+      "type": "person (legendary/historical)",
+      "attributes": {
+        "role": "mentioned in devil’s boast about treasure-finding magic"
+      },
+      "page_ref": "n/a (cited in Kieckhefer)",
+      "raw_quote": "I am beginning to teach people how to find hidden treasure; and only yesterday it cost one of them his life."
+    },
+    {
+      "name": "Johannes Hartlieb",
+      "type": "person",
+      "attributes": {
+        "role": "15th-century German physician/magical writer; cited by Kieckhefer for comparative context"
+      },
+      "page_ref": "n/a (cited in Kieckhefer)",
+      "raw_quote": "I have seen masters who maintain they can prepare mirrors such that any man or woman can see in them what they will."
+    },
+    {
+      "name": "Cecco d’Ascoli",
+      "type": "person",
+      "attributes": {
+        "role": "medieval scholar; Floron known from his writings"
+      },
+      "page_ref": "n/a (cited in Kieckhefer)",
+      "raw_quote": "the latter is known from the writings of Cecco d’Ascoli."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Floron",
+      "to": "Mirror of Floron",
+      "type": "appears_in"
+    },
+    {
+      "from": "Lilith",
+      "to": "Mirror of Lilith",
+      "type": "dedicated_to"
+    },
+    {
+      "from": "virgin boy",
+      "to": "polished thumbnail/fingernail",
+      "type": "uses_as_scrying_medium"
+    },
+    {
+      "from": "virgin boy",
+      "to": "crystal",
+      "type": "uses_as_scrying_medium"
+    },
+    {
+      "from": "virgin boy",
+      "to": "mirror of Floron/Lilith",
+      "type": "uses_as_scrying_medium"
+    },
+    {
+      "from": "Egippia",
+      "to": "thumbnail scrying ritual",
+      "type": "included_in_names_list"
+    },
+    {
+      "from": "Joth",
+      "to": "Solomon",
+      "type": "used_by"
+    },
+    {
+      "from": "bond of Solomon",
+      "to": "spirit refusal",
+      "type": "used_when"
+    },
+    {
+      "from": "Rawlinson manuscript",
+      "to": "false accusation warning",
+      "type": "contains_advice_on"
+    }
+  ],
+  "summary": "This chunk focuses on divinatory rituals in the Munich Handbook (Clm 849), especially scrying with mirrors, crystals, and fingernails. It details spirits like Floron and Lilith, ritual participants (especially virgin boys), and materials used (steel, balsam, aloes, olive oil). It also contextualizes these practices within broader medieval concerns about false accusation and demonic deception.",
+  "key_passages": [
+    "Have a mirror made of pure steel... have it bright and shiny like a sword. And have it made in the name of Floron, and around the rim of the mirror... inscribe these ten names...",
+    "She will appear in a mirror with two or more servants, and will tell the truth or give appropriate signs regarding a theft, murder, or other circumstance.",
+    "scrape well the thumb nail of his left hand with a knife. Then bind to the same thumb, beneath the nail, a slip with the following names written on it...",
+    "I command you to be bound beneath the deep waters of the sea, by these two names, Joth [and] Nabnoth, by which Solomon bound demons in a glass vessel.",
+    "The master himself should be bathed and dressed in clean garments. Before he begins to exercise this work he should sprinkle in the air honey, milk and wine, mixed together in equal proportions..."
+  ]
+}

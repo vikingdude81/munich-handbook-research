@@ -1,0 +1,304 @@
+{
+  "source_id": "necro",
+  "chunk_id": 24,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Apolin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "function": "conveys knowledge through spirit-magister"
+      },
+      "page_ref": "fols 3r-5v",
+      "raw_quote": "O rex Apolin, magne, potens, et venerabilis... rogo per incomprehensibilem magestatem tuam vt famulus et subiectus tuus, tabs, magister meus, debeat ad me venire quam 1 cicius fieri potest..."
+    },
+    {
+      "name": "Maraloth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "function": "conveys knowledge through spirit-magister"
+      },
+      "page_ref": "fols 3r-5v",
+      "raw_quote": "...dicere [debes] versus Maraloth, mutando nomen..."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "function": "conveys knowledge through spirit-magister"
+      },
+      "page_ref": "fols 3r-5v",
+      "raw_quote": "...et Berith, ego, talis, vos exorciso- et coniuro ex parte dei omnipotentis..."
+    },
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "function": "listed in circle inscriptions"
+      },
+      "page_ref": "fol 4v (circle)",
+      "raw_quote": "...inscribed in and around the band... Belial, Satan, Mendior Matalot..."
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "function": "listed in circle inscriptions"
+      },
+      "page_ref": "fol 4v (circle)",
+      "raw_quote": "...Belial, Satan, Mendior Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Mendior Matalot",
+      "type": "spirit",
+      "attributes": {
+        "function": "listed in circle inscriptions"
+      },
+      "page_ref": "fol 4v (circle)",
+      "raw_quote": "...Belial, Satan, Mendior Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Belzebub",
+      "type": "spirit",
+      "attributes": {
+        "function": "listed in circle inscriptions"
+      },
+      "page_ref": "fol 4v (circle)",
+      "raw_quote": "...Belial, Satan, Mendior Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "function": "listed in circle inscriptions"
+      },
+      "page_ref": "fol 4v (circle)",
+      "raw_quote": "...Belial, Satan, Mendior Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Sententino",
+      "type": "spirit",
+      "attributes": {
+        "function": "listed in circle inscriptions"
+      },
+      "page_ref": "fol 4v (circle)",
+      "raw_quote": "...Belial, Satan, Mendior Matalot, Belzebub, Lucifer, Sententino and Apolin..."
+    },
+    {
+      "name": "Dobel",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...per hec sancta nomina quorum virtute ligamini - scilicet Dobel, Vriel, Sabaoth..."
+    },
+    {
+      "name": "Vriel",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...scilicet Dobel, Vriel, Sabaoth..."
+    },
+    {
+      "name": "Sabaoth",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...scilicet Dobel, Vriel, Sabaoth..."
+    },
+    {
+      "name": "Semoni",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Sabaoth, Semoni, Adonay..."
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Semoni, Adonay, Tetragramaton..."
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Adonay, Tetragramaton, Albumav..."
+    },
+    {
+      "name": "Albumav",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Tetragramaton, Albumav, Siloth..."
+    },
+    {
+      "name": "Siloth",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Albumav, Siloth, Moreth..."
+    },
+    {
+      "name": "Moreth",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Siloth, Moreth, Sadabin..."
+    },
+    {
+      "name": "Sadabin",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Moreth, Sadabin, Rodobel..."
+    },
+    {
+      "name": "Rodobel",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Sadabin, Rodobel, Domiel..."
+    },
+    {
+      "name": "Domiel",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Rodobel, Domiel, Perarabiel..."
+    },
+    {
+      "name": "Perarabiel",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Domiel, Perarabiel, Q Alatuel..."
+    },
+    {
+      "name": "Q Alatuel",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Perarabiel, Q Alatuel, nominem..."
+    },
+    {
+      "name": "nominem",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...Q Alatuel, nominem, nominam,-[et] Vsobel..."
+    },
+    {
+      "name": "nominam",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...nominem, nominam,-[et] Vsobel..."
+    },
+    {
+      "name": "Vsobel",
+      "type": "spirit",
+      "attributes": {
+        "function": "invoked in chain of binding names"
+      },
+      "page_ref": "fol 3r",
+      "raw_quote": "...nominam,-[et] Vsobel..."
+    },
+    {
+      "name": "magister",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritual expert",
+        "function": "teaches all arts and sciences"
+      },
+      "page_ref": "fols 3r-5v",
+      "raw_quote": "...qui michi sit beniuolus, fidelis, et placidus, ad docendum omnem scienciam quam voluero,- veniens in forma magistri..."
+    },
+    {
+      "name": "Mirus (Mirael)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "remover of knowledge/senses"
+      },
+      "page_ref": "fols 6r-7v",
+      "raw_quote": "Coniuro te, Mirael... vt in tali quem aspicio debeas permanere donec michi libuerit..."
+    },
+    {
+      "name": "Oreoth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "listed among ten malign demons"
+      },
+      "page_ref": "fol 6v (circle)",
+      "raw_quote": "Coniuro vos decern demones [6v] malignos, videlicet Oreoth, Pinen, Ocel..."
+    },
+    {
+      "name": "Pinen",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "listed among ten malign demons"
+      },
+      "page_ref": "fol 6v (circle)",
+      "raw_quote": "...videlicet Oreoth, Pinen, Ocel..."
+    },
+    {
+      "name": "Ocel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "listed among ten malign demons"
+      },
+      "page_ref": "fol 6v (circle)",
+      "raw_quote": "...videlicet Oreoth, Pinen, Ocel..."
+    },
+    {
+      "name": "Tryboy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "listed among ten malign demons"
+      },
+      "page_ref": "fol 6v (circle)",
+      "raw_quote": "...videlicet Oreoth, Pinen, Ocel, Tryboy..."
+    }
+  ]
+}

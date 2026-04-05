@@ -1,0 +1,7 @@
+# Munich Handbook Research Project
+# Infernal Topology × Lattice-Governed Inference
+
+numpy>=1.20.0
+scipy>=1.7.0
+minisom>=0.3.0
+matplotlib>=3.4.0

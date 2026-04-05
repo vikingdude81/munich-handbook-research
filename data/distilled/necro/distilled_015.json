@@ -1,0 +1,205 @@
+{
+  "source_id": "necro",
+  "chunk_id": 15,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Apolin",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "function": "one of three kings conjured; commands teacher-spirit"
+      },
+      "page_ref": "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
+      "raw_quote": "Apolin, Maraloth, Berith, 1, so-"
+    },
+    {
+      "name": "Maraloth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "function": "one of three kings conjured"
+      },
+      "page_ref": "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
+      "raw_quote": "Apolin, Maraloth, Berith, 1, so-"
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "function": "one of three kings conjured"
+      },
+      "page_ref": "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
+      "raw_quote": "Apolin, Maraloth, Berith, 1, so-"
+    },
+    {
+      "name": "Sathan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "infernal name invoked in final incantation"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [and] Lucifer..."
+    },
+    {
+      "name": "Beliath",
+      "type": "spirit",
+      "attributes": {
+        "rank": "infernal name invoked"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [and] Lucifer..."
+    },
+    {
+      "name": "Belzebuc",
+      "type": "spirit",
+      "attributes": {
+        "rank": "infernal name invoked"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [and] Lucifer..."
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "infernal name invoked"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [and] Lucifer..."
+    },
+    {
+      "name": "master (spirit)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "teacher-spirit; magister",
+        "function": "instructs magician in all sciences for 30 days"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "...to send me a certain spirit who is expert in teaching of all the sciences..."
+    },
+    {
+      "name": "hoopoe (bird)",
+      "type": "ingredient",
+      "attributes": {
+        "description": "source of blood and heart for ritual writing"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "...the blood of a bird, perhaps a hoopoe, and evidently the magician is to use the heart of this bird as a writing instrument..."
+    },
+    {
+      "name": "bird's blood",
+      "type": "ingredient",
+      "attributes": {
+        "description": "used for inscribing names on cloth"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "...the markings on this cloth are to be made with the blood of a bird..."
+    },
+    {
+      "name": "bird's heart",
+      "type": "tool",
+      "attributes": {
+        "description": "used as pen for writing"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "...use the heart of this bird as a writing instrument..."
+    },
+    {
+      "name": "sword",
+      "type": "tool",
+      "attributes": {
+        "description": "symbolizes authority; held by demon during instruction, returned at end"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "...the sword, which the demonic teacher claims at the beginning of the lessons but relinquishes to the magician at the end..."
+    },
+    {
+      "name": "circle (ritual)",
+      "type": "ritual",
+      "attributes": {
+        "description": "drawn on cloth; double concentric band within square; inscribed with demon names and directions"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "The circle required for this first experiment is a single band inscribed within a square. Inscribed in and around the band are the names of seven spirits and the four cardinal directions..."
+    },
+    {
+      "name": "tablet (for writing)",
+      "type": "tool",
+      "attributes": {
+        "description": "used to record spirit’s name and order"
+      },
+      "page_ref": "Munich Handbook, CLM 849",
+      "raw_quote": "...you must have a tablet, and must write down all that he tells you."
+    },
+    {
+      "name": "Caesarius of Heisterbach story",
+      "type": "concept",
+      "attributes": {
+        "description": "comparative reference; illustrates demonic homage"
+      },
+      "page_ref": "Kieckhefer p. [unspecified in chunk]; Caesarius, Dialogue on Miracles",
+      "raw_quote": "In the church of Saint Simeon in the diocese of Trier there was a little schoolboy..."
+    },
+    {
+      "name": "ars notoria",
+      "type": "concept",
+      "attributes": {
+        "description": "medieval magical tradition for acquiring knowledge via angelic invocation"
+      },
+      "page_ref": "Kieckhefer reference",
+      "raw_quote": "...the later medieval magic of the so-called ars notoria, which uses prayers and invocation of angels to gain mastery of the liberal and mechanical arts."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Apolin",
+      "to": "Maraloth",
+      "type": "co-conjured kings"
+    },
+    {
+      "from": "Apolin",
+      "to": "Berith",
+      "type": "co-conjured kings"
+    },
+    {
+      "from": "Maraloth",
+      "to": "Berith",
+      "type": "co-conjured kings"
+    },
+    {
+      "from": "Apolin/Maraloth/Berith",
+      "to": "master (spirit)",
+      "type": "commands to send"
+    },
+    {
+      "from": "bird's blood",
+      "to": "cloth circle",
+      "type": "medium for inscribing names"
+    },
+    {
+      "from": "sword",
+      "to": "magician",
+      "type": "held by demon, returned at end of instruction"
+    },
+    {
+      "from": "master (spirit)",
+      "to": "knowledge acquisition",
+      "type": "instructs over 30 days"
+    },
+    {
+      "from": "Caesarius story",
+      "to": "Munich Handbook experiment",
+      "type": "comparative precedent"
+    }
+  ],
+  "summary": "This chunk details a ritual from the Munich Handbook (CLM 849) for acquiring knowledge through demonic conjuration, focusing on the invocation of three demon kings—Apolin, Maraloth, and Berith—to send a teacher-spirit. It outlines the use of bird blood and heart to inscribe names on cloth, the construction of a ritual circle, sleep-based spirit communication, and symbolic exchange of a sword representing authority over knowledge. Kieckhefer compares this practice with Jewish angelic magic, the ars notoria, and Caesarius of Heisterbach’s story of a schoolboy who made homage to the devil.",
+  "key_passages": [
+    "Apolin, Maraloth, Berith, 1, so-",
+    "...the markings on this cloth are to be made with the blood of a bird, perhaps a hoopoe, and evidently the magician is to use the heart of this bird as a writing instrument...",
+    "The circle required for this first experiment is a single band inscribed within a square. Inscribed in and around the band are the names of seven spirits and the four cardinal directions.",
+    "...you must have a tablet, and must write down all that he tells you.",
+    "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [and] Lucifer, 1 implore you to command the master - here naming his name - to come to me tomorrow before sunrise..."
+  ]
+}

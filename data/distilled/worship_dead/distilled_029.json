@@ -1,0 +1,212 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 29,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Tammuz",
+      "type": "spirit",
+      "attributes": {
+        "synonyms": [
+          "Tharamuz",
+          "Dionysus?"
+        ],
+        "role": "god lamented in Syria/Palestine",
+        "death_type": "judicial execution"
+      },
+      "page_ref": "299–300",
+      "raw_quote": "\"Tammuz... the name under which the god was more especially known and lamented in Syria and Palestine, suffered a judicial death.\""
+    },
+    {
+      "name": "Osiris",
+      "type": "spirit",
+      "attributes": {
+        "synonyms": [
+          "Nimrod",
+          "Horus?"
+        ],
+        "role": "conquering god-king of Egypt",
+        "death_type": "judicial dismemberment by Typhon"
+      },
+      "page_ref": "298–301",
+      "raw_quote": "\"Osiris was cut in pieces, and the great feature in the rites of the god was the lamentation for his death at the solemn festival called 'The disappearance of Osiris.'\""
+    },
+    {
+      "name": "Typhon",
+      "type": "spirit",
+      "attributes": {
+        "synonyms": [
+          "Seth",
+          "Set",
+          "Shem",
+          "Titan"
+        ],
+        "role": "adversary/enemy of Osiris",
+        "death_cause": "judicial conspiracy with 72 Egyptian judges"
+      },
+      "page_ref": "300–302",
+      "raw_quote": "\"Typhon... was the name of the evil principle among the Egyptians... Typhon is said to be the brother of Osiris... and the term was applied to him therefore as a term of reproach by the incensed idolaters.\""
+    },
+    {
+      "name": "Nimrod",
+      "type": "person",
+      "attributes": {
+        "synonyms": [
+          "Oannes?",
+          "Orpheus?",
+          "Bacchus?"
+        ],
+        "role": "Cushite conqueror and god-king",
+        "deification_status": "posthumously deified as Osiris/Tammuz"
+      },
+      "page_ref": "254–256, 298–301",
+      "raw_quote": "\"It appears that Nimrod extended his conquests and religion over the whole civilised world... Osiris... is plainly Nimrod.\""
+    },
+    {
+      "name": "Seth (Egyptian god)",
+      "type": "spirit",
+      "attributes": {
+        "synonyms": [
+          "Typhon",
+          "Sutech"
+        ],
+        "role": "god of chaos/enemy of Osiris in later tradition; earlier revered as divine ancestor"
+      },
+      "page_ref": "301–302",
+      "raw_quote": "\"Set was worshipped as a god and was long held in the highest honour in Egypt... until the time of Rameses II., after which he was regarded as the foe of Osiris and all the gods of Egypt.\""
+    },
+    {
+      "name": "Maimonides",
+      "type": "person",
+      "attributes": {
+        "role": "medieval Jewish scholar citing Chaldean sources"
+      },
+      "page_ref": "299",
+      "raw_quote": "\"When the false prophet, named Tharamuz, preached to a certain king that he should worship the seven stars and the twelve signs of the Zodiac...\""
+    },
+    {
+      "name": "Manetho",
+      "type": "person",
+      "attributes": {
+        "role": "Egyptian priest-historian",
+        "source_status": "quoted for genealogy of Egyptian gods"
+      },
+      "page_ref": "254–256, 301",
+      "raw_quote": "\"The third is 'Agathodaeemon,' the name given to the good serpent in contradistinction to 'Rakodaeemon' the evil serpent. This Agathodaeemon is plainly Nimrod...\""
+    },
+    {
+      "name": "Hermes/Thoth",
+      "type": "spirit",
+      "attributes": {
+        "synonyms": [
+          "second Hermes",
+          "Gush"
+        ],
+        "role": "regent during Osiris’s absence; later identified with Cushite wisdom tradition"
+      },
+      "page_ref": "254, 301",
+      "raw_quote": "\"He left Hermes, i.e., Thoth, in charge of the kingdom of Egypt during his absence, and that Typhon... raised sedition and inflamed the minds of the people against him.\""
+    },
+    {
+      "name": "Rameses II.",
+      "type": "person",
+      "attributes": {
+        "role": "pharaoh marking shift in divine politics"
+      },
+      "page_ref": "302",
+      "raw_quote": "\"The period of Rameses II. was that in which a new element of Cushite influence was received from the Cushites of India.\""
+    },
+    {
+      "name": "Avaris",
+      "type": "location",
+      "attributes": {
+        "region": "in Seth/typhonian zone of Egypt"
+      },
+      "page_ref": "302",
+      "raw_quote": "\"Avaris' in that zone is said by Josephus to have been called in ancient theology a Typhonian City.\""
+    },
+    {
+      "name": "Saul (biblical)",
+      "type": "person",
+      "attributes": {
+        "role": "parallel for symbolic dismemberment ritual"
+      },
+      "page_ref": "301",
+      "raw_quote": "\"As in the case of Saul when he cut up a yoke of oxen and sent the pieces to the twelve tribes of Israel with the message, 'Whosoever goeth not forth with Saul and Samuel so shall it be done to his oxen.'\""
+    },
+    {
+      "name": "Apepi",
+      "type": "person",
+      "attributes": {
+        "role": "Pharaoh who rejected Egyptian gods for Set alone"
+      },
+      "page_ref": "302",
+      "raw_quote": "\"In the 'Sallier Papyrus' that Apepi... changed his religion and, rejecting the Egyptian gods, chose Set only as his god.\""
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Nimrod",
+      "to": "Osiris",
+      "type": "identity"
+    },
+    {
+      "from": "Nimrod",
+      "to": "Tammuz",
+      "type": "identity"
+    },
+    {
+      "from": "Shem",
+      "to": "Typhon",
+      "type": "identity"
+    },
+    {
+      "from": "Shem",
+      "to": "Seth",
+      "type": "identity"
+    },
+    {
+      "from": "Thoth/Hermes",
+      "to": "Cush/Gush",
+      "type": "son-father"
+    },
+    {
+      "from": "Osiris",
+      "to": "Cush/Gush",
+      "type": "father-son"
+    },
+    {
+      "from": "Typhon",
+      "to": "Osiris",
+      "type": "adversary"
+    },
+    {
+      "from": "Set",
+      "to": "Rameses II.",
+      "type": "chronological shift in worship status"
+    },
+    {
+      "from": "Apepi",
+      "to": "Set",
+      "type": "worshipper-to-deity"
+    },
+    {
+      "from": "Maimonides",
+      "to": "Tammuz",
+      "type": "source-of-testimony"
+    },
+    {
+      "from": "Manetho",
+      "to": "Nimrod/Osiris",
+      "type": "historical-source-for-divine-lineage"
+    }
+  ],
+  "summary": "This chunk explores the syncretic identification of ancient Near Eastern deities—especially Osiris, Tammuz, and Nimrod—with a focus on their judicial deaths and ritual lamentations. It argues that Typhon/Seth/Shem represents a Cushite rival who overthrew the original divine king (Nimrod/Osiris), leading to dismemberment rites and mourning customs. The text links these traditions to Egyptian priestly historiography (Manetho), medieval Jewish sources (Maimonides), and later Pharaonic religious shifts under Rameses II. and Apepi.",
+  "key_passages": [
+    "\"Osiris was cut in pieces, and the great feature in the rites of the god was the lamentation for his death at the solemn festival called 'The disappearance of Osiris.'\"",
+    "\"Typhon... overcame him, not by force or open war, but, having entered into a conspiracy with seventy-two of the leading men of Egypt, he got him into his power and put him to death, and then cut his body into pieces and sent the different parts to so many different cities throughout the country.\"",
+    "\"Tammuz... suffered a judicial death... On the night of his death all the images from the ends of the earth assembled in the temple of Babylon... and hence arose the custom every year on the first day of the month of Thammuz to mourn and weep for Thammuz.\"",
+    "\"Set was worshipped as a god and was long held in the highest honour in Egypt... until the time of Rameses II., after which he was regarded as the foe of Osiris and all the gods of Egypt, and was therefore given the name of Typhon, the principle of evil.\"",
+    "\"The cutting up the dead body and sending it to different cities was an ancient method of expressing both warning and command...\""
+  ]
+}

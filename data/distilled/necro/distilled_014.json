@@ -1,0 +1,468 @@
+{
+  "source_id": "necro",
+  "chunk_id": 14,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Basyon",
+      "type": "spirit",
+      "attributes": {
+        "role": "true God",
+        "context": "conjuration"
+      },
+      "raw_quote": "true God Basyon, and by the name[s] On, Berion, Sabaoth, [and] Adonay"
+    },
+    {
+      "name": "On",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in conjuration"
+      },
+      "raw_quote": "by the name[s] On, Berion, Sabaoth, [and] Adonay"
+    },
+    {
+      "name": "Berion",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in conjuration"
+      },
+      "raw_quote": "On, Berion, Sabaoth, [and] Adonay"
+    },
+    {
+      "name": "Sabaoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in conjuration"
+      },
+      "raw_quote": "On, Berion, Sabaoth, [and] Adonay"
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name in conjuration"
+      },
+      "raw_quote": "On, Berion, Sabaoth, [and] Adonay"
+    },
+    {
+      "name": "Discobermath",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon summoned in intensified conjuration"
+      },
+      "raw_quote": "open up to us, Discobermath, Archidemath, Fritath, Altramat, Pestiferat, Helyberp, Hegergibet, Sathan"
+    },
+    {
+      "name": "Archidemath",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon summoned in intensified conjuration"
+      },
+      "raw_quote": "Discobermath, Archidemath, Fritath, Altramat, Pestiferat, Helyberp, Hegergibet, Sathan"
+    },
+    {
+      "name": "Fritath",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon summoned in intensified conjuration"
+      },
+      "raw_quote": "Discobermath, Archidemath, Fritath, Altramat, Pestiferat, Helyberp, Hegergibet, Sathan"
+    },
+    {
+      "name": "Altramat",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon summoned in intensified conjuration"
+      },
+      "raw_quote": "Discobermath, Archidemath, Fritath, Altramat, Pestiferat, Helyberp, Hegergibet, Sathan"
+    },
+    {
+      "name": "Pestiferat",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon summoned in intensified conjuration"
+      },
+      "raw_quote": "Discobermath, Archidemath, Fritath, Altramat, Pestiferat, Helyberp, Hegergibet, Sathan"
+    },
+    {
+      "name": "Helyberp",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon summoned in intensified conjuration"
+      },
+      "raw_quote": "Discobermath, Archidemath, Fritath, Altramat, Pestiferat, Helyberp, Hegergibet, Sathan"
+    },
+    {
+      "name": "Hegergibet",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon summoned in intensified conjuration"
+      },
+      "raw_quote": "Discobermath, Archidemath, Fritath, Altramat, Pestiferat, Helyberp, Hegergibet, Sathan"
+    },
+    {
+      "name": "Sathan",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon summoned in intensified conjuration"
+      },
+      "raw_quote": "Discobermath, Archidemath, Fritath, Altramat, Pestiferat, Helyberp, Hegergibet, Sathan"
+    },
+    {
+      "name": "Sona",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon conjured over strap"
+      },
+      "raw_quote": "I conjure you, Sona, by the name of the Lord Tetragrammaton..."
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "concept",
+      "attributes": {
+        "role": "divine name used in conjurations"
+      },
+      "raw_quote": "by the name of the Lord Tetragrammaton"
+    },
+    {
+      "name": "Joth",
+      "type": "spirit",
+      "attributes": {
+        "role": "God-name in strap conjuration"
+      },
+      "raw_quote": "by the name of God Joth, and by the name of God Nabnoth"
+    },
+    {
+      "name": "Nabnoth",
+      "type": "spirit",
+      "attributes": {
+        "role": "God-name in strap conjuration"
+      },
+      "raw_quote": "Joth, and by the name of God Nabnoth"
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon invoked on knife handle"
+      },
+      "page_ref": "experiment no. 40",
+      "raw_quote": "writes the name of the boy and the name Astaroth on the knife handle"
+    },
+    {
+      "name": "Haram",
+      "type": "spirit",
+      "attributes": {
+        "role": "benign spirit who appears in dream to reveal treasure"
+      },
+      "page_ref": "experiment no. 41",
+      "raw_quote": "on the following night Haram, a benign spirit, may come to me in my sleep..."
+    },
+    {
+      "name": "Minon",
+      "type": "spirit",
+      "attributes": {
+        "role": "king conjured by princes of the nail (Jewish parallel)"
+      },
+      "page_ref": "Gaster 315 (cited)",
+      "raw_quote": "bring the king Minon in this nail, and the queen shall also come with him"
+    },
+    {
+      "name": "princes of the thumb/nail",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic officers overseeing nail-gazing divination"
+      },
+      "page_ref": "Gaster 315; Rashi reference",
+      "raw_quote": "conjure the ‘princes of the thumb’... princes of the nail"
+    },
+    {
+      "name": "princes of the hand",
+      "type": "spirit",
+      "attributes": {
+        "role": "demonic officers overseeing hand-gazing divination"
+      },
+      "page_ref": "Gaster 315 (cited)",
+      "raw_quote": "Another ritual... for conjuring ‘the princes of the hand’"
+    },
+    {
+      "name": "Semiforas",
+      "type": "concept",
+      "attributes": {
+        "role": "great Hebrew name for God, i.e., Shem ham-Mforash"
+      },
+      "page_ref": "experiment no. 42",
+      "raw_quote": "'the great name Semiforas' (meaning the Shem hem-Mforash)"
+    },
+    {
+      "name": "SATOR-AREPO",
+      "type": "concept",
+      "attributes": {
+        "role": "magical formula inscribed in circle or whispered"
+      },
+      "page_ref": "experiments 38–40; Gaster manuscripts",
+      "raw_quote": "say ‘Sator Arepo Tenet Opera Rotas’... a garbled version of the SATOR-AREPO formula"
+    },
+    {
+      "name": "Michael",
+      "type": "spirit",
+      "attributes": {
+        "role": "archangel invoked in dream experiment"
+      },
+      "page_ref": "experiment no. 16",
+      "raw_quote": "send the angels Michael, Gabriel and Raphael to reveal whatever information"
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "role": "archangel invoked in dream experiment"
+      },
+      "page_ref": "experiment no. 16",
+      "raw_quote": "Michael, Gabriel and Raphael"
+    },
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "role": "archangel invoked in dream experiment"
+      },
+      "page_ref": "experiment no. 16",
+      "raw_quote": "Michael, Gabriel and Raphael"
+    },
+    {
+      "name": "black man (demon form)",
+      "type": "spirit",
+      "attributes": {
+        "role": "typical appearance of demons in visions"
+      },
+      "raw_quote": "demons to appear... in the form of black men"
+    },
+    {
+      "name": "king (spirit form)",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon appearing as monarch, seated on throne"
+      },
+      "raw_quote": "the conception of a demon as a king or prince... he is allowed the privilege of a throne and a meal"
+    },
+    {
+      "name": "ram (ritual animal)",
+      "type": "ingredient",
+      "attributes": {
+        "role": "sacrificial animal for spirits"
+      },
+      "raw_quote": "send wherever he will for a ram to be skinned and cooked... the ram set before him"
+    },
+    {
+      "name": "olive oil",
+      "type": "ingredient",
+      "attributes": {
+        "role": "anointing medium for boy’s nails/hands"
+      },
+      "raw_quote": "anoints four joints of the boy’s left hand with olive oil... anoints his nail with olive oil"
+    },
+    {
+      "name": "knife (black- or white-horn handle)",
+      "type": "tool",
+      "attributes": {
+        "role": "used to scrape nails, inscribe parchment"
+      },
+      "raw_quote": "scrapes the boy’s right thumbnail... using a knife with a handle of black or white horn"
+    },
+    {
+      "name": "feather (from left wing of black hen)",
+      "type": "ingredient",
+      "attributes": {
+        "role": "writing implement for inscribing vessel"
+      },
+      "raw_quote": "writing on the vessel with a feather from the left wing of a black hen"
+    },
+    {
+      "name": "bronze bowl/saucer",
+      "type": "tool",
+      "attributes": {
+        "role": "vessel for divination by reflection"
+      },
+      "page_ref": "bowl divination reference (Greek papyri)",
+      "raw_quote": "take a bronze bowl or saucer and fill it with water"
+    },
+    {
+      "name": "green olive oil",
+      "type": "ingredient",
+      "attributes": {
+        "role": "added to water for bowl divination"
+      },
+      "page_ref": "Greek papyri reference",
+      "raw_quote": "add green olive oil, recite an incantation over it"
+    },
+    {
+      "name": "blood of bird (hoopoe?)",
+      "type": "ingredient",
+      "attributes": {
+        "role": "ink for inscribing cloth circle"
+      },
+      "page_ref": "first experiment in manuscript",
+      "raw_quote": "draw on it a ‘circle’... markings... made with the blood of a bird, perhaps a hoopoe"
+    },
+    {
+      "name": "bird heart",
+      "type": "tool",
+      "attributes": {
+        "role": "writing instrument for inscribing cloth circle"
+      },
+      "page_ref": "first experiment in manuscript",
+      "raw_quote": "use the heart of this bird as a writing instrument"
+    },
+    {
+      "name": "virgin boy/girl (medium)",
+      "type": "person",
+      "attributes": {
+        "role": "child medium for divination"
+      },
+      "raw_quote": "entering the circle with a virgin boy or girl... under twelve years of age"
+    },
+    {
+      "name": "three-legged stool",
+      "type": "tool",
+      "attributes": {
+        "role": "seat for medium in circle rituals"
+      },
+      "page_ref": "experiments 38–40",
+      "raw_quote": "the boy sits on a three-legged stool"
+    },
+    {
+      "name": "sword (ritual)",
+      "type": "tool",
+      "attributes": {
+        "role": "used for blessing, protection, and exodus"
+      },
+      "page_ref": "experiments 38–40",
+      "raw_quote": "waving a sword around his head... companions... sit silently by the circle, with swords in hand"
+    },
+    {
+      "name": "circle (ritual space)",
+      "type": "tool",
+      "attributes": {
+        "role": "protected ritual space for medium"
+      },
+      "page_ref": "experiments 38–40",
+      "raw_quote": "simple circle, consisting of three concentric bands... boy sits on a three-legged stool"
+    },
+    {
+      "name": "Sator-arepo formula",
+      "type": "concept",
+      "attributes": {
+        "role": "protective incantation inscribed in circle"
+      },
+      "page_ref": "experiment no. 28",
+      "raw_quote": "While making a circle, the master should say ‘Sator Arepo Tenet Opera Rotas’"
+    },
+    {
+      "name": "Asperges me, domine",
+      "type": "concept",
+      "attributes": {
+        "role": "liturgical antiphon used in treasure ritual"
+      },
+      "page_ref": "experiment no. 41",
+      "raw_quote": "sprinkle yourself with holy water, saying the antiphon, Asperges me, domine, ysopo"
+    },
+    {
+      "name": "Miserere mei, deus",
+      "type": "concept",
+      "attributes": {
+        "role": "Psalm 51 used in treasure ritual"
+      },
+      "page_ref": "experiment no. 41",
+      "raw_quote": "say before it, Miserere mei, deus [Ps. 50 Vulg.], in its entirety"
+    },
+    {
+      "name": "Orient (divine epithet)",
+      "type": "concept",
+      "attributes": {
+        "role": "addressed in treasure ritual prayer"
+      },
+      "page_ref": "experiment no. 41",
+      "raw_quote": "O gracious Orient... strengthen my understanding"
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "location",
+      "attributes": {
+        "role": "source manuscript"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Basyon",
+      "to": "On",
+      "type": "co-occurs_in_conjuration"
+    },
+    {
+      "from": "Discobermath",
+      "to": "Sathan",
+      "type": "co-occurs_in_conjuration"
+    },
+    {
+      "from": "Astaroth",
+      "to": "knife handle",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "olive oil",
+      "to": "boy’s nail",
+      "type": "anoints"
+    },
+    {
+      "from": "SATOR-AREPO",
+      "to": "circle",
+      "type": "recited_in"
+    },
+    {
+      "from": "princes of the thumb",
+      "to": "Minon",
+      "type": "conjured_to_bring"
+    },
+    {
+      "from": "Haram",
+      "to": "treasure location",
+      "type": "reveals_in_dream"
+    },
+    {
+      "from": "Semiforas",
+      "to": "Shem hem-Mforash",
+      "type": "synonym"
+    },
+    {
+      "from": "black man (demon form)",
+      "to": "thief/murderer information",
+      "type": "conveys_via_medium"
+    },
+    {
+      "from": "ram",
+      "to": "spirit meal",
+      "type": "offered_as_sustenance"
+    },
+    {
+      "from": "virgin boy/girl",
+      "to": "fingernail divination",
+      "type": "medium_for"
+    },
+    {
+      "from": "circle",
+      "to": "three concentric bands",
+      "type": "consists_of"
+    },
+    {
+      "from": "SATOR-AREPO",
+      "to": "experiment no. 28",
+      "type": "used_in"
+    },
+    {
+      "from": "Haram",
+      "to": "experiment no. 41",
+      "type": "mentioned_in"
+    }
+  ]
+}

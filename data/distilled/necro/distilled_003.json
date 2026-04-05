@@ -1,0 +1,165 @@
+{
+  "source_id": "necro",
+  "chunk_id": 3,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Jubertus of Bavaria",
+      "type": "person",
+      "attributes": {
+        "role": "confessor/witness",
+        "age": "60",
+        "origin": "Regensburg"
+      },
+      "page_ref": "section 'Necromancy and Necromancers in Fifteenth-Century Munich'",
+      "raw_quote": "One of the many subjects brought before the judges... was a sixty-year-old man, Jubertus of Bavaria, from Regensburg, tried in 1437 at Briangon."
+    },
+    {
+      "name": "Johannes Cunalis",
+      "type": "person",
+      "attributes": {
+        "role": "priest and plebanus",
+        "location": "Munich, near Bohemia"
+      },
+      "page_ref": "section 'Necromancy and Necromancers in Fifteenth-Century Munich'",
+      "raw_quote": "a certain powerful man in Bavaria who was called Johannes Cunalis, who is a priest and plebanus, in a city called Munich in Bavaria, near Bohemia."
+    },
+    {
+      "name": "Liber consecracionum",
+      "type": "ritual",
+      "attributes": {
+        "form": "text",
+        "appears_in": [
+          "no. 31",
+          "fols 52r–59v",
+          "also fols 109r–118r, 135r–139r"
+        ]
+      },
+      "page_ref": "pp. 74–75 (editorial description)",
+      "raw_quote": "Interspersed with these are a version of the Liber consecracionum (no. 31);"
+    },
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon",
+        "appears_in": [
+          "conjuration no. 32",
+          "also fols 109r–118r, 139r–146r"
+        ]
+      },
+      "page_ref": "pp. 75 (editorial description), 81 (experiment no. 32)",
+      "raw_quote": "Conjuration of Satan/Mirage... fols 109r—118r and again fols 139r—146r"
+    },
+    {
+      "name": "Luxuriosus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "appearance": "form of a charming maiden of twelve years"
+      },
+      "page_ref": "section 'Necromancy and Necromancers in Fifteenth-Century Munich'",
+      "raw_quote": "...three demons, one named Luxuriosus, another Superbus, and the third Avarus, [all of them] devils."
+    },
+    {
+      "name": "Superbus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 'Necromancy and Necromancers in Fifteenth-Century Munich'",
+      "raw_quote": "...three demons, one named Luxuriosus, another Superbus, and the third Avarus..."
+    },
+    {
+      "name": "Avarus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon"
+      },
+      "page_ref": "section 'Necromancy and Necromancers in Fifteenth-Century Munich'",
+      "raw_quote": "...three demons, one named Luxuriosus, another Superbus, and the third Avarus..."
+    },
+    {
+      "name": "Floron",
+      "type": "tool|ritual",
+      "attributes": {
+        "function": "mirror for revelation",
+        "forms": [
+          "first version",
+          "second version"
+        ]
+      },
+      "page_ref": "Table A (experiments 18–20)",
+      "raw_quote": "The mirror of Floron, for revelation of past, present and future"
+    },
+    {
+      "name": "Lilith",
+      "type": "spirit",
+      "attributes": {
+        "role": "demoness",
+        "form": "mirror named after her"
+      },
+      "page_ref": "Table A (experiment 23)",
+      "raw_quote": "First mirror of Lilith"
+    },
+    {
+      "name": "Semiforas",
+      "type": "spirit",
+      "attributes": {
+        "role": "named spirit",
+        "appears_in": "experiment no. 42"
+      },
+      "page_ref": "Table A (no. 42)",
+      "raw_quote": "The name Semiforas"
+    },
+    {
+      "name": "Pluto",
+      "type": "spirit",
+      "attributes": {
+        "role": "governing spirit of a key ritual"
+      },
+      "page_ref": "experiment no. 26",
+      "raw_quote": "Key of Pluto, for opening all locks"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Johannes Cunalis",
+      "to": "Liber consecracionum",
+      "type": "owns"
+    },
+    {
+      "from": "Jubertus of Bavaria",
+      "to": "Johannes Cunalis",
+      "type": "served"
+    },
+    {
+      "from": "Mirage",
+      "to": "Conjuration of Satan/Mirage",
+      "type": "subject_of"
+    },
+    {
+      "from": "Luxuriosus",
+      "to": "Superbus",
+      "type": "co-appearing_spirit"
+    },
+    {
+      "from": "Luxuriosus",
+      "to": "Avarus",
+      "type": "co-appearing_spirit"
+    },
+    {
+      "from": "Superbus",
+      "to": "Avarus",
+      "type": "co-appearing_spirit"
+    }
+  ],
+  "summary": "This chunk introduces the Munich Handbook (CLM 849), a fifteenth-century necromantic miscellany, and discusses its structure, content categories (illusionist, psychological, divinatory), and historical context. It includes a notable judicial record from 1437 involving Johannes Cunalis, a priest in Munich, who allegedly owned a book of necromancy; the demon Jubertus named—Luxuriosus, Superbus, Avarus—are explicitly listed. The manuscript contains rituals such as the Liber consecracionum and conjurations for spirits like Mirage, Lilith, and Semiforas.",
+  "key_passages": [
+    "Interspersed with these are a version of the Liber consecracionum (no. 31); a list of spirits, with descriptions of the forms in which they appear and the functions they perform (no. 34);",
+    "The first two folios of the manuscript are missing, a circumstance which may help to explain how the manuscript evaded detection and thus survived.",
+    "One of the many subjects brought before the judges... was a sixty-year-old man, Jubertus of Bavaria... he served... Johannes Cunalis, who is a priest and plebanus, in a city called Munich...",
+    "...three demons, one named Luxuriosus, another Superbus, and the third Avarus, [all of them] devils. And the first appeared to him in the form of a charming maiden of twelve years...",
+    "The mirror of Floron, for revelation of past, present and future"
+  ]
+}

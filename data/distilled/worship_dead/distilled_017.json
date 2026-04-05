@@ -1,0 +1,311 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 17,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Teutates",
+      "type": "spirit",
+      "attributes": {
+        "role": "Celtic deity",
+        "association": "human sacrifice"
+      },
+      "page_ref": "p. 180",
+      "raw_quote": "The Celtic Gauls offered their human sacrifices to Teutates and Hesa, or Hesus"
+    },
+    {
+      "name": "Hesa (Hesus)",
+      "type": "spirit",
+      "attributes": {
+        "role": "Celtic deity",
+        "identification": "Mercury/Taautus/Saturn/Cronus"
+      },
+      "page_ref": "p. 180",
+      "raw_quote": "Teutates and Hesa, or Hesus... Mercury or Taautus, who was another form of Saturn or Cronus"
+    },
+    {
+      "name": "Buddha (as Tath/Tat)",
+      "type": "spirit",
+      "attributes": {
+        "role": "god of the dead",
+        "festival association": "Samano/Shaman/Shamma"
+      },
+      "page_ref": "p. 181",
+      "raw_quote": "\"Bod,\" or \"Bud\" was their god who presided over Tuarriage and... his identity with 'Tat,' or 'Buddha,' and with 'Taautus,' or 'Thoth'... the festival of Shamna, or Shony, was a festival of the dead"
+    },
+    {
+      "name": "Hu (Celtic god)",
+      "type": "spirit",
+      "attributes": {
+        "role": "chief Celtic deity",
+        "syncretism": "Buddha/Hu/Mercury/Thoth"
+      },
+      "page_ref": "p. 182",
+      "raw_quote": "\"Hu,\" the god of the Celtic nations, was also called 'Budd,' 'Budher' and 'Budwas'... Hu was also called 'Manon' 'Menu' and 'Menroad'"
+    },
+    {
+      "name": "Samano (Shamna/Shony)",
+      "type": "ritual",
+      "attributes": {
+        "function": "festival of the dead",
+        "timing": "November, same as All Souls"
+      },
+      "page_ref": "p. 181",
+      "raw_quote": "\"Samano,\" a title of Buddha... festival of Shamna, or Shony, was a festival of the dead, held in November, at the same time as the feast of All Souls"
+    },
+    {
+      "name": "Human sacrifice (Celtic)",
+      "type": "ritual",
+      "attributes": {
+        "method": "fire, live burial",
+        "purpose": "propitiation of gods"
+      },
+      "page_ref": "p. 179",
+      "raw_quote": "\"They who are engaged in battles and dangers... sacrifice men as victims... unless the life of a man be offered for the life of a man, the mind of the immortal gods cannot be propitiated\""
+    },
+    {
+      "name": "Beltane fire-jumping",
+      "type": "ritual",
+      "attributes": {
+        "timing": "May 1",
+        "cultural association": "Druidical/Babylonian"
+      },
+      "page_ref": "p. 179",
+      "raw_quote": "\"men and women assemble round a fire at an ancient Druidical circle of stones; after casting lots, one has to jump through the fire... This takes place on May 1st, which is still known as Beltane\""
+    },
+    {
+      "name": "Osiris lamentation",
+      "type": "ritual",
+      "attributes": {
+        "function": "search for lost body parts",
+        "cultural origin": "Egyptian"
+      },
+      "page_ref": "p. 181",
+      "raw_quote": "\"peasants waded into the sea to search for the head of the god, just as in the lamentations of Osiris... there was a search for a lost portion of his body\""
+    },
+    {
+      "name": "Bacchus (Ce Bacche/Broum)",
+      "type": "spirit",
+      "attributes": {
+        "role": "god worshipped by Pagan Irish",
+        "identification": "Greek/Roman Bacchus"
+      },
+      "page_ref": "p. 182",
+      "raw_quote": "\"The Pagan Irish likewise worshipped Bacchus under the title of 'Ce Bacche'... he was the same as the Bacchus of Greece and Rome is evident from his title 'Broum,' for both the Greek and Latin Bacchus was called 'Bromus' or 'Brumus'\""
+    },
+    {
+      "name": "Tammuz",
+      "type": "spirit",
+      "attributes": {
+        "role": "fire god",
+        "festival timing": "June 24"
+      },
+      "page_ref": "p. 179",
+      "raw_quote": "\"June 24th is the first of the month of Tammuz, the god of fire, on which the principal festival of that god was celebrated\""
+    },
+    {
+      "name": "Druidical cross-groves",
+      "type": "ritual",
+      "attributes": {
+        "symbolism": "cross-form tree worship",
+        "inscribed letter": "Thau (T)"
+      },
+      "page_ref": "p. 180",
+      "raw_quote": "\"select the most stately and beautiful tree... affixed two of the largest branches to the highest part of the trunk in such a manner that the branches extended on each side like the arms of a man, and together with the body presented the appearance of a huge cross, and on the bark... was also inscribed the letter Thau (or T)\""
+    },
+    {
+      "name": "Baal fires",
+      "type": "ritual",
+      "attributes": {
+        "timing": "May 1 & June 24",
+        "association": "fire sacrifice"
+      },
+      "page_ref": "p. 179",
+      "raw_quote": "\"Similar Baal fires take place still in Ireland on June 24th... children are thrown across it\""
+    },
+    {
+      "name": "Cush",
+      "type": "person",
+      "attributes": {
+        "role": "human original of Hermes/Buddha/Woden",
+        "genealogy": "grandson of Noah"
+      },
+      "page_ref": "p. 183",
+      "raw_quote": "\"the human original of the god worshipped as Buddha and Woden was indeed Cush, the grandson of Noah\""
+    },
+    {
+      "name": "Teotl (Mexican deity)",
+      "type": "spirit",
+      "attributes": {
+        "role": "great spirit",
+        "association": "serpent-crushing"
+      },
+      "page_ref": "p. 183",
+      "raw_quote": "\"The serpent crushed by the great spirit Teotl when he takes the form of one of the subaltern deities is the genius of evil\""
+    },
+    {
+      "name": "Wodan (Mexican deity)",
+      "type": "spirit",
+      "attributes": {
+        "role": "ancestral god",
+        "day association": "Wednesday/Buddha's day"
+      },
+      "page_ref": "p. 184",
+      "raw_quote": "\"the Wodan of the Chiapenese (Mexicans)... like the Goths and Scandinavians who called Wednesday, Wodansday, and like the Buddhists who call it Buddha's day\""
+    },
+    {
+      "name": "Human sacrifice (Mexican)",
+      "type": "ritual",
+      "attributes": {
+        "method": "heart extraction",
+        "frequency": "50,000/year"
+      },
+      "page_ref": "p. 183",
+      "raw_quote": "\"Their bloody human sacrifices, amounting... to fifty thousand a year... the sacrificing priest tearing out the heart of the living victim and holding it up as an offering to the Sun god\""
+    },
+    {
+      "name": "Buddha (as Mercury/Thoth)",
+      "type": "spirit",
+      "attributes": {
+        "role": "human original identified with Cush",
+        "syncretism": "Mercury/Taautus/Thoth"
+      },
+      "page_ref": "p. 189",
+      "raw_quote": "\"the most ancient or mythological Buddha with Cush, i.e., Hermes... the votaries of Theosophy and Spiritualism... speak of [Buddhism] as 'the teaching of Hermes'\""
+    },
+    {
+      "name": "Hermes/Thrice Great Hermes",
+      "type": "person",
+      "attributes": {
+        "role": "originator of Paganism",
+        "authorship": "Hermetic texts"
+      },
+      "page_ref": "p. 189",
+      "raw_quote": "\"Cush, or Hermes... was the master mind and originator of this idolatry... The teaching of Hermes has... been recognised in all ages as the great authority on the nature and mysteries of Paganism\""
+    },
+    {
+      "name": "Accadian magic/necromancy",
+      "type": "ritual",
+      "attributes": {
+        "content": "sorcery, incantations, spirit control"
+      },
+      "page_ref": "p. 190",
+      "raw_quote": "\"the religion which he taught... consisted of the Magic, Sorcery, Demon and Nature worship of the Accadians, the texts and incantations of which... could be obtained, or their power controlled\""
+    },
+    {
+      "name": "Shamanism",
+      "type": "ritual",
+      "attributes": {
+        "geographic association": "Ural-Altaic, Tartar, Mongol",
+        "syncretism": "identical with ancient Accadian practice"
+      },
+      "page_ref": "p. 190",
+      "raw_quote": "\"it was identical with the Shamanism of the Ural-Altaic races, and with that of the Tartars and Mongols of Eastern Asia—that is to say, with the magic and necromancy practised by the Shamanas or priests of Buddhism\""
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Hesa",
+      "to": "Teutates",
+      "type": "co-worshipped"
+    },
+    {
+      "from": "Hesa",
+      "to": "Mercury",
+      "type": "identified_with"
+    },
+    {
+      "from": "Hesa",
+      "to": "Taautus",
+      "type": "identified_with"
+    },
+    {
+      "from": "Hesa",
+      "to": "Saturn",
+      "type": "identified_with"
+    },
+    {
+      "from": "Buddha",
+      "to": "Tath",
+      "type": "syncretic_identification"
+    },
+    {
+      "from": "Hu",
+      "to": "Buddha",
+      "type": "syncretic_identification"
+    },
+    {
+      "from": "Hu",
+      "to": "Manon",
+      "type": "syncretic_identification"
+    },
+    {
+      "from": "Samano",
+      "to": "Shamna",
+      "type": "variant_spelling"
+    },
+    {
+      "from": "Samano",
+      "to": "festival_of_the_dead",
+      "type": "associated_with"
+    },
+    {
+      "from": "Beltane",
+      "to": "fire-jumping",
+      "type": "ritual_practice"
+    },
+    {
+      "from": "Osiris",
+      "to": "lamentation_rituals",
+      "type": "source_of"
+    },
+    {
+      "from": "Cush",
+      "to": "Hermes",
+      "type": "human_original_of"
+    },
+    {
+      "from": "Cush",
+      "to": "Buddha",
+      "type": "human_original_of"
+    },
+    {
+      "from": "Cush",
+      "to": "Woden",
+      "type": "human_original_of"
+    },
+    {
+      "from": "Teotl",
+      "to": "serpent",
+      "type": "crushes"
+    },
+    {
+      "from": "Wodan",
+      "to": "Wednesday",
+      "type": "day_named_after"
+    },
+    {
+      "from": "Buddha",
+      "to": "Mercury",
+      "type": "syncretic_identification"
+    },
+    {
+      "from": "Accadian_magic",
+      "to": "Shamanism",
+      "type": "identical_with"
+    },
+    {
+      "from": "Hermes",
+      "to": "Hermetic_texts",
+      "type": "author_of"
+    }
+  ],
+  "summary": "This chunk examines comparative ancient religious practices across Celtic, Mexican, Peruvian and Egyptian cultures, emphasizing their shared roots in Babylonian/Chaldean traditions. It identifies Cush as the human origin of Hermes/Buddha/Woden and links Druidic fire rituals (Beltane), human sacrifice, and cross-groves to Mesopotamian origins. The text connects necromantic/magical practices across cultures through Accadian magic, Shamanism, and Hermetic traditions.",
+  "key_passages": [
+    "\"The Celtic Gauls offered their human sacrifices to Teutates and Hesa, or Hesus... Mercury or Taautus, who was another form of Saturn or Cronus, the father of the gods, or Cush\"",
+    "\"Samano,\" a title of Buddha, is also evidently the Irish \"Saman\" or \"Shamma,\" who, like Buddha, was the god of the dead and judge of departed spirits, while the festival of Shamna, or Shony, was a festival of the dead, held in November, at the same time as the feast of All Souls",
+    "\"the most ancient or mythological Buddha with Cush, i.e., Hermes... the votaries of Theosophy and Spiritualism... speak of [Buddhism] as 'the teaching of Hermes'",
+    "\"it was identical with the Shamanism of the Ural-Altaic races, and with that of the Tartars and Mongols of Eastern Asia—that is to say, with the magic and necromancy practised by the Shamanas or priests of Buddhism\"",
+    "\"the human original of the god worshipped as Buddha and Woden was indeed Cush, the grandson of Noah\""
+  ]
+}

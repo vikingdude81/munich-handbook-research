@@ -1,0 +1,521 @@
+{
+  "source_id": "necro",
+  "chunk_id": 21,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps",
+        "function": "appears in conjurations, invoked alongside Astaroth and Paymon"
+      },
+      "page_ref": "CLM 849, experiment no. 12; footnote 14",
+      "raw_quote": "Tu Belial, tu Astaroth, tu Paymon, ad hoc sitis opus michi adiutores"
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "marquis",
+        "function": "reveals treasures guarded by spirits; gives love of women, especially widows; commands languages"
+      },
+      "page_ref": "CLM 849, experiment no. 2; footnote 14",
+      "raw_quote": "Astaroth [...] gives command of languages; makes person pass quickly from region to region"
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "principal demon",
+        "function": "appears in circles as object of conjuration"
+      },
+      "page_ref": "CLM 849, experiment no. 1; footnote 14",
+      "raw_quote": "the name ‘Satan’ inscribed in it"
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "named demon",
+        "function": "appears in circle inscriptions"
+      },
+      "page_ref": "CLM 849, experiment no. 1; footnote 14",
+      "raw_quote": "Belial, Satan, Osendior, Matalot, Belzebub, Lucifer, Sententino and Apolin"
+    },
+    {
+      "name": "Belzebub",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum",
+        "function": "appears in circles"
+      },
+      "page_ref": "CLM 849, experiment no. 1; footnote 14",
+      "raw_quote": "Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
+    },
+    {
+      "name": "Oreoth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)",
+        "function": "appears in circle inscriptions"
+      },
+      "page_ref": "CLM 849, experiment no. 2; footnote 16",
+      "raw_quote": "Oreoth, Pinen, Otel, Tryboy..."
+    },
+    {
+      "name": "Pinen",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 2"
+    },
+    {
+      "name": "Otel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 2"
+    },
+    {
+      "name": "Tryboy",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 2"
+    },
+    {
+      "name": "Mirael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus benignissimi",
+        "function": "appears in circle centre"
+      },
+      "page_ref": "CLM 849, experiment no. 2; footnote 14",
+      "raw_quote": "the names Mirael and N. [...] inscribed in its centre"
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum",
+        "function": "described as fornicator, temptator, seductor; appears in circles"
+      },
+      "page_ref": "CLM 849, experiment no. 11; footnote 8, 10, 14",
+      "raw_quote": "Berith, described as fornicator, temptator, et seductor..."
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "function": "appears in circles and conjurations"
+      },
+      "page_ref": "CLM 849, experiment no. 12; footnote 14",
+      "raw_quote": "Tu Belial, tu Astaroth, tu Paymon..."
+    },
+    {
+      "name": "O Brimer",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 10"
+    },
+    {
+      "name": "Suburith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 10"
+    },
+    {
+      "name": "Tranauit",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 10"
+    },
+    {
+      "name": "Lyroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 10"
+    },
+    {
+      "name": "Damayn",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 10"
+    },
+    {
+      "name": "Firiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)",
+        "direction": "west"
+      },
+      "page_ref": "CLM 849, experiment no. 11"
+    },
+    {
+      "name": "Melemil",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)",
+        "direction": "south"
+      },
+      "page_ref": "CLM 849, experiment no. 11"
+    },
+    {
+      "name": "Taraor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)",
+        "direction": "north"
+      },
+      "page_ref": "CLM 849, experiment no. 11"
+    },
+    {
+      "name": "Lamair",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 6; footnote 16"
+    },
+    {
+      "name": "Tatomofon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon (unspecified)"
+      },
+      "page_ref": "CLM 849, experiment no. 6; footnote 16"
+    },
+    {
+      "name": "O Vsyr",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "CLM 849, experiment no. 7"
+    },
+    {
+      "name": "Zanno",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "CLM 849, experiment no. 7; footnote 16"
+    },
+    {
+      "name": "Oor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "CLM 849, experiment no. 7; footnote 16"
+    },
+    {
+      "name": "Ym",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "CLM 849, experiment no. 7; footnote 16"
+    },
+    {
+      "name": "Tami",
+      "type": "spirit",
+      "attributes": {
+        "rank": "spiritus armigeri"
+      },
+      "page_ref": "CLM 849, experiment no. 7; footnote 16"
+    },
+    {
+      "name": "Oriens",
+      "type": "spirit",
+      "attributes": {
+        "rank": "benign spirit",
+        "function": "invoked in incantations"
+      },
+      "page_ref": "footnote 11",
+      "raw_quote": "Oriens benigne, maiorpars mundi, celi, terreque sator..."
+    },
+    {
+      "name": "Agla",
+      "type": "spirit",
+      "attributes": {
+        "rank": "sacred name (divine)",
+        "function": "used in circles for protection"
+      },
+      "page_ref": "CLM 849, experiment no. 16"
+    },
+    {
+      "name": "Michael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "function": "appears in sacred inscriptions"
+      },
+      "page_ref": "CLM 849, experiment no. 16"
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "function": "appears in sacred inscriptions"
+      },
+      "page_ref": "CLM 849, experiment no. 16"
+    },
+    {
+      "name": "Emanuel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine title",
+        "function": "appears in sacred inscriptions"
+      },
+      "page_ref": "CLM 849, experiment no. 16"
+    },
+    {
+      "name": "Paraclitus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine title (Holy Spirit)",
+        "function": "appears in sacred inscriptions"
+      },
+      "page_ref": "CLM 849, experiment no. 16"
+    },
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "archangel",
+        "function": "appears in sacred inscriptions"
+      },
+      "page_ref": "CLM 849, experiment no. 16"
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "inscribed on circles for efficacy"
+      },
+      "page_ref": "CLM 849, experiment no. 16; De nigromancia reference"
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "appears in circles"
+      },
+      "page_ref": "CLM 849, experiment no. 36"
+    },
+    {
+      "name": "Sabbaoth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine name",
+        "function": "appears in circles"
+      },
+      "page_ref": "CLM 849, experiment no. 36"
+    },
+    {
+      "name": "Alpha et O",
+      "type": "spirit",
+      "attributes": {
+        "rank": "divine title",
+        "function": "inscribed on circles"
+      },
+      "page_ref": "CLM 849, experiments nos. 12, 36"
+    },
+    {
+      "name": "Locus magistri",
+      "type": "ritual",
+      "attributes": {
+        "function": "marks magician’s position in circle"
+      },
+      "page_ref": "CLM 849, experiments nos. 3,7,9,12"
+    },
+    {
+      "name": "Nomen magistri",
+      "type": "ritual",
+      "attributes": {
+        "function": "written in centre of circles"
+      },
+      "page_ref": "CLM 849, experiment no. 1"
+    },
+    {
+      "name": "Nomen discipuli",
+      "type": "ritual",
+      "attributes": {
+        "function": "written in centre of circles"
+      },
+      "page_ref": "CLM 849, experiment no. 1"
+    },
+    {
+      "name": "Hic sederat puer super signum",
+      "type": "ritual",
+      "attributes": {
+        "function": "indicates boy’s position on pentagram"
+      },
+      "page_ref": "CLM 849, experiment no. 22"
+    },
+    {
+      "name": "Hic sedeat magister super signum a latere sinistro",
+      "type": "ritual",
+      "attributes": {
+        "function": "indicates master’s position on pentagram"
+      },
+      "page_ref": "CLM 849, experiment no. 22"
+    },
+    {
+      "name": "Hoc est candela",
+      "type": "tool",
+      "attributes": {
+        "function": "label for candle in diagram"
+      },
+      "page_ref": "CLM 849, experiment no. 2"
+    },
+    {
+      "name": "Pentagram",
+      "type": "tool",
+      "attributes": {
+        "function": "used as seat for master and boy; protective symbol"
+      },
+      "page_ref": "CLM 849, experiments nos. 6,10,22,23"
+    },
+    {
+      "name": "Sword",
+      "type": "tool",
+      "attributes": {
+        "function": "used in circle diagrams (positioned over pentagram)"
+      },
+      "page_ref": "CLM 849, experiments nos. 6,11"
+    },
+    {
+      "name": "Censer",
+      "type": "tool",
+      "attributes": {
+        "function": "placed at cardinal points of circles"
+      },
+      "page_ref": "Sworn Book reference (cited in text)"
+    },
+    {
+      "name": "Circle",
+      "type": "ritual",
+      "attributes": {
+        "function": "protective and power-amplifying device; used for conjuring spirits"
+      },
+      "page_ref": "CLM 849 passim"
+    },
+    {
+      "name": "verbena",
+      "type": "ingredient",
+      "attributes": {
+        "function": "sprinkled on stone circle in cemetery ritual"
+      },
+      "page_ref": "CLM 849, experiment no. 33"
+    },
+    {
+      "name": "stones from cemetery",
+      "type": "ingredient",
+      "attributes": {
+        "function": "used to form circle for experiment no. 33; number equals verses in Psalm 50"
+      },
+      "page_ref": "CLM 849, experiment no. 33"
+    },
+    {
+      "name": "chalk",
+      "type": "tool",
+      "attributes": {
+        "function": "used to inscribe circles on ground"
+      },
+      "page_ref": "Sworn Book and De nigromancia references (cited in text)"
+    },
+    {
+      "name": "new knife",
+      "type": "tool",
+      "attributes": {
+        "function": "used to carve or inscribe circles"
+      },
+      "page_ref": "Sworn Book reference"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Belial",
+      "to": "Astaroth",
+      "type": "co-occurrence_in_conjuration"
+    },
+    {
+      "from": "Belial",
+      "to": "Paymon",
+      "type": "co-occurrence_in_conjuration"
+    },
+    {
+      "from": "Satan",
+      "to": "Lucifer",
+      "type": "co-occurrence_in_circle"
+    },
+    {
+      "from": "Oreoth",
+      "to": "Astaroth",
+      "type": "co-occurrence_in_circle"
+    },
+    {
+      "from": "Berith",
+      "to": "Astaroth",
+      "type": "rank_equivalent"
+    },
+    {
+      "from": "Agla",
+      "to": "Tetragrammaton",
+      "type": "sacred_compound"
+    },
+    {
+      "from": "circle",
+      "to": "protection",
+      "type": "function"
+    },
+    {
+      "from": "circle",
+      "to": "conjuration",
+      "type": "instrumental"
+    },
+    {
+      "from": "pentagram",
+      "to": "circle",
+      "type": "contained_within"
+    },
+    {
+      "from": "sword",
+      "to": "pentagram",
+      "type": "positioned_above"
+    },
+    {
+      "from": "verbena",
+      "to": "stones_from_cemetery",
+      "type": "ritual_application"
+    }
+  ],
+  "summary": "This chunk provides detailed analysis of magic circles in the Munich Handbook (CLM 849), including their structure, inscriptions (spirit names, sacred phrases), and layout. It lists numerous named spirits—especially demons like Belial, Astaroth, Satan, Lucifer, Berith—and describes how they appear in circle diagrams with positional instructions for magicians and mediums. Sacred names (Agla, Tetragrammaton, Alpha et O) are used alongside spirit names to enhance efficacy. Ritual tools include circles inscribed on ground or vellum, pentagrams, swords, candles, and censers; ingredients include verbena and cemetery stones.",
+  "key_passages": [
+    "The circle for no. 12 gives a modified conjuration [...] Tu Belial, tu Astaroth, tu Paymon, ad hoc sitis opus michi adiutores.",
+    "No. 1 has the names of the spirits Belial, Satan, Osendior, Matalot, Belzebub, Lucifer, Sententino and Apolin inscribed in and around its band.",
+    "The position of the master is often marked in the centre of the circle, with the term Locus magistri [...] No. 22 [...] Hie sederat puer super signum (at the top), and Hie sedeat magister super signum a latere sinistro (at the bottom).",
+    "Inscriptions are of various kinds: 1. Four cardinal directions, with east on top [...]; 2. Positions of the master and child medium [...]; 3. Names of spirits, given most frequently within the bands.",
+    "No. 40 has [...] ft* Hunc circulum facio in nomine Patris omnipotentis dei, qui solo verbo cuncta creauit."
+  ]
+}

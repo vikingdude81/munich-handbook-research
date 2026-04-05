@@ -1,0 +1,221 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 20,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "daimonia",
+      "type": "spirit",
+      "attributes": {
+        "plural_form": "daimonia",
+        "role": "spirits invoked by magicians",
+        "source_language": "Greek"
+      },
+      "page_ref": "210, 213–215",
+      "raw_quote": "the agency of daimonia… the spirits of their gods… who spoke in their oracles"
+    },
+    {
+      "name": "Pythoness",
+      "type": "spirit",
+      "attributes": {
+        "associated_with": "oracle, trance, prophecy"
+      },
+      "page_ref": "210",
+      "raw_quote": "the spirit of Python did in the Pythoness"
+    },
+    {
+      "name": "Tertullian",
+      "type": "person",
+      "attributes": {
+        "era": "late 2nd/early 3rd c. CE",
+        "role": "Church Father, critic of magic"
+      },
+      "page_ref": "210",
+      "raw_quote": "if even magicians produce apparitions and bring into evil repute the spirits of men who are now dead; if they mesmerise boys to obtain an oracular response"
+    },
+    {
+      "name": "Apuleius",
+      "type": "person",
+      "attributes": {
+        "era": "2nd c. CE",
+        "role": "Roman writer, philosopher, magician"
+      },
+      "page_ref": "210, 214–215",
+      "raw_quote": "a boy… gazing upon the reflection of a statue of Mercury in the water, uttered a prophecy of the future"
+    },
+    {
+      "name": "mesmerism",
+      "type": "ritual",
+      "attributes": {
+        "function": "induce trance for spirit communication",
+        "historical_use": "temple sleep, ancient magic"
+      },
+      "page_ref": "210–215",
+      "raw_quote": "mesmerism was also used to produce the temple sleep by the Pagan priesthood; and was one of the most ordinary practices of the ancient magicians"
+    },
+    {
+      "name": "Fakirs",
+      "type": "practitioner_group",
+      "attributes": {
+        "tradition": "Indian, ancient Pagan"
+      },
+      "page_ref": "213",
+      "raw_quote": "voluntary somnambulism is frequent among the Indian Brahmins and Fakirs"
+    },
+    {
+      "name": "Cardanus (Gerolamo Cardano)",
+      "type": "person",
+      "attributes": {
+        "era": "Renaissance",
+        "role": "scholar, occultist"
+      },
+      "page_ref": "213",
+      "raw_quote": "he could voluntarily place himself in a state of ecstatic insensibility"
+    },
+    {
+      "name": "Restitutus",
+      "type": "person",
+      "attributes": {
+        "role": "priest, mystic"
+      },
+      "page_ref": "213",
+      "raw_quote": "Augustine relates the same thing of a priest called Restitutus"
+    },
+    {
+      "name": "Colonel Townshend",
+      "type": "person",
+      "attributes": {
+        "role": "subject of medical observation, will-controlled death"
+      },
+      "page_ref": "213–214",
+      "raw_quote": "could… die at will, by composing himself on his back, and lying in that position for some time"
+    },
+    {
+      "name": "electrobiology",
+      "type": "ritual",
+      "attributes": {
+        "synonym_context": "form of mesmerism",
+        "phenomena": "delusional obedience, apparent possession"
+      },
+      "page_ref": "215–217",
+      "raw_quote": "persons… being partially mesmerised by some method of exhausting the psychical energy, are made to do various absurd actions"
+    },
+    {
+      "name": "hypnotism",
+      "type": "ritual",
+      "attributes": {
+        "classification": "form of electrobiology",
+        "mechanism": "spirit possession"
+      },
+      "page_ref": "217",
+      "raw_quote": "'Hypnotism' is merely a form of 'Electro Biology'… effects consisted of acts due to the presence of a spirit or influence in a person which was not his own"
+    },
+    {
+      "name": "familiar spirits",
+      "type": "spirit",
+      "attributes": {
+        "role": "assistant spirits to adepts",
+        "acquisition_method": "preparation via abstinence"
+      },
+      "page_ref": "215–216",
+      "raw_quote": "the result of the inhabitation of a familiar spirit, for whose entry the Adept has prepared himself"
+    },
+    {
+      "name": "prince of demons",
+      "type": "spirit",
+      "attributes": {
+        "scriptural_reference": "1 Tim. iii. 6",
+        "role": "source of demonic pride and power"
+      },
+      "page_ref": "215",
+      "raw_quote": "the spirit which actuates them is that very spirit of pride which we are told was the condemnation of him who is 'the prince of demons'"
+    },
+    {
+      "name": "seirim",
+      "type": "spirit",
+      "attributes": {
+        "etymology": "Hebrew, meaning 'satyrs'",
+        "role": "order of demons"
+      },
+      "page_ref": "210–211",
+      "raw_quote": "The word used by Tertullian is 'seirim,' i.e., 'satyrs,' a word used… to denote a certain order of demons"
+    },
+    {
+      "name": "Isis Revelata",
+      "type": "text",
+      "attributes": {
+        "author": "Charles Williams",
+        "year": "1836",
+        "relevance": "source on ancient magic and spirit invocation"
+      },
+      "page_ref": "210",
+      "raw_quote": "'Isis Revelata,' published in 1836, 2 vols. 8vo"
+    },
+    {
+      "name": "Magic and Witchcraft",
+      "type": "text",
+      "attributes": {
+        "author": "Charles Williams",
+        "year": "1851",
+        "relevance": "source on spirit communication"
+      },
+      "page_ref": "210",
+      "raw_quote": "'Magic and Witchcraft,' published in 1851, 2 vols. 8vo"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "daimonia",
+      "to": "mesmerism",
+      "type": "instrument_of_invocation"
+    },
+    {
+      "from": "Apuleius",
+      "to": "Tertullian",
+      "type": "source_cited_by"
+    },
+    {
+      "from": "Tertullian",
+      "to": "seirim",
+      "type": "author_of_reference"
+    },
+    {
+      "from": "mesmerism",
+      "to": "electrobiology",
+      "type": "precursor_to"
+    },
+    {
+      "from": "electrobiology",
+      "to": "hypnotism",
+      "type": "broader_category_of"
+    },
+    {
+      "from": "familiar spirits",
+      "to": "Adept",
+      "type": "inhabiting_entity"
+    },
+    {
+      "from": "prince of demons",
+      "to": "daimonia",
+      "type": "ruler_over"
+    },
+    {
+      "from": "fasting",
+      "to": "mesmerism",
+      "type": "preparatory_ritual_for"
+    },
+    {
+      "from": "abstinence",
+      "to": "familiar spirits",
+      "type": "means_of_invitation_to"
+    }
+  ],
+  "summary": "This chunk explores ancient and medieval spirit communication practices, emphasizing the continuity between Pagan necromancy (especially via mesmerism), early Christian critiques (e.g., Tertullian), and later esoteric traditions. It argues that trance states—achieved through gazing, fasting, or self-induction—facilitated possession by daimonia (spirits/demons), with mediums (including boys, virgins, Fakirs) acting as vessels for prophecy, healing, or divination. The text explicitly links mesmerism, electrobiology, and hypnotism to ancient magical rituals and identifies them as modern manifestations of the same spirit-possession framework.",
+  "key_passages": [
+    "mesmerism was also used to produce the temple sleep by the Pagan priesthood; and was one of the most ordinary practices of the ancient magicians",
+    "a boy, who was gazing upon the reflection of a statue of Mercury in the water, uttered a prophecy of the future in a hundred and sixty rhythmical lines.",
+    "the spirit which actuates them is that very spirit of pride which we are told was the condemnation of him who is 'the prince of demons'",
+    "it seems impossible to avoid this conclusion if… the mesmeric trance is due to the temporary possession of the body of a person by a foreign spirit",
+    "the phenomena of Mesmerism, 'Electro Biology', 'Hypnotism', and the powers of 'Mediums' and 'Adepts', are merely the reproduction of the phenomena of ancient magic"
+  ]
+}

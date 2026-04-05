@@ -1,0 +1,686 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 7,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Lautrayth",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit, appears as knight",
+        "variant_spelling": [
+          "Lantrayth",
+          "Lutrayth"
+        ]
+      },
+      "page_ref": "p. 73–74",
+      "raw_quote": "O Lautrayth, Feremin, [and] Oliroomim, spirits who attend upon sinners..."
+    },
+    {
+      "name": "Feremin",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit, appears as knight",
+        "variant_spelling": [
+          "Feremni",
+          "Feremim"
+        ]
+      },
+      "page_ref": "p. 73–74",
+      "raw_quote": "...Lautrayth, Feremin, [and] Oliroomim, spirits who attend upon sinners..."
+    },
+    {
+      "name": "Oliroomim",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit, appears as knight",
+        "variant_spelling": [
+          "Oliromim"
+        ]
+      },
+      "page_ref": "p. 73–74",
+      "raw_quote": "...Lautrayth, Feremin, [and] Oliroomim, spirits who attend upon sinners..."
+    },
+    {
+      "name": "Firiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit in invisibility ritual",
+        "direction": "west"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...O Fyriel, Mememil, Berith, [and] Taraor, powerful, magnificent, illustrious spirits..."
+    },
+    {
+      "name": "Melemil",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit in invisibility ritual",
+        "direction": "south"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...O Fyriel, Mememil, Berith, [and] Taraor..."
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit in invisibility ritual",
+        "direction": "east"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...O Fyriel, Mememil, Berith, [and] Taraor..."
+    },
+    {
+      "name": "Taraor",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured spirit in invisibility ritual",
+        "direction": "north"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...O Fyriel, Mememil, Berith, [and] Taraor..."
+    },
+    {
+      "name": "Baltim",
+      "type": "spirit",
+      "attributes": {
+        "role": "defensive spirit conjured in flying throne ritual"
+      },
+      "page_ref": "p. 76–77",
+      "raw_quote": "...he conjures the spirit Baltim, who comes and brings a storm upon the adversary."
+    },
+    {
+      "name": "Brimer",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on ring for life/death manipulation"
+      },
+      "page_ref": "p. 80–81",
+      "raw_quote": "...around the outside these names should be carved: Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "Suburith",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on ring for life/death manipulation"
+      },
+      "page_ref": "p. 80–81",
+      "raw_quote": "...Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "Tranauit",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on ring for life/death manipulation"
+      },
+      "page_ref": "p. 80–81",
+      "raw_quote": "...Brimer, Suburith, Tranauit..."
+    },
+    {
+      "name": "Lyroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on ring interior for life/death manipulation"
+      },
+      "page_ref": "p. 80–81",
+      "raw_quote": "...on the inside, these names: Lyroth, Beryen, Damayn."
+    },
+    {
+      "name": "Beryen",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on ring interior"
+      },
+      "page_ref": "p. 80–81",
+      "raw_quote": "...Lyroth, Beryen, Damayn."
+    },
+    {
+      "name": "Damayn",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon inscribed on ring interior"
+      },
+      "page_ref": "p. 80–81",
+      "raw_quote": "...Lyroth, Beryen, Damayn."
+    },
+    {
+      "name": "kostolya, elogo, yetas",
+      "type": "spirit",
+      "attributes": {
+        "role": "magic names invoked to summon horse in experiment no. 43"
+      },
+      "page_ref": "p. 75–76",
+      "raw_quote": "...plus the words ‘kostolya, elogo, yetas’, and off he rides."
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual",
+      "attributes": {
+        "source_text": "Munich handbook",
+        "shelfmark": "CLM 849"
+      },
+      "page_ref": "p. 73–81",
+      "raw_quote": "...the Munich handbook in any event gives four experiments for obtaining a spirit in the form of a horse..."
+    },
+    {
+      "name": "experiment no. 9 (horse ritual)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "obtain illusory horse",
+        "timing": "6th day of moon, Tuesday"
+      },
+      "page_ref": "p. 73–74",
+      "raw_quote": "...the most extended of these (no. 9): I also wish to explain to you how to obtain a horse – that is, a spirit in the form of a horse..."
+    },
+    {
+      "name": "experiment no. 14 (horse ritual)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "obtain illusory horse",
+        "timing": "unspecified"
+      },
+      "page_ref": "p. 74–75",
+      "raw_quote": "...In one experiment (no. 14) the master looks toward the eastern sky, kneeling and with folded hands..."
+    },
+    {
+      "name": "experiment no. 17 (horse ritual)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "obtain illusory horse",
+        "timing": "twilight"
+      },
+      "page_ref": "p. 75",
+      "raw_quote": "...Another experiment (no. 17) is exceptional in that it does not begin with a conjuration, but with merely the inscription of magic names."
+    },
+    {
+      "name": "experiment no. 43 (horse ritual)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "obtain illusory horse",
+        "timing": "dusk"
+      },
+      "page_ref": "p. 75–76",
+      "raw_quote": "...In the third of these simple experiments (no. 43) the master again writes a series of names on the door of a vacant house, at dusk, with bat’s blood..."
+    },
+    {
+      "name": "experiment no. 8 (ship ritual)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "obtain illusory ship",
+        "timing": "Monday under waxing moon"
+      },
+      "page_ref": "p. 76–77",
+      "raw_quote": "...the Munich handbook provides two similar ones... for conjuring a magical ship (no. 8)..."
+    },
+    {
+      "name": "experiment no. 15 (flying throne ritual)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "obtain flying throne",
+        "timing": "serene weather, no wind"
+      },
+      "page_ref": "p. 76–77",
+      "raw_quote": "...the greater part of the elaborate and fanciful experiment to obtain a flying throne (no. 15) is a ritual for summoning the throne itself..."
+    },
+    {
+      "name": "experiment no. 11 (invisibility cloak)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "obtain invisibility cloak",
+        "timing": "Wednesday, first hour of day, waxing moon"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "I shall treat also of the art of invisibility... When you wish to become invisible and insensible to all beings..."
+    },
+    {
+      "name": "experiment no. 21 (invisibility)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "achieve invisibility via plant/seed"
+      },
+      "page_ref": "p. 79–80",
+      "raw_quote": "...the first (no. 21) because the techniques are without parallel in this manual..."
+    },
+    {
+      "name": "experiment no. 45 (invisibility)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "achieve invisibility via dove sacrifice"
+      },
+      "page_ref": "p. 79–80",
+      "raw_quote": "...the second (no. 45) because it not only entails a sacrificial offering to the demons but explicitly states that these spirits are worthy of sacrifice."
+    },
+    {
+      "name": "experiment no. 10 (life/death manipulation)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "make living appear dead or dead appear alive"
+      },
+      "page_ref": "p. 80–82",
+      "raw_quote": "...the Munich handbook comes closest in an experiment (no. 10) by which the necromancer can make a living person appear dead or a dead person appear alive..."
+    },
+    {
+      "name": "magic circle with names and figures",
+      "type": "tool",
+      "attributes": {
+        "material": "inscribed on horsehide with blood/tooth",
+        "use": "protection, summoning, control"
+      },
+      "page_ref": "p. 74–75",
+      "raw_quote": "...if the circle given above is inscribed on horsehide with the blood of a horse and with the tooth of a white horse..."
+    },
+    {
+      "name": "bridle (magic)",
+      "type": "tool",
+      "attributes": {
+        "material": "unused bridle",
+        "use": "control illusory horse"
+      },
+      "page_ref": "p. 73–74",
+      "raw_quote": "...go out with a bridle that has never been used..."
+    },
+    {
+      "name": "sword (ritual tool)",
+      "type": "tool",
+      "attributes": {
+        "use": "tracing circle, inscribing names",
+        "role": "protective and symbolic"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...trace a circle with a magnificent sword, writing these names..."
+    },
+    {
+      "name": "horsehide",
+      "type": "ingredient",
+      "attributes": {
+        "use": "material for protective circle"
+      },
+      "page_ref": "p. 74–75",
+      "raw_quote": "...inscribed on horsehide with the blood of a horse and with the tooth of a white horse..."
+    },
+    {
+      "name": "tooth of white horse",
+      "type": "ingredient",
+      "attributes": {
+        "use": "material for protective circle"
+      },
+      "page_ref": "p. 74–75",
+      "raw_quote": "...horsehide with the blood of a horse and with the tooth of a white horse..."
+    },
+    {
+      "name": "bat’s blood",
+      "type": "ingredient",
+      "attributes": {
+        "use": "ink for inscribing names to summon horse"
+      },
+      "page_ref": "p. 75–76",
+      "raw_quote": "...writes a series of names on the door of a vacant house, at dusk, with bat’s blood..."
+    },
+    {
+      "name": "marrow of dead man",
+      "type": "ingredient",
+      "attributes": {
+        "use": "fumigation in ship ritual"
+      },
+      "page_ref": "p. 76",
+      "raw_quote": "...fumigates it with the marrow of a dead man."
+    },
+    {
+      "name": "rib of dead person",
+      "type": "ingredient",
+      "attributes": {
+        "use": "tool for tracing ship circle"
+      },
+      "page_ref": "p. 76",
+      "raw_quote": "...with the rib of a dead man or woman... sharpened point on the rib, he uses it to trace a circle..."
+    },
+    {
+      "name": "heliotrope seed",
+      "type": "ingredient",
+      "attributes": {
+        "use": "placed in cat’s eyes for invisibility ritual"
+      },
+      "page_ref": "p. 79–80",
+      "raw_quote": "...cut out its heart and eyes, and insert a heliotrope seed in place of each eye..."
+    },
+    {
+      "name": "human blood (mixed with water)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "watering plant for invisibility ritual"
+      },
+      "page_ref": "p. 79–80",
+      "raw_quote": "...waters it for fifteen days with human blood mixed with water..."
+    },
+    {
+      "name": "white dove",
+      "type": "ingredient",
+      "attributes": {
+        "use": "sacrifice in invisibility ritual no. 45"
+      },
+      "page_ref": "p. 79–80",
+      "raw_quote": "...takes a white dove and a sheet of virgin parchment..."
+    },
+    {
+      "name": "virgin parchment",
+      "type": "ingredient",
+      "attributes": {
+        "use": "surface for drawing sigil in invisibility ritual"
+      },
+      "page_ref": "p. 79–80",
+      "raw_quote": "...a white dove and a sheet of virgin parchment..."
+    },
+    {
+      "name": "frankincense, myrrh, olibano (incense)",
+      "type": "ingredient",
+      "attributes": {
+        "use": "fumigation in invisibility ritual"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...a vessel in which there is fire with frankincense (thus), myrrh and other incense (olibano)..."
+    },
+    {
+      "name": "blessed water",
+      "type": "ingredient",
+      "attributes": {
+        "use": "sprinkling for purification"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...take blessed water and sprinkle yourself and the circle..."
+    },
+    {
+      "name": "gold ring (ritual object)",
+      "type": "tool",
+      "attributes": {
+        "use": "inscribed with spirit names for life/death manipulation"
+      },
+      "page_ref": "p. 80–81",
+      "raw_quote": "...have a ring made of gold. Around the outside these names should be carved..."
+    },
+    {
+      "name": "Psalm 120:1f.",
+      "type": "concept",
+      "attributes": {
+        "role": "biblical incantation used in horse ritual"
+      },
+      "page_ref": "p. 73–74",
+      "raw_quote": "...say, ‘I have lifted to you my eyes unto the mountains...’ [Ps. 120:1f. Vulg.; cf. Ps. 122:1]."
+    },
+    {
+      "name": "Trinity invocation",
+      "type": "concept",
+      "attributes": {
+        "role": "conjuring formula in invisibility ritual"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...by the one, inseparable and undivided Trinity..."
+    },
+    {
+      "name": "Psalm 50 (Vulgate)",
+      "type": "concept",
+      "attributes": {
+        "role": "prayer used in invisibility ritual"
+      },
+      "page_ref": "p. 78–79",
+      "raw_quote": "...Asperges me, Domine, ysopo ... [Ps. 50:9 Vulg.]"
+    },
+    {
+      "name": "Ave Maria",
+      "type": "concept",
+      "attributes": {
+        "role": "prayer used in flying throne ritual"
+      },
+      "page_ref": "p. 76–77",
+      "raw_quote": "...says various prayers (the Ave Maria, part of Psalm 50..."
+    },
+    {
+      "name": "Lesser Doxology",
+      "type": "concept",
+      "attributes": {
+        "role": "prayer used in flying throne ritual"
+      },
+      "page_ref": "p. 76–77",
+      "raw_quote": "...the Lesser Doxology, etc.)..."
+    },
+    {
+      "name": "Rawlinson necromantic manuscript",
+      "type": "ritual",
+      "attributes": {
+        "comparison_point": "provides procedures for raising shades of the dead"
+      },
+      "page_ref": "p. 80–81",
+      "raw_quote": "...the Rawlinson necromantic manuscript, for example, gives procedures for raising the shades of the dead."
+    },
+    {
+      "name": "Socrates (as authority)",
+      "type": "person",
+      "attributes": {
+        "role": "authority cited in circle description"
+      },
+      "page_ref": "p. 74–75",
+      "raw_quote": "...and Socrates speaks of the power of this circle in his book of magic."
+    },
+    {
+      "name": "Constantius Africanus",
+      "type": "person",
+      "attributes": {
+        "role": "legendary figure associated with opal invisibility"
+      },
+      "page_ref": "p. 78",
+      "raw_quote": "...a method that is supposed to have worked for Constantius Africanus."
+    },
+    {
+      "name": "Gyges (ring of)",
+      "type": "concept",
+      "attributes": {
+        "role": "classical reference point for invisibility theme"
+      },
+      "page_ref": "p. 78",
+      "raw_quote": "...The ring of Gyges is one of the best known manifestations..."
+    },
+    {
+      "name": "Ephesians 6:12",
+      "type": "concept",
+      "attributes": {
+        "role": "biblical reference in flying throne ritual analysis"
+      },
+      "page_ref": "p. 77",
+      "raw_quote": "...‘spiritual hosts of wickedness in the heavenly places’ (Eph. 6:12) remains unclear..."
+    },
+    {
+      "name": "Antoninus of Florence",
+      "type": "person",
+      "attributes": {
+        "role": "referenced for burning book emitting lamentation"
+      },
+      "page_ref": "p. 79",
+      "raw_quote": "...like the book Antoninus of Florence is said to have burned..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Lautrayth",
+      "to": "Feremin",
+      "type": "co-conjured spirit"
+    },
+    {
+      "from": "Lautrayth",
+      "to": "Oliroomim",
+      "type": "co-conjured spirit"
+    },
+    {
+      "from": "Feremin",
+      "to": "Oliroomim",
+      "type": "co-conjured spirit"
+    },
+    {
+      "from": "Brimer",
+      "to": "Suburith",
+      "type": "inscribed on same ring"
+    },
+    {
+      "from": "Brimer",
+      "to": "Tranauit",
+      "type": "inscribed on same ring"
+    },
+    {
+      "from": "Lyroth",
+      "to": "Beryen",
+      "type": "inscribed on same ring"
+    },
+    {
+      "from": "Lyroth",
+      "to": "Damayn",
+      "type": "inscribed on same ring"
+    },
+    {
+      "from": "Firiel",
+      "to": "Melemil",
+      "type": "co-conjured spirit in invisibility ritual"
+    },
+    {
+      "from": "Firiel",
+      "to": "Berith",
+      "type": "co-conjured spirit in invisibility ritual"
+    },
+    {
+      "from": "Firiel",
+      "to": "Taraor",
+      "type": "co-conjured spirit in invisibility ritual"
+    },
+    {
+      "from": "Melemil",
+      "to": "Berith",
+      "type": "co-conjured spirit in invisibility ritual"
+    },
+    {
+      "from": "Melemil",
+      "to": "Taraor",
+      "type": "co-conjured spirit in invisibility ritual"
+    },
+    {
+      "from": "Berith",
+      "to": "Taraor",
+      "type": "co-conjured spirit in invisibility ritual"
+    },
+    {
+      "from": "experiment no. 9",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 14",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 17",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 43",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 8",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 15",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 11",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 21",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 45",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "experiment no. 10",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "contained_in"
+    },
+    {
+      "from": "magic circle with names and figures",
+      "to": "experiment no. 9",
+      "type": "used_in"
+    },
+    {
+      "from": "bridle (ritual)",
+      "to": "experiment no. 9",
+      "type": "used_in"
+    },
+    {
+      "from": "sword (ritual tool)",
+      "to": "experiment no. 11",
+      "type": "used_in"
+    },
+    {
+      "from": "gold ring (ritual object)",
+      "to": "experiment no. 10",
+      "type": "used_in"
+    },
+    {
+      "from": "bat’s blood",
+      "to": "experiment no. 43",
+      "type": "used_in"
+    },
+    {
+      "from": "marrow of dead man",
+      "to": "experiment no. 8",
+      "type": "used_in"
+    },
+    {
+      "from": "rib of dead person",
+      "to": "experiment no. 8",
+      "type": "used_in"
+    },
+    {
+      "from": "Psalm 120:1f.",
+      "to": "experiment no. 9",
+      "type": "quoted_in"
+    },
+    {
+      "from": "Trinity invocation",
+      "to": "experiment no. 11",
+      "type": "quoted_in"
+    },
+    {
+      "from": "Psalm 50 (Vulgate)",
+      "to": "experiment no. 11",
+      "type": "quoted_in"
+    },
+    {
+      "from": "Ave Maria",
+      "to": "experiment no. 15",
+      "type": "quoted_in"
+    },
+    {
+      "from": "Rawlinson necromantic manuscript",
+      "to": "Munich Handbook (CLM 849)",
+      "type": "comparative_reference"
+    }
+  ],
+  "summary": "This chunk details several ritual experiments from the Munich Handbook (CLM 849), including methods for obtaining illusory transportation (horses, ships, flying throne), invisibility (via cloak, plant, or sacrifice), and manipulation of life/death states using inscribed rings. It provides detailed conjurations, spirit names (e.g., Lautrayth, Feremin, Oliroomim; Firiel, Melemil, Berith, Taraor; Brimer, Suburith, Tranauit, Lyroth, Beryen, Damayn), protective circles, ritual ingredients (bridle, bat’s blood, horsehide, heliotrope seeds), and biblical references used in incantations. The text also notes connections to other traditions like the Rawlinson manuscript and classical motifs such as the ring of Gyges.",
+  "key_passages": [
+    "O Lautrayth, Feremin, [and] Oliroomim, spirits who attend upon sinners, I, so-and-so, trusting in your power, conjure you by Him who spoke and [all things] were made...",
+    "When you have said this three times, you will see three knights come from afar... they will at once dismount from their horses and greet you cheerfully.",
+    "I conjure you, O Fyriel, Mememil, Berith, [and] Taraor, powerful, magnificent, illustrious spirits, in whom I place all my trust, by the one, inseparable and undivided Trinity...",
+    "When you wish to infuse a spirit into a dead person... have a ring made of gold. Around the outside these names should be carved: Brimer, Suburith, Tranauit; on the inside, these names: Lyroth, Beryen, Damayn.",
+    "...if the circle given above is inscribed on horsehide with the blood of a horse and with the tooth of a white horse, and then is shown to horses, they will die at once."
+  ]
+}

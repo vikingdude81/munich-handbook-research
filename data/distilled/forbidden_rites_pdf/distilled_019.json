@@ -1,0 +1,338 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 19,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon",
+        "category": "familiar from other sources"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan"
+    },
+    {
+      "name": "Bartha",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "Bartha is a king"
+    },
+    {
+      "name": "Baltim, Galtim, Saltim",
+      "type": "spirit",
+      "attributes": {
+        "rank": "dukes"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "Baltim, Galtim, and Saltim are dukes"
+    },
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "rank": "foremost prince"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "Belial is ‘foremost prince’"
+    },
+    {
+      "name": "Lytim",
+      "type": "spirit",
+      "attributes": {
+        "role": "overlord of seven demons"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "seven demons are ‘subjects’ of Lytim"
+    },
+    {
+      "name": "Orient",
+      "type": "spirit",
+      "attributes": {
+        "description": "most high and benign king",
+        "role": "maker of heaven and earth"
+      },
+      "page_ref": "p. 186–187",
+      "raw_quote": "‘O most high and benign king Orient’… ‘O benign Orient, maker of the greater part of the world, heaven, and earth, at whose command all things on heaven and on earth were wisely made’"
+    },
+    {
+      "name": "Apolin",
+      "type": "spirit",
+      "attributes": {
+        "note": "possibly corrupt for Apollion"
+      },
+      "page_ref": "p. 186–187",
+      "raw_quote": "one conjures not only Belzebub, Berith, Lucifer and Sathan, but also Apolin, Beliath and Maraloch"
+    },
+    {
+      "name": "Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat, Sona",
+      "type": "spirit",
+      "attributes": {
+        "note": "exceptional or rare names"
+      },
+      "page_ref": "p. 187",
+      "raw_quote": "a third gives the altogether well established name Satan (spelled ‘Sathan’) but also the exceptional ones Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat and Sona"
+    },
+    {
+      "name": "Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon, Vralchim",
+      "type": "spirit",
+      "attributes": {
+        "note": "less familiar names"
+      },
+      "page_ref": "p. 187",
+      "raw_quote": "a fourth lists not only Berith, Belzebub and Astaroth, but also Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon and Vralchim"
+    },
+    {
+      "name": "Curson",
+      "type": "spirit",
+      "attributes": {
+        "note": "broad currency; only one of eleven spirits in experiment no. 34"
+      },
+      "page_ref": "p. 187",
+      "raw_quote": "Of the eleven spirits named in experiment no. 34, only Curson has broad currency"
+    },
+    {
+      "name": "Hanni",
+      "type": "spirit",
+      "attributes": {
+        "note": "possibly Haniel"
+      },
+      "page_ref": "p. 187",
+      "raw_quote": "(unless Hanni is equated with Haniel)"
+    },
+    {
+      "name": "Apollion, Arath, Astra, Damay, Erlain, Gana, Gebel, Lamair, Oor, Safrit, Tami, Taraor, Tatomofon, Thomo, Ym, Zanno/Zaimo",
+      "type": "spirit",
+      "attributes": {
+        "note": "possible variant or corrupt forms"
+      },
+      "page_ref": "p. 187",
+      "raw_quote": "Apolin could be Apollion, Arath could be Arathiel, Astra could be Astrael…"
+    },
+    {
+      "name": "Malign demons",
+      "type": "spirit",
+      "attributes": {
+        "description": "general category"
+      },
+      "page_ref": "p. 185–186",
+      "raw_quote": "‘malign demons’; ‘most inimical spirits’; ‘all hateful and malign, invidious and discordant demons’"
+    },
+    {
+      "name": "Squire spirits",
+      "type": "spirit",
+      "attributes": {
+        "role": "bear arms and deceive human senses"
+      },
+      "page_ref": "p. 185–186",
+      "raw_quote": "‘arms-bearing [or squire] spirits, whose role it is to bear arms and … deceive human senses’"
+    },
+    {
+      "name": "Water-dwellers",
+      "type": "spirit",
+      "attributes": {
+        "role": "endanger ships"
+      },
+      "page_ref": "p. 185–186",
+      "raw_quote": "‘spirits who dwell in the water [and] endanger ships’"
+    },
+    {
+      "name": "Sinner-attending spirits",
+      "type": "spirit",
+      "attributes": {
+        "role": "attend to sinners"
+      },
+      "page_ref": "p. 185–186",
+      "raw_quote": "‘spirits who attend to sinners’"
+    },
+    {
+      "name": "Infernal spirits",
+      "type": "spirit",
+      "attributes": {
+        "category": "inferior rank"
+      },
+      "page_ref": "p. 185–186",
+      "raw_quote": "‘infernal spirits’"
+    },
+    {
+      "name": "Fornicator, tempter, seducer, possessor of humans",
+      "type": "spirit",
+      "attributes": {
+        "role": "malevolent functions"
+      },
+      "page_ref": "p. 185–186",
+      "raw_quote": "‘fornicator, tempter, seducer, possessor of humans’"
+    },
+    {
+      "name": "Benign spirits",
+      "type": "spirit",
+      "attributes": {
+        "description": "sow concord; pleasant, happy, joyful"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "‘most benign spirits, who sow concord’; ‘most pleasant, happy, joyful spirits’"
+    },
+    {
+      "name": "Powerful, magnificent, and illustrious spirits",
+      "type": "spirit",
+      "attributes": {
+        "role": "trusted by magician"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "‘powerful, magnificent, and illustrious spirits, in whom I place full trust’"
+    },
+    {
+      "name": "Angels",
+      "type": "spirit",
+      "attributes": {
+        "category": "unfallen"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "Experiments no. 24 and no. 25 both refer to ‘angels’"
+    },
+    {
+      "name": "Guardian angel",
+      "type": "spirit",
+      "attributes": {
+        "role": "protection"
+      },
+      "page_ref": "p. 189",
+      "raw_quote": "It even includes a lengthy prayer to the master’s guardian angel for protection"
+    },
+    {
+      "name": "Archangels (Gabriel, Michael, Raphael)",
+      "type": "spirit",
+      "attributes": {
+        "status": "biblically attested",
+        "liturgical recognition": "mentioned in Litany of Saints from 7th c."
+      },
+      "page_ref": "p. 189",
+      "raw_quote": "The archangels mentioned in the Bible and the Old Testament apocrypha (Gabriel, Michael, Raphael) were mentioned from the seventh century onward in the Litany of the Saints"
+    },
+    {
+      "name": "Uriel, Raguel, Seraqael, Haniel",
+      "type": "spirit",
+      "attributes": {
+        "status": "apocryphal angels; condemned as demons by synod"
+      },
+      "page_ref": "p. 189",
+      "raw_quote": "The Book of Enoch adds Uriel, Raguel, Seraqael and Haniel… Adalbert was condemned… for praying to Uriel, Raguel, Tubuel, Adin, Tubuas, Sabaok and Samiel"
+    },
+    {
+      "name": "Spirits who provide magic ship",
+      "type": "spirit",
+      "attributes": {
+        "status": "intermediate between good and evil"
+      },
+      "page_ref": "p. 189",
+      "raw_quote": "‘these spirits are between good and evil, dwelling neither in Hell nor in Paradise’"
+    },
+    {
+      "name": "Satan/Sathan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "infernal chief"
+      },
+      "page_ref": "p. 186–187",
+      "raw_quote": "Satan or Sathan… spelled ‘Sathan’"
+    },
+    {
+      "name": "Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon",
+      "type": "spirit",
+      "attributes": {
+        "category": "familiar demons"
+      },
+      "page_ref": "p. 186",
+      "raw_quote": "Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Bartha",
+      "to": "infernal hierarchy",
+      "type": "ranked as king in"
+    },
+    {
+      "from": "Baltim, Galtim, Saltim",
+      "to": "infernal hierarchy",
+      "type": "ranked as dukes in"
+    },
+    {
+      "from": "Belial",
+      "to": "infernal hierarchy",
+      "type": "ranked as foremost prince in"
+    },
+    {
+      "from": "Lytim",
+      "to": "infernal hierarchy",
+      "type": "overlord of seven demons"
+    },
+    {
+      "from": "Orient",
+      "to": "theological concept",
+      "type": "linked to medieval primacy of east direction"
+    },
+    {
+      "from": "Apolin",
+      "to": "Apollion",
+      "type": "possible variant form of"
+    },
+    {
+      "from": "Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat, Sona",
+      "to": "exceptional names in conjurations",
+      "type": "listed together in experiment no. ?"
+    },
+    {
+      "from": "Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon, Vralchim",
+      "to": "experiment no. ? list",
+      "type": "listed together in experiment no. ?"
+    },
+    {
+      "from": "Curson",
+      "to": "experiment no. 34",
+      "type": "only familiar spirit in"
+    },
+    {
+      "from": "Hanni",
+      "to": "Haniel",
+      "type": "possibly equivalent to"
+    },
+    {
+      "from": "Uriel, Raguel, Seraqael, Haniel",
+      "to": "apocryphal angels",
+      "type": "condemned as demons by synod of Rome (789)"
+    },
+    {
+      "from": "spirits who provide magic ship",
+      "to": "theological controversy",
+      "type": "associated with condemned belief in intermediate spirits"
+    },
+    {
+      "from": "infernal hierarchy concept",
+      "to": "Neoplatonists/Iamblichus/Proclus/Psellus/Trithemius",
+      "type": "originates from"
+    },
+    {
+      "from": "daimones (Apuleian)",
+      "to": "sublunary air spirits",
+      "type": "natural sphere is"
+    },
+    {
+      "from": "orthodox demonology",
+      "to": "fallen angels under God’s permission",
+      "type": "differs from alternative view of"
+    }
+  ],
+  "summary": "This chunk discusses the spirit taxonomy and naming practices in the Munich Handbook (CLM 849), distinguishing between fallen demons, unfallen angels, and intermediate spirits. It lists 189 named spirits, only ~17% of which are well-attested elsewhere. The text explores theological tensions between orthodox demonology (fallen angels) and alternative daimonological concepts (neutral or benevolent spirits), referencing figures like Orient, Belial, Bartha, Lytim, and various demons with variant/corrupt names. It also notes condemnations of apocryphal angel invocations.",
+  "key_passages": [
+    "Altogether 189 spirits are addressed by name in the Munich handbook’s conjurations, of whom 88 are referred to expressly as demones.",
+    "Bartha is a king; Baltim, Galtim, and Saltim are dukes; Belial is ‘foremost prince’; seven demons are ‘subjects’ of Lytim.",
+    "In two experiments the spirit addressed is named Orient… ‘O benign Orient, maker of the greater part of the world, heaven, and earth, at whose command all things on heaven and on earth were wisely made’.",
+    "Of the eleven spirits named in experiment no. 34, only Curson has broad currency (unless Hanni is equated with Haniel).",
+    "‘these spirits are between good and evil, dwelling neither in Hell nor in Paradise.’"
+  ]
+}

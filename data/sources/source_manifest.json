@@ -1,0 +1,929 @@
+{
+  "project": "E:\\munich_handbook_research",
+  "chunk_size": 25000,
+  "chunk_overlap": 500,
+  "sources": [
+    {
+      "id": "necro",
+      "status": "ok",
+      "path": "H:\\NECRO.txt",
+      "description": "Kieckhefer, Forbidden Rites \u2014 full text of Munich Handbook study",
+      "total_chars": 925451,
+      "total_chunks": 39,
+      "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\necro",
+      "chunks": [
+        {
+          "chunk_id": 0,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_000.txt",
+          "start_char": 0,
+          "end_char": 24657,
+          "chars": 24657
+        },
+        {
+          "chunk_id": 1,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_001.txt",
+          "start_char": 24157,
+          "end_char": 48152,
+          "chars": 23995
+        },
+        {
+          "chunk_id": 2,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_002.txt",
+          "start_char": 47652,
+          "end_char": 72434,
+          "chars": 24782
+        },
+        {
+          "chunk_id": 3,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_003.txt",
+          "start_char": 71934,
+          "end_char": 96776,
+          "chars": 24842
+        },
+        {
+          "chunk_id": 4,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_004.txt",
+          "start_char": 96276,
+          "end_char": 120820,
+          "chars": 24544
+        },
+        {
+          "chunk_id": 5,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_005.txt",
+          "start_char": 120320,
+          "end_char": 143767,
+          "chars": 23447
+        },
+        {
+          "chunk_id": 6,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_006.txt",
+          "start_char": 143267,
+          "end_char": 167609,
+          "chars": 24342
+        },
+        {
+          "chunk_id": 7,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_007.txt",
+          "start_char": 167109,
+          "end_char": 191979,
+          "chars": 24870
+        },
+        {
+          "chunk_id": 8,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_008.txt",
+          "start_char": 191479,
+          "end_char": 216062,
+          "chars": 24583
+        },
+        {
+          "chunk_id": 9,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_009.txt",
+          "start_char": 215562,
+          "end_char": 239982,
+          "chars": 24420
+        },
+        {
+          "chunk_id": 10,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_010.txt",
+          "start_char": 239482,
+          "end_char": 263824,
+          "chars": 24342
+        },
+        {
+          "chunk_id": 11,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_011.txt",
+          "start_char": 263324,
+          "end_char": 288034,
+          "chars": 24710
+        },
+        {
+          "chunk_id": 12,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_012.txt",
+          "start_char": 287534,
+          "end_char": 310892,
+          "chars": 23358
+        },
+        {
+          "chunk_id": 13,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_013.txt",
+          "start_char": 310392,
+          "end_char": 335337,
+          "chars": 24945
+        },
+        {
+          "chunk_id": 14,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_014.txt",
+          "start_char": 334837,
+          "end_char": 359753,
+          "chars": 24916
+        },
+        {
+          "chunk_id": 15,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_015.txt",
+          "start_char": 359253,
+          "end_char": 384014,
+          "chars": 24761
+        },
+        {
+          "chunk_id": 16,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_016.txt",
+          "start_char": 383514,
+          "end_char": 408063,
+          "chars": 24549
+        },
+        {
+          "chunk_id": 17,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_017.txt",
+          "start_char": 407563,
+          "end_char": 431715,
+          "chars": 24152
+        },
+        {
+          "chunk_id": 18,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_018.txt",
+          "start_char": 431215,
+          "end_char": 456205,
+          "chars": 24990
+        },
+        {
+          "chunk_id": 19,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_019.txt",
+          "start_char": 455705,
+          "end_char": 480342,
+          "chars": 24637
+        },
+        {
+          "chunk_id": 20,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_020.txt",
+          "start_char": 479842,
+          "end_char": 504776,
+          "chars": 24934
+        },
+        {
+          "chunk_id": 21,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_021.txt",
+          "start_char": 504276,
+          "end_char": 528648,
+          "chars": 24372
+        },
+        {
+          "chunk_id": 22,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_022.txt",
+          "start_char": 528148,
+          "end_char": 552806,
+          "chars": 24658
+        },
+        {
+          "chunk_id": 23,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_023.txt",
+          "start_char": 552306,
+          "end_char": 576821,
+          "chars": 24515
+        },
+        {
+          "chunk_id": 24,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_024.txt",
+          "start_char": 576321,
+          "end_char": 600556,
+          "chars": 24235
+        },
+        {
+          "chunk_id": 25,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_025.txt",
+          "start_char": 600056,
+          "end_char": 624865,
+          "chars": 24809
+        },
+        {
+          "chunk_id": 26,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_026.txt",
+          "start_char": 624365,
+          "end_char": 649167,
+          "chars": 24802
+        },
+        {
+          "chunk_id": 27,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_027.txt",
+          "start_char": 648667,
+          "end_char": 673616,
+          "chars": 24949
+        },
+        {
+          "chunk_id": 28,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_028.txt",
+          "start_char": 673116,
+          "end_char": 698075,
+          "chars": 24959
+        },
+        {
+          "chunk_id": 29,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_029.txt",
+          "start_char": 697575,
+          "end_char": 722066,
+          "chars": 24491
+        },
+        {
+          "chunk_id": 30,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_030.txt",
+          "start_char": 721566,
+          "end_char": 746522,
+          "chars": 24956
+        },
+        {
+          "chunk_id": 31,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_031.txt",
+          "start_char": 746022,
+          "end_char": 770155,
+          "chars": 24133
+        },
+        {
+          "chunk_id": 32,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_032.txt",
+          "start_char": 769655,
+          "end_char": 794526,
+          "chars": 24871
+        },
+        {
+          "chunk_id": 33,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_033.txt",
+          "start_char": 794026,
+          "end_char": 818972,
+          "chars": 24946
+        },
+        {
+          "chunk_id": 34,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_034.txt",
+          "start_char": 818472,
+          "end_char": 843018,
+          "chars": 24546
+        },
+        {
+          "chunk_id": 35,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_035.txt",
+          "start_char": 842518,
+          "end_char": 867378,
+          "chars": 24860
+        },
+        {
+          "chunk_id": 36,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_036.txt",
+          "start_char": 866878,
+          "end_char": 891848,
+          "chars": 24970
+        },
+        {
+          "chunk_id": 37,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_037.txt",
+          "start_char": 891348,
+          "end_char": 916290,
+          "chars": 24942
+        },
+        {
+          "chunk_id": 38,
+          "file": "E:\\munich_handbook_research\\data\\sources\\necro\\chunk_038.txt",
+          "start_char": 915790,
+          "end_char": 925451,
+          "chars": 9661
+        }
+      ]
+    },
+    {
+      "id": "forbidden_rites_pdf",
+      "status": "ok",
+      "path": "H:\\Forbidden Rites - A Necromancer's Manual of the Fifteenth Century (Magic in History) - Richard Kieckhefer (1).pdf",
+      "description": "Kieckhefer, Forbidden Rites \u2014 PDF version (cross-reference)",
+      "total_chars": 911762,
+      "total_chunks": 39,
+      "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf",
+      "chunks": [
+        {
+          "chunk_id": 0,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_000.txt",
+          "start_char": 0,
+          "end_char": 23339,
+          "chars": 23339
+        },
+        {
+          "chunk_id": 1,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_001.txt",
+          "start_char": 22839,
+          "end_char": 46651,
+          "chars": 23812
+        },
+        {
+          "chunk_id": 2,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_002.txt",
+          "start_char": 46151,
+          "end_char": 69410,
+          "chars": 23259
+        },
+        {
+          "chunk_id": 3,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_003.txt",
+          "start_char": 68910,
+          "end_char": 93145,
+          "chars": 24235
+        },
+        {
+          "chunk_id": 4,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_004.txt",
+          "start_char": 92645,
+          "end_char": 116654,
+          "chars": 24009
+        },
+        {
+          "chunk_id": 5,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_005.txt",
+          "start_char": 116154,
+          "end_char": 141154,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 6,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_006.txt",
+          "start_char": 140654,
+          "end_char": 164516,
+          "chars": 23862
+        },
+        {
+          "chunk_id": 7,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_007.txt",
+          "start_char": 164016,
+          "end_char": 188438,
+          "chars": 24422
+        },
+        {
+          "chunk_id": 8,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_008.txt",
+          "start_char": 187938,
+          "end_char": 211933,
+          "chars": 23995
+        },
+        {
+          "chunk_id": 9,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_009.txt",
+          "start_char": 211433,
+          "end_char": 235975,
+          "chars": 24542
+        },
+        {
+          "chunk_id": 10,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_010.txt",
+          "start_char": 235475,
+          "end_char": 259959,
+          "chars": 24484
+        },
+        {
+          "chunk_id": 11,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_011.txt",
+          "start_char": 259459,
+          "end_char": 283784,
+          "chars": 24325
+        },
+        {
+          "chunk_id": 12,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_012.txt",
+          "start_char": 283284,
+          "end_char": 306992,
+          "chars": 23708
+        },
+        {
+          "chunk_id": 13,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_013.txt",
+          "start_char": 306492,
+          "end_char": 331492,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 14,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_014.txt",
+          "start_char": 330992,
+          "end_char": 354417,
+          "chars": 23425
+        },
+        {
+          "chunk_id": 15,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_015.txt",
+          "start_char": 353917,
+          "end_char": 378917,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 16,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_016.txt",
+          "start_char": 378417,
+          "end_char": 403417,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 17,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_017.txt",
+          "start_char": 402917,
+          "end_char": 427917,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 18,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_018.txt",
+          "start_char": 427417,
+          "end_char": 452417,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 19,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_019.txt",
+          "start_char": 451917,
+          "end_char": 476917,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 20,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_020.txt",
+          "start_char": 476417,
+          "end_char": 501417,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 21,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_021.txt",
+          "start_char": 500917,
+          "end_char": 525917,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 22,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_022.txt",
+          "start_char": 525417,
+          "end_char": 548502,
+          "chars": 23085
+        },
+        {
+          "chunk_id": 23,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_023.txt",
+          "start_char": 548002,
+          "end_char": 571440,
+          "chars": 23438
+        },
+        {
+          "chunk_id": 24,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_024.txt",
+          "start_char": 570940,
+          "end_char": 595625,
+          "chars": 24685
+        },
+        {
+          "chunk_id": 25,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_025.txt",
+          "start_char": 595125,
+          "end_char": 619990,
+          "chars": 24865
+        },
+        {
+          "chunk_id": 26,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_026.txt",
+          "start_char": 619490,
+          "end_char": 642976,
+          "chars": 23486
+        },
+        {
+          "chunk_id": 27,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_027.txt",
+          "start_char": 642476,
+          "end_char": 665881,
+          "chars": 23405
+        },
+        {
+          "chunk_id": 28,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_028.txt",
+          "start_char": 665381,
+          "end_char": 688965,
+          "chars": 23584
+        },
+        {
+          "chunk_id": 29,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_029.txt",
+          "start_char": 688465,
+          "end_char": 712620,
+          "chars": 24155
+        },
+        {
+          "chunk_id": 30,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_030.txt",
+          "start_char": 712120,
+          "end_char": 735414,
+          "chars": 23294
+        },
+        {
+          "chunk_id": 31,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_031.txt",
+          "start_char": 734914,
+          "end_char": 759914,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 32,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_032.txt",
+          "start_char": 759414,
+          "end_char": 783661,
+          "chars": 24247
+        },
+        {
+          "chunk_id": 33,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_033.txt",
+          "start_char": 783161,
+          "end_char": 808161,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 34,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_034.txt",
+          "start_char": 807661,
+          "end_char": 832071,
+          "chars": 24410
+        },
+        {
+          "chunk_id": 35,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_035.txt",
+          "start_char": 831571,
+          "end_char": 856455,
+          "chars": 24884
+        },
+        {
+          "chunk_id": 36,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_036.txt",
+          "start_char": 855955,
+          "end_char": 880955,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 37,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_037.txt",
+          "start_char": 880455,
+          "end_char": 905412,
+          "chars": 24957
+        },
+        {
+          "chunk_id": 38,
+          "file": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf\\chunk_038.txt",
+          "start_char": 904912,
+          "end_char": 911762,
+          "chars": 6850
+        }
+      ]
+    },
+    {
+      "id": "worship_dead",
+      "status": "ok",
+      "path": "H:\\The_Worship_of_the_Dead_A_Rigorous_Inqui.pdf",
+      "description": "The Worship of the Dead \u2014 necromantic practice context",
+      "total_chars": 1126710,
+      "total_chunks": 48,
+      "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\worship_dead",
+      "chunks": [
+        {
+          "chunk_id": 0,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_000.txt",
+          "start_char": 0,
+          "end_char": 25000,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 1,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_001.txt",
+          "start_char": 24500,
+          "end_char": 47930,
+          "chars": 23430
+        },
+        {
+          "chunk_id": 2,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_002.txt",
+          "start_char": 47430,
+          "end_char": 71018,
+          "chars": 23588
+        },
+        {
+          "chunk_id": 3,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_003.txt",
+          "start_char": 70518,
+          "end_char": 93760,
+          "chars": 23242
+        },
+        {
+          "chunk_id": 4,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_004.txt",
+          "start_char": 93260,
+          "end_char": 116825,
+          "chars": 23565
+        },
+        {
+          "chunk_id": 5,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_005.txt",
+          "start_char": 116325,
+          "end_char": 140562,
+          "chars": 24237
+        },
+        {
+          "chunk_id": 6,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_006.txt",
+          "start_char": 140062,
+          "end_char": 165062,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 7,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_007.txt",
+          "start_char": 164562,
+          "end_char": 189422,
+          "chars": 24860
+        },
+        {
+          "chunk_id": 8,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_008.txt",
+          "start_char": 188922,
+          "end_char": 212920,
+          "chars": 23998
+        },
+        {
+          "chunk_id": 9,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_009.txt",
+          "start_char": 212420,
+          "end_char": 236375,
+          "chars": 23955
+        },
+        {
+          "chunk_id": 10,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_010.txt",
+          "start_char": 235875,
+          "end_char": 260374,
+          "chars": 24499
+        },
+        {
+          "chunk_id": 11,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_011.txt",
+          "start_char": 259874,
+          "end_char": 283554,
+          "chars": 23680
+        },
+        {
+          "chunk_id": 12,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_012.txt",
+          "start_char": 283054,
+          "end_char": 307100,
+          "chars": 24046
+        },
+        {
+          "chunk_id": 13,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_013.txt",
+          "start_char": 306600,
+          "end_char": 329976,
+          "chars": 23376
+        },
+        {
+          "chunk_id": 14,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_014.txt",
+          "start_char": 329476,
+          "end_char": 353679,
+          "chars": 24203
+        },
+        {
+          "chunk_id": 15,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_015.txt",
+          "start_char": 353179,
+          "end_char": 377132,
+          "chars": 23953
+        },
+        {
+          "chunk_id": 16,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_016.txt",
+          "start_char": 376632,
+          "end_char": 399760,
+          "chars": 23128
+        },
+        {
+          "chunk_id": 17,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_017.txt",
+          "start_char": 399260,
+          "end_char": 422559,
+          "chars": 23299
+        },
+        {
+          "chunk_id": 18,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_018.txt",
+          "start_char": 422059,
+          "end_char": 446286,
+          "chars": 24227
+        },
+        {
+          "chunk_id": 19,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_019.txt",
+          "start_char": 445786,
+          "end_char": 470118,
+          "chars": 24332
+        },
+        {
+          "chunk_id": 20,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_020.txt",
+          "start_char": 469618,
+          "end_char": 494618,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 21,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_021.txt",
+          "start_char": 494118,
+          "end_char": 518216,
+          "chars": 24098
+        },
+        {
+          "chunk_id": 22,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_022.txt",
+          "start_char": 517716,
+          "end_char": 542091,
+          "chars": 24375
+        },
+        {
+          "chunk_id": 23,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_023.txt",
+          "start_char": 541591,
+          "end_char": 565690,
+          "chars": 24099
+        },
+        {
+          "chunk_id": 24,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_024.txt",
+          "start_char": 565190,
+          "end_char": 589502,
+          "chars": 24312
+        },
+        {
+          "chunk_id": 25,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_025.txt",
+          "start_char": 589002,
+          "end_char": 613388,
+          "chars": 24386
+        },
+        {
+          "chunk_id": 26,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_026.txt",
+          "start_char": 612888,
+          "end_char": 636536,
+          "chars": 23648
+        },
+        {
+          "chunk_id": 27,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_027.txt",
+          "start_char": 636036,
+          "end_char": 660513,
+          "chars": 24477
+        },
+        {
+          "chunk_id": 28,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_028.txt",
+          "start_char": 660013,
+          "end_char": 683168,
+          "chars": 23155
+        },
+        {
+          "chunk_id": 29,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_029.txt",
+          "start_char": 682668,
+          "end_char": 705905,
+          "chars": 23237
+        },
+        {
+          "chunk_id": 30,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_030.txt",
+          "start_char": 705405,
+          "end_char": 728995,
+          "chars": 23590
+        },
+        {
+          "chunk_id": 31,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_031.txt",
+          "start_char": 728495,
+          "end_char": 752920,
+          "chars": 24425
+        },
+        {
+          "chunk_id": 32,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_032.txt",
+          "start_char": 752420,
+          "end_char": 776180,
+          "chars": 23760
+        },
+        {
+          "chunk_id": 33,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_033.txt",
+          "start_char": 775680,
+          "end_char": 799663,
+          "chars": 23983
+        },
+        {
+          "chunk_id": 34,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_034.txt",
+          "start_char": 799163,
+          "end_char": 823641,
+          "chars": 24478
+        },
+        {
+          "chunk_id": 35,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_035.txt",
+          "start_char": 823141,
+          "end_char": 846506,
+          "chars": 23365
+        },
+        {
+          "chunk_id": 36,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_036.txt",
+          "start_char": 846006,
+          "end_char": 870298,
+          "chars": 24292
+        },
+        {
+          "chunk_id": 37,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_037.txt",
+          "start_char": 869798,
+          "end_char": 894394,
+          "chars": 24596
+        },
+        {
+          "chunk_id": 38,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_038.txt",
+          "start_char": 893894,
+          "end_char": 918306,
+          "chars": 24412
+        },
+        {
+          "chunk_id": 39,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_039.txt",
+          "start_char": 917806,
+          "end_char": 940987,
+          "chars": 23181
+        },
+        {
+          "chunk_id": 40,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_040.txt",
+          "start_char": 940487,
+          "end_char": 963844,
+          "chars": 23357
+        },
+        {
+          "chunk_id": 41,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_041.txt",
+          "start_char": 963344,
+          "end_char": 986675,
+          "chars": 23331
+        },
+        {
+          "chunk_id": 42,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_042.txt",
+          "start_char": 986175,
+          "end_char": 1010155,
+          "chars": 23980
+        },
+        {
+          "chunk_id": 43,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_043.txt",
+          "start_char": 1009655,
+          "end_char": 1032727,
+          "chars": 23072
+        },
+        {
+          "chunk_id": 44,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_044.txt",
+          "start_char": 1032227,
+          "end_char": 1057227,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 45,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_045.txt",
+          "start_char": 1056727,
+          "end_char": 1081724,
+          "chars": 24997
+        },
+        {
+          "chunk_id": 46,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_046.txt",
+          "start_char": 1081224,
+          "end_char": 1105690,
+          "chars": 24466
+        },
+        {
+          "chunk_id": 47,
+          "file": "E:\\munich_handbook_research\\data\\sources\\worship_dead\\chunk_047.txt",
+          "start_char": 1105190,
+          "end_char": 1126710,
+          "chars": 21520
+        }
+      ]
+    },
+    {
+      "id": "aurora_consurgens",
+      "status": "scanned_images",
+      "path": "H:\\AuroraConsurgenszrichZentralbibliothekMs.Rh.172.pdf",
+      "description": "Aurora Consurgens (Zurich MS Rh.172) \u2014 scanned images, no extractable text",
+      "note": "This PDF contains scanned images only. OCR would be needed."
+    }
+  ]
+}

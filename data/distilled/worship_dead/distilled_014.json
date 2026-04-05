@@ -1,0 +1,280 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 14,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Buddha (Sakya Muni)",
+      "type": "deity",
+      "attributes": {
+        "also_known_as": "Supreme Buddha, Sublime Sun Buddha",
+        "role": "incarnation of Amitabha"
+      },
+      "page_ref": "152–153",
+      "raw_quote": "Sakya Muni...became incorporated into the system, and received many, if not all, the attributes of Amitabha..."
+    },
+    {
+      "name": "Amitabha",
+      "type": "deity",
+      "attributes": {
+        "also_known_as": "Omito Fo",
+        "role": "supreme Buddha, Heavenly Father, God of Gods"
+      },
+      "page_ref": "152",
+      "raw_quote": "May Buddha forgive my sins...originally to Amitabha, or Omito Fo, the supreme Buddha..."
+    },
+    {
+      "name": "Kwanyin (Guanyin)",
+      "type": "deity",
+      "attributes": {
+        "also_known_as": "Goddess of Mercy, Queen of Heaven",
+        "role": "embodying mercy and wisdom; feminine counterpart to Buddha’s solar principle"
+      },
+      "page_ref": "154–155",
+      "raw_quote": "She is called 'the goddess of mercy,' and this is the attribute especially applied to her in the Chinese liturgy..."
+    },
+    {
+      "name": "Bodhisattvas",
+      "type": "spirit",
+      "attributes": {
+        "role": "worshipped holy men after death; intermediaries"
+      },
+      "page_ref": "154",
+      "raw_quote": "...there are a multitude of Bodhisattwas, or holy men, whose images are also worshipped after their death."
+    },
+    {
+      "name": "Shing Moo",
+      "type": "deity",
+      "attributes": {
+        "also_known_as": "Holy Mother",
+        "role": "form of Kwanyin; depicted with child"
+      },
+      "page_ref": "154",
+      "raw_quote": "...the Holy Mother, 'Shing Moo,' who is probably a form of Kwanyin, is represented in the same way [as Kwanyin with child]."
+    },
+    {
+      "name": "Ancestor worship (Chinese)",
+      "type": "ritual",
+      "attributes": {
+        "timing": "15th day of 7th month",
+        "parallel_to": "festival of the dead on 17th day in other nations"
+      },
+      "page_ref": "154–155",
+      "raw_quote": "There is also a special day set apart for the worship of their ancestors by the Chinese, viz., the fifteenth day of their seventh month..."
+    },
+    {
+      "name": "Sraddha (Indian)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "repose of dead; costly service"
+      },
+      "page_ref": "155",
+      "raw_quote": "In India the service of the 'Sraddha' for the repose of the dead was equally costly."
+    },
+    {
+      "name": "Kungte (merit-making)",
+      "type": "ritual",
+      "attributes": {
+        "performed_by": "Buddhist priests",
+        "purpose": "shorten post-mortem suffering; redeem from guilt"
+      },
+      "page_ref": "155–156",
+      "raw_quote": "Similar services called 'Kungte' (merit) are performed by the Buddhist priests for the dead...redeem from guilt."
+    },
+    {
+      "name": "Shu tsui",
+      "type": "ritual_concept",
+      "attributes": {
+        "meaning": "redeem from guilt",
+        "purpose": "salvation of soul post-mortem"
+      },
+      "page_ref": "156",
+      "raw_quote": "This is expressed by the phrase 'Shu tsui,' 'redeem from guilt.'"
+    },
+    {
+      "name": "Opening to the light (consecration rite)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "animate idol with spirit of god or departed saint"
+      },
+      "page_ref": "156",
+      "raw_quote": "The Buddhist idols are also consecrated by a ceremony called 'opening to the light,' and directly the crystal eyes are put into an image the spirit of the god, or departed saint, is supposed to animate it."
+    },
+    {
+      "name": "Planchette apparatus",
+      "type": "tool",
+      "attributes": {
+        "used_for": "ghostly communications",
+        "location": "Buddhist temples in China"
+      },
+      "page_ref": "158",
+      "raw_quote": "In front of many statues of Buddha there is a table in China on which an apparatus similar to a planchette is used for ghostly communications."
+    },
+    {
+      "name": "Shramanas (ascetics)",
+      "type": "spiritual_practitioner",
+      "attributes": {
+        "etymology": "from 'shrama' = quieting of passions",
+        "goal": "supernatural powers (abhinna, iddhi)"
+      },
+      "page_ref": "159",
+      "raw_quote": "The name given to these ascetics was 'Shamanas,' or 'Shramanas,' a word meaning 'quieting of the passions'..."
+    },
+    {
+      "name": "Samadhi (trance)",
+      "type": "ritual_state",
+      "attributes": {
+        "description": "self-induced mesmeric trance; proof of holiness"
+      },
+      "page_ref": "159",
+      "raw_quote": "...there is the state of 'Samadhi,' or self-induced mesmeric trance, which is supposed to be a proof of superior holiness..."
+    },
+    {
+      "name": "Akasa (mesmeric fluid)",
+      "type": "concept",
+      "attributes": {
+        "synonym": "spirit of God in Eastern thought"
+      },
+      "page_ref": "159",
+      "raw_quote": "'Akasa,' the mesmeric fluid, and the spirit of God, are one in the East."
+    },
+    {
+      "name": "Bokte (Tibetan/Tartar ascetic)",
+      "type": "spiritual_practitioner",
+      "attributes": {
+        "notable_act": "self-mutilation without bleeding",
+        "location": "Great Lamaserais of Tartary and Thibet"
+      },
+      "page_ref": "159",
+      "raw_quote": "Messrs Hue and Gabet report that they saw a Bokte rip open his own stomach in the Great Court of the Lamaserai of Rache Tchurin..."
+    },
+    {
+      "name": "Chaldean incantations",
+      "type": "ritual",
+      "attributes": {
+        "language": "Accadian",
+        "purpose": "invoke beneficent spirits to defeat evil spirits, disease, misfortune"
+      },
+      "page_ref": "156–157",
+      "raw_quote": "...incantations and spells used by the Chaldean priesthood...expressed in the ancient Accadian language, which it was thought gave them greater efficacy."
+    },
+    {
+      "name": "Tanists (Buddhist sect)",
+      "type": "religious_order",
+      "attributes": {
+        "role": "write charms to drive out demons; cure the sick by magic"
+      },
+      "page_ref": "157",
+      "raw_quote": "The Tanist magician 'will undertake to drive out a demon from the body of a madman, and from a haunted house, to cure the sick by magic...'"
+    },
+    {
+      "name": "Telete (Greek)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "mysterious sacrifice for sins of living and dead"
+      },
+      "page_ref": "155",
+      "raw_quote": "...the greatest and most expensive sacrifice was the mysterious sacrifice called 'Telete' offered for the sins of the living and the dead."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Sakya Muni",
+      "to": "Amitabha",
+      "type": "incarnation_of"
+    },
+    {
+      "from": "Buddha (Sakya Muni)",
+      "to": "Sun worship",
+      "type": "associated_with"
+    },
+    {
+      "from": "Kwanyin",
+      "to": "mercy",
+      "type": "embodies"
+    },
+    {
+      "from": "Kwanyin",
+      "to": "wisdom",
+      "type": "embodies"
+    },
+    {
+      "from": "Bodhisattvas",
+      "to": "saint worship",
+      "type": "synonymous_with"
+    },
+    {
+      "from": "Shing Moo",
+      "to": "Kwanyin",
+      "type": "form_of"
+    },
+    {
+      "from": "ancestor worship (Chinese)",
+      "to": "Sraddha",
+      "type": "parallel_to"
+    },
+    {
+      "from": "Kungte",
+      "to": "repose of dead",
+      "type": "purpose"
+    },
+    {
+      "from": "Shu tsui",
+      "to": "Kungte",
+      "type": "expression_of"
+    },
+    {
+      "from": "opening to the light",
+      "to": "spirit animation",
+      "type": "achieves"
+    },
+    {
+      "from": "planchette apparatus",
+      "to": "ghostly communications",
+      "type": "used_for"
+    },
+    {
+      "from": "Shramanas",
+      "to": "asceticism",
+      "type": "practiced_by"
+    },
+    {
+      "from": "Samadhi",
+      "to": "mesmeric trance",
+      "type": "synonym_of"
+    },
+    {
+      "from": "Akasa",
+      "to": "spirit of God",
+      "type": "equated_with"
+    },
+    {
+      "from": "Bokte",
+      "to": "Shramanas",
+      "type": "member_of"
+    },
+    {
+      "from": "Chaldean incantations",
+      "to": "Accadian language",
+      "type": "uses_language"
+    },
+    {
+      "from": "Tanists",
+      "to": "magic and exorcism",
+      "type": "specializes_in"
+    },
+    {
+      "from": "Telete",
+      "to": "Greek sacrifice for dead",
+      "type": "example_of"
+    }
+  ],
+  "summary": "This chunk draws extensive comparative parallels between Buddhist death rituals, ancestor veneration, spirit communication, and magical practices with those of ancient Egypt, Chaldea, Greece, and Rome. It highlights the use of relics, consecration rites, merit-making (Kungte), planchette-based ghostly communications, and asceticism to attain supernatural powers (iddhi, abhinna). The text explicitly links Buddhist necromancy with Chaldean magic and emphasizes the role of spirits—especially deceased saints—in mediating magical efficacy.",
+  "key_passages": [
+    "The Buddhist temple...is the home of marvels; and in front of many statues of Buddha there is a table in China on which an apparatus similar to a planchette is used for ghostly communications. This planchette has been known for many hundred years.",
+    "'It was plainly,' says Mr Lillie, 'an elaborate apparatus to nullify the action of evil spirits by the aid of good spirits.'",
+    "A saint dies, and is buried in a tumulus, or under a tree, and under this tree, by-and-by, sits another holy man who periodically gets obsessed by the dead saint, and in that state exhibits the various marvels of clairvoyance, fortune-telling, etc.",
+    "'Shu tsui,' 'redeem from guilt'—this is expressed as the phrase used for the priests’ power to save souls post-mortem.",
+    "The name given to these ascetics was 'Shramanas,' or 'Shamanas,' a word meaning 'quieting of the passions,' the object of asceticism being the complete subjugation of every natural desire as a means to the attainment of these supernatural powers."
+  ]
+}

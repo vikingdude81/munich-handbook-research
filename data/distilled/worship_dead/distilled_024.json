@@ -1,0 +1,278 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 24,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Elioun (Hypsistus)",
+      "type": "spirit",
+      "attributes": {
+        "epithet": "the Most High",
+        "spouse": "Beruth"
+      },
+      "page_ref": "245",
+      "raw_quote": "\"Contemporary with these was one Elioun, called Hypsistus (that is, 'the Most High') and his wife 'Beruth\""
+    },
+    {
+      "name": "Beruth (Covenant)",
+      "type": "spirit",
+      "attributes": {
+        "meaning": "covenant",
+        "spouse": "Elioun"
+      },
+      "page_ref": "245",
+      "raw_quote": "\"his wife 'Beruth' (or Covenant)."
+    },
+    {
+      "name": "Epigeus (Autocthon, Ouranos)",
+      "type": "spirit",
+      "attributes": {
+        "also known as": "Ouranos (Heaven)",
+        "parents": "Elioun and Beruth",
+        "sibling": "Ge (Earth)"
+      },
+      "page_ref": "245",
+      "raw_quote": "\"By these were begotten Epigeus, or Autocthon, whom they afterwards called Ouranos (Heaven)…"
+    },
+    {
+      "name": "Ge (Terra)",
+      "type": "spirit",
+      "attributes": {
+        "also known as": "Earth",
+        "sibling-spouse": "Ouranos"
+      },
+      "page_ref": "245",
+      "raw_quote": "\"he had a sister of the same parents called Ge (Earth), and by reason of her beauty the earth was called by the same name.\""
+    },
+    {
+      "name": "Cronus (Saturn, elder)",
+      "type": "spirit",
+      "attributes": {
+        "also known as": "Cush",
+        "father of": "three sons: Cronus, Jupiter-Belus, Apollo",
+        "opponent of": "Ouranos/Noah"
+      },
+      "page_ref": "246-253",
+      "raw_quote": "\"the elder Cronus…is the same as Thoth, i.e., Cush.\""
+    },
+    {
+      "name": "Thoth (Hermes)",
+      "type": "spirit",
+      "attributes": {
+        "also known as": "Cush",
+        "role": "counsellor of Cronus",
+        "title": "Thrice Great Hermes"
+      },
+      "page_ref": "247-250",
+      "raw_quote": "\"Thoth was the counsellor of Tammuz and of Osiris, and both the latter are the same as the second Cronus, i.e., Nimrod…"
+    },
+    {
+      "name": "Nimrod",
+      "type": "spirit",
+      "attributes": {
+        "also known as": "second Cronus",
+        "son of": "Semiramis (Rhea) and Cush (Saturn)",
+        "foe of": "Noah/Ouranos"
+      },
+      "page_ref": "249-253",
+      "raw_quote": "\"Thoth…both the latter are the same as the second Cronus, i.e., Nimrod…"
+    },
+    {
+      "name": "Semiramis (Rhea)",
+      "type": "spirit",
+      "attributes": {
+        "also known as": "Anobret/Anobrot",
+        "spouse": "Cronus/Saturn/Cush",
+        "son": "Nimrod"
+      },
+      "page_ref": "250-253",
+      "raw_quote": "\"Now 'Anobret,' the wife of Cronus or Cush, must be Semiramis…"
+    },
+    {
+      "name": "Noah",
+      "type": "person",
+      "attributes": {
+        "also known as": "Ouranos (Heaven)",
+        "opponent of": "Cronus/Cush"
+      },
+      "page_ref": "246-253",
+      "raw_quote": "\"Noah would certainly have opposed…"
+    },
+    {
+      "name": "Tower of Babel",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "idolatrous worship",
+        "intended function": "communication with demon gods",
+        "meaning of name": "'gate of God' (Bab il)"
+      },
+      "page_ref": "247-248",
+      "raw_quote": "\"the building of such a tower as Babel could not have been undertaken while the Patriarch was supported by the bulk of his descendants…"
+    },
+    {
+      "name": "daimonia",
+      "type": "spirit",
+      "attributes": {
+        "role": "objects of worship",
+        "abode": "higher atmosphere"
+      },
+      "page_ref": "248",
+      "raw_quote": "\"the demon gods of Paganism…"
+    },
+    {
+      "name": "human sacrifice",
+      "type": "ritual",
+      "attributes": {
+        "originated with": "Cronus/Saturn",
+        "mode": "devouring children, burning offerings"
+      },
+      "page_ref": "249-251",
+      "raw_quote": "\"This, as already pointed out, seems to have been the origin of human sacrifice."
+    },
+    {
+      "name": "Baitulos (stone)",
+      "type": "tool",
+      "attributes": {
+        "also known as": "Terminus",
+        "used in": "substitution for Nimrod at sacrifice"
+      },
+      "page_ref": "251-252",
+      "raw_quote": "\"This stone was called in Grecian mythology 'Baitulos'…"
+    },
+    {
+      "name": "Zoroaster (Chaldean)",
+      "type": "spirit",
+      "attributes": {
+        "lineage": "Ham",
+        "practitioner of": "daemon worship and sacrifice"
+      },
+      "page_ref": "250",
+      "raw_quote": "\"The tyrant Zoroaster, of the line of Cham (Ham), was one of the founders of the Tower of Babel; he sacrificed innumerable victims to the daemons;"
+    },
+    {
+      "name": "Baal",
+      "type": "spirit",
+      "attributes": {
+        "receives": "human sacrifices",
+        "especially": "children"
+      },
+      "page_ref": "251",
+      "raw_quote": "\"This was also the origin of the human sacrifices to Baal and Moloch, to whom children were especially acceptable…"
+    },
+    {
+      "name": "Moloch",
+      "type": "spirit",
+      "attributes": {
+        "receives": "human sacrifices",
+        "especially": "children"
+      },
+      "page_ref": "251",
+      "raw_quote": "\"This was also the origin of the human sacrifices to Baal and Moloch, to whom children were especially acceptable…"
+    },
+    {
+      "name": "Osiris",
+      "type": "spirit",
+      "attributes": {
+        "also known as": "Nimrod",
+        "receives": "firstborn sacrifice"
+      },
+      "page_ref": "251",
+      "raw_quote": "\"the sacrifice of the first-born to the Sun god Osiris, that is, Nimrod, was one of the most notorious of the Egyptian rites."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Elioun",
+      "to": "Beruth",
+      "type": "spouse"
+    },
+    {
+      "from": "Elioun and Beruth",
+      "to": "Epigeus/Ouranos",
+      "type": "parent-child"
+    },
+    {
+      "from": "Epigeus/Ouranos",
+      "to": "Ge/Terra",
+      "type": "sibling-spouse"
+    },
+    {
+      "from": "Cronus/Saturn/Cush",
+      "to": "Thoth/Hermes",
+      "type": "identity-equivalence"
+    },
+    {
+      "from": "Cronus/Saturn/Cush",
+      "to": "Nimrod",
+      "type": "father-son"
+    },
+    {
+      "from": "Semiramis/Rhea/Anobret",
+      "to": "Nimrod",
+      "type": "mother-son"
+    },
+    {
+      "from": "Semiramis/Rhea/Anobret",
+      "to": "Cronus/Saturn/Cush",
+      "type": "spouse"
+    },
+    {
+      "from": "Noah",
+      "to": "Ouranos",
+      "type": "identity-equivalence"
+    },
+    {
+      "from": "Noah",
+      "to": "Cronus/Saturn/Cush",
+      "type": "adversarial-opposition"
+    },
+    {
+      "from": "Tower of Babel",
+      "to": "idolatrous worship",
+      "type": "purpose"
+    },
+    {
+      "from": "Tower of Babel",
+      "to": "daimonia",
+      "type": "communication-target"
+    },
+    {
+      "from": "Cronus/Saturn/Cush",
+      "to": "human sacrifice",
+      "type": "originator"
+    },
+    {
+      "from": "Baitulos/stone",
+      "to": "Nimrod",
+      "type": "substitution-in-sacrifice"
+    },
+    {
+      "from": "Zoroaster",
+      "to": "Tower of Babel",
+      "type": "founder"
+    },
+    {
+      "from": "Zoroaster",
+      "to": "daemons",
+      "type": "worshipper-of"
+    },
+    {
+      "from": "Baal and Moloch",
+      "to": "human sacrifice",
+      "type": "recipient"
+    },
+    {
+      "from": "Osiris/Nimrod",
+      "to": "firstborn sacrifice",
+      "type": "recipient"
+    }
+  ],
+  "summary": "This chunk presents a theological-historical reconstruction linking ancient Near Eastern mythologies (Sanchoniathon, Greek, Phoenician) to a proto-necromantic tradition rooted in Nephilim ancestry. It identifies Noah as Ouranos (Heaven), Cush/Saturn/Cronus as the rebellious tower-builder and originator of demon worship, and Nimrod as the second Cronus—linking these figures to spirit communication, human sacrifice, and ritual stone veneration. The Tower of Babel is framed as a necromantic attempt to contact demonic powers via 'high places' and occult knowledge. Semiramis (Rhea/Anobret) plays a key role in subverting paternal sacrifice through substitution with the Baitulos stone—a motif tied to later Roman stone worship.",
+  "key_passages": [
+    "\"the building of such a tower as Babel could not have been undertaken while the Patriarch was supported by the bulk of his descendants…",
+    "\"Thoth was the counsellor of Tammuz and of Osiris, and both the latter are the same as the second Cronus, i.e., Nimrod…",
+    "\"This, as already pointed out, seems to have been the origin of human sacrifice.",
+    "\"Now 'Anobret,' the wife of Cronus or Cush, must be Semiramis…",
+    "\"the worship of stones, which were the symbols of so many of the gods."
+  ]
+}

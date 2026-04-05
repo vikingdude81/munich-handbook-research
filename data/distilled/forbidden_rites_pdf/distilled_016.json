@@ -1,0 +1,198 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 16,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Master Peter of Ardene",
+      "type": "person",
+      "attributes": {
+        "role": "surgeon",
+        "origin": "Ireland/Paris"
+      },
+      "page_ref": "p.154",
+      "raw_quote": "a certain surgeon from my home country, and in fact even a native of my very parish, named Master Peter of Ardene"
+    },
+    {
+      "name": "Spanish magician",
+      "type": "person",
+      "attributes": {
+        "role": "magus"
+      },
+      "page_ref": "p.154",
+      "raw_quote": "a certain Spanish magician [magus] was on close terms with him"
+    },
+    {
+      "name": "Demon (unnamed)",
+      "type": "spirit",
+      "attributes": {
+        "role": "summoned spirit",
+        "behavior": "mournful, sighing"
+      },
+      "page_ref": "p.154–155",
+      "raw_quote": "the demon arrived, mourning and sighing, and with deep and plaintive sighs like a boy that has been beaten he said to them"
+    },
+    {
+      "name": "Virgin Mary (feast of the Assumption)",
+      "type": "spirit",
+      "attributes": {
+        "role": "celebrated saint",
+        "effect": "augments demonic punishment"
+      },
+      "page_ref": "p.154–155",
+      "raw_quote": "the angels in heaven are celebrating the feast of the Virgin Mary… their punishment is augmented"
+    },
+    {
+      "name": "Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim, Lodoni",
+      "type": "spirit",
+      "attributes": {
+        "role": "named demonic names used in invocations"
+      },
+      "page_ref": "p.156–157",
+      "raw_quote": "by these names, which cause you fear and terror: Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim and Lodoni"
+    },
+    {
+      "name": "Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor, Ym",
+      "type": "spirit",
+      "attributes": {
+        "role": "arms-bearing spirits"
+      },
+      "page_ref": "p.157",
+      "raw_quote": "O Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor and Ym, arms-bearing spirits"
+    },
+    {
+      "name": "Lylet",
+      "type": "spirit",
+      "attributes": {
+        "role": "named demon with unnamed companions"
+      },
+      "page_ref": "p.161",
+      "raw_quote": "the conjuration mentioned above refers first to ‘all you demons inscribed on this ring’ and then addresses them twice by name… addresses the demon Lylet along with her companions (socii), who remain unnamed"
+    },
+    {
+      "name": "Aa, Ely, Sother, Adonay, Cel, Sabaoth, Messyas, Alazabra, Osian",
+      "type": "spirit",
+      "attributes": {
+        "role": "sacred names of the Creator that bind demons"
+      },
+      "page_ref": "p.158",
+      "raw_quote": "these most precious and ineffable names of the Creator of all, by which you all are bound… Aa, Ely, Sother, Adonay, Cel, Sabaoth, Messyas, Alazabra and Osian"
+    },
+    {
+      "name": "Bismille araathe",
+      "type": "ritual",
+      "attributes": {
+        "origin": "pseudo-Arabic pseudo-Chaldean"
+      },
+      "page_ref": "p.159",
+      "raw_quote": "One notable exception is a conjuration given in pseudo-Chaldean (no. 18): Bismille araathe…. This formula actually derives from an Arabic protoype: Bismillahi ar-Rahma-n ar-Rahi-m"
+    },
+    {
+      "name": "Conjuration formulas (generic)",
+      "type": "ritual",
+      "attributes": {
+        "structure": [
+          "declaration",
+          "address",
+          "invocations",
+          "instruction"
+        ],
+        "function": "command spirits"
+      },
+      "page_ref": "p.156–160",
+      "raw_quote": "the four primary elements virtually always found in conjurations… declaration (‘I conjure you’), the address (‘thus-and-such spirits’), the series of invocations, and the instruction"
+    },
+    {
+      "name": "Circle",
+      "type": "ritual",
+      "attributes": {
+        "function": "containment and representation of spirit’s habitation"
+      },
+      "page_ref": "p.157–158",
+      "raw_quote": "by your dwelling place, of which this [circle] is the form"
+    },
+    {
+      "name": "Ring (magic)",
+      "type": "tool",
+      "attributes": {
+        "function": "inscribed with demonic names or spirits"
+      },
+      "page_ref": "p.156–157",
+      "raw_quote": "by this ring which is here… all you demons inscribed on this ring"
+    },
+    {
+      "name": "Child medium (puer/virgo iuvenis)",
+      "type": "person",
+      "attributes": {
+        "role": "medium in divinatory experiments"
+      },
+      "page_ref": "p.160–161",
+      "raw_quote": "the child conjure the spirit in the mother tongue… conjured to tell the truth… simply as puer or, more often, as ‘young virgin’ or ‘virginal youth’"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Spanish magician",
+      "to": "Demon (unnamed)",
+      "type": "summoner-to-summoned"
+    },
+    {
+      "from": "Master Peter of Ardene",
+      "to": "Spanish magician",
+      "type": "acquaintance"
+    },
+    {
+      "from": "Demon (unnamed)",
+      "to": "Virgin Mary (feast of the Assumption)",
+      "type": "subject-to-power-of"
+    },
+    {
+      "from": "Rator et al.",
+      "to": "Conjuration formulas",
+      "type": "used-in"
+    },
+    {
+      "from": "Vsyr et al.",
+      "to": "Conjuration no. 7",
+      "type": "addressed-in"
+    },
+    {
+      "from": "Lylet",
+      "to": "socii (companions)",
+      "type": "leader-of-unnamed-group"
+    },
+    {
+      "from": "Aa, Ely, etc.",
+      "to": "Sacred names of Creator",
+      "type": "instances-of"
+    },
+    {
+      "from": "Bismille araathe",
+      "to": "Quranic Basmala",
+      "type": "garbled-derivation-from"
+    },
+    {
+      "from": "Circle",
+      "to": "Dwelling place (spirit)",
+      "type": "symbolizes"
+    },
+    {
+      "from": "Ring",
+      "to": "Inscriptions (demons/names)",
+      "type": "bears"
+    },
+    {
+      "from": "Child medium",
+      "to": "Divinatory experiments",
+      "type": "used-in"
+    }
+  ],
+  "summary": "This chunk analyzes conjuration formulas in the Munich Handbook (CLM 849), focusing on their structure (declaration, address, invocations, instruction) and content. It includes examples of named spirits (e.g., Rator et al., Vsyr et al., Lylet), sacred names used to bind demons (Aa, Ely, etc.), ritual tools (circle, ring), and a story exemplifying spirit-summoning involving Master Peter of Ardene and a Spanish magician. It also notes linguistic features (e.g., pseudo-Chaldean/Biblical/Arabic hybrid phrases) and comparative material from Jewish magic.",
+  "key_passages": [
+    "The conjurations are so centrally important to necromantic experiments that the art of necromancy… can even be referred to simply as the conjuring of spirits.",
+    "Reduced to its generic essentials, the typical conjuration is in the form, ‘I conjure you, thus-and-such spirits, by the holy names, by all the saints of God, etc., to carry out my will.’",
+    "by these names, which cause you fear and terror: Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim and Lodoni",
+    "O Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor and Ym, arms-bearing spirits, whose role it is to bear arms and to deceive human senses wherever you wish",
+    "by these most precious and ineffable names of the Creator of all… Aa, Ely, Sother, Adonay, Cel, Sabaoth, Messyas, Alazabra and Osian"
+  ]
+}

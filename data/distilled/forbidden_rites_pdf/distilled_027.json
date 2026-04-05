@@ -1,0 +1,591 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 27,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "269n (fig. f.30r)",
+      "raw_quote": "tu Belial, tu Astaroth, tu Paymon..."
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "269n (fig. f.30r); 271a",
+      "raw_quote": "tu Astaroth... Astaroth is rendered in the text as Astarotht."
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "269n (fig. f.30r)",
+      "raw_quote": "tu Paymon..."
+    },
+    {
+      "name": "Asyel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "271a, 272a",
+      "raw_quote": "Asyel, Castiel, Lamisniel, Rabam, Erlain, [et] Belam..."
+    },
+    {
+      "name": "Castiel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "271a, 272a",
+      "raw_quote": "Asyel, Castiel, Lamisniel, Rabam, Erlain, [et] Belam..."
+    },
+    {
+      "name": "Lamisniel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "271a",
+      "raw_quote": "Asyel, Castiel, Lamisniel, Rabam, Erlain, [et] Belam..."
+    },
+    {
+      "name": "Rabam",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "271a",
+      "raw_quote": "Asyel, Castiel, Lamisniel, Rabam, Erlain, [et] Belam..."
+    },
+    {
+      "name": "Erlain",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "271a",
+      "raw_quote": "Asyel, Castiel, Lamisniel, Rabam, Erlain, [et] Belam..."
+    },
+    {
+      "name": "Belam",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "271a, 272a",
+      "raw_quote": "...[et] Belam... corrected in lower margin from Bolam."
+    },
+    {
+      "name": "Lamsiyel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "272a",
+      "raw_quote": "Asyel, Castiel, Lamsiyel, Rabam, Erlain, Elam, Belam..."
+    },
+    {
+      "name": "Elam",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "272a",
+      "raw_quote": "...Lamsiyel, Rabam, Erlain, Elam, Belam..."
+    },
+    {
+      "name": "Bartha",
+      "type": "spirit",
+      "attributes": {
+        "title": "rex nubium"
+      },
+      "page_ref": "342v–35r",
+      "raw_quote": "...voca regem nubium, nomine Bartha..."
+    },
+    {
+      "name": "Saltim",
+      "type": "spirit",
+      "attributes": {
+        "title": "duces... qui habent potestatem super nubibus"
+      },
+      "page_ref": "342v–35r",
+      "raw_quote": "...scilicet Saltim, Balthim, Gehim..."
+    },
+    {
+      "name": "Balthim",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "342v–35r",
+      "raw_quote": "...Saltim, Balthim, Gehim..."
+    },
+    {
+      "name": "Gehim",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "342v–35r",
+      "raw_quote": "...Saltim, Balthim, Gehim..."
+    },
+    {
+      "name": "Galtim",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "Rex Bartha, et duces Saltim, Baltim, [et] Galtim..."
+    },
+    {
+      "name": "Mastiesel",
+      "type": "spirit",
+      "attributes": {
+        "category": "angelorum nomina altissima"
+      },
+      "page_ref": "351r",
+      "raw_quote": "... Mastiesel, Emedel, Emethel, Sangel..."
+    },
+    {
+      "name": "Floron",
+      "type": "spirit",
+      "attributes": {
+        "role": "spiritus predictus; dominus speculi"
+      },
+      "page_ref": "37r–39v",
+      "raw_quote": "O Floron, in speculo sicut solitus es apparere citissime respondeas."
+    },
+    {
+      "name": "Tuditha",
+      "type": "spirit",
+      "attributes": {
+        "context": "written on host with bat's blood"
+      },
+      "page_ref": "36v",
+      "raw_quote": "Tuditha, Stelpha, Alpha, Draco, Mariodo, Ypation."
+    },
+    {
+      "name": "Stelpha",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "36v",
+      "raw_quote": "...Stelpha..."
+    },
+    {
+      "name": "Alpha",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "36v",
+      "raw_quote": "...Alpha, Draco..."
+    },
+    {
+      "name": "Draco",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "36v",
+      "raw_quote": "...Draco, Mariodo..."
+    },
+    {
+      "name": "Mariodo",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "36v",
+      "raw_quote": "...Mariodo, Ypation."
+    },
+    {
+      "name": "Ypation",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "36v",
+      "raw_quote": "...Ypation."
+    },
+    {
+      "name": "Semegibetelye",
+      "type": "spirit",
+      "attributes": {
+        "used_for": "flying throne passengers"
+      },
+      "page_ref": "351r",
+      "raw_quote": "Hec nomina dices, scilicet Semegibetelye..."
+    },
+    {
+      "name": "Sabolaay",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Sabolaay, Saroten..."
+    },
+    {
+      "name": "Saroten",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Saroten, Saramey..."
+    },
+    {
+      "name": "Saramey",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Saramey, Cerbelli..."
+    },
+    {
+      "name": "Cerbelli",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Cerbelli, Tyaurax."
+    },
+    {
+      "name": "Tyaurax",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Tyaurax."
+    },
+    {
+      "name": "Flegely",
+      "type": "spirit",
+      "attributes": {
+        "used_for": "protection"
+      },
+      "page_ref": "352r–v",
+      "raw_quote": "...scilicet Flegely, Stygeloy, Melyon..."
+    },
+    {
+      "name": "Stygeloy",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r–v",
+      "raw_quote": "...Flegely, Stygeloy, Melyon..."
+    },
+    {
+      "name": "Melyon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r–v",
+      "raw_quote": "...Flegely, Stygeloy, Melyon..."
+    },
+    {
+      "name": "Babaia",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r",
+      "raw_quote": "...Melyon, Babaia..."
+    },
+    {
+      "name": "Regale",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r–v",
+      "raw_quote": "...Babaia, Regale, Setgaboy..."
+    },
+    {
+      "name": "Setgaboy",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r",
+      "raw_quote": "...Regale, Setgaboy, Guitipabey."
+    },
+    {
+      "name": "Guitipabey",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r–v",
+      "raw_quote": "...Setgaboy, Guitipabey."
+    },
+    {
+      "name": "Sebegyol",
+      "type": "spirit",
+      "attributes": {
+        "used_for": "protection from west"
+      },
+      "page_ref": "352r",
+      "raw_quote": "...scilicet Sebegyol, Sebely..."
+    },
+    {
+      "name": "Sebely",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r",
+      "raw_quote": "...Sebegyol, Sebely, Serbaton..."
+    },
+    {
+      "name": "Serbaton",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r",
+      "raw_quote": "...Sebely, Serbaton, Tymelyy..."
+    },
+    {
+      "name": "Tymelyy",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r",
+      "raw_quote": "...Serbaton, Tymelyy, Gerotal..."
+    },
+    {
+      "name": "Gerotal",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r",
+      "raw_quote": "...Tymelyy, Gerotal, Tyboel..."
+    },
+    {
+      "name": "Tyboel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r",
+      "raw_quote": "...Gerotal, Tyboel, Galtym."
+    },
+    {
+      "name": "Galtym",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352r",
+      "raw_quote": "...Tyboel, Galtym."
+    },
+    {
+      "name": "Alrogen",
+      "type": "spirit",
+      "attributes": {
+        "used_for": "dispelling terrors"
+      },
+      "page_ref": "352v",
+      "raw_quote": "...per hec nomina, scilicet Alrogen..."
+    },
+    {
+      "name": "Segeuratetho",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352v",
+      "raw_quote": "...Alrogen, Segeuratetho..."
+    },
+    {
+      "name": "Spitalote",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352v",
+      "raw_quote": "...Segeuratetho, Spitalote..."
+    },
+    {
+      "name": "Frigonay",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352v",
+      "raw_quote": "...Spitalote, Frigonay..."
+    },
+    {
+      "name": "Gebelsey",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "352v",
+      "raw_quote": "...Frigonay, Gebelsey..."
+    },
+    {
+      "name": "Latranoy",
+      "type": "spirit",
+      "attributes": {
+        "used_in": "Floron mirror figure"
+      },
+      "page_ref": "37r fig.",
+      "raw_quote": "Outer band has the names Latranoy, Iszarin, Bicol..."
+    },
+    {
+      "name": "Iszarin",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Latranoy, Iszarin, Bicol..."
+    },
+    {
+      "name": "Bicol",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Iszarin, Bicol, Danmals..."
+    },
+    {
+      "name": "Danmals",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Bicol, Danmals, Gromon..."
+    },
+    {
+      "name": "Gromon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Danmals, Gromon, Zara..."
+    },
+    {
+      "name": "Zara",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Gromon, Zara, Ralkal..."
+    },
+    {
+      "name": "Ralkal",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Zara, Ralkal, Sigtonia..."
+    },
+    {
+      "name": "Sigtonia",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Ralkal, Sigtonia, Samah..."
+    },
+    {
+      "name": "Samah",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Sigtonia, Samah, Meneglasar."
+    },
+    {
+      "name": "Meneglasar",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37r fig.",
+      "raw_quote": "...Samah, Meneglasar."
+    },
+    {
+      "name": "Tubairum",
+      "type": "spirit",
+      "attributes": {
+        "category": "angelorum nomina"
+      },
+      "page_ref": "351r",
+      "raw_quote": "...Gerbon, Tubairum..."
+    },
+    {
+      "name": "Ficary",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Tubairum, Ficary..."
+    },
+    {
+      "name": "Gysay",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Ficary, Gysay..."
+    },
+    {
+      "name": "Austeron",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Gysay, Austeron..."
+    },
+    {
+      "name": "Boreal",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Austeron, Boreal..."
+    },
+    {
+      "name": "Gemeloy",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Boreal, Gemeloy..."
+    },
+    {
+      "name": "Garoen",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Gemeloy, Garoen..."
+    },
+    {
+      "name": "Sypro",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Garoen, Sypro..."
+    },
+    {
+      "name": "Ebely",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Sypro, Ebely..."
+    },
+    {
+      "name": "Aurora",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Ebely, Aurora..."
+    },
+    {
+      "name": "Subseloy",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Aurora, Subseloy..."
+    },
+    {
+      "name": "Siego",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Subseloy, Siego..."
+    },
+    {
+      "name": "Afonei",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Siego, Afonei..."
+    },
+    {
+      "name": "Zephirim",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Afonei, et Zephirim..."
+    },
+    {
+      "name": "Boreoth",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Zephirim, Boreoth..."
+    },
+    {
+      "name": "Beolthoray",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Boreoth, Beolthoray..."
+    },
+    {
+      "name": "Aforax",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Beolthoray, Aforax..."
+    },
+    {
+      "name": "Aquelyo",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Aforax, Aquelyo..."
+    },
+    {
+      "name": "Eureal",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Aquelyo, Eureal..."
+    },
+    {
+      "name": "Fauelyon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "351r",
+      "raw_quote": "...Eureal, Fauelyon."
+    },
+    {
+      "name": "Agla",
+      "type": "concept",
+      "attributes": {
+        "used_in": "sleep divination circle"
+      },
+      "page_ref": "36r fig.",
+      "raw_quote": "...Agla / Michael virtus dei..."
+    }
+  ]
+}

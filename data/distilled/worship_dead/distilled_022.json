@@ -1,0 +1,222 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 22,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Noah",
+      "type": "person",
+      "attributes": {
+        "role": "antediluvian patriarch",
+        "associated_with": "preservation of knowledge"
+      },
+      "page_ref": "p. 227",
+      "raw_quote": "the preservation of this knowledge thus attributed to Noah is characteristic of the methods of Paganism..."
+    },
+    {
+      "name": "Seth",
+      "type": "person",
+      "attributes": {
+        "synonymy": "with Shem"
+      },
+      "page_ref": "p. 227",
+      "raw_quote": "it may be remarked that the name Seth is synonymous with Shem..."
+    },
+    {
+      "name": "Cush",
+      "type": "person",
+      "attributes": {
+        "role": "originator of postdiluvian idolatry",
+        "associated_with": "spirit communication"
+      },
+      "page_ref": "p. 227",
+      "raw_quote": "it is very probable that Cush... may... have received instructions from the spirits he invoked as gods..."
+    },
+    {
+      "name": "Nephilim",
+      "type": "spirit",
+      "attributes": {
+        "definition": "Fallen Ones",
+        "nature": "fallen angels",
+        "role": "interacted with humans pre- and postdiluvianly"
+      },
+      "page_ref": "pp. 231–234",
+      "raw_quote": "The term 'Sons of God'... is only used in the Old Testament to express the angels... The original word translated 'giants' is not 'giants' but 'Hephilim,' meaning 'Fallen Ones'"
+    },
+    {
+      "name": "Chrysor",
+      "type": "spirit",
+      "attributes": {
+        "role": "first of the Pagan gods",
+        "associated_with": "magic and spirit communication"
+      },
+      "page_ref": "p. 234",
+      "raw_quote": "Chrysor, who was worshipped after his death, was seemingly the first of the Pagan gods"
+    },
+    {
+      "name": "Oannes",
+      "type": "spirit|deity",
+      "attributes": {
+        "identity": "daemon/god",
+        "form": "fish-like",
+        "synonymy": "Dagon"
+      },
+      "page_ref": "pp. 234–235",
+      "raw_quote": "Berosus speaks of Oannes and the Annedoti as 'daemons'... Oannes was actually worshipped in after ages as one of the chief gods of Paganism under his own name, Oannes, or as Dagon"
+    },
+    {
+      "name": "Annedoti",
+      "type": "spirit",
+      "attributes": {
+        "role": "daemon teachers",
+        "associated_with": "Oannes"
+      },
+      "page_ref": "p. 234",
+      "raw_quote": "Berosus speaks of Oannes and the Annedoti as 'daemons'..."
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "role": "prince of demons",
+        "associated_with": "deception, serpent form"
+      },
+      "page_ref": "p. 235",
+      "raw_quote": "Satan is said to be him who 'deceiveth the whole world'... Ha Nāhash—'the Serpent'"
+    },
+    {
+      "name": "Ghemschid / Djemschid",
+      "type": "person|spirit",
+      "attributes": {
+        "identity": "identified with Nimrod and Cush",
+        "role": "king who married daughter of a demon"
+      },
+      "page_ref": "p. 233",
+      "raw_quote": "The Persian account says that the father of Ghemschid founded the cities of Babylon and Nineveh... This is clearly Babylon, the beginning of the kingdom of Nimrod"
+    },
+    {
+      "name": "Belus / Bel",
+      "type": "deity",
+      "attributes": {
+        "role": "supreme god of Babylon",
+        "associated_with": "ordering of Flood"
+      },
+      "page_ref": "p. 228",
+      "raw_quote": "Bel, who was the first king in Babylon many years after that event, is represented as arranging the circumstances of the Flood"
+    },
+    {
+      "name": "Osiris",
+      "type": "deity",
+      "attributes": {
+        "role": "god of Egyptians",
+        "associated_with": "postdiluvian deification"
+      },
+      "page_ref": "p. 228",
+      "raw_quote": "Osiris, the god of the Egyptians... their true relations to their human originals is sometimes misplaced"
+    },
+    {
+      "name": "Jupiter",
+      "type": "deity",
+      "attributes": {
+        "role": "supreme god of Greeks/Romans",
+        "associated_with": "Flood narratives"
+      },
+      "page_ref": "p. 228",
+      "raw_quote": "the Jupiter of the Greeks and Romans... are by these writers entirely removed from the events of human history"
+    },
+    {
+      "name": "Phlegyae",
+      "type": "spirit|race",
+      "attributes": {
+        "origin": "descended from Mars and Chrysa",
+        "association": "antediluvian wickedness"
+      },
+      "page_ref": "p. 231",
+      "raw_quote": "The impious Phlegyae were said by the Greeks to be descended from Mars and Chrysa"
+    },
+    {
+      "name": "Hermes / Hephsestus",
+      "type": "deity|figure",
+      "attributes": {
+        "role": "first teacher of idolatry"
+      },
+      "page_ref": "p. 228",
+      "raw_quote": "the tradition of the first Hermes, or Hephsestus... implies that the worship of the gods... first originated in the antediluvian world"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Cush",
+      "to": "Nephilim",
+      "type": "spirit_communication"
+    },
+    {
+      "from": "Chrysor",
+      "to": "Pagan_gods",
+      "type": "originator_of"
+    },
+    {
+      "from": "Oannes",
+      "to": "Dagon",
+      "type": "synonym_of"
+    },
+    {
+      "from": "Satan",
+      "to": "Nephilim",
+      "type": "prince_over"
+    },
+    {
+      "from": "Ghemschid",
+      "to": "Nimrod",
+      "type": "identified_with"
+    },
+    {
+      "from": "Ghemschid",
+      "to": "Cush",
+      "type": "identified_with"
+    },
+    {
+      "from": "Belus",
+      "to": "Noah",
+      "type": "mythologically_identified_with"
+    },
+    {
+      "from": "Osiris",
+      "to": "Noah",
+      "type": "mythologically_identified_with"
+    },
+    {
+      "from": "Jupiter",
+      "to": "Noah",
+      "type": "mythologically_identified_with"
+    },
+    {
+      "from": "Nephilim",
+      "to": "Giants",
+      "type": "produced"
+    },
+    {
+      "from": "Sons_of_God",
+      "to": "Nephilim",
+      "type": "synonymous_with"
+    },
+    {
+      "from": "Phlegyae",
+      "to": "Chrysor",
+      "type": "connected_via_tradition"
+    },
+    {
+      "from": "Oannes",
+      "to": "Annedoti",
+      "type": "leader_of"
+    }
+  ],
+  "summary": "This chunk explores the antediluvian and postdiluvian origins of spirit communication, linking biblical Nephilim (Fallen Ones) to pagan demon worship. It argues that Cush/Nimrod revived pre-Flood magical traditions involving spirit invocation, and identifies Oannes/Dagon and Chrysor as Nephilim or demonic beings who taught humans necromantic arts. The text connects Noahic tradition with later mythologies, suggesting pagan deities were deified postdiluvian spirits or demon-human hybrids.",
+  "key_passages": [
+    "it is very probable that Cush, the originator of postdiluvian idolatry, may... have received instructions from the spirits he invoked as gods, as to the means of communicating with them and enlisting their powers on his behalf; or, in other words, the principles of magic and sorcery",
+    "The original word translated 'giants' is not 'giants' but 'Hephilim,' meaning 'Fallen Ones'",
+    "the intercourse of these 'fallen ones' with the human race in the past... was the general belief of the Jews and the early Christian Church",
+    "Berosus speaks of Oannes and the Annedoti as 'daemons' which is but another name for the Pagan gods",
+    "Satan is said to be him who 'deceiveth the whole world' (Rev. xii. 9), and the chief of these Annedoti... may well have been Satan himself"
+  ]
+}

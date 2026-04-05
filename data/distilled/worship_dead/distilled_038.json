@@ -1,0 +1,315 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 38,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "idol",
+      "type": "ritual",
+      "attributes": {
+        "function": "habitation for spirits/gods",
+        "consecration_method": "by priestly adept"
+      },
+      "page_ref": "340",
+      "raw_quote": "which, when consecrated by the priestly adept who had already established communication with them, might become the special abode of some spirit"
+    },
+    {
+      "name": "spirit communication",
+      "type": "concept",
+      "attributes": {
+        "difficulty": "difficult to establish",
+        "post-establishment effect": "spirits reluctant to surrender power"
+      },
+      "page_ref": "340",
+      "raw_quote": "It is, as before remarked, a difficult thing to establish communication with the spirits, but when once established, 'place is given to them' (Eph. iv. 27), and they are loth to surrender the power"
+    },
+    {
+      "name": "evil spirit",
+      "type": "spirit",
+      "attributes": {
+        "possession_mechanism": "enters into exceptionally wicked persons",
+        "location_effect": "makes place 'accursed' or haunted"
+      },
+      "page_ref": "340",
+      "raw_quote": "when men give themselves over to such exceptional wickedness, it is implied... that an evil spirit enters into them and possesses them"
+    },
+    {
+      "name": "image worship development",
+      "type": "ritual",
+      "attributes": {
+        "stages": [
+          "symbol",
+          "sacred object",
+          "manifestation of god"
+        ]
+      },
+      "page_ref": "341",
+      "raw_quote": "The development of image worship seems to have been gradual... at first... regarded only as symbols... then sacred, and eventually as special forms or manifestations"
+    },
+    {
+      "name": "Babylonian king",
+      "type": "person",
+      "attributes": {
+        "worshipped_as": "god under animal forms"
+      },
+      "page_ref": "341",
+      "raw_quote": "the worship of the dead Babylonian king under similar forms"
+    },
+    {
+      "name": "Belus (Marduk)",
+      "type": "deity",
+      "attributes": {
+        "symbol": "golden image of Sun",
+        "location": "temple at Babylon"
+      },
+      "page_ref": "342",
+      "raw_quote": "There was a golden image of the Sun in the temple of Belus at Babylon"
+    },
+    {
+      "name": "Cuzco deity (Sun god)",
+      "type": "deity",
+      "attributes": {
+        "symbol": "golden image",
+        "location": "temple of Cuzco, Peru"
+      },
+      "page_ref": "342",
+      "raw_quote": "a similar image of gold was found in the temple of Cuzco, in Peru"
+    },
+    {
+      "name": "Baal (Sun god)",
+      "attributes": {
+        "symbol": "brilliant metal reflectors or 'Sun Images'",
+        "location": "altars"
+      },
+      "page_ref": "342",
+      "raw_quote": "Brilliant metal reflectors, or 'Sun Images,' were placed over the altars of Baal, the Sun god of the Canaanites"
+    },
+    {
+      "name": "Osiris",
+      "type": "deity",
+      "attributes": {
+        "association": "dead in Egypt",
+        "ritual_practice": "dead spoken of as 'in Osiris'"
+      },
+      "page_ref": "342",
+      "raw_quote": "the dead were always spoken of as 'in Osiris'"
+    },
+    {
+      "name": "tonsure",
+      "type": "ritual",
+      "attributes": {
+        "origin": "solar symbolism",
+        "practiced_by": "Arabians, priests of Osiris, Pagan Romans, Buddhist monks"
+      },
+      "page_ref": "342-343",
+      "raw_quote": "The ceremony of tonsure... was an old practice of the priests of Mithra, who in their tonsures imitated the solar disk"
+    },
+    {
+      "name": "nimbus (aureola)",
+      "type": "ritual",
+      "attributes": {
+        "meaning": "divinity",
+        "applied_to": "gods, demi-gods, Roman emperors"
+      },
+      "page_ref": "343",
+      "raw_quote": "The nimbus was also commonly placed... round those of the Roman Emperors, to whom, after death, divine honours were paid"
+    },
+    {
+      "name": "Sacred Heart",
+      "type": "ritual",
+      "attributes": {
+        "symbolism": "Babylonian 'Bel' (Chaldee: 'Bel' = heart)",
+        "worshipped_as": "distinctive symbol of god"
+      },
+      "page_ref": "344",
+      "raw_quote": "the word for 'heart' was >v 'Bel', and on the principle of using words with a double meaning... the heart became thus a symbol of the god"
+    },
+    {
+      "name": "bulla",
+      "type": "tool",
+      "attributes": {
+        "shape": "heart-shaped",
+        "material": "gold",
+        "function": "especial symbol of the god"
+      },
+      "page_ref": "344",
+      "raw_quote": "The Roman youth wore a golden ornament suspended from their necks, called the 'bulla'... heart-shaped... an especial symbol of the god"
+    },
+    {
+      "name": "Dionysius Eleuthereus (Bacchus)",
+      "type": "deity",
+      "attributes": {
+        "myth": "torn to pieces, heart preserved by Minerva, regenerated"
+      },
+      "page_ref": "344",
+      "raw_quote": "When he was torn to pieces, his heart was preserved by Minerva, and 'by a new regeneration again emerged... afterwards filled up the number of the gods'"
+    },
+    {
+      "name": "human sacrifice",
+      "type": "ritual",
+      "attributes": {
+        "victims": "captives, slaves, criminals",
+        "gods": "Kronos, Saturn, Baal, Moloch",
+        "method": "crucifixion, burning"
+      },
+      "page_ref": "345-346",
+      "raw_quote": "These victims... were usually confined to captives taken in war, slaves and criminals"
+    },
+    {
+      "name": "cross as altar",
+      "type": "ritual",
+      "attributes": {
+        "symbolism": "Sun god",
+        "sacrificial_death": "symbolic of giving over to pagan god"
+      },
+      "page_ref": "346",
+      "raw_quote": "death on the cross... was a sacrificial death, the cross being the altar of the god"
+    },
+    {
+      "name": "goddess (Mylitta/Ceres/Isis)",
+      "type": "deity",
+      "attributes": {
+        "role": "Mediatrix",
+        "sacrifice_type": "unbloody (round cakes)",
+        "alternative_names": "Mylitta, Ceres, Isis"
+      },
+      "page_ref": "346-347",
+      "raw_quote": "She was known as 'Mylitta,' 'The Mediatrix,' in Babylon... There were no bloody sacrifices allowed on her altars"
+    },
+    {
+      "name": "round cake (Popana/Mola)",
+      "type": "ritual",
+      "attributes": {
+        "symbolism": "Sun, seed, son",
+        "used_in": "Ceres/Osiris worship",
+        "also_offered_to": "Queen of Heaven"
+      },
+      "page_ref": "346-347",
+      "raw_quote": "The thin round cake... occurs on all altars... symbol... of the Sun, and of his Son"
+    },
+    {
+      "name": "Sraddha",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "repose of the dead",
+        "practices": "donations of cattle, land, gold, silver"
+      },
+      "page_ref": "349",
+      "raw_quote": "In India, in the services of 'The Sraddha' for the repose of the dead, it is urged that 'donations of cattle, land, gold and silver and other things' should be given"
+    },
+    {
+      "name": "Gurgumi",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "prayers for the dead",
+        "cost": "very expensive"
+      },
+      "page_ref": "349",
+      "raw_quote": "'The Gurgumi, or prayers for the dead, are very expensive'"
+    },
+    {
+      "name": "Telete (mysterious sacrifice)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "for sins of living and dead",
+        "source": "Plato"
+      },
+      "page_ref": "348-349",
+      "raw_quote": "This, according to Plato... was offered for the sins of the living and dead, and was supposed to free them from all the evils"
+    },
+    {
+      "name": "Purgatory",
+      "type": "concept",
+      "attributes": {
+        "origin": "post-mortem punishment idea",
+        "function": "allowed for posthumous intercession via sacrifices"
+      },
+      "page_ref": "347-348",
+      "raw_quote": "The supposed existence of a Purgatory suggested... the possibility of appealing the anger of the gods by costly sacrifices made by friends"
+    },
+    {
+      "name": "self-mortification (penances)",
+      "type": "ritual",
+      "attributes": {
+        "practiced_by": "Egyptians at Isis feast, Callimachus' sailors, Baal priests, Corybantes, Fakirs, Sunayases"
+      },
+      "page_ref": "349-350",
+      "raw_quote": "The Egyptians... scourged themselves... The priests of Baal... cut themselves... with lancets until the blood gushed out"
+    },
+    {
+      "name": "holy water",
+      "type": "ritual",
+      "attributes": {
+        "symbolism": "purification, regeneration (Deluge allusion)",
+        "uses": "baptism, sprinkling dead, purifying houses/temples"
+      },
+      "page_ref": "344-345",
+      "raw_quote": "Holy water was also used to sprinkle the dead, and to purify houses and temples"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "idol",
+      "to": "spirit communication",
+      "type": "medium_of"
+    },
+    {
+      "from": "image",
+      "to": "dwelling_place",
+      "type": "becomes"
+    },
+    {
+      "from": "evil spirit",
+      "to": "wicked person",
+      "type": "possesses"
+    },
+    {
+      "from": "human sacrifice",
+      "to": "appeasement_of_gods",
+      "type": "means_of"
+    },
+    {
+      "from": "round cake",
+      "to": "unbloody_sacrifice",
+      "type": "form_of"
+    },
+    {
+      "from": "Sacred Heart",
+      "to": "Bel (deity)",
+      "type": "symbolizes"
+    },
+    {
+      "from": "tonsure",
+      "to": "solar_disk",
+      "type": "imitates"
+    },
+    {
+      "from": "nimbus",
+      "to": "divinity",
+      "type": "signifies"
+    },
+    {
+      "from": "Sraddha",
+      "to": "donations",
+      "type": "requires"
+    },
+    {
+      "from": "Telete",
+      "to": "sins_of_living_and_dead",
+      "type": "addresses"
+    },
+    {
+      "from": "self-mortification",
+      "to": "expiation_of_sin",
+      "type": "means_of"
+    }
+  ],
+  "summary": "This chunk explores the theological and ritual foundations of image worship, spirit habitation, and ancestor/ghost veneration in ancient pagan traditions. It traces how objects (idols, images, symbols) were believed to become inhabited by spirits or deities through consecration, and discusses practices such as human sacrifice, self-mortification, holy water rites, and funeral offerings—including the round cake sacrifices to goddesses like Ceres/Isis. The text links these to later Christian adaptations and draws on classical sources (Virgil, Plato), biblical references, and comparative ethnography (India, Mexico, Babylon). While not explicitly about medieval European necromancy, it provides background for later magical traditions by detailing ancient spirit-invocation mechanics.",
+  "key_passages": [
+    "which, when consecrated by the priestly adept who had already established communication with them, might become the special abode of some spirit",
+    "It is, as before remarked, a difficult thing to establish communication with the spirits, but when once established, 'place is given to them' (Eph. iv. 27), and they are loth to surrender the power",
+    "The development of image worship seems to have been gradual... at first... regarded only as symbols... then sacred, and eventually as special forms or manifestations",
+    "There were no bloody sacrifices allowed on her altars... and the usual offering was a round cake, the symbol of the Sun",
+    "In Egypt... the priests induced the people to expend large sums on the celebration of funeral rites. For, besides the embalming process, the tomb itself was purchased at an immense expense"
+  ]
+}

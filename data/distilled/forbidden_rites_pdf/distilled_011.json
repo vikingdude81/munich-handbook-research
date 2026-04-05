@@ -1,0 +1,303 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 11,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "role": "principal prince",
+        "function": "helper in image magic"
+      },
+      "page_ref": "p. 108",
+      "raw_quote": "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\""
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper in image magic"
+      },
+      "page_ref": "p. 108",
+      "raw_quote": "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\""
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper in image magic"
+      },
+      "page_ref": "p. 108",
+      "raw_quote": "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\""
+    },
+    {
+      "name": "Bel",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal spirit invoked in bone magic"
+      },
+      "page_ref": "pp. 112–113",
+      "raw_quote": "\"write the names of the ‘infernal spirits’ Bel and Ebal on a rib...\""
+    },
+    {
+      "name": "Ebal",
+      "type": "spirit",
+      "attributes": {
+        "role": "infernal spirit invoked in bone magic"
+      },
+      "page_ref": "p. 112–113",
+      "raw_quote": "\"write the names of the ‘infernal spirits’ Bel and Ebal on a rib...\""
+    },
+    {
+      "name": "Asyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjuration spirit in bone ritual"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Castiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjuration spirit in bone ritual"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Lamisniel",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjuration spirit in bone ritual"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Rabam",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjuration spirit in bone ritual"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Erlain",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjuration spirit in bone ritual"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\""
+    },
+    {
+      "name": "Belam",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjuration spirit in bone ritual"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam... I conjure you by the true God\""
+    },
+    {
+      "name": "Olam",
+      "type": "spirit",
+      "attributes": {
+        "role": "listed in shield diagram"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"Horizontal bands bear the names Asyel, Castyel, Lamsiyel, Rabam, Erlain, Olam and Belam.\""
+    },
+    {
+      "name": "filocapta",
+      "type": "concept",
+      "attributes": {
+        "meaning": "bound by love",
+        "context": "erotic magic"
+      },
+      "page_ref": "p. 108",
+      "raw_quote": "\"the reference to the woman as filocapta, bound by love...\""
+    },
+    {
+      "name": "Munich Handbook (CLM 849)",
+      "type": "ritual",
+      "attributes": {
+        "source": "primary manuscript"
+      },
+      "page_ref": "p. 107–113 passim",
+      "raw_quote": "\"the experiment is referred to as a kind of game or spectacle, a ludus...\""
+    },
+    {
+      "name": "On the Secret Arts of the Imaginary Art",
+      "type": "text",
+      "attributes": {
+        "source": "referenced source text"
+      },
+      "page_ref": "p. 109",
+      "raw_quote": "\"this experiment was taken [from the book] On the Secret Arts of the Imaginary Art, [from the book] On the Flowers of All Experiments, etc.\""
+    },
+    {
+      "name": "On the Flowers of All Experiments",
+      "type": "text",
+      "attributes": {
+        "role": "source text"
+      },
+      "page_ref": "p. 109",
+      "raw_quote": "\"this experiment was taken [from the book] On the Secret Arts of the Imaginary Art, [from the book] On the Flowers of All Experiments, etc.\""
+    },
+    {
+      "name": "virgin wax",
+      "type": "ingredient",
+      "attributes": {
+        "preparation": "rendered virginal by art"
+      },
+      "page_ref": "p. 108",
+      "raw_quote": "\"Take virgin wax, rendered virginal by art [ceram virgineam, arte virginizatam]...\""
+    },
+    {
+      "name": "white-handled knife",
+      "type": "tool",
+      "attributes": {
+        "purpose": "for image-making"
+      },
+      "page_ref": "p. 108",
+      "raw_quote": "\"you should have with you a knife with a white handle made for this purpose.\""
+    },
+    {
+      "name": "fruit-bearing tree",
+      "type": "location",
+      "attributes": {
+        "ritual function": "site of circle and conjuration"
+      },
+      "page_ref": "p. 108–109",
+      "raw_quote": "\"go to a fruit-bearing tree, and the master should make a circle.\""
+    },
+    {
+      "name": "burning coals in pot",
+      "type": "tool",
+      "attributes": {
+        "function": "for wax image formation"
+      },
+      "page_ref": "p. 108",
+      "raw_quote": "\"from this wax make an image over burning coals placed in a pot, without smoke.\""
+    },
+    {
+      "name": "nine needles",
+      "type": "tool",
+      "attributes": {
+        "material": "made by craftsman; one each for head, shoulders, heart, navel, thigh, sides, anus"
+      },
+      "page_ref": "p. 108–109",
+      "raw_quote": "\"fix the needles in the image, placing one in the head, another in the right shoulder... ninth in the anus.\""
+    },
+    {
+      "name": "Christianization of image ritual",
+      "type": "ritual",
+      "attributes": {
+        "formula": "baptismal rite"
+      },
+      "page_ref": "p. 109",
+      "raw_quote": "\"Then place the image in a new and clean cloth... Then make this conjuration under the fruit-bearing tree, with the burning coals...\""
+    },
+    {
+      "name": "shoulderblade ritual",
+      "type": "ritual",
+      "attributes": {
+        "use": "constraining will via fire and names"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"By this experiment a person, woman, man, spirit, [or] beast of any condition is constrained.\""
+    },
+    {
+      "name": "white thorn or floating wood",
+      "type": "ingredient",
+      "attributes": {
+        "use": "fire-making for bone ritual"
+      },
+      "page_ref": "p. 112",
+      "raw_quote": "\"it is necessary at the outset to seek out wood from a white thorn or wood floating on water, and make fire with it...\""
+    },
+    {
+      "name": "rib bone",
+      "type": "ingredient",
+      "attributes": {
+        "use": "inscribed with names and burned"
+      },
+      "page_ref": "p. 112–113",
+      "raw_quote": "\"The magician compels a woman to passionate love by writing the names of the ‘infernal spirits’ Bel and Ebal on a rib...\""
+    },
+    {
+      "name": "circle (ritual)",
+      "type": "tool",
+      "attributes": {
+        "function": "location for conjuration and rendezvous"
+      },
+      "page_ref": "p. 107–108",
+      "raw_quote": "\"its use of a circle, which is simple in form but important in its effects, serving both as a location for the conjuration and as a place for rendezvous with the woman.\""
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Belial",
+      "to": "Astaroth",
+      "type": "co-invoked spirit"
+    },
+    {
+      "from": "Belial",
+      "to": "Paymon",
+      "type": "co-invoked spirit"
+    },
+    {
+      "from": "Asyel",
+      "to": "Castiel",
+      "type": "co-invoked spirit"
+    },
+    {
+      "from": "Asyel",
+      "to": "Lamisniel",
+      "type": "co-invoked spirit"
+    },
+    {
+      "from": "Bel",
+      "to": "Ebal",
+      "type": "co-invoked infernal spirits"
+    },
+    {
+      "from": "Munich Handbook (CLM 849)",
+      "to": "On the Secret Arts of the Imaginary Art",
+      "type": "source relationship"
+    },
+    {
+      "from": "virgin wax",
+      "to": "white-handled knife",
+      "type": "used in ritual together"
+    },
+    {
+      "from": "burning coals in pot",
+      "to": "virgin wax",
+      "type": "used to shape image"
+    },
+    {
+      "from": "shoulderblade ritual",
+      "to": "Asyel group spirits",
+      "type": "ritual invokes spirits"
+    },
+    {
+      "from": "fruit-bearing tree",
+      "to": "circle (ritual)",
+      "type": "location for circle and conjuration"
+    }
+  ],
+  "summary": "This chunk details erotic image magic and bone-based constraint rituals from the Munich Handbook (CLM 849), focusing on necromantic experiments involving wax images pierced with needles, invocation of spirits like Belial, Astaroth, Paymon, Asyel, Castiel, Lamisniel, Rabam, Erlain, Olam, and Belam, as well as infernal pairings such as Bel and Ebal. It describes ritual ingredients (virgin wax, white-handled knife, fruit-bearing tree), tools (burning coals in pot, nine needles), and protective/ritual spaces (circle). The rituals aim to compel love or constrain will through symbolic suffering and divine invocations.",
+  "key_passages": [
+    "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\"",
+    "\"I baptize thee, N., in the name of the Father, and of the Son, and of the Holy Spirit. Amen.\"",
+    "\"Just as this needle is fixed in the heart of this image, so may the love of N. be fixed to the love of N., so that she cannot sleep, wake, lie down, sleep, [or] walk until she burns with love of me.\"",
+    "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, Belam, I conjure you by the true God... and in such a way that he [or she] may not be able to rest until completing my will. In the name which is Bel, etc.\"",
+    "\"this experiment was taken [from the book] On the Secret Arts of the Imaginary Art, [from the book] On the Flowers of All Experiments, etc.\""
+  ]
+}

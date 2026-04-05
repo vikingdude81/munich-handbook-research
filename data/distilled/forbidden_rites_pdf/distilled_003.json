@@ -1,0 +1,219 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 3,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Munich Handbook",
+      "type": "ritual",
+      "attributes": {
+        "alternate_name": "CLM 849",
+        "date": "15th century",
+        "location": "Bavarian State Library"
+      },
+      "page_ref": "37–42",
+      "raw_quote": "Codex latinus Monacensis 849... a fifteenth-century manuscript in the Bavarian State Library, Clm 849"
+    },
+    {
+      "name": "Liber consecracionum",
+      "type": "ritual",
+      "attributes": {
+        "appears_in": [
+          "CLM 849"
+        ],
+        "folios": "52r–59v (no. 31); also fols 109r–118r and 135r–139r"
+      },
+      "page_ref": "38, 43",
+      "raw_quote": "interspersed with these are a version of the Liber consecracionum (no. 31)... The only materials from folios 109–156 that are edited here are the second version of the Liber consecracionum"
+    },
+    {
+      "name": "Conjuration of Satan/Mirage",
+      "type": "ritual",
+      "attributes": {
+        "folios": "59v–62v (no. 32); also fols 109r–118r and 139r–146r"
+      },
+      "page_ref": "42, 43",
+      "raw_quote": "Conjuration of Satan/Mirage (59v–62v)... a conjuration of a demon named Mirage (given fols 109r–118r and again fols 139r–146r)"
+    },
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "appears_in": [
+          "CLM 849"
+        ],
+        "role": "demon conjured"
+      },
+      "page_ref": "42, 43",
+      "raw_quote": "a conjuration of a demon named Mirage"
+    },
+    {
+      "name": "List of spirits",
+      "type": "ritual",
+      "attributes": {
+        "folios": "65v–65r bis (no. 34)"
+      },
+      "page_ref": "38, 41",
+      "raw_quote": "a list of spirits, with descriptions of the forms in which they appear and the functions they perform (no. 34)"
+    },
+    {
+      "name": "Manual of astral magic",
+      "type": "ritual",
+      "attributes": {
+        "folios": "68v–96v (no. 37)"
+      },
+      "page_ref": "38, 41",
+      "raw_quote": "a manual of astral magic (no. 37)"
+    },
+    {
+      "name": "Key of Pluto",
+      "type": "ritual",
+      "attributes": {
+        "folios": "44v (no. 26)",
+        "purpose": "opening all locks"
+      },
+      "page_ref": "39, 41",
+      "raw_quote": "a brief experiment called the ‘Key of Pluto’ for opening all locks (no. 26)"
+    },
+    {
+      "name": "mirror of Floron",
+      "type": "tool",
+      "attributes": {
+        "used_in": [
+          "CLM 849"
+        ],
+        "folios": "37r–38r, 38r–39v"
+      },
+      "page_ref": "41–42",
+      "raw_quote": "The mirror of Floron, for revelation of past, present and future (no. 18)... second version (no. 19)"
+    },
+    {
+      "name": "Lilith",
+      "type": "spirit",
+      "attributes": {
+        "appears_in": [
+          "CLM 849"
+        ],
+        "role": "demon associated with scrying"
+      },
+      "page_ref": "42",
+      "raw_quote": "First mirror of Lilith (no. 23)"
+    },
+    {
+      "name": "Semiforas",
+      "type": "spirit",
+      "attributes": {
+        "appears_in": [
+          "CLM 849"
+        ],
+        "folios": "106v–107r (no. 42)"
+      },
+      "page_ref": "42",
+      "raw_quote": "The name Semiforas (no. 42)"
+    },
+    {
+      "name": "twelve names for making spirits appear in a boy’s hand",
+      "type": "ritual",
+      "attributes": {
+        "folios": "49v–50v (no. 30)"
+      },
+      "page_ref": "41",
+      "raw_quote": "Twelve names for making spirits appear in a boy’s hand (no. 30)"
+    },
+    {
+      "name": "Opus Zoal et angelorum et spirituum eius",
+      "type": "ritual",
+      "attributes": {
+        "folios": "147r–154v"
+      },
+      "page_ref": "43",
+      "raw_quote": "a treatise on astral magic, the Opus Zoal et angelorum et spirituum eius (fols 147r–154v)"
+    },
+    {
+      "name": "Beheydraz",
+      "type": "spirit",
+      "attributes": {
+        "appears_in": [
+          "Braekman’s Middle Dutch miscellany"
+        ],
+        "role": "demon invoked"
+      },
+      "page_ref": "38",
+      "raw_quote": "...calls upon ‘the power and might of these spirits, Beheydraz, Anleyuz, [and] Manitaynus’"
+    },
+    {
+      "name": "Anleyuz",
+      "type": "spirit",
+      "attributes": {
+        "appears_in": [
+          "Braekman’s Middle Dutch miscellany"
+        ],
+        "role": "demon invoked"
+      },
+      "page_ref": "38",
+      "raw_quote": "...calls upon ‘the power and might of these spirits, Beheydraz, Anleyuz, [and] Manitaynus’"
+    },
+    {
+      "name": "Manitaynus",
+      "type": "spirit",
+      "attributes": {
+        "appears_in": [
+          "Braekman’s Middle Dutch miscellany"
+        ],
+        "role": "demon invoked"
+      },
+      "page_ref": "38",
+      "raw_quote": "...calls upon ‘the power and might of these spirits, Beheydraz, Anleyuz, [and] Manitaynus’"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Liber consecracionum",
+      "to": "CLM 849",
+      "type": "contained_in"
+    },
+    {
+      "from": "Conjuration of Satan/Mirage",
+      "to": "CLM 849",
+      "type": "contained_in"
+    },
+    {
+      "from": "Mirage",
+      "to": "Conjuration of Satan/Mirage",
+      "type": "conjured_by"
+    },
+    {
+      "from": "List of spirits",
+      "to": "CLM 849",
+      "type": "contained_in"
+    },
+    {
+      "from": "mirror of Floron",
+      "to": "CLM 849",
+      "type": "used_in"
+    },
+    {
+      "from": "Lilith",
+      "to": "mirror of Lilith",
+      "type": "associated_with"
+    },
+    {
+      "from": "Semiforas",
+      "to": "CLM 849",
+      "type": "mentioned_in"
+    },
+    {
+      "from": "Beheydraz",
+      "to": "Braekman’s Middle Dutch miscellany",
+      "type": "invoked_in"
+    }
+  ],
+  "summary": "This chunk introduces the Munich Handbook (CLM 849), a mid-15th-century German necromantic miscellany containing 42+ experiments categorized as illusionist, psychological, and divinatory. It details the structure of the manuscript, including named rituals like the Liber consecracionum, conjurations involving demons such as Mirage and Lilith, tools like the mirror of Floron, and spirit names (Semiforas, Beheydraz, Anleyuz, Manitaynus). The text emphasizes practical ritual use over theoretical coherence.",
+  "key_passages": [
+    "The compiler of this main block of material was evidently German... a miscellany, with little linkage, clustering or other organization of its materials, and no effort to develop a coherent theory",
+    "All but a few of the experiments fall into the three main categories. There are twelve illusionist experiments... Seven psychological experiments... Fully seventeen experiments are divinatory techniques...",
+    "The first two folios of the manuscript are missing, a circumstance which may help to explain how the manuscript evaded detection and thus survived.",
+    "A list of spirits, with descriptions of the forms in which they appear and the functions they perform (no. 34)",
+    "Braekman’s no. 20... calls upon ‘the power and might of these spirits, Beheydraz, Anleyuz, [and] Manitaynus’, to aid in the magical seduction of a woman."
+  ]
+}

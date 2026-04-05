@@ -1,0 +1,274 @@
+{
+  "source_id": "worship_dead",
+  "chunk_id": 37,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Nephilim Prince of Egypt and Babylon",
+      "type": "spirit",
+      "attributes": {
+        "role": "incarnation of the Supreme God and promised Redeemer",
+        "associated with": "idolatry propagation"
+      },
+      "page_ref": "p. 329 (implied by context)",
+      "raw_quote": "worship of the mighty Nephilim Prince of Egypt and Babylon, as the incarnation of the Supreme God and the promised Redeemer of man."
+    },
+    {
+      "name": "Cush",
+      "type": "person",
+      "attributes": {
+        "role": "institutor of revived idolatry",
+        "associated with": "Sun worship restoration"
+      },
+      "page_ref": "p. 372–373",
+      "raw_quote": "the restoration of the Sun and Nature worship instituted by Cush."
+    },
+    {
+      "name": "Nimrod",
+      "type": "person",
+      "attributes": {
+        "role": "Tammuz",
+        "associated with": "Sun/Moon/Stars worship, death and resurrection myth"
+      },
+      "page_ref": "p. 372–374",
+      "raw_quote": "Tammuz, that is Nimrod, was put to death... because he taught the worship of Sun, Moon and Stars..."
+    },
+    {
+      "name": "Semiramis",
+      "type": "person",
+      "attributes": {
+        "role": "ordained priesthood after Nimrod’s overthrow"
+      },
+      "page_ref": "p. 372",
+      "raw_quote": "the priesthood ordained by Semiramis."
+    },
+    {
+      "name": "Isis",
+      "type": "spirit",
+      "attributes": {
+        "role": "goddess mother",
+        "identified with": "Earth and Moon",
+        "spouse of": "Osiris/Nimrod"
+      },
+      "page_ref": "p. 374–375",
+      "raw_quote": "she, as Isis, or Rhea, the Goddess Mother, should be identified with the Earth, or with the Moon."
+    },
+    {
+      "name": "Osiris",
+      "type": "spirit",
+      "attributes": {
+        "role": "deified Nimrod",
+        "identified with": "Sun",
+        "associated with": "reincarnation as Horus"
+      },
+      "page_ref": "p. 374–375",
+      "raw_quote": "if he, as Osiris, was identified with the Sun... he was supposed to become re-incarnate as Horus, the son of Isis..."
+    },
+    {
+      "name": "Horus",
+      "type": "spirit",
+      "attributes": {
+        "role": "reincarnation of Osiris",
+        "associated with": "triumph over Typhon"
+      },
+      "page_ref": "p. 374–375",
+      "raw_quote": "he was supposed to become re-incarnate as Horus, the son of Isis..."
+    },
+    {
+      "name": "daimonia / devils",
+      "type": "spirit",
+      "attributes": {
+        "role": "evil spirits",
+        "associated with": "idolatry, spirit communication, necromancy"
+      },
+      "page_ref": "p. 372–378",
+      "raw_quote": "spirits... identical with the daimonia, or devils, of Scripture."
+    },
+    {
+      "name": "Serpent god / Satan",
+      "type": "spirit",
+      "attributes": {
+        "role": "Prince of Evil",
+        "identified with": "Nephilim god",
+        "worshipped as": "Aesculapius in Rome"
+      },
+      "page_ref": "p. 376–379",
+      "raw_quote": "the Pagan god was, from the first, morally identical with the Prince of Evil... 'Satan, that old Serpent'"
+    },
+    {
+      "name": "fire (ritual)",
+      "type": "ritual",
+      "attributes": {
+        "role": "purification",
+        "associated with": "Sun worship, spiritual efficacy"
+      },
+      "page_ref": "p. 373–374",
+      "raw_quote": "the supposed spiritual efficacy of fire... continual fires were kept burning before all the altars of the Sun god"
+    },
+    {
+      "name": "Phallus / Yoni",
+      "type": "ritual",
+      "attributes": {
+        "role": "symbol of life and generative power",
+        "associated with": "Osiris worship, sacred prostitution"
+      },
+      "page_ref": "p. 375–376",
+      "raw_quote": "the Phallus as the manifestation in the animal world of the life and generative power... Yoni was a distinctive emblem of the goddess"
+    },
+    {
+      "name": "Baal Peor",
+      "type": "spirit",
+      "attributes": {
+        "role": "Phallic god of Canaan",
+        "associated with": "immorality, Israelite apostasy"
+      },
+      "page_ref": "p. 376",
+      "raw_quote": "the worship of Baal Peor... the Israelites succumbed, was the Phallic god of Canaan."
+    },
+    {
+      "name": "Rephaim / Zuzim",
+      "type": "spirit",
+      "attributes": {
+        "role": "Nephilim races",
+        "associated with": "early Nephilim presence in Canaan"
+      },
+      "page_ref": "p. 376–377",
+      "raw_quote": "the mention of the Rephaim, Zuzim and other Nephilim races... shows that it was then well established"
+    },
+    {
+      "name": "priesthood / pontiffs",
+      "type": "person",
+      "attributes": {
+        "role": "mediators",
+        "associated with": "spirit communication, control over unseen powers"
+      },
+      "page_ref": "p. 378–379",
+      "raw_quote": "the powers of these beings... being wielded by the priesthood... caused them to be regarded as second only to the king"
+    },
+    {
+      "name": "image worship / consecration",
+      "type": "ritual",
+      "attributes": {
+        "role": "medium for spirit presence",
+        "associated with": "idolatry, temple practice"
+      },
+      "page_ref": "p. 380–381",
+      "raw_quote": "the spirit of the god was called into the image by the divine (i.e., the priestly) consecration."
+    },
+    {
+      "name": "diviners / enchanters / necromancers",
+      "type": "person",
+      "attributes": {
+        "role": "practitioners of spirit communication",
+        "associated with": "Pagan religion, power over unseen world"
+      },
+      "page_ref": "p. 378–379",
+      "raw_quote": "the powers of these beings... called into play by the diviners, observers of times, enchanters, wizards, sorcerers and necromancers"
+    },
+    {
+      "name": "Eucharist (Christian-pagan hybrid)",
+      "type": "ritual",
+      "attributes": {
+        "role": "sacrament",
+        "associated with": "serpent worship syncretism"
+      },
+      "page_ref": "p. 379",
+      "raw_quote": "they introduce it when they bless the Eucharist."
+    },
+    {
+      "name": "brazen serpent (Moses)",
+      "type": "ritual",
+      "attributes": {
+        "role": "symbol of sin crucified",
+        "associated with": "prefiguring Christ, but misinterpreted by pagans"
+      },
+      "page_ref": "p. 378–379",
+      "raw_quote": "the brazen serpent was not a symbol of Christ in itself, but of sin crucified by Christ."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Nephilim Prince",
+      "to": "daimonia",
+      "type": "identity"
+    },
+    {
+      "from": "Cush",
+      "to": "Nimrod",
+      "type": "father-son"
+    },
+    {
+      "from": "Nimrod",
+      "to": "Tammuz",
+      "type": "identification"
+    },
+    {
+      "from": "Nimrod",
+      "to": "Osiris",
+      "type": "identification"
+    },
+    {
+      "from": "Semiramis",
+      "to": "Nimrod",
+      "type": "spouse"
+    },
+    {
+      "from": "Isis",
+      "to": "Nimrod/Osiris",
+      "type": "spouse"
+    },
+    {
+      "from": "Osiris",
+      "to": "Horus",
+      "type": "father-son (reincarnational)"
+    },
+    {
+      "from": "daimonia",
+      "to": "Serpent god/Satan",
+      "type": "subordination"
+    },
+    {
+      "from": "fire",
+      "to": "Sun",
+      "type": "emanation"
+    },
+    {
+      "from": "Phallus/Yoni",
+      "to": "Osiris/Isis",
+      "type": "symbolic representation"
+    },
+    {
+      "from": "priesthood",
+      "to": "daimonia",
+      "type": "mediation"
+    },
+    {
+      "from": "image worship",
+      "to": "daimonia",
+      "type": "medium of presence"
+    },
+    {
+      "from": "diviners/enchanters/necromancers",
+      "to": "daimonia",
+      "type": "communication channel"
+    },
+    {
+      "from": "Serpent god",
+      "to": "Baal Peor",
+      "type": "identification"
+    },
+    {
+      "from": "Rephaim/Zuzim",
+      "to": "Nephilim",
+      "type": "members"
+    }
+  ],
+  "summary": "This chunk traces the historical development of revived ancient idolatry, linking it to Nephilim influence and spirit communication. It describes how ancestor worship (especially of Cushite monarchs like Nimrod/Osiris) merged with sun/nature worship, leading to a system where spirits—identified as daimonia or evil spirits—were invoked through images, fire rituals, phallic symbols, and necromantic practices. The text explicitly connects these traditions to medieval Christian critiques of paganism and traces their evolution toward serpent/Satanic worship.",
+  "key_passages": [
+    "spirits... identical with the daimonia, or devils, of Scripture.",
+    "the spirit of the god was called into the image by the divine (i.e., the priestly) consecration.",
+    "Tammuz, that is Nimrod, was put to death... because he taught the worship of Sun, Moon and Stars...",
+    "the powers of these beings... being wielded by the priesthood... caused them to be regarded as second only to the king himself",
+    "the Pagan god was, from the first, morally identical with the Prince of Evil."
+  ]
+}

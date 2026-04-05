@@ -1,0 +1,906 @@
+{
+  "source_id": "forbidden_rites_pdf",
+  "chunk_id": 29,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Elthie",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name invoked in conjuration"
+      },
+      "page_ref": "47r",
+      "raw_quote": "per nomeng deih Elthie,"
+    },
+    {
+      "name": "Ely",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name; variant of Elohim"
+      },
+      "page_ref": "47r, 48r, 49v, 51r",
+      "raw_quote": "per hec nomina domini nostri Ihesu Christi: Ely, Eloy, Eloem"
+    },
+    {
+      "name": "Eloy",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name"
+      },
+      "page_ref": "47r, 48r, 51r",
+      "raw_quote": "per hec nomina domini nostri Ihesu Christi: Ely, Eloy, Eloem"
+    },
+    {
+      "name": "Eloem",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name"
+      },
+      "page_ref": "47r",
+      "raw_quote": "per hec nomina domini nostri Ihesu Christi: Ely, Eloy, Eloem"
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name; YHWH"
+      },
+      "page_ref": "47r, 48r, 51r",
+      "raw_quote": "per Tetragramaton"
+    },
+    {
+      "name": "Alpha et O",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title; Christ as beginning and end"
+      },
+      "page_ref": "47r, 48r, 51r",
+      "raw_quote": "per caritatem dei, Alpha et O, quod est principium et finis"
+    },
+    {
+      "name": "On",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name"
+      },
+      "page_ref": "48r, 49v, 51r",
+      "raw_quote": "et per ipsius nomina hec sancta: On, El, Ely, Eloy..."
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name"
+      },
+      "page_ref": "48r, 49v",
+      "raw_quote": "sancta: On, El, Ely, Eloy, Adonay..."
+    },
+    {
+      "name": "Messyas",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Messyas, Soter, Emanuel..."
+    },
+    {
+      "name": "Soter",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title"
+      },
+      "page_ref": "48r",
+      "raw_quote": "Messyas, Soter, Emanuel..."
+    },
+    {
+      "name": "Emanuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title"
+      },
+      "page_ref": "48r",
+      "raw_quote": "Soter, Emanuel, Pancraton..."
+    },
+    {
+      "name": "Pancraton",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title"
+      },
+      "page_ref": "48r, 49v",
+      "raw_quote": "...Emanuel, Pancraton, Occinomos..."
+    },
+    {
+      "name": "Occinomos",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title"
+      },
+      "page_ref": "48r, 49v",
+      "raw_quote": "...Pancraton, Occinomos, Tetragramaton..."
+    },
+    {
+      "name": "Agyos",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title (Greek: Ἅγιος)"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Agyos, Otheos, Athanatos..."
+    },
+    {
+      "name": "Otheos",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title (Greek: Θεός)"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Agyos, Otheos, Athanatos..."
+    },
+    {
+      "name": "Athanatos",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title (Greek: ἀθάνατος)"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Otheos, Athanatos..."
+    },
+    {
+      "name": "Yschiros",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title (Greek: ἰσχυρός)"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Agyos, Otheos, Athanatos, Yschiros..."
+    },
+    {
+      "name": "Kirios",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine title (Greek: Κύριος)"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Yschiros, Kirios..."
+    },
+    {
+      "name": "Alleluia",
+      "type": "spirit",
+      "attributes": {
+        "role": "liturgical exclamation"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Kirios, Alleluia..."
+    },
+    {
+      "name": "Eleyson",
+      "type": "spirit",
+      "attributes": {
+        "role": "Greek: ἐλέησον (‘have mercy’)"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Alleluia, Eleyson..."
+    },
+    {
+      "name": "Ymas",
+      "type": "spirit",
+      "attributes": {
+        "role": "uncertain; possibly variant of iam or iames"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Eleyson, Ymas"
+    },
+    {
+      "name": "Britonia",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in exorcism formula"
+      },
+      "page_ref": "48r",
+      "raw_quote": "Britonia, Bresis, Diton, Crasis..."
+    },
+    {
+      "name": "Bresis",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in exorcism formula"
+      },
+      "page_ref": "48r",
+      "raw_quote": "Britonia, Bresis, Diton, Crasis..."
+    },
+    {
+      "name": "Diton",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in exorcism formula"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Bresis, Diton, Crasis..."
+    },
+    {
+      "name": "Crasis",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in exorcism formula"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Diton, Crasis..."
+    },
+    {
+      "name": "Sanete",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in exorcism formula"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Crasis, Sanete, Garbamion..."
+    },
+    {
+      "name": "Garbamion",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in exorcism formula"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Sanete, Garbamion..."
+    },
+    {
+      "name": "Gospar",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Caspar; invoked in demon conjuration"
+      },
+      "page_ref": "48r",
+      "raw_quote": "Gospar, Dasper, Gespar..."
+    },
+    {
+      "name": "Dasper",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant name; invoked with Gospar et al."
+      },
+      "page_ref": "48r",
+      "raw_quote": "Gospar, Dasper, Gespar..."
+    },
+    {
+      "name": "Gespar",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Caspar"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Dasper, Gespar, Lapir..."
+    },
+    {
+      "name": "Lapir",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in demon conjuration"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Gespar, Lapir, Sparsis..."
+    },
+    {
+      "name": "Sparsis",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in demon conjuration"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Lapir, Sparsis, Nota..."
+    },
+    {
+      "name": "Nota",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in demon conjuration"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Sparsis, Nota, Calius..."
+    },
+    {
+      "name": "Calius",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in demon conjuration"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Nota, Calius, Asper."
+    },
+    {
+      "name": "Asper",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in demon conjuration"
+      },
+      "page_ref": "48r",
+      "raw_quote": "...Calius, Asper."
+    },
+    {
+      "name": "Talius",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Calius (MS note)"
+      },
+      "page_ref": "48r (note g)",
+      "raw_quote": "Or Talius."
+    },
+    {
+      "name": "Rabuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Rabuel, Astena, Hytatol..."
+    },
+    {
+      "name": "Astena",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Rabuel, Astena, Hytatol..."
+    },
+    {
+      "name": "Hytatol",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Astena, Hytatol..."
+    },
+    {
+      "name": "Carab",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names to make spirits appear"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Bethala, Pamelon, Anguis, Floris, Ereth, Alya..."
+    },
+    {
+      "name": "Riasteli",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Carab, Riasteli, Careb..."
+    },
+    {
+      "name": "Careb",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Riasteli, Careb, Basal..."
+    },
+    {
+      "name": "Basal",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Careb, Basal, Mistal..."
+    },
+    {
+      "name": "Mistal",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Basal, Mistal, Oronothel..."
+    },
+    {
+      "name": "Oronothel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Mistal, Oronothel, Fabanin..."
+    },
+    {
+      "name": "Fabanin",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Oronothel, Fabanin, Non..."
+    },
+    {
+      "name": "Non",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Fabanin, Non, Va..."
+    },
+    {
+      "name": "Va",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Non, Va, Vatuel."
+    },
+    {
+      "name": "Vatuel",
+      "type": "spirit",
+      "attributes": {
+        "role": "one of 12 names"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Va, Vatuel."
+    },
+    {
+      "name": "Cedon",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in No. 27-B"
+      },
+      "page_ref": "51r",
+      "raw_quote": "Cedon, Zephata, Eloym..."
+    },
+    {
+      "name": "Zephata",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in No. 27-B"
+      },
+      "page_ref": "51r",
+      "raw_quote": "Cedon, Zephata, Eloym..."
+    },
+    {
+      "name": "Eloym",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Elohim; invoked in No. 27-B"
+      },
+      "page_ref": "51r",
+      "raw_quote": "...Zephata, Eloym..."
+    },
+    {
+      "name": "Eloyay",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Eloy; invoked in No. 27-B"
+      },
+      "page_ref": "51r",
+      "raw_quote": "...Eloym, Eloyay..."
+    },
+    {
+      "name": "Abiniabyndo",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Abiniabyndo, Abyncola, Abracalos..."
+    },
+    {
+      "name": "Abyncola",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Abiniabyndo, Abyncola, Abracalos..."
+    },
+    {
+      "name": "Abracalos",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Abyncola, Abracalos, Pyel..."
+    },
+    {
+      "name": "Pyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Abracalos, Pyel, Thyel..."
+    },
+    {
+      "name": "Thyel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Pyel, Thyel, Syel."
+    },
+    {
+      "name": "Syel",
+      "type": "spirit",
+      "attributes": {
+        "role": "invoked in basin conjuration"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Thyel, Syel."
+    },
+    {
+      "name": "Caspar",
+      "type": "spirit",
+      "attributes": {
+        "role": "One of the Three Magi; invoked in demon binding"
+      },
+      "page_ref": "48r, 51r",
+      "raw_quote": "per tres reges, Caspar, Balthasar, Melchior"
+    },
+    {
+      "name": "Balthasar",
+      "type": "spirit",
+      "attributes": {
+        "role": "One of the Three Magi"
+      },
+      "page_ref": "51r",
+      "raw_quote": "...Caspar, Baltasar, Melchior..."
+    },
+    {
+      "name": "Melchior",
+      "type": "spirit",
+      "attributes": {
+        "role": "One of the Three Magi"
+      },
+      "page_ref": "48r, 51r",
+      "raw_quote": "...Balthasar, Melchior"
+    },
+    {
+      "name": "Sydrac",
+      "type": "spirit",
+      "attributes": {
+        "role": "One of the Three Hebrew Youths"
+      },
+      "page_ref": "48r, 51r",
+      "raw_quote": "...per tres pueros, Sydrac, Misac, Abdenago"
+    },
+    {
+      "name": "Misac",
+      "type": "spirit",
+      "attributes": {
+        "role": "One of the Three Hebrew Youths"
+      },
+      "page_ref": "48r, 51r",
+      "raw_quote": "...Sydrac, Misac, Abdenago"
+    },
+    {
+      "name": "Abdenago",
+      "type": "spirit",
+      "attributes": {
+        "role": "One of the Three Hebrew Youths"
+      },
+      "page_ref": "48r, 51r",
+      "raw_quote": "...Misac, Abdenago"
+    },
+    {
+      "name": "Sator-arepo-square",
+      "type": "ritual",
+      "attributes": {
+        "role": "magic square incantation used in circle drawing"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Sator, arepo, tenet, opera, rotas."
+    },
+    {
+      "name": "Book of Consecrations",
+      "type": "ritual",
+      "attributes": {
+        "role": "text for sanctifying magical tools or grimoires"
+      },
+      "page_ref": "52r–59v, 135r–139r",
+      "raw_quote": "Incipit prologus libri consecracionum"
+    },
+    {
+      "name": "Elyon",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Elyon, On..."
+    },
+    {
+      "name": "Sabboth",
+      "type": "spirit",
+      "attributes": {
+        "role": "variant of Sabaoth; divine name"
+      },
+      "page_ref": "49v",
+      "raw_quote": "Ely, Eloe, Sabaoth..."
+    },
+    {
+      "name": "Jesus Nazarenus",
+      "type": "spirit",
+      "attributes": {
+        "role": "Christological title"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Jesus Nazarenus, Messyas..."
+    },
+    {
+      "name": "Fortis",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine epithet (‘the Strong One’)"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Messyas, Sother, Emanuel, Fortis..."
+    },
+    {
+      "name": "Fons",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine epithet (‘the Fountain’)"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Fortis, Fons..."
+    },
+    {
+      "name": "Leo",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine epithet (‘Lion of Judah’)"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Fons, Leo..."
+    },
+    {
+      "name": "Petra",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine epithet (‘Rock’)"
+      },
+      "page_ref": "49v",
+      "raw_quote": "...Leo, Petra"
+    },
+    {
+      "name": "A, Q, O, P, E, V",
+      "type": "tool",
+      "attributes": {
+        "role": "characters to be written in ritual"
+      },
+      "page_ref": "50r",
+      "raw_quote": "Karacteres isti [50r] scribendi sunt vt infra docetur: A, Q, O, P, E, V."
+    },
+    {
+      "name": "resina alba (white resin)",
+      "type": "ingredient",
+      "attributes": {
+        "role": "used in spirit manifestation ritual"
+      },
+      "page_ref": "49v–50r",
+      "raw_quote": "Accipe resinam albam quam accendes per candelam super lapidem aliquem planum..."
+    },
+    {
+      "name": "oleum oliue (olive oil)",
+      "type": "ingredient",
+      "attributes": {
+        "role": "used to anoint boy’s hand or fingers"
+      },
+      "page_ref": "49r, 50r",
+      "raw_quote": "...primo in oleo oliue..."
+    },
+    {
+      "name": "spatula arietis dextram (right shoulder blade of ram)",
+      "type": "tool",
+      "attributes": {
+        "role": "divinatory implement"
+      },
+      "page_ref": "47v–48r",
+      "raw_quote": "accipe spatulam arietis dextram, oleo oliue invnctam..."
+    },
+    {
+      "name": "candela accensa (lit candle)",
+      "type": "tool",
+      "attributes": {
+        "role": "used in bone-gazing ritual"
+      },
+      "page_ref": "47v",
+      "raw_quote": "tenendo candelam accensam, dicas hoc modo"
+    },
+    {
+      "name": "circulus (circle)",
+      "type": "ritual",
+      "attributes": {
+        "role": "protective boundary for ritual"
+      },
+      "page_ref": "49r",
+      "raw_quote": "...post mane et in crepusculo noctis, circulum protrahendo..."
+    },
+    {
+      "name": "Sator-arepo-square incantation",
+      "type": "ritual",
+      "attributes": {
+        "role": "used to draw protective circle"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Sator, arepo, tenet, opera, rotas."
+    },
+    {
+      "name": "consecratio libri (book consecration)",
+      "type": "ritual",
+      "attributes": {
+        "role": "sanctification of grimoire"
+      },
+      "page_ref": "52r–59v, 135r–139r",
+      "raw_quote": "librum istum sanctissimis nominibus suis insignitum..."
+    },
+    {
+      "name": "virginitas pueri (boy’s virginity)",
+      "type": "ritual requirement",
+      "attributes": {
+        "role": "required condition for medium"
+      },
+      "page_ref": "47r, 48r, 49v, 51r",
+      "raw_quote": "sicut virgo puer... puero virginis"
+    },
+    {
+      "name": "puer xii annorum (boy under twelve years)",
+      "type": "ritual requirement",
+      "attributes": {
+        "role": "age restriction for medium"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Sit puer infra xij annos existens."
+    },
+    {
+      "name": "nine-day purification",
+      "type": "ritual requirement",
+      "attributes": {
+        "role": "preparatory abstinence for operator"
+      },
+      "page_ref": "301r (52v)",
+      "raw_quote": "sunt qui... ab omni pollucione mentis et corporis se debet abstinere in cibo [et] potu, ... novem diebus ante opus inceptum"
+    },
+    {
+      "name": "Sator-arepo-square",
+      "type": "tool",
+      "attributes": {
+        "role": "magic square used in protective circle"
+      },
+      "page_ref": "49r",
+      "raw_quote": "Sator, arepo, tenet, opera, rotas."
+    },
+    {
+      "name": "anulus Salomonis (Ring of Solomon)",
+      "type": "tool",
+      "attributes": {
+        "role": "symbolic authority in binding demons"
+      },
+      "page_ref": "48r",
+      "raw_quote": "per anulum Salomonis, et per signa et sancta nomina in ipsis descripta"
+    },
+    {
+      "name": "anuli Salomonis (Rings of Solomon)",
+      "type": "tool",
+      "attributes": {
+        "role": "plural form; used in repeated conjurations"
+      },
+      "page_ref": "48v–49r",
+      "raw_quote": "per anulos Salomonis et per signa..."
+    },
+    {
+      "name": "signum crucis (sign of the cross)",
+      "type": "ritual",
+      "attributes": {
+        "role": "protective gesture"
+      },
+      "page_ref": "49r, 50v",
+      "raw_quote": "In nomine Patris et Filij et Spiritus Sancti. Amen. Ecce crux domini; fugite, partes aduerse..."
+    },
+    {
+      "name": "Leo de triba Juda (Lion of Judah)",
+      "type": "spirit",
+      "attributes": {
+        "role": "Christological title used in exorcism"
+      },
+      "page_ref": "49r",
+      "raw_quote": "...vicit leo de triba Juda, stirps Dauid."
+    },
+    {
+      "name": "stirps Dauid (Root of David)",
+      "type": "spirit",
+      "attributes": {
+        "role": "Christological title"
+      },
+      "page_ref": "49r",
+      "raw_quote": "...vicit leo de triba Juda, stirps Dauid."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Elthie",
+      "to": "Tetragramaton",
+      "type": "co-invoked divine name"
+    },
+    {
+      "from": "Ely",
+      "to": "Eloy",
+      "type": "variant pair"
+    },
+    {
+      "from": "Alpha et O",
+      "to": "Messyas",
+      "type": "co-occurring Christological titles"
+    },
+    {
+      "from": "Caspar",
+      "to": "Balthasar",
+      "type": "Magi triad"
+    },
+    {
+      "from": "Caspar",
+      "to": "Melchior",
+      "type": "Magi triad"
+    },
+    {
+      "from": "Balthasar",
+      "to": "Melchior",
+      "type": "Magi triad"
+    },
+    {
+      "from": "Sydrac",
+      "to": "Misac",
+      "type": "Hebrew Youths trio"
+    },
+    {
+      "from": "Sydrac",
+      "to": "Abdenago",
+      "type": "Hebrew Youths trio"
+    },
+    {
+      "from": "Misac",
+      "to": "Abdenago",
+      "type": "Hebrew Youths trio"
+    },
+    {
+      "from": "Book of Consecrations",
+      "to": "sanctissima nomina dei",
+      "type": "contains sacred names"
+    },
+    {
+      "from": "Sator-arepo-square",
+      "to": "circulus",
+      "type": "used in circle drawing"
+    },
+    {
+      "from": "anulus Salomonis",
+      "to": "signum crucis",
+      "type": "ritual authority symbols"
+    },
+    {
+      "from": "virginitas pueri",
+      "to": "puer xii annorum",
+      "type": "ritual medium requirements"
+    },
+    {
+      "from": "resina alba",
+      "to": "candela accensa",
+      "type": "used together in spirit manifestation"
+    }
+  ],
+  "summary": "This chunk contains detailed ritual texts from the Munich Handbook (CLM 849), focusing on spirit conjurations using boys as mediums. It includes multiple exorcisms invoking divine names (e.g., Tetragrammaton, Alpha et O, Ely/Eloy), angelic hierarchies, and demonic binding formulas. Rituals involve bone-gazing (scapulomancy), basin divination, and hand-based spirit manifestation. The Book of Consecrations section outlines procedures for sanctifying grimoires using nine-day purification, liturgical prayers, and divine name invocations.",
+  "key_passages": [
+    "per nomeng deih Elthie, per Tetragramaton, per hec nomina domini nostri Ihesu Christi: Ely, Eloy, Eloem...",
+    "Coniuro vos demones et advoco, per eum qui dixit omnia et facta sunt... et per ipsius nomina hec sancta: On, El, Ely, Eloy, Adonay, Alpha et O, Messyas, Soter, Emanuel, Pancraton, Occinomos, Tetragramaton...",
+    "Sator, arepo, tenet, opera, rotas. In nomine Patris et Filij et Spiritus Sancti. Amen.",
+    "In primis, quicumque hoc opus sit facturus... ab omni pollucione mentis et corporis se debet abstinere in cibo [et] potu... novem diebus ante opus inceptum...",
+    "Scribantur in spatula hec sancta nomina dei: On, El, Eloy, Adonay, Alpha et O, Pancraton, Occinomos, Tetragramaton."
+  ]
+}

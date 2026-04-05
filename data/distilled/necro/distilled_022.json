@@ -1,0 +1,341 @@
+{
+  "source_id": "necro",
+  "chunk_id": 22,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mirage",
+      "type": "spirit",
+      "attributes": {
+        "function": "conjured spirit",
+        "role": "appears in supplementary sections"
+      },
+      "page_ref": "supplementary sections of CLM 849",
+      "raw_quote": "The instructions for conjuring Mirage in the supplementary sections of the codex do suggest that the circle has a protective function..."
+    },
+    {
+      "name": "Raphael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Sunday",
+        "functions": [
+          "binding tongues",
+          "dispelling beasts",
+          "travel protection"
+        ]
+      },
+      "page_ref": "Table E (37g), Table F (1st hour)",
+      "raw_quote": "Sun.: Raphael — King Saytam [...] binding tongues"
+    },
+    {
+      "name": "Gabriel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Monday",
+        "functions": [
+          "friendship",
+          "freeing captives",
+          "concord"
+        ]
+      },
+      "page_ref": "Table E (37g), Table F (2nd, 4th, 11th hours)",
+      "raw_quote": "Mon.: Gabriel — King Almodab [...] friendship, favour of potentates"
+    },
+    {
+      "name": "Samael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Tuesday",
+        "functions": [
+          "illness",
+          "destruction",
+          "hunting",
+          "scattering armies"
+        ]
+      },
+      "page_ref": "Table E (37g), Table F (7th hour)",
+      "raw_quote": "Tues.: Samael — ‘rex films dyabuli’ [...] enmity and hatred"
+    },
+    {
+      "name": "Michael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Wednesday",
+        "functions": [
+          "freeing captives",
+          "obtaining one’s will",
+          "scattering armies"
+        ]
+      },
+      "page_ref": "Table E (37g), Table F (10th hour)",
+      "raw_quote": "Wed.: Michael — King Saba [...] freeing captives"
+    },
+    {
+      "name": "Satquiel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Thursday",
+        "functions": [
+          "peace",
+          "taming beasts",
+          "illuminating dark places"
+        ]
+      },
+      "page_ref": "Table E (37g), Table F (5th hour), Table G (1st hour)",
+      "raw_quote": "Thurs.: Satquiel — Madrath, son of Arath [...] peace"
+    },
+    {
+      "name": "Anael",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Friday",
+        "functions": [
+          "friendship",
+          "love of a woman",
+          "travel protection"
+        ]
+      },
+      "page_ref": "Table E (37g), Table F (2nd hour)",
+      "raw_quote": "Fri.: Anael — King Saabotes [...] friendship"
+    },
+    {
+      "name": "Captiel = Caffriel",
+      "type": "spirit",
+      "attributes": {
+        "rank": "angel",
+        "day": "Saturday",
+        "functions": [
+          "binding locations",
+          "burning vegetation"
+        ]
+      },
+      "page_ref": "Table E (37g)",
+      "raw_quote": "Sat.: Captiel= Caffriel — Hay ton, Assayby [...] binding locations"
+    },
+    {
+      "name": "Yafaa, Safaa, Alleya, Hayala, Haya, Halix, Hayul, Ataya, Hytoia, Saffetaba",
+      "type": "spirit",
+      "attributes": {
+        "role": "names in conjuration for concord",
+        "source": "conjuration text"
+      },
+      "page_ref": "no. 37q",
+      "raw_quote": "I conjure you angels by the name Yafaa, Safaa, Alleya, Hayala, Haya, Halix, Hayul, Ataya, Hytoia, Saffetaba..."
+    },
+    {
+      "name": "Coffossol, Remlestar, El",
+      "type": "spirit",
+      "attributes": {
+        "role": "names in conjuration for concord"
+      },
+      "page_ref": "no. 37q",
+      "raw_quote": "...Saffetaba, Coffossol, Remlestar, El, Lord God..."
+    },
+    {
+      "name": "Sarafem, Custyeli",
+      "type": "spirit",
+      "attributes": {
+        "role": "commanded angels"
+      },
+      "page_ref": "no. 37q",
+      "raw_quote": "Hasten, Sarafem and Custyeli, and command Amaris..."
+    },
+    {
+      "name": "Amaris",
+      "type": "spirit",
+      "attributes": {
+        "role": "demon or spirit commanded to carry out request"
+      },
+      "page_ref": "no. 37q",
+      "raw_quote": "...command Amaris and his helpers, that they may quickly carry out..."
+    },
+    {
+      "name": "Adonay",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name used in Kabbalistic-style conjurations"
+      },
+      "page_ref": "no. 37a",
+      "raw_quote": "In the name Adonay, Adonay, Eye, Eye, Eyu..."
+    },
+    {
+      "name": "Sadaye",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name used in Kabbalistic-style conjurations"
+      },
+      "page_ref": "no. 37a",
+      "raw_quote": "In the name Sadaye, Saday, Cados, Cados, Cados..."
+    },
+    {
+      "name": "Cados",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name used in Kabbalistic-style conjurations"
+      },
+      "page_ref": "no. 37a",
+      "raw_quote": "...Cados, Cados, Cados, the high one..."
+    },
+    {
+      "name": "Haya",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name used in Kabbalistic-style conjurations"
+      },
+      "page_ref": "no. 37a",
+      "raw_quote": "...Ya, Adonay, Saday, Sabaoth, Hanath, Hu, Haxi, Ya, Ya, Ya, Marmalita, Abym, Yea..."
+    },
+    {
+      "name": "Eloy",
+      "type": "spirit",
+      "attributes": {
+        "role": "divine name used in Kabbalistic-style conjurations"
+      },
+      "page_ref": "no. 37a",
+      "raw_quote": "...Eloy, Arar, Eloym, Eloym..."
+    },
+    {
+      "name": "circle",
+      "type": "tool",
+      "attributes": {
+        "function": [
+          "protection",
+          "focus of power",
+          "terrifying spirits",
+          "convening demons"
+        ]
+      },
+      "page_ref": "CLM 849 experiments nos. 3,7,8,9,11",
+      "raw_quote": "The circles have power to convoke the demons (no. 9) and to terrify them (no. 7)."
+    },
+    {
+      "name": "horsehide",
+      "type": "ingredient",
+      "attributes": {
+        "use": "inscribe circle for control over horses"
+      },
+      "page_ref": "no. 9",
+      "raw_quote": "a circle may be inscribed on horsehide, and then it will exert power over any horses to whom it is displayed..."
+    },
+    {
+      "name": "myrrh",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation",
+          "psychological experiments"
+        ]
+      },
+      "page_ref": "nos. 3,11,36",
+      "raw_quote": "...with myrrh and saffron (no. 3); ...incense and myrrh (no. 11)"
+    },
+    {
+      "name": "saffron",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation"
+        ]
+      },
+      "page_ref": "no. 3",
+      "raw_quote": "...with myrrh and saffron (no. 3)"
+    },
+    {
+      "name": "cinnamon",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation"
+        ]
+      },
+      "page_ref": "no. 4",
+      "raw_quote": "with cinnamon, pepper and agrimonia (no. 4)"
+    },
+    {
+      "name": "pepper",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation",
+          "Tuesday suffumigations"
+        ]
+      },
+      "page_ref": "no. 4, Table E",
+      "raw_quote": "...pepper, abana [...]"
+    },
+    {
+      "name": "agrimonia",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation"
+        ]
+      },
+      "page_ref": "no. 4",
+      "raw_quote": "with cinnamon, pepper and agrimonia (no. 4)"
+    },
+    {
+      "name": "sulphur",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation",
+          "Saturday suffumigations"
+        ]
+      },
+      "page_ref": "no. 5, Table E",
+      "raw_quote": "...or with sulphur fumes (no. 5); assandaron, sulphur"
+    },
+    {
+      "name": "marrow of a dead person",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation"
+        ]
+      },
+      "page_ref": "no. 8",
+      "raw_quote": "...with the marrow of a dead person (no. 8)"
+    },
+    {
+      "name": "incense",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation",
+          " Thurible for circle walking"
+        ]
+      },
+      "page_ref": "nos. 11,36",
+      "raw_quote": "...incense and myrrh (no. 11); incense and myrrh in a thurible (no. 36)"
+    },
+    {
+      "name": "Indian wood",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation of images"
+        ]
+      },
+      "page_ref": "no. 37m",
+      "raw_quote": "...fumigate the image with Indian wood and with red sandalwood..."
+    },
+    {
+      "name": "red sandalwood",
+      "type": "ingredient",
+      "attributes": {
+        "use": [
+          "fumigation of images"
+        ]
+      },
+      "page_ref": "no. 37m",
+      "raw_quote": "...Indian wood and with red sandalwood"
+    }
+  ]
+}
