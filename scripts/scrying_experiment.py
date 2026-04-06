@@ -281,7 +281,7 @@ def score_response(response_text: str) -> dict:
                                "unclear", "uncertain", "hard to say", "appears random"]
                    if w in text)
     # Extract explicit confidence score if model included one
-    explicit = re.findall(r'\b([0-9]|10)\s*[/\-]\s*10\b', response_text)
+    explicit = re.findall(r'\b(10|[0-9])\s*[/\-]\s*10\b', response_text)
     if explicit:
         explicit_val = int(explicit[-1]) / 10.0
         confidence = min(1.0, explicit_val)

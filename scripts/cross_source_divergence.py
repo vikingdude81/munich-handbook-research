@@ -236,8 +236,12 @@ def _composite(attr_div, role_cons, mention_imbal, rel_div) -> float:
       - relationship divergence:   0.25
     """
     role_div = 1.0 - role_cons
-    # Normalise mention imbalance with log (imbalance=1 → 0, imbalance=10 → ~0.5)
-    mention_div = min(1.0, math.log(max(mention_imbal, 1.0)) / math.log(100))
+    # Normalise mention imbalance with log scaling:
+    # imbalance=1 (perfectly balanced) → 0.0
+    # imbalance=100 (extreme domination) → 1.0
+    # Using log base 100 so that a 10× imbalance maps to ~0.5
+    _IMBALANCE_NORM = 100.0
+    mention_div = min(1.0, math.log(max(mention_imbal, 1.0)) / math.log(_IMBALANCE_NORM))
     score = (
         0.30 * attr_div
         + 0.30 * role_div

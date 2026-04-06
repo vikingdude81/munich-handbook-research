@@ -43,9 +43,10 @@ PLANETARY_SEQUENCE = [
     "Saturn", "Jupiter", "Mars", "Sun", "Venus", "Mercury", "Moon"
 ]
 
-# Ruling planet for each day of the week (0=Monday … 6=Sunday in Python isoweekday)
-# Python weekday(): 0=Monday, 1=Tuesday, 2=Wednesday, 3=Thursday, 4=Friday,
-#                   5=Saturday, 6=Sunday
+# Ruling planet for each day of the week.
+# Uses Python's datetime.strftime("%A") day names.
+# datetime.weekday(): 0=Monday, 1=Tuesday, 2=Wednesday, 3=Thursday, 4=Friday,
+#                     5=Saturday, 6=Sunday
 PLANETARY_DAYS = {
     "Monday":    "Moon",
     "Tuesday":   "Mars",

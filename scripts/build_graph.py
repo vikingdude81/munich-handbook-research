@@ -405,8 +405,10 @@ def build_matplotlib_png(G: "nx.DiGraph", output_path: str) -> None:
     nx.draw_networkx_edges(G, pos, edge_color=edge_colors, alpha=0.5,
                            arrows=True, arrowsize=10, ax=ax)
 
-    # Label only high-degree nodes to avoid clutter
-    degree_threshold = max(2, G.number_of_nodes() // 20)
+    # Label only high-degree nodes to avoid clutter.
+    # LABEL_DEGREE_DIVISOR controls density: ~1 label per this many nodes.
+    LABEL_DEGREE_DIVISOR = 20
+    degree_threshold = max(2, G.number_of_nodes() // LABEL_DEGREE_DIVISOR)
     labels = {
         n: n for n in G.nodes()
         if G.degree(n) >= degree_threshold
