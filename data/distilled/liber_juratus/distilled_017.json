@@ -1,0 +1,336 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 17,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Michael",
+      "type": "angel",
+      "attributes": {
+        "association": "Mercury/Moon/General"
+      },
+      "page_ref": "209",
+      "raw_quote": "Michael, Miel, Saripiel, Gabriel, Michael, Samyel, Athitael, Boel, Cafziel, Mich<r>athon, Sathquyel, Raphael, Pahamcociel, Assassayel, Samael, Satiel, Yturai_hel, Amabihel, Raphael, Caphael"
+    },
+    {
+      "name": "Miel",
+      "type": "angel",
+      "attributes": {
+        "association": "Mercury"
+      },
+      "page_ref": "209",
+      "raw_quote": "Michael, Miel, Saripiel"
+    },
+    {
+      "name": "Saripiel",
+      "type": "angel",
+      "attributes": {
+        "association": "Mercury"
+      },
+      "page_ref": "209",
+      "raw_quote": "Michael, Miel, Saripiel"
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "association": "Moon"
+      },
+      "page_ref": "209",
+      "raw_quote": "Gabriel, Michael, Samyel, Athitael"
+    },
+    {
+      "name": "Samyel",
+      "type": "angel",
+      "attributes": {
+        "association": "Moon"
+      },
+      "page_ref": "209",
+      "raw_quote": "Gabriel, Michael, Samyel, Athitael"
+    },
+    {
+      "name": "Athitael",
+      "type": "angel",
+      "attributes": {
+        "association": "Moon"
+      },
+      "page_ref": "209",
+      "raw_quote": "Gabriel, Michael, Samyel, Athitael"
+    },
+    {
+      "name": "Boel",
+      "type": "angel",
+      "attributes": {
+        "association": "Saturn"
+      },
+      "page_ref": "209",
+      "raw_quote": "Boel, Cafziel, Michrathon, Sathquyel"
+    },
+    {
+      "name": "Cafziel",
+      "type": "angel",
+      "attributes": {
+        "association": "Saturn"
+      },
+      "page_ref": "209",
+      "raw_quote": "Boel, Cafziel, Michrathon, Sathquyel"
+    },
+    {
+      "name": "Michrathon",
+      "type": "angel",
+      "attributes": {
+        "association": "Saturn"
+      },
+      "page_ref": "209",
+      "raw_quote": "Boel, Cafziel, Michrathon, Sathquyel"
+    },
+    {
+      "name": "Sathquyel",
+      "type": "angel",
+      "attributes": {
+        "association": "Saturn"
+      },
+      "page_ref": "209",
+      "raw_quote": "Boel, Cafziel, Michrathon, Sathquyel"
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "attributes": {
+        "association": "Jupiter/Sun"
+      },
+      "page_ref": "209",
+      "raw_quote": "Raphael, Pahamcociel, Assassayel"
+    },
+    {
+      "name": "Pahamcociel",
+      "type": "angel",
+      "attributes": {
+        "association": "Jupiter"
+      },
+      "page_ref": "209",
+      "raw_quote": "Raphael, Pahamcociel, Assassayel"
+    },
+    {
+      "name": "Assassayel",
+      "type": "angel",
+      "attributes": {
+        "association": "Jupiter"
+      },
+      "page_ref": "209",
+      "raw_quote": "Raphael, Pahamcociel, Assassayel"
+    },
+    {
+      "name": "Samael",
+      "type": "angel",
+      "attributes": {
+        "association": "Mars"
+      },
+      "page_ref": "209",
+      "raw_quote": "Samael, Satiel, Yturaihel, Amabihel"
+    },
+    {
+      "name": "Satiel",
+      "type": "angel",
+      "attributes": {
+        "association": "Mars"
+      },
+      "page_ref": "209",
+      "raw_quote": "Samael, Satiel, Yturaihel, Amabihel"
+    },
+    {
+      "name": "Yturaihel",
+      "type": "angel",
+      "attributes": {
+        "association": "Mars"
+      },
+      "page_ref": "209",
+      "raw_quote": "Samael, Satiel, Yturaihel, Amabihel"
+    },
+    {
+      "name": "Amabihel",
+      "type": "angel",
+      "attributes": {
+        "association": "Mars"
+      },
+      "page_ref": "209",
+      "raw_quote": "Samael, Satiel, Yturaihel, Amabihel"
+    },
+    {
+      "name": "Caphael",
+      "type": "angel",
+      "attributes": {
+        "association": "Sun"
+      },
+      "page_ref": "209",
+      "raw_quote": "Raphael, Caphael, Dardiel, Hurathapel, Hanael, Raquiel, Salguiel"
+    },
+    {
+      "name": "Dardiel",
+      "type": "angel",
+      "attributes": {
+        "association": "Sun"
+      },
+      "page_ref": "209",
+      "raw_quote": "Raphael, Caphael, Dardiel, Hurathapel, Hanael, Raquiel, Salguiel"
+    },
+    {
+      "name": "Hurathapel",
+      "type": "angel",
+      "attributes": {
+        "association": "Sun"
+      },
+      "page_ref": "209",
+      "raw_quote": "Raphael, Caphael, Dardiel, Hurathapel, Hanael, Raquiel, Salguiel"
+    },
+    {
+      "name": "Hanael",
+      "type": "angel",
+      "attributes": {
+        "association": "Venus"
+      },
+      "page_ref": "209",
+      "raw_quote": "Hanael, Raquiel, Salguiel"
+    },
+    {
+      "name": "Raquiel",
+      "type": "angel",
+      "attributes": {
+        "association": "Venus"
+      },
+      "page_ref": "209",
+      "raw_quote": "Hanael, Raquiel, Salguiel"
+    },
+    {
+      "name": "Salguiel",
+      "type": "angel",
+      "attributes": {
+        "association": "Venus"
+      },
+      "page_ref": "209",
+      "raw_quote": "Hanael, Raquiel, Salguiel"
+    },
+    {
+      "name": "Adonay",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "215",
+      "raw_quote": "Ya, Ya, Ya, Laaaa, Adonay, Sabaoth, Heloy, Genouem, Merquerpon, Usye, Achedion, Zebedio, Greba"
+    },
+    {
+      "name": "Sabaoth",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "the army of angels"
+      },
+      "page_ref": "217",
+      "raw_quote": "Sabaoth, quod est 'exercitus angelorum'"
+    },
+    {
+      "name": "Zebedee",
+      "type": "person",
+      "attributes": {
+        "role": "commanding figure/biblical personality"
+      },
+      "page_ref": "211",
+      "raw_quote": "as Zebedee ordered his subordinates to obey, come."
+    },
+    {
+      "name": "Sign of the Lord",
+      "type": "sigil",
+      "attributes": {
+        "usage": "held in right hand, consecrated"
+      },
+      "page_ref": "212",
+      "raw_quote": "You must have the Sign of the Lord in your right hand, neatly composed and consecrated"
+    },
+    {
+      "name": "pearls",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "209",
+      "raw_quote": "place pearls on glowing charcoal in the censer"
+    },
+    {
+      "name": "charcoal",
+      "type": "ingredient",
+      "attributes": {
+        "state": "glowing"
+      },
+      "page_ref": "209",
+      "raw_quote": "place pearls on glowing charcoal in the censer"
+    },
+    {
+      "name": "new knife",
+      "type": "tool",
+      "attributes": {
+        "alternative_name": "dagger/cultello"
+      },
+      "page_ref": "211",
+      "raw_quote": "doing this with a new knife"
+    },
+    {
+      "name": "white hemp garments",
+      "type": "ritual",
+      "attributes": {
+        "condition": "clean"
+      },
+      "page_ref": "211",
+      "raw_quote": "being bathed and putting on garments of clean white hemp"
+    },
+    {
+      "name": "Samaym",
+      "type": "location",
+      "attributes": {
+        "description": "the seat/First Heaven"
+      },
+      "page_ref": "211",
+      "raw_quote": "upon the seat of Samaym, as the Lord commanded"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Michael",
+      "to": "Mercury",
+      "type": "associated with"
+    },
+    {
+      "from": "Gabriel",
+      "to": "Moon",
+      "type": "associated with"
+    },
+    {
+      "from": "Boel",
+      "to": "Saturn",
+      "type": "associated with"
+    },
+    {
+      "from": "Raphael",
+      "to": "Jupiter",
+      "type": "associated with"
+    },
+    {
+      "from": "Samael",
+      "to": "Mars",
+      "type": "associated with"
+    },
+    {
+      "from": "Caphael",
+      "to": "Sun",
+      "type": "associated with"
+    },
+    {
+      "from": "Hanael",
+      "to": "Venus",
+      "type": "associated with"
+    }
+  ],
+  "summary": "This chunk details the ritual procedures for the Second and Third Days of a magical operation, including the use of pearls on charcoal, the drawing of two circles, and the invocation of specific planetary angels. It provides lists of angelic names categorized by their celestial spheres (Saturn, Jupiter, Mars, Sun, Venus, Mercury, Moon) and includes specific binding formulas using divine names.",
+  "key_passages": [
+    "place pearls on glowing charcoal in the censer, which [will be suffumigated] from the place (or direction) of invocation",
+    "draw two circles, with one separated from the other by one foot, doing this with a new knife",
+    "The third day, being bathed and putting on garments of clean white hemp, and the hairs from your body clean shaved",
+    "O you mighty angels of Saturn, Jupiter, Mars, the Sun, Venus, Mercury, and the Moon",
+    "I seal, beseech, invoke, and also conjure you to obey my petitions, through the seal of the sacred names of God"
+  ]
+}

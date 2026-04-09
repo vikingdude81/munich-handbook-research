@@ -1,0 +1,181 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 3,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Honorius",
+      "type": "person",
+      "attributes": {
+        "lineage": "son of Euclid",
+        "title": "master of Thebes"
+      },
+      "page_ref": "49-52",
+      "raw_quote": "we selected one named Honorius, son of Euclid, master of Thebes"
+    },
+    {
+      "name": "Hocrohel",
+      "type": "angel",
+      "attributes": {
+        "role": "consulting angel"
+      },
+      "page_ref": "51",
+      "raw_quote": "And he, with the consulting angel Hocrohel, named seven books of the magic art"
+    },
+    {
+      "name": "Samaym",
+      "type": "spirit",
+      "attributes": {
+        "has_seat": "true"
+      },
+      "page_ref": "40",
+      "raw_quote": "the thrones or seats (sedes) of the supernatural beings, such as the seat of Samaym"
+    },
+    {
+      "name": "Primachia",
+      "type": "spirit",
+      "attributes": {
+        "has_seat": "true"
+      },
+      "page_ref": "40",
+      "raw_quote": "the seats of Primachia and Apologia"
+    },
+    {
+      "name": "Apologia",
+      "type": "spirit",
+      "attributes": {
+        "has_seat": "true"
+      },
+      "page_ref": "40",
+      "raw_quote": "the seats of Primachia and Apologia"
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {
+        "also_called": "Seal of Solomon"
+      },
+      "page_ref": "40",
+      "raw_quote": "Since the Seal of God (also called the Seal of Solomon) is needed in the other rituals"
+    },
+    {
+      "name": "Satan",
+      "type": "demon",
+      "attributes": {},
+      "page_ref": "49",
+      "raw_quote": "Abrenuncio Sathane et omnibus pompis eius"
+    },
+    {
+      "name": "God",
+      "type": "divine_name",
+      "attributes": {
+        "names_included": "100 sacred names"
+      },
+      "page_ref": "51",
+      "raw_quote": "the hundred sacred names of God are included in this book"
+    },
+    {
+      "name": "ritual of calling forth the spirits",
+      "type": "ritual",
+      "attributes": {
+        "duration_london": "72 days",
+        "duration_ssm": "40 days",
+        "consumable": "fine wine"
+      },
+      "page_ref": "40",
+      "raw_quote": "The core ritual takes seventy-two days in the London Honorius, but forty days in SSM."
+    },
+    {
+      "name": "purification",
+      "type": "ritual",
+      "attributes": {
+        "duration": "20 days",
+        "elements": [
+          "attending mass",
+          "reciting prayers"
+        ]
+      },
+      "page_ref": "40",
+      "raw_quote": "A twenty-day purification comes next, involving attending mass, and reciting certain prayers"
+    },
+    {
+      "name": "fasting and prayer",
+      "type": "ritual",
+      "attributes": {
+        "duration": "12 days"
+      },
+      "page_ref": "40",
+      "raw_quote": "This is followed by twelve days of fasting and prayer"
+    },
+    {
+      "name": "four-part ritual",
+      "type": "ritual",
+      "attributes": {
+        "stages": [
+          "invocation",
+          "seal and binding",
+          "conjuration",
+          "placation"
+        ]
+      },
+      "page_ref": "40",
+      "raw_quote": "followed by a four-part ritual: the 'invocation,' the 'seal and binding,' the 'conjuration,' and the 'placation.'"
+    },
+    {
+      "name": "wand/sword/whistle/magic circle",
+      "type": "tool",
+      "attributes": {},
+      "page_ref": "42",
+      "raw_quote": "hazel wand, seals of spirits, incense offerings, magic circles, swords, and whistle."
+    },
+    {
+      "name": "ink made from blood",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "42",
+      "raw_quote": "include ink made from blood"
+    },
+    {
+      "name": "bed surrounded by ashes",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "critical sleep visions",
+        "elements": [
+          "divine names written in ashes"
+        ]
+      },
+      "page_ref": "40",
+      "raw_quote": "you prepare a bed surrounded by ashes with divine names written therein. This is the stage for critical sleep visions."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Honorius",
+      "to": "Hocrohel",
+      "type": "consulted"
+    },
+    {
+      "from": "Honorius",
+      "to": "Euclid",
+      "type": "son of"
+    },
+    {
+      "from": "Seal of God",
+      "to": "Solomon",
+      "type": "alias/associated with"
+    },
+    {
+      "from": "Satan",
+      "to": "demons",
+      "type": "leader of"
+    }
+  ],
+  "summary": "This chunk details the ritual procedures, tools, and historical context of the Liber Juratus Honorii. It describes specific stages of magic operations (purification, fasting, sleep visions), mentions key entities like Honorius and the angel Hocrohel, and outlines the components of Solomonic magic such as seals, wands, and sacred names.",
+  "key_passages": [
+    "The core ritual takes seventy-two days in the London Honorius, but forty days in SSM.",
+    "And he, with the consulting angel Hocrohel, named seven books of the magic art",
+    "the hundred sacred names of God are included in this book",
+    "you prepare a bed surrounded by ashes with divine names written therein. This is the stage for critical sleep visions.",
+    "The process for calling the spirits commences similarly, followed by a four-part ritual: the 'invocation,' the 'seal and binding,' the 'conjuration,' and the 'placation.'"
+  ]
+}

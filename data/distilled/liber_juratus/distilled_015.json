@@ -1,0 +1,202 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 15,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Completion of the Work (CI)",
+      "type": "ritual",
+      "attributes": {
+        "timing": "Thursday morning",
+        "materials": "Bed of hay on ashes"
+      },
+      "page_ref": "184",
+      "raw_quote": "On Thursday begin in the morning; saying as you said on the preceding, and then you should make a bed of hay..."
+    },
+    {
+      "name": "100 Dei vivi nomina",
+      "type": "divine_name",
+      "attributes": {
+        "count": 100,
+        "names_sample": "Agla, Monon, Tetragramaton... Rabur"
+      },
+      "page_ref": "185-186",
+      "raw_quote": "(2) 100 Dei vivi nomina. 1. Agla, 2. Monon, 3. Tetragramaton..."
+    },
+    {
+      "name": "Clear cold spring water",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "Washing ritual"
+      },
+      "page_ref": "186",
+      "raw_quote": "He should take clear cold spring water, and wash himself..."
+    },
+    {
+      "name": "Prayer of Washing",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "Cleansing sins, invoking baptism mystery"
+      },
+      "page_ref": "186-187",
+      "raw_quote": "\"Domine, sancte Pater, omnipotens, eterne Deus...\""
+    },
+    {
+      "name": "Sackcloth and black garments",
+      "type": "tool",
+      "attributes": {
+        "usage": "Ritual attire"
+      },
+      "page_ref": "187",
+      "raw_quote": "Then he should put on a sackcloth and black garments..."
+    },
+    {
+      "name": "Choir",
+      "type": "location",
+      "attributes": {
+        "usage": "Place for sitting during Psalter"
+      },
+      "page_ref": "187",
+      "raw_quote": "...enter the choir, in which he should sit."
+    },
+    {
+      "name": "Zabuather",
+      "type": "divine_name",
+      "attributes": {
+        "context": "Invocation name"
+      },
+      "page_ref": "187-189",
+      "raw_quote": "\"Zabuather, Rabarmas, Yskiros...\""
+    },
+    {
+      "name": "Orha",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Sent Gabriel to announce incarnation"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "(24) Orha, qui per Gabrielem beate Marie virgini... nunium tue incarnacionis..."
+    },
+    {
+      "name": "Christus",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Overshadowed in womb like sun through glass"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "Christus, qui sicut sol per vitrum in eius utero... obumbrasti."
+    },
+    {
+      "name": "Hospesk",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Made dry staff sprout flowers for Joseph"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "(25) Hospesk, qui in manibus Ioseph virgam siccam florere fecisti."
+    },
+    {
+      "name": "Gofgar",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Sent John the Baptist as testimony"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "(26) Gofgar, qui adventus tui per Iohannem baptistam... testimonium..."
+    },
+    {
+      "name": "Occynnomos",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Sent star to Kings Caspar, Melchior, Balthasar"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "(27) Occynnomos, qui tribus regibus te adorare volentibus... stellam previam transmisisti..."
+    },
+    {
+      "name": "Eliorem",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Presented in Temple to Simeon"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "(29) Eliorem, qui in templo Salomonis... ipsi Symeoni dedisti cognicionis effectum..."
+    },
+    {
+      "name": "Heloy",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Turned water into wine at wedding"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "(30) Heloy, qui ad architriclini nupcias aquam in vinum convertisti."
+    },
+    {
+      "name": "Archima",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Preached faith for 32 years"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "(31) Archima, qui 32 annis populo tuo fidem catholicam predicasti..."
+    },
+    {
+      "name": "Rabur",
+      "type": "divine_name",
+      "attributes": {
+        "meaning": "Fasted 40 days in desert"
+      },
+      "page_ref": "189-190",
+      "raw_quote": "(32) Rabur, qui 40 dierum spacio in deserto ieiunasti..."
+    },
+    {
+      "name": "Divine Vision",
+      "type": "concept",
+      "attributes": {
+        "condition": "Requires purity and will"
+      },
+      "page_ref": "193-194",
+      "raw_quote": "...divina visio non est super ipsum coaccio immo preces..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Operator",
+      "to": "Water",
+      "type": "uses_for_washing"
+    },
+    {
+      "from": "Prayer of Washing",
+      "to": "Divine Vision",
+      "type": "prepares_for"
+    },
+    {
+      "from": "Orha",
+      "to": "Gabriel",
+      "type": "sent_by"
+    },
+    {
+      "from": "Occynnomos",
+      "to": "Kings Caspar, Melchior, Balthasar",
+      "type": "guided"
+    },
+    {
+      "from": "Heloy",
+      "to": "Wedding Feast",
+      "type": "performed_at"
+    },
+    {
+      "from": "Rabur",
+      "to": "Desert",
+      "type": "location_of_fast"
+    }
+  ],
+  "summary": "This chunk details the final stages of a ritual (CI), including the preparation of a hay bed on ashes and the recitation of 100 Divine Names. It prescribes purification through cold water, specific attire (sackcloth/black garments), and a lengthy prayer invoking divine names associated with biblical events like the Nativity and Resurrection to achieve a vision of God while alive.",
+  "key_passages": [
+    "\"On Thursday begin in the morning; saying as you said on the preceding, and then you should make a bed of hay...\"",
+    "\"100 Dei vivi nomina. 1. Agla, 2. Monon, 3. Tetragramaton...\"",
+    "\"He should take clear cold spring water, and wash himself, saying: 'Domine, sancte Pater...'\"",
+    "\"Then he should put on a sackcloth and black garments, then enter the choir...\"",
+    "\"The operator must have a great will to perform the work, and must be cleansed inwardly from all filth...\""
+  ]
+}

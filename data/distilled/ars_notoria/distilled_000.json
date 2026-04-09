@@ -1,0 +1,345 @@
+{
+  "source_id": "ars_notoria",
+  "chunk_id": 0,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Ars Notoria",
+      "type": "ritual",
+      "attributes": {
+        "description": "Angelic art of knowledge acquisition through prayer and notation",
+        "also_known_as": "The Notory Art of Solomon"
+      },
+      "page_ref": "1, 7",
+      "raw_quote": "ARS / Notoria / The NOTORY Art of Solomon"
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {
+        "role": "recipient of revelation",
+        "status": "biblical king and magician"
+      },
+      "page_ref": "1, 7, 11",
+      "raw_quote": "The Notory Art revealed by the Most High Creator to Solomon"
+    },
+    {
+      "name": "Most High Creator",
+      "type": "divine_name",
+      "attributes": {
+        "role": "source of revelation",
+        "description": "God as creator"
+      },
+      "page_ref": "11",
+      "raw_quote": "The Notory Art revealed by the Most High Creator to Solomon"
+    },
+    {
+      "name": "Holy Angels",
+      "type": "spirit",
+      "attributes": {
+        "role": "ministers of revelation",
+        "function": "delivered knowledge upon altar of Temple"
+      },
+      "page_ref": "11",
+      "raw_quote": "revealed to Solomon, which the Most High Creator by his Holy Angels ministered to Solomon upon the Alter of the Temple"
+    },
+    {
+      "name": "Apollonius",
+      "type": "person",
+      "attributes": {
+        "role": "master of arts",
+        "status": "successor/expositor of Solomon's art"
+      },
+      "page_ref": "12, 13",
+      "raw_quote": "I, Apollonius, Master of Arts, duly called..."
+    },
+    {
+      "name": "Manichaeus",
+      "type": "person",
+      "attributes": {
+        "role": "co-authority cited for validation"
+      },
+      "page_ref": "12",
+      "raw_quote": "Confirmed, Composed, and Approved by the Authority of Solomon, Manichaeus, and Euduchaeus"
+    },
+    {
+      "name": "Euduchaeus",
+      "type": "person",
+      "attributes": {
+        "role": "co-authority cited for validation"
+      },
+      "page_ref": "12",
+      "raw_quote": "Confirmed, Composed, and Approved by the Authority of Solomon, Manichaeus, and Euduchaeus"
+    },
+    {
+      "name": "Robert Turner",
+      "type": "person",
+      "attributes": {
+        "role": "translator",
+        "date": "1657"
+      },
+      "page_ref": "1, 3, 4, 9",
+      "raw_quote": "Translated from Latin into English / By Robert Turner, 1657"
+    },
+    {
+      "name": "Benjamin Rowe",
+      "type": "person",
+      "attributes": {
+        "role": "transcriber/editor",
+        "date": "1999"
+      },
+      "page_ref": "2, 3, 4",
+      "raw_quote": "Transcribed and converted to Acrobat by Benjamin Rowe, July 1999"
+    },
+    {
+      "name": "Claire Fanger",
+      "type": "person",
+      "attributes": {
+        "role": "scholar",
+        "citation": "Visual Art in Two Manuscripts of the Ars Notoria"
+      },
+      "page_ref": "3",
+      "raw_quote": "in Visual Art in Two Manuscripts of the Ars Notoria, by Michael Camille, published in Conjuring Spirits... edited by Claire Fanger"
+    },
+    {
+      "name": "Michael Camille",
+      "type": "person",
+      "attributes": {
+        "role": "scholar",
+        "citation": "Visual Art in Two Manuscripts of the Ars Notoria"
+      },
+      "page_ref": "3",
+      "raw_quote": "in Visual Art in Two Manuscripts of the Ars Notoria, by Michael Camille..."
+    },
+    {
+      "name": "Hely Scemath Amazaz Hemel Sathusteon hheli Tamazam",
+      "type": "divine_name",
+      "attributes": {
+        "status": "First Revelation of Solomon",
+        "language_origin": "Chaldee, Hebrew, Grecian",
+        "description": "Science of transcendent purity"
+      },
+      "page_ref": "13",
+      "raw_quote": "Hely, Scemath Amazaz, Hemel, Sathusteon, hheli Tamazam, &cet. which Solomon entitled, His First Revelation"
+    },
+    {
+      "name": "Theos Megale",
+      "type": "prayer",
+      "attributes": {
+        "status": "mystical oration",
+        "language_origin": "distorted from Hebrew, Greek, Chaldee"
+      },
+      "page_ref": "13",
+      "raw_quote": "Theos Megthe, in tu yma Eurel, &cet."
+    },
+    {
+      "name": "Splendor or Speculum of Wisdom",
+      "type": "prayer",
+      "attributes": {
+        "status": "holy Prayer",
+        "language_use": "four tongues: Chaldee, Greek, Hebrew and Latine"
+      },
+      "page_ref": "14",
+      "raw_quote": "This is a holy Prayer... which is called, The Splendor or Speculum of Wisdom"
+    },
+    {
+      "name": "Assaylemath Assay Lemath Azzabue",
+      "type": "divine_name",
+      "attributes": {
+        "status": "part of the Oration of the four Tongues"
+      },
+      "page_ref": "14",
+      "raw_quote": "Assaylemath, Assay, Lemath, Azzabue."
+    },
+    {
+      "name": "Azzaylemath Lemath Azacgessenio",
+      "type": "divine_name",
+      "attributes": {
+        "status": "second part of the precedent Oration"
+      },
+      "page_ref": "14",
+      "raw_quote": "Azzaylemath, Lemath, Azacgessenio."
+    },
+    {
+      "name": "Lemath Sabanche Ellithy Aygezo",
+      "type": "divine_name",
+      "attributes": {
+        "status": "third part of the precedent Oration"
+      },
+      "page_ref": "14",
+      "raw_quote": "Lemath, Sabanche, Ellithy, Aygezo."
+    },
+    {
+      "name": "Note (of Grammar)",
+      "type": "sigil",
+      "attributes": {
+        "category": "first of Liberal Arts",
+        "format": "quadrangle note with integrated text and prayers"
+      },
+      "page_ref": "8",
+      "raw_quote": "The First Note of Grammar"
+    },
+    {
+      "name": "Four Angels",
+      "type": "spirit",
+      "attributes": {
+        "role": "revealers of orations",
+        "associated_days": "fourth day of Moon"
+      },
+      "page_ref": "14",
+      "raw_quote": "in the fourth day of the Moon is manifested to us; and are four times repeated and explained by the Angel, the Messenger of these Orations"
+    },
+    {
+      "name": "Angelical Wisdom",
+      "type": "concept",
+      "attributes": {
+        "status": "first Figure of Notory Art",
+        "alias": "The Ring of Philosophy"
+      },
+      "page_ref": "14",
+      "raw_quote": "That is the first Figure of the Notory Art... This is Angelical Wisdom, understood of few in Astronomy"
+    },
+    {
+      "name": "Triumphal Figures",
+      "type": "ritual_element",
+      "attributes": {
+        "status": "introduction to Notory Art",
+        "pronunciation_timing": "certain determinate times of the Moon"
+      },
+      "page_ref": "14",
+      "raw_quote": "There are also certain Figures or Orations which Solomon in Chaldeack called, Hely; that is, Triumphal Orations"
+    },
+    {
+      "name": "Liberal Arts",
+      "type": "concept",
+      "attributes": {
+        "categories": "Grammar, Rhetoric, Logic, Arithmetic, Geometry, Music, Astronomy"
+      },
+      "page_ref": "3, 12",
+      "raw_quote": "the knowledge of every Science, Art, and Wisdom; and of every Faculty of Memory... attaining to them in one Moneth"
+    },
+    {
+      "name": "General Abilities",
+      "type": "concept",
+      "attributes": {
+        "examples": [
+          "memory",
+          "eloquence",
+          "understanding",
+          "perseverance"
+        ]
+      },
+      "page_ref": "3, 12",
+      "raw_quote": "the first of these deals with what the author calls 'generals'; these are abilities of broad application – memory, eloquence, understanding and perseverance"
+    },
+    {
+      "name": "Special Abilities",
+      "type": "concept",
+      "attributes": {
+        "applies_to": "Liberal Arts",
+        "method": "prayers and notes"
+      },
+      "page_ref": "3, 12",
+      "raw_quote": "The second section deals with the 'specials', giving prayers in sequence for each of the Liberal Arts"
+    },
+    {
+      "name": "Prayer in the Beginning",
+      "type": "prayer",
+      "attributes": {
+        "status": "required preliminary",
+        "content_summary": "Trinitarian invocation asking for illumination and knowledge"
+      },
+      "page_ref": "11, 13",
+      "raw_quote": "In the Name of the Holy and undivided Trinity, beginneth this most Holy Art of Knowledge... I humbly implore and beseech, that thou wilt mercifully with the Father, illustrate my Minde"
+    },
+    {
+      "name": "Theological Sciences",
+      "type": "concept",
+      "attributes": {
+        "status": "attainable via Notory Art"
+      },
+      "page_ref": "12",
+      "raw_quote": "in the third place we come to speak of Theologie; which Sciences thou shalt attain to, by the Operations of these Orations"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Most High Creator",
+      "to": "Solomon",
+      "type": "reveals to"
+    },
+    {
+      "from": "Holy Angels",
+      "to": "Solomon",
+      "type": "ministers knowledge via altar"
+    },
+    {
+      "from": "Solomon",
+      "to": "Hely Scemath Amazaz Hemel Sathusteon hheli Tamazam",
+      "type": "entitled/revealed to"
+    },
+    {
+      "from": "Apollonius",
+      "to": "Ars Notoria",
+      "type": "commentator/approver"
+    },
+    {
+      "from": "Solomon",
+      "to": "Manichaeus",
+      "type": "cited authority with"
+    },
+    {
+      "from": "Solomon",
+      "to": "Euduchaeus",
+      "type": "cited authority with"
+    },
+    {
+      "from": "Ars Notoria",
+      "to": "Liberal Arts",
+      "type": "teaches via prayers and notes"
+    },
+    {
+      "from": "Ars Notoria",
+      "to": "General Abilities",
+      "type": "develops first"
+    },
+    {
+      "from": "General Abilities",
+      "to": "Special Abilities",
+      "type": "prerequisite for"
+    },
+    {
+      "from": "Triumphal Figures",
+      "to": "Notory Art",
+      "type": "introduces"
+    },
+    {
+      "from": "Note (of Grammar)",
+      "to": "Ars Notoria",
+      "type": "first example of"
+    },
+    {
+      "from": "Theos Megale",
+      "to": "Scripture study",
+      "type": "aids in pronunciation/understanding"
+    },
+    {
+      "from": "Splendor or Speculum of Wisdom",
+      "to": "four tongues",
+      "type": "uses Chaldee, Greek, Hebrew, Latine"
+    },
+    {
+      "from": "Four Angels",
+      "to": "Hely Scemath Amazaz Hemel Sathusteon hheli Tamazam",
+      "type": "reveals/repeats four times"
+    }
+  ],
+  "summary": "This chunk introduces the Ars Notoria as an angelic art revealed to Solomon by God through His angels, emphasizing its purpose of acquiring knowledge of liberal arts and spiritual faculties. It outlines the structure (generals/specials), mentions key figures (Solomon, Apollonius, Turner), describes divine names and prayers (e.g., Hely Scemath, Theos Megale, Splendor of Wisdom), and introduces ritual elements like Notes and Triumphal Figures tied to lunar timing. The text stresses the mystical nature of these elements and their reliance on faith, reverence, and proper timing.",
+  "key_passages": [
+    "The Notory Art revealed by the Most High Creator to Solomon, which the Most High Creator by his Holy Angels ministered to Solomon upon the Alter of the Temple; that thereby in short time he knew all Arts and Sciences...",
+    "Hely, Scemath Amazaz, Hemel, Sathusteon, hheli Tamazam, &cet. which Solomon entitled, His First Revelation; and that to be without any Interpretation: It being a Science of so Transcendent a purity...",
+    "That is the first Figure of the Notory Art, which is manifestly sited upon a Quadrangle Note: And this is Angelical Wisdom... and in the Notory Art it is written, To be the Foundation of the whole Science.",
+    "There are also certain Figures or Orations which Solomon in Chaldeack called, Hely; that is, Triumphal Orations of the Liberal Arts...",
+    "This Oration hath no Exposition in the Latine... because no Man could attain to the perfection thereof: and it was left so spiritual, because the Angel that declared it to Solomon, laid an inexcusable prohibition upon it..."
+  ]
+}

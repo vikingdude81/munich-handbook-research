@@ -1,0 +1,18 @@
+{
+  "experiment": 22,
+  "name": "Theft Detection — Anomaly Detection",
+  "timestamp": "20260408_212914",
+  "result": {
+    "boy_medium_report": "",
+    "boy_model": "qwen/qwen3.5-35b-a3b",
+    "practitioner_analysis": "",
+    "practitioner_model": "qwen/qwen3.5-35b-a3b",
+    "total_logs": 20,
+    "embedded_anomalies": 10
+  },
+  "metadata": {
+    "dual_model": true,
+    "boy_node": "5090+3050",
+    "practitioner_node": "5090+3050"
+  }
+}

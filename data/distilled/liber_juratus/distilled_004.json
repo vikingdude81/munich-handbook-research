@@ -1,0 +1,233 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 4,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Honorius",
+      "type": "person",
+      "attributes": {
+        "role": "author/magus",
+        "action": "laid out the works of Solomon"
+      },
+      "page_ref": "53",
+      "raw_quote": "I Honorius have laid out the works of Solomon in such a manner in my book"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "living and true God",
+        "role": "Lord"
+      },
+      "page_ref": "53",
+      "raw_quote": "In the name of our almighty Lord Jesus Christ, the living and true God"
+    },
+    {
+      "name": "Shem Ha-Meforash",
+      "type": "divine_name",
+      "attributes": {
+        "alternative_name": "Semenphoras",
+        "composition": "72 letters",
+        "significance": "beginning of this art"
+      },
+      "page_ref": "53",
+      "raw_quote": "the great name of God, which the Hebrews call “Shem Ha-Meforash,” and is of 72 letters"
+    },
+    {
+      "name": "Alpha and Omega",
+      "type": "divine_name",
+      "attributes": {
+        "role": "beginning and end"
+      },
+      "page_ref": "61",
+      "raw_quote": "God, who is Alpha and Omega, the beginning and the end"
+    },
+    {
+      "name": "Cherubim",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely, the Cherubim, Seraphim, Thrones..."
+    },
+    {
+      "name": "Seraphim",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely, the Cherubim, Seraphim..."
+    },
+    {
+      "name": "Thrones",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely... Thrones..."
+    },
+    {
+      "name": "Dominations",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely... Dominations..."
+    },
+    {
+      "name": "Virtues",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely... Virtues..."
+    },
+    {
+      "name": "Principalities",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely... Principalities..."
+    },
+    {
+      "name": "Powers",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely... Powers..."
+    },
+    {
+      "name": "Archangels",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely... Archangels..."
+    },
+    {
+      "name": "Angels",
+      "type": "angel",
+      "attributes": {
+        "order": "one of nine orders"
+      },
+      "page_ref": "61",
+      "raw_quote": "the nine orders of angels, namely... and Angels"
+    },
+    {
+      "name": "Spirits of the Air",
+      "type": "spirit",
+      "attributes": {
+        "classification": "aerial"
+      },
+      "page_ref": "55",
+      "raw_quote": "To know the spirits and creatures of the air."
+    },
+    {
+      "name": "Spirits of Fire",
+      "type": "spirit",
+      "attributes": {
+        "classification": "fire"
+      },
+      "page_ref": "55",
+      "raw_quote": "To know the spirits of the fire, their names, superiors, seals, powers, and virtues."
+    },
+    {
+      "name": "Aquatic Spirits",
+      "type": "spirit",
+      "attributes": {
+        "classification": "water"
+      },
+      "page_ref": "55",
+      "raw_quote": "To know the aquatic spirits, and their virtues and superiors."
+    },
+    {
+      "name": "Terrestrial and Infernal Spirits",
+      "type": "spirit",
+      "attributes": {
+        "classification": "earth/hell"
+      },
+      "page_ref": "55",
+      "raw_quote": "To know all terrestrial and infernal spirits."
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {
+        "construction": "circle with diameter of 3, 5, 7, or 9 digits; inner circle separated by 2 or 3 grains of barley; cross in the upper part"
+      },
+      "page_ref": "64",
+      "raw_quote": "Primo fac unum circulum... Deinde infra illum circulum fac alium circulum... in superiori parte... fac unam crucem"
+    },
+    {
+      "name": "El",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "64",
+      "raw_quote": "supra illud signum scribe nomen Dei “El”"
+    },
+    {
+      "name": "Ely",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "64",
+      "raw_quote": "et sub nomen aliud Dei, scilicet “Ely”"
+    },
+    {
+      "name": "Tau",
+      "type": "sigil",
+      "attributes": {},
+      "page_ref": "64",
+      "raw_quote": "in cuius medio sit signum “tau” tale"
+    },
+    {
+      "name": "Pentagon",
+      "type": "tool",
+      "attributes": {
+        "shape": "star-like (★)"
+      },
+      "page_ref": "64",
+      "raw_quote": "in medio circulorum, scilicet in centro, fac unum pentagonum talem: ★"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Honorius",
+      "to": "Solomon",
+      "type": "follower of teachings"
+    },
+    {
+      "from": "Semenphoras",
+      "to": "God",
+      "type": "is a name of"
+    },
+    {
+      "from": "Cherubim",
+      "to": "God",
+      "type": "serves"
+    },
+    {
+      "from": "Spirits of Fire",
+      "to": "Seal of God",
+      "type": "can be bound by"
+    }
+  ],
+  "summary": "This chunk details the contents and structure of the 'Sworn Book', outlining various works concerning divine visions, angelology, and spirit binding. It also provides specific instructions for constructing the Seal of God using geometric shapes and sacred names.",
+  "key_passages": [
+    "The first topic, concerning the composition of the great name of God, which the Hebrews call “Shem Ha-Meforash,” and is of 72 letters",
+    "There are three types of angels, the celestial, the aerial, and the earthly.",
+    "the nine orders of angels, namely, the Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels",
+    "Primo fac unum circulum, cuius diameter sit trium digitorum propter tres clavos Domini",
+    "in medio circulorum... fac unum pentagonum talem: ★"
+  ]
+}

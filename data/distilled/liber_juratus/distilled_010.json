@@ -1,0 +1,191 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 10,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "God",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "merciful",
+        "roles": [
+          "creator",
+          "inspector of acts",
+          "judge"
+        ]
+      },
+      "page_ref": "125, 126, 127, 130",
+      "raw_quote": "from whom permission will come. ... God the highest, God ..."
+    },
+    {
+      "name": "Adonay",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "126, 127",
+      "raw_quote": "Si Adonay largiente concessum habueris"
+    },
+    {
+      "name": "Jesus, son of God",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "125, 129",
+      "raw_quote": "“Jesus, son of God…” (XXVI)"
+    },
+    {
+      "name": "Eleminator",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "125",
+      "raw_quote": "“Eleminator,” (XXVII), which is part of the same prayer"
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "134",
+      "raw_quote": "Tetragrammaton, respice, Domine, Deus"
+    },
+    {
+      "name": "Monhon",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "134",
+      "raw_quote": "Monhon, Domine, sancte Pater, omnipotens"
+    },
+    {
+      "name": "Hely Deus",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "135",
+      "raw_quote": "Hely Deus, creator, Adonay"
+    },
+    {
+      "name": "Hocleiste",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "136",
+      "raw_quote": "Hocleiste, sancte Deus"
+    },
+    {
+      "name": "Hamphynethon",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "136",
+      "raw_quote": "Hamphynethon, Heloy, clementissime creator"
+    },
+    {
+      "name": "Lamyhara",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "137",
+      "raw_quote": "Lamyhara, omnipotens, misericors Pater"
+    },
+    {
+      "name": "Angels",
+      "type": "angel",
+      "attributes": {
+        "nature": "holy"
+      },
+      "page_ref": "125, 130",
+      "raw_quote": "sacratissima nomina Dei et angelorum"
+    },
+    {
+      "name": "Spirits of the air and earth",
+      "type": "spirit",
+      "attributes": {
+        "nature": "can be compelled to obey"
+      },
+      "page_ref": "130",
+      "raw_quote": "to compel the spirits of the air and the earth into coming and obeying."
+    },
+    {
+      "name": "First Purification",
+      "type": "ritual",
+      "attributes": {
+        "timing": "lunar days 4, 8, 12, 16, 20, 24, 28, 32"
+      },
+      "page_ref": "127",
+      "raw_quote": "LI. The first purification."
+    },
+    {
+      "name": "Assaylemaht...",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "126, 127",
+      "raw_quote": "namely “Assaylemaht…” (XX) and “Hazailemaht …,” (XXI)"
+    },
+    {
+      "name": "Lameht ragua...",
+      "type": "prayer",
+      "attributes": {
+        "nature": "most holy"
+      },
+      "page_ref": "126, 130",
+      "raw_quote": "That most holy prayer: “Lameht ragua...”"
+    },
+    {
+      "name": "Hazaram hihel...",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "129, 130",
+      "raw_quote": "“Hazaram hihel ...” (XXXI) with its four parts"
+    },
+    {
+      "name": "Semoht gechel...",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "129, 130",
+      "raw_quote": "this prayer must be offered: “Semoht gechel ...” (XXXIX)"
+    },
+    {
+      "name": "Alms",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "to achieve success/mercy"
+      },
+      "page_ref": "125, 126",
+      "raw_quote": "cheerfully give many alms"
+    },
+    {
+      "name": "Fasting on bread and water",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "for legal cases before a judge"
+      },
+      "page/section": "130",
+      "raw_quote": "he should fast on bread and water the day before he is to plead his case"
+    },
+    {
+      "name": "Incense",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "131",
+      "raw_quote": "Then he should take incense and fumigate as he approaches the altar"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Angels",
+      "to": "God",
+      "type": "servants/names belong to"
+    },
+    {
+      "from": "Spirits of the air and earth",
+      "to": "Celestial spirits",
+      "type": "can be compelled by"
+    },
+    {
+      "from": "The practitioner",
+      "to": "God",
+      "type": "seeks permission from"
+    }
+  ],
+  "summary": "This chunk details specific ritual procedures for the 'First Purification,' including precise lunar timings, prayer sequences, and required states of chastity. It also provides instructions for special circumstances, such as seeking legal justice or interacting with spirits, and lists several divine names and prayers.",
+  "key_passages": [
+    "If however your petition is rejected, consider another time in which to seek permission, and then prepare yourself better before God",
+    "whoever wishes to say those prayers must be chaste and clean, and offer them with devotion",
+    "to compel the spirits of the air and the earth into coming and obeying.",
+    "if someone has a major case before a judge... he should fast on bread and water the day before he is to plead his case",
+    "the prayers previously named, and named afterwards, with their number, are these:"
+  ]
+}

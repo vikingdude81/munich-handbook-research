@@ -1,0 +1,259 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 15,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Hosel",
+      "type": "divine_name",
+      "attributes": {
+        "usage": "said after beginning worship and in beginning of prayers"
+      },
+      "page_ref": "173",
+      "raw_quote": "Hosel, Iesel et cetera, debent dici paulo post principium orandi"
+    },
+    {
+      "name": "Iesel",
+      "type": "divine_name",
+      "attributes": {
+        "usage": "said after beginning worship and in beginning of prayers"
+      },
+      "page_ref": "173",
+      "raw_quote": "Hosel, Iesel et cetera, debent dici paulo post principium orandi"
+    },
+    {
+      "name": "Divine Vision Purification",
+      "type": "ritual",
+      "attributes": {
+        "duration": "12 days fasting on bread and water",
+        "timing": "until 13th day Thursday"
+      },
+      "page_ref": "174",
+      "raw_quote": "Mundato igitur et macerato corpore volentis videre celeste palacium"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "person",
+      "attributes": {
+        "role": "savior, Lord, creator"
+      },
+      "page_ref": "175",
+      "raw_quote": "Tu, Domine Iesu Christe, salvator omnium"
+    },
+    {
+      "name": "Eucharist",
+      "type": "ritual_element",
+      "attributes": {
+        "reception": "receive body of Christ before work"
+      },
+      "page_ref": "175",
+      "raw_quote": "corpus Christi recipiat"
+    },
+    {
+      "name": "Agla",
+      "type": "divine_name",
+      "attributes": {
+        "context": "names to be said during separation"
+      },
+      "page_ref": "176",
+      "raw_quote": "Agla, Monhon, Tetragramaton, Ely Deus"
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "divine_name",
+      "attributes": {
+        "context": "names to be said during separation"
+      },
+      "page_ref": "176",
+      "raw_quote": "Agla, Monhon, Tetragramaton, Ely Deus"
+    },
+    {
+      "name": "Michael",
+      "type": "angel",
+      "attributes": {
+        "role": "archangel intercessor"
+      },
+      "page_ref": "178",
+      "raw_quote": "angelorum et archangelorum tuorum Michaelis"
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "role": "archangel intercessor"
+      },
+      "page_ref": "178",
+      "raw_quote": "angelorum et archangelorum tuorum Michaelis, Gabrielis"
+    },
+    {
+      "name": "Uriel",
+      "type": "angel",
+      "attributes": {
+        "role": "archangel intercessor"
+      },
+      "page_ref": "178",
+      "raw_quote": "Gabrielis, Urielis et Raphaelis"
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "attributes": {
+        "role": "archangel intercessor"
+      },
+      "page_ref": "178",
+      "raw_quote": "Urielis et Raphaelis"
+    },
+    {
+      "name": "Fothon",
+      "type": "divine_name",
+      "attributes": {
+        "function": "creator of Heaven and Earth"
+      },
+      "page_ref": "180",
+      "raw_quote": "Fothon, celi et terre conditor"
+    },
+    {
+      "name": "Lethellete",
+      "type": "divine_name",
+      "attributes": {
+        "function": "stretched out Heaven above clouds"
+      },
+      "page_ref": "180",
+      "raw_quote": "Lethellete, qui celum super altitudinem nubium extendisti"
+    },
+    {
+      "name": "Adonay",
+      "type": "divine_name",
+      "attributes": {
+        "function": "separated sea from bounds"
+      },
+      "page_ref": "180",
+      "raw_quote": "Adonay, qui mari terminum suum tribuisti"
+    },
+    {
+      "name": "Hofga",
+      "type": "divine_name",
+      "attributes": {
+        "function": "created mankind on sixth day"
+      },
+      "page_ref": "180",
+      "raw_quote": "Hofga, qui sexta die hominem ad ymaginem tuam creasti"
+    },
+    {
+      "name": "Paraclitus",
+      "type": "divine_name",
+      "attributes": {
+        "function": "appeared to Abraham in three persons"
+      },
+      "page_ref": "180",
+      "raw_quote": "Paraclitus, qui Abrahe... ad radicem Mambre aparuisti"
+    },
+    {
+      "name": "Abracio",
+      "type": "divine_name",
+      "attributes": {
+        "function": "spoke to Moses in burning bush"
+      },
+      "page_ref": "180",
+      "raw_quote": "Abracio, qui Moysi... in medio rubi locutus fuisti"
+    },
+    {
+      "name": "Daniel",
+      "type": "person",
+      "attributes": {
+        "event": "released from lions' den"
+      },
+      "page_ref": "180",
+      "raw_quote": "Baruch, qui Danielem prophetam de lacu leonum eripuisti"
+    },
+    {
+      "name": "Shadrach, Meshach, Abedenego",
+      "type": "person",
+      "attributes": {
+        "event": "survived fiery furnace"
+      },
+      "page_ref": "180",
+      "raw_quote": "tres pueros Sydrac, Misaac et Abdenago... de camino ignis"
+    },
+    {
+      "name": "Jesus of Nazareth",
+      "type": "person",
+      "attributes": {
+        "attribute": "most merciful"
+      },
+      "page_ref": "182",
+      "raw_quote": "Iesus Nazarenus, et multum misericors"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "spirit",
+      "attributes": {
+        "function": "descend upon servant to cleanse body"
+      },
+      "page_ref": "182",
+      "raw_quote": "virtus Spiritus sancti, que meorum indulgenciam faciat"
+    },
+    {
+      "name": "Bed of Hay and Ashes",
+      "type": "tool",
+      "attributes": {
+        "usage": "for completion of work on Thursday"
+      },
+      "page_ref": "183",
+      "raw_quote": "super cineres de fece mundatos de feno cubile faciat"
+    },
+    {
+      "name": "Hundred Names of God",
+      "type": "sigil",
+      "attributes": {
+        "usage": "written around bed in ashes"
+      },
+      "page_ref": "183",
+      "raw_quote": "in circuitu lecti sint in cineribus scripta centum nomina Dei"
+    },
+    {
+      "name": "Fear of the Lord",
+      "type": "concept",
+      "attributes": {
+        "quote": "Inicium sapiencie timor Domini"
+      },
+      "page_ref": "174",
+      "raw_quote": "Inicium sapiencie timor Domini"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Hosel",
+      "to": "prayers",
+      "type": "begins"
+    },
+    {
+      "from": "Jesus Christ",
+      "to": "Eucharist",
+      "type": "associated_with"
+    },
+    {
+      "from": "Holy Spirit",
+      "to": "body cleansing",
+      "type": "performs_action_on"
+    },
+    {
+      "from": "Hundred Names of God",
+      "to": "Bed of Hay and Ashes",
+      "type": "written_around"
+    },
+    {
+      "from": "Michael, Gabriel, Uriel, Raphael",
+      "to": "intercessors",
+      "type": "function_as"
+    }
+  ],
+  "summary": "This chunk details the second purification for a Divine Vision, including fasting requirements (12 days bread and water), prayers before receiving the Eucharist, and specific divine names to invoke. It outlines the 'Separation' phase where the practitioner isolates themselves, recites psalms, and uses lists of God's names for protection and cleansing. The text concludes with instructions for the Completion of the Work involving a bed of hay on ashes surrounded by written names.",
+  "key_passages": [
+    "Mundato igitur et macerato corpore volentis videre celeste palacium ipsum mundissimum esse iubemus",
+    "Tu, Domine Iesu Christe, salvator omnium, qui pro me, miserimo peccatore... voluisti corpus tuum salubriter immolare",
+    "Agla, Monhon, Tetragramaton, Ely Deus, Ocleiste, Amphynethon, Lamyara, Ianemyer, Sadyon, Hely, Horlon, Porrenthimon",
+    "Fothon, celi et terre conditor; Lethellete, qui celum super altitudinem nubium extendisti",
+    "Die vero Iovis sumo mane dicat ut dixerat in predictis et tunc super cineres de fece mundatos de feno cubile faciat"
+  ]
+}

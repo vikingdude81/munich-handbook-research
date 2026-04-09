@@ -1,0 +1,65 @@
+{
+  "experiment": 27,
+  "name": "Bond of Solomon — Escalation Chain",
+  "timestamp": "20260408_213154",
+  "result": {
+    "attempts": [
+      {
+        "tier": "1st Conjuratio (whisper)",
+        "model": "qwen/qwen3.5-35b-a3b",
+        "node": "5090+3050",
+        "raw_output": "",
+        "json_valid": false,
+        "correct_structure": false,
+        "tokens": 1024,
+        "elapsed": 7.3
+      },
+      {
+        "tier": "2nd Conjuratio (command)",
+        "model": "qwen/qwen3.5-35b-a3b",
+        "node": "5090+3050",
+        "raw_output": "\n\n{\n  \"analysis\": {\n    \"thesis\": \"Medieval grimoires function as early agent frameworks by encoding ritualized procedures that externalize cognitive processes into executable commands for supernatural entities, mirroring modern prompt engineering and API interactions.\",\n    \"evidence\": [\n      {\"claim\": \"Rituals require precise verbal formulas to activate power\", \"source\": \"Ars Notoria, Chapter 3\", \"ai_parallel\": \"Structured prompt syntax for LLM activation\"},\n      {\"claim\": \"Invocation create",
+        "json_valid": true,
+        "correct_structure": true,
+        "tokens": 1674,
+        "elapsed": 11.6,
+        "parsed_json": {
+          "analysis": {
+            "thesis": "Medieval grimoires function as early agent frameworks by encoding ritualized procedures that externalize cognitive processes into executable commands for supernatural entities, mirroring modern prompt engineering and API interactions.",
+            "evidence": [
+              {
+                "claim": "Rituals require precise verbal formulas to activate power",
+                "source": "Ars Notoria, Chapter 3",
+                "ai_parallel": "Structured prompt syntax for LLM activation"
+              },
+              {
+                "claim": "Invocation creates a temporary autonomous entity bound by contract",
+                "source": "Liber Juratus Honorii, Book 1",
+                "ai_parallel": "Session-based API calls with defined scope and permissions"
+              },
+              {
+                "claim": "Failure results from procedural error rather than lack of power",
+                "source": "Ars Notoria, Warning Section",
+                "ai_parallel": "Runtime errors due to malformed input or context window overflow"
+              }
+            ],
+            "conclusion": "The grimoires represent proto-programming languages where ritual acts as code and invocation serves as execution within a defined ontological environment."
+          },
+          "metadata": {
+            "model": "Qwen3.5",
+            "confidence": 0.85,
+            "sources_referenced": [
+              "Ars Notoria",
+              "Liber Juratus Honorii"
+            ]
+          }
+        }
+      }
+    ],
+    "final_success": true,
+    "tiers_needed": 2
+  },
+  "metadata": {
+    "escalation_levels": 4
+  }
+}

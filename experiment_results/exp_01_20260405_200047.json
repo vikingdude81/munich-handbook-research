@@ -1,0 +1,31 @@
+{
+  "experiment": 1,
+  "name": "Knowledge Conjuration",
+  "timestamp": "20260405_200047",
+  "result": [
+    {
+      "question": "What spirits are invoked for the invisibility experiments, and what materials are required?",
+      "answer": "To answer your inquiry regarding the rituals of invisibility, I must draw from the various threads of my binding:\n\n**Spirits Invoked**\nThe provided texts do not list a single, unified group of spirits specifically dedicated to all invisibility experiments; rather, they describe different methods and associated entities:\n*   In one ritual involving a sacrifice, the text mentions the use of a **white dove** sacrificed on a Saturday night [necro chunk 37].\n*   In rituals for obtaining illusory transportation or invisibility, specific spirits such as **Lautrayth, Feremin/Oliroomim**, and **Firiel, Melemil, Berith, Taraor** are named in the context of these types of illusions [necro chunk 7, necro chunk 26].\n*   One method for achieving invisibility involves the use of a **black cat born in March** [necro chunk 28].\n\n**Required Materials**\nThe materials vary significantly depending on the specific experiment being performed:\n*   **For the ritual involving the white dove:** A white dove is required, and its blood is used to draw the necessary figures [necro chunk 37].\n*   **For the black cat method:** A black cat born in the month of March is the essential component [necro chunk 28].\n*   **General ingredients for illusionary/transportation rites:** These experiments often require materials such as **bat’s blood**, **horsehide**, and **heliotrope seeds** [necro chunk 7, necro chunk 26].\n*   **For invisibility via clothing or plants:** The text notes that invisibility can be sought through the use of a **cloak** or specific **plants** [forbidden_rites_pdf chunk 7].\n\n**Interpretation**\nWhile the text provides specific ingredients for different \"illusionist\" experiments, it appears that \"invisibility\" is treated as one of several possible outcomes of necromantic manipulation, ranging from the use of animal sacrifice to the use of specific biological agents (the black cat).",
+      "tokens": 430,
+      "elapsed": 9.0
+    },
+    {
+      "question": "Describe the hierarchy of demonic princes in CLM 849 — who commands whom?",
+      "answer": "This lies beyond my binding.\n\nThe provided source material does not contain a definitive hierarchical chart or a specific description of a chain of command among demonic princes. While the text lists numerous named spirits, demons, and their ranks, it does not explicitly state which demon commands another in a structured hierarchy. \n\nI can, however, provide the following details regarding the organization and grouping of spirits as mentioned in the texts:\n\n*   **Groups and Legions:** The text mentions that certain demons are listed with \"ranks and legions\" ([necro chunk 32]), but it does not define the specific order of command. It also references groups of spirits, such as the \"armigeri\" group used for military illusions ([necro chunk 26]) and the \"Oymelor group\" or \"Vsyr group\" involved in banquet and castle summonings ([necro chunk 25]).\n*   **Subordinate Spirits:** There are references to \"demonic rulers\" and their \"subordinate spirits\" ([necro chunk 17]), as well as \"demon kings\" (specifically Apolin, Maraloth, and Berith) who can be invoked to send a teacher-spirit ([necro chunk 15]).\n*   **Command via Divine Names:** The text emphasizes that the power to command spirits does not come from a demonic hierarchy, but rather from the use of \"sacred names\" (such as Tetragrammaton, Adonay, and Agla) and \"divine authority\" to coerce them ([necro chunk 16, 17, 18, 21]).\n*   **Specific Named Entities:** While no hierarchy is defined, certain entities are identified with specific roles or associations:\n    *   **Mirage (or Satan):** Subject to conjuration through the use of Christian liturgical language and divine authority ([necro chunk 31]).\n    *   **The Three Demons of the Trial:** Luxuriosus, Superbus, and Avarus are explicitly listed as being conjured by Jubertus ([necro chunk 3, 4]).",
+      "tokens": 442,
+      "elapsed": 8.2
+    },
+    {
+      "question": "What role does the boy medium (puer) play in the divination experiments?",
+      "answer": "In the divinatory rituals of the Munich Handbook (CLM 849), the boy medium (*puer*) serves as a vital participant for scrying and revelation.\n\nAccording to the provided texts:\n\n*   **Role in Scrying:** The *puer* is specifically identified as a ritual participant in experiments involving scrying with mirrors, crystals, and fingernails [necro chunk 13].\n*   **Method of Observation:** In certain rituals, the gaze of a boy is utilized for the purpose of detecting theft or murder [necro chunk 28].\n*   **Spirit Communication:** The text details rituals for spirit conjuration that specifically utilize \"child seers (*puer/virgo*)\" to facilitate the process [necro chunk 29].\n\nWhile the text identifies their presence and use in these divinatory acts, it does not explicitly detail the specific training or internal state required of the *puer*, other than their role as a medium for the observation of spirits or hidden truths.",
+      "tokens": 216,
+      "elapsed": 4.3
+    }
+  ],
+  "metadata": {
+    "model": "google/gemma-4-26b-a4b",
+    "node": "Xeon",
+    "context_chunks": 30,
+    "questions": 3
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "experiment": 27,
+  "name": "Bond of Solomon — Escalation Chain",
+  "timestamp": "20260405_202049",
+  "result": {
+    "attempts": [
+      {
+        "tier": "1st Conjuratio (whisper)",
+        "model": "qwen2.5-3b-instruct",
+        "node": "A2000",
+        "error": "Request timed out.",
+        "json_valid": false,
+        "correct_structure": false
+      },
+      {
+        "tier": "2nd Conjuratio (command)",
+        "model": "qwen3.5-0.8b",
+        "node": "A2000",
+        "error": "Request timed out.",
+        "json_valid": false,
+        "correct_structure": false
+      },
+      {
+        "tier": "3rd Conjuratio (threat)",
+        "model": "google/gemma-4-26b-a4b",
+        "node": "4070",
+        "raw_output": "{\n  \"analysis\": {\n    \"thesis\": \"The Munich Handbook serves as an agent framework by establishing a standardized set of protocols for goal-oriented autonomy and environmental interaction. It moves beyond simple instruction following to define the structural requirements for independent decision-making and tool utilization.\",\n    \"evidence\": [\n      {\n        \"claim\": \"Definition of hierarchical task decomposition for complex objectives.\",\n        \"source\": \"Section 2.1: Planning Architectures\",\n",
+        "json_valid": true,
+        "correct_structure": true,
+        "tokens": 1808,
+        "elapsed": 103.0,
+        "parsed_json": {
+          "analysis": {
+            "thesis": "The Munich Handbook serves as an agent framework by establishing a standardized set of protocols for goal-oriented autonomy and environmental interaction. It moves beyond simple instruction following to define the structural requirements for independent decision-making and tool utilization.",
+            "evidence": [
+              {
+                "claim": "Definition of hierarchical task decomposition for complex objectives.",
+                "source": "Section 2.1: Planning Architectures",
+                "ai_parallel": "Chain-of-Thought (CoT) reasoning and sub-goal generation in LLM agents."
+              },
+              {
+                "claim": "Implementation of closed-loop feedback mechanisms for environmental adaptation.",
+                "source": "Module 4: Perception-Action Cycles",
+                "ai_parallel": "Reinforcement Learning (RL) loops and real-time sensor integration."
+              },
+              {
+                "claim": "Standardized protocols for external tool invocation and API interaction.",
+                "source": "Appendix B: Tool Use Specifications",
+                "ai_parallel": "Function calling and plugin architectures in modern Large Language Models."
+              }
+            ],
+            "conclusion": "The framework's emphasis on planning, perception, and action-oriented protocols directly mirrors the core architectural components of contemporary autonomous AI agents."
+          },
+          "metadata": {
+            "model": "GPT-4o",
+            "confidence": 0.95
+          }
+        }
+      }
+    ],
+    "final_success": true,
+    "tiers_needed": 3
+  },
+  "metadata": {
+    "escalation_levels": 4
+  }
+}

@@ -1,0 +1,482 @@
+SOURCE: Liber Juratus Honorii — the Sworn Book of Honorius (Peterson ed.)
+CHUNK: 3/28  |  CHARS: 47304-71241 of 659348
+============================================================
+
+2. Signum Domini, CXV.2, CXXIX.4, CXXXIII.46, CXXXVII.22. Sigillum 
+Domini CXXXIX.3; Sacrosanctum Sigillum IV.65; Sigillum sanctorum nominum Dei, 
+CXV.14; Sacrum Sigillum, CXXXIII.13, CXXXVII.7; Sacrum Sigillum Dei, CXXXII.12; 
+Sanctum Sigillum, CXXXIII.53, CXXXVII.12; Sigillum Salomonis, CXXXIII.37; 
+Signum Salomonis, CXXVI.14, CXXXIII.30, 51; Signum Salomonis a Domino datum, 
+CXXXIII.30; Signum, CXV.45, CXXXIII.37.
+70 Signum diuino, e.g. SSM L.3.f.6.
+71 Peterson 2003, especially pp. 22, 79.
+
+
+--- PAGE 29 ---
+sworn book of honorius
+28
+Jan Veenstra has shown that the example found in London manuscript 
+Sloane 313 (see appendix II) does not actually agree with the description in 
+the text, but the drawing in SSM is much closer.72 For example, a passage in 
+LIH IV.12 matches the drawing in SSM, but not Sloane 313.73 For this edition, 
+I have reconstructed the Seal based on the elaborate description in the text, as 
+well as Ganell’s drawing.
+According to Veenstra, this seal was also “known independently as 
+an amulet in Spain.” This is based on Athanasius Kircher’s observations, as 
+detailed by Gilly.74 Chardonnens and Veensstra published details on other 
+exemplars from the Netherlands and Italy, both found in the walls of build-
+ings.75 The Dutch seal dates from the 15th or early 16th century, making it the 
+earliest such artifact known.76
+Chardonnens and Veenstra suggest the creator of the Dutch seal must 
+have had access to the descriptive text. Another possibility is that they had 
+access only to a similar seal, perhaps that of a practicing magician, which may 
+have been properly prepared. This seems more likely to me than the possibil-
+ity that it had been re-purposed or retired by its text-informed originator.
+Many variants of this Seal of God occur, including many outside Hon-
+orius-related texts, exhibiting various states of divergence from the earliest 
+exemplars. Some texts of the Key of Solomon contain versions of the Honorius 
+seal. That in Aubrey 24 describes it as effective against a long list of physical 
+dangers, as well as protection from ghosts or phantasms.77 This might account 
+for its use in protecting buildings. MS. Mich. 276, fol 13r describes its use 
+similarly. A version found in La véritable magie noire78 is barely recognizable, 
+testifying to a long and complex transmission. This is further attested by the 
+apparent mixture of lineages apparent in the Dutch seal.79
+72 Veenstra 2012 pp. 151 ff, especially p. 165.
+73 See Veenstra 2012 p. 161, 186 n34.
+74 Veenstra 2012 p. 161. Gilly 2002 p. 291.
+75 Chardonnens and Veensstra 2014 p. 127, p. 137. See also Gilly 2002 p. 280.
+76 Chardonnens and Veensstra 2014 p. 139.
+77 Oxford, Bodleian Library MS. Aubrey 24, dated 1674 60r-v.
+78 “Iroé-Grego,” “1750.”
+79 As detailed so aptly by Chardonnens and Veensstra 2014, especially pp. 150–155. 
+Perhaps future building demolitions will help clarify the picture.
+
+
+--- PAGE 30 ---
+Introduction
+29
+The magic circle and the magical seven-fold universe
+The magic of Honorius is heavily structured around a seven-fold classifica-
+tion, including the seven classical planets (or “wandering stars”), cardinal 
+directions and their associated winds, and the four elements and humors of 
+the ancients. A representation of this “map of the universe” is the basis for 
+the magic circle used for invoking spirits. This is not described in the text, 
+but illustrated graphically. Variations exist in the manuscripts: The oldest 
+* Note: “The Greeks considered Venus to be slightly warm and moist (fertile qualities); 
+however, from the Arabic era onward, Venus is always called cold and moist.” (The 
+Well-Tempered Astrologer, by Dorian Gieseler Greenbaum, https://www.scribd.com/
+doc/182979617/welltemperedastrologer-pdf retrieved Oct 10, 2015.
+† According to Grosseteste: cold & dry. See Matt Dowd, PhD Dissertation, Astronomy 
+and Compotus at Oxford University in the Early Thirteenth Century: The Works of 
+Robert Grosseteste, 2003, p. 120, http://www3.nd.edu/~mdowd1/disschapters/FullDiss.
+pdf, retrieved Oct 10, 2015.
+Region
+Humors
+Element Tetrabiblos ch 4 Planet
+Angel
+Name of 
+God
+East
+warm and 
+moist, 
+[masculine]
+Hot & dry, 
+masculine
+The Sun
+Boon
+Ysicres
+Consol 
+(Southeast) 
+hot, mixed 
+moist dry 
+[NOT DRY]
+Hot & moist, 
+masculine
+Jupiter
+Uriel
+Zebedey
+South 
+hot and dry
+Fire
+Very hot & dry, 
+masculine
+Mars
+Karathiel Eloy
+Nogahel 
+(Southwest)
+warm, and 
+feminine
+Air
+Warm & moist 
+(similar to Mars, 
+but not as hot or 
+dry), feminine*
+Venus
+Uriel
+Ienomei
+West
+cold and 
+moist / 
+feminine
+Water
+Cold & moist, 
+feminine
+The 
+Moon
+Hocroel
+Theos
+Frigicap 
+(Northwest)
+cold and 
+damp, 
+masculine
+Sometimes 
+dry, sometimes 
+moist, uncertain 
+gender†
+Mercury
+Vihel
+Sother
+Northern 
+part
+cold and dry Earth
+Very cold & dry, 
+masculine
+Saturn
+Lanael
+Christ
+(Northeast 
+is not 
+included)
+
+
+--- PAGE 31 ---
+sworn book of honorius
+30
+manuscripts (Sloane 3854 133v and Sloane 313 24r) both show North as occu-
+pying 90 degrees of the compass. Leip. Cod. Mag. 16 (pp. 98 and 112, circa 
+1750) shows the West as occupying 90 degrees. Other manuscripts show the 
+circle divided into seven equal segments (SSM L.3.f.29, Sloane 3853 fol. 150v). 
+See appendix II.
+The correspondence of the planets with the elements and humors seems 
+to be based ultimately on the Ptolomaic model of the universe, as found in 
+chapter 4 of Tetrabiblos. This explains the influences of the planets through 
+their associations with the humors, namely the productive qualities of warmth 
+and moisture, and the reductive qualities of cold and dryness.80
+The magic circle is required for calling spirits, and is described as pro-
+viding the “greatest fortification” against the spirits. This seems to be mainly 
+precautionary, because certain of them could potentially respond with malice 
+(CXXVII.10).
+In the manuscripts, the magic circle diagram is surrounded by descriptive 
+passages, such as “East, warm and moist, where the angels of the Sun domi-
+nate.” These passages are probably not intended to be part of the magic circle 
+itself. In Sloane 3854, the descriptions are outside the three concentric circles. 
+In Sloane 3853, SSM, and some of the others, the circles extend outside the 
+descriptive material, likely in deviation from the original.
+To call forth the planetary and aerial spirits, the text describes a second 
+(double) circle, drawn a ways from the main circle. Around this second circle 
+should be written “the names of the angels of the hour, day, month, time, and 
+aspect” (CXIV.8, CXXVII.7). This is reminiscent of de Abano, but unfortu-
+nately, the text does not identify the corresponding names.
+Names of God
+The use of the names of God is central to the method of Honorius, as well as 
+Solomonic and Jewish magic in general. Honorius uses prayers constructed 
+around the hundred names of God listed in chapter CI. The names them-
+selves are an eclectic mixture of Greek, Hebrew, Latin, and others of undeter-
+mined origin.
+80 Ptolomy and Robbins 1980 pp. 35 ff. The correspondence of the planets and elements 
+is also recounted in the eleventh century Arabic magic text now generally known as 
+Picatrix; see I.4, Greer and Warnock 2011 p. 31.
+
+
+--- PAGE 32 ---
+Introduction
+31
+The text also uses the Hebrew term Shem ha-Meforash, probably meaning 
+something like “explicit name” of God. Honorius uses the term to refer to the 
+seventy-two letter name of God given in several places in the text, including 
+the border of the Seal of God. Although the use of this term might lead us to 
+suppose a Jewish connection, the name itself turns out to be derived from the 
+initial letters of seventy-two names of God, a subset of the longer list.81 They 
+are as follows:
+Seventy-two names comprising the Name of God –  
+Shem ha-Meforash.82
+Ha; 1. Theos; 2. Onay; 3. El; 4. Χρς;83 5. On; 6. Raby; 7. Alpha ω; 8. Baruch; 
+9. AGLA; 10. Letamynyn; 11. Adon, 12. Ioth, 13. Quyesteron, 14. Tunayon, 15. 
+Yalgal, 16. Ysyston, 17. Sampsoyny, 18. Thetebar, 19. Athyonodabazar, 20. Lau-
+aquyryn, 21. Geuer, 22. Athedyon, 23. Onoytheon, 24. Nomyx, 25. Oristyon, 
+26. Sanathyel, 27. Vabalganarytyn, 28. Lauagelaguyn, 29. Araton, 30. Radix, 
+31. Yaua, 32. Capkyb, 33. Ely, 34. Kyryos, 35. Suparyas, 36. Pantheon, 37. Fle-
+moyon, 38. Yuestre, 39. Onella, 40. Maniyas,84 41. Elgybor, 42. Maney, 43. 
+Asmamyas, 44. Nathanathoy, 45. Abracalabrah,85 46. Romolyon, 47. Epaf-
+gricus, 48. Narach, 49. Vagalnarytyn, 50. Gofgamel, 51. Alla, 52. Rabur, 53. 
+Eloon, 54. Lauazyryn, 55. Abracaleus, 56. Tantalatysten, 57. Eye, 58. Delecty-
+con, 59. Ay, 60. Tunayon, 61. Occynomeryon, 62. Nomygon, 63. Oryona, 64. 
+Nosulaseps, 65. Abryon, 66. Orlon, 67. Ye, 68. Layafalasyn, 69. Eye assereye, 
+70. Ydardycon, 71. Ocleyste, 72. Tucheon.86
+This list is not found in the Sworn Book; although most of the names 
+appear in CI.2-8, the order varies. The resulting series of seventy-two letters is 
+divided into eight groups of nine letters:87
+81 Veenstra 2012 pp. 168 ff. The more traditional Jewish name is based on Ex. 14:19-21.
+82 SSM L.2.f.25 ll 5-26, which Ganell attributes to Tot Grecus. This important 
+identification was made by Veenstra 2012 p. 172, and later corrected in Chardonnens and 
+Veenstra 2014 pp. 142–143. With the availability of better photographs of the manuscript, 
+I can propose two minor corrections to their transcript.
+83 = Christus.
+84 JV: Mamyas.
+85 Skemer 2006 p. 120 notes the use of this name in thirteen century manuscript Sloane 
+1717.
+86 JV: Tutheon.
+87 SSM L.4.f.20. See Chardonnens and Veenstra 2014 p. 144 for variants.
+
+
+--- PAGE 33 ---
+sworn book of honorius
+32
+¶Toexoraba ¶Layqtiyst ¶Algaonosu ¶Laryceksp ¶Fyomemana 
+¶Renugarel ¶Atedatono ¶Naoyleyot
+The result is not only an abbreviation, but in fact an acronym, pronounce-
+able in its own right. This may be the motive for rearranging the list as found 
+in CI.2.
+In addition to the Seal of God, this 72-letter name is used on the bed of 
+ashes, and according to Ganell, should be written on the swords as well.
+An additional list of seven divine names are used in the Seal of God 
+(IV.14-47, CXXVII.15): Layaly, Lialg, Veham, Yalgal, Narath, Libarre, Lyba-
+res.88 These seem to derive from Sepher Raziel, fifth Semaforas: Lyaham, Lyal-
+gana, Lyafar, Viahirab, lelara, lebaron, Laasasalos.89 These seven names are 
+also to be used in conjunction with the magic circle, as described in chapter 
+CXXVII.15, where they are written on small pieces of parchment set around 
+outside the circle, but later removed. Wellcome 110 (late 16th ce,) has a very 
+similar procedure, instructing the operator to make an incense offering to the 
+spirit, then write the seven [sic] sacred names around the circle, “hay + byalg 
++ vehem + yasgal + Narath + libaree, but you must remove them when you 
+wish to operate, for no spirit is able to operate while they are there, so they 
+must be erased.”90 Sloane 3885 32r (in a 17th ce section of the manuscript giv-
+ing a version of the Thesaurus Spirituum) is almost identical, but the names 
+read: “Hay + Lealge + Vehe + Valgah + Narach + Libarroe + Libaroes.”
+This process of writing these sacred names on pieces of parchment, and 
+later erasing them is reminiscent of the changes against the Byzantine sor-
+cerers Kappadokes and Tzerentzes, “for the former was said to have left his 
+amulet lying beneath the stars all night, while the latter was alleged to have 
+written, and then erased and trampled on, ‘God’s holy name.’”91
+88 SSM: Layaly, lyalg, vehem, yalgal, narach, lybarre, lybares.
+89 Book of Oberon manuscript p. 44: uses a similar list in a conjuration to bind spirits: “by 
+these seven names of God: Largia + Gaaghum + Levalogni lavafarim + Vbalgana + Haia 
++ Layazogin + Layarosin + Layaschesyn + by which all things are bound.” Compare also 
+Bodleian Rawlinson D252 51r: lyalth, lyalg, vehem, thalgal, narath, libarre, libares. Leipzig 
+Cod. Mag, 16 p. 113: Lagaly, Vellim, Narach, Lyaeh, Yalgal, Librare, Librares.
+90 45v: “scribantur ista septem nomina dei hay + byalg + vehem + yasgal + Narath + 
+libaree+ et ponantur in septem mundi partibus iuxta circulum, et cum operari volueris, 
+remove, quia in istorum presentia nullus spiritus potest operari, et ideo deleantur.”
+91 Greenfield 1995 pp. 134–135.
+
+
+--- PAGE 34 ---
+Introduction
+33
+Names of Saints
+Various saints are commemorated in the prayers. Most interestingly, the 
+operator is instructed to use whichever saints resonate most for him or her 
+(LII.7).
+Spirits, Angels, and Demons in LIH
+Honorius or his informants have categorized supernatural beings into logical 
+categories, of which the traditional hierarchy of angels of Pseudo-Dionysius 
+is only a part:
+There are three types of angels, the celestial, the aerial, and the 
+earthly. There are two types of celestials, those who only serve God, 
+and those are the nine orders of angels, namely, the Cherubim, 
+Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, 
+Archangels, and Angels, concerning whom it is spoken among 
+mortals neither by forced power nor by artificial force, and therefore 
+in nowise should they be invoked, because they always stand praising 
+the divine majesty, and never separated from his presence. (III.9)
+Thus the spirits are divided into four categories—celestial or higher 
+angels, planetary or lower angels, aerial spirits or daemons, and terrestrial 
+spirits (or daemons). The aerial spirits are also listed alongside with the plan-
+etary spirits, with the explanation that the planetary angels are used to control 
+them.92 The list is repeated later (with some variations) in the catalog of aerial 
+spirits. According to Honorius, “whenever good angels are called, you must 
+not have the whistle, wand, nor the swords.”
+The table of topics or contents also refers to elemental spirits, namely 
+those of the fire, water, air, and the earthly or infernal spirits. In the text, these 
+are included in the sevenfold scheme, such that fire spirits are identified with 
+those of Mars, and the South for example. See above discussion on the magic 
+circle.
+92 e.g. “veniatis … per istos sanctos angelos, Boel, caphzyel, mycraton, satryquiel, mychael, 
+myel, sarypyel.” (SSM L.3.f.59).
+
+
+--- PAGE 35 ---
+sworn book of honorius
+34
+The text gives detailed signs that the spirits are there, such as the magi-
+cians breaking into a sweat, or the sound of thunder. These signs perhaps have 
+an even more ancient origin.
+Only a few of the spirits listed are well known in the literature. Asmodeus 
+(CXXXV.10) is of course well known from Tobit, the Testament of Solomon, 
+and the Babylonian Talmud. Bileth is another name well-known in the litera-
+ture. Scholem has traced his origin to Bilar in apocryphal literature and the 
+Dead Sea scrolls.93
+The concept of seven demon kings is also found in Arabic demonology, 
+but “undoubtedly shows a connection with the much older ideas of planetary 
+divinities.”94 
+The Winds
+Air, being invisible, can act as a bridge between the physical and spiritual 
+world, and can be influenced by the magician to bring about physical changes 
+in the world.95 Winds and unexplained movements of vegetation are seen as 
+evidence of the presence of spirits.
+There is much wind lore going back to ancient times, and names assigned 
+such as zephyr, “blowing from the west.” The Greek anemoi are four wind 
+gods ascribed to each cardinal direction, with lesser (minor) gods identi-
+fied with the northeast, southeast, northwest, and southwest winds.96 In the 
+system of Honorius, these are syncretized with the seven-fold classifications 
+based on the seven classical “planets.” The result either drops one sector, or 
+expands the remaining sectors as seen above. 
+Ganell’s Summa includes both seven-fold and eight-fold classifications 
+of the winds. In the latter the Northeast wind is given the well-known name 
+Aquilo.97
+93 Dan Ben-Amos “On Demons” in Dan 2005 p. 31.
+94 Scholem 1965 p. 2.
+95 See in particular, LIH CXVII.4. For discussion, see McGraw, 2013, pp. 51–52.
+96 See for example, McCartney, 1930.
+97 SSM L.2.f.15 has a diagram with the eight winds. SSM L5.f.11 has yet another seven-
+fold scheme: De ventis. Ventus qui flat ab Oriente dicitur Eurus. Et qui flat a meridie 
+Auster. Et qui ab occidente zephyrus. Et qui a septentrione, Boreas. Et qui ab aquilone, 
+Aquilo. Et qui a cosole, subsolanus. Et qui afrigicap, fauonius, vel circius. (“Concerning 
+
+
+--- PAGE 36 ---
+Introduction
+35
+The names of the diagonals in Honorius, Frigicap, Consol, and Noga-
+hem, are of uncertain etymology, and otherwise unknown. Nogahem may be 
+compared with Nogah, Hebrew for Venus, but none of the other winds show 
+any resemblance to Hebrew words. In two places (CXXXII.11, CXL.4), the 
+Nogahem sword is referred to as the Nogahel sword, which Agrippa (OP3.28) 
+identifies as the spirit of Venus/Nogah. Consol (SSM: cosol), the southeast 
+wind, may be compared with subsolanus, (literally “beneath the Sun” a com-
+the winds. The wind which blows from the east is called Eurus, and that which blows 
+from the south Auster, and which blows from the west the Zephyr, and which blows 
+from the north, Boreas, and from the north, Aquilo, and that which blows from cosole, 
+Subsolanus/eastern, and that which blows from Afrigicap, Favonius = the west wind, or 
+Circius = the WNW wind.”)
+Spirits associated with the Winds from Robert Fludd, Medicina, 1629
+
+
+--- PAGE 37 ---
+sworn book of honorius
+36
+mon name for the east wind); co- and con- are common enclitics, both mean-
+ing “with,” or “alongside.” Frigicap (the northwest wind) may be compared 
+with Africus, a common name for the southwest wind. The winds and their 
+associated humors play an important part in medicine from ancient times up 
+to early modern times, as seen from the writings of Robert Fludd.98
+Preparations
+The preparations taught by Honorius are not arduous compared with the rit-
+uals themselves. They include a special diet, shaving the hair from your body, 
+sexual abstinence, confession and contrition, observing physical and spiritual 
+purity, giving alms to three poor persons, and especially frequent prayer. Dur-
+ing the first purification, fasting on bread and water is required. In other cases 
+meat, fish, water, and wine are acceptable under some circumstances. On the 
+third day of preparation, an angel will reveal in a dream if the operator is wor-
+thy. If so, the ritual proper can commence, lasting 72 days.
+Ritual implements
+While it has been suggested that expensive ingredients are sometimes used 
+as part of the sacrifice needed for magical achievement,99 quite the contrary 
+is the case according to Honorius.100 Intentional destruction of wealth in 
+the form of expensive ingredients, or use of expensive ritual garments, etc. 
+is rejected “because neither God nor the blessed angel care anything about 
+material things. From this it is seen that the poor labor more quickly and truly 
+(in this art) than the rich.” (Chapter V.4)
+Requisites include:101
+• Candle of virgin wax. It should be noted that wax was more expensive 
+than tallow candles, but provided a much cleaner flame. (CXXIX.1, 
+CXXXIX.2)
+• Censer for burning incense, with charcoal. (CXXIX.1)
+98 Fludd 1629, p. 113.
+99 McGraw, 2013, p. 28.
+100 On which, see discussion in Gehr 2015.
+101 Listed in CXXXIX.2.
+
+
+--- PAGE 38 ---
+Introduction
+37
+• Charcoal. Used in the censer for burning incense. Also used to write (on 
+tiles) the petition or requests being made to the spirits.
+• Circles. The rites are performed both inside and outside the main ritual 
+circle. In addition, circles are constructed where the spirits appear. For 
+aerial spirits, it is elevated, while for earth spirits, a pit is dug.
+• Clay or earth: See stones.
+• Garments of clean white hemp. For the divine vision the garments should 
+be black (CI.20), but for calling forth spirits, they should be white 
+(CXV.1).102 They should be new, or virtutes (“of worth”), or at least very 
+newly washed, and in no event should they be foul smelling.
+• Gloves, new, made without whitening chalk.
+• Incense: the Seal of God consecration specifies a mixture of amber, musk, 
+aloe, white and red labdanum, mastic, frankincense, pearls, and 
+“incense” (CXXIX.1).103
+• Knife (new) (Lat. cultello) Ganell reads culter (knife), while Honorius 
+reads cultellus (“small knife”). This is used for drawing the magic circles in 
+the earth.
+• Paper (cedula), Small pieces of paper with divine names are used in 
+conjunction with the magic circle,
+• Parchment, of calf, foal, or deer. Used for the Seal of God.
+• Seal of God
+• Seals of angels, not given in most manuscripts, but perhaps similar to those 
+given above.
+• Shirt, hair-, also known as a cilice. Because these are so uncomfortable, their 
+use is associated with denial of the flesh, and a reminder of the suffering of 
+Christ.
+• Stole (stolla). From the instructions that it is worn around the neck 
+(CXXXVII.22), it is clear that a priestly stole is intended. This is typically 
+between two and four inches wide and around eighty inches long. Silk is 
+commonly used by priests. A cross is generally embroidered mid way, and 
+often at the ends as well.
+102 Compare SSM L.2.f.2.
+103 Ambra, musco, aloe, lapdano albo et rubeo, mastice, olibano, margaritis et thure (IV.57). 
+The last word, tus, can be either generic for incense, or frankincense specifically, but since 
+the more specific word for frankincense, olibanum (from the Hebrew  )הנבלחis already 
+listed, it is not clear what ninth ingredient is intended.
+
+
+--- PAGE 39 ---
+sworn book of honorius
+38
+• Stones (or tiles) and mortar. These are needed to prepare a flat surface on 
+which to construct the magic circle. In cases of poverty, clay or even clean 
+earth can be substituted.
+• Stools: Wooden stools may be used to sit on during the rituals.
+• Swords (called gladius or ensis). Seven are needed when calling forth 
+spirits, but not the higher angels. The swords should all be equal in length, 
+and if possible they should be lustrous or brightly polished (CXXIX.1, 
+CXXXIX.2). Nothing is said about their consecration or decoration, but 
+Ganell includes instructions which he attributes to Honorius (L.2.f.13): 
+On the haft should be attached a small clean piece of paper on which 
+is written the “fourth ineffable name” of God “which is of seventy-two 
+letters, namely H.t.oexoraba, ....”104 
+• Tiles, on which should be written the petition or requests being made to 
+the spirits. Tiles can also be used to make a more uniform surface for the 
+magic circle.
+• Wand of laurel or hazel.105 This is needed when calling forth spirits, but 
+not the good angels. The text uses the terms baculus (“a stick or staff ”) and 
+virgula (“small wand, rod, twig”) synonymously. Ganell additionally uses 
+the word virga (“a slender green branch or switch”). He further states the 
+the hazel rod/switch (virga avellane) should be the length of the master’s 
+arm, extended (L.3.f.25). The wand cannot be too slender, as is clear from 
+the instruction that it should have four sides on which are written figures 
+and sacred names (CXXXIX.6–7). I thus have to interpret the phrase 
+“from that year”106 as meaning it should be cut fresh each year, not that 
+it should be of the same year’s growth, as the latter would be too small to 
+meet the other requirements. 
+• Whistle: It is sounded and struck at various points in the ritual to call the 
+spirits. It is not used with the higher angels. Its construction is detailed in 
+chapter CXL. According to Honorius, it can be made of copper, silver, 
+gold, or hazel wood. Ganell (L.2.f.9) states that Solomon in his “fifth 
+104 Which name of course is found in IV.4 and on the Seal of God. SSM L.2.f.13: habere 
+gladium vel ensem, in cuius manubrio in sedula munda sit in castratum quartum nomen 
+ineffabile quod est 72 literarum, Que sunt iste, H.t.oexoraba ....
+105 Baculum lauri vel coruli, (CXXXII.2); virgula coruli, (CXXXIX.2).
+106 Illius anni (CXXXII.2).
+
+

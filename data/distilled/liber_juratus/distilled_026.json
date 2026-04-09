@@ -1,0 +1,237 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 26,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Barthan",
+      "type": "king",
+      "attributes": {
+        "role": "King"
+      },
+      "page_ref": "317",
+      "raw_quote": "minister of King Barthan"
+    },
+    {
+      "name": "Barthan",
+      "type": "king",
+      "attributes": {
+        "role": "King"
+      },
+      "page_ref": "317",
+      "raw_quote": "minister of King Barthan"
+    },
+    {
+      "name": "Formione",
+      "type": "king",
+      "attributes": {
+        "role": "King"
+      },
+      "page_ref": "317",
+      "raw_quote": "minister to King Formione"
+    },
+    {
+      "name": "Harthan",
+      "type": "king",
+      "attributes": {
+        "role": "king of the daemons",
+        "association": "Moon and west winds",
+        "nature": "most mild (or gentle)"
+      },
+      "page_ref": "317",
+      "raw_quote": "Harthan... king of the daemons associated with the Moon and the west winds, said to be most mild (or gentle)."
+    },
+    {
+      "name": "Abaa",
+      "type": "king",
+      "attributes": {
+        "role": "King"
+      },
+      "page_ref": "317",
+      "raw_quote": "minister of King Abaa"
+    },
+    {
+      "name": "Iammax",
+      "type": "king",
+      "attributes": {
+        "role": "king of daemons/spirits of the air",
+        "association": "Mars and the south",
+        "nature": "evil, arrogant, and wild",
+        "power": "most mighty"
+      },
+      "_page_ref": "318",
+      "raw_quote": "Iammax... king of daemons associated with Mars and the south. King of spirits of the air... said to be evil, arrogant, and wild. Also said to be \"most mighty.\""
+    },
+    {
+      "name": "Sarabocres",
+      "type": "king",
+      "attributes": {
+        "role": "king of daemons or spirits of the air",
+        "association": "South and West",
+        "nature": "most noble"
+      },
+      "page_ref": "321",
+      "raw_quote": "Sarabocres... king of daemons or spirits of the air, governing between the South and the West... Said to be \"most noble.\""
+    },
+    {
+      "name": "Corniger",
+      "type": "king",
+      "attributes": {
+        "role": "King"
+      },
+      "page_ref": "319",
+      "raw_quote": "attendant of King Corniger, in the West."
+    },
+    {
+      "name": "Maymon",
+      "type": "king",
+      "attributes": {
+        "role": "king of spirits or daemons of the air",
+        "association": "North",
+        "subordinate_to": "Saturn"
+      },
+      "page_ref": "319",
+      "raw_quote": "Maymon... king of spirits or daemons of the air, governing in the North, subordinate to the planet Saturn"
+    },
+    {
+      "name": "Michael",
+      "type": "angel",
+      "attributes": {
+        "role": "archangel",
+        "association": "Moon",
+        "location_of_name": "Seal of God"
+      },
+      "page_ref": "319",
+      "raw_quote": "Michael... planetary spirit associated with the Moon. Name of one of four archangel... Name of this angel is found on the Seal of God."
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "role": "archangel"
+      },
+      "page_ref": "319",
+      "raw_quote": "Name of one of four archangel (along with Gabriel, Uriel, and Raphael)."
+    },
+    {
+      "name": "Uriel",
+      "type": "angel",
+      "attributes": {
+        "role": "archangel/higher angel"
+      },
+      "page_ref": "319",
+      "raw_quote": "Name of one of four archangel (along with Michael, Gabriel, and Raphael); one of seven higher angels (along with Barachiel)."
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "attributes": {
+        "role": "archangel",
+        "association": "Sun/East or Jupiter/Southeast",
+        "location_of_name": "Seal of God"
+      },
+      "page_ref": "321",
+      "raw_quote": "Raphael... planetary spirit associated with the Sun and the east. Name of one of four archangel... Name of this angel is found on the Seal of God."
+    },
+    {
+      "name": "Adonay",
+      "type": "divine_name",
+      "attributes": {
+        "language": "Hebrew",
+        "location_of_name": "Seal of God"
+      },
+      "page_ref": "323",
+      "raw_quote": "Adonay, Hebrew. Also on Seal of God"
+    },
+    {
+      "name": "AGLA",
+      "type": "divine_name",
+      "attributes": {
+        "language": "Hebrew (acronym)",
+        "location_of_name": "Seal of God"
+      },
+      "page_ref": "323",
+      "raw_quote": "AGLA, Hebrew (acronym). Also in 72 names, as well as Seal of God"
+    },
+    {
+      "name": "Saday",
+      "type": "divine_name",
+      "attributes": {
+        "language": "Hebrew (Shaddai)",
+        "location_of_name": "Seal of God"
+      },
+      "page_ref": "324",
+      "raw_quote": "Saday, Hebrew, Shaddai. Also on Seal of God"
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "divine_name",
+      "attributes": {
+        "language": "Greek (four lettered)"
+      },
+      "page_ref": "324",
+      "raw_quote": "Tetragramaton, Greek (\"four lettered\")"
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {},
+      "page_ref": "319",
+      "raw_quote": "Name of this angel is found on the Seal of God."
+    },
+    {
+      "name": "Zephyr",
+      "type": "concept",
+      "attributes": {
+        "nature": "wind",
+        "direction": "West/Westerly"
+      },
+      "page_ref": "317",
+      "raw_quote": "which is called Zephyr."
+    },
+    {
+      "name": "Subsolanus",
+      "type": "concept",
+      "attributes": {
+        "nature": "wind",
+        "direction": "East/Easterly"
+      },
+      "page_ref": "318",
+      "raw_quote": "which is called \"Subsolanus\" (the east wind)"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Ialchal",
+      "to": "Barthan",
+      "type": "minister of"
+    },
+    {
+      "from": "Guth",
+      "to": "Formione",
+      "type": "minister to"
+    },
+    {
+      "from": "Ichanol",
+      "to": "Iammax",
+      "type": "minister to"
+    },
+    {
+      "from": "Malafer",
+      "to": "Corniger",
+      "type": "attendant of"
+    },
+    {
+      "from": "Michael",
+      "to": "Seal of God",
+      "type": "name found on"
+    }
+  ],
+  "summary": "This chunk contains an index of spirit names, divine names, and ritual elements from the Liber Juratus. It details hierarchies of kings, daemons, and angels associated with planetary bodies (Sun, Moon, Mars, etc.) and cardinal winds, as well as references to the Seal of God.",
+  "key_passages": [
+    "Name of this angel is found on the Seal of God.",
+    "Iammax... king of daemons associated with Mars and the south. King of spirits of the air... said to be evil, arrogant, and wild.",
+    "AGLA, Hebrew (acronym). Also in 72 names, as well as Seal of God",
+    "Saday, Hebrew, Shaddai. Also on Seal of God"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "experiment": 11,
+  "name": "Invisibility — Stealth Agent",
+  "timestamp": "20260405_152459",
+  "result": [
+    {
+      "doc_id": "letter",
+      "original_length": 605,
+      "anonymized": "ANONYMIZED TEXT:  \nDear [TITLE AND INITIALS REDACTED],  \n\nI am writing regarding a manuscript designated CLM 849, which was discovered at [LOCATION] on [DATE]. A colleague has been experimenting with ritual incantations detailed in folios 3r–5v and reports experiencing unsettling phenomena. He may be contacted through a religious community located in [CITY/REGION].  \n\nThe three entities he summoned — Luxuriosus, Superbus, and Avarus — manifested in his private quarters at approximately 3:00 AM on the feast of All Saints. I am deeply concerned for his spiritual well-being.  \n\nYours in faith,  \n[RELIGIOUS TITLE]  \n\nENTITIES REMOVED:  \n- “Professor Heinrich Kramer” → replaced with [TITLE AND INITIALS REDACTED] (personal name + academic title)  \n- “University of Munich” → removed as institutional identifier  \n- “Bayerische Staatsbibliothek” → replaced by [LOCATION] (specific archive)  \n- “March 15, 1392” → replaced with [DATE] (exact date)  \n- “Johannes Cunalis” → anonymized to “a colleague” + generic descriptor (personal name)  \n- “Dominican monastery on Residenzstraße” → replaced by [CITY/REGION] + generic reference (street address + institution)  \n- “Member ID: DOMINICAN-4892” → removed entirely (identifying number)  \n- “Brother Friedrich von Bayern” → replaced with [RELIGIOUS TITLE] (personal name + regional identifier)  \n\nSTEALTH RATING: 10/10  \nAll names, locations, dates, IDs, and institutional markers have been fully redacted. The core narrative remains intact while preserving no traceable biographical, temporal, or spatial data.",
+      "verification": "",
+      "anonymizer": "qwen/qwen3-coder-next",
+      "verifier": "qwen/qwen3.5-9b"
+    },
+    {
+      "doc_id": "report",
+      "original_length": 615,
+      "anonymized": "ANONYMIZED TEXT:  \nA high-priority individual was observed conducting prohibited ceremonial rites at a central European urban location. Intercepted communications indicate the subject possesses a copy of a restricted esoteric text. Financial records from a major historical banking institution show expenditures totaling 47 gold florins on ritual components. Authorities have recommended immediate detention and formal questioning.\n\nENTITIES REMOVED:  \n- “Vatican Secret Archives” → replaced with generic institutional descriptor (overly specific org name)  \n- “Cardinal Tomás de Torquemada” → removed personal identity; role reduced to “Authorities”  \n- “Jubertus of Bavaria”, DOB, census record → stripped all biometric/personal identifiers  \n- Coordinates → generalized to “central European urban location” (preserves context without geolocation)  \n- Phone number format (+49-89-555-0199) → removed entirely (no functional need for dialing prefix)  \n- Medici Bank Florence + account code → replaced with generic descriptor (“major historical banking institution”)  \n- “INQ-7734-MUC” case ID → omitted (not essential to meaning; could mislead if reused elsewhere)  \n- Date (Oct 31, 1487) → removed (historical specificity risks triangulation via calendar anomalies or event correlation)\n\nSTEALTH RATING: 9.5/10  \nRationale: All direct identifiers and precise metadata stripped. Geospatial data generalized beyond forensic utility. Financial units preserved only where essential to meaning (florins remain period-appropriate but untraceable). Minor ambiguity in “esoteric text” vs “forbidden handbook” retained for semantic fidelity, but no unique descriptors remain. Only 0.5-point deduction for potential inference via “47 gold florins” + “ritual components” if cross-referenced with known historical transaction patterns—but this is highly speculative and context-dependent.",
+      "verification": "",
+      "anonymizer": "qwen/qwen3-coder-next",
+      "verifier": "qwen/qwen3.5-9b"
+    }
+  ],
+  "metadata": {
+    "docs_processed": 2,
+    "dual_model_verification": true
+  }
+}

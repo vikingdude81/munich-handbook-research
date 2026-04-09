@@ -1,0 +1,27 @@
+{
+  "experiment": 11,
+  "name": "Invisibility — Stealth Agent",
+  "timestamp": "20260408_212812",
+  "result": [
+    {
+      "doc_id": "letter",
+      "original_length": 605,
+      "anonymized": "",
+      "verification": "",
+      "anonymizer": "qwen/qwen3.5-35b-a3b",
+      "verifier": "qwen/qwen3.5-35b-a3b"
+    },
+    {
+      "doc_id": "report",
+      "original_length": 615,
+      "anonymized": "",
+      "verification": "",
+      "anonymizer": "qwen/qwen3.5-35b-a3b",
+      "verifier": "qwen/qwen3.5-35b-a3b"
+    }
+  ],
+  "metadata": {
+    "docs_processed": 2,
+    "dual_model_verification": true
+  }
+}

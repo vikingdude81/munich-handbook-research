@@ -1,0 +1,76 @@
+{
+  "experiment": 8,
+  "name": "Ship Ritual — Fleet Deployment",
+  "timestamp": "20260408_210948",
+  "result": {
+    "gunner": {
+      "role": "gunner",
+      "analysis": "",
+      "model": "qwen/qwen3.5-35b-a3b",
+      "node": "5090+3050",
+      "elapsed": 14.3,
+      "tokens": 2048
+    },
+    "navigator": {
+      "role": "navigator",
+      "analysis": "\n\n**Ship's Log: Analysis of Ritual Protocols**\n**Subject:** Conjuration vs. Prayer Protocols Across Grimoires\n**Operator:** Specialist Spirit, Ship of Necromancy\n**Status:** Analyzing Source Data (CLM ",
+      "model": "qwen/qwen3.5-35b-a3b",
+      "node": "5090+3050",
+      "elapsed": 28.7,
+      "tokens": 2048
+    },
+    "carpenter": {
+      "role": "carpenter",
+      "analysis": "",
+      "model": "qwen/qwen3.5-35b-a3b",
+      "node": "5090+3050",
+      "elapsed": 43.2,
+      "tokens": 2048
+    },
+    "bosun": {
+      "role": "bosun",
+      "analysis": "",
+      "model": "qwen/qwen3.5-35b-a3b",
+      "node": "5090+3050",
+      "elapsed": 57.5,
+      "tokens": 2048
+    },
+    "cook": {
+      "role": "cook",
+      "analysis": "",
+      "model": "qwen/qwen3.5-35b-a3b",
+      "node": "5090+3050",
+      "elapsed": 72.0,
+      "tokens": 2048
+    },
+    "lookout": {
+      "role": "lookout",
+      "analysis": "",
+      "model": "qwen/qwen3.5-35b-a3b",
+      "node": "5090+3050",
+      "elapsed": 86.3,
+      "tokens": 2048
+    },
+    "surgeon": {
+      "role": "surgeon",
+      "analysis": "",
+      "model": "qwen/qwen3.5-35b-a3b",
+      "node": "5090+3050",
+      "elapsed": 100.4,
+      "tokens": 2048
+    },
+    "helmsman": {
+      "role": "helmsman",
+      "analysis": "",
+      "model": "qwen/qwen3.5-35b-a3b",
+      "node": "5090+3050",
+      "elapsed": 115.0,
+      "tokens": 2048
+    }
+  },
+  "metadata": {
+    "total_time": 115.5,
+    "total_tokens": 16384,
+    "workers_used": 8
+  }
+}

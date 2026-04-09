@@ -1,0 +1,184 @@
+{
+  "source_id": "ars_notoria",
+  "chunk_id": 2,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Amasiel, Danyihayr",
+      "type": "divine_name",
+      "attributes": {
+        "context": "Parts of the Oration"
+      },
+      "page_ref": "24",
+      "raw_quote": "the fourth part of the Oration, which is this, Amasiel, Danyihayr, &c."
+    },
+    {
+      "name": "Four Angels",
+      "type": "spirit",
+      "attributes": {
+        "role": "Keepers and afflicters",
+        "offense": "Presumptuous reading of the Oration"
+      },
+      "page_ref": "24",
+      "raw_quote": "four Angels which he had offended in presumtuous reading so sacred a mystery, were the daily keepers and affliers"
+    },
+    {
+      "name": "Oration for Eloquence",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "To obtain Eloquence",
+        "nature": "Special Mystery"
+      },
+      "page_ref": "25",
+      "raw_quote": "This Holy Oration which followeth, is a certain special Oration, to obtain Eloquence"
+    },
+    {
+      "name": "Elmot, Sehel, Hemech, Zaba",
+      "type": "divine_name",
+      "attributes": {
+        "context": "Elements of the Oration not to be known or spoken presumptuously"
+      },
+      "page_ref": "25",
+      "raw_quote": "Elmot, Sehel, Hemech, Zaba, &c."
+    },
+    {
+      "name": "Semet, Lamen",
+      "type": "divine_name",
+      "attributes": {
+        "context": "Beginning of the Oration following silence"
+      },
+      "page_ref": "26",
+      "raw_quote": "begin to say this Oration following seriously: Semet, Lamen, &c."
+    },
+    {
+      "name": "Latin Oration/Prologue",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "Confession of Heart and Mouth preceding the main Oration"
+      },
+      "page_ref": "26",
+      "raw_quote": "Oh omnipotent and eternal God, and merciful Father, blessed before all Worlds"
+    },
+    {
+      "name": "King Solomon",
+      "type": "person",
+      "attributes": {
+        "role": "Recipient of Angelic teaching, witness to the Mystery"
+      },
+      "page_ref": "24-31",
+      "raw_quote": "Solomon himself witnesseth, that a Servant of his house having found this book by chance"
+    },
+    {
+      "name": "Angel of the Lord",
+      "type": "spirit",
+      "attributes": {
+        "role": "Delivered Book and Notes to Solomon"
+      },
+      "page_ref": "28-31",
+      "raw_quote": "an Angel brought one Book, wherein was written the Figures and Orations"
+    },
+    {
+      "name": "Grammar",
+      "type": "concept",
+      "attributes": {
+        "category": "Liberal Art",
+        "notes_count": 3
+      },
+      "page_ref": "27-28",
+      "raw_quote": "For Grammar hath three Notes only"
+    },
+    {
+      "name": "Gemeliath",
+      "type": "sigil",
+      "attributes": {
+        "context": "First Grammatical Note in the Book of Solomon"
+      },
+      "page_ref": "28",
+      "raw_quote": "Gemeliath, that is, in the Book of the Art of God"
+    },
+    {
+      "name": "Dialectic/Logic",
+      "type": "concept",
+      "attributes": {
+        "category": "Liberal Art",
+        "notes_count": 2
+      },
+      "page_ref": "28-29",
+      "raw_quote": "The Dialeical Notes may be used every day... The Reason why the Dialectical Art hath two Figures onely"
+    },
+    {
+      "name": "Rhetoric",
+      "type": "concept",
+      "attributes": {
+        "category": "Liberal Art",
+        "notes_count": 4
+      },
+      "page_ref": "29",
+      "raw_quote": "The Reason why Rhetorick hath four Figures"
+    },
+    {
+      "name": "Apollonius",
+      "type": "person",
+      "attributes": {
+        "role": "Author/Commentator following Solomon's works"
+      },
+      "page_ref": "31",
+      "raw_quote": "I, Apollonius, following the power of Solomon, having disposed my self to keep his works"
+    },
+    {
+      "name": "Theology and Astronomy",
+      "type": "concept",
+      "attributes": {
+        "notes_count": 7,
+        "warning": "Great and dangerous"
+      },
+      "page_ref": "31",
+      "raw_quote": "Theology and Astronomy... hath 7 Notes, but they are great and dangerous"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "King Solomon",
+      "to": "Angel of the Lord",
+      "type": "received_knowledge_from"
+    },
+    {
+      "from": "Servant of Solomon",
+      "to": "Four Angels",
+      "type": "offended"
+    },
+    {
+      "from": "Oration for Eloquence",
+      "to": "Eloquence",
+      "type": "grants_effect"
+    },
+    {
+      "from": "Grammar",
+      "to": "Three Notes",
+      "type": "has_attribute"
+    },
+    {
+      "from": "Dialectic/Logic",
+      "to": "Two Notes",
+      "type": "has_attribute"
+    },
+    {
+      "from": "Rhetoric",
+      "to": "Four Notes",
+      "type": "has_attribute"
+    },
+    {
+      "from": "Moon Phase",
+      "to": "Timing for Notes",
+      "type": "determines_schedule"
+    }
+  ],
+  "summary": "This chunk details the specific Orations and Notes required to acquire knowledge in the Liberal Arts, particularly Grammar, Logic, and Rhetoric. It includes warnings about the dangers of presumptuous use, instructions on lunar timing for rituals, and descriptions of the Angelic transmission of these arts to Solomon.",
+  "key_passages": [
+    "four Angels which he had offended in presumtuous reading so sacred a mystery",
+    "This Holy Oration which followeth, is a certain special Oration, to obtain Eloquence",
+    "The Grammatical Art... hath three things necessary thereunto; Ordination of words and times",
+    "I, Apollonius, following the power of Solomon, having disposed my self to keep his works",
+    "Theology and Astronomy... hath 7 Notes, but they are great and dangerous"
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "source_id": "ars_notoria",
+  "chunk_id": 5,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "God",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "Creator of all things from nothing",
+        "role": "Restorer of all things by His Spirit"
+      },
+      "page_ref": "42",
+      "raw_quote": "h God my God, who from the beginning hast Created all things out of nothing, and reformest all things by thy Spirit"
+    },
+    {
+      "name": "Christ / Jesus Christ",
+      "type": "divine_name",
+      "attributes": {
+        "role": "Redeemer",
+        "nature": "Splendor and Figure of light"
+      },
+      "page_ref": "42",
+      "raw_quote": "In the Name of Christ... O Christ, Son of the living God, who art the Splendor and Figure of light"
+    },
+    {
+      "name": "Angel to Solomon",
+      "type": "angel",
+      "attributes": {
+        "action": "Delivered Orations from the hand of God"
+      },
+      "page_ref": "42",
+      "raw_quote": "which were composed and delivered by the Angel to Solomon, from the hand of God."
+    },
+    {
+      "name": "Alpha and Omega",
+      "type": "sigil",
+      "attributes": {
+        "usage": "To be written in right hand before sleep"
+      },
+      "page_ref": "43",
+      "raw_quote": "write Alpha and Omega, and afterwards sleep on thy right side"
+    },
+    {
+      "name": "Eliphamasay",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "42",
+      "raw_quote": "invocate thee by thy most Holy Angels Eliphamasay, Gelomiros, Gedo bonay, Saranana, Elomnia"
+    },
+    {
+      "name": "Gelomiros",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "42",
+      "raw_quote": "Eliphamasay, Gelomiros, Gedo bonay"
+    },
+    {
+      "name": "Gedo bonay",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "42",
+      "raw_quote": "Gelomiros, Gedo bonay, Saranana"
+    },
+    {
+      "name": "Saranana",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "42",
+      "raw_quote": "Gedo bonay, Saranana, Elomnia"
+    },
+    {
+      "name": "Elomnia",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "42",
+      "raw_quote": "Saranana, Elomnia"
+    },
+    {
+      "name": "Figure of Memory",
+      "type": "sigil",
+      "attributes": {
+        "consecration_method": "With faith, hope, and charity; placed under right ear"
+      },
+      "page_ref": "46",
+      "raw_quote": "The manner of Consecrating the Figure of Memory. It ought to be consecrated with great faith hope and charity"
+    },
+    {
+      "name": "Frankincense",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "To suffumigate oneself during consecration"
+      },
+      "page_ref": "46",
+      "raw_quote": "in a clean place, suffumigate himself with Frankincense"
+    },
+    {
+      "name": "Adonay",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "Great and dreadful God"
+      },
+      "page_ref": "47",
+      "raw_quote": "O mighty God, whose terrible and most mighty Majesty is to be feared... O thou great and dreadful God Adonay"
+    },
+    {
+      "name": "Pater Noster",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "42",
+      "raw_quote": "Then say three times the Pater Noster"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Angel to Solomon",
+      "to": "God",
+      "type": "received orations from"
+    },
+    {
+      "from": "Eliphamasay",
+      "to": "God",
+      "type": "is a holy angel of"
+    },
+    {
+      "from": "Figure of Memory",
+      "to": "Memory",
+      "type": "used to obtain"
+    }
+  ],
+  "summary": "This chunk details specific ritual procedures for acquiring memory, eloquence, and understanding through the use of orations, psalms, and sigils. It provides instructions on timing (new moon), physical preparation (fasting, cleanliness), and the consecration of a 'Figure of Memory' using incense and specific nocturnal postures.",
+  "key_passages": [
+    "Now in the Name of Christ, on the first day of the Month, in which thou wouldst acquire Memory, Eloquence and Understanding",
+    "The Operator ought to be clean, chaste, to repent of his sins, and earnestly desire to cease from sinning",
+    "When thou wilt operate in the new Moon, kneeling say this verse: Lift up the light of thy Countenance upon us",
+    "write Alpha and Omega, and afterwards sleep on thy right side, putting the palme of thy hand under thy Ear",
+    "suffumigate himself with Frankincense, and come in a convenient hour in the night with a light kindled"
+  ]
+}

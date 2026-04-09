@@ -1,0 +1,179 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 20,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Frigicap",
+      "type": "location",
+      "attributes": {
+        "properties": "cold and damp",
+        "elemental_association": "masculine",
+        "dominion": "angels of Mercury"
+      },
+      "page_ref": "245",
+      "raw_quote": "Frigicap, cold and damp, masculine, where the angels of Mercury dominate."
+    },
+    {
+      "name": "Northern part",
+      "type": "location",
+      "attributes": {
+        "elemental_association": "earth cold and dry",
+        "dominion": "angels of Saturn"
+      },
+      "page_ref": "245",
+      "raw_quote": "Northern part, where the angels of Saturn dominate, earth cold and dry"
+    },
+    {
+      "name": "Baxhatau",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "245",
+      "raw_quote": "Baxhatau, Gahatus, Caudes, Yarabal, Harit, Iesse, Rion, Nesaph, Naadob..."
+    },
+    {
+      "name": "Belzebut",
+      "type": "demon",
+      "attributes": {
+        "title": "prince"
+      },
+      "page_ref": "246",
+      "raw_quote": "capud et corona principis vestri Belzebut vos venire et ventos vestros excitare constringat."
+    },
+    {
+      "name": "Barthan",
+      "type": "spirit",
+      "attributes": {
+        "title": "king"
+      },
+      "page_ref": "251",
+      "raw_quote": "Ubi est Barthan rex, ubi sunt Thaadas, [Caudas], Yalcal eius ministri?"
+    },
+    {
+      "name": "Formione",
+      "type": "spirit",
+      "attributes": {
+        "title": "king"
+      },
+      "page_ref": "251",
+      "raw_quote": "Ubi est Formione rex, ubi sunt Guth, Maguth, Guthrin eius ministri?"
+    },
+    {
+      "name": "Iammax",
+      "type": "spirit",
+      "attributes": {
+        "title": "king"
+      },
+      "page_ref": "251",
+      "raw_quote": "Ubi est Iammax rex, ubi sunt Carmox, Ycanol, Pasfran eius ministri?"
+    },
+    {
+      "name": "Sarabocres",
+      "type": "spirit",
+      "attributes": {
+        "title": "king"
+      },
+      "page_ref": "251",
+      "raw_quote": "Ubi est Sarabocres rex, ubi sunt Nassar, Cynassa eius ministri?"
+    },
+    {
+      "name": "Harthan",
+      "type": "spirit",
+      "attributes": {
+        "title": "king"
+      },
+      "page_ref": "251",
+      "raw_quote": "Ubi est Harthan rex, ubi sunt Bileth, Mylalu, Abucaba eius ministri?"
+    },
+    {
+      "name": "Abaa",
+      "type": "spirit",
+      "attributes": {
+        "title": "king"
+      },
+      "page_ref": "251",
+      "raw_quote": "Ubi est Abaa rex, ubi sunt Hyici, Quyron, Zach, Eladeb eius ministri?"
+    },
+    {
+      "name": "Maymon",
+      "type": "spirit",
+      "attributes": {
+        "title": "king"
+      },
+      "page_ref": "251",
+      "raw_quote": "Ubi est Maymon rex, ubi sunt Assaiby, Albunalich, [Haibalidech, Yasfla] eius ministri?"
+    },
+    {
+      "name": "incense and censer",
+      "type": "tool",
+      "attributes": {
+        "accessory": "glowing charcoals"
+      },
+      "page_ref": "245",
+      "raw_quote": "Then you should have incense and a censer, in which should be glowing charcoals"
+    },
+    {
+      "name": "seven equal swords",
+      "type": "tool",
+      "attributes": {
+        "quality": "lustrous (if possible)"
+      },
+      "page_ref": "249",
+      "raw_quote": "the censer, the incense, 7 gladios equales, (1) si possis claros"
+    },
+    {
+      "name": "raising up of the winds",
+      "type": "ritual",
+      "attributes": {
+        "repetition": "nine times"
+      },
+      "page_ref": "245",
+      "raw_quote": "in this way you should raise up the winds nine times."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Thaadas",
+      "to": "Barthan",
+      "type": "minister"
+    },
+    {
+      "from": "Yalcal",
+      "to": "Barthan",
+      "type": "minister"
+    },
+    {
+      "from": "Guth",
+      "to": "Formione",
+      "type": "minister"
+    },
+    {
+      "from": "Carmox",
+      "to": "Iammax",
+      "type": "minister"
+    },
+    {
+      "from": "Nassar",
+      "to": "Sarabocres",
+      "type": "minister"
+    },
+    {
+      "from": "Bileth",
+      "to": "Harthan",
+      "type": "minister"
+    },
+    {
+      "from": "Hyici",
+      "to": "Abaa",
+      "type": "minister"
+    }
+  ],
+  "summary": "This chunk details the ritual procedures for 'raising up the winds' using specific circles, incantations, and elemental directions. It also provides instructions for the third day of operations, including required tools like swords and incense, and lists various kings and their ministers to be invoked on different days of the week.",
+  "key_passages": [
+    "Then you should have incense and a censer, in which should be glowing charcoals, and you should put the incense over the glowing charcoals",
+    "the head and crown of your prince Belzebut compels you to arise and come.",
+    "The raising up of the spirits of the Sun, which should particularly be done on a Sunday.",
+    "the master should raise up the winds once, beginning with those which have dominion on that day, and he should have the Sign of the Lord in his right hand.",
+    "the most high, terrible, and awe-inspiring judgment of God binds you to appear and to obey me in all things."
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 7,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Jesus Christ",
+      "type": "divine_name",
+      "attributes": {
+        "description": "Son of God, is God and Man, Perfect God, perfect Man",
+        "role": "Suffered for salvation, descended into hell, rose again third day"
+      },
+      "page_ref": "90-91",
+      "raw_quote": "our Lord Jesus Christ, the Son of God, is God and Man. Perfect God, and perfect Man"
+    },
+    {
+      "name": "Pater Noster",
+      "type": "prayer",
+      "attributes": {
+        "number": "XIV 8 ORACIO",
+        "content": "Our Father, who art in heaven..."
+      },
+      "page_ref": "91",
+      "raw_quote": "Pater noster, qui es in celis, sanctiﬁcetur nomen tuum. Adveniat regnum tuum."
+    },
+    {
+      "name": "Alpha and Omega",
+      "type": "divine_name",
+      "attributes": {
+        "description": "Deus omnipotens, beginning of all things without beginning"
+      },
+      "page_ref": "91-92",
+      "raw_quote": "Alpha et Ω, Deus omnipotens, principium omnium rerum sine principio, ﬁnis sine ﬁne"
+    },
+    {
+      "name": "Michael",
+      "type": "angel",
+      "attributes": {
+        "meaning": "medicina Dei (medicine of God)"
+      },
+      "page_ref": "100",
+      "raw_quote": "Michael, id est medicina Dei"
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "attributes": {
+        "meaning": "fortitudo Dei (strength of God)"
+      },
+      "page_ref": "100",
+      "raw_quote": "Raphael, fortitudo Dei"
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "meaning": "ardens (burning)"
+      },
+      "page_ref": "100",
+      "raw_quote": "Gabriel, ardens"
+    },
+    {
+      "name": "Seraphim",
+      "type": "angel",
+      "attributes": {
+        "order": "seraphyn"
+      },
+      "page_ref": "100-101",
+      "raw_quote": "et seraphyn. helipha. massay. cherubyn."
+    },
+    {
+      "name": "Cherubim",
+      "type": "angel",
+      "attributes": {
+        "order": "cherubyn"
+      },
+      "page_ref": "100-101",
+      "raw_quote": "cherubyn et seraphyn, vos suppliciter rogamus"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "spirit",
+      "attributes": {
+        "function": "Illuminate soul, cleanse, restore all things"
+      },
+      "page_ref": "92-96",
+      "raw_quote": "illuminate my soul with the ray of your most Holy Spirit"
+    },
+    {
+      "name": "Prayer 18 (XVIII)",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "Vision of God, consecration, knowledge"
+      },
+      "page_ref": "95-96",
+      "raw_quote": "Lux mundi, Deus inmense, pater eternitatis... mitte manum tuam et tange animam meam"
+    },
+    {
+      "name": "Prayer 19 (XIX)",
+      "type": "ritual",
+      "attributes": {
+        "function": "Instructions for modifying petitions for spirits, knowledge, or consecration"
+      },
+      "page_ref": "95-97",
+      "raw_quote": "If however you wish to obtain some knowledge, or to consecrate the book, or to invoke spiritus"
+    },
+    {
+      "name": "Vision of God",
+      "type": "concept",
+      "attributes": {
+        "goal": "Achieve divine vision while living, face to face"
+      },
+      "page_ref": "92-101",
+      "raw_quote": "valeam ad facialem tui, Deus eterne, visionem virtute tui sanctissimi Spiritus"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Jesus Christ",
+      "to": "God",
+      "type": "is Son of"
+    },
+    {
+      "from": "Michael",
+      "to": "Deus",
+      "type": "means medicine of"
+    },
+    {
+      "from": "Raphael",
+      "to": "Deus",
+      "type": "means strength of"
+    },
+    {
+      "from": "Gabriel",
+      "to": "Deus",
+      "type": "means burning of"
+    },
+    {
+      "from": "Prayer 19 (XIX)",
+      "to": "calling spirits",
+      "type": "provides instructions for"
+    },
+    {
+      "from": "Holy Spirit",
+      "to": "Soul",
+      "type": "cleanses"
+    }
+  ],
+  "summary": "This chunk contains theological creeds regarding the nature of Christ, followed by a series of prayers (XIV through XXV) including invocations to divine names and angels. It provides specific ritual instructions on how to modify petitions for different purposes such as calling spirits, obtaining knowledge, or consecrating books.",
+  "key_passages": [
+    "Pater noster, qui es in celis, sanctiﬁcetur nomen tuum. Adveniat regnum tuum.",
+    "Alpha et Ω, Deus omnipotens, principium omnium rerum sine principio, ﬁnis sine ﬁne",
+    "Michael, id est medicina Dei, Raphael, fortitudo Dei, Gabriel, ardens",
+    "If however you wish to obtain some knowledge, or to consecrate the book, or to invoke spiritus, mutares peticionem oracionis precedentis sic",
+    "Lux mundi, Deus inmense, pater eternitatis... mitte manum tuam et tange animam meam"
+  ]
+}

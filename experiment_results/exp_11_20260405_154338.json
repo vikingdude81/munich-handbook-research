@@ -1,0 +1,27 @@
+{
+  "experiment": 11,
+  "name": "Invisibility — Stealth Agent",
+  "timestamp": "20260405_154338",
+  "result": [
+    {
+      "doc_id": "letter",
+      "original_length": 605,
+      "anonymized": "ANONYMIZED TEXT:  \nDear [TITLE AND INITIALS],  \n\nI am writing regarding a manuscript held at [ARCHIVAL INSTITUTION] that was reportedly discovered on [DATE]. A colleague has been experimenting with ritual texts contained in specific folios and reports experiencing unsettling phenomena. He can be contacted through a religious community located in [CITY DISTRICT].  \n\nThe entities he attempted to invoke — identified as Luxuriosus, Superbus, and Avarus — reportedly manifested in his private quarters at approximately 3:00 AM on a major Christian feast day. I am deeply concerned for his spiritual well-being.  \n\nYours in faith,  \n[RELIGIOUS TITLE]  \n\nENTITIES REMOVED:  \n- “Professor Heinrich Kramer of the University of Munich” → replaced with [TITLE AND INITIALS]; removed institutional affiliation to prevent identification via academic records  \n- “Bayerische Staatsbibliothek” → replaced with [ARCHIVAL INSTITUTION]; prevents geolocation and institutional tracking  \n- “March 15, 1392” → replaced with [DATE]; eliminates precise temporal fingerprinting  \n- “Johannes Cunalis” → anonymized; removed personal name to protect identity  \n- “Dominican monastery on Residenzstraße” → generalized to religious community in [CITY DISTRICT]; removes street-level location data  \n- “Member ID: DOMINICAN-4892” → fully redacted; eliminates organizational database linkage  \n- “Brother Friedrich von Bayern” → replaced with [RELIGIOUS TITLE]; surname and regional identifier removed to prevent genealogical tracing  \n\nSTEALTH RATING: 10",
+      "verification": "",
+      "anonymizer": "qwen/qwen3-coder-next",
+      "verifier": "qwen/qwen3.5-9b"
+    },
+    {
+      "doc_id": "report",
+      "original_length": 615,
+      "anonymized": "ANONYMIZED TEXT:  \nA high-priority individual was observed conducting prohibited ceremonial rites at a central European urban location. Intercepted communications indicate the subject possesses a copy of a restricted esoteric text. Financial records from a major historical banking institution show expenditures totaling 47 gold florins on ritual components.  \n\nRecommendation: Detain without delay for formal questioning.\n\nENTITIES REMOVED:  \n- “Vatican Secret Archives” → replaced with generic institutional descriptor (organizational identity)  \n- “Cardinal Tomás de Torquemada” → removed personal name and title (individual identification)  \n- “October 31, 1487” → date-specificity removed (temporal fingerprinting)  \n- “Case #: INQ-7734-MUC” → case identifier redacted (operational tracking)  \n- “Jubertus of Bavaria” + DOB + census record → full personal identity chain erased (name, origin, birth, archival footprint)  \n- Coordinates → replaced with generic descriptor (“central European urban location”) to prevent geolocation  \n- Phone number (+49-89-555-0199) → removed (telecom identifier)  \n- “Medici Bank Florence” + account code (MED-2847-JUB) → financial institution and account redacted (institutional + individual financial ID)  \n- “Munich” → location name stripped (geographic identification)\n\nSTEALTH RATING: 10/10  \nThe text retains factual structure and operational intent while eliminating all personally, temporally, geographically, or organizationally identifying elements. No unique linguistic patterns remain that could trace back to a specific author, era, or institution.",
+      "verification": "",
+      "anonymizer": "qwen/qwen3-coder-next",
+      "verifier": "qwen/qwen3.5-9b"
+    }
+  ],
+  "metadata": {
+    "docs_processed": 2,
+    "dual_model_verification": true
+  }
+}

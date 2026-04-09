@@ -1,0 +1,58 @@
+{
+  "n_spirits": 1254,
+  "n_features": 28,
+  "grid_shape": [
+    15,
+    15
+  ],
+  "epochs": 2000,
+  "quantization_error": 0.1996,
+  "topographic_error": 0.0056,
+  "populated_cells": 90,
+  "total_cells": 225,
+  "cluster_size_min": 1,
+  "cluster_size_max": 436,
+  "cluster_size_mean": 13.93,
+  "top_10_courts": [
+    {
+      "cell": "0,11",
+      "count": 436
+    },
+    {
+      "cell": "3,0",
+      "count": 58
+    },
+    {
+      "cell": "8,11",
+      "count": 58
+    },
+    {
+      "cell": "7,7",
+      "count": 42
+    },
+    {
+      "cell": "2,11",
+      "count": 41
+    },
+    {
+      "cell": "3,6",
+      "count": 35
+    },
+    {
+      "cell": "4,13",
+      "count": 32
+    },
+    {
+      "cell": "10,14",
+      "count": 31
+    },
+    {
+      "cell": "2,14",
+      "count": 26
+    },
+    {
+      "cell": "6,2",
+      "count": 23
+    }
+  ]
+}

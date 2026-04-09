@@ -1,0 +1,189 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 6,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "God",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "living",
+        "role": "creator of heaven and earth",
+        "properties": [
+          "eternal",
+          "almighty",
+          "incomprehensible",
+          "uncreated"
+        ]
+      },
+      "page_ref": "79, 80, 82, 83, 84, 85, 86, 87, 88, 89",
+      "raw_quote": "the living God... who lives and reigns through all the ages of the ages."
+    },
+    {
+      "name": "Holy Trinity",
+      "type": "concept",
+      "attributes": {
+        "composition": "one God in Trinity, and Trinity in Unity",
+        "persons": [
+          "Father",
+          "Son",
+          "Holy Spirit"
+        ],
+        "nature": "co-eternal, co-equal"
+      },
+      "page_ref": "89",
+      "raw_quote": "That we worship one God in Trinity, and Trinity in Unity, neither confounding the persons, nor dividing the substance."
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "person",
+      "attributes": {
+        "titles": [
+          "Mother of God",
+          "Queen of Angels",
+          "Star of the Sea",
+          "Gate of Heaven"
+        ],
+        "role": "intercessor"
+      },
+      "page_ref": "80, 81, 82, 83, 84, 85, 86",
+      "raw_quote": "O glorious Mary, eternal virgin, glorious mother, mother of the church, mother of piety and leniency"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "person",
+      "attributes": {
+        "nature": "God and Man",
+        "role": "redeemer"
+      },
+      "page_ref": "82, 83, 84, 87, 89",
+      "raw_quote": "Perfect God, and perfect Man, of a reasonable soul and human flesh subsisting."
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "divine_name",
+      "attributes": {
+        "role": "proceeding from Father and Son"
+      },
+      "page_ref": "81, 85, 89",
+      "raw_quote": "the Holy Spirit, the holy Catholic Church, the communion of Saints"
+    },
+    {
+      "name": "Angels",
+      "type": "angel",
+      "attributes": {
+        "nature": "pure",
+        "interaction": "assembled together with men in operation"
+      },
+      "page_ref": "79, 80",
+      "raw_quote": "the same angels, who are pure, are assembled together with men."
+    },
+    {
+      "name": "Penance and Confession",
+      "type": "ritual",
+      "attributes": {
+        "requirement": "necessary for seeing the divine vision"
+      },
+      "page_ref": "79",
+      "raw_quote": "First he must perform true penance and confession."
+    },
+    {
+      "name": "Clean Garments",
+      "type": "ritual",
+      "attributes": {
+        "condition": "new or very cleanly washed",
+        "purpose": "desire of angels in operation"
+      },
+      "page_ref": "79, 80",
+      "raw_quote": "His garments must not be foul-smelling, but rather they must be new or very cleanly washed."
+    },
+    {
+      "name": "Prayer 1 (Invocation)",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "80",
+      "raw_quote": "Direct, we beg you, O Lord, our actions by your holy inspirations..."
+    },
+    {
+      "name": "Prayer 2 (Ave Maria)",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "81",
+      "raw_quote": "Hail Mary, full of grace, the Lord is with thee."
+    },
+    {
+      "name": "Prayer 3 (Salve Regina)",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "81",
+      "raw_quote": "Hail holy queen, mother of mercy, Hail our life, our sweetness, and our hope."
+    },
+    {
+      "name": "Prayer 4 (Litany of Mary)",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "82",
+      "raw_quote": "O glorious Mary, eternal virgin, glorious mother, mother of the church..."
+    },
+    {
+      "name": "Prayer 5 (Sacred Names of Mary)",
+      "type": "prayer",
+      "attributes": {
+        "method": "naming with heart, mouth, and labor"
+      },
+      "page_ref": "85, 86",
+      "raw_quote": "So you are named Mary, Creator, Mother, Bride, Daughter, Theotan, Rod, Vessel..."
+    },
+    {
+      "name": "Prayer 6 (The Creed)",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "87",
+      "raw_quote": "I believe in God, the Father Almighty, Creator of heaven and earth..."
+    },
+    {
+      "name": "Prayer 7 (Athanasian Creed)",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "to hold the Catholic faith for salvation/vision"
+      },
+      "page_ref": "88, 89",
+      "raw_quote": "Whoever wishes to be saved and have the vision of God, should above all things hold to the Catholic faith."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Angels",
+      "to": "Man",
+      "type": "assembled together with"
+    },
+    {
+      "from": "Holy Spirit",
+      "to": "Father",
+      "type": "proceeding from"
+    },
+    {
+      "from": "Holy Spirit",
+      "to": "Son",
+      "type": "proceeding from"
+    },
+    {
+      "from": "Jesus Christ",
+      "to": "Mary",
+      "type": "son of"
+    },
+    {
+      "from": "The Trinity",
+      "to": "God",
+      "type": "is one God"
+    }
+  ],
+  "summary": "This chunk details the spiritual and physical preparations required for the divine vision, including penance, cleanliness, and constant prayer. It provides a collection of liturgical prayers focused on the Virgin Mary, the Holy Trinity, and the Apostles' Creed to establish necessary faith.",
+  "key_passages": [
+    "First he must perform true penance and confession. He must separate himself from women, and from seeing them.",
+    "the same angels, who are pure, are assembled together with men. Therefore they greatly desire clean garments",
+    "Direct, we beg you, O Lord, our actions by your holy inspirations, and carry them on by your gracious assistance",
+    "So you are named Mary, Creator, Mother, Bride, Daughter, Theotan, Rod, Vessel, Balsamus, Cloud, Dew",
+    "That we worship one God in Trinity, and Trinity in Unity, neither confounding the persons, nor dividing the substance."
+  ]
+}

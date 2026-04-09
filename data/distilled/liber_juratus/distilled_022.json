@@ -1,0 +1,264 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 22,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Barthan",
+      "type": "spirit",
+      "attributes": {
+        "role": "airy powers of the East"
+      },
+      "page_ref": "269-270",
+      "raw_quote": "I call upon you, O airy powers of the East, Barthan, Formione, Iammax"
+    },
+    {
+      "name": "Formione",
+      "type": "spirit",
+      "attributes": {
+        "role": "airy powers of the East"
+      },
+      "page_ref": "269-270",
+      "raw_quote": "I call upon you, O airy powers of the East, Barthan, Formione, Iammax"
+    },
+    {
+      "name": "Iammax",
+      "type": "spirit",
+      "attributes": {
+        "role": "airy powers of the East"
+      },
+      "page_ref": "269-270",
+      "raw_quote": "I call upon you, O airy powers of the East, Barthan, Formione, Iammax"
+    },
+    {
+      "name": "Zabuater",
+      "type": "divine_name",
+      "attributes": {
+        "usage": "conjuration"
+      },
+      "page_ref": "269-270",
+      "raw_quote": "invoking I conjure you through Zabuater, Rabarmas, Hiskiros"
+    },
+    {
+      "name": "Rabarmas",
+      "type": "divine_name",
+      "attributes": {
+        "usage": "conjuration"
+      },
+      "page_ref": "269-270",
+      "raw_quote": "invoking I conjure you through Zabuater, Rabarmas, Hiskiros"
+    },
+    {
+      "name": "Hiskiros",
+      "type": "divine_name",
+      "attributes": {
+        "usage": "conjuration"
+      },
+      "page_ref": "269-270",
+      "raw_quote": "invoking I conjure you through Zabuater, Rabarmas, Hiskiros"
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "attributes": {
+        "sword": "1st"
+      },
+      "page_ref": "270-271",
+      "raw_quote": "names of your holy angels: Raphael, Caphael, Dardiel, Hurathaphel"
+    },
+    {
+      "name": "Caphael",
+      "type": "angel",
+      "attributes": {
+        "sword": "1st"
+      },
+      "page_ref": "270-271",
+      "raw_quote": "names of your holy angels: Raphael, Caphael, Dardiel, Hurathaphel"
+    },
+    {
+      "name": "Satquiel",
+      "type": "angel",
+      "attributes": {
+        "sword": "2nd and 7th"
+      },
+      "page_ref": "270-271",
+      "raw_quote": "At the second sword: Satquiel, [Raphael], Paamcociel"
+    },
+    {
+      "name": "Samael",
+      "type": "angel",
+      "attributes": {
+        "sword": "3rd"
+      },
+      "page_ref": "270-271",
+      "raw_quote": "at the third sword: ... Samael, Satiel, Ituraiel"
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "sword": "5th"
+      },
+      "page_ref": "270-271",
+      "raw_quote": "at the fifth sword: ... Gabriel, Mychael, Samyel"
+    },
+    {
+      "name": "Belzebub",
+      "type": "demon",
+      "attributes": {
+        "role": "head of your prince"
+      },
+      "page_ref": "270-271",
+      "raw_quote": "per capud principis vestri Belzebub, cui debetis obedire"
+    },
+    {
+      "name": "Tetragramaton",
+      "type": "divine_name",
+      "attributes": {
+        "letters": "IOHT, HE, VAU, DALETH"
+      },
+      "page_ref": "273-274",
+      "raw_quote": "through this ineffable name 'Tetragrammaton:' IOHT, HE, VAU, DALETH"
+    },
+    {
+      "name": "Geneolia",
+      "type": "spirit",
+      "attributes": {
+        "role": "ministers of the Tartarean seat"
+      },
+      "page_ref": "272-273",
+      "raw_quote": "Geneolia, Chide, ministers of the Tartarean seat of Primachia"
+    },
+    {
+      "name": "Chide",
+      "type": "spirit",
+      "attributes": {
+        "role": "ministers of the Tartarean seat"
+      },
+      "page_ref": "272-273",
+      "raw_quote": "Geneolia, Chide, ministers of the Tartarean seat of Primachia"
+    },
+    {
+      "name": "Primachia",
+      "type": "location",
+      "attributes": {
+        "description": "Tartarean seat"
+      },
+      "page_ref": "272-273",
+      "raw_quote": "ministers of the Tartarean seat of Primachia"
+    },
+    {
+      "name": "Occinnomos",
+      "type": "person",
+      "attributes": {
+        "role": "master"
+      },
+      "page_ref": "276-277",
+      "raw_quote": "obey your master, who is called 'Occinnomos.'"
+    },
+    {
+      "name": "Labadau",
+      "type": "demon",
+      "attributes": {
+        "role": "Princeps of earth spirits"
+      },
+      "page_ref": "278",
+      "raw_quote": "Princeps eorum est Labadau. Eius coadiutor est Asmodeus"
+    },
+    {
+      "name": "Asmodeus",
+      "type": "demon",
+      "attributes": {
+        "role": "coadjutor to Labadau"
+      },
+      "page_ref": "278",
+      "raw_quote": "Eius coadiutor est Asmodeus, qui dat thesaurum indestructibilem"
+    },
+    {
+      "name": "Trocornifer",
+      "type": "spirit",
+      "attributes": {
+        "role": "minister in oriente"
+      },
+      "page_ref": "278",
+      "raw_quote": "Corniger rex meridionalis, et habet 4 ministros... Trocornifer in oriente"
+    },
+    {
+      "name": "Malafer",
+      "type": "spirit",
+      "attributes": {
+        "role": "minister in occidente"
+      },
+      "page_ref": "278",
+      "raw_quote": "Trocornifer in oriente, Malafer in occidente"
+    },
+    {
+      "name": "Euiraber",
+      "type": "spirit",
+      "attributes": {
+        "role": "minister in meridie"
+      },
+      "page_ref": "278",
+      "raw_quote": "Malafer in occidente, Euiraber in meridie"
+    },
+    {
+      "name": "Mulcifer",
+      "type": "spirit",
+      "attributes": {
+        "role": "minister in septemtrione"
+      },
+      "page_ref": "278",
+      "raw_quote": "Euiraber in meridie, Mulcifer in septemtrione"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Barthan",
+      "to": "airy powers of the East",
+      "type": "is_a"
+    },
+    {
+      "from": "Belzebub",
+      "to": "spirits",
+      "type": "commands"
+    },
+    {
+      "from": "Labadau",
+      "to": "earth spirits",
+      "type": "rules_over"
+    },
+    {
+      "from": "Asmodeus",
+      "to": "Labadau",
+      "type": "coadjutor_of"
+    },
+    {
+      "from": "Trocornifer",
+      "to": "orient",
+      "type": "located_in"
+    },
+    {
+      "from": "Malafer",
+      "to": "occident",
+      "type": "located_in"
+    },
+    {
+      "from": "Euiraber",
+      "to": "meridie",
+      "type": "located_in"
+    },
+    {
+      "from": "Mulcifer",
+      "to": "septemtrione",
+      "type": "located_in"
+    }
+  ],
+  "summary": "This chunk details the conjuration of airy powers and angels using specific names for seven swords, followed by instructions to placate spirits through kneeling and signs. It concludes with Chapter CXXXV describing earth spirits (Labadau, Asmodeus) and their ministers in four directions.",
+  "key_passages": [
+    "I call upon you, O airy powers of the East, Barthan, Formione, Iammax",
+    "per capud principis vestri Belzebub, cui debetis obedire",
+    "through this ineffable name 'Tetragrammaton:' IOHT, HE, VAU, DALETH",
+    "Geneolia, Chide, ministers of the Tartarean seat of Primachia",
+    "Princeps eorum est Labadau. Eius coadiutor est Asmodeus"
+  ]
+}

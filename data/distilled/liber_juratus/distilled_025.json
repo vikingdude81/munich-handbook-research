@@ -1,0 +1,119 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 25,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Abaa",
+      "type": "spirit",
+      "attributes": {
+        "role": "king of the spirits of the air of Mercury",
+        "region": "West and North (frigicap)",
+        "alignment": "neither fully for good nor fully evil",
+        "quality": "most wise"
+      },
+      "page_ref": "19, 237, 251-265, 297",
+      "raw_quote": "king of the spirits of the air of Mercury, governing between the West and North... said to be neither fully for good nor fully evil."
+    },
+    {
+      "name": "Anael",
+      "type": "angel",
+      "attributes": {
+        "role": "prince of angels",
+        "planet": "Venus",
+        "direction": "southwest",
+        "sigil_connection": "Name found on the Seal of God"
+      },
+      "page_ref": "19, 67, 71, 213, 221",
+      "raw_quote": "prince of angels associated with the planet Venus and the southwest. The name of this angel is found on the Seal of God."
+    },
+    {
+      "name": "Asmodeus",
+      "type": "demon",
+      "attributes": {
+        "role": "terrestrial spirit, assistant of prince Labadau",
+        "origin": "Zoroastrian (Aeshma-daeva)",
+        "description": "best well known of all spirits listed by Honorius"
+      },
+      "page_ref": "34, 279",
+      "raw_quote": "terrestrial spirit, assistant of prince Labadau. This demon is the best well known of all spirits listed by Honorius."
+    },
+    {
+      "name": "Barthan",
+      "type": "spirit",
+      "attributes": {
+        "role": "king of daemons",
+        "planet": "Sun",
+        "direction": "north winds, ruling in the East"
+      },
+      "page_ref": "19, 203, 229, 251-271",
+      "raw_quote": "king of daemons associated with the Sun and the north winds; ruling in the East."
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "role": "planetary spirit, archangel",
+        "planet": "Moon",
+        "peers": "Michael, Raphael, Uriel",
+        "sigil_connection": "Name found on the Seal of God"
+      },
+      "page_ref": "18, 20, 67, 71, 101, 179, 189, 205-221",
+      "raw_quote": "planetary spirit associated with the Moon; name of one of four archangel... Name of this angel is found on the Seal of God."
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {
+        "alternate_name": "das sigillum salomonis",
+        "names_on_seal": "Anael, Cafziel, Gabriel"
+      },
+      "page_ref": "175, 309",
+      "raw_quote": "sigillum dei (p. 175, called 'das sigillum salomonis')."
+    },
+    {
+      "name": "Whistle",
+      "type": "tool",
+      "attributes": {
+        "context": "construction mentioned in Gollancz manuscript"
+      },
+      "page_ref": "64b-65a",
+      "raw_quote": "construction of the whistle 64b-65a."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Anael",
+      "to": "Seal of God",
+      "type": "name_on"
+    },
+    {
+      "from": "Gabriel",
+      "to": "Seal of God",
+      "type": "name_on"
+    },
+    {
+      "from": "Cafziel",
+      "to": "Seal of God",
+      "type": "name_on"
+    },
+    {
+      "from": "Asmodeus",
+      "to": "Labadau",
+      "type": "assistant_of"
+    },
+    {
+      "from": "Abucaba",
+      "to": "Harthan",
+      "type": "minister_to"
+    }
+  ],
+  "summary": "This chunk contains bibliographic references and an index of spirit names from the Liber Juratus Honorii, detailing attributes like planetary associations, hierarchies, and moral alignments. It lists specific entities such as Abaa, Anael, and Asmodeus along with their roles within the magical cosmology described in the text.",
+  "key_passages": [
+    "king of the spirits of the air of Mercury, governing between the West and North",
+    "prince of angels associated with the planet Venus and the southwest. The name of this angel is found on the Seal of God.",
+    "This demon is the best well known of all spirits listed by Honorius, including from the Book of Tobit and the Testament of Solomon.",
+    "king of daemons associated with the Sun and the north winds; ruling in the East",
+    "construction of the whistle 64b-65a"
+  ]
+}

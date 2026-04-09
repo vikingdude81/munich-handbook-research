@@ -1,0 +1,161 @@
+{
+  "source_id": "ars_notoria",
+  "chunk_id": 4,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "God",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "Omnipotent, Incomprehensible, invisible and indissolative, Creator, Savior, Lord of all Creatures"
+      },
+      "page_ref": "41",
+      "raw_quote": "Omnipotent, Incomprehensible, invisible and indissolvable Lord God"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "eternal only begotten Son of God"
+      },
+      "page_ref": "41",
+      "raw_quote": "Oh Lord Jesus Christ, eternal only begotten Son of God"
+    },
+    {
+      "name": "Michael",
+      "type": "angel",
+      "attributes": {
+        "role": "Medicine of God, Protector"
+      },
+      "_page_ref": "45",
+      "raw_quote": "Michael, the Medicine of God; Raphael, the Fortitude of God, Gabriel ardens holy per Amassan"
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "attributes": {
+        "role": "Fortitude of God"
+      },
+      "page_ref": "45",
+      "raw_quote": "Raphael, the Fortitude of God"
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "45",
+      "raw_quote": "Gabriel ardens holy per Amassan"
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {
+        "role": "Recipient of the Orations, King"
+      },
+      "page_ref": "40",
+      "raw_quote": "the precedent work, is the beginning of the following Orations, which Solomon calleth Artem Novam."
+    },
+    {
+      "name": "Artem Novam",
+      "type": "concept",
+      "attributes": {
+        "description": "The name Solomon gives to the Orations"
+      },
+      "page_ref": "40",
+      "raw_quote": "the following Orations, which Solomon calleth Artem Novam."
+    },
+    {
+      "name": "First Oration of the 10",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "To acquire Memory, Eloquence and understanding, and stability"
+      },
+      "page_ref": "41",
+      "raw_quote": "This is the first Oration of the 10, which may be pronounced by its self... to acquire Memory, Eloquence and understanding"
+    },
+    {
+      "name": "Second Oration",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "Giveth Eloquence"
+      },
+      "page_ref": "42",
+      "raw_quote": "The next Oration is the second of ten, and giveth Eloquence"
+    },
+    {
+      "name": "Third Oration",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "To be said before the first Figure of Astronomy"
+      },
+      "page_ref": "42",
+      "raw_quote": "This is the third Oration of the ten, and is to be said before the first Figure of Astronomy."
+    },
+    {
+      "name": "Golden Seal",
+      "type": "sigil",
+      "attributes": {
+        "material": "gold"
+      },
+      "page_ref": "40",
+      "raw_quote": "upon every Oration the sign of a golden Seal"
+    },
+    {
+      "name": "Fasting",
+      "type": "ritual",
+      "attributes": {
+        "duration": "two or three dayes"
+      },
+      "page_ref": "40",
+      "raw_quote": "it is good to fast two or three dayes; that is may be Divinely revealed"
+    },
+    {
+      "name": "Chastity",
+      "type": "ritual",
+      "attributes": {
+        "duration": "at least nine dayes"
+      },
+      "page_ref": "47",
+      "raw_quote": "he that would Operate in this Art, let him be clean and chast by the space of nine dayes at least"
+    },
+    {
+      "name": "Helischemat azatan",
+      "type": "ritual",
+      "attributes": {
+        "context": "part of a specific sequence of words/incantation"
+      },
+      "page_ref": "43",
+      "raw_quote": "in the fourth day Alpha and Omaega, and that following it, viz. Helischemat azatan"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Solomon",
+      "to": "Artem Novam",
+      "type": "named"
+    },
+    {
+      "from": "Angel",
+      "to": "Solomon",
+      "type": "revealed orations to"
+    },
+    {
+      "from": "Michael",
+      "to": "God",
+      "type": "servant of"
+    },
+    {
+      "from": "First Oration",
+      "to": "Memory, Eloquence and understanding",
+      "type": "aims to acquire"
+    }
+  ],
+  "summary": "This chunk details the 'Artem Novam' section of the Ars Notoria, providing specific instructions for performing various Orations to acquire knowledge, memory, and eloquence. It outlines required spiritual preparations such as fasting, chastity, and abstinence from sin, while presenting several specific prayers and incantations addressed to the Divine.",
+  "key_passages": [
+    "it is good to fast two or three dayes; that is may be Divinely revealed, whether thy desires be good or evil.",
+    "This is the first Oration of the 10, which may be pronounced by its self, without any precedent work to acquire Memory, Eloquence and understanding",
+    "The next Oration is the second of ten, and giveth Eloquence, which ought to be said after the other; a little interval in between",
+    "he that would Operate in this Art, let him be clean and chast by the space of nine dayes at least",
+    "in the fourth day Alpha and Omaega, and that following it, viz. Helischemat azatan"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "source_id": "ars_notoria",
+  "chunk_id": 3,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "King Solomon",
+      "type": "person",
+      "attributes": {
+        "status": "King",
+        "action": "received ineffable Note from the Lord"
+      },
+      "page_ref": "32",
+      "raw_quote": "King Solomon, when he saw the forms of these Notes, having overdrunk himself, God was angry with him"
+    },
+    {
+      "name": "God",
+      "type": "divine_name",
+      "attributes": {
+        "titles": [
+          "Lord",
+          "Holy Father",
+          "Almighty",
+          "eternal God",
+          "Creator of all visible Creatures",
+          "King of Kings",
+          "Lord of Lords",
+          "Adonay"
+        ]
+      },
+      "page_ref": "32",
+      "raw_quote": "Oh Lord, Holy Father, Almighty, eternal God, in whose sight are all the foundations of all creatures"
+    },
+    {
+      "name": "ADONAY",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "32",
+      "raw_quote": "O ADONAY, Creator of all visible Creatures!"
+    },
+    {
+      "name": "Angel of the Lord",
+      "type": "angel",
+      "attributes": {
+        "function": "reveals words and writings to the practitioner"
+      },
+      "page_ref": "38",
+      "raw_quote": "And when the Angel of the Lord appeareth to thee, keep and conceal the words and writings he revealeth to thee"
+    },
+    {
+      "name": "Theology Notes",
+      "type": "concept",
+      "attributes": {
+        "nature": "sacramental",
+        "requirement": "must be looked into with fear, silence and trembling"
+      },
+      "page_ref": "32",
+      "raw_quote": "in every day wherein you beholdest the Notes of Theology, Philosophy, or of any Arts contained in them, that thou neither laugh nor play, nor sport"
+    },
+    {
+      "name": "First Oration at the beginning of the Note",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "preservation and mercy"
+      },
+      "page_ref": "32",
+      "raw_quote": "The Light, Truth, Life, Way, Judge, Mercy, Fortitude and Patience, preserve, help me, and have Mercy upon me, Amen."
+    },
+    {
+      "name": "Hanazay, Sazhaon, Hubi, Sene, Hay, Ginbar, Ronail, Selmore, Hyramay, Lobal, Yzazamael, Amathomatois, Yaboageyors, Sozomcrat, Ampho, Delmedos, Geroch, Agalos, Meihatagiel, Secamai, Sabeleton, Mechogrisces, Lerirenorbon",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "33",
+      "raw_quote": "Hanazay, Sazhaon, Hubi, Sene, Hay, Ginbar, Ronail, Selmore, Hyramay, Lobal, Yzazamael, Amathomatois, Yaboageyors, Sozomcrat, Ampho, Delmedos, Geroch, Agalos, Meihatagiel, Secamai, Sabeleton, Mechogrisces, Lerirenorbon."
+    },
+    {
+      "name": "Azelechias, Velozeos, Inoanzama, Samelo, Hotens, Sagnath, Adonay, Soma, Jezoehos, Hicon, Jezomethon, Sadaot",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "34",
+      "raw_quote": "Azelechias, Velozeos, Inoanzama, Samelo, Hotens, Sagnath, Adonay, Soma, Jezoehos, Hicon, Jezomethon, Sadaot."
+    },
+    {
+      "name": "Theon, Haltanagon, Haramalon, Zamoyma, Chamasal, Jeconamril, Harionatar, Jechomagol, Gela Magos, Kemolihot, Kamanatar, Hariomolatar, Hanaces, Velonionathar, Azoroy, Jezabali",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "34",
+      "raw_quote": "Theon, Haltanagon, Haramalon, Zamoyma, Chamasal, Jeconamril, Harionatar, Jechomagol, Gela Magos, Kemolihot, Kamanatar, Hariomolatar, Hanaces, Velonionathar, Azoroy, Jezabali"
+    },
+    {
+      "name": "Ezamamos, Hazalat, Ezityne, Hezemechel, Czemomechel, Zamay, Zaton, Ziamy Nayzaton, Hyzemogoy, Jeccomantha, Jaraphy, Phalezeton, Sacramphal, Sagamazaim, Secranale, Sacramathan, Jezennalaton Hacheriatos, Jetelemathon, Zaymazay, Zamaihay Gigutheio Geurlagon, Garyos",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "36",
+      "raw_quote": "Ezamamos, Hazalat, Ezityne, Hezemechel, Czemomechel, Zamay, Zaton, Ziamy Nayzaton, Hyzemogoy, Jeccomantha, Jaraphy, Phalezeton, Sacramphal, Sagamazaim, Secranale, Sacramathan, Jezennalaton Hacheriatos, Jetelemathon, Zaymazay, Zamaihay Gigutheio Geurlagon, Garyos."
+    },
+    {
+      "name": "Gezomelion Samach, Semath, Cemon, Gezagam, Gezatrhin, Zheamoth, Zeze Hator Sezeator Samay Sannanda, Gezyel, Iezel, Gaziety, Hel, Gazayethyhel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "36",
+      "raw_quote": "Gezomelion Samach, Semath, Cemon, Gezagam, Gezatrhin, Zheamoth, Zeze Hator Sezeator Samay Sannanda, Gezyel, Iezel, Gaziety, Hel, Gazayethyhel, Amen."
+    },
+    {
+      "name": "Lemogethom, Hegemochom, Hazachay Hazatha, Azamachar, Azacham, Cohathay, Geomothay Logomothay, Zathana, Lachanma, Legomezon, Legornozon, Lembdemachom, Zegomaday, Haihanayos, Hatamam, Helesymom, Vagedaren, Vadeyabar, Lamnanath, Lamadai, Gomongchor, Gemecher, Ellemay, Gecromal, Gecrohahi, Colomanos, Colomaythos",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "36",
+      "raw_quote": "Lemogethom, Hegemochom, Hazachay Hazatha, Azamachar, Azacham, Cohathay, Geomothay Logomothay, Zathana, Lachanma, Legomezon, Legornozon, Lembdemachon, Zegomaday, Haihanayos, Hatamam, Helesymom, Vagedaren, Vadeyabar, Lamnanath, Lamadai, Gomongchor, Gemecher, Ellemay, Gecromal, Gecrohahi, Colomanos, Colomaythos, Amen."
+    },
+    {
+      "name": "Gezemothon, Oronathian, Heyatha, Aygyay, Lethasihel, Iaechizliet, Gerohay, Gerhomay, Sanoaesorel, Sanasathel, Gissiomo, Hatel, Segomasay, Azomathon, Helomathon, Gerochor, Hojazay, Samin, Heliel, Sanihelyel, Siloth, Silerech, Garamathal, Gesemath, Gecoromay, Gecorenay, Samyel, Samihahel, Hesemyhel, Sedolamax, Secothamay, Samya, Rabiathos, Avinosch, Annas",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "37",
+      "raw_quote": "Gezemothon, Oronathian, Heyatha, Aygyay, Lethasihel, Iaechizliet, Gerohay, Gerhomay, Sanoaesorel, Sanasathel, Gissiomo, Hatel, Segomasay, Azomathon, Helomathon, Gerochor, Hojazay, Samin, Heliel, Sanihelyel, Siloth, Silerech, Garamathal, Gesemathal, Gecoromay, Gecorenay, Samyel, Samihahel, Hesemyhel, Sedolamax, Secothamay, Samya, Rabiathos, Avinosch, Annas, Amen."
+    },
+    {
+      "name": "Hosel, Jesel, Anchiator, Aratol, Hasiatol, Gemor, Gesameor",
+      "type": "spirit",
+      "attributes": {
+        "nature": "ineffable Names"
+      },
+      "page_ref": "38",
+      "raw_quote": "Hosel, Jesel, Anchiator, Aratol, Hasiatol, Gemor, Gesameor."
+    },
+    {
+      "name": "Book of Gold",
+      "type": "tool",
+      "attributes": {
+        "content": "ineffable Note"
+      },
+      "page_ref": "38",
+      "raw_quote": "for Solomon received this from the Lord in the night of Pacification, ingraven in a book of Gold"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "God",
+      "to": "King Solomon",
+      "type": "punished/spoke to"
+    },
+    {
+      "from": "Angel of the Lord",
+      "to": "Solomon",
+      "type": "revealed secrets to"
+    },
+    {
+      "from": "Orations",
+      "to": "Notes of Arts",
+      "type": "precede/accompany"
+    }
+  ],
+  "summary": "This chunk details specific orations, divine names, and angelic entities associated with the various liberal arts (Grammar, Logic, Rhetoric, Arithmetic, Geometry, Theology, Philosophy). It provides instructions on timing for rituals, such as observing lunar phases, and warns of the spiritual dangers of disrespecting the sacred notes.",
+  "key_passages": [
+    "The Lord hath forbid thee to enter into the Temple 80 days, that thou maist repent of thy sin.",
+    "The Note is to be looked into, with fear, silence and trembling.",
+    "These Orations ought to be said alwayes before noon, every day of the Moneth; and before the Notes say the proper Orations",
+    "Observe the 4 in every operation of Theology. Exhibit that operation with effiᶜacy every 4 quartram lunam",
+    "And beware that thou prudently conceal and keep whatsoever thou read'st in this Note of God"
+  ]
+}
