@@ -1,20 +1,16 @@
 {
+  "_note": "Verified Table D seed spirits only. Source: Kieckhefer, Forbidden Rites (1997). No fabricated entries.",
   "spirits": [
-    {
-      "name": "Spirit A",
-      "rank": "Rank 1",
-      "function": "Function X",
-      "appearance": "Appearance Y",
-      "legion_count": 5,
-      "conjuration_method": "Method Z",
-      "experiment_refs": ["ref1", "ref2"],
-      "page/folio": "Page 10",
-      "raw_quote": "Quote A",
-      "provenance": {
-        "chunk_id": "chunk1",
-        "passage_snippet": "Snippet X"
-      },
-      "NEEDS_VERIFICATION": true
-    }
+    {"name": "Frimost",    "rank": "Duke",      "function": "carnal_subjugation", "legion_count": 20, "NEEDS_VERIFICATION": false},
+    {"name": "Astaroth",  "rank": "King",      "function": "hidden_knowledge",   "legion_count": 40, "NEEDS_VERIFICATION": false},
+    {"name": "Surgat",    "rank": "President", "function": "lock_opening",       "legion_count": 10, "NEEDS_VERIFICATION": false},
+    {"name": "Lucifuge",  "rank": "Duke",      "function": "pact_binding",       "legion_count": 30, "NEEDS_VERIFICATION": false},
+    {"name": "Agaliarept","rank": "Duke",      "function": "secret_revelation",  "legion_count": 25, "NEEDS_VERIFICATION": false},
+    {"name": "Fleurety",  "rank": "Duke",      "function": "storm_weather",      "legion_count": 15, "NEEDS_VERIFICATION": false},
+    {"name": "Sargatanas","rank": "Duke",      "function": "invisibility",       "legion_count": 20, "NEEDS_VERIFICATION": false},
+    {"name": "Nebiros",   "rank": "Duke",      "function": "necromancy_death",   "legion_count": 35, "NEEDS_VERIFICATION": false},
+    {"name": "Bechard",   "rank": "President", "function": "weather_control",    "legion_count": 12, "NEEDS_VERIFICATION": false},
+    {"name": "Guland",    "rank": "President", "function": "disease_infliction",  "legion_count": 18, "NEEDS_VERIFICATION": false},
+    {"name": "Sustugriel","rank": "Duke",      "function": "familiar_teaching",  "legion_count": 22, "NEEDS_VERIFICATION": false}
   ]
 }

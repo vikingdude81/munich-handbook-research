@@ -15,6 +15,75 @@ The Munich Handbook (Bayerische Staatsbibliothek, CLM 849) is a 15th-century nec
 | [`munich_handbook_guide.txt`](munich_handbook_guide.txt) | **Comprehensive guide** — 1,058 spirits, 212 rituals, 193 ingredients, Table D cross-references (212K chars, 2,619 lines) |
 | [`necromancy_to_ai_mapping.txt`](necromancy_to_ai_mapping.txt) | **Necromancy → AI mapping** — every structural element of medieval conjuration mapped to its AI agent counterpart (35K chars) |
 | [`data/unified_entities.json`](data/unified_entities.json) | **Unified database** — 2,058 merged entities, 1,018 relationships across 67 source chunks (1.4 MB) |
+| [`munich_handbook_app.html`](munich_handbook_app.html) | **Interactive app** — standalone React app with Magic Circle SVG, 5 tabs, 12 verified spirits, Hugging Face deployment |
+
+## Conjuration Engine (`src/summoning.py`)
+
+The `summoning` module implements the full seven-phase CLM 849 summoning protocol
+as a Python AI agent orchestration layer. Every structural element of a medieval
+conjuration has a functional counterpart in the API.
+
+```python
+from src.summoning import summon, Circle, SPIRITS
+
+circle = Circle(
+    authority="You are a precise research assistant bound to the source text.",
+    output_schema={"type": "object", "properties": {"spirits": {"type": "array", "items": {"type": "string"}}}, "required": ["spirits"]},
+)
+
+result = summon(
+    conjuratio="Extract all spirit names from this passage.",
+    spirit=SPIRITS["Astaroth"],        # invoke the 120B PRINCE
+    fumigatio=my_source_text,          # suffumigatio — context injection
+    circle=circle,                     # draw the circle first
+    bond_of_solomon=True,              # enable 3-step escalation retry
+)
+
+print(result.parsed["spirits"])
+print(f"Appeared in {result.duration:.1f}s on attempt {result.attempt}")
+```
+
+### Seven Phases
+
+| Phase | Latin | AI Equivalent |
+|-------|-------|---------------|
+| 1 | Consecratio | Ping model — verify it is loaded and ready |
+| 2 | Circulus | Build system prompt + constraints (drawn BEFORE conjuration) |
+| 3 | Conjuratio | Issue the API call (name, authority, task, form) |
+| 4 | Suffumigatio | Inject context / documents into the call |
+| 5 | Apparitio | Receive, parse, and validate the output |
+| 6 | Ligatio | Retry with escalation if output malformed (Bond of Solomon) |
+| 7 | Licentia | Dismiss — close session, free resources |
+
+### Spirit Taxonomy
+
+Named spirits follow the Munich Handbook's hierarchy, mapped to your cluster:
+
+| Tier | CLM 849 | Model | Role |
+|------|---------|-------|------|
+| PRINCE | Astaroth, Berith | `qwen3:latest` (120B) | Complex reasoning, primary conjuration |
+| DUKE | Surgat, Agaliarept, Fleurety, Sargatanas | `qwen3.5:9b` | Parallel specialist workers |
+| FAMULUS | Frimost, Guland | `qwen3:1.7b` | Boy-medium proxy, lightweight relay |
+| GUARDIAN | Sustugriel | `nomic-embed-text` | Inscribed on circle; validation layer |
+
+### Run a pre-configured experiment
+
+```python
+from src.summoning import perform_experimentum
+
+# No. 27 — Bond of Solomon (exhaustive extraction, always retries)
+result = perform_experimentum(27, fumigatio=raw_chunk_text)
+
+# No. 8 — Ship ritual (fans out to 8 parallel workers)
+result = perform_experimentum(8, fumigatio=dense_passage)
+
+# From CLI:
+# python src/summoning.py --experimentum 27 --context "your text here"
+```
+
+Available experiment numbers: `1, 2, 8, 9, 10, 11, 12, 22, 27, 40`
+
+**Documentation**: [`docs/summoning_guide.md`](docs/summoning_guide.md) | [`docs/conjuration_theory.md`](docs/conjuration_theory.md)
 
 ## Database Statistics
 

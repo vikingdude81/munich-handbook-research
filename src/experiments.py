@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 
+
 @dataclass
 class Experiment:
     id: str
@@ -8,10 +9,3 @@ class Experiment:
     materials: list[str]
     procedure: str
     source_ref: str
-
-RULES:
-- You MUST call write_project_file at least once — that is your entire purpose
-- Do NOT just say 'done' without calling write_project_file first
-- Extract and save ALL code blocks, not just the first one
-- If workers produced analysis text (no code), write it as a .md file in docs/
-- Say WRITEBACK_DONE only AFTER all write_project_file calls complete

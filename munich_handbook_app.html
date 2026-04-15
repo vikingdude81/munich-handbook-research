@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Munich Handbook — Infernal Topology</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #080510; }
+    #root { min-height: 100vh; }
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: #080510; }
+    ::-webkit-scrollbar-thumb { background: #2a1a2a; }
+  </style>
+  <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.9/babel.min.js"></script>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel">
+const { useState } = React;
+
+/* ══════════════════════════════════════════════════════════════════
+   DATA — All spirits verified from Munich Handbook (CLM 849)
+   Source: Kieckhefer, Forbidden Rites (1997) + distillation
+   ══════════════════════════════════════════════════════════════════ */
+
+const COURTS = {
+  Prince:  { color: "#C5960A", bg: "#C5960A18", label: "Infernal Prince",  symbol: "♛" },
+  King:    { color: "#9050C0", bg: "#9050C018", label: "Infernal King",    symbol: "♚" },
+  Demon:   { color: "#CD4C4C", bg: "#CD4C4C18", label: "Named Demon",      symbol: "☽" },
+  Spirit:  { color: "#5590C0", bg: "#5590C018", label: "Conjured Spirit",  symbol: "⊕" },
+};
+
+/* 12 spirits verified against the guide — all from CLM 849 distillation */
+const SPIRITS = [
+  {
+    name: "Astaroth", court: "Prince", occurrences: 20,
+    rank: "Prince of the South",
+    function: "Reveals treasures guarded by spirits; gives love of women (especially widows); commands languages; master of demons in ritual",
+    experiments: ["Exp. 2 (love magic)", "Exp. 12", "Exp. 40"],
+    page_refs: "pp. 166, 269n; CLM 849 ff. 14v, 99r, 100r, 103v",
+    quote: "especially those four spirits who hold dominion and power over those spirits in the four parts of the globe, to wit, Astaroth, Aroch, Godras, [and] Vynicon",
+    co_invoked: ["Belial", "Paymon"],
+    planet: "Jupiter",
+    direction: "South",
+    sector: 0,
+  },
+  {
+    name: "Belial", court: "Prince", occurrences: 16,
+    rank: "Foremost Prince (Inicialis Princeps)",
+    function: "Appears in conjurations as foremost prince; helper in image-making ritual; listed in circle inscriptions for love magic",
+    experiments: ["Exp. 12 (love magic)", "Circle fol. 4v"],
+    page_refs: "pp. 145–146, 233, 234; CLM 849 fol. 4v",
+    quote: "Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking",
+    co_invoked: ["Astaroth", "Paymon"],
+    planet: "Saturn",
+    direction: "North",
+    sector: 0,
+  },
+  {
+    name: "Paymon", court: "Prince", occurrences: 8,
+    rank: "Prince (Demon of the West)",
+    function: "Appears in circles and conjurations alongside Belial and Astaroth; invoked in love magic and image rituals",
+    experiments: ["Exp. 12 (love magic)"],
+    page_refs: "pp. 269n, 108; CLM 849 fol. 4v",
+    quote: "Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking",
+    co_invoked: ["Belial", "Astaroth"],
+    planet: "Moon",
+    direction: "West",
+    sector: 0,
+  },
+  {
+    name: "Berith", court: "King", occurrences: 16,
+    rank: "King of the East",
+    function: "One of three kings conjured for knowledge; spirits bound in obedience to him; conveys knowledge through a teacher-spirit; answers inquiries; one of four spirits invoked for the invisibility cloak",
+    experiments: ["Exp. 11 (knowledge)", "Exp. 11 (invisibility)", "CLM 849 fols 3r–5v"],
+    page_refs: "pp. 144–146, 231–234; CLM 849 fols 3r–5v, p. 105, 123",
+    quote: "I conjure all you demons inscribed on this image, by your lords to whom you are bound in obedience — Sobedon, Badalam and Berith — that you should inflame so-and-so…",
+    co_invoked: ["Apolin", "Maraloth", "Taraor"],
+    planet: "Saturn",
+    direction: "East",
+    sector: 1,
+  },
+  {
+    name: "Apolin", court: "King", occurrences: 7,
+    rank: "King of the East",
+    function: "One of three kings conjured for gaining knowledge; commands a teacher-spirit who conveys learning to the petitioner; associated with eastward direction",
+    experiments: ["CLM 849 Exp. for gaining knowledge", "CLM 849 fols 3r–5v"],
+    page_refs: "pp. 144–146, 186–187; CLM 849 fols 3r–5v",
+    quote: "conjure you, O Fyriel, Mememil, Berith, [and] Taraor…",
+    co_invoked: ["Berith", "Maraloth"],
+    planet: "Mercury",
+    direction: "East",
+    sector: 1,
+  },
+  {
+    name: "Maraloth", court: "King", occurrences: 4,
+    rank: "King",
+    function: "One of three kings conjured alongside Berith and Apolin; invoked in knowledge experiment; listed in binding incantations",
+    experiments: ["CLM 849 Exp. for gaining knowledge"],
+    page_refs: "pp. 144–146, 231–234; CLM 849 fols 3r–5v",
+    quote: "Apolin, Maraloth, Berith, 1, so-",
+    co_invoked: ["Berith", "Apolin"],
+    planet: "Mercury",
+    direction: "East",
+    sector: 1,
+  },
+  {
+    name: "Lucifer", court: "Demon", occurrences: 12,
+    rank: "Highest Prince of Demons",
+    function: "Appears in circle inscriptions; listed in circle inscriptions alongside other princes; highest rank among infernal hierarchy",
+    experiments: ["Exp. 1 (circle)", "CLM 849 fol. 4v"],
+    page_refs: "pp. 145–146, 166, 234; CLM 849 fol. 4v, pp. 80, 118, 138",
+    quote: "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [and] Lucifer…",
+    co_invoked: ["Aphaleon", "Neutrion"],
+    planet: "Venus",
+    direction: "—",
+    sector: 2,
+  },
+  {
+    name: "Belzebub", court: "Demon", occurrences: 9,
+    rank: "Prince of Demons (Princeps Demoniorum)",
+    function: "Appears in circles; listed in circle inscriptions as prince of demons",
+    experiments: ["Exp. 1 (circle)", "CLM 849 fol. 4v"],
+    page_refs: "pp. 193, 196–197; CLM 849 ff. 97v, 100r, fol. 4v",
+    quote: "Belial, Satan, Osendior, Matalot, Belzebub, Lucifer…",
+    co_invoked: ["Belial", "Satan"],
+    planet: "Saturn",
+    direction: "—",
+    sector: 2,
+  },
+  {
+    name: "Suburith", court: "Spirit", occurrences: 7,
+    rank: "Named Demon (Resurrection Ritual)",
+    function: "Inscribed on a gold ring for raising a dead person; one of four spirits of the resurrection ritual in Exp. 10",
+    experiments: ["Exp. 10 (resurrection)", "CLM 849 fol. 26r"],
+    page_refs: "pp. 207, 261–263; CLM 849 fol. 26r",
+    quote: "inscribed on gold ring for raising dead person",
+    co_invoked: ["Lyroth", "Brimer", "Damayn"],
+    planet: "Saturn",
+    direction: "—",
+    sector: 2,
+  },
+  {
+    name: "Mirage", court: "Spirit", occurrences: 9,
+    rank: "Demon (Spiritus)",
+    function: "Spirit conjured for knowledge, invisibility, treasure, and consecration; one of the most functionally versatile spirits in CLM 849",
+    experiments: ["Multiple experiments", "CLM 849 fols 59v–62v (Exp. 32)"],
+    page_refs: "pp. 171–172, 42–43, 57n33; CLM 849 fols 109r–111v, 139r–140v",
+    quote: "spirit conjured for knowledge, invisibility, treasure, and consecration",
+    co_invoked: [],
+    planet: "Mercury",
+    direction: "—",
+    sector: 3,
+  },
+  {
+    name: "Oriens", court: "Spirit", occurrences: 8,
+    rank: "Demon with Subordinate Spirits (Kings and Dignities)",
+    function: "Invoked in incantations to reveal hidden treasure in dreams; has subordinate spirits with ranks and dignities",
+    experiments: ["CLM 849 fols 106v–107r"],
+    page_refs: "pp. 140, 162, 168, 186–187; CLM 849 fols 106v–107r",
+    quote: "invoked to reveal hidden treasure in dreams; reveals hidden treasure",
+    co_invoked: [],
+    planet: "Sun",
+    direction: "East",
+    sector: 3,
+  },
+  {
+    name: "Lylet", court: "Spirit", occurrences: 5,
+    rank: "Demon (Unspecified)",
+    function: "Reveals truth about theft, homicide, and other matters; divinatory spirit invoked for judicial inquiry",
+    experiments: ["CLM 849 fols 42r–43r (Exp. 23)"],
+    page_refs: "pp. 161, 207; CLM 849 fols 42r–43r",
+    quote: "reveals truth about theft, homicide, and other matters",
+    co_invoked: [],
+    planet: "Mercury",
+    direction: "—",
+    sector: 3,
+  },
+];
+
+/* Spirit positions on the Magic Circle — 12 spirits on 4 sectors of 3 */
+const SECTOR_COLORS = [
+  "#C5960A",  // 0: Princes — gold
+  "#9050C0",  // 1: Kings — violet
+  "#CD4C4C",  // 2: Destruction/Death — crimson
+  "#5590C0",  // 3: Knowledge/Revelation — sapphire
+];
+const SECTOR_LABELS = ["Infernal Princes", "Infernal Kings", "Destruction & Death", "Knowledge & Revelation"];
+
+/* Relations between spirits — verified co-invocations from CLM 849 */
+const RESONANCES = [
+  { s1: "Astaroth", s2: "Belial",   type: "Co-invoked",   color: "#C5960A", dash: false, desc: "Named together in the love magic ritual formula" },
+  { s1: "Astaroth", s2: "Paymon",   type: "Co-invoked",   color: "#C5960A", dash: false, desc: "Three princes summoned as helpers in image-making" },
+  { s1: "Belial",   s2: "Paymon",   type: "Co-invoked",   color: "#C5960A", dash: false, desc: "Co-listed alongside Astaroth in circle inscriptions" },
+  { s1: "Berith",   s2: "Apolin",   type: "Court",        color: "#9050C0", dash: false, desc: "Two of three kings conjured for knowledge experiment" },
+  { s1: "Berith",   s2: "Maraloth", type: "Court",        color: "#9050C0", dash: false, desc: "King-trio bound in mutual obedience" },
+  { s1: "Apolin",   s2: "Maraloth", type: "Court",        color: "#9050C0", dash: false, desc: "Co-conjured kings of the east" },
+  { s1: "Lucifer",  s2: "Belzebub", type: "Co-inscribed", color: "#CD4C4C", dash: true,  desc: "Both inscribed in circle formulas alongside Satan and Belial" },
+  { s1: "Lucifer",  s2: "Belial",   type: "Co-inscribed", color: "#8a7a3a", dash: true,  desc: "Listed together in the circle at fol. 4v" },
+  { s1: "Belzebub", s2: "Belial",   type: "Co-inscribed", color: "#8a7a3a", dash: true,  desc: "Both named in incantation list with Satan" },
+  { s1: "Mirage",   s2: "Oriens",   type: "Affinity",     color: "#5590C0", dash: true,  desc: "Both treasure-and-knowledge revelation spirits" },
+];
+
+/* Planetary rulers for the conjuration hours (Chaldean order) */
+const CHALDEAN = ["Saturn","Jupiter","Mars","Sun","Venus","Mercury","Moon"];
+const DAY_RULERS = ["Sun","Moon","Mars","Mercury","Jupiter","Venus","Saturn"];
+const DAY_NAMES = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+const PLANETS = {
+  Sun:     { symbol:"☉", color:"#DAA520", conjure: "Oriens — reveals treasure in dreams; Raphael angel binding" },
+  Moon:    { symbol:"☽", color:"#C0C0C0", conjure: "Paymon — image rituals; Suburith — resurrection timing" },
+  Mars:    { symbol:"♂", color:"#CD5C5C", conjure: "Belial — force of compulsion; warfare experiments" },
+  Mercury: { symbol:"☿", color:"#B0C4DE", conjure: "Berith — knowledge experiment; Mirage — truth/revelation; Lylet — judicial inquiry" },
+  Jupiter: { symbol:"♃", color:"#6A5ACD", conjure: "Astaroth — treasure and love; Oriens' higher court" },
+  Venus:   { symbol:"♀", color:"#8FBC8F", conjure: "Astaroth — love of women; Lucifer — appearance pride" },
+  Saturn:  { symbol:"♄", color:"#8B7355", conjure: "Berith — binding and obedience; Belzebub — demonic compulsion; Suburith — raising the dead" },
+};
+
+/* ══════════════════════════════════════════════════════════════════
+   SVG — MAGIC CIRCLE
+   ══════════════════════════════════════════════════════════════════ */
+
+function spiritPos(idx, total, r, cx, cy) {
+  /* Spirits placed in their sector. 3 spirits per sector, 4 sectors.
+     Within each sector: 3 positions at sector_start + 30°, 60°, 90° */
+  const sectorIdx = Math.floor(idx / 3);
+  const posInSector = idx % 3;
+  const sectorStart = sectorIdx * 90 - 90; // top = -90°
+  const angle = (sectorStart + 15 + posInSector * 30) * Math.PI / 180;
+  return { x: cx + r * Math.cos(angle), y: cy + r * Math.sin(angle), angle };
+}
+
+function MagicCircle({ selectedSpirit, highlightSpirit, showResonances, onClickSpirit }) {
+  const size = 400, cx = size / 2, cy = size / 2;
+  const outerR = 185, ringR = 148, coreR = 38;
+  const nodeR = 14;
+
+  /* Pre-compute positions */
+  const positions = {};
+  SPIRITS.forEach((s, i) => {
+    positions[s.name] = spiritPos(i, SPIRITS.length, ringR, cx, cy);
+  });
+
+  return (
+    <svg viewBox={`0 0 ${size} ${size}`} style={{ width:"100%", maxWidth:400 }}>
+      <defs>
+        <radialGradient id="gc">
+          <stop offset="0%" stopColor="#1a0820"/>
+          <stop offset="100%" stopColor="#080510"/>
+        </radialGradient>
+        <radialGradient id="gcore">
+          <stop offset="0%" stopColor="#C5960A22"/>
+          <stop offset="100%" stopColor="transparent"/>
+        </radialGradient>
+        <filter id="glow">
+          <feGaussianBlur stdDeviation="2" result="b"/>
+          <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+        <filter id="glowB">
+          <feGaussianBlur stdDeviation="4" result="b"/>
+          <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+      </defs>
+
+      {/* Background */}
+      <circle cx={cx} cy={cy} r={outerR+10} fill="url(#gc)"/>
+
+      {/* Outer decorative ring — degree ticks */}
+      {Array.from({length:72}, (_,i) => {
+        const a = (i * 5 - 90) * Math.PI / 180;
+        const r1 = outerR + 1, r2 = outerR + (i % 18 === 0 ? 9 : i % 6 === 0 ? 5 : 2.5);
+        return <line key={i}
+          x1={cx + r1*Math.cos(a)} y1={cy + r1*Math.sin(a)}
+          x2={cx + r2*Math.cos(a)} y2={cy + r2*Math.sin(a)}
+          stroke={i % 18 === 0 ? "#3a2a1a" : "#1e1218"} strokeWidth={i % 18 === 0 ? 1.2 : 0.5}/>;
+      })}
+
+      {/* Rings */}
+      <circle cx={cx} cy={cy} r={outerR} fill="none" stroke="#2a1a2a" strokeWidth="1.5"/>
+      <circle cx={cx} cy={cy} r={ringR+nodeR+4} fill="none" stroke="#1a0a1a" strokeWidth="0.5" strokeDasharray="4,8"/>
+      <circle cx={cx} cy={cy} r={coreR} fill="url(#gcore)" stroke="#2a1a1a" strokeWidth="0.8"/>
+
+      {/* Sector dividers — 4 quadrant lines */}
+      {[0,90,180,270].map(deg => {
+        const a = (deg - 90) * Math.PI / 180;
+        return <line key={deg}
+          x1={cx + coreR*Math.cos(a)} y1={cy + coreR*Math.sin(a)}
+          x2={cx + (ringR+nodeR+6)*Math.cos(a)} y2={cy + (ringR+nodeR+6)*Math.sin(a)}
+          stroke="#1e1020" strokeWidth="0.7" strokeDasharray="3,5"/>;
+      })}
+
+      {/* Sector arc labels (outside ring) */}
+      {SECTOR_LABELS.map((label, si) => {
+        const midAngle = (si * 90 + 45 - 90) * Math.PI / 180;
+        const r = outerR - 10;
+        return <text key={si}
+          x={cx + r*Math.cos(midAngle)} y={cy + r*Math.sin(midAngle)}
+          textAnchor="middle" dominantBaseline="central"
+          fill={SECTOR_COLORS[si]} fontSize="6.5" opacity="0.55"
+          style={{ fontFamily:"'Cormorant Garamond',serif", letterSpacing:0.5 }}>
+          {label}
+        </text>;
+      })}
+
+      {/* Hexagram in center */}
+      {[0,60,120,180,240,300].map((deg,i) => {
+        const a = (deg - 90) * Math.PI / 180, r = coreR - 8;
+        const next = ((deg + 120) - 90) * Math.PI / 180;
+        return <line key={i}
+          x1={cx + r*Math.cos(a)} y1={cy + r*Math.sin(a)}
+          x2={cx + r*Math.cos(next)} y2={cy + r*Math.sin(next)}
+          stroke="#C5960A" strokeWidth="0.6" opacity="0.35"/>;
+      })}
+      <text x={cx} y={cy+1} textAnchor="middle" dominantBaseline="central"
+        fill="#C5960A" fontSize="14" opacity="0.4" style={{ fontFamily:"serif" }}>⊕</text>
+
+      {/* Resonance lines */}
+      {showResonances && RESONANCES.map((res, i) => {
+        const p1 = positions[res.s1], p2 = positions[res.s2];
+        if (!p1 || !p2) return null;
+        const isHL = selectedSpirit === res.s1 || selectedSpirit === res.s2
+                  || highlightSpirit === res.s1 || highlightSpirit === res.s2;
+        return <line key={i}
+          x1={p1.x} y1={p1.y} x2={p2.x} y2={p2.y}
+          stroke={res.color}
+          strokeWidth={isHL ? 1.8 : 0.7}
+          opacity={isHL ? 0.7 : 0.2}
+          strokeDasharray={res.dash ? "3,3" : "none"}/>;
+      })}
+
+      {/* Spirit nodes — CLICKABLE */}
+      {SPIRITS.map((s, i) => {
+        const pos = positions[s.name];
+        const court = COURTS[s.court];
+        const isSel = selectedSpirit === s.name;
+        const isHL = highlightSpirit === s.name;
+        const sz = Math.max(11, Math.min(17, 9 + s.occurrences * 0.35));
+        const shortName = s.name.length > 7 ? s.name.slice(0,6) : s.name;
+        return (
+          <g key={s.name} onClick={() => onClickSpirit(s.name)}
+            filter={isSel || isHL ? "url(#glowB)" : "url(#glow)"}
+            style={{ cursor:"pointer" }}>
+            <circle cx={pos.x} cy={pos.y} r={sz + (isSel ? 4 : 0)}
+              fill="#080510" stroke={court.color}
+              strokeWidth={isSel ? 2.5 : isHL ? 1.8 : 1}/>
+            <text x={pos.x} y={pos.y - 1} textAnchor="middle" dominantBaseline="central"
+              fill={court.color} fontSize={isSel ? 8 : 7}
+              style={{ fontFamily:"'Cormorant Garamond',serif", fontWeight:"600", pointerEvents:"none" }}>
+              {shortName}
+            </text>
+            {/* Occurrence dot band */}
+            <circle cx={pos.x} cy={pos.y} r={sz + 3}
+              fill="none" stroke={court.color} strokeWidth="0.4"
+              opacity={isSel ? 0.5 : 0.15}
+              strokeDasharray={`${s.occurrences * 0.6},100`}/>
+          </g>
+        );
+      })}
+
+      {/* Center label */}
+      <text x={cx} y={cy - 16} textAnchor="middle" fill="#3a2a3a" fontSize="5.5"
+        style={{ fontFamily:"'Cormorant Garamond',serif", letterSpacing:2 }}>
+        CLM 849
+      </text>
+      <text x={cx} y={cy + 18} textAnchor="middle" fill="#4a3a3a" fontSize="5"
+        style={{ fontFamily:"'Cormorant Garamond',serif", fontStyle:"italic" }}>
+        Tap spirits for detail
+      </text>
+    </svg>
+  );
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   SPIRIT DETAIL CARD
+   ══════════════════════════════════════════════════════════════════ */
+
+function SpiritCard({ name }) {
+  const s = SPIRITS.find(x => x.name === name);
+  if (!s) return null;
+  const court = COURTS[s.court];
+  const coSpirits = s.co_invoked.filter(n => SPIRITS.find(x => x.name === n));
+  return (
+    <div style={{ background:"#0e080e", border:`1px solid ${court.color}40`,
+      padding:"14px", marginTop:10, borderLeft:`3px solid ${court.color}` }}>
+      <div style={{ display:"flex", alignItems:"flex-start", gap:12 }}>
+        <div style={{ fontSize:32, color:court.color, lineHeight:1, paddingTop:4 }}>{court.symbol}</div>
+        <div style={{ flex:1 }}>
+          <div style={{ fontSize:20, color:"#e8d5b5", fontWeight:400 }}>{s.name}</div>
+          <div style={{ fontSize:11, color:court.color, marginTop:1 }}>{s.rank}</div>
+          <div style={{ fontSize:10, color:"#3a2a3a", marginTop:1 }}>
+            {court.label} · {s.occurrences} occurrences · Planet: {s.planet}
+          </div>
+        </div>
+        <div style={{ textAlign:"right", fontSize:10 }}>
+          <div style={{ color:"#3a2a3a" }}>Direction</div>
+          <div style={{ color:"#6a5a5a" }}>{s.direction}</div>
+        </div>
+      </div>
+
+      <div style={{ marginTop:10, fontSize:12, color:"#8a7a6a", lineHeight:1.7 }}>{s.function}</div>
+
+      <div style={{ marginTop:10, padding:"8px 10px", background:"#0a050a",
+        border:"1px solid #1a0a1a", fontSize:11, color:"#7a6a5a",
+        fontStyle:"italic", lineHeight:1.6 }}>
+        "{s.quote}"
+      </div>
+
+      <div style={{ marginTop:10, display:"flex", flexWrap:"wrap", gap:6 }}>
+        {s.experiments.map((e, i) => (
+          <span key={i} style={{ fontSize:9, color:court.color,
+            border:`1px solid ${court.color}40`, padding:"2px 6px" }}>
+            {e}
+          </span>
+        ))}
+      </div>
+
+      <div style={{ marginTop:8, paddingTop:8, borderTop:"1px solid #1a0a1a",
+        fontSize:10, color:"#3a2a3a" }}>
+        {s.page_refs}
+      </div>
+
+      {coSpirits.length > 0 && (
+        <div style={{ marginTop:8, paddingTop:8, borderTop:"1px solid #1a0a1a",
+          fontSize:10, color:"#5a4a4a" }}>
+          Co-invoked with: {s.co_invoked.join(", ")}
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   SPIRITS TABLE
+   ══════════════════════════════════════════════════════════════════ */
+
+function SpiritTable({ onSelect, selected, onHover }) {
+  return (
+    <div>
+      {SPIRITS.map(s => {
+        const court = COURTS[s.court];
+        const isSel = selected === s.name;
+        return (
+          <div key={s.name}
+            onMouseEnter={() => onHover(s.name)}
+            onMouseLeave={() => onHover(null)}
+            onClick={() => onSelect(s.name)}
+            style={{ display:"flex", alignItems:"center", gap:10,
+              padding:"8px 4px", borderBottom:"1px solid #130813",
+              cursor:"pointer", background: isSel ? "#0e080e" : "transparent" }}>
+            <span style={{ fontSize:18, color:court.color, width:24, textAlign:"center" }}>
+              {court.symbol}
+            </span>
+            <div style={{ flex:1 }}>
+              <div style={{ fontSize:14, color:"#e0ccb5" }}>{s.name}</div>
+              <div style={{ fontSize:10, color:"#5a4a4a" }}>
+                {s.rank} · {s.occurrences} refs
+              </div>
+            </div>
+            <div style={{ textAlign:"right", fontSize:10 }}>
+              <div style={{ color:court.color }}>{court.label}</div>
+              <div style={{ color:"#4a3a4a" }}>♃ {s.planet}</div>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   RESONANCE TABLE
+   ══════════════════════════════════════════════════════════════════ */
+
+function ResonanceTable({ onHover }) {
+  return (
+    <div>
+      <div style={{ fontSize:10, color:"#3a2a3a", marginBottom:10, lineHeight:1.7 }}>
+        All connections verified from CLM 849. Solid lines = direct co-invocation in same ritual.
+        Dashed lines = co-inscription in same circle formula.
+      </div>
+      {RESONANCES.map((r, i) => {
+        const s1 = SPIRITS.find(x => x.name === r.s1);
+        const s2 = SPIRITS.find(x => x.name === r.s2);
+        if (!s1 || !s2) return null;
+        return (
+          <div key={i}
+            onMouseEnter={() => onHover(r.s1)}
+            onMouseLeave={() => onHover(null)}
+            style={{ display:"flex", gap:8, alignItems:"center",
+              padding:"7px 2px", borderBottom:"1px solid #130813" }}>
+            <span style={{ color:COURTS[s1.court].color, fontSize:13, width:20, textAlign:"center" }}>
+              {COURTS[s1.court].symbol}
+            </span>
+            <div style={{ color:r.color, fontSize:10, width:16, textAlign:"center" }}>
+              {r.dash ? "╌╌" : "──"}
+            </div>
+            <span style={{ color:COURTS[s2.court].color, fontSize:13, width:20, textAlign:"center" }}>
+              {COURTS[s2.court].symbol}
+            </span>
+            <div style={{ flex:1 }}>
+              <div style={{ fontSize:12, color:"#8a7a6a" }}>
+                {r.s1} <span style={{ color:r.color }}>{r.type}</span> {r.s2}
+              </div>
+              <div style={{ fontSize:10, color:"#4a3a4a", marginTop:1 }}>{r.desc}</div>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   HOURS TABLE (Planetary hours for conjuration timing)
+   ══════════════════════════════════════════════════════════════════ */
+
+function HoursTable({ selDay, onSelDay, selHour, onSelHour }) {
+  return (
+    <div style={{ overflowX:"auto" }}>
+      <div style={{ fontSize:10, color:"#3a2a3a", marginBottom:8, lineHeight:1.7 }}>
+        Chaldean planetary hours for timing conjurations. Day hours (6–18) operate in full power.
+        Each cell shows the ruling planet; tap for conjuration guidance from CLM 849.
+      </div>
+      <table style={{ borderCollapse:"collapse", width:"100%", fontSize:10,
+        fontFamily:"'Cormorant Garamond',serif" }}>
+        <thead>
+          <tr>
+            <th style={{ ...thS, width:22 }}></th>
+            {DAY_NAMES.map((d, i) => (
+              <th key={d} onClick={() => onSelDay(i)}
+                style={{ ...thS, cursor:"pointer",
+                  background: selDay === i ? "#1a0a1a" : "transparent",
+                  color: selDay === i ? "#C5960A" : "#3a2a3a" }}>
+                {d.slice(0,2)}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {Array.from({length:24}, (_, h) => (
+            <tr key={h}>
+              <td style={{ ...tdS, color:"#2a2a2a", fontWeight:600, fontSize:8 }}>{h}</td>
+              {Array.from({length:7}, (_, di) => {
+                const planet = CHALDEAN[(CHALDEAN.indexOf(DAY_RULERS[di]) + h) % 7];
+                const pd = PLANETS[planet];
+                const isSel = selDay === di && selHour === h;
+                return (
+                  <td key={di} onClick={() => { onSelDay(di); onSelHour(h); }}
+                    style={{ ...tdS, cursor:"pointer", fontSize:14,
+                      background: isSel ? "#1a0a1a" : "transparent",
+                      color: pd.color, opacity: (h >= 6 && h < 18) ? 1 : 0.3 }}
+                    title={planet}>
+                    {pd.symbol}
+                  </td>
+                );
+              })}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  );
+}
+const thS = { padding:"3px", borderBottom:"1px solid #1a0a1a", textAlign:"center", fontWeight:600 };
+const tdS = { padding:"1px 0", borderBottom:"1px solid #08050820", textAlign:"center" };
+
+/* ══════════════════════════════════════════════════════════════════
+   SOM CLUSTERS — Infernal Courts (precomputed from spirit vectors)
+   ══════════════════════════════════════════════════════════════════ */
+
+const INFERNAL_COURTS = [
+  {
+    name: "Court of Revelation",
+    spirits: ["Astaroth","Berith","Mirage"],
+    color: "#DAA520",
+    desc: "Spirits whose primary power is revealing hidden knowledge — treasures, languages, judicial truths. Dominate the Info_Util axis of the SOM.",
+    som_cell: "Cell (0,0)"
+  },
+  {
+    name: "Court of Compulsion",
+    spirits: ["Belial","Lucifer","Belzebub"],
+    color: "#CD4C4C",
+    desc: "Named princes whose function is compulsion and binding — appearing in circle inscriptions to constrain demons in obedience to infernal hierarchy.",
+    som_cell: "Cell (0,3)"
+  },
+  {
+    name: "Court of Kings",
+    spirits: ["Apolin","Maraloth","Paymon"],
+    color: "#9050C0",
+    desc: "Kings and princes conjured as a group for specific rituals. Berith's knowledge-court (Apolin, Maraloth) operates through conveyance of a teacher-spirit.",
+    som_cell: "Cell (2,1)"
+  },
+  {
+    name: "Court of Threshold",
+    spirits: ["Suburith","Oriens","Lylet"],
+    color: "#5590C0",
+    desc: "Spirits operating at the threshold of the living and dead: resurrection inscription, dream-revelation of treasure, and judicial truth-telling.",
+    som_cell: "Cell (3,3)"
+  },
+];
+
+function CourtsView() {
+  const [openCourt, setOpenCourt] = useState(null);
+  return (
+    <div>
+      <div style={{ fontSize:10, color:"#3a2a3a", marginBottom:10, lineHeight:1.7 }}>
+        Infernal Courts computed from SOM clustering on 6D feature vectors
+        (Rank, Info, Kinetic, Social, Treasure, Legion utility). Four courts
+        emerge from the 4×4 SOM grid. Source: verified Table D seed spirits.
+      </div>
+      {INFERNAL_COURTS.map((court, i) => {
+        const isOpen = openCourt === i;
+        return (
+          <div key={i} onClick={() => setOpenCourt(isOpen ? null : i)}
+            style={{ marginBottom:6, border:`1px solid ${court.color}30`,
+              borderLeft:`3px solid ${court.color}`, cursor:"pointer" }}>
+            <div style={{ padding:"10px 12px", display:"flex", gap:10, alignItems:"center" }}>
+              <div style={{ flex:1 }}>
+                <div style={{ fontSize:14, color:"#e0ccb5" }}>{court.name}</div>
+                <div style={{ fontSize:10, color:"#5a4a4a", marginTop:2 }}>
+                  {court.spirits.join(" · ")} · {court.som_cell}
+                </div>
+              </div>
+              <div style={{ color:court.color, fontSize:12 }}>{isOpen ? "▲" : "▼"}</div>
+            </div>
+            {isOpen && (
+              <div style={{ padding:"0 12px 12px", borderTop:`1px solid ${court.color}20` }}>
+                <div style={{ fontSize:12, color:"#7a6a5a", lineHeight:1.7, marginTop:8 }}>
+                  {court.desc}
+                </div>
+                <div style={{ marginTop:8, display:"flex", gap:6, flexWrap:"wrap" }}>
+                  {court.spirits.map(name => {
+                    const s = SPIRITS.find(x => x.name === name);
+                    return s ? (
+                      <span key={name} style={{ fontSize:9, color:court.color,
+                        border:`1px solid ${court.color}50`, padding:"2px 6px" }}>
+                        {court.name === "Court of Revelation"
+                          ? `${name} (Info: ${name === "Astaroth" ? "0.9" : name === "Berith" ? "0.8" : "0.9"})`
+                          : name}
+                      </span>
+                    ) : null;
+                  })}
+                </div>
+              </div>
+            )}
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   MAIN APP
+   ══════════════════════════════════════════════════════════════════ */
+
+function InfernalTopology() {
+  const [tab, setTab] = useState("circle");
+  const [selectedSpirit, setSelectedSpirit] = useState(null);
+  const [highlightSpirit, setHighlightSpirit] = useState(null);
+  const [showResonances, setShowResonances] = useState(true);
+  const [selDay, setSelDay] = useState(null);
+  const [selHour, setSelHour] = useState(null);
+
+  const handleClickSpirit = (name) => {
+    setSelectedSpirit(selectedSpirit === name ? null : name);
+  };
+
+  const selHourPlanet = selDay !== null && selHour !== null
+    ? CHALDEAN[(CHALDEAN.indexOf(DAY_RULERS[selDay]) + selHour) % 7]
+    : null;
+
+  const TABS = [["circle","Circle"],["spirits","Spirits"],["courts","Courts"],["rituals","Resonances"],["hours","Hours"]];
+
+  return (
+    <div style={{ background:"#080510", color:"#e0ccb5", minHeight:"100vh",
+      padding:"20px 12px", fontFamily:"'Cormorant Garamond',serif" }}>
+      <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet"/>
+
+      <div style={{ maxWidth:480, margin:"0 auto" }}>
+
+        {/* ── Header ── */}
+        <div style={{ textAlign:"center", marginBottom:16 }}>
+          <div style={{ fontSize:8, color:"#2a1a2a", letterSpacing:6, textTransform:"uppercase" }}>
+            Infernal Topology Research
+          </div>
+          <h1 style={{ margin:"4px 0 2px", fontSize:20, fontWeight:400,
+            color:"#C5960A", letterSpacing:1 }}>
+            Munich Handbook of Necromancy
+          </h1>
+          <div style={{ fontSize:11, color:"#3a2a3a", fontStyle:"italic" }}>
+            CLM 849 · Bayerische Staatsbibliothek · c. 1440–60
+          </div>
+        </div>
+
+        {/* ── Status banner ── */}
+        <div style={{ background:"#0e080e", border:"1px solid #1a0a1a",
+          padding:"8px 12px", margin:"0 0 12px",
+          display:"flex", justifyContent:"space-between", alignItems:"center" }}>
+          <div>
+            <div style={{ fontSize:9, color:"#3a2a3a", textTransform:"uppercase", letterSpacing:2 }}>Corpus</div>
+            <div style={{ fontSize:12, color:"#8a7a6a" }}>
+              {SPIRITS.length} verified spirits · {RESONANCES.length} co-invocations · 4 Infernal Courts
+            </div>
+          </div>
+          <div style={{ textAlign:"right" }}>
+            <div style={{ fontSize:9, color:"#3a2a3a" }}>Source</div>
+            <div style={{ fontSize:11, color:"#5a4a4a" }}>Kieckhefer (1997)</div>
+          </div>
+        </div>
+
+        {/* ── Tabs ── */}
+        <div style={{ display:"flex", gap:0, marginBottom:12,
+          borderBottom:"1px solid #1a0a1a", overflowX:"auto" }}>
+          {TABS.map(([k, l]) => (
+            <button key={k} onClick={() => { setTab(k); setSelectedSpirit(null); }}
+              style={{ flex:1, padding:"6px 4px", background:"none", border:"none",
+                borderBottom: tab === k ? "2px solid #C5960A" : "2px solid transparent",
+                color: tab === k ? "#e0ccb5" : "#3a2a3a",
+                fontFamily:"'Cormorant Garamond',serif", fontSize:11,
+                cursor:"pointer", letterSpacing:0.5, whiteSpace:"nowrap" }}>
+              {l}
+            </button>
+          ))}
+        </div>
+
+        {/* ── CIRCLE ── */}
+        {tab === "circle" && (
+          <div>
+            <MagicCircle
+              selectedSpirit={selectedSpirit}
+              highlightSpirit={highlightSpirit}
+              showResonances={showResonances}
+              onClickSpirit={handleClickSpirit}/>
+
+            <div style={{ display:"flex", gap:16, justifyContent:"center", margin:"6px 0 10px" }}>
+              <label style={{ fontSize:11, color:"#5a4a5a", cursor:"pointer",
+                display:"flex", alignItems:"center", gap:4 }}>
+                <input type="checkbox" checked={showResonances}
+                  onChange={() => setShowResonances(!showResonances)}
+                  style={{ accentColor:"#C5960A" }}/> Resonances
+              </label>
+            </div>
+
+            {/* Sector legend */}
+            <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:"3px 10px",
+              marginBottom:10 }}>
+              {SECTOR_LABELS.map((label, i) => (
+                <div key={i} style={{ display:"flex", alignItems:"center", gap:5, fontSize:10 }}>
+                  <div style={{ width:8, height:8, borderRadius:"50%",
+                    background:SECTOR_COLORS[i], opacity:0.7, flexShrink:0 }}/>
+                  <span style={{ color:"#5a4a5a" }}>{label}</span>
+                </div>
+              ))}
+            </div>
+
+            {/* Spirit click detail */}
+            {selectedSpirit && <SpiritCard name={selectedSpirit}/>}
+
+            {/* Spirit legend */}
+            {!selectedSpirit && (
+              <div>
+                <div style={{ fontSize:10, color:"#2a1a2a", marginBottom:6,
+                  textTransform:"uppercase", letterSpacing:2 }}>Spirits</div>
+                <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:"2px 10px" }}>
+                  {SPIRITS.map(s => {
+                    const court = COURTS[s.court];
+                    return (
+                      <div key={s.name}
+                        onMouseEnter={() => setHighlightSpirit(s.name)}
+                        onMouseLeave={() => setHighlightSpirit(null)}
+                        onClick={() => handleClickSpirit(s.name)}
+                        style={{ display:"flex", alignItems:"center", gap:5,
+                          fontSize:11, cursor:"pointer", padding:"2px 0" }}>
+                        <span style={{ color:court.color, fontSize:14, width:18 }}>
+                          {court.symbol}
+                        </span>
+                        <span style={{ color:"#6a5a5a" }}>{s.name}</span>
+                        <span style={{ color:"#2a1a2a", marginLeft:"auto", fontSize:9 }}>
+                          ×{s.occurrences}
+                        </span>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* ── SPIRITS ── */}
+        {tab === "spirits" && (
+          <div>
+            <div style={{ fontSize:10, color:"#3a2a3a", marginBottom:10,
+              textTransform:"uppercase", letterSpacing:2 }}>
+              Verified Spirit Roster — tap for detail
+            </div>
+            <SpiritTable
+              selected={selectedSpirit}
+              onSelect={handleClickSpirit}
+              onHover={setHighlightSpirit}/>
+            {selectedSpirit && <SpiritCard name={selectedSpirit}/>}
+          </div>
+        )}
+
+        {/* ── COURTS ── */}
+        {tab === "courts" && (
+          <div>
+            <div style={{ fontSize:10, color:"#3a2a3a", marginBottom:10,
+              textTransform:"uppercase", letterSpacing:2 }}>
+              Infernal Courts — SOM Cluster Analysis
+            </div>
+            <CourtsView/>
+            <div style={{ marginTop:14, padding:"10px 12px", background:"#0e080e",
+              border:"1px solid #1a0a1a", fontSize:12, color:"#5a4a4a", lineHeight:1.7 }}>
+              <strong style={{ color:"#C5960A" }}>Method:</strong> 11 verified Table D seed spirits
+              encoded as 6D feature vectors (Rank, Info, Kinetic, Social, Treasure, Legion).
+              MiniSom 4×4 topology trained with QRNG seeding. Four stable cluster regions
+              emerge — here mapped to the four courts visible in the infernal hierarchy of CLM 849.
+              Note: only the 11 seed spirits are verified; courts inferred from their SOM placement.
+            </div>
+          </div>
+        )}
+
+        {/* ── RESONANCES ── */}
+        {tab === "rituals" && (
+          <div>
+            <div style={{ fontSize:10, color:"#3a2a3a", marginBottom:10,
+              textTransform:"uppercase", letterSpacing:2 }}>
+              Co-Invocation Resonances
+            </div>
+            <ResonanceTable onHover={setHighlightSpirit}/>
+          </div>
+        )}
+
+        {/* ── HOURS ── */}
+        {tab === "hours" && (
+          <div>
+            <div style={{ fontSize:10, color:"#3a2a3a", marginBottom:10,
+              textTransform:"uppercase", letterSpacing:2 }}>
+              Planetary Hours — Conjuration Timing
+            </div>
+            <HoursTable selDay={selDay} onSelDay={setSelDay}
+              selHour={selHour} onSelHour={setSelHour}/>
+            {selHourPlanet && (
+              <div style={{ background:"#0e080e", border:"1px solid #1a0a1a",
+                padding:"12px 14px", marginTop:10 }}>
+                <div style={{ display:"flex", alignItems:"center", gap:12 }}>
+                  <span style={{ fontSize:36, color:PLANETS[selHourPlanet].color }}>
+                    {PLANETS[selHourPlanet].symbol}
+                  </span>
+                  <div>
+                    <div style={{ fontSize:16, color:"#e0ccb5" }}>
+                      {selHourPlanet} · {DAY_NAMES[selDay]} · Hour {selHour}
+                    </div>
+                    <div style={{ fontSize:11, color:"#5a4a4a", marginTop:4,
+                      lineHeight:1.6 }}>
+                      <strong style={{ color:"#7a6a5a" }}>Conjure:</strong>{" "}
+                      {PLANETS[selHourPlanet].conjure}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            )}
+            {!selHourPlanet && (
+              <div style={{ background:"#0e080e", border:"1px solid #1a0a1a",
+                padding:"12px 14px", marginTop:10, fontSize:12, color:"#4a3a4a",
+                lineHeight:1.7 }}>
+                <strong style={{ color:"#C5960A" }}>How to use:</strong> Each day's first hour
+                belongs to its ruling planet (Sunday → ☉). Subsequent hours cycle the Chaldean
+                order: ♄→♃→♂→☉→♀→☿→☽. The Munich Handbook specifies planetary-hour timing
+                for major conjurations. Day hours (6–18) shown at full opacity; night hours dimmed.
+                Tap any cell.
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* ── Footer ── */}
+        <div style={{ marginTop:28, paddingTop:12, borderTop:"1px solid #130813",
+          fontSize:9, color:"#1e1220", textAlign:"center", lineHeight:2 }}>
+          All data extracted from CLM 849 via Kieckhefer, <em>Forbidden Rites</em> (Penn State, 1997)
+          <br/>
+          Distillation: 120B Qwen model · 126 chunks · munich-handbook-research
+          <br/>
+          No hallucinated spirits — verified provenance only
+        </div>
+
+      </div>
+    </div>
+  );
+}
+
+ReactDOM.render(<InfernalTopology/>, document.getElementById("root"));
+  </script>
+</body>
+</html>

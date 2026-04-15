@@ -1,33 +1,65 @@
 {
-  "prompt": "Extract spirits and experiments from text, enforcing strict JSON schema. Include raw_quote, flag ambiguities (e.g., 'If name unclear, output null and note in quote context').",
+  "_note": "Extraction schema for Munich Handbook of Necromancy (CLM 849). Every entity MUST have chunk/passage provenance.",
+  "prompt": "Extract spirits and experiments from the Munich Handbook text. Output ONLY a JSON object matching this schema. Include raw_quote from the source text. Flag any ambiguities. Do NOT invent entities not present in the text.",
   "schema": {
     "type": "object",
     "properties": {
-      "source_name": {"type": "string", "description": "Name of the spirit/experiment"},
-      "experiment_type": {"type": "string", "description": "Type of experiment (e.g., 'chemistry', 'biology')"},
-      "method": {"type": "string", "description": "Description of the method"},
-      "results": {"type": "string", "description": "Key results or observations"},
-      "raw_quote": {"type": "object", "description": "Quote with context (e.g., 'Unknown Source: [details]')"},
-      "ambiguity_note": {"type": "string", "description": "Note if ambiguity exists"}
+      "entities": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name":               {"type": ["string", "null"], "description": "Spirit or entity name as it appears in the text"},
+            "rank":               {"type": ["string", "null"], "description": "Hierarchical rank (e.g. King, Duke, President, Count, Marquis)"},
+            "function":           {"type": ["string", "null"], "description": "Primary function or power granted by the spirit"},
+            "appearance":         {"type": ["string", "null"], "description": "Physical description of the spirit's manifestation"},
+            "legion_count":       {"type": ["integer", "null"], "description": "Number of legions commanded"},
+            "conjuration_method": {"type": ["string", "null"], "description": "Required conjuration ritual or invocation technique"},
+            "experiment_refs":    {"type": "array", "items": {"type": "string"}, "description": "Experiment numbers referencing this spirit (e.g. 'Exp. 14')"},
+            "raw_quote":          {"type": "string", "description": "Direct Latin/English quote from source text"},
+            "ambiguity_note":     {"type": ["string", "null"], "description": "Note any unclear names, damaged text, or editorial uncertainty"}
+          },
+          "required": ["name", "raw_quote"]
+        }
+      },
+      "relationships": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "subject":   {"type": "string", "description": "Subject entity name"},
+            "predicate": {"type": "string", "description": "Relationship type (e.g. commands, serves, conjures, requires)"},
+            "object":    {"type": "string", "description": "Object entity name or value"},
+            "raw_quote": {"type": "string", "description": "Source quote supporting this relationship"}
+          },
+          "required": ["subject", "predicate", "object"]
+        }
+      },
+      "chunk_id":    {"type": "string", "description": "Source chunk identifier (e.g. kieckhefer_chunk_12)"},
+      "parse_error": {"type": ["string", "null"], "description": "Set to an error message if extraction failed, null on success"}
     },
-    "required": ["source_name", "experiment_type", "method", "results", "raw_quote"]
+    "required": ["entities", "relationships", "chunk_id"]
   },
   "examples": [
     {
-      "source_name": "Lavoisier",
-      "experiment_type": "chemistry",
-      "method": "Oxidation-reduction experiments",
-      "results": "Law of conservation of mass",
-      "raw_quote": {"quote": "La matière ne se perd pas.", "context": "1780"},
-      "ambiguity_note": null
-    },
-    {
-      "source_name": "Unknown Source",
-      "experiment_type": "unidentified",
-      "method": "Unspecified",
-      "results": "Ambiguous data",
-      "raw_quote": {"quote": "Data is incomplete.", "context": "2023"},
-      "ambiguity_note": "Source name and experiment type unclear"
+      "entities": [
+        {
+          "name": "Surgat",
+          "rank": "President",
+          "function": "lock_opening",
+          "appearance": null,
+          "legion_count": 10,
+          "conjuration_method": "Ring of Solomon + suffumigation",
+          "experiment_refs": ["Exp. 31"],
+          "raw_quote": "Surgat qui soluit omnes claves...",
+          "ambiguity_note": null
+        }
+      ],
+      "relationships": [
+        {"subject": "Surgat", "predicate": "requires", "object": "Ring of Solomon", "raw_quote": "Surgat qui soluit omnes claves..."}
+      ],
+      "chunk_id": "kieckhefer_chunk_31",
+      "parse_error": null
     }
   ]
 }

@@ -1,6 +1,26 @@
 import json
+import time
+import functools
 from jsonschema import validate, ValidationError
-from retry_decorator import retry, retry_count
+
+
+def retry(max_retries=2, delay=1.0):
+    """Simple retry decorator using standard library only."""
+    def decorator(func):
+        @functools.wraps(func)
+        def wrapper(*args, **kwargs):
+            last_exc = None
+            for attempt in range(max_retries + 1):
+                try:
+                    return func(*args, **kwargs)
+                except Exception as exc:
+                    last_exc = exc
+                    if attempt < max_retries:
+                        time.sleep(delay)
+            raise last_exc
+        return wrapper
+    return decorator
+
 
 @retry(max_retries=2)
 def batch_distill_source(chunk_id, strict=True):
