@@ -77,6 +77,212 @@ const MYTH_TOKENS = {
 
 const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
+/* ═══════════════════════════════════════════════════
+   CROSS-SOURCE CONNECTIONS
+   Entities appearing in BOTH De Occultis (Porta 1592)
+   AND the Munich Handbook of Necromancy (15th c.)
+═══════════════════════════════════════════════════ */
+const CROSS_REFS = [
+  {
+    category: "Carrier Animals",
+    icon: "🕊",
+    items: [
+      {
+        entity: "White Dove",
+        deOccultis: { text: "Carrier pigeon — attach cipher text to leg before release", ref: "De Occultis, Chunk 010", type: "steganography" },
+        munich: { text: "Ritual ingredient in forbidden rites — white dove blood used in binding conjurations", ref: "Munich Handbook, forbidden_rites", type: "ritual" },
+        significance: "The same bird crosses both worlds: Porta's messenger of hidden text and the necromancer's ritual sacrifice. The dove carries secrets in life and power in death."
+      },
+      {
+        entity: "Black Raven",
+        deOccultis: { text: "Mentioned as carrier for night messages — dark plumage as natural camouflage", ref: "De Occultis, Chunk 010", type: "steganography" },
+        munich: { text: "Spirit familiar associated with Saturn; summoned as herald of chthonic entities", ref: "Munich Handbook, spirits_index", type: "ritual" },
+        significance: "Saturnine creature in both systems — concealment and dark knowledge under the same planetary signature."
+      },
+    ]
+  },
+  {
+    category: "Planetary Angels",
+    icon: "☽",
+    items: [
+      {
+        entity: "Michael / Sol",
+        deOccultis: { text: "Solar cipher key — Apollo the King. Sun's shift encodes messages in golden light", ref: "De Occultis, Chunk 027, p.663", type: "cipher_key" },
+        munich: { text: "Archangel Michael governs the Sun hour; invoked for binding and protection rituals", ref: "Munich Handbook, planetary_hours", type: "invocation" },
+        significance: "The archangel's name is simultaneously Porta's cipher token label and the Munich Handbook's primary solar spirit. The same divine name unlocks both a ciphertext and a ritual."
+      },
+      {
+        entity: "Raphael / Mercury",
+        deOccultis: { text: "Mercury cipher — digraphic method. Raphael appears in Porta's token table as cipher for R", ref: "De Occultis, p.157", type: "cipher_token" },
+        munich: { text: "Raphael governs Mercury hour; invoked for communication, travel, and healing conjurations", ref: "Munich Handbook, planetary_hours", type: "invocation" },
+        significance: "Mercury/Raphael governs communication in both texts — the messenger planet whose cipher method (letter-pair substitution) mirrors his role as divine courier."
+      },
+      {
+        entity: "Gabriel / Moon",
+        deOccultis: { text: "Lunar mirror cipher — what is hidden is reflected. Gabriel appears as Moon spirit in Porta's token system", ref: "De Occultis, Chunk 027", type: "cipher_key" },
+        munich: { text: "Gabriel governs Moon hours; associated with illusion, water, and the veiling of true sight", ref: "Munich Handbook, planetary_hours", type: "invocation" },
+        significance: "The mirror cipher (ROT-13, reflection) assigned to the Moon perfectly matches Gabriel's lunar domain of hidden reflection and illusion."
+      },
+      {
+        entity: "Cassiel / Saturn",
+        deOccultis: { text: "Saturn cipher — reversed alphabet DCBA. The retrograde principle of the outermost sphere", ref: "De Occultis, Chunk 000, p.600", type: "cipher_key" },
+        munich: { text: "Cassiel/Zazel governs Saturn hour; bound in the outer darkness, invoked for binding, cursing, and leaden tablets", ref: "Munich Handbook, spirits_index", type: "invocation" },
+        significance: "Saturn's reversed cipher exactly enacts his mythological role: the bound god, the retrograde sphere, the weight of lead. Porta's DCBA is also Munich's lead tablet — both inscribe secrets backward."
+      },
+    ]
+  },
+  {
+    category: "Materials & Instruments",
+    icon: "⚗",
+    items: [
+      {
+        entity: "Lead Lamellae (Lead Tablets)",
+        deOccultis: { text: "Thin lead sheets for writing secret inscriptions — folded and sealed with wax", ref: "De Occultis, Chunk 013", type: "medium" },
+        munich: { text: "Lead tablets (defixiones) inscribed with binding formulae and buried. Primary medium for curse tablets", ref: "Munich Handbook, materials_analysis", type: "ritual_object" },
+        significance: "The same material serves both steganography and necromancy — lead's physical weight made it ideal for hidden, permanent inscription in both traditions."
+      },
+      {
+        entity: "Wax Tablets",
+        deOccultis: { text: "Write on the wood beneath the wax surface — message hidden below blank appearance", ref: "De Occultis, Chunk 013", type: "medium" },
+        munich: { text: "Wax images (figurines) used in sympathetic magic; wax tablets for ritual diagrams and spirit seals", ref: "Munich Handbook, materials_analysis", type: "ritual_object" },
+        significance: "Wax as medium of concealment: Porta hides text beneath it; the Munich Handbook shapes it into vessels for spirits. The same substance conceals and contains."
+      },
+      {
+        entity: "Alum",
+        deOccultis: { text: "Alum + gall nuts produce invisible ink, revealed by heat. Primary chemical steganography", ref: "De Occultis, Chunk 024", type: "material" },
+        munich: { text: "Alum cited in purification and binding preparations; mineral salt associated with Saturn", ref: "Munich Handbook, materials_analysis", type: "ritual_material" },
+        significance: "Alum is Saturnine in both systems — Porta uses it to hide text, the necromancers use it in Saturnine preparations. The same mineral salt of the outer sphere."
+      },
+    ]
+  },
+  {
+    category: "Concepts of Secrecy",
+    icon: "🔐",
+    items: [
+      {
+        entity: "Spirits as adversaries of secret-keeping",
+        deOccultis: { text: "Messages must be hidden from 'spirits who read unciphered writing' — the supernatural threat to plaintext", ref: "De Occultis, Chunk 027, p.663", type: "concept" },
+        munich: { text: "Spirits described as capable of reading human intentions; ritual operators must conceal their true purposes within formal conjurations", ref: "Munich Handbook, ritual_structure", type: "concept" },
+        significance: "Both Porta and the Munich necromancers share an adversary: supernatural entities that can read hidden things. Cipher is not just secrecy from humans — it is secrecy from the spirits themselves."
+      },
+      {
+        entity: "Planetary Hours as Cipher Keys",
+        deOccultis: { text: "Each planet's cipher is activated at that planet's hour — temporal key to the cipher system", ref: "De Occultis, Chunk 027", type: "concept" },
+        munich: { text: "Planetary hours determine which spirit may be conjured — Saturn at Saturn's hour, etc.", ref: "Munich Handbook, planetary_hours", type: "ritual_timing" },
+        significance: "The planetary hour system is shared infrastructure. Porta's 'use Saturn's cipher at Saturn's hour' and the Munich Handbook's 'invoke Cassiel at Saturn's hour' are parallel operations in the same cosmological framework."
+      },
+    ]
+  },
+];
+
+/* ═══ ADDITIONAL CIPHER MODES ═══ */
+
+// Scytale cipher — columnar transposition (Spartan rod cipher)
+// Porta describes this in De Occultis Chunk 019
+function scytaleCipher(text, rods, encrypt) {
+  const clean = text.toUpperCase().replace(/[^A-Z]/g, "");
+  if (!clean) return "";
+  if (encrypt) {
+    // Write across rows of width=rods, read down columns
+    const cols = rods;
+    const rows = Math.ceil(clean.length / cols);
+    const padded = clean.padEnd(rows * cols, "X");
+    let out = "";
+    for (let c = 0; c < cols; c++) {
+      for (let r = 0; r < rows; r++) {
+        out += padded[r * cols + c];
+      }
+    }
+    return out;
+  } else {
+    // Reverse: read down rows of width=ceil(len/rods)
+    const rows = rods;
+    const cols = Math.ceil(clean.length / rows);
+    const padded = clean.padEnd(rows * cols, "X");
+    let out = "";
+    for (let c = 0; c < cols; c++) {
+      for (let r = 0; r < rows; r++) {
+        out += padded[r * cols + c];
+      }
+    }
+    return out.replace(/X+$/, "");
+  }
+}
+
+// Zodiac Numeric cipher — each letter becomes zodiac sign + position number
+// Based on Porta p.663: "twelve signs assigned numbers"
+function zodiacNumeric(text, encrypt) {
+  if (encrypt) {
+    return text.toUpperCase().split("").map(c => {
+      if (!/[A-Z]/.test(c)) return c;
+      const idx = ALPHABET.indexOf(c); // 0-25
+      const sign = ZODIAC[idx % 12];
+      const pos = Math.floor(idx / 12) + 1; // 1, 2, or 3
+      return sign.s + pos;
+    }).join(" ");
+  } else {
+    // Parse tokens like ♈1 ♉2 etc.
+    const signMap = {};
+    ZODIAC.forEach((z, i) => { signMap[z.s] = i; });
+    const tokens = text.trim().split(/\s+/);
+    return tokens.map(t => {
+      // Find zodiac symbol (1-3 chars) + number
+      for (const [sym, si] of Object.entries(signMap)) {
+        if (t.startsWith(sym)) {
+          const pos = parseInt(t.slice(sym.length)) - 1;
+          const idx = si + pos * 12;
+          if (idx < 26) return ALPHABET[idx];
+        }
+      }
+      return t;
+    }).join("");
+  }
+}
+
+// Null cipher — hide message in the first letter of each word
+// Porta describes this as "acrostic concealment" in De Occultis
+function nullCipherEncode(message) {
+  // For each letter in message, generate a filler word starting with that letter
+  const FILLERS = {
+    A:["All","And","As","At","After","Among","Above","Against"],
+    B:["By","But","Before","Between","Below","Beyond","Because"],
+    C:["Can","Come","Comes","Called","Certain","Carried","Clear"],
+    D:["Do","Day","Days","Dark","Deep","Divine","During","Distant"],
+    E:["Each","Even","Ever","Every","Else","Enter","Equal","Eternal"],
+    F:["For","From","Find","Far","First","Full","Final","Follow"],
+    G:["God","Given","Great","Good","Guard","Gate","Gold","Gather"],
+    H:["He","Has","His","Her","Here","Holy","High","Hold","Hidden"],
+    I:["In","Is","If","Its","Into","Inner","Indeed","Inscribed"],
+    J:["Just","Join","Journey","Judge","Jupiter"],
+    K:["Keep","Known","King","Knowledge","Key"],
+    L:["Let","Like","Long","Light","Lord","Luna","Loose","Lead"],
+    M:["My","More","Most","Must","Many","Made","Mark","Moon","Mars"],
+    N:["Not","Now","No","Near","Night","Name","Noble","Neither"],
+    O:["Of","On","Or","One","Our","Only","Open","Over","Old"],
+    P:["Put","Per","Part","Path","Power","Place","Passes","Planet"],
+    Q:["Quite","Queen","Quick","Quiet"],
+    R:["Read","Right","Runs","Revealed","Ring","Reach","Remain"],
+    S:["So","Said","Some","Such","Send","Sign","Sun","Saturn","Spirit"],
+    T:["The","That","This","Then","To","Through","True","Take","Time"],
+    U:["Upon","Under","Until","Up","Unless","Unseen","United"],
+    V:["Very","Via","Voice","Virtue","Veiled","Venus","Vast"],
+    W:["With","When","While","Was","Will","Within","Without","Word"],
+    X:["Xerxes","XI","XII"],
+    Y:["Yet","You","Your","Yonder","Years"],
+    Z:["Zazel","Zeal","Zone","Zenith"],
+  };
+  const words = message.toUpperCase().split("").map((c, i) => {
+    if (!/[A-Z]/.test(c)) return c;
+    const opts = FILLERS[c] || [c];
+    return opts[i % opts.length];
+  });
+  return words.join(" ");
+}
+
+function nullCipherDecode(text) {
+  return text.split(/\s+/).map(w => w[0] || "").join("").toUpperCase();
+}
+
 /* ═══ CIPHER ENGINES ═══ */
 function caesarShift(text, shift, encrypt) {
   return text.toUpperCase().split("").map(c => {
@@ -377,7 +583,19 @@ function App() {
   const [mode, setMode] = useState("encrypt"); // encrypt | decrypt | myth
   const [mythInput, setMythInput] = useState("");
   const [mythOutput, setMythOutput] = useState("");
-  const [activeTab, setActiveTab] = useState("wheel"); // wheel | encode | tokens | lore
+  const [activeTab, setActiveTab] = useState("wheel"); // wheel | encode | tokens | lore | crossref
+  const [cipherMode, setCipherMode] = useState("planet"); // planet | scytale | zodiac | null
+  const [scytaleRods, setScytaleRods] = useState(5);
+  const [scytaleIn, setScytaleIn] = useState("");
+  const [scytaleOut, setScytaleOut] = useState("");
+  const [scytaleDir, setScytaleDir] = useState("encrypt");
+  const [zodiacIn, setZodiacIn] = useState("");
+  const [zodiacOut, setZodiacOut] = useState("");
+  const [zodiacDir, setZodiacDir] = useState("encrypt");
+  const [nullIn, setNullIn] = useState("");
+  const [nullOut, setNullOut] = useState("");
+  const [nullDir, setNullDir] = useState("encrypt");
+  const [expandedRef, setExpandedRef] = useState(null);
 
   const planet = PLANETS[selPlanet];
   const shift = Math.round(rotation / (360/26)) % 26;
@@ -403,6 +621,22 @@ function App() {
     if (mode === "myth_enc") setMythOutput(toMythTokens(mythInput));
     else setMythOutput(fromMythTokens(mythInput));
   }, [mythInput, mode]);
+
+  useEffect(() => {
+    if (!scytaleIn) { setScytaleOut(""); return; }
+    setScytaleOut(scytaleCipher(scytaleIn, scytaleRods, scytaleDir === "encrypt"));
+  }, [scytaleIn, scytaleRods, scytaleDir]);
+
+  useEffect(() => {
+    if (!zodiacIn) { setZodiacOut(""); return; }
+    setZodiacOut(zodiacNumeric(zodiacIn, zodiacDir === "encrypt"));
+  }, [zodiacIn, zodiacDir]);
+
+  useEffect(() => {
+    if (!nullIn) { setNullOut(""); return; }
+    if (nullDir === "encrypt") setNullOut(nullCipherEncode(nullIn));
+    else setNullOut(nullCipherDecode(nullIn));
+  }, [nullIn, nullDir]);
 
   const panelStyle = {
     background:"rgba(180,148,72,0.25)",
@@ -462,11 +696,13 @@ function App() {
       </div>
 
       {/* ── TABS ── */}
-      <div style={{display:"flex", borderBottom:"2px solid rgba(58,40,16,0.3)"}}>
+      <div style={{display:"flex", borderBottom:"2px solid rgba(58,40,16,0.3)", flexWrap:"wrap"}}>
         {tabBtn("wheel", "⟳ WHEEL")}
         {tabBtn("encode", "✦ ENCODE")}
-        {tabBtn("tokens", "⚗ MYTH TOKENS")}
-        {tabBtn("lore", "☽ LORE")}
+        {tabBtn("ciphers", "⚔ MORE CIPHERS")}
+        {tabBtn("tokens", "⚗ TOKENS")}
+        {tabBtn("crossref", "☽ CROSSREF")}
+        {tabBtn("lore", "📜 LORE")}
       </div>
 
       {/* ── CONTENT ── */}
@@ -590,6 +826,131 @@ function App() {
           </div>
         )}
 
+        {activeTab === "ciphers" && (
+          <div style={{display:"flex", flexDirection:"column", gap:12}}>
+
+            {/* ── SCYTALE ── */}
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:13, fontWeight:"bold", color:"#3a2810", marginBottom:4}}>⚔ Scytale — The Spartan Rod Cipher</div>
+              <div style={{fontSize:11, lineHeight:1.7, color:"#3a2810", marginBottom:8}}>
+                <em>"The Lacedaemonians used a staff (scytale) around which a strip of parchment was wound — the message only legible when wrapped on a rod of identical diameter."</em>
+                <span style={{color:"#8a7050", fontSize:10}}> — De Occultis, Chunk 019</span>
+              </div>
+              <div style={{display:"flex", alignItems:"center", gap:10, marginBottom:10, flexWrap:"wrap"}}>
+                <label style={{fontSize:11, color:"#5a3a18"}}>Rod diameter (columns):</label>
+                <input type="range" min={2} max={12} value={scytaleRods}
+                  onChange={e => setScytaleRods(Number(e.target.value))}
+                  style={{flex:1, minWidth:80}}/>
+                <span style={{fontWeight:"bold", color:planet.color, width:20}}>{scytaleRods}</span>
+              </div>
+              {/* Visual rod preview */}
+              <div style={{fontFamily:"monospace", fontSize:11, background:"rgba(42,24,8,0.1)", padding:"8px 10px", borderRadius:3, marginBottom:10, overflowX:"auto", whiteSpace:"pre", color:"#3a2810", lineHeight:1.8}}>
+                {(() => {
+                  const sample = (scytaleIn || "BELLAFORTISSIMEGESTASUNT").replace(/[^A-Z]/g,"");
+                  const cols = scytaleRods;
+                  const rows = Math.ceil(sample.length / cols);
+                  const padded = sample.padEnd(rows * cols, "·");
+                  return Array.from({length:rows}, (_,r) =>
+                    padded.slice(r*cols, (r+1)*cols).split("").join(" ")
+                  ).join("\n");
+                })()}
+              </div>
+              <div style={{display:"flex", gap:0, marginBottom:8, border:"1px solid rgba(58,40,16,0.3)", borderRadius:3, overflow:"hidden"}}>
+                {[["encrypt","Wrap & Read ↓"],["decrypt","Unwrap ↑"]].map(([m, label]) => (
+                  <button key={m} onClick={() => { setScytaleDir(m); setScytaleIn(""); }} style={{
+                    flex:1, padding:"7px", fontSize:12,
+                    background: scytaleDir===m ? "#3a2810" : "transparent",
+                    color: scytaleDir===m ? "#c4a868" : "#3a2810",
+                    border:"none", fontFamily:"inherit", cursor:"pointer",
+                  }}>{label}</button>
+                ))}
+              </div>
+              <textarea value={scytaleIn} onChange={e => setScytaleIn(e.target.value)}
+                placeholder={scytaleDir==="encrypt" ? "BELLA FORTISSIME GESTA SVNT" : "Enter transposed cipher text..."}
+                rows={3} style={inputStyle}/>
+              <div style={{textAlign:"center", margin:"8px 0", color:planet.color, fontSize:16}}>↓</div>
+              <div style={{...inputStyle, minHeight:60, background:"rgba(42,24,8,0.1)", fontWeight:"bold",
+                fontSize:14, letterSpacing:"0.12em", color:planet.color, whiteSpace:"pre-wrap", wordBreak:"break-all"}}>
+                {scytaleOut || <span style={{opacity:0.4,fontWeight:"normal",fontSize:12}}>Output will appear here…</span>}
+              </div>
+            </div>
+
+            {/* ── ZODIAC NUMERIC ── */}
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:13, fontWeight:"bold", color:"#3a2810", marginBottom:4}}>♈ Zodiac Numeric Cipher</div>
+              <div style={{fontSize:11, lineHeight:1.7, color:"#3a2810", marginBottom:8}}>
+                <em>"The alphabet may be used by any sign or planet — we assign numbers to the twelve signs."</em>
+                <span style={{color:"#8a7050", fontSize:10}}> — De Occultis, Chunk 027, p.663</span><br/>
+                Each letter maps to a zodiac symbol + position number. A=♈1, B=♉1... M=♈2, N=♉2... A message becomes a horoscope.
+              </div>
+              <div style={{display:"flex", flexWrap:"wrap", gap:4, marginBottom:10}}>
+                {ALPHABET.slice(0,12).map((l,i) => (
+                  <div key={l} style={{fontSize:10, background:"rgba(42,24,8,0.08)", borderRadius:3, padding:"3px 6px"}}>
+                    <strong>{l}</strong>=<span style={{color:planet.color}}>{ZODIAC[i].s}1</span>
+                  </div>
+                ))}
+                {ALPHABET.slice(12,24).map((l,i) => (
+                  <div key={l} style={{fontSize:10, background:"rgba(42,24,8,0.08)", borderRadius:3, padding:"3px 6px"}}>
+                    <strong>{l}</strong>=<span style={{color:planet.color}}>{ZODIAC[i].s}2</span>
+                  </div>
+                ))}
+              </div>
+              <div style={{display:"flex", gap:0, marginBottom:8, border:"1px solid rgba(58,40,16,0.3)", borderRadius:3, overflow:"hidden"}}>
+                {[["encrypt","Text → Zodiac"],["decrypt","Zodiac → Text"]].map(([m, label]) => (
+                  <button key={m} onClick={() => { setZodiacDir(m); setZodiacIn(""); }} style={{
+                    flex:1, padding:"7px", fontSize:12,
+                    background: zodiacDir===m ? "#3a2810" : "transparent",
+                    color: zodiacDir===m ? "#c4a868" : "#3a2810",
+                    border:"none", fontFamily:"inherit", cursor:"pointer",
+                  }}>{label}</button>
+                ))}
+              </div>
+              <textarea value={zodiacIn} onChange={e => setZodiacIn(e.target.value)}
+                placeholder={zodiacDir==="encrypt" ? "BELLA FORTISSIME GESTA SVNT" : "♉1 ♋1 ♌1 ..."}
+                rows={3} style={inputStyle}/>
+              <div style={{textAlign:"center", margin:"8px 0", color:planet.color, fontSize:16}}>↓</div>
+              <div style={{...inputStyle, minHeight:60, background:"rgba(42,24,8,0.1)", fontWeight:"bold",
+                fontSize:14, color:planet.color, whiteSpace:"pre-wrap", wordBreak:"break-all", letterSpacing:"0.05em"}}>
+                {zodiacOut || <span style={{opacity:0.4,fontWeight:"normal",fontSize:12}}>Output will appear here…</span>}
+              </div>
+            </div>
+
+            {/* ── NULL CIPHER ── */}
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:13, fontWeight:"bold", color:"#3a2810", marginBottom:4}}>🔐 Null Cipher — Acrostic Concealment</div>
+              <div style={{fontSize:11, lineHeight:1.7, color:"#3a2810", marginBottom:8}}>
+                <em>"Conceal the message in the first letters of innocent words — to the uninitiated it reads as pious text."</em>
+                <span style={{color:"#8a7050", fontSize:10}}> — De Occultis, Chunk 015</span><br/>
+                Encode a message as an acrostic. The ciphertext reads like prayer or scholarship; only the first letter of each word matters.
+              </div>
+              <div style={{display:"flex", gap:0, marginBottom:8, border:"1px solid rgba(58,40,16,0.3)", borderRadius:3, overflow:"hidden"}}>
+                {[["encrypt","Hide message ↓"],["decrypt","Extract first letters ↑"]].map(([m, label]) => (
+                  <button key={m} onClick={() => { setNullDir(m); setNullIn(""); }} style={{
+                    flex:1, padding:"7px", fontSize:12,
+                    background: nullDir===m ? "#3a2810" : "transparent",
+                    color: nullDir===m ? "#c4a868" : "#3a2810",
+                    border:"none", fontFamily:"inherit", cursor:"pointer",
+                  }}>{label}</button>
+                ))}
+              </div>
+              <textarea value={nullIn} onChange={e => setNullIn(e.target.value)}
+                placeholder={nullDir==="encrypt" ? "SECRET" : "Paste acrostic text to decode..."}
+                rows={3} style={inputStyle}/>
+              <div style={{textAlign:"center", margin:"8px 0", color:planet.color, fontSize:16}}>↓</div>
+              <div style={{...inputStyle, minHeight:80, background:"rgba(42,24,8,0.1)", fontStyle:"italic",
+                fontSize:12, color:"#3a2810", whiteSpace:"pre-wrap", wordBreak:"break-word", lineHeight:1.8}}>
+                {nullOut || <span style={{opacity:0.4,fontStyle:"normal",fontSize:12}}>Output will appear here…</span>}
+              </div>
+              {nullOut && nullDir==="encrypt" && (
+                <div style={{fontSize:10, color:planet.color, marginTop:6, fontStyle:"italic"}}>
+                  First letters spell: <strong>{nullOut.split(" ").map(w=>w[0]||" ").join("")}</strong>
+                </div>
+              )}
+            </div>
+
+          </div>
+        )}
+
         {activeTab === "tokens" && (
           <div style={{display:"flex", flexDirection:"column", gap:12}}>
             <div style={{...panelStyle}}>
@@ -641,6 +1002,76 @@ function App() {
               }}>
                 {mythOutput || <span style={{opacity:0.4, fontWeight:"normal", fontSize:12}}>Output will appear here…</span>}
               </div>
+            </div>
+          </div>
+        )}
+
+        {activeTab === "crossref" && (
+          <div style={{display:"flex", flexDirection:"column", gap:12}}>
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:13, fontWeight:"bold", color:"#3a2810", marginBottom:4}}>Cross-Source Connections</div>
+              <div style={{fontSize:11, lineHeight:1.7, color:"#3a2810"}}>
+                Entities, materials, and concepts appearing in <strong>both</strong> <em>De Occultis Literarum Notis</em> (Porta, 1592) <strong>and</strong> the <em>Munich Handbook of Necromancy</em> (15th c.) — two texts that never cite each other, yet share a common occult substrate.
+              </div>
+            </div>
+            {CROSS_REFS.map(cat => (
+              <div key={cat.category} style={{...panelStyle}}>
+                <div style={{fontSize:11, letterSpacing:"0.12em", color:"#5a3a18", marginBottom:10}}>
+                  {cat.icon} {cat.category.toUpperCase()}
+                </div>
+                {cat.items.map((item, ii) => {
+                  const key = cat.category + ii;
+                  const expanded = expandedRef === key;
+                  return (
+                    <div key={ii} style={{
+                      marginBottom:10, borderRadius:3, overflow:"hidden",
+                      border:"1px solid rgba(90,58,24,0.25)",
+                    }}>
+                      {/* Header */}
+                      <button onClick={() => setExpandedRef(expanded ? null : key)} style={{
+                        width:"100%", textAlign:"left", padding:"8px 10px",
+                        background: expanded ? "rgba(42,24,8,0.15)" : "rgba(180,148,72,0.2)",
+                        border:"none", cursor:"pointer", fontFamily:"inherit",
+                        display:"flex", alignItems:"center", gap:8,
+                      }}>
+                        <span style={{fontSize:13, fontWeight:"bold", color:"#2a1808", flex:1}}>{item.entity}</span>
+                        <span style={{fontSize:10, color:"#8a6a40"}}>{expanded ? "▲ less" : "▼ more"}</span>
+                      </button>
+                      {/* Two-column sources */}
+                      <div style={{display:"grid", gridTemplateColumns:"1fr 1fr", gap:0}}>
+                        <div style={{padding:"8px 10px", borderRight:"1px solid rgba(90,58,24,0.2)", background:"rgba(138,105,64,0.08)"}}>
+                          <div style={{fontSize:9, letterSpacing:"0.15em", color:"#5a3a18", marginBottom:4}}>DE OCCULTIS</div>
+                          <div style={{fontSize:11, color:"#2a1808", fontStyle:"italic", lineHeight:1.5}}>{item.deOccultis.text}</div>
+                          <div style={{fontSize:9, color:"#8a7050", marginTop:4}}>{item.deOccultis.ref}</div>
+                          <div style={{
+                            marginTop:4, display:"inline-block", fontSize:9, padding:"1px 6px",
+                            borderRadius:10, background:"rgba(90,58,24,0.15)", color:"#5a3a18"
+                          }}>{item.deOccultis.type}</div>
+                        </div>
+                        <div style={{padding:"8px 10px", background:"rgba(58,40,16,0.08)"}}>
+                          <div style={{fontSize:9, letterSpacing:"0.15em", color:"#4a3a6a", marginBottom:4}}>MUNICH HANDBOOK</div>
+                          <div style={{fontSize:11, color:"#2a1808", fontStyle:"italic", lineHeight:1.5}}>{item.munich.text}</div>
+                          <div style={{fontSize:9, color:"#8a7050", marginTop:4}}>{item.munich.ref}</div>
+                          <div style={{
+                            marginTop:4, display:"inline-block", fontSize:9, padding:"1px 6px",
+                            borderRadius:10, background:"rgba(58,40,90,0.15)", color:"#4a3a6a"
+                          }}>{item.munich.type}</div>
+                        </div>
+                      </div>
+                      {/* Expanded significance */}
+                      {expanded && (
+                        <div style={{padding:"10px 12px", background:"rgba(42,24,8,0.12)", borderTop:"1px solid rgba(90,58,24,0.2)"}}>
+                          <div style={{fontSize:10, letterSpacing:"0.1em", color:"#5a3a18", marginBottom:4}}>SIGNIFICANCE</div>
+                          <div style={{fontSize:12, color:"#2a1808", lineHeight:1.7, fontStyle:"italic"}}>{item.significance}</div>
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            ))}
+            <div style={{...panelStyle, fontSize:10, color:"#6a5a3a", fontStyle:"italic", lineHeight:1.7}}>
+              Cross-references derived from entity extraction across 26 distilled chunks of De Occultis and the Munich Handbook necromancy corpus. Entities matched by semantic category (material, spirit, ritual object, temporal system). 212 unique De Occultis entities extracted via nemotron-nano-omni distillation pipeline.
             </div>
           </div>
         )}
