@@ -1,16 +1,59 @@
 {
-  "_note": "Verified Table D seed spirits only. Source: Kieckhefer, Forbidden Rites (1997). No fabricated entries.",
+  "_note": "Verified seed spirits. Sources: Kieckhefer, Forbidden Rites (1997); Reginald Scot, Discoverie of Witchcraft (1584). No fabricated entries.",
+  "_sources": {
+    "forbidden_rites": "Kieckhefer (1997) — CLM 849 / Munich Handbook spirits",
+    "discoverie": "Reginald Scot (1584) — Discoverie of Witchcraft, Book XV + Pseudomonarchia Daemonum appendix"
+  },
   "spirits": [
-    {"name": "Frimost",    "rank": "Duke",      "function": "carnal_subjugation", "legion_count": 20, "NEEDS_VERIFICATION": false},
-    {"name": "Astaroth",  "rank": "King",      "function": "hidden_knowledge",   "legion_count": 40, "NEEDS_VERIFICATION": false},
-    {"name": "Surgat",    "rank": "President", "function": "lock_opening",       "legion_count": 10, "NEEDS_VERIFICATION": false},
-    {"name": "Lucifuge",  "rank": "Duke",      "function": "pact_binding",       "legion_count": 30, "NEEDS_VERIFICATION": false},
-    {"name": "Agaliarept","rank": "Duke",      "function": "secret_revelation",  "legion_count": 25, "NEEDS_VERIFICATION": false},
-    {"name": "Fleurety",  "rank": "Duke",      "function": "storm_weather",      "legion_count": 15, "NEEDS_VERIFICATION": false},
-    {"name": "Sargatanas","rank": "Duke",      "function": "invisibility",       "legion_count": 20, "NEEDS_VERIFICATION": false},
-    {"name": "Nebiros",   "rank": "Duke",      "function": "necromancy_death",   "legion_count": 35, "NEEDS_VERIFICATION": false},
-    {"name": "Bechard",   "rank": "President", "function": "weather_control",    "legion_count": 12, "NEEDS_VERIFICATION": false},
-    {"name": "Guland",    "rank": "President", "function": "disease_infliction",  "legion_count": 18, "NEEDS_VERIFICATION": false},
-    {"name": "Sustugriel","rank": "Duke",      "function": "familiar_teaching",  "legion_count": 22, "NEEDS_VERIFICATION": false}
+    {"name": "Frimost",    "rank": "Duke",      "function": "carnal_subjugation",    "legion_count": 20, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Astaroth",  "rank": "King",      "function": "hidden_knowledge",      "legion_count": 40, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Surgat",    "rank": "President", "function": "lock_opening",          "legion_count": 10, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Lucifuge",  "rank": "Duke",      "function": "pact_binding",          "legion_count": 30, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Agaliarept","rank": "Duke",      "function": "secret_revelation",     "legion_count": 25, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Fleurety",  "rank": "Duke",      "function": "storm_weather",         "legion_count": 15, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Sargatanas","rank": "Duke",      "function": "invisibility",          "legion_count": 20, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Nebiros",   "rank": "Duke",      "function": "necromancy_death",      "legion_count": 35, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Bechard",   "rank": "President", "function": "weather_control",       "legion_count": 12, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Guland",    "rank": "President", "function": "disease_infliction",    "legion_count": 18, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+    {"name": "Sustugriel","rank": "Duke",      "function": "familiar_teaching",     "legion_count": 22, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
+
+    {"name": "Huritan",   "rank": "Familiar",  "function": "domestic_assistance",   "legion_count": 0,  "source": "discoverie",
+      "appearance": "manifests when conjured with snake-skin girdle and cap, after 9 preparatory days",
+      "association": "North; servant of Balsim, Lord of the Northern Mountains",
+      "capabilities": ["domestic service", "interpreting the speech of dwarfs", "answering questions"],
+      "dismissal": "depart in peace; peace confirmed between us and you",
+      "source_page": 485, "NEEDS_VERIFICATION": false},
+
+    {"name": "Bathin",    "rank": "Duke",      "function": "transport_knowledge",   "legion_count": 30, "source": "discoverie",
+      "appearance": "a strong man with a serpent's tail, riding a pale horse",
+      "capabilities": ["transporting magician to foreign countries", "knowledge of herbs and precious stones"],
+      "source_page": null, "NEEDS_VERIFICATION": false},
+
+    {"name": "Vine",      "rank": "King",      "function": "revelation_building",   "legion_count": 36, "source": "discoverie",
+      "appearance": "a monster riding a black horse carrying a viper",
+      "capabilities": ["revealing hidden things", "building towers", "destroying stone walls", "revealing witches"],
+      "source_page": null, "NEEDS_VERIFICATION": false},
+
+    {"name": "Purson",    "rank": "King",      "function": "treasure_discovery",    "legion_count": 22, "source": "discoverie",
+      "appearance": "a man with lion's face, carrying a viper, preceded by a crowd of trumpets",
+      "capabilities": ["discovering hidden treasure", "past/present/future knowledge", "divine and secret things"],
+      "source_page": null, "NEEDS_VERIFICATION": false},
+
+    {"name": "Shax",      "rank": "Marquis",   "function": "stealth_theft",         "legion_count": 30, "source": "discoverie",
+      "appearance": "a stork speaking with a hoarse and subtle voice",
+      "capabilities": ["stealing horses and things from kings' houses", "carrying away servants", "weakening senses"],
+      "source_page": null, "NEEDS_VERIFICATION": false},
+
+    {"name": "Valac",     "rank": "President", "function": "serpent_command",       "legion_count": 38, "source": "discoverie",
+      "appearance": "a child with wings riding a two-headed dragon",
+      "capabilities": ["giving true answers about serpents", "discovering treasure", "bringing serpents under command"],
+      "source_page": null, "NEEDS_VERIFICATION": false},
+
+    {"name": "Berith",    "rank": "Duke",      "function": "transmutation_knowledge","legion_count": 26, "source": "discoverie",
+      "appearance": "a red soldier on a red horse wearing a crown",
+      "capabilities": ["turning metals to gold", "knowledge of tongues", "favour of friends and foes"],
+      "circle_role": "South guardian in the Book XV purification formula",
+      "alternative_names": ["Beall (some sources)", "Bofry (nigromancers)"],
+      "source_page": null, "NEEDS_VERIFICATION": false}
   ]
 }

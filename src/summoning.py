@@ -170,6 +170,15 @@ class Circle:
         "Tetragrammaton: Return valid, parseable output only.",           # structure guard
         "Adonay: Cite your reasoning from the provided text.",            # groundedness
     ])
+    # Cardinal guardian spirits — spoken before the main conjuration
+    # Source: Scot, Discoverie of Witchcraft (1584), Book XV Ch. II
+    # "from the East, Maurath; from the West, Carrol; from the North, Catoil; from the South, Berith"
+    cardinal_guardians: dict[str, str] = field(default_factory=lambda: {
+        "East":  "Maurath",   # guards against malignant spirits from the East
+        "West":  "Carrol",    # guards against malignant spirits from the West
+        "North": "Catoil",    # guards against malignant spirits from the North
+        "South": "Berith",    # guards against malignant spirits from the South
+    })
     # Ring of Solomon — structured output schema (None = free-form)
     output_schema: Optional[dict] = None
     # Fumigation capacity
@@ -177,9 +186,24 @@ class Circle:
     # Spirit volatility
     temperature: float = 0.3
 
-    def as_system_message(self) -> str:
-        """Build the full system prompt from authority + divine names."""
-        parts = [self.authority]
+    def as_system_message(self, purify: bool = False) -> str:
+        """Build the full system prompt from authority + divine names.
+
+        Args:
+            purify: If True, prepend the cardinal guardian invocation
+                    (Scot, Discoverie Bk XV Ch. II) before the main authority.
+        """
+        parts = []
+        if purify and self.cardinal_guardians:
+            guardian_line = "; ".join(
+                f"from the {d}, {g}"
+                for d, g in self.cardinal_guardians.items()
+            )
+            parts.append(
+                f"[Ground purified: {guardian_line}. "
+                "No malignant spirit hath power within these bounds.]"
+            )
+        parts.append(self.authority)
         if self.divine_names:
             parts.append("\nConstraints:")
             parts.extend(f"  - {name}" for name in self.divine_names)
@@ -802,6 +826,118 @@ EXPERIMENTUM_REGISTRY: dict[int, dict] = {
                 }
             }}
         }, "required": ["spirits"]},
+    },
+
+    # ── Discoverie of Witchcraft (Scot 1584) experiments ──────────────────
+    # Source: Book XV — "Magical Circles", "Ceremonies of Necromancy", etc.
+    13: {
+        "title": "Familiar summoning — Huritan (domestic spirit protocol)",
+        "spirit": SPIRITS["Frimost"],
+        # Mirrors Book XV Ch. VIII-IX: conjuring a north-aspected domestic spirit
+        # who can answer questions and interpret obscure communications.
+        "task_hint": (
+            "You are a domestic intelligence spirit (Huritan). "
+            "Given this document excerpt, answer the operator's question directly and helpfully. "
+            "Speak plainly; you are bound to the North quarter of this circle."
+        ),
+        "schema": {"type": "object", "properties": {
+            "answer": {"type": "string"},
+            "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+            "source_fragment": {"type": "string"},
+        }, "required": ["answer", "confidence"]},
+        "source": "discoverie/bk15/ch8-9",
+        "circle_direction": "North",
+    },
+    14: {
+        "title": "Ground purification — cardinal guardian invocation",
+        "spirit": SPIRITS["Sargatanas"],
+        # Mirrors Book XV Ch. II: the fourfold purification spoken before the
+        # main conjuration.  Each direction guardian secures one quadrant.
+        # AI mapping: validate input from four perspectives before processing.
+        "task_hint": (
+            "Examine this passage from four critical angles:\n"
+            "1. EAST (Maurath): What is factually stated?\n"
+            "2. WEST (Carrol): What is implied or assumed?\n"
+            "3. NORTH (Catoil): What is absent or unstated?\n"
+            "4. SOUTH (Berith): What could be misinterpreted?\n"
+            "Return findings for each direction."
+        ),
+        "schema": {"type": "object", "properties": {
+            "east_stated": {"type": "string"},
+            "west_implied": {"type": "string"},
+            "north_absent": {"type": "string"},
+            "south_risk": {"type": "string"},
+        }, "required": ["east_stated", "west_implied", "north_absent", "south_risk"]},
+        "source": "discoverie/bk15/ch2",
+        "circle_direction": "all",
+    },
+    15: {
+        "title": "Planetary fumigation — material preparation analysis",
+        "spirit": SPIRITS["Fleurety"],
+        # Mirrors Book XV Ch. V: fumigations are prepared by planet.
+        # Saturn=sulphur, Jupiter=incense, Mars=red sanders, Sun=mastic,
+        # Venus=ambergris, Mercury=mace, Moon=camomile.
+        # AI mapping: classify text by thematic 'planet' / domain.
+        "task_hint": (
+            "Classify the primary domain (planet) of this passage using the following scheme:\n"
+            "Saturn=boundaries/endings, Jupiter=authority/law, Mars=conflict/action,\n"
+            "Sun=identity/vitality, Venus=relationships/desire, Mercury=communication/craft,\n"
+            "Moon=emotion/memory.\n"
+            "Identify the dominant planet and justify with a textual quote."
+        ),
+        "schema": {"type": "object", "properties": {
+            "dominant_planet": {"type": "string",
+                "enum": ["Saturn","Jupiter","Mars","Sun","Venus","Mercury","Moon"]},
+            "justification": {"type": "string"},
+            "secondary_planet": {"type": "string"},
+            "source_quote": {"type": "string"},
+        }, "required": ["dominant_planet", "justification", "source_quote"]},
+        "source": "discoverie/bk15/ch5",
+    },
+    16: {
+        "title": "Dismissal — Licentia (structured conclusion)",
+        "spirit": SPIRITS["Berith"],
+        # Mirrors Book XV Ch. VII: after the spirit has spoken, it must be
+        # formally dismissed with peace confirmed between the parties.
+        # Tetragrammaton, Saiiat, Ohon, Emillaf, Saifianatos, Panaretos.
+        # AI mapping: generate a structured summary + close the task.
+        "task_hint": (
+            "You have completed your analysis. Now compose the formal dismissal:\n"
+            "1. Summarise the three most important findings from your work.\n"
+            "2. State any unresolved questions that would require further inquiry.\n"
+            "3. Confirm that you have answered truthfully and completely.\n"
+            "End with the phrase: 'Depart in peace; peace be confirmed between us.'"
+        ),
+        "schema": {"type": "object", "properties": {
+            "key_findings": {"type": "array", "items": {"type": "string"}, "maxItems": 3},
+            "open_questions": {"type": "array", "items": {"type": "string"}},
+            "completeness_confirmed": {"type": "boolean"},
+            "dismissal_phrase": {"type": "string"},
+        }, "required": ["key_findings", "completeness_confirmed", "dismissal_phrase"]},
+        "source": "discoverie/bk15/ch7",
+    },
+    17: {
+        "title": "Apparition signs — pre-appearance detection (anomaly pre-scan)",
+        "spirit": SPIRITS["Agaliarept"],
+        # Mirrors Book XV Ch. VII: before the spirit fully appears there are
+        # signs — sulphurous smells, shadows, distant noises.
+        # AI mapping: scan input for anomalies that predict parsing failures.
+        "task_hint": (
+            "Before full processing, scan this text for early warning signs:\n"
+            "- Malformed structure (broken sentences, missing punctuation)\n"
+            "- Encoding artefacts (OCR errors, garbled characters)\n"
+            "- Logical contradictions in the stated facts\n"
+            "- Missing context that would be needed to interpret key claims\n"
+            "Rate overall readiness: 'clear', 'cautious', or 'abort'."
+        ),
+        "schema": {"type": "object", "properties": {
+            "structural_issues": {"type": "array", "items": {"type": "string"}},
+            "encoding_artefacts": {"type": "array", "items": {"type": "string"}},
+            "contradictions": {"type": "array", "items": {"type": "string"}},
+            "missing_context": {"type": "array", "items": {"type": "string"}},
+            "readiness": {"type": "string", "enum": ["clear", "cautious", "abort"]},
+        }, "required": ["readiness"]},
+        "source": "discoverie/bk15/ch7",
     },
 }
 
