@@ -1,0 +1,213 @@
+chunk_id,type,name,description,page_ref,quote
+0,person,Giambattista Porta,Author of De Occultis Literarum Notis (1592),Book I Ch 0,JOAN. BAPTISTA PORTA NAPOLITANO AUCTORE.
+0,concept,cipher_methods,Various methods of secret writing and concealment devised by ancient and modern scholars,Book I Ch 0,various stratagems for concealing matters not only from spirits but also from other hidden things
+0,concept,letters,Letters combined with each other to form signs in ciphers,Book I Ch 0,"when letters are combined with each other, whose signs are noted in the middle of the nut"
+0,location,Aufonius,A place where secrets are concealed according to Porta,Book I Ch 0,"an elegant place is found at Aufonius, where some things are concealed"
+0,person,Ovid,Ancient writer referenced for his discussion of hidden matters,Book I Ch 0,"those who have further discussed this matter, as Ovid relates"
+0,concept,military_affairs,One of the domains where secret writing is applied,Book I Ch 0,"politics, military affairs, and other branches of this same kind of art"
+0,concept,spirits,Hidden or spiritual entities from which matters are concealed,Book I Ch 0,concealing matters not only from spirits but also from other hidden things
+0,material,books,Texts containing secret writing methods and keys,Book I Ch 0,since the books themselves bear the marks of secret writing
+0,concept,key,The cipher key that allows decryption of messages,Book I Ch 0,the author has also handed over the key (or cipher)
+1,person,Perfars,Individual involved in cryptographic communication; mentioned as a correspondent who responded to messages.,,Perfars responded as follows
+1,historical_example,Timoxenus of Sicily,Person whose case is cited as an example of a cryptographic or coded incident.,,Example almost happened to Timoxenus of Sicily
+1,concept,cipher_method,"Use of concealed letters and symbols for secret communication, avoiding detection.",,"letters, not those which were designated, should be intercepted"
+1,device,military_notes,Coded marks used in military contexts to convey information securely.,,"militum norinacontinebantur, propriz erant"
+1,person,Hermes Artaphernes,Recipient of a cryptographic tablet; associated with secret correspondence.,,dedicate a careful tablet to Hermes Artaphernes
+1,location,Sardis,"Location where Histiaeus went, involved in the described events.",,"Histiaeus ... went to Perfars, who were staying among the Sardis"
+1,concept,rebellion_examples,Cryptographic or coded references to acts of rebellion used as illustrative examples.,,1. Examples of rebellion.
+1,device,letter_interception,"The act of intercepting coded letters, indicating a cryptographic countermeasure.",,the letters ... should be intercepted
+2,concept,MALYYS,"A word signifying multiple things: a tree, fruit, and an impious person",p.43,"""MALYYS, a tree, fruit, and him who is impious can signify it."""
+2,concept,Apollo's Oracle,Delivered in ambiguous or cryptic language as an example of concealed meaning,p.43,"""of this kind Apollo's Oracle is delivered."""
+2,person,Achilles,Referenced in a cryptic phrase about death and transformation,p.43,"""Fifty verbs, from which a hundred arises; Achilles dies."""
+2,concept,Sibyllarum vaticinia,"Hidden prophecies associated with the Sibyls, part of secret knowledge",p.43,"""& h Sibyllarum vaticinia complura"""
+2,person,Plutarchus,Cited as an authority on moral and educational matters in convivial settings,p.44,"""and Plutarchus in the book de li- quos quafu- beris educandis"""
+2,person,Socrates,"Mentioned as admonishing Plato, linked to philosophical instruction and occult knowledge",p.44,"""Socrates étiam apud Pla- ee platonéadmonet"""
+2,person,Ptolemy (implied by 'Lirip is Parimvs'),Referenced in a cryptic genealogical or symbolic statement on page 23,p.43,"""Lirip is Parimvs."""
+2,material,fire,"Must be kept burning as part of a ritual or symbolic practice, not extinguished",p.44,"""And fire must be kept burning, it is necessary not to extinguish it"""
+2,device,vessel,Should not be erased; used in demonstrations involving invisibility and visibility,p.44,"""Do not erase the vessel"""
+3,location,Egypt,Geographical region referenced in symbolic context,p.59,thus Egypt
+3,concept,phoenix,Symbolic creature representing concealed knowledge and transformation,p.60,they will designate the phoenix as a creature of various kinds
+3,concept,scarab beetle,Symbolic animal associated with Egyptian matters and hidden meanings,p.60,such as the scarab beetle and other animals
+3,person,Apollonius,Author of a book on Egyptian rites and mysteries,p.60,the book of Apollonius on Egyptian rites and mysteries
+3,person,Valerian,Commentator on Apollonius's work regarding Egyptian mysteries,p.60,Valerian's commentary on this same argument has been published
+3,person,Tettij,Author of demonological commentaries discussing allegories and parables,p.60,the demonological commentaries of Tettij
+3,concept,Minotaur,Allegorical figure used to represent complex symbolic structures and concealment,p.61,to depict the Minotaur
+3,device,dolphin,Symbolic creature associated with anchoring and delayed action in cryptographic metaphor,p.61,the firmness of the dolphin's anchor
+3,material,anchor,Physical object symbolizing delay and restraint in cryptographic timing,p.61,"by holding back from the adversary with an anchor, delay is intimately stirred up"
+3,concept,cicadae,Symbolic reference in kings' scepters related to concealment and birth symbolism,p.59,as in the kings' scepters above the cicadae
+4,device,wax tablet,A moscat or wax tablet used to conceal messages with a surface layer of wax.,p.75,"the tablet was made, like a moscat... and wax was applied so that nothing would be revealed unless the message was deciphered."
+4,material,iron gall ink,A dark ink used for writing letters that could not be seen by artifice.,p.76-77,"feruuscum [i.e., iron gall ink] is sent from Miletus to Arista-goram"
+4,person,Lacedemons (Spartans),Spartan warriors who concealed messages by feigning ignorance.,p.75,"the truth was there, but they feigned ignorance, Gorgo replied."
+4,person,Cleomenis,A Spartan king whose daughter wrapped a dagger in wax to send a message.,p.75,"In § Cleomenis... his daughter, and also in book 7 of Leonidas, reminding his wife, wrapped a dagger in wax"
+4,person,Herodotus,Historian who records the use of secret writing by Persians.,p.75-76,Herodotus also records the same thing from Demaratus in book 7
+4,person,Cicero,Roman philosopher who wrote about digraphs and letter marking with fingers.,p.78,Cicero (as some seem to consider) — who in his book on the Digraphs wrote
+4,person,Probus,Grammarian whose commentary is referenced for cryptographic analysis.,p.78,From this method of concealment Probus (from Probus the grammarian’s more curious commentary) is curious about the meaning of hidden letters from C
+4,device,Pugillarian,A cipher device mentioned as not yet fully described.,p.75,The Pugillarian (a cipher device) had not yet received its full description
+4,person,Xerxes,Persian king whose expedition involved secret messaging.,p.75,"the Persians, when they had accepted Xerxes' expedition with statues"
+4,location,Arista-goram,A destination referenced in secret correspondence from Miletus.,p.76-77,feruuscum [is] sent from Miletus to Arista-goram
+5,person,Palamedes,Named as a figure associated with cipher methods,Book X Ch Y,Palamedes
+5,person,Simonides Melici,Mentioned alongside Palamedes in relation to cipher examples,Book X Ch Y,Simonides Melici
+5,concept,Tyrian letter,Referred to as a component in cipher transformation,p.92,if the Tyrian letter
+5,cipher_method,letter transposition,Described as a mode of hidden writing where letters are rearranged in order,p.93,That through letter transposition hidden [ciphering] is possible.
+5,concept,duplex ratio,A method involving alternating placement of letters in upper and lower lines,p.94,"The duplex ratio of this kind is: the other is, which if one carefully considers..."
+5,cipher_method,Batie,Identified as the first mode of ratio in the described cipher system,p.94,The first mode of ratio here is Batie.
+5,concept,hidden genera,Main types of ciphers from which many species derive due to varied composition and arrangement,p.93,"These are the main hidden (ciphering) genera, truly from them many species emanate"
+5,concept,numerical values,"Used in cipher transformation, such as 'four', 'decem', and 'vigintinum'",p.92,"Palamedes four, decem, posthunc"
+5,concept,cipher examples,Provided as practical instances of encoded messages using described methods,p.94,These verses are first submitted to our cipher examples.
+8,cipher_method,Alphabet-based cipher,Cipher using letter position and substitution within an alphabet structure,Book X Ch Y or null,"""primum clavis prima litera in quo queratur alphabeto"""
+8,device,Tabula (table),A table used to encode and decode messages via letter positioning and pairing,p.156,"""Hec quo magisab ho minum cognitione remota fuerint: tutiorem cryptocautionem przsttabunt"""
+8,historical_example,Bella Fortissime Gesta Sunt,Example plaintext phrase used to demonstrate encryption method,p.154,"""BELLA FORTISSIME GESTA SVNT"""
+8,person,Apollo,Mythological figure invoked as 'the King' in cryptographic analogy,p.157,"""I will call Apollo the King"""
+8,person,Scorpius,Mythological figure referenced as 'the Scorpion' in cryptographic context,p.157,"""Scorpius the Scorpion"""
+8,concept,Muses,Nine Muses referenced symbolically in cryptographic illustration,p.158,"""tactfully nine Muses, who hang from hooks"""
+8,concept,Cryptic epistle,Encrypted message whose meaning is hidden and requires deciphering through methodical analysis,p.157,"""a cryptic epistle, if anyone finds it, with words understood"""
+8,cipher_method,Letter substitution,Technique where letters are replaced by other characters or symbols based on positional rules,p.156,"""the first cipher letter, which is B"""
+8,concept,Hidden message extraction,Process of revealing concealed meaning from text using structural and alphabetical clues,p.156,"""the entire hidden cryptogram will be extracted from the open"""
+8,concept,"Symbolic associations (e.g., Apollo, Scorpius)",Use of mythological figures to represent abstract or coded concepts in cipher construction,p.157-158,"""I will call Apollo the King, Scorpius the Scorpion"""
+9,cipher_method,praetexta,preparatory text used in the cipher process,,bring forth the praetexta
+9,concept,divine will,the motivating force behind the secret writing act,,I will hasten to reveal the divine
+9,person,friends,individuals for whom the cipher is intended or promised,,moved by the matter concerning friends; I have promised them
+9,device,exequatur,ritual authorization used in the process,,I summon the exequatur
+9,material,wine,substance used during nighttime ritual,,"summon the exequatur, wine"
+10,device,doves,Used as carriers of secret messages during besieges,Book X Ch Y,kept doves for a long time in the vicinity
+10,device,javelins,Arrows or bolts used to carry written messages,Book X Ch Y,sent javelins with messages written on them
+10,person,Cleonymus,King of the Lacedaemonians associated with bird messaging devices,Book X Ch Y,"a fanatic from Huc belonged to Cleonymus, king of the Lacedaemonians"
+10,person,Caesar,Referenced regarding strategic reasoning in military messaging,Book X Ch Y,The ratio of Caesar
+10,device,swallows,Domesticated birds considered for carrying liquid messages,Book X Ch Y,"co-members, lumbars... swallows, or other such birds domesticated"
+10,material,liquidum,Substance possibly used in message concealment within birds,Book X Ch Y,carry liquid [perhaps 'liquidum' meaning messages]
+10,device,fagitta,Latin term for arrow or javelin used to carry epistle,Book X Ch Y,tied an epistle to a javelin (or 'fagitta')
+10,person,Ptolemy,Referenced in context of obstructing matters with doves,Book X Ch Y,since you have obstructed this matter with the dove
+11,cipher_method,cipher_method,Permutation of characters by occultation (z.caps.6) as a method for revealing hidden messages,Book X Ch Y or null,Semple os
+11,material,material,"Letters used in ciphers, divided and numbered (up to 25 total)",p.213,"there are not more than twenty-one, or rather two and twenty-five in total"
+11,concept,concept,Hidden messages in letters revealed through frequency analysis and positional clues,p.213,"Sermo enim in epistola contentus aliquando frequentissimas ratissimas, & rariissimas frequentissimas faciet"
+11,device,device,"Use of directional methods (right hand) and positional markers (end, middle, fertile line)",p.213,"in whatever way, or in any order, or by any method of the right hand, or in the end, or in the middle"
+11,person,person,Lipper Tertius (author referenced),p.215,"Liper TERTIVS, 195"
+11,location,location,Scripta Prætoria (context for letter division method),p.215,the division of this kind in the Scripta Prætoria is « 4
+11,historical_example,historical_example,Not explicitly stated; references to general cipher use without specific historical case,,
+12,cipher_method,geminate letters,Letters repeated to obscure distinction,p.230,"preferring geminate letters, which must be placed by indication"
+12,concept,consonants,Can be produced through repetition or conjunction at word ends and middles,p.231,they can be produced in two ways: through repetition and through a greater conjunction
+12,concept,vowels,Must be confirmed by rules before assignment; separated from consonants,p.231,do not assign vowels unless all the rules concerning them have been confirmed
+12,cipher_method,scripta verbum,A method involving scripta (letters) and word meaning to discern knowledge,p.231,from that same matter or something else (scripti verbum po[sit] intelligi)
+12,concept,war,Context in which epistle origin can be inferred for cipher decoding,p.231,one can infer from war about which epistle or during the time of war
+12,location,De Occvrr. Lit. Nor.,Recipient or reference point in address; possibly a cipher key or title,"p.230, p.231",to De Occvrr. Lit. Nor.
+12,concept,DiGiones,Tables referenced for letter presence and arrangement,p.233,as in the tables of DiGiones one sees all the letters to be present
+12,concept,X,Rare letter considered for addition in cipher analysis,p.233,"either H, or Q, or X, or Z... so that from three places in DiGionibus it becomes"
+12,concept,potency variation,Individual letters vary in power; repetition affects visibility,p.232,the powers of individual letters can differ... its repetition will be observed
+13,person,TERTIVS,Named individual referenced in cipher context,p.247,fives TERTIVS.
+13,concept,diGionibus,Zodiac signs used as symbolic or coded references in cryptographic analysis,p.250,many... will observe together with the diGionibus
+13,concept,Regula,A guiding rule for resolving ambiguity in cryptographic interpretation,"p.250, p.251",let the Regula be followed
+13,concept,"A, B, Q; PF, DC",Cipher characters or letter pairs used in cryptographic examples,p.250,"and A, B, Q; PF, DC, & hui modi reliquz"
+13,cipher_method,AGAAACNNXAMGAASYNAG,Example of a coded string or anagram-based cipher text,p.250,It is written thus. AGAAACNNXAMGAASYNAG
+13,concept,micro-filtration,Perceived method of hidden communication or detection,p.248,more certain an argument from micro-filtration being perceived
+13,concept,liquid,Symbolic term associated with 'two are numbered as twenty' in cryptographic logic,p.248,"From these it is seen that two are numbered as twenty, liquid appears"
+13,concept,Y and Z,Rarely occurring letters used in cryptographic conjunctions,p.248,of two letters Y and Z very rarely occurs
+13,person,Ocevir,Attributed author or source of the cited passage,p.249,From Ocevir. Lir. Nor.
+15,concept,tabular_structure,Tables used to organize letters and figures for cryptographic encoding,Book X Ch Y or null,In the cni* table two bina-rum diGjonum tables are proposed
+15,concept,consonant_vowel_similarity,Grouping of similar consonants and vowels for cipher construction,Book X Ch Y or null,Consonants and similar vowels. ~_ bibi momo toro coco.
+15,concept,numerical_division,"Division of letters into parts based on numerical values (e.g., first, third, fifth)",Book X Ch Y or null,"Prima, ter. & quar. voc. fec. & quar.confi"
+15,concept,letter_combination,Use of combined letters to represent other letters or concepts,Book X Ch Y or null,the swift runner of their use among all letter combinations was born
+15,concept,star_connection,Linking letters to celestial bodies for astrological cryptographic meaning,Book X Ch Y or null,to indicate the connection of the stars
+15,concept,large_volume_requirement,Complex arrangements require extensive written material,Book X Ch Y or null,this work would require a very large volume to be created
+15,concept,omission_recommendation,The text suggests omitting certain complex methods due to low utility,Book X Ch Y or null,"Therefore, this matter is more to be omitted than to approach it with difficulty"
+15,cipher_method,bina-rum_diGjonum_tables,Binary tables used in cryptographic figure arrangement,Book X Ch Y or null,two bina-rum diGjonum tables are proposed
+15,concept,figure_positioning,Arrangement of figures based on their position in sequential tables,Book X Ch Y or null,from the position of the two kinds of figures at the beginning of each subsequent one no one is placed among three divisions
+16,device,Cymric shields,"Shields associated with Cimmerians, called Timbres Casaubon by Gauls and Geregier by Germans.",p.316,Cymric (Cimmerian) shields
+16,concept,Tin Cask,"A symbolic container referenced as a cipher or concealment device, possibly representing hidden meaning.",p.316,this [refers to] the Tin Cask
+16,person,Proteus,"King of Egypt, transformed into various shapes by poets to assume different forms.",p.316,"Proteus, the King of Egypt, was transformed by poets into all manner of shapes"
+16,person,Diodorus Siculus,"Historian who records ancient customs, including Gaulish military practices and animal symbolism.",p.316,custom of the ancient Gauls in the army is attested by Diodorus Siculus
+16,person,Vegetius,Roman military writer who mentions Roman sign-bearers using symbolic devices.,p.316,"among Roman sign-bearers, as found in Vegetius"
+16,concept,Anubis,"Egyptian deity represented as a dog, cited as an example of symbolic transformation.",p.316,Anubis as a dog
+16,concept,Macedon,"Represented as a wolf in ancient symbolism, per Diodorus Siculus.",p.316,Macedon as a wolf
+16,person,Aristomenes,"King of the Messenians, depicted with a ram and wings in symbolic form.",p.316,"Aristomenes, king of the Messenians, a ram with wings"
+16,concept,Pegasus,Mythical winged horse referenced in connection with heraldic or symbolic imagery.,p.316,Pegasus
+16,device,Scytale,"A cryptographic device mentioned as being wrapped with a cord, possibly used for secret writing.",p.320,Scytalacuiusmodi fuerit
+17,person,Agathon Tragicus,Illiterate figure mentioned as describing a phenomenon in Telepho,p.336,"The same Agathon Tragicus in Telepho, illiterate, was describing some phenomenon."
+17,person,Theodectes Phaelites,Individual associated with the name given to a described rustic method,p.336,"The same name was given to Theodectes Phaelites, who described rusticum."
+17,concept,material,Hidden or concealed things are central to the method,,Let us conceal the hidden things.
+17,device,geometric_figure,"Circle with a middle sign, described as umbilicated and containing rules",p.336,The primordial scripture is umbilicated in the middle circle
+17,concept,Trinity,"Threefold structure emerging from a central arc, linked to divine elements",,"From it emerge two coccinellids... A trinity in obligation, shining"
+17,concept,coccinellids,Two ladybug-like symbols emerging from the trinity,,From it emerge two coccinellids
+17,person,Leonardo Veronensis,Friend associated with liberalitas and benevolence,p.339,liberalitas of Leonardo Veronensis our intimate friend
+17,concept,Mariam,"Divine mother figure, nourisher and resource in occult theology",p.339,itself our nourisher and mother Mariam
+17,person,Anconius,Reverent figure referenced in a prayer-like passage,p.339,Anconius reverently x1
+18,cipher_method,vowel-based cipher,Letters are converted into vowels using interposed sounds as per the text's method.,null,"Vowels written openly conceal hidden letters, soft consonants."
+18,cipher_method,numerical cipher,Numbers are used to represent letters and decode messages via a table or key.,null,we will explain how all the numbers of letters are changed into vowels
+18,person,Dr. Furrer Wéris,A figure who reveals himself as a keyholder for secret communications.,null,Dr. Furr. Lirr. Norys 4
+18,person,Cornelio,One of the leaders mentioned to be involved in opening a clanculum for military use.,null,"we will come with Ruralino, CORNELIO, AND OTHER LEADERS"
+18,material,caper leaf,Used as a symbolic or literal image in the cipher context.,null,a caper leaf from the mind
+18,device,antiphagum,Possibly a plant part or symbolic object referenced in relation to the caper leaf.,null,an antiphagum
+18,device,cipher table,A table used for decoding messages by mapping numbers or letters to vowels or other symbols.,p.359,we can begin to decipher with one key
+18,concept,Pugna te virile,"A phrase indicating struggle for liberty, possibly symbolic in the cipher context.",null,PUGNATE VIRILY; FOR I COME so that I may assert liberty in citizenship.
+18,location,Neapolis,Where Datum (the work) was published or dated.,p.361,Datum Neapoli 12. Auguiltt 1577
+18,person,Laurentius,A named individual referenced in the cipher key or table.,p.360,8 Laurentius
+19,cipher_method,Steomare,Possible cipher term or code name listed among other encoded words,null,"""Steomare"""
+19,material,clay,"Mentioned as a material for secret writing, possibly in combination with other substances",p.383,bo clay
+19,device,pigeons,"Implied carrier method through context of 'Sinubus' and historical steganography, though not explicitly named in this chunk",null,null
+19,cipher_method,Meliceride,Listed among encoded terms; may represent a cipher or symbolic notation,p.383,"""Meliceride"""
+19,cipher_method,Phthiriafi,Encoded term possibly representing a name or concept in cipher,p.383,"""Phthiriafi - ~"""
+19,concept,Furunculis,"Medical condition (boil) listed repeatedly, indicating thematic focus on disease",p.384,"""Furfure i Myrmetiis"""
+19,concept,Myrmetiis,Likely refers to ants or a metaphorical term in medical/cryptic context,p.384,"""Myrmetiis"""
+19,concept,Verrucous,Describes skin condition or symbolic affliction in the text,p.384,"""in Verrucous"""
+19,concept,Lethargy,"Referred to as 'Hebetudine', indicating a state of dullness or inactivity",p.387,"""* Hebetudine (lethargy, dullness)"""
+19,concept,Scabies,Listed multiple times as a skin condition or symbolic affliction,p.393,"""t. Scabies"""
+20,cipher_method,Os,A cipher method referenced on page 422,p.422,i.e. Os [p.422]
+20,concept,WNicoftra,A term possibly representing a cipher or code,,WNicoftra = Fauftina Agata Filenia .
+20,person,Cleopatra,Historical figure mentioned in the list of names,,Cleopatra Alvina Olimpia |.
+20,device,pigeon,"Carrier method for secret writing, referenced in context of pigeons",,Nicoftra = Fauftina Agata Filenia .
+20,device,arrow,"Carrier method for secret writing, referenced in context of arrows",,WNicoftra = Fauftina Agata Filenia .
+20,concept,Furcht,An occult or cryptographic concept mentioned in the text,p.423,DE Furr.
+20,person,Octavia,Historical figure referenced among many names,,Octavia Prudentia Scolaftica Lacena Sylvia Onfale Phylli Polixena Stella Leucippe Zenobia Pellegrina Hermina Veronica.
+20,person,Saffo,Historical poet referenced in the text,p.423,h Saffo I m Caleftine * a SE Pomponia :
+21,material,Apofila,Likely a medicinal or aromatic substance used in cryptographic preparations,p.463,Apofila
+21,material,Myrrha,"Frankincense, possibly used as a seal or writing medium additive",p.463,Myrrha
+21,person,Scriba,Implied scribe or cryptographer referenced in context of writing,,Regia .
+21,material,Cardamomo,"Aromatic substance, possibly used for invisible ink or concealment",p.463,a Cardamomo™ a_ Valeriana
+21,concept,Hieride,Possibly refers to sacred or hidden writing practices,p.461,Hieride
+21,material,Cynosbato,"Likely a plant-based substance, possibly for marking or encoding",p.465,a Cynosbato
+21,material,Thymol,Implied essential oil or preservative with potential cryptographic use,p.470,"Ser Serola . , * Cheoltrom."
+21,material,Lavender,"Herbal substance, possibly used for scent masking or ink stabilization",p.462,e Venerea e Lavendula «=. ¢ Valentia
+21,material,Oro di Persia,"Gold from Persia, possibly used in secret writing or sealing",p.463,Pepulo i
+21,material,Inula,"Plant root, potentially used for binding or preserving messages",p.463,Inula
+22,cipher_method,Stralam,A cipher method mentioned at the start of the text.,,Stralam
+22,person,tErser Quinrus,A named individual possibly involved in cryptographic practice.,,tErser Quinrus
+22,concept,Rena,"Possibly refers to a cipher or symbolic system (e.g., Rhenish cipher).",,Rena
+22,location,Lisboa,"A city listed among other locations, possibly used as a code or reference.",,Lisbona
+22,device,Machinia,"Possibly refers to a cipher device or mechanism (e.g., 'machina' in cryptographic context).",,Machinia
+22,material,Canufia,"Likely refers to papyrus, a material used for writing and hidden messages.",,Canufia
+22,cipher_method,Vigefimo,A complex cipher method referenced with numerical sequences (pp. 510–518).,Book X Ch Y (implied via page numbers),Vigefimo octa- r 1200 uty yf Ix 7: é
+22,person,Lister Quintus,"A named individual, possibly a cryptographer or subject of a cipher example.",,Lister Quintus.
+22,location,Conflatinopoli,"An invented or variant location name, likely used in coded references.",,Conflatinopoli
+22,cipher_method,Decimorertioi,A cipher method referenced with numerical codes (p. 514).,Book X Ch Y (implied via page numbers),b Decimorertioi b 69.
+23,person,Polybius,Greek historian cited regarding military sign systems,Chapter X or null,Polibius refert
+24,material,egg white,used as a carrier for invisible ink that becomes visible when treated with chemicals,,"the thin membrane is formed, and when mixed with albumen, it forms a soft substance from itself"
+24,material,alum,combined with gall nuts to create an impermeable ink that can be revealed by heat or chemical exposure,,"gall nuts crushed with alum, from which... almost impermeable substances arise"
+24,material,gall nuts,source of tannic acid used in invisible ink formulations,,"gall nuts crushed with alum, from which... almost impermeable substances arise"
+24,material,vinegar,used to treat the ink or paper to reveal hidden writing,,"when mixed with vinegar it becomes tender, through them penetrating"
+24,device,paper,surface on which invisible ink is applied and later revealed,,"the egg white... imprints on the egg white; this, when immersed in cold water and dried, reduces to its original form"
+24,device,wood,alternative surface for applying invisible ink using similar chemical methods,,"penetrate very hard wood, the depth of the characters of the woodcutters' tools"
+24,person,Hittieus,named individual referenced in relation to making indelible letters on the head,,how Hittieus poterat capiti literas indelebiles facere
+24,person,Capuchin friar,"mentioned as a possible source of secret messages via bodily excretions, though likely garbled text",,the natural philosopher's stone... the nuncius... capiti literas indelebiles
+24,concept,invisible ink,secret writing that is not visible to the naked eye and requires chemical treatment to reveal,,the thin membrane... become visible with great clarity
+24,concept,chemical revelation,"process of using substances like alum, vinegar, or heat to make invisible ink visible",,"when mixed with albumen... imprints on the egg white; this, when immersed in cold water and dried..."
+25,cipher_method,reversed alphabet order,"Using reverse sequence (e.g., DCBA) as a cipher method",p.600,"retrogando ordine, recto ABCD, retrogra-dout DCBA"
+25,cipher_method,similar letters rule,Identifying and using repeated or similar ciphered letters to deduce keys,p.601,"regula for similar letters, in which I proceed straight ahead with the key"
+25,concept,CCC,Four repeated letters (CCCC) identified as helpful for decoding,p.602,"initio four similar letters CCCC, which is the greatest help for us"
+25,material,lead lamellae,Thin sheets of lead used to inscribe secret messages,p.604,"letters are placed in leaden lamellae, closed in the middle with wax"
+25,material,wax seal,Used to close and secure lead lamellae containing secret messages,p.604,"closed in the middle with wax, and sealed"
+25,device,papyrus roll,A rolled papyrus container used to conceal and transport secret writings,p.604,"a papyrus-lined roll, wrapped with leaden pile"
+25,person,Cralem Servier Defpotum,Recipient of secret correspondence mentioned in historical context,p.604,letters were sent to Cralem Servier Defpotum
+25,concept,columbae memory,Reference to pigeons' memory as a metaphor or method in cryptographic practice,p.604,Themistius says among animals columbz memory
+25,cipher_method,interlaced letters (equantes),"Letters interlaced according to specific rules (e.g., VACE) for decoding",p.603,"four letters are interlaced (equantes), one (cilicer intercalated) VACE"
+25,cipher_method,STV rule,A decoding rule involving the sequence STV to determine placement or key,p.603,by the third rule STV to say place
+26,device,cipher wheel,"A rotating device used for encoding messages, referenced with page number 547.",Book X Ch Y (not specified),thread from the cipher wheel
+26,material,ligni occulte,"Hidden or secret writing material, possibly wood-based, mentioned on page 552.",Book X Ch Y (not specified),ligno occulte
+27,concept,alphabet,Used in cipher systems with specific letter assignments and doubling rules,p.663,the alphabet may be used by any sign or planet
+27,concept,doubled letters,Each letter should be doubled to prevent misreading and false strikes,p.663,"each letter may be doubled, lest it be read falsely"
+27,concept,19 letters,Recommended alphabet size to avoid duplication and confusion,p.663,"I wish the alphabet to consist of 19 letters, not duplicating 18"
+27,concept,planetary characters,Linked to cipher systems and numbered signs for cryptographic use,p.663,tablets marked with numbers {cryptic @ signs or planetary characters}
+27,concept,chemical analysis table,"A fixed table for varied reading, referenced on folio 60",p.659,"See Table, folio 60"
+27,concept,twelve signs,"Assigned numbers in cipher systems, possibly zodiac-related",p.663,We assign numbers to the twelve signs.
+27,person,Polydora,Cited author of prior cryptographic work,p.663,Outside the cryptography of Polydora
+27,concept,furnace,Metaphorical location for cryptographic 'work' or transformation,p.663,we have driven into the furnace in which
+27,concept,wandering iron,Symbolic element concluding the cryptographic process,p.663,concluding with the wandering iron
+27,device,tablets marked with numbers,Physical carriers for cryptographic symbols and planetary characters,p.663,tablets marked with numbers {cryptic @ signs or planetary characters}

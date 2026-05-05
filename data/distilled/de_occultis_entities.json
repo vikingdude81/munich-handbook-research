@@ -1,0 +1,1887 @@
+{
+  "source": "De Occultis Literarum Notis (Giambattista della Porta, 1592)",
+  "total_raw_entities": 228,
+  "total_deduped_entities": 212,
+  "chunk_summaries": [
+    {
+      "chunk_id": 0,
+      "summary": "The text discusses methods of secret writing, including ciphers and concealment techniques, emphasizing the need for discretion in political and military contexts.",
+      "entity_count": 9,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 1,
+      "summary": "The text discusses cryptographic signs and methods, noting that certain marks are difficult to read but essential for important matters; it references historical examples involving figures like Perfars and Timoxenus, and mentions the use of coded letters and symbols in military and secret correspondence.",
+      "entity_count": 8,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 2,
+      "summary": "The text discusses linguistic ambiguity, symbolic interpretation of words and names, and methods for concealing or revealing hidden meanings through language, referencing poets, philosophers, and historical figures.",
+      "entity_count": 9,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 3,
+      "summary": "The text discusses symbolic interpretations in cryptographic and occult practices, referencing Egyptian symbolism, allegorical figures like the phoenix and scarab beetle, and methods of concealing knowledge through indirect references and natural symbols.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 4,
+      "summary": "The text describes ancient methods of secret writing, including wax tablets and iron gall ink techniques, referencing historical figures like Xerxes' messengers, Spartan practices, and Roman grammarians such as Cicero and Probus.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 5,
+      "summary": "The text discusses various cipher methods, including letter transposition and hidden arrangements in lines, referencing historical figures like Palamedes and Simonides, and mentions the use of specific letters and numerical values in encoding.",
+      "entity_count": 9,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 8,
+      "summary": "The text describes cryptographic methods involving coded letters and tables, referencing a cipher key based on alphabetical order and specific letter substitutions. It includes an example using the phrase 'BELLA FORTISSIME GESTA SVNT' and mentions symbolic associations with mythological figures.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 9,
+      "summary": "The text describes a method of secret writing involving consultation, testing, and binding of a cipher or message, referencing divine will and personal resolve.",
+      "entity_count": 5,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 10,
+      "summary": "The text discusses using birds, particularly doves and swallows, as carriers of secret messages, referencing historical examples from Herodotus, Caesar, and Pliny, and mentions methods involving attaching notes to javelins or using bird feet with specialized devices.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 11,
+      "summary": "Porta discusses methods for detecting hidden messages in letters, emphasizing observation of letter frequency, position, and context to decipher ciphers.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 12,
+      "summary": "The text discusses methods for extracting letters from words using ciphers, emphasizing that consonants can be repeated or joined to conceal meaning, and mentions geminated letters and positional rules in decoding.",
+      "entity_count": 9,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 13,
+      "summary": "The text discusses cryptographic methods involving character substitutions, numerical codes, and symbolic representations, referencing zodiac signs (diGionibus) as carriers of meaning and emphasizing the need for a 'Regula' to resolve ambiguity in decoding.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 14,
+      "summary": "The text discusses cryptographic principles involving numerical patterns, figure analysis, and cipher interpretation, referencing the use of numbers, letters, and symbolic distinctions in secret writing.",
+      "entity_count": 7,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 15,
+      "summary": "The text discusses methods of encoding letters and arranging figures in tables for cryptographic purposes, referencing the use of consonant and vowel groupings, numerical divisions, and tabular structures to represent letters and their combinations.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 16,
+      "summary": "The passage discusses various symbolic and cryptographic devices used in antiquity, including shields with animal forms, hieroglyphic representations, and references to cipher-like practices involving signs and concealment.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 17,
+      "summary": "The text contains cryptic instructions involving symbolic letters, geometric figures, and references to historical figures like Agathon Tragicus and Theodectes Phaelites, suggesting encoded methods tied to natural signs and occult symbolism.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 18,
+      "summary": "The text describes cryptographic methods involving letter substitution with vowels, numerical ciphers, and references to a cipher table used for decoding messages, alongside mentions of individuals and locations tied to secret communications.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 19,
+      "summary": "The text contains a list of medical terms and cryptic entries, with no clear cipher methods or explicit instructions. However, it references 'Steomare', 'Meliceride', and 'Phthiriafi' as potential coded terms, and mentions materials like 'clay' and devices such as 'pigeons' indirectly through context.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 20,
+      "summary": "The text lists numerous names and terms related to secret writing, including cipher methods, materials, persons, concepts, devices, locations, and historical examples, with references to pages 422-435.",
+      "entity_count": 8,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 21,
+      "summary": "The text contains a coded passage with references to natural substances, possibly including materials for secret writing and cipher methods, though specific techniques are obscured.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 22,
+      "summary": "The text contains fragmented references to cipher methods, materials, persons, locations, and devices used in secret writing, with some encoded examples and chapter references.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 23,
+      "summary": "The text describes cryptographic and steganographic methods using signs, letters, and fire-based signals, referencing classical authors like Cicero and Polybius, and linking to occult practices in Renaissance cryptography.",
+      "entity_count": 2,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 24,
+      "summary": "The passage describes methods for creating invisible ink using natural substances such as egg whites, alum, and gall nuts, applied to paper or wood, with instructions on rendering the writing visible through chemical treatment.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 25,
+      "summary": "The text discusses cipher interpretation rules, including reversing letter order and using similar letters to derive keys from ciphers, with references to specific letter sequences and methods for decoding.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 26,
+      "summary": "The passage discusses various methods of secret writing, including ciphers based on letters, musical notes, and astrological or chemical symbolism, as well as the use of materials like oil, marble, and plants. It references numerous historical figures and texts, indicating a blend of occult, linguistic, and cryptographic knowledge.",
+      "entity_count": 2,
+      "truncated": true,
+      "parse_error": false
+    },
+    {
+      "chunk_id": 27,
+      "summary": "The text discusses cryptographic methods, including cipher tables and planetary associations, with instructions for encoding using doubled letters and numerical systems.",
+      "entity_count": 10,
+      "truncated": true,
+      "parse_error": false
+    }
+  ],
+  "entities": [
+    {
+      "name": "Giambattista Porta",
+      "type": "person",
+      "description": "Author of De Occultis Literarum Notis (1592)",
+      "page_ref": "Book I Ch 0",
+      "quote": "JOAN. BAPTISTA PORTA NAPOLITANO AUCTORE.",
+      "chunk_id": 0
+    },
+    {
+      "name": "cipher_methods",
+      "type": "concept",
+      "description": "Various methods of secret writing and concealment devised by ancient and modern scholars",
+      "page_ref": "Book I Ch 0",
+      "quote": "various stratagems for concealing matters not only from spirits but also from other hidden things",
+      "chunk_id": 0
+    },
+    {
+      "name": "letters",
+      "type": "concept",
+      "description": "Letters combined with each other to form signs in ciphers",
+      "page_ref": "Book I Ch 0",
+      "quote": "when letters are combined with each other, whose signs are noted in the middle of the nut",
+      "chunk_id": 0
+    },
+    {
+      "name": "Aufonius",
+      "type": "location",
+      "description": "A place where secrets are concealed according to Porta",
+      "page_ref": "Book I Ch 0",
+      "quote": "an elegant place is found at Aufonius, where some things are concealed",
+      "chunk_id": 0
+    },
+    {
+      "name": "Ovid",
+      "type": "person",
+      "description": "Ancient writer referenced for his discussion of hidden matters",
+      "page_ref": "Book I Ch 0",
+      "quote": "those who have further discussed this matter, as Ovid relates",
+      "chunk_id": 0
+    },
+    {
+      "name": "military_affairs",
+      "type": "concept",
+      "description": "One of the domains where secret writing is applied",
+      "page_ref": "Book I Ch 0",
+      "quote": "politics, military affairs, and other branches of this same kind of art",
+      "chunk_id": 0
+    },
+    {
+      "name": "spirits",
+      "type": "concept",
+      "description": "Hidden or spiritual entities from which matters are concealed",
+      "page_ref": "Book I Ch 0",
+      "quote": "concealing matters not only from spirits but also from other hidden things",
+      "chunk_id": 0
+    },
+    {
+      "name": "books",
+      "type": "material",
+      "description": "Texts containing secret writing methods and keys",
+      "page_ref": "Book I Ch 0",
+      "quote": "since the books themselves bear the marks of secret writing",
+      "chunk_id": 0
+    },
+    {
+      "name": "key",
+      "type": "concept",
+      "description": "The cipher key that allows decryption of messages",
+      "page_ref": "Book I Ch 0",
+      "quote": "the author has also handed over the key (or cipher)",
+      "chunk_id": 0
+    },
+    {
+      "name": "Perfars",
+      "type": "person",
+      "description": "Individual involved in cryptographic communication; mentioned as a correspondent who responded to messages.",
+      "page_ref": null,
+      "quote": "Perfars responded as follows",
+      "chunk_id": 1
+    },
+    {
+      "name": "Timoxenus of Sicily",
+      "type": "historical_example",
+      "description": "Person whose case is cited as an example of a cryptographic or coded incident.",
+      "page_ref": null,
+      "quote": "Example almost happened to Timoxenus of Sicily",
+      "chunk_id": 1
+    },
+    {
+      "name": "cipher_method",
+      "type": "concept",
+      "description": "Use of concealed letters and symbols for secret communication, avoiding detection.",
+      "page_ref": null,
+      "quote": "letters, not those which were designated, should be intercepted",
+      "chunk_id": 1
+    },
+    {
+      "name": "military_notes",
+      "type": "device",
+      "description": "Coded marks used in military contexts to convey information securely.",
+      "page_ref": null,
+      "quote": "militum norinacontinebantur, propriz erant",
+      "chunk_id": 1
+    },
+    {
+      "name": "Hermes Artaphernes",
+      "type": "person",
+      "description": "Recipient of a cryptographic tablet; associated with secret correspondence.",
+      "page_ref": null,
+      "quote": "dedicate a careful tablet to Hermes Artaphernes",
+      "chunk_id": 1
+    },
+    {
+      "name": "Sardis",
+      "type": "location",
+      "description": "Location where Histiaeus went, involved in the described events.",
+      "page_ref": null,
+      "quote": "Histiaeus ... went to Perfars, who were staying among the Sardis",
+      "chunk_id": 1
+    },
+    {
+      "name": "rebellion_examples",
+      "type": "concept",
+      "description": "Cryptographic or coded references to acts of rebellion used as illustrative examples.",
+      "page_ref": null,
+      "quote": "1. Examples of rebellion.",
+      "chunk_id": 1
+    },
+    {
+      "name": "letter_interception",
+      "type": "device",
+      "description": "The act of intercepting coded letters, indicating a cryptographic countermeasure.",
+      "page_ref": null,
+      "quote": "the letters ... should be intercepted",
+      "chunk_id": 1
+    },
+    {
+      "name": "MALYYS",
+      "type": "concept",
+      "description": "A word signifying multiple things: a tree, fruit, and an impious person",
+      "page_ref": "p.43",
+      "quote": "\"MALYYS, a tree, fruit, and him who is impious can signify it.\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "Apollo's Oracle",
+      "type": "concept",
+      "description": "Delivered in ambiguous or cryptic language as an example of concealed meaning",
+      "page_ref": "p.43",
+      "quote": "\"of this kind Apollo's Oracle is delivered.\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "Achilles",
+      "type": "person",
+      "description": "Referenced in a cryptic phrase about death and transformation",
+      "page_ref": "p.43",
+      "quote": "\"Fifty verbs, from which a hundred arises; Achilles dies.\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "Sibyllarum vaticinia",
+      "type": "concept",
+      "description": "Hidden prophecies associated with the Sibyls, part of secret knowledge",
+      "page_ref": "p.43",
+      "quote": "\"& h Sibyllarum vaticinia complura\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "Plutarchus",
+      "type": "person",
+      "description": "Cited as an authority on moral and educational matters in convivial settings",
+      "page_ref": "p.44",
+      "quote": "\"and Plutarchus in the book de li- quos quafu- beris educandis\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "Socrates",
+      "type": "person",
+      "description": "Mentioned as admonishing Plato, linked to philosophical instruction and occult knowledge",
+      "page_ref": "p.44",
+      "quote": "\"Socrates étiam apud Pla- ee platonéadmonet\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "Ptolemy (implied by 'Lirip is Parimvs')",
+      "type": "person",
+      "description": "Referenced in a cryptic genealogical or symbolic statement on page 23",
+      "page_ref": "p.43",
+      "quote": "\"Lirip is Parimvs.\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "fire",
+      "type": "material",
+      "description": "Must be kept burning as part of a ritual or symbolic practice, not extinguished",
+      "page_ref": "p.44",
+      "quote": "\"And fire must be kept burning, it is necessary not to extinguish it\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "vessel",
+      "type": "device",
+      "description": "Should not be erased; used in demonstrations involving invisibility and visibility",
+      "page_ref": "p.44",
+      "quote": "\"Do not erase the vessel\"",
+      "chunk_id": 2
+    },
+    {
+      "name": "Egypt",
+      "type": "location",
+      "description": "Geographical region referenced in symbolic context",
+      "page_ref": "p.59",
+      "quote": "thus Egypt",
+      "chunk_id": 3
+    },
+    {
+      "name": "phoenix",
+      "type": "concept",
+      "description": "Symbolic creature representing concealed knowledge and transformation",
+      "page_ref": "p.60",
+      "quote": "they will designate the phoenix as a creature of various kinds",
+      "chunk_id": 3
+    },
+    {
+      "name": "scarab beetle",
+      "type": "concept",
+      "description": "Symbolic animal associated with Egyptian matters and hidden meanings",
+      "page_ref": "p.60",
+      "quote": "such as the scarab beetle and other animals",
+      "chunk_id": 3
+    },
+    {
+      "name": "Apollonius",
+      "type": "person",
+      "description": "Author of a book on Egyptian rites and mysteries",
+      "page_ref": "p.60",
+      "quote": "the book of Apollonius on Egyptian rites and mysteries",
+      "chunk_id": 3
+    },
+    {
+      "name": "Valerian",
+      "type": "person",
+      "description": "Commentator on Apollonius's work regarding Egyptian mysteries",
+      "page_ref": "p.60",
+      "quote": "Valerian's commentary on this same argument has been published",
+      "chunk_id": 3
+    },
+    {
+      "name": "Tettij",
+      "type": "person",
+      "description": "Author of demonological commentaries discussing allegories and parables",
+      "page_ref": "p.60",
+      "quote": "the demonological commentaries of Tettij",
+      "chunk_id": 3
+    },
+    {
+      "name": "Minotaur",
+      "type": "concept",
+      "description": "Allegorical figure used to represent complex symbolic structures and concealment",
+      "page_ref": "p.61",
+      "quote": "to depict the Minotaur",
+      "chunk_id": 3
+    },
+    {
+      "name": "dolphin",
+      "type": "device",
+      "description": "Symbolic creature associated with anchoring and delayed action in cryptographic metaphor",
+      "page_ref": "p.61",
+      "quote": "the firmness of the dolphin's anchor",
+      "chunk_id": 3
+    },
+    {
+      "name": "anchor",
+      "type": "material",
+      "description": "Physical object symbolizing delay and restraint in cryptographic timing",
+      "page_ref": "p.61",
+      "quote": "by holding back from the adversary with an anchor, delay is intimately stirred up",
+      "chunk_id": 3
+    },
+    {
+      "name": "cicadae",
+      "type": "concept",
+      "description": "Symbolic reference in kings' scepters related to concealment and birth symbolism",
+      "page_ref": "p.59",
+      "quote": "as in the kings' scepters above the cicadae",
+      "chunk_id": 3
+    },
+    {
+      "name": "wax tablet",
+      "type": "device",
+      "description": "A moscat or wax tablet used to conceal messages with a surface layer of wax.",
+      "page_ref": "p.75",
+      "quote": "the tablet was made, like a moscat... and wax was applied so that nothing would be revealed unless the message was deciphered.",
+      "chunk_id": 4
+    },
+    {
+      "name": "iron gall ink",
+      "type": "material",
+      "description": "A dark ink used for writing letters that could not be seen by artifice.",
+      "page_ref": "p.76-77",
+      "quote": "feruuscum [i.e., iron gall ink] is sent from Miletus to Arista-goram",
+      "chunk_id": 4
+    },
+    {
+      "name": "Lacedemons (Spartans)",
+      "type": "person",
+      "description": "Spartan warriors who concealed messages by feigning ignorance.",
+      "page_ref": "p.75",
+      "quote": "the truth was there, but they feigned ignorance, Gorgo replied.",
+      "chunk_id": 4
+    },
+    {
+      "name": "Cleomenis",
+      "type": "person",
+      "description": "A Spartan king whose daughter wrapped a dagger in wax to send a message.",
+      "page_ref": "p.75",
+      "quote": "In § Cleomenis... his daughter, and also in book 7 of Leonidas, reminding his wife, wrapped a dagger in wax",
+      "chunk_id": 4
+    },
+    {
+      "name": "Herodotus",
+      "type": "person",
+      "description": "Historian who records the use of secret writing by Persians.",
+      "page_ref": "p.75-76",
+      "quote": "Herodotus also records the same thing from Demaratus in book 7",
+      "chunk_id": 4
+    },
+    {
+      "name": "Cicero",
+      "type": "person",
+      "description": "Roman philosopher who wrote about digraphs and letter marking with fingers.",
+      "page_ref": "p.78",
+      "quote": "Cicero (as some seem to consider) — who in his book on the Digraphs wrote",
+      "chunk_id": 4
+    },
+    {
+      "name": "Probus",
+      "type": "person",
+      "description": "Grammarian whose commentary is referenced for cryptographic analysis.",
+      "page_ref": "p.78",
+      "quote": "From this method of concealment Probus (from Probus the grammarian’s more curious commentary) is curious about the meaning of hidden letters from C",
+      "chunk_id": 4
+    },
+    {
+      "name": "Pugillarian",
+      "type": "device",
+      "description": "A cipher device mentioned as not yet fully described.",
+      "page_ref": "p.75",
+      "quote": "The Pugillarian (a cipher device) had not yet received its full description",
+      "chunk_id": 4
+    },
+    {
+      "name": "Xerxes",
+      "type": "person",
+      "description": "Persian king whose expedition involved secret messaging.",
+      "page_ref": "p.75",
+      "quote": "the Persians, when they had accepted Xerxes' expedition with statues",
+      "chunk_id": 4
+    },
+    {
+      "name": "Arista-goram",
+      "type": "location",
+      "description": "A destination referenced in secret correspondence from Miletus.",
+      "page_ref": "p.76-77",
+      "quote": "feruuscum [is] sent from Miletus to Arista-goram",
+      "chunk_id": 4
+    },
+    {
+      "name": "Palamedes",
+      "type": "person",
+      "description": "Named as a figure associated with cipher methods",
+      "page_ref": "Book X Ch Y",
+      "quote": "Palamedes",
+      "chunk_id": 5
+    },
+    {
+      "name": "Simonides Melici",
+      "type": "person",
+      "description": "Mentioned alongside Palamedes in relation to cipher examples",
+      "page_ref": "Book X Ch Y",
+      "quote": "Simonides Melici",
+      "chunk_id": 5
+    },
+    {
+      "name": "Tyrian letter",
+      "type": "concept",
+      "description": "Referred to as a component in cipher transformation",
+      "page_ref": "p.92",
+      "quote": "if the Tyrian letter",
+      "chunk_id": 5
+    },
+    {
+      "name": "letter transposition",
+      "type": "cipher_method",
+      "description": "Described as a mode of hidden writing where letters are rearranged in order",
+      "page_ref": "p.93",
+      "quote": "That through letter transposition hidden [ciphering] is possible.",
+      "chunk_id": 5
+    },
+    {
+      "name": "duplex ratio",
+      "type": "concept",
+      "description": "A method involving alternating placement of letters in upper and lower lines",
+      "page_ref": "p.94",
+      "quote": "The duplex ratio of this kind is: the other is, which if one carefully considers...",
+      "chunk_id": 5
+    },
+    {
+      "name": "Batie",
+      "type": "cipher_method",
+      "description": "Identified as the first mode of ratio in the described cipher system",
+      "page_ref": "p.94",
+      "quote": "The first mode of ratio here is Batie.",
+      "chunk_id": 5
+    },
+    {
+      "name": "hidden genera",
+      "type": "concept",
+      "description": "Main types of ciphers from which many species derive due to varied composition and arrangement",
+      "page_ref": "p.93",
+      "quote": "These are the main hidden (ciphering) genera, truly from them many species emanate",
+      "chunk_id": 5
+    },
+    {
+      "name": "numerical values",
+      "type": "concept",
+      "description": "Used in cipher transformation, such as 'four', 'decem', and 'vigintinum'",
+      "page_ref": "p.92",
+      "quote": "Palamedes four, decem, posthunc",
+      "chunk_id": 5
+    },
+    {
+      "name": "cipher examples",
+      "type": "concept",
+      "description": "Provided as practical instances of encoded messages using described methods",
+      "page_ref": "p.94",
+      "quote": "These verses are first submitted to our cipher examples.",
+      "chunk_id": 5
+    },
+    {
+      "name": "Alphabet-based cipher",
+      "type": "cipher_method",
+      "description": "Cipher using letter position and substitution within an alphabet structure",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "\"primum clavis prima litera in quo queratur alphabeto\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Tabula (table)",
+      "type": "device",
+      "description": "A table used to encode and decode messages via letter positioning and pairing",
+      "page_ref": "p.156",
+      "quote": "\"Hec quo magisab ho minum cognitione remota fuerint: tutiorem cryptocautionem przsttabunt\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Bella Fortissime Gesta Sunt",
+      "type": "historical_example",
+      "description": "Example plaintext phrase used to demonstrate encryption method",
+      "page_ref": "p.154",
+      "quote": "\"BELLA FORTISSIME GESTA SVNT\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Apollo",
+      "type": "person",
+      "description": "Mythological figure invoked as 'the King' in cryptographic analogy",
+      "page_ref": "p.157",
+      "quote": "\"I will call Apollo the King\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Scorpius",
+      "type": "person",
+      "description": "Mythological figure referenced as 'the Scorpion' in cryptographic context",
+      "page_ref": "p.157",
+      "quote": "\"Scorpius the Scorpion\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Muses",
+      "type": "concept",
+      "description": "Nine Muses referenced symbolically in cryptographic illustration",
+      "page_ref": "p.158",
+      "quote": "\"tactfully nine Muses, who hang from hooks\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Cryptic epistle",
+      "type": "concept",
+      "description": "Encrypted message whose meaning is hidden and requires deciphering through methodical analysis",
+      "page_ref": "p.157",
+      "quote": "\"a cryptic epistle, if anyone finds it, with words understood\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Letter substitution",
+      "type": "cipher_method",
+      "description": "Technique where letters are replaced by other characters or symbols based on positional rules",
+      "page_ref": "p.156",
+      "quote": "\"the first cipher letter, which is B\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Hidden message extraction",
+      "type": "concept",
+      "description": "Process of revealing concealed meaning from text using structural and alphabetical clues",
+      "page_ref": "p.156",
+      "quote": "\"the entire hidden cryptogram will be extracted from the open\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "Symbolic associations (e.g., Apollo, Scorpius)",
+      "type": "concept",
+      "description": "Use of mythological figures to represent abstract or coded concepts in cipher construction",
+      "page_ref": "p.157-158",
+      "quote": "\"I will call Apollo the King, Scorpius the Scorpion\"",
+      "chunk_id": 8
+    },
+    {
+      "name": "praetexta",
+      "type": "cipher_method",
+      "description": "preparatory text used in the cipher process",
+      "page_ref": null,
+      "quote": "bring forth the praetexta",
+      "chunk_id": 9
+    },
+    {
+      "name": "divine will",
+      "type": "concept",
+      "description": "the motivating force behind the secret writing act",
+      "page_ref": null,
+      "quote": "I will hasten to reveal the divine",
+      "chunk_id": 9
+    },
+    {
+      "name": "friends",
+      "type": "person",
+      "description": "individuals for whom the cipher is intended or promised",
+      "page_ref": null,
+      "quote": "moved by the matter concerning friends; I have promised them",
+      "chunk_id": 9
+    },
+    {
+      "name": "exequatur",
+      "type": "device",
+      "description": "ritual authorization used in the process",
+      "page_ref": null,
+      "quote": "I summon the exequatur",
+      "chunk_id": 9
+    },
+    {
+      "name": "wine",
+      "type": "material",
+      "description": "substance used during nighttime ritual",
+      "page_ref": null,
+      "quote": "summon the exequatur, wine",
+      "chunk_id": 9
+    },
+    {
+      "name": "doves",
+      "type": "device",
+      "description": "Used as carriers of secret messages during besieges",
+      "page_ref": "Book X Ch Y",
+      "quote": "kept doves for a long time in the vicinity",
+      "chunk_id": 10
+    },
+    {
+      "name": "javelins",
+      "type": "device",
+      "description": "Arrows or bolts used to carry written messages",
+      "page_ref": "Book X Ch Y",
+      "quote": "sent javelins with messages written on them",
+      "chunk_id": 10
+    },
+    {
+      "name": "Cleonymus",
+      "type": "person",
+      "description": "King of the Lacedaemonians associated with bird messaging devices",
+      "page_ref": "Book X Ch Y",
+      "quote": "a fanatic from Huc belonged to Cleonymus, king of the Lacedaemonians",
+      "chunk_id": 10
+    },
+    {
+      "name": "Caesar",
+      "type": "person",
+      "description": "Referenced regarding strategic reasoning in military messaging",
+      "page_ref": "Book X Ch Y",
+      "quote": "The ratio of Caesar",
+      "chunk_id": 10
+    },
+    {
+      "name": "swallows",
+      "type": "device",
+      "description": "Domesticated birds considered for carrying liquid messages",
+      "page_ref": "Book X Ch Y",
+      "quote": "co-members, lumbars... swallows, or other such birds domesticated",
+      "chunk_id": 10
+    },
+    {
+      "name": "liquidum",
+      "type": "material",
+      "description": "Substance possibly used in message concealment within birds",
+      "page_ref": "Book X Ch Y",
+      "quote": "carry liquid [perhaps 'liquidum' meaning messages]",
+      "chunk_id": 10
+    },
+    {
+      "name": "fagitta",
+      "type": "device",
+      "description": "Latin term for arrow or javelin used to carry epistle",
+      "page_ref": "Book X Ch Y",
+      "quote": "tied an epistle to a javelin (or 'fagitta')",
+      "chunk_id": 10
+    },
+    {
+      "name": "Ptolemy",
+      "type": "person",
+      "description": "Referenced in context of obstructing matters with doves",
+      "page_ref": "Book X Ch Y",
+      "quote": "since you have obstructed this matter with the dove",
+      "chunk_id": 10
+    },
+    {
+      "name": "cipher_method",
+      "type": "cipher_method",
+      "description": "Permutation of characters by occultation (z.caps.6) as a method for revealing hidden messages",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "Semple os",
+      "chunk_id": 11
+    },
+    {
+      "name": "material",
+      "type": "material",
+      "description": "Letters used in ciphers, divided and numbered (up to 25 total)",
+      "page_ref": "p.213",
+      "quote": "there are not more than twenty-one, or rather two and twenty-five in total",
+      "chunk_id": 11
+    },
+    {
+      "name": "concept",
+      "type": "concept",
+      "description": "Hidden messages in letters revealed through frequency analysis and positional clues",
+      "page_ref": "p.213",
+      "quote": "Sermo enim in epistola contentus aliquando frequentissimas ratissimas, & rariissimas frequentissimas faciet",
+      "chunk_id": 11
+    },
+    {
+      "name": "device",
+      "type": "device",
+      "description": "Use of directional methods (right hand) and positional markers (end, middle, fertile line)",
+      "page_ref": "p.213",
+      "quote": "in whatever way, or in any order, or by any method of the right hand, or in the end, or in the middle",
+      "chunk_id": 11
+    },
+    {
+      "name": "person",
+      "type": "person",
+      "description": "Lipper Tertius (author referenced)",
+      "page_ref": "p.215",
+      "quote": "Liper TERTIVS, 195",
+      "chunk_id": 11
+    },
+    {
+      "name": "location",
+      "type": "location",
+      "description": "Scripta Prætoria (context for letter division method)",
+      "page_ref": "p.215",
+      "quote": "the division of this kind in the Scripta Prætoria is « 4",
+      "chunk_id": 11
+    },
+    {
+      "name": "historical_example",
+      "type": "historical_example",
+      "description": "Not explicitly stated; references to general cipher use without specific historical case",
+      "page_ref": null,
+      "quote": null,
+      "chunk_id": 11
+    },
+    {
+      "name": "geminate letters",
+      "type": "cipher_method",
+      "description": "Letters repeated to obscure distinction",
+      "page_ref": "p.230",
+      "quote": "preferring geminate letters, which must be placed by indication",
+      "chunk_id": 12
+    },
+    {
+      "name": "consonants",
+      "type": "concept",
+      "description": "Can be produced through repetition or conjunction at word ends and middles",
+      "page_ref": "p.231",
+      "quote": "they can be produced in two ways: through repetition and through a greater conjunction",
+      "chunk_id": 12
+    },
+    {
+      "name": "vowels",
+      "type": "concept",
+      "description": "Must be confirmed by rules before assignment; separated from consonants",
+      "page_ref": "p.231",
+      "quote": "do not assign vowels unless all the rules concerning them have been confirmed",
+      "chunk_id": 12
+    },
+    {
+      "name": "scripta verbum",
+      "type": "cipher_method",
+      "description": "A method involving scripta (letters) and word meaning to discern knowledge",
+      "page_ref": "p.231",
+      "quote": "from that same matter or something else (scripti verbum po[sit] intelligi)",
+      "chunk_id": 12
+    },
+    {
+      "name": "war",
+      "type": "concept",
+      "description": "Context in which epistle origin can be inferred for cipher decoding",
+      "page_ref": "p.231",
+      "quote": "one can infer from war about which epistle or during the time of war",
+      "chunk_id": 12
+    },
+    {
+      "name": "De Occvrr. Lit. Nor.",
+      "type": "location",
+      "description": "Recipient or reference point in address; possibly a cipher key or title",
+      "page_ref": "p.230, p.231",
+      "quote": "to De Occvrr. Lit. Nor.",
+      "chunk_id": 12
+    },
+    {
+      "name": "DiGiones",
+      "type": "concept",
+      "description": "Tables referenced for letter presence and arrangement",
+      "page_ref": "p.233",
+      "quote": "as in the tables of DiGiones one sees all the letters to be present",
+      "chunk_id": 12
+    },
+    {
+      "name": "X",
+      "type": "concept",
+      "description": "Rare letter considered for addition in cipher analysis",
+      "page_ref": "p.233",
+      "quote": "either H, or Q, or X, or Z... so that from three places in DiGionibus it becomes",
+      "chunk_id": 12
+    },
+    {
+      "name": "potency variation",
+      "type": "concept",
+      "description": "Individual letters vary in power; repetition affects visibility",
+      "page_ref": "p.232",
+      "quote": "the powers of individual letters can differ... its repetition will be observed",
+      "chunk_id": 12
+    },
+    {
+      "name": "TERTIVS",
+      "type": "person",
+      "description": "Named individual referenced in cipher context",
+      "page_ref": "p.247",
+      "quote": "fives TERTIVS.",
+      "chunk_id": 13
+    },
+    {
+      "name": "diGionibus",
+      "type": "concept",
+      "description": "Zodiac signs used as symbolic or coded references in cryptographic analysis",
+      "page_ref": "p.250",
+      "quote": "many... will observe together with the diGionibus",
+      "chunk_id": 13
+    },
+    {
+      "name": "Regula",
+      "type": "concept",
+      "description": "A guiding rule for resolving ambiguity in cryptographic interpretation",
+      "page_ref": "p.250, p.251",
+      "quote": "let the Regula be followed",
+      "chunk_id": 13
+    },
+    {
+      "name": "A, B, Q; PF, DC",
+      "type": "concept",
+      "description": "Cipher characters or letter pairs used in cryptographic examples",
+      "page_ref": "p.250",
+      "quote": "and A, B, Q; PF, DC, & hui modi reliquz",
+      "chunk_id": 13
+    },
+    {
+      "name": "AGAAACNNXAMGAASYNAG",
+      "type": "cipher_method",
+      "description": "Example of a coded string or anagram-based cipher text",
+      "page_ref": "p.250",
+      "quote": "It is written thus. AGAAACNNXAMGAASYNAG",
+      "chunk_id": 13
+    },
+    {
+      "name": "micro-filtration",
+      "type": "concept",
+      "description": "Perceived method of hidden communication or detection",
+      "page_ref": "p.248",
+      "quote": "more certain an argument from micro-filtration being perceived",
+      "chunk_id": 13
+    },
+    {
+      "name": "liquid",
+      "type": "concept",
+      "description": "Symbolic term associated with 'two are numbered as twenty' in cryptographic logic",
+      "page_ref": "p.248",
+      "quote": "From these it is seen that two are numbered as twenty, liquid appears",
+      "chunk_id": 13
+    },
+    {
+      "name": "Y and Z",
+      "type": "concept",
+      "description": "Rarely occurring letters used in cryptographic conjunctions",
+      "page_ref": "p.248",
+      "quote": "of two letters Y and Z very rarely occurs",
+      "chunk_id": 13
+    },
+    {
+      "name": "Ocevir",
+      "type": "person",
+      "description": "Attributed author or source of the cited passage",
+      "page_ref": "p.249",
+      "quote": "From Ocevir. Lir. Nor.",
+      "chunk_id": 13
+    },
+    {
+      "name": "tabular_structure",
+      "type": "concept",
+      "description": "Tables used to organize letters and figures for cryptographic encoding",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "In the cni* table two bina-rum diGjonum tables are proposed",
+      "chunk_id": 15
+    },
+    {
+      "name": "consonant_vowel_similarity",
+      "type": "concept",
+      "description": "Grouping of similar consonants and vowels for cipher construction",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "Consonants and similar vowels. ~_ bibi momo toro coco.",
+      "chunk_id": 15
+    },
+    {
+      "name": "numerical_division",
+      "type": "concept",
+      "description": "Division of letters into parts based on numerical values (e.g., first, third, fifth)",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "Prima, ter. & quar. voc. fec. & quar.confi",
+      "chunk_id": 15
+    },
+    {
+      "name": "letter_combination",
+      "type": "concept",
+      "description": "Use of combined letters to represent other letters or concepts",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "the swift runner of their use among all letter combinations was born",
+      "chunk_id": 15
+    },
+    {
+      "name": "star_connection",
+      "type": "concept",
+      "description": "Linking letters to celestial bodies for astrological cryptographic meaning",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "to indicate the connection of the stars",
+      "chunk_id": 15
+    },
+    {
+      "name": "large_volume_requirement",
+      "type": "concept",
+      "description": "Complex arrangements require extensive written material",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "this work would require a very large volume to be created",
+      "chunk_id": 15
+    },
+    {
+      "name": "omission_recommendation",
+      "type": "concept",
+      "description": "The text suggests omitting certain complex methods due to low utility",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "Therefore, this matter is more to be omitted than to approach it with difficulty",
+      "chunk_id": 15
+    },
+    {
+      "name": "bina-rum_diGjonum_tables",
+      "type": "cipher_method",
+      "description": "Binary tables used in cryptographic figure arrangement",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "two bina-rum diGjonum tables are proposed",
+      "chunk_id": 15
+    },
+    {
+      "name": "figure_positioning",
+      "type": "concept",
+      "description": "Arrangement of figures based on their position in sequential tables",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "from the position of the two kinds of figures at the beginning of each subsequent one no one is placed among three divisions",
+      "chunk_id": 15
+    },
+    {
+      "name": "Cymric shields",
+      "type": "device",
+      "description": "Shields associated with Cimmerians, called Timbres Casaubon by Gauls and Geregier by Germans.",
+      "page_ref": "p.316",
+      "quote": "Cymric (Cimmerian) shields",
+      "chunk_id": 16
+    },
+    {
+      "name": "Tin Cask",
+      "type": "concept",
+      "description": "A symbolic container referenced as a cipher or concealment device, possibly representing hidden meaning.",
+      "page_ref": "p.316",
+      "quote": "this [refers to] the Tin Cask",
+      "chunk_id": 16
+    },
+    {
+      "name": "Proteus",
+      "type": "person",
+      "description": "King of Egypt, transformed into various shapes by poets to assume different forms.",
+      "page_ref": "p.316",
+      "quote": "Proteus, the King of Egypt, was transformed by poets into all manner of shapes",
+      "chunk_id": 16
+    },
+    {
+      "name": "Diodorus Siculus",
+      "type": "person",
+      "description": "Historian who records ancient customs, including Gaulish military practices and animal symbolism.",
+      "page_ref": "p.316",
+      "quote": "custom of the ancient Gauls in the army is attested by Diodorus Siculus",
+      "chunk_id": 16
+    },
+    {
+      "name": "Vegetius",
+      "type": "person",
+      "description": "Roman military writer who mentions Roman sign-bearers using symbolic devices.",
+      "page_ref": "p.316",
+      "quote": "among Roman sign-bearers, as found in Vegetius",
+      "chunk_id": 16
+    },
+    {
+      "name": "Anubis",
+      "type": "concept",
+      "description": "Egyptian deity represented as a dog, cited as an example of symbolic transformation.",
+      "page_ref": "p.316",
+      "quote": "Anubis as a dog",
+      "chunk_id": 16
+    },
+    {
+      "name": "Macedon",
+      "type": "concept",
+      "description": "Represented as a wolf in ancient symbolism, per Diodorus Siculus.",
+      "page_ref": "p.316",
+      "quote": "Macedon as a wolf",
+      "chunk_id": 16
+    },
+    {
+      "name": "Aristomenes",
+      "type": "person",
+      "description": "King of the Messenians, depicted with a ram and wings in symbolic form.",
+      "page_ref": "p.316",
+      "quote": "Aristomenes, king of the Messenians, a ram with wings",
+      "chunk_id": 16
+    },
+    {
+      "name": "Pegasus",
+      "type": "concept",
+      "description": "Mythical winged horse referenced in connection with heraldic or symbolic imagery.",
+      "page_ref": "p.316",
+      "quote": "Pegasus",
+      "chunk_id": 16
+    },
+    {
+      "name": "Scytale",
+      "type": "device",
+      "description": "A cryptographic device mentioned as being wrapped with a cord, possibly used for secret writing.",
+      "page_ref": "p.320",
+      "quote": "Scytalacuiusmodi fuerit",
+      "chunk_id": 16
+    },
+    {
+      "name": "Agathon Tragicus",
+      "type": "person",
+      "description": "Illiterate figure mentioned as describing a phenomenon in Telepho",
+      "page_ref": "p.336",
+      "quote": "The same Agathon Tragicus in Telepho, illiterate, was describing some phenomenon.",
+      "chunk_id": 17
+    },
+    {
+      "name": "Theodectes Phaelites",
+      "type": "person",
+      "description": "Individual associated with the name given to a described rustic method",
+      "page_ref": "p.336",
+      "quote": "The same name was given to Theodectes Phaelites, who described rusticum.",
+      "chunk_id": 17
+    },
+    {
+      "name": "material",
+      "type": "concept",
+      "description": "Hidden or concealed things are central to the method",
+      "page_ref": null,
+      "quote": "Let us conceal the hidden things.",
+      "chunk_id": 17
+    },
+    {
+      "name": "geometric_figure",
+      "type": "device",
+      "description": "Circle with a middle sign, described as umbilicated and containing rules",
+      "page_ref": "p.336",
+      "quote": "The primordial scripture is umbilicated in the middle circle",
+      "chunk_id": 17
+    },
+    {
+      "name": "Trinity",
+      "type": "concept",
+      "description": "Threefold structure emerging from a central arc, linked to divine elements",
+      "page_ref": null,
+      "quote": "From it emerge two coccinellids... A trinity in obligation, shining",
+      "chunk_id": 17
+    },
+    {
+      "name": "coccinellids",
+      "type": "concept",
+      "description": "Two ladybug-like symbols emerging from the trinity",
+      "page_ref": null,
+      "quote": "From it emerge two coccinellids",
+      "chunk_id": 17
+    },
+    {
+      "name": "Leonardo Veronensis",
+      "type": "person",
+      "description": "Friend associated with liberalitas and benevolence",
+      "page_ref": "p.339",
+      "quote": "liberalitas of Leonardo Veronensis our intimate friend",
+      "chunk_id": 17
+    },
+    {
+      "name": "Mariam",
+      "type": "concept",
+      "description": "Divine mother figure, nourisher and resource in occult theology",
+      "page_ref": "p.339",
+      "quote": "itself our nourisher and mother Mariam",
+      "chunk_id": 17
+    },
+    {
+      "name": "Anconius",
+      "type": "person",
+      "description": "Reverent figure referenced in a prayer-like passage",
+      "page_ref": "p.339",
+      "quote": "Anconius reverently x1",
+      "chunk_id": 17
+    },
+    {
+      "name": "vowel-based cipher",
+      "type": "cipher_method",
+      "description": "Letters are converted into vowels using interposed sounds as per the text's method.",
+      "page_ref": "null",
+      "quote": "Vowels written openly conceal hidden letters, soft consonants.",
+      "chunk_id": 18
+    },
+    {
+      "name": "numerical cipher",
+      "type": "cipher_method",
+      "description": "Numbers are used to represent letters and decode messages via a table or key.",
+      "page_ref": "null",
+      "quote": "we will explain how all the numbers of letters are changed into vowels",
+      "chunk_id": 18
+    },
+    {
+      "name": "Dr. Furrer Wéris",
+      "type": "person",
+      "description": "A figure who reveals himself as a keyholder for secret communications.",
+      "page_ref": "null",
+      "quote": "Dr. Furr. Lirr. Norys 4",
+      "chunk_id": 18
+    },
+    {
+      "name": "Cornelio",
+      "type": "person",
+      "description": "One of the leaders mentioned to be involved in opening a clanculum for military use.",
+      "page_ref": "null",
+      "quote": "we will come with Ruralino, CORNELIO, AND OTHER LEADERS",
+      "chunk_id": 18
+    },
+    {
+      "name": "caper leaf",
+      "type": "material",
+      "description": "Used as a symbolic or literal image in the cipher context.",
+      "page_ref": "null",
+      "quote": "a caper leaf from the mind",
+      "chunk_id": 18
+    },
+    {
+      "name": "antiphagum",
+      "type": "device",
+      "description": "Possibly a plant part or symbolic object referenced in relation to the caper leaf.",
+      "page_ref": "null",
+      "quote": "an antiphagum",
+      "chunk_id": 18
+    },
+    {
+      "name": "cipher table",
+      "type": "device",
+      "description": "A table used for decoding messages by mapping numbers or letters to vowels or other symbols.",
+      "page_ref": "p.359",
+      "quote": "we can begin to decipher with one key",
+      "chunk_id": 18
+    },
+    {
+      "name": "Pugna te virile",
+      "type": "concept",
+      "description": "A phrase indicating struggle for liberty, possibly symbolic in the cipher context.",
+      "page_ref": "null",
+      "quote": "PUGNATE VIRILY; FOR I COME so that I may assert liberty in citizenship.",
+      "chunk_id": 18
+    },
+    {
+      "name": "Neapolis",
+      "type": "location",
+      "description": "Where Datum (the work) was published or dated.",
+      "page_ref": "p.361",
+      "quote": "Datum Neapoli 12. Auguiltt 1577",
+      "chunk_id": 18
+    },
+    {
+      "name": "Laurentius",
+      "type": "person",
+      "description": "A named individual referenced in the cipher key or table.",
+      "page_ref": "p.360",
+      "quote": "8 Laurentius",
+      "chunk_id": 18
+    },
+    {
+      "name": "Steomare",
+      "type": "cipher_method",
+      "description": "Possible cipher term or code name listed among other encoded words",
+      "page_ref": "null",
+      "quote": "\"Steomare\"",
+      "chunk_id": 19
+    },
+    {
+      "name": "clay",
+      "type": "material",
+      "description": "Mentioned as a material for secret writing, possibly in combination with other substances",
+      "page_ref": "p.383",
+      "quote": "bo clay",
+      "chunk_id": 19
+    },
+    {
+      "name": "pigeons",
+      "type": "device",
+      "description": "Implied carrier method through context of 'Sinubus' and historical steganography, though not explicitly named in this chunk",
+      "page_ref": "null",
+      "quote": "null",
+      "chunk_id": 19
+    },
+    {
+      "name": "Meliceride",
+      "type": "cipher_method",
+      "description": "Listed among encoded terms; may represent a cipher or symbolic notation",
+      "page_ref": "p.383",
+      "quote": "\"Meliceride\"",
+      "chunk_id": 19
+    },
+    {
+      "name": "Phthiriafi",
+      "type": "cipher_method",
+      "description": "Encoded term possibly representing a name or concept in cipher",
+      "page_ref": "p.383",
+      "quote": "\"Phthiriafi - ~\"",
+      "chunk_id": 19
+    },
+    {
+      "name": "Furunculis",
+      "type": "concept",
+      "description": "Medical condition (boil) listed repeatedly, indicating thematic focus on disease",
+      "page_ref": "p.384",
+      "quote": "\"Furfure i Myrmetiis\"",
+      "chunk_id": 19
+    },
+    {
+      "name": "Myrmetiis",
+      "type": "concept",
+      "description": "Likely refers to ants or a metaphorical term in medical/cryptic context",
+      "page_ref": "p.384",
+      "quote": "\"Myrmetiis\"",
+      "chunk_id": 19
+    },
+    {
+      "name": "Verrucous",
+      "type": "concept",
+      "description": "Describes skin condition or symbolic affliction in the text",
+      "page_ref": "p.384",
+      "quote": "\"in Verrucous\"",
+      "chunk_id": 19
+    },
+    {
+      "name": "Lethargy",
+      "type": "concept",
+      "description": "Referred to as 'Hebetudine', indicating a state of dullness or inactivity",
+      "page_ref": "p.387",
+      "quote": "\"* Hebetudine (lethargy, dullness)\"",
+      "chunk_id": 19
+    },
+    {
+      "name": "Scabies",
+      "type": "concept",
+      "description": "Listed multiple times as a skin condition or symbolic affliction",
+      "page_ref": "p.393",
+      "quote": "\"t. Scabies\"",
+      "chunk_id": 19
+    },
+    {
+      "name": "Os",
+      "type": "cipher_method",
+      "description": "A cipher method referenced on page 422",
+      "page_ref": "p.422",
+      "quote": "i.e. Os [p.422]",
+      "chunk_id": 20
+    },
+    {
+      "name": "WNicoftra",
+      "type": "concept",
+      "description": "A term possibly representing a cipher or code",
+      "page_ref": null,
+      "quote": "WNicoftra = Fauftina Agata Filenia .",
+      "chunk_id": 20
+    },
+    {
+      "name": "Cleopatra",
+      "type": "person",
+      "description": "Historical figure mentioned in the list of names",
+      "page_ref": null,
+      "quote": "Cleopatra Alvina Olimpia |.",
+      "chunk_id": 20
+    },
+    {
+      "name": "pigeon",
+      "type": "device",
+      "description": "Carrier method for secret writing, referenced in context of pigeons",
+      "page_ref": null,
+      "quote": "Nicoftra = Fauftina Agata Filenia .",
+      "chunk_id": 20
+    },
+    {
+      "name": "arrow",
+      "type": "device",
+      "description": "Carrier method for secret writing, referenced in context of arrows",
+      "page_ref": null,
+      "quote": "WNicoftra = Fauftina Agata Filenia .",
+      "chunk_id": 20
+    },
+    {
+      "name": "Furcht",
+      "type": "concept",
+      "description": "An occult or cryptographic concept mentioned in the text",
+      "page_ref": "p.423",
+      "quote": "DE Furr.",
+      "chunk_id": 20
+    },
+    {
+      "name": "Octavia",
+      "type": "person",
+      "description": "Historical figure referenced among many names",
+      "page_ref": null,
+      "quote": "Octavia Prudentia Scolaftica Lacena Sylvia Onfale Phylli Polixena Stella Leucippe Zenobia Pellegrina Hermina Veronica.",
+      "chunk_id": 20
+    },
+    {
+      "name": "Saffo",
+      "type": "person",
+      "description": "Historical poet referenced in the text",
+      "page_ref": "p.423",
+      "quote": "h Saffo I m Caleftine * a SE Pomponia :",
+      "chunk_id": 20
+    },
+    {
+      "name": "Apofila",
+      "type": "material",
+      "description": "Likely a medicinal or aromatic substance used in cryptographic preparations",
+      "page_ref": "p.463",
+      "quote": "Apofila",
+      "chunk_id": 21
+    },
+    {
+      "name": "Myrrha",
+      "type": "material",
+      "description": "Frankincense, possibly used as a seal or writing medium additive",
+      "page_ref": "p.463",
+      "quote": "Myrrha",
+      "chunk_id": 21
+    },
+    {
+      "name": "Scriba",
+      "type": "person",
+      "description": "Implied scribe or cryptographer referenced in context of writing",
+      "page_ref": null,
+      "quote": "Regia .",
+      "chunk_id": 21
+    },
+    {
+      "name": "Cardamomo",
+      "type": "material",
+      "description": "Aromatic substance, possibly used for invisible ink or concealment",
+      "page_ref": "p.463",
+      "quote": "a Cardamomo™ a_ Valeriana",
+      "chunk_id": 21
+    },
+    {
+      "name": "Hieride",
+      "type": "concept",
+      "description": "Possibly refers to sacred or hidden writing practices",
+      "page_ref": "p.461",
+      "quote": "Hieride",
+      "chunk_id": 21
+    },
+    {
+      "name": "Cynosbato",
+      "type": "material",
+      "description": "Likely a plant-based substance, possibly for marking or encoding",
+      "page_ref": "p.465",
+      "quote": "a Cynosbato",
+      "chunk_id": 21
+    },
+    {
+      "name": "Thymol",
+      "type": "material",
+      "description": "Implied essential oil or preservative with potential cryptographic use",
+      "page_ref": "p.470",
+      "quote": "Ser Serola . , * Cheoltrom.",
+      "chunk_id": 21
+    },
+    {
+      "name": "Lavender",
+      "type": "material",
+      "description": "Herbal substance, possibly used for scent masking or ink stabilization",
+      "page_ref": "p.462",
+      "quote": "e Venerea e Lavendula «=. ¢ Valentia",
+      "chunk_id": 21
+    },
+    {
+      "name": "Oro di Persia",
+      "type": "material",
+      "description": "Gold from Persia, possibly used in secret writing or sealing",
+      "page_ref": "p.463",
+      "quote": "Pepulo i",
+      "chunk_id": 21
+    },
+    {
+      "name": "Inula",
+      "type": "material",
+      "description": "Plant root, potentially used for binding or preserving messages",
+      "page_ref": "p.463",
+      "quote": "Inula",
+      "chunk_id": 21
+    },
+    {
+      "name": "Stralam",
+      "type": "cipher_method",
+      "description": "A cipher method mentioned at the start of the text.",
+      "page_ref": null,
+      "quote": "Stralam",
+      "chunk_id": 22
+    },
+    {
+      "name": "tErser Quinrus",
+      "type": "person",
+      "description": "A named individual possibly involved in cryptographic practice.",
+      "page_ref": null,
+      "quote": "tErser Quinrus",
+      "chunk_id": 22
+    },
+    {
+      "name": "Rena",
+      "type": "concept",
+      "description": "Possibly refers to a cipher or symbolic system (e.g., Rhenish cipher).",
+      "page_ref": null,
+      "quote": "Rena",
+      "chunk_id": 22
+    },
+    {
+      "name": "Lisboa",
+      "type": "location",
+      "description": "A city listed among other locations, possibly used as a code or reference.",
+      "page_ref": null,
+      "quote": "Lisbona",
+      "chunk_id": 22
+    },
+    {
+      "name": "Machinia",
+      "type": "device",
+      "description": "Possibly refers to a cipher device or mechanism (e.g., 'machina' in cryptographic context).",
+      "page_ref": null,
+      "quote": "Machinia",
+      "chunk_id": 22
+    },
+    {
+      "name": "Canufia",
+      "type": "material",
+      "description": "Likely refers to papyrus, a material used for writing and hidden messages.",
+      "page_ref": null,
+      "quote": "Canufia",
+      "chunk_id": 22
+    },
+    {
+      "name": "Vigefimo",
+      "type": "cipher_method",
+      "description": "A complex cipher method referenced with numerical sequences (pp. 510–518).",
+      "page_ref": "Book X Ch Y (implied via page numbers)",
+      "quote": "Vigefimo octa- r 1200 uty yf Ix 7: é",
+      "chunk_id": 22
+    },
+    {
+      "name": "Lister Quintus",
+      "type": "person",
+      "description": "A named individual, possibly a cryptographer or subject of a cipher example.",
+      "page_ref": null,
+      "quote": "Lister Quintus.",
+      "chunk_id": 22
+    },
+    {
+      "name": "Conflatinopoli",
+      "type": "location",
+      "description": "An invented or variant location name, likely used in coded references.",
+      "page_ref": null,
+      "quote": "Conflatinopoli",
+      "chunk_id": 22
+    },
+    {
+      "name": "Decimorertioi",
+      "type": "cipher_method",
+      "description": "A cipher method referenced with numerical codes (p. 514).",
+      "page_ref": "Book X Ch Y (implied via page numbers)",
+      "quote": "b Decimorertioi b 69.",
+      "chunk_id": 22
+    },
+    {
+      "name": "Polybius",
+      "type": "person",
+      "description": "Greek historian cited regarding military sign systems",
+      "page_ref": "Chapter X or null",
+      "quote": "Polibius refert",
+      "chunk_id": 23
+    },
+    {
+      "name": "egg white",
+      "type": "material",
+      "description": "used as a carrier for invisible ink that becomes visible when treated with chemicals",
+      "page_ref": null,
+      "quote": "the thin membrane is formed, and when mixed with albumen, it forms a soft substance from itself",
+      "chunk_id": 24
+    },
+    {
+      "name": "alum",
+      "type": "material",
+      "description": "combined with gall nuts to create an impermeable ink that can be revealed by heat or chemical exposure",
+      "page_ref": null,
+      "quote": "gall nuts crushed with alum, from which... almost impermeable substances arise",
+      "chunk_id": 24
+    },
+    {
+      "name": "gall nuts",
+      "type": "material",
+      "description": "source of tannic acid used in invisible ink formulations",
+      "page_ref": null,
+      "quote": "gall nuts crushed with alum, from which... almost impermeable substances arise",
+      "chunk_id": 24
+    },
+    {
+      "name": "vinegar",
+      "type": "material",
+      "description": "used to treat the ink or paper to reveal hidden writing",
+      "page_ref": null,
+      "quote": "when mixed with vinegar it becomes tender, through them penetrating",
+      "chunk_id": 24
+    },
+    {
+      "name": "paper",
+      "type": "device",
+      "description": "surface on which invisible ink is applied and later revealed",
+      "page_ref": null,
+      "quote": "the egg white... imprints on the egg white; this, when immersed in cold water and dried, reduces to its original form",
+      "chunk_id": 24
+    },
+    {
+      "name": "wood",
+      "type": "device",
+      "description": "alternative surface for applying invisible ink using similar chemical methods",
+      "page_ref": null,
+      "quote": "penetrate very hard wood, the depth of the characters of the woodcutters' tools",
+      "chunk_id": 24
+    },
+    {
+      "name": "Hittieus",
+      "type": "person",
+      "description": "named individual referenced in relation to making indelible letters on the head",
+      "page_ref": null,
+      "quote": "how Hittieus poterat capiti literas indelebiles facere",
+      "chunk_id": 24
+    },
+    {
+      "name": "Capuchin friar",
+      "type": "person",
+      "description": "mentioned as a possible source of secret messages via bodily excretions, though likely garbled text",
+      "page_ref": null,
+      "quote": "the natural philosopher's stone... the nuncius... capiti literas indelebiles",
+      "chunk_id": 24
+    },
+    {
+      "name": "invisible ink",
+      "type": "concept",
+      "description": "secret writing that is not visible to the naked eye and requires chemical treatment to reveal",
+      "page_ref": null,
+      "quote": "the thin membrane... become visible with great clarity",
+      "chunk_id": 24
+    },
+    {
+      "name": "chemical revelation",
+      "type": "concept",
+      "description": "process of using substances like alum, vinegar, or heat to make invisible ink visible",
+      "page_ref": null,
+      "quote": "when mixed with albumen... imprints on the egg white; this, when immersed in cold water and dried...",
+      "chunk_id": 24
+    },
+    {
+      "name": "reversed alphabet order",
+      "type": "cipher_method",
+      "description": "Using reverse sequence (e.g., DCBA) as a cipher method",
+      "page_ref": "p.600",
+      "quote": "retrogando ordine, recto ABCD, retrogra-dout DCBA",
+      "chunk_id": 25
+    },
+    {
+      "name": "similar letters rule",
+      "type": "cipher_method",
+      "description": "Identifying and using repeated or similar ciphered letters to deduce keys",
+      "page_ref": "p.601",
+      "quote": "regula for similar letters, in which I proceed straight ahead with the key",
+      "chunk_id": 25
+    },
+    {
+      "name": "CCC",
+      "type": "concept",
+      "description": "Four repeated letters (CCCC) identified as helpful for decoding",
+      "page_ref": "p.602",
+      "quote": "initio four similar letters CCCC, which is the greatest help for us",
+      "chunk_id": 25
+    },
+    {
+      "name": "lead lamellae",
+      "type": "material",
+      "description": "Thin sheets of lead used to inscribe secret messages",
+      "page_ref": "p.604",
+      "quote": "letters are placed in leaden lamellae, closed in the middle with wax",
+      "chunk_id": 25
+    },
+    {
+      "name": "wax seal",
+      "type": "material",
+      "description": "Used to close and secure lead lamellae containing secret messages",
+      "page_ref": "p.604",
+      "quote": "closed in the middle with wax, and sealed",
+      "chunk_id": 25
+    },
+    {
+      "name": "papyrus roll",
+      "type": "device",
+      "description": "A rolled papyrus container used to conceal and transport secret writings",
+      "page_ref": "p.604",
+      "quote": "a papyrus-lined roll, wrapped with leaden pile",
+      "chunk_id": 25
+    },
+    {
+      "name": "Cralem Servier Defpotum",
+      "type": "person",
+      "description": "Recipient of secret correspondence mentioned in historical context",
+      "page_ref": "p.604",
+      "quote": "letters were sent to Cralem Servier Defpotum",
+      "chunk_id": 25
+    },
+    {
+      "name": "columbae memory",
+      "type": "concept",
+      "description": "Reference to pigeons' memory as a metaphor or method in cryptographic practice",
+      "page_ref": "p.604",
+      "quote": "Themistius says among animals columbz memory",
+      "chunk_id": 25
+    },
+    {
+      "name": "interlaced letters (equantes)",
+      "type": "cipher_method",
+      "description": "Letters interlaced according to specific rules (e.g., VACE) for decoding",
+      "page_ref": "p.603",
+      "quote": "four letters are interlaced (equantes), one (cilicer intercalated) VACE",
+      "chunk_id": 25
+    },
+    {
+      "name": "STV rule",
+      "type": "cipher_method",
+      "description": "A decoding rule involving the sequence STV to determine placement or key",
+      "page_ref": "p.603",
+      "quote": "by the third rule STV to say place",
+      "chunk_id": 25
+    },
+    {
+      "name": "cipher wheel",
+      "type": "device",
+      "description": "A rotating device used for encoding messages, referenced with page number 547.",
+      "page_ref": "Book X Ch Y (not specified)",
+      "quote": "thread from the cipher wheel",
+      "chunk_id": 26
+    },
+    {
+      "name": "ligni occulte",
+      "type": "material",
+      "description": "Hidden or secret writing material, possibly wood-based, mentioned on page 552.",
+      "page_ref": "Book X Ch Y (not specified)",
+      "quote": "ligno occulte",
+      "chunk_id": 26
+    },
+    {
+      "name": "alphabet",
+      "type": "concept",
+      "description": "Used in cipher systems with specific letter assignments and doubling rules",
+      "page_ref": "p.663",
+      "quote": "the alphabet may be used by any sign or planet",
+      "chunk_id": 27
+    },
+    {
+      "name": "doubled letters",
+      "type": "concept",
+      "description": "Each letter should be doubled to prevent misreading and false strikes",
+      "page_ref": "p.663",
+      "quote": "each letter may be doubled, lest it be read falsely",
+      "chunk_id": 27
+    },
+    {
+      "name": "19 letters",
+      "type": "concept",
+      "description": "Recommended alphabet size to avoid duplication and confusion",
+      "page_ref": "p.663",
+      "quote": "I wish the alphabet to consist of 19 letters, not duplicating 18",
+      "chunk_id": 27
+    },
+    {
+      "name": "planetary characters",
+      "type": "concept",
+      "description": "Linked to cipher systems and numbered signs for cryptographic use",
+      "page_ref": "p.663",
+      "quote": "tablets marked with numbers {cryptic @ signs or planetary characters}",
+      "chunk_id": 27
+    },
+    {
+      "name": "chemical analysis table",
+      "type": "concept",
+      "description": "A fixed table for varied reading, referenced on folio 60",
+      "page_ref": "p.659",
+      "quote": "See Table, folio 60",
+      "chunk_id": 27
+    },
+    {
+      "name": "twelve signs",
+      "type": "concept",
+      "description": "Assigned numbers in cipher systems, possibly zodiac-related",
+      "page_ref": "p.663",
+      "quote": "We assign numbers to the twelve signs.",
+      "chunk_id": 27
+    },
+    {
+      "name": "Polydora",
+      "type": "person",
+      "description": "Cited author of prior cryptographic work",
+      "page_ref": "p.663",
+      "quote": "Outside the cryptography of Polydora",
+      "chunk_id": 27
+    },
+    {
+      "name": "furnace",
+      "type": "concept",
+      "description": "Metaphorical location for cryptographic 'work' or transformation",
+      "page_ref": "p.663",
+      "quote": "we have driven into the furnace in which",
+      "chunk_id": 27
+    },
+    {
+      "name": "wandering iron",
+      "type": "concept",
+      "description": "Symbolic element concluding the cryptographic process",
+      "page_ref": "p.663",
+      "quote": "concluding with the wandering iron",
+      "chunk_id": 27
+    },
+    {
+      "name": "tablets marked with numbers",
+      "type": "device",
+      "description": "Physical carriers for cryptographic symbols and planetary characters",
+      "page_ref": "p.663",
+      "quote": "tablets marked with numbers {cryptic @ signs or planetary characters}",
+      "chunk_id": 27
+    }
+  ]
+}
