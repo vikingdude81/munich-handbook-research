@@ -1,0 +1,868 @@
+This passage is from Giambattista della Porta's *De Occultis Literarum Notis* (1592), a work on cryptographic and occult notations. The text uses dense, abbreviated Latin with many OCR errors and invented or corrupted words — common in early modern esoteric texts where symbols were often disguised as letters.
+
+I will reconstruct the most plausible readings based on context, known cipher systems of the time (e.g., Porta’s own ciphers), and classical/medieval naming conventions. I’ll preserve technical terms like *aquila*, *vinculum*, *Palm*, etc., and render them accurately in modern English.
+
+---
+
+3 Cuius  
+[p.314]
+
+—* — r — ‘i —- \, —
+
+Sy = ll a
+
+Cuius hecst interpretation. IMPeRII(en aquilam ayium regem) TENACISSIMV™M Vincviv™ (id anchora funifqueciufdem, & vinculum feu aly, ut Greci nuncupant, often- dit) Mir17TaRrts (miles fataperto huicreiindicio’) PRyDENTIA ( Anguem namqueprue dentiz notam effec omnes novimus, Aut certé utego malim, Imperijtenacifsimumvinculum fortitudo & prudentia.
+
+Tertium exemplum eft id quod fequitur, hocque explicandum modo,
+
+Divi  
+| | [p.315]
+
+Divi (oculo id indicatur, utimonet Pierius) Ivi11 (eum oamq; eam per ftellam crinitam, que poft obitum ipfiusapparuit, fignificacum fuperstitione ethnica, nimiaqueeius temporis adulatione vulg6 creditum di€umque ex hi- {torijs novimus) Vicrorrarvo™ ( palmam vidorie fignumeffe ut multis moneamus non ef{opus) Er SPorsory™M (eadepia vides ) . Copiossimvym™ (encopiz cornu utrinque ap- positi fignificationé ) TROP HAEVM (id quod far manifefta pidura expreflum eft.
+
+Quartum denique exemplum a Riffio alla- tum hoc eft, petitum ex tumulis Ro. uti videre_  
+eft apud Georg. Fabric. antiq. lib. pag. zor.
+
+T 4 Dis
+
+[p.316]
+
+Hv f ; i Ps ri a 1 -_ — Mn MT Ce eT TTL LLL LILLE DIs (oculis duobus fignificatis) Manisvs (bicipitium vim eam habere monet Pierius ) Mors (fufi-Parcarum fili abrupti fignificatio propria). Vir « (sımptvioaqua, qua fine vivi non poteft, pleno subindicatz) CONTRARIA (telum namq; telo contrariarationecollocati vides) Et VELOctssima(eifdé telisid notata puto) Cvncra (rer hicapparetuniverfitatis vulgo apud veteres ufitata effigies) CaLCAT SVPPEDITAT (ideniminnuit calceamenti fo- lea) Raptr (uncusnonaliz rei fignificande ) CONSY MIT (ignis nimira inftar) Dissouvit (ita enim nodi aliaque folent cyltro) Mex LITE(apis indicio) MvTvo STRICTIM Et ARDENTER AM
+
+"To signify (or perhaps 'to make significant'), this [refers to] the Tin Cask. Here it is said that one should not say what is proper, but rather contain here [the meaning of] Ex Tin Casks. I think this is an interpretation.
+
+[See] page 39.
+
+What Porta writes about the Cymric (Cimmerian) shields, which the Gauls call Timbres Casaubon, and the Germans call Geregier, from whom the so-called casides are said to originate in their decuries—which are commonly called vulgus dicuntur—seems also to have an ancient origin for transferring signs to familiars. For indeed, I recall correctly that Proteus, the King of Egypt, the most ancient, was transformed by poets into all manner of shapes, in order to increase his own species and to make terrible forms appear at will, either this form or that one, imposing them on his head. And similarly, the custom of the ancient Gauls in the army is attested by Diodorus Siculus. The same also appears among Roman sign-bearers, as found in Vegetius.
+
+[See] page 39.
+
+What I have said about shields, I have also mentioned; Herodotus records that the Cimmerians, as well as some others, for example: Anubis as a dog, Macedon as a wolf, (says Diodorus Siculus, book 1). Aristomenes, king of the Messenians, a ram with wings, Pegasus, and Virgil’s [Aeneid] shield of Hercules, also the paternal sign of 100 oxen and a burning serpent: Aeneid, book 7. Valerius Flaccus, Argonauts, 6, verse 53, and frequently. A winged serpent, golden, lightning-bolt-shaped: see also T §.. Perfent.
+
+[Page 318]
+
+296 Moreover, Perfent himself depicts two other dragon-saurian beings, mingling with the middle gem between the eyes of these [figures].
+
+This, however, is from the phalanx."
+
+Translation:
+
+"To signify (or perhaps 'to make significant'), this [refers to] the Tin Cask. Here it is said that one should not say what is proper, but rather contain here [the meaning of] Ex Tin Casks. I think this is an interpretation.
+
+[See] page 39.
+
+What Porta writes about the Cymric (Cimmerian) shields, which the Gauls call Timbres Casaubon, and the Germans call Geregier, from whom the so-called casides are said to originate in their decuries—which are commonly called vulgus dicuntur—seems also to have an ancient origin for transferring signs to familiars. For indeed, I recall correctly that Proteus, the King of Egypt, the most ancient, was transformed by poets into all manner of shapes, in order to increase his own species and to make terrible forms appear at will, either this form or that one, imposing them on his head. And similarly, the custom of the ancient Gauls in the army is attested by Diodorus Siculus. The same also appears among Roman sign-bearers, as found in Vegetius.
+
+[See] page 39.
+
+What I have said about shields, I have also mentioned; Herodotus records that the Cimmerians, as well as some others, for example: Anubis as a dog, Macedon as a wolf, (says Diodorus Siculus, book 1). Aristomenes, king of the Messenians, a ram with wings, Pegasus, and Virgil’s [Aeneid] shield of Hercules, also the paternal sign of 100 oxen and
+
+The entire {crybit, vfuspatum postea also teftan- tur augores per fingulas cohortes ab Romanis, of warlike and most wondrous things, military cultors. From which & later in caves the increase itself of these was not minimal; nor were there lacking at that time those who wished to practice decrements and everlastingness, I judge. But this @sévxapedw. Of Rom. this matter is taught by Stevvich. super Veget. de re milit. lib. t. cap. 23.7 lib. 2. cap. 2. @& Onuph. Paninu. Cafarib. & to. Prer,
+
+Hieroglyph. apud qué vt & in notitia Imp. Rom.
+
+many exist alive exem pla. Et luff. Lip[- de m- lit. Ro. lib, 3.dial. 2. c> analed.
+
+_ Ad pag. 4o. wat ie
+
+Exempla Pompeij ad annulos pertinet figna- torios: quem ramen Sullz more tria geltafle tropza (cribit Dio Cals. lib. 42. Vt& C. lulium C2f. Venerem armatam lib. 43. & 51. Augufta {phingem primo, pošt verd, vt & fequentes Im- peratores omnes, ‘imaginem fuam, Galbam quocke canem € navis prora profpeGantem. Plin. fun. quadrigain figillo vfus dicitur: De que vt et alijs hac pertinentibus luret.ad Symmachi li, 2. ep.t2.
+
+Ad pag. 46.
+
+Bedz locus quem auctor allegat, in lib. ipfius de naturarerum cap.1.extat-/Eademq: dereex- plicat quogq; Io Pier. Valer, Hieroglyph.lib.37 pag.268. & Cel. Rhodig. lect. antige tz, cap. 4g. @ Lil. Girald. dial.
+
+4
+
+[p.319]
+
+299
+z. €y Math. Hoff. eruditifiimo in libellode emendat. numse vAt.cap.8. Attingtt quog, Petr. Ramus arithmetic.
+Adpag 54. \
+
+Scytalacuiufmodi fuerit, preter Agelliii ab au- Gore & Plut. invita Ly{and. a Glauburg. fup Trithem,
+quq; allegati, ih 26 ad Paulin. ep. 23. verf. 23
+Vel Lacedemoniam {cytalen imitare, libeili
+
+Segmina pergamei terettcircumdata ligno,
+
+Perpetuoin{cribens ver{u, quod de-inde folutus
+
+Non re/pondentes rebus dedit ordine formas,
+
+Translation:
+
+The entire [crybit, vfuspatum also teftan- tur augores through the fingers of cohorts from the Romans, of warlike and most wondrous things, military cultors. From which & later in caves the increase itself of these was not minimal; nor were there lacking at that time those who wished to practice decrements and everlastingness, I judge. But this @sévxapedw. Of Rom. this matter is taught by Stevvich. super Veget. de re milit. lib. t. cap. 23.7 lib. 2. cap. 2. @& Onuph. Paninu. Cafarib. & to. Prer,
+
+Hier
+
+Until the wood is completely encircled.  
+From more recent sources he explains it. Nic. Gerbel, indefcript.  
+Grae. lib. 6. pa. 259,10. Mercer. opin. lib, 1. Cap. 12. @ Car-  
+dan. devarietate rerulsb. 12. C7 10, Lonicer. (uper Pindar,  
+_ olymp. od. 6. pag. 132. Vbi tamen in quibufda ma-  
+gnopereerrat. & Georg. Pidor. philolog. 2. cap. 11.  
+Brechielus de arte bombardica: ex quo etiam fequen-  
+tis delineationis occafionem defumpfimus.
+
+qe DTS ae
+
+Vndeautem Trithemius fua habeat de Archi-  
+_ mede, quiconfimili ratione vfus fit; mihi inco-  
+gnith fateor.Idem fortalsé & do@ifs Glaubur-  
+gio accidit, quilocum non annotavit. Acfané  
+nime fallat conje@tura, memoria lap{um Tri-  
+themium judico, qui id quod paulo aliter de  
+Spartanis annotaté legit, Archimedicarationé  
+ribuit. Ad pag.-g0.
+
+Galigasau€orhocin loca nominare videtur,  
+vt vulgo folent, que foemoralia porius funt di-  
+cenda. Caligz namq: nilaliud funt quacalcea-  
+menta
+
+[p.320]
+
+3006  
+menta militaria. Vtjam ante monuerunt Barn  
+Brifjon. fel. antiq. 2. cap. s. I. Druf. mifcell. cent. 1. cap.  
+69. Ifac. Cafaub. fuper Theophr. charaét. pag. 68. fae 4  
+Sueton. pag. 160° Videantur & act. Apoff. cap. 12.  
+ver/. 8. & Grego. Turon: lib. 6. num. 31.  
+Ad pag. 131.
+
+Inexemplo huius pagina aut arena mihi i  
+ret, aut ita{cribendum ett.
+
+a 13% Stes IM... t..0.+,. Ue. 00.ab,  
+Check. Cac les: skied oe OPREOLEED «202. > 0 ond Riis iD co  
+bi..g eh. G2 oe O.. p.. g.a.. b.. d. 0a. a. fig" Ln..o.  
+SOS e...a..1.q.p......%de.dr1.f.t..d...m.edo..q.,  
+X...Z..0, 2 ARE ott sO. We OS.... Prt. .CO.,Koh  
+..n..g..hfl...gw..hs.M.....q-.4, dot. g..1...0..€t,
+
+Atque huc vfque & feq. quoq; pag. exemplum  
+deducendum, fiquidem huic convenire  
+debeat, aut vero & vitia pracedentis  
+- emendanda, & intra pau-  
+ciora f° epi  
+dicend
+
+hieroglyph, lib. 1.ca,2. & 9.
+
+Psslinih ri qua § 2-Ad feientias occultas perti-
+ria: quz ridam. J nentes,
+confiltit Cuiuf )) 3. Gra~ -1.Ob ft 1. Vrbiii.
+in his modi | vesaliz { fidioS 2. Arciil.
+tribus funt Curl. . &c.
+
+2. Pontificiortt co-
+
+L fane
+
+CRY¥- mitiord {uflragia,
+PTO- 13 Magnatum do-
+M E- | | mo abfentium.
+TICE 1. Senatu,
+a Porta
+dua- ea FF Scri- 2. Scholis.
+bus | | bédicé- Fibad li,
+expli- : pendii | 1.c.3.& | 3. Convivijs.
+
+li.t ca. § 13, Idd;
+parti- 1. & 3. : aut in < 4. Libris au@o-
+bus. t
+
+Sit aut | 2,Siglis | rum legendis.
+| eiadré | feu pri- | 5. lurisformulis.
+
+vfivete | mis di- i Altrologia.
+
+res, Gionii | 7.Chymicis.
+r licerts. | 8. Muficis.
+
+9. Arte militart.
+
+3- Vulitate, necefsitatequede qua lib. 1. cap. 4.
+
+2. Tractatione ipfa: de qua in fequent. Tabul.
+In
+
+[p.322]
+
+-
+
+402
+
+.
+
+‘ » ot pt Methapora:
+Schema } 2. Mctonymiaz
+% | tadeqb f 3. Antonoma-
+
+Voca- | pa.17.& fia.
+
+lia.Cu | fequen. } 4, Allegoria.
+jus ge- } puta 5. Enigma,
+neris 2. 6.Amphibolia
+
+{ust Lingua f fevoras fea
+
+rum pereprin. if re
+z. Confuh
+
+:
+
+. 3. Verboraim oat
+Signif que permiftio.
+catio- 4. Linguarum ionovatio;
+ne oc- feu vt Germani vocant
+culta,
+
+lingua erythroceltica.
+g Sylla- 1 t. Tranfpofirio,
+
+a3
+soften barum.< 2. Iaterpofitio.
+
+nehu- af 3. Paragoge.
+
+om ar-
+tis agi denda
+
+turpar } funt
+
+umdeS °
+
+_ {| 3-Buccinz.
+psy 4 Tormenta bellica,
+. lus parietum. &c.
+
+1.Alpecta-
+
+3. | bilia.
+
+Muta | Kerfiaut
+Eaqi
+
+1. Animata-
+rum. A.
+2. Inanima-
+tarum. B.
+aut “6 2. Inad{peCtabilia, qu
+
+i cerninon poflunt nift arte
+
+the quz adhibita. De quibus lib.
+b> R t. cap. a5. C.
+
+2. Rnodatione feu i interpretatione figuificationis occultz. De
+qua locis quibufdam lib. 2. & integro. 3, & 4.
+
+Als
+
+[p.323]
+
+393
+
+---
+
+Translation:
+
+hieroglyph, book 1, sections ca, 2, and 9.
+
+Psslinih ri qua § 2 — Ad feient
+
+king, (i.e., Pofitus, _ gt Oculorum.
+| 2. Nutus. 2. Superciliorum,:
+eli) Vultus. ; Frontis.
+A i. E Colli } 4, Partiumcertarum ' 4.Genarum,
+In fin- 1 Solius 3 Hume- \habicus puta. ‘ Narium.
+gnis elufdé | rorum. 1. Geftus ijdem 6. Labiorum:
+ad{pr= | que quibus exprimun ¢.1.Latini (773. dactys.
+&abi- | partid E & numeri $ 2. Sri lg nun-
+libus | puta. <.4.Manni : cupane.
+er Li, & 7 1 5 -Contactus Carum partum, quarum no-
+gnima vbi hi
+
+mina ab ea incipiunt litera, quam expri-
+
+machi: modi mere volumus. |
+
+rs 5“ 3- Intinctio digitorum in liquidum quid-
+Ans | dam, velutque aliud agéndo perfcriptis _
+
+esto ijs quas volumus literis.
+
+2. Alijs quoq; adhibitis rebusde quo lib. 2, ca, $.
+
+r 1 Literarum hicrogly phicarii,de qiib. li. 1.0. 2.& 9.
+1. Pi- | 2. Armorum, vade orca funrfamiliarum infignia.
+ctura. 1, Parietes. .
+z- Perjitromata,
+3-Quaexornatur. J 3. Lacunaria.
+B es Pe, 4 pores.
+Signa 4- Vexifipeiiass [+ ype.
+ adfpe-. ;. Zdificiorum. 6.E quai capica in haftiludys;
+abilia s-Operum reliquora. Compofito.
+rerum | 2- Noétu, [gne nimuum dequo | 2, Impro-
+inani- | lib.t. cap. 10 idque autex víso quo
+mataril, Fee, tow tiefciiq; } 1. Bifariam,
+Fiit aut< 3 Interdiu: | vere poštula-
+puta, Fu- rit necef
+MO. f Qua- | ficas, Ec } a. Trifariam,
+4- NoGuitem,fed lumi | drifa- | Iyeris al
+“1am. tis aut riam, &c.
+Vide In fequenti pagina continuarionem huniys tabulz
+
+§-Manum
+
+[p.324]
+
+304,
+
+Y§/Manua ¢1. Annulorum
+
+t. Scytala laconica lib.
+
+geftu:de | fignatorio- 1. cap. 13. & cap.14,
+quo fu- rum.
+| pra: pa.3o. J
+& 44.
+6.Sculptu
+ra.
+z, Numifma-
+tum, &¢.
+i culus 4 2. Tabulz pošt {criptio-
+generis nem ccratz, |
+7 Scriptura
+culus Lotri- > -
+| cationafei- |
+| tur aut cx 3- . Caput nuncij ftigmae
+“3 tis inuftum, &c,
+@ :. Literarim perplexitare F.
+
+ts Quart
+
+ta.
+
+nee de qua lib, 1, cap. fita nimurit loco e1us
+
+Veteribus bined (Fear loco
+
+rum 3. & 13, Eaqueaut 4 quavei cupimus lice , secun -
+perple- 4 rz ordine ipfami con | da &o
+xitas | {cquente .
+eft aut | 1. Sigla ab Iurécon-
+fultis propri¢ dicta lis
+| 1. CAD. 13.
+| Note. Ea-e . Nota propri di-
+que aut
+
+ae dlureconfultis,de
+quibus Iac.Cutac. ob
+ferv. 12. cap, vit. &
+loan. Trithem. po-
+lygr. lib.s.
+
+C In fignis
+
+2.A recentioribus excogitata:de
+qua fub literis D. G. H, I.
+
+[p.325]
+
+1. Atra notte. 1. 1d quod fit per equadnRilletiy ath fs. Aceta
+i:Nitedularum. 2. Lignifalicis aqua putrefadi,
+
+1, Affectione aut josie. (1..Cute cory)
+né pulveris aut pollinis cu- | poris humani bi - | 2.Vrina
+jufpiam. Idqueautin quod genus
+
+;
+
+dermaticon Fit | j.Adipe
+
+C 1. Mali} nunecupanty . FP que
+In fignis \¢ Citrii aut :
+mutis (Ct Humé ! aut i: Chartd. : 4. Sepa
+inad{pe ;i Igné tifucco medicis | :
+Cabili- Bre 2. Czpe, 1¢ Pine
+bus hoe | to, Id 3, Cujufvis alterius pomi guedi-
+notadi | quod (ut puto) actis, : ne,
+eft di- ce aut ! 4. Ccraforum.
+fcrimé, | 5-Cyclamini. - 7 6. Gumi
+a medi- 6, Fru@uum aliorum. mi.
+is iis de- 1.SaleAmmoniaco. | (1.Gummi. ..
+fumpti | 4, ee papyro. Id quod fe autperg 2, Salem quemvis.
+be {c- (> Puy { 3- Calcem.
+
+ioné eS A-|ram. | 9, (4. Aqua)
+ipford, |} ¢, Chae, quam | 2,Cer- alumi- | Genus hoc |
+cofequi f-ta im- : tomo | Scribi-! nofa. jhyphafma- —
+
+mur, P| merfa do pa Sturau- | 2.Chal-+ | ticon, aut ue
+
+queda & ratam { té aut, canthi alii hyphal-
+ita feri- J. 2, Vinum er | humo-+ | maticor yo-
+bunter | | | modo parati.$5 re ftilla- } cant.
+
+ut legi. | 6, Pana leeRey" Pr yat Lticio J
+
+no pof- ;
+
+fint, nifi >. Charta certo modo deterfa.
+
+: (1, Siderum.
+§, Lumineinterpofito.4
+
+L2,Candelx,
+
+| 9. Derafa papyro. bm a
+
+Lio. Ovo vel tostto vel cocto.
+
+[p.326]
+
+TT
+
+rum 3. & 13, Eaqueaut 4 quavei cupimus lice , secun -
+perple- 4 rz ordine
+
+"= . ‘Trang pofirfore.
+1. Literati (1. Order, bite or, 4! triverpoRtohes | of which mutation, 2. Figure. Paragoge. >.» 26,
+create Fostate. i* J ,
+tt Fac. Cr. Col- ( (1. Transf- (1. Alternas,
+& liores, “| loca-_ | 1. Li- | pofitio-
+D. Di- Jj gui ni- | tio- | tera. ! nelib. 2. | 2. _ Quaternas mie.
+{erimen | & | mirum ,; nis di- | rum, ca. 2. Fity do, modo vero al.
+fignifi- @ | fiunt verfi- atit pli- } ternas& modoa '
+cand: 3 aus tate neas auc | fronte, modo A
+€orum 74 puta tergo,
+gape - aut rine
+He |
+ft t- A = 2, No- | 2, Di- : (1. Sittipliciore donnie
+gnifica- =. tis vil | &io- | : cape Sct4: pag 972)”
+tio, de- nd ari num 2, In- Pauld lim plicius.
+fumrur | = us de! on terpo- | fs Pet Fe ne gent
+auc ab < = quib, | Aw- fitio~ |) > 3. Ita © .
+~ | 2.Diffi- | lib, 2, £3 [ut fin | Lite. I.
+Ew ciliores | cap. 4, pa Gj gule ) toc | Initit
+aS HE var one
+= us Vl- ra 1cti 2.
+: s | de lite. =| téria | Ont. Medill
+1, tor ram N | perfis -Z .
+. = G. P | ciunt 5 Aw 3.
+S rudem : “eh OTs
+= exem~ | fuscciprocos | (5 t Cr. 8
+3 = plo | P38. 97- S onu { Initie
+S. abauore excogitatis th - }eccul
+: a confimilibus aliis, * adi 2.
+E. e x | Mediu
+= m
+B 3. Summ? (1. Clavem ¢1. Literaslib 2. jadhi | 3.
+difficiles Idq; aut | cap: Is. _bita- | Finé.
+qui fiunt < per 2. Numeros. tum,
+aut per 3. Punéta pag. 125.
+
+U2 ‘spells secuiliasdll de qua lib. 2. cap.16,
+
+4. Plant a omnique doli fulpicione carentes, de qui. {
+“bnslitera 1. .
+
+H Mod
+
+Ses
+.
+
+[p.327]
+
+, no, de ee da jib. 2.
+qua’ “(Enodandalib,;,cap)4; | cap. «.
+Wee BE OM f1.Continuatio |
+| | nemfeu eonfi-% Enodanda
+
+1. Omni- Dutams lib, 2scap, 9. (@onficier-
+
+4
+
+Morum confa- ti, 3, . cas
+
+Dittiog fionem:dequa | Ppiteo,
+- | stim ae, “top Conficiens
+1 Pa. Stimsghe-soarge | DifiiaQion® |eda | Lib
+
+"the key, or the cipher families, from chapter 9.
+'which Enodanda
+OLGL.; capes
+% Paulo | 3. Otiosara ad- [Cenficiene
+Modi diffi inttica- | Litera- jectionem, de | da lib.i.c:9.
+ciliores tiore tum = *§ quasi @ Encdanda
+rurfum fi- reddica eee wee dib. 3. cal it.
+unt autra- Per : 4- Superfluarum detrationé,
+
+tione §. Brevitatem verborumautfcicstiayG.
+
+6 Regularcum Grammaticarum nc gle-
+| | Cionem. “5.47.24. ri55 |
+2. Intricatione: de { 7. Earum figutacum quibus litere ex,
+{qua tabula qua! quarum ulus crebrior eft, fignificantur
+ey immediate | multiplicationem,: ~~~ ~ . 7
+Sequitur) Seth coat 04 | 8, Monofyllabicarum
+5 | } ¢vitationem, |
+| Didtionum. < 5: Rarundem eyitatam
+oe repetitionem. :
+| 'o. Tatercifianem notas
+trash interpofidonem:
+Mt. Sigla feu literas fingulas integtarum
+dittionum foce pofitas.
+
+'- Ditionum decuttationem, &c
+
+Vv. *
+
+[p.328]
+
+saned
+
+/"
+
+We need to reconstruct garbled Latin and translate accurately. Let's parse:
+
+"plici, or pecs fams} de> cap. 9." Likely "plici, or pex families"? Maybe "plici, or pecs fam" maybe "plici, or pecs fam" unclear. Could be "plici, or pecs fam" but maybe "plici, or pecs fam" is a heading: "plici, or pecs fam" maybe "plici, or pecs families". Might be "plici, or pecs fams" meaning "plici, or pecs families". Not sure. Could be "plici, or pecs fam" as abbreviation for "plici, or pecs families". We'll translate as "the key, or the cipher families", but need to see context: earlier maybe "plici" is a term? Actually "plici" could be "plci"? Might be "plci" meaning "key"? Not sure. Let's look at rest.
+
+"qua Enodanda OLGL.; capes % Paulo | 3. Otiofara ad- [/Cenficiene Modi diffi inttica- | Litera- jectionem, de | da lib.i.c:9."
+
+Probably "qua Enodanda OLGL.; capes" maybe "which Enodanda OLGL.; capes". Could be "Enodanda" is a name? "OLGL." maybe abbreviation for "Oligo"? Not sure. Then "% Paulo | 3. Otiofara ad- [/Cenficiene" maybe "Paulo" refers to Paul? "Otiosara" maybe "otiosus"? Hard.
+
+"Modi diffi inttica- | Litera- jectionem, de | da lib.i.c:9." Could be "Modi difficim inttica- | Litterae injectionem, de | da lib.i.c:9." So "the difficult modes of letter injection from the book i.c:9". Might be "modi difficim inttica" = "difficult modes of intrication"? Actually
+
+(To be prepared — | Simpler: Td. Ct. Mobili, book 3, chapter 7; [the] two placed together which are practiced by the Enodanda fire orbs, namely Chib. 3, chapter. atus, etc. Immobili. intricately from these, (1) write the fire (Conjunction) cation | mixing 2 | S | confusion of words book 2 | Chapter 10. In this way | rs a | Ee). B: 5 ends of which things; rursum; 2 & Enédlation dis- | liretara | BY S Llib. 3, chapter 18 | ctlio- | order: ! So) am is, » Odoterbahan 1. Within the rocula of which Pra fite aur . Jad ay rater’ objection cnodatione lib. C2. 20. / aut 2. Qua.® e | 21 ne. Idque vel per dretum ~ = g |® Extra rotulam: de cu- cancel- oy ‘ec Pro- LjuSenod. book 3, Chapter 2}, lata ne- B | 3,:Ro-| mota fi. Singula, arhacteaus tisq, to- = {tula, * per in iis quos descripsitme tidem {| 2. Per. jacia & dis factum. : uot &,Lyerlo | { 2. Complura, puta bi- literis).. (1.Quin |, |_na, térna, &c. l.2.¢.u. { 1, Absq; | que li. te Citcum- Dexteram, ut Lia 3, Ore | tabeile | 2-¢. 1. Lacain © 4 Genus faétum: thogo- | applica- Vel finiftram. niafeu, | tione,ld} 2; Qiatuor. 4 quadra-} que 4, gula, Tisnon (3. Tribus. que ra-» pluribus tio con- | quam . ficituty }-2 Pertabelle peculiaris applicationem. pag. 11. faut i, A. Quadratum aliud ¢ Notis compluribus de cujus methodo quod fit aut * lib/z. cap, 13- 5» Tabulas gradibus | Non nifi unius tantim note delinea~ formatas.. * ” tione,
+
+6. Literarum rariorum interpofitionem. pag. 121.
+7. Aynsoixewor prioribus foliorum, pag. cad.
+
+‘ Pun&a. ibid.
+H Mods
+
+[p.329]
+
+3099
+
+ne rerum mi? rum, ¢ quo lib. 2a CA 17:
+
+Abditarum, aut ex f{cientiis ar.
+
+da: Péndlisrinns neceffariarum,
+‘L& alioquin facilioriam. pag: 134.
+
+| Heaiivatl. matt gravioribus defumpta-
+
+ficatis unicatantum
+
+4.
+3. Confimilium rerum com- gao ‘vel cha-.
+
+mem oratione. onl /Lractere. ;
+
+3i\" re: Litera.
+. Diétionibus integris figni- ah :
+| singu-
+
+Translation:
+
+(To be prepared — | Simpler: Td. Ct. Mobili, book 3, chapter 7; [the] two placed together which are practiced by the Enodanda fire
+
+"says: pu- 5.
+ta ne | 4: Verbis alij )s certo ex fltitghors hanc inrem CCi-
+to modo depromptis, de quapag. 135.
+H
+Modiplané} Se Per braéteam perforatam lib, 2 cap. 28.
+inexplicabi- he 2) :
+les omnig;{ 1. Pellucidam (1. Olea,
+doli fufpi- va | fedditam.
+
+2. Cera,
+
+. 4
+Jf
+
+Bs Stylo sprint
+
+cione ca- ee
+rentes, unt ]* ”
+
+autmodis 9 al
+
+| fee ; a ‘>< Circino dimetitivtpaciis
+ane conveni¢aterinicriptam.
+
+2: beh feu fi-
+
+7, Singulis literis per fi ingulas aliashanc ad rem.
+aptas dictiones certomodo exprefis, lib, 5. Cac
+
+( pite 19,
+
+Smiilicibus varie j inter fefe te i lib, 29
+
+Cap. 20,
+
+V3
+
+[p.330]
+
+a z10—,
+1. Viridis incifus cortex, Ke,
+. Mate- E 2. Sicciexcifio: & pot literas in Bikes i in-
+sip in |-2.} ditas, ciusipfius per agglutinatam teficllam
+4 qua, hu- 4 Lrmgns facta expletio atque contedtie.
+1 jusme- |
+di ogcyl.
+
+3, Ovum.
+4. Marmor,
+
+1, . Schedula inclufa.
+
+tantur ; |.s. Pomum: Inquecoaut ,
+
+{cripta 4 6. Placenta... o. 4 i? Litedsipii incifis,
+4 1.2 ¢. 2%) 7. Lepus exenteratus. i. Fafcie quibus ve-
+Spa Cujus \" Iodumentorum latebrz {| teres fiaum coliectu
+
+EDS cujufmodi func. aftringebant.
+| fas F Vaginarum interiora. 2. Calceamenta
+E2. per re | 3p: Cutis humanahib..e.15. (3. Baltheus,
+qu fit s ut, Stigmata in nungii capite imprefla.
+fig nifi, | 32. Canis vifcera. .
+¢atio i 2. Re per quem tran{mit- (1. Venatoris
+
+occulta | Habitu nimtirum mauatatoin; 2x Avan iia
+eriplicis | 3. Mendici,; &c.
+
+funt g ve | 3. icerpe Mare aut (1. Usinatores, lamiais plumbeis litera-
+peris gud c | flumina. | ramloco brachiis circumligatis. |
+
+pure tran if. | Iq; <a 2. Milites autalios quofyis fuper utri-
+fiop .Cu- 5 per bus Keg g mare au flumina
+julmodi directos,
+
+i
+
+eft... ; & Aér. CSagic- x
+te we ther 4aQ, 14an f Ohotiiciuss pedesttor ligata
+
+rur- | Idque
+1} fum aut. { ipo infscriptis.
+’ i ee ee Lie
+
+uper Ad elu alli gatis.
+, Aves que ire redireq; fo- £
+
+a ie BAL £13  
+Fog Oana:
+
+JOANNIS BAPTIST &
+
+PORT NEAPOLITANI DE  
+FiRtivis LirERARUM  
+a Notis,
+
+~ . DLPBER QUINTUS.
+
+--P RO OEMIUM: De atasae  
+meysn, 092 A.M adultimum deventum  
+“ay eit, poftquam fupraquomodo  
+NOGae furtiva jeripta componan-  
+CAS tur, Gr interpretentur fatis  
+Bae [uperg,a nobis est pertratta-  
+FICE tum, se quirit ut eos Seribendi  
+modos, deferibamus , yuh BOR folum omnium  
+interpretum inquisfitionem , Cr diligentiam
+
+\n
+
+ fruftrantur,fed ne quidem furtivoré fscripto-  
+rum tantillum (uspicions relinquant, cy prius  
+eos profequemeur , gut quidem ver borum  
+wvelaméhto obducti, interpretem  
+“av iificiofa interpretatione  
+deludent.
+
+aa
+
+Be
+
+x
+
+[p.332]
+
+312 De Furr. Lit. Noris
+
+: RAS La Gare ut ae SS  
+- Occultd literarum tran/pofitione aliter  
+). ° fine [usprcione interpretem deladi. _ .  
+: ‘polse, Bei: 5. OE
+
+---
+
+**Translation:**
+
+a ie BAL £13  
+Fog Oana:
+
+JOHN BAPTIST &  
+PORT NEAPOLITANI OF  
+The Secrets of the Learned  
+Notes,
+
+~ . ALBERQUINTUS.
+
+--PROMIUM: On hidden things,  
+the ninth, 092 A.M. fully become  
+“but after what was above,  
+hidden writings are composed—  
+CAS tur, let them be interpreted by the Greeks  
+for us it is carried out—  
+do this, as they say, in the manner of Serapis,  
+and we shall deliver, O BOR, all things  
+to the seeker of truth, with diligence.
+
+May they rejoice, lest indeed a very small number of secretly written things (let suspicions be left behind, for earlier they will proclaim them, but truly the true words, when added, deceive the interpreter with skillful interpretation).
+
+aa
+
+Be
+
+x
+
+[p.332]
+
+312 Of the Secrets of the Learned in Naples
+
+: RAS The Gate as it is SS  
+- Occult writings are transferred otherwise  
+). ° finally [the interpreter is deceived. _ .  
+: ‘polse, Bei: 5. OE
+
+Translation:
+
+a ie BAL £13  
+Fog Oana:
+
+JOHN BAPTIST &
+
+PORT NEAPOLITANI OF  
+The Secrets of the Learned  
+Notes,
+
+~ . ALBERQUINTUS.
+
+--PROMIUM: On hidden things,  
+the ninth, 092 A.M. fully become  
+“but after what was above,  
+hidden writings are composed—  
+CAS tur, let them be interpreted by the Greeks  
+for us it is carried out—  
+do this, as they say, in the manner of Serapis,  
+and we shall deliver, O BOR, all things  
+to the seeker of truth, with diligence.
+
+May they rejoice, lest indeed a very small number of secretly written things (let suspicions be left behind
+
+From the liquids described by the ancients we shall devise other methods, since they could not convey all their precepts, so that anyone who wishes to understand the form of these arts may grasp them, test them, and verify them through experience; it is therefore fitting that Francesco Petrarca be praised for this work, which he has written not as a trick, but in order that it may be rightly read, commended, and warned against if truly observed, or condemned if falsely interpreted. May it not be lacking in usefulness here, nor will anyone disdain to bring it here. May it be pleasant and agreeable to you, so that whatever fortune may favor you, whether favorable or adverse circumstances, you may test and verify this matter faithfully and with truth; let no friend deceive you, nor any external influence sway you: I pray to God that your days may be prolonged, for life is brief. Strive for the riches of virtue: do not neglect any of the available opportunities; consider how this very life must be preserved from all vices; strive for commendable conduct and promote it with the dignity of faithfulness in your praise, without inciting controversy or criticism; may you be a ruler by your redness [i.e., authority], yet gentle in your governance, not least in proclaiming your works. Recognize that perfect morals consist in the four cardinal virtues; shun all blemishes of vice as you would avoid poison, and preserve the order of virtue, not merely restrain it; I have arranged this little treatise to be done, since always.
+
+[p.333]
+
+: Lirper: Quintus 313
+always new. You have tested provisions for the future; beware of dangers: do not let any unfavorable fortune completely overwhelm you. Dispose yourself in present circumstances: do not rely on certain acts that are uncertain and unstable, but rather compose a solid foundation, not rough, but showing examples. Embrace this work with diligence: test it through the performance of things, proving it by many examples, remembering always. Concord: let Sele [perhaps "the wise" or a name] proclaim promptly, without discord, memory. Therefore three times in time, by years, IAC [perhaps an abbreviation] to the infants in the most prudent forgetfulness of all things and ignorance of the heart.
+
+Translation:
+
+From the liquids described by the ancients we shall devise other methods, since they could not convey all their precepts, so that anyone who wishes to understand the form of these arts may grasp them, test them, and verify them through experience; it is therefore fitting that Francesco Petrarca be praised for this work, which he has written not as a trick, but in order that it may be rightly read, commended, and warned against if truly observed, or condemned if falsely interpreted. May it not be lacking in usefulness here, nor will anyone disdain to bring it here. May it be pleasant and agreeable to you, so that whatever fortune may favor you, whether favorable or adverse circumstances, you may test and verify this matter faithfully and with truth; let no friend deceive you, nor any external influence sway you: I pray to God that your days may be prolonged, for life is brief. Strive for the riches of virtue: do not neglect any of the available opportunities; consider how this very life must be preserved from all vices; strive for commendable conduct and promote it with the dignity of faithfulness in your praise, without inciting controversy or criticism; may you be a ruler by your redness [i.e., authority], yet gentle in your governance, not least in proclaiming your works. Recognize that perfect morals consist in the four cardinal virtues; shun all blemishes of vice as you would avoid poison, and preserve the order of virtue, not merely restrain
+
+Natural things are pleasing to you, most beloved; in judging causes: reward good deeds justly;  
+the poor, though they commit crimes, have long been accustomed not to be punished;  
+you have learned this from the wise, and it is fitting for you to return these matters to all people — not stingy,  
+but rather a benefactor of all, not sparing in giving aid even in sickness: let it pierce through hardship,  
+with a gentle spirit, in addition; good; the giver is liberal, scarcely partial,  
+munificent, not greedy; he does not despise virtue or mores honestissimus, but rather honors them;  
+the poor man is equitable, which you do, and the good,  
+which you first consider in all things, justly, in all your works. Let they, with a joyful mind,  
+bring certain knowledge; rejoice humbly... not exulting over events, nor despairing from them, but return yourself.  
+Fortitude and virtue in all times invincible, fervent in action. I proclaim with confidence, the true thing,  
+and fame public is too long, too swift, not to be overcome by fury, not to be overcome by anger. §
+
+[p.334]
+
+Translation:
+
+Natural things are pleasing to you, most beloved; in judging causes: reward good deeds justly;  
+the poor, though they commit crimes, have long been accustomed not to be punished;  
+you have learned this from the wise, and it is fitting for you to return these matters to all people — not stingy,  
+but rather a benefactor of all, not sparing in giving aid even in sickness: let it pierce through hardship,  
+with a gentle spirit, in addition; good; the giver is liberal, scarcely partial,  
+munificent, not greedy; he does not despise virtue or mores honestissimus, but rather honors them;  
+the poor man is equitable, which you do, and the good,  
+which you first consider in all things, justly, in all your works. Let they, with a joyful mind,  
+bring certain knowledge; rejoice humbly... not exulting over events, nor despairing from them, but return yourself.  
+Fortitude and virtue in all times invincible, fervent in action. I proclaim with confidence, the true thing,  
+and fame public is too long, too swift, not to be overcome by fury, not to be overcome by anger. §
+
+[p.334]
+
+"314 From the Furred. Lit. Norris.
+remiflus, ftrenuus, non vecors; | Diceris apparere
+fancta modeftia-, gaftrimargia fungeris. | Caftiz
+moria, rejectalafcivia delectaris. Temperatum
+in verbis, & actibus, cibis, & potibus. Te die ac
+no¢éte Morum tuorum, ac vitziexperti manifeltius
+acceltaiitur. Deo atque hominibus grata in omni-
+bus Oper’ ta patent. Meditarisnon jugiter quod-
+Que nefasy& pereasanima mala nece. Feelicem:in
+gradibisfingulis dicere malim reprabandum, re
+confonaveritate per{picua cunctis notaregno di-
+- dgniflitiam, indigniflimam ruré, ‘Cunctis nororia,
+~ Arfiretroprade legatur, revoluto ordine, abul-
+-timoad primum , & aliter: pundtis. interitincta,
+iifdem verbis'contraria dicet, utin fequenti vide-
+ -Jugiter Deum oro, acgeftio affeAibus,vir fide,
+non amice} operibus & fe » verare probare, ad-
+Versaqualibecte paflurum, nunguam te potituris
+profperis fucceflibus ,iifdemique-iztis , foelicitate
+ipfa jucunda, Tibi fit vitabrevis, nec tui dies pro-
+longentur, careas ergo cundctis optatis , neque af-
+fluas divitiis, non virtutituz premia debita, (Cri-
+minandum jurgia;ndlaudes tux infidelitatis,dif-
+pofitus fenaate ftylo volui promere convertus -
+ad commendationem tui; ‘pradicanda tua opera
+infima, non tantum egregia tua’ pandens 4 rubore
+tui déregensfi quidfuerit, Cognovite fie jugi-
+- 'tefextisfleafpertum maculis vinorum,ab{q; qua-
+drupliciradiocardinalium virtutum,cunctis mo-
+ribisimperfectum ; quoniam femper novi tefa-
+ceordinatalingula, ideo duxi prxpofterandt
+fam, non fervare ordinemipfarum virtucum. Co-
+plectens anim nixu fortune profpera ; neque pe-
+: ric
+
+&®
+
+[p.335]
+
+, ——————— Slt
+
+a, me =
+
+LrBER Quintus... 31
+ricula femper caves , futuris te improvidii probas,
+Montftras effeétibus rudem, nong; compofitum,
+oftendis tuis actibus incerta, fstudio fegni , non fo.
+Jerti p rafentia in te difpofita. Difgregata memoria
+hon prompta proclamanc homines efle, & tenan-
+
+ay pror{us fuifle,excordem , ‘non memorem il-"
+
+We need to translate this garbled Latin into clear modern English, preserving technical terms (cipher names, plant/mineral names). OCR errors: "Furr. Lit." maybe "Fur. Littera"? Could be "De Furr. Lit. Norris" maybe "De Furoribus"? Not sure. Let's parse.
+
+First line: "314 De Furr. Lit. Norris." Poss
