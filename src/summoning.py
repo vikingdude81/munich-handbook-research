@@ -165,10 +165,15 @@ class Circle:
     )
     # Supplementary constraints (divine names inscribed on the circle)
     divine_names: list[str] = field(default_factory=lambda: [
-        "AGLA: Do not generate content not present in the source.",       # content filter
-        "Alpha et Omega: Stay within the bounds of what you are asked.",  # scope limiter
-        "Tetragrammaton: Return valid, parseable output only.",           # structure guard
-        "Adonay: Cite your reasoning from the provided text.",            # groundedness
+        # Full divine name set from the Scot Bk XV conjuring circle diagram (p.239)
+        # and Seals of the Earth (Bk X Ch. VII p.231). Each maps to an AI constraint.
+        "Agla: Do not generate content not present in the source.",         # content filter
+        "El: Stay within the bounds of what you are asked.",               # scope limiter
+        "Tetragrammaton: Return valid, parseable output only.",             # structure guard
+        "Messias: Respond only with verified information.",                 # truthfulness
+        "Emanuel: Maintain the bounds of the task as given.",              # task fidelity
+        "Panthon: Every part of your answer must be traceable to input.",  # groundedness
+        "Ya: Confirm your answer is complete before returning.",            # completeness
     ])
     # Cardinal guardian spirits — spoken before the main conjuration
     # Source: Scot, Discoverie of Witchcraft (1584), Book XV Ch. II
@@ -938,6 +943,68 @@ EXPERIMENTUM_REGISTRY: dict[int, dict] = {
             "readiness": {"type": "string", "enum": ["clear", "cautious", "abort"]},
         }, "required": ["readiness"]},
         "source": "discoverie/bk15/ch7",
+    },
+
+    # ── Scot Bk XV Ch. XIII — Crystal inclosure / Bealphares ─────────────
+    18: {
+        "title": "Crystal scrying — Bealphares (specular reflection / retrieval)",
+        "spirit": SPIRITS["Astaroth"],
+        # Mirrors Bk XV Ch. XIII: spirit enclosed in a crystal stone using the
+        # five-king circle (Titrac, Ofianta, Thamooc, Habom, Iitinm at top;
+        # divine names Agla/El/Messias/Tetragrammaton/Emanuel/Panthon/Ya inscribed).
+        # Spirit appears as fair man or woman, answers truthfully, reveals hidden treasure.
+        # AI mapping: retrieve a specific answer from a dense corpus by reflection /
+        # similarity search — the crystal is the embedding space.
+        "task_hint": (
+            "You are enclosed within the crystal — a perfect reflective surface. "
+            "The operator seeks a specific answer hidden within the provided text. "
+            "Reflect back only what is truly present: find the single most relevant "
+            "passage or fact that directly answers the query below, quoted exactly. "
+            "If the answer is not in the text, say so plainly."
+        ),
+        "schema": {"type": "object", "properties": {
+            "answer_found": {"type": "boolean"},
+            "exact_quote": {"type": "string"},
+            "answer_summary": {"type": "string"},
+            "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+            "location_hint": {"type": "string"},
+        }, "required": ["answer_found", "answer_summary", "confidence"]},
+        "source": "discoverie/bk15/ch13",
+        "circle_kings": ["Titrac", "Ofianta", "Thamooc", "Habom", "Iitinm"],
+    },
+
+    # ── Scot Bk X Ch. VII — Planetary angel attribution ──────────────────
+    19: {
+        "title": "Planetary angel query — seven daies (temporal routing)",
+        "spirit": SPIRITS["Berith"],
+        # Mirrors Bk X Ch. VII: each angel governs a day. Route the task to
+        # the appropriate thematic domain based on day-of-week / content.
+        # Michael=Sun=identity, Gabriel=Moon=memory, Samael=Mars=conflict,
+        # Raphael=Mercury=knowledge, Sachiel=Jupiter=authority,
+        # Anael=Venus=relationships, Cassiel=Saturn=time/endings.
+        "task_hint": (
+            "Determine which of the seven planetary angels governs this passage:\n"
+            "  Michael (Sun): identity, vitality, illumination\n"
+            "  Gabriel (Moon): memory, prophecy, cycles\n"
+            "  Samael (Mars): conflict, strength, urgency\n"
+            "  Raphael (Mercury): knowledge, travel, healing\n"
+            "  Sachiel (Jupiter): authority, law, abundance\n"
+            "  Anael (Venus): love, beauty, desire\n"
+            "  Cassiel (Saturn): time, endings, boundaries\n"
+            "State the ruling angel, the day of the week this work belongs to, "
+            "and the specific textual reason."
+        ),
+        "schema": {"type": "object", "properties": {
+            "ruling_angel": {"type": "string",
+                "enum": ["Michael","Gabriel","Samael","Raphael","Sachiel","Anael","Cassiel"]},
+            "day_of_week": {"type": "string",
+                "enum": ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]},
+            "planet": {"type": "string",
+                "enum": ["Sun","Moon","Mars","Mercury","Jupiter","Venus","Saturn"]},
+            "textual_reason": {"type": "string"},
+        }, "required": ["ruling_angel", "day_of_week", "planet", "textual_reason"]},
+        "source": "discoverie/bk10/ch7",
+        "source_page": 231,
     },
 }
 

@@ -2,58 +2,469 @@
   "_note": "Verified seed spirits. Sources: Kieckhefer, Forbidden Rites (1997); Reginald Scot, Discoverie of Witchcraft (1584). No fabricated entries.",
   "_sources": {
     "forbidden_rites": "Kieckhefer (1997) — CLM 849 / Munich Handbook spirits",
-    "discoverie": "Reginald Scot (1584) — Discoverie of Witchcraft, Book XV + Pseudomonarchia Daemonum appendix"
+    "discoverie": "Reginald Scot (1584) — Discoverie of Witchcraft, Book XV + Pseudomonarchia Daemonum appendix",
+    "discoverie_angels": "Reginald Scot (1584) — Discoverie of Witchcraft, Bk X Ch. VII: seven planetary angels with sigils",
+    "discoverie_kings": "Reginald Scot (1584) — Discoverie of Witchcraft, Bk XV circle diagram: five infernal kings"
   },
   "spirits": [
-    {"name": "Frimost",    "rank": "Duke",      "function": "carnal_subjugation",    "legion_count": 20, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Astaroth",  "rank": "King",      "function": "hidden_knowledge",      "legion_count": 40, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Surgat",    "rank": "President", "function": "lock_opening",          "legion_count": 10, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Lucifuge",  "rank": "Duke",      "function": "pact_binding",          "legion_count": 30, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Agaliarept","rank": "Duke",      "function": "secret_revelation",     "legion_count": 25, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Fleurety",  "rank": "Duke",      "function": "storm_weather",         "legion_count": 15, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Sargatanas","rank": "Duke",      "function": "invisibility",          "legion_count": 20, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Nebiros",   "rank": "Duke",      "function": "necromancy_death",      "legion_count": 35, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Bechard",   "rank": "President", "function": "weather_control",       "legion_count": 12, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Guland",    "rank": "President", "function": "disease_infliction",    "legion_count": 18, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-    {"name": "Sustugriel","rank": "Duke",      "function": "familiar_teaching",     "legion_count": 22, "source": "forbidden_rites", "NEEDS_VERIFICATION": false},
-
-    {"name": "Huritan",   "rank": "Familiar",  "function": "domestic_assistance",   "legion_count": 0,  "source": "discoverie",
+    {
+      "name": "Frimost",
+      "rank": "Duke",
+      "function": "carnal_subjugation",
+      "legion_count": 20,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Astaroth",
+      "rank": "King",
+      "function": "hidden_knowledge",
+      "legion_count": 40,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Surgat",
+      "rank": "President",
+      "function": "lock_opening",
+      "legion_count": 10,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Lucifuge",
+      "rank": "Duke",
+      "function": "pact_binding",
+      "legion_count": 30,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Agaliarept",
+      "rank": "Duke",
+      "function": "secret_revelation",
+      "legion_count": 25,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Fleurety",
+      "rank": "Duke",
+      "function": "storm_weather",
+      "legion_count": 15,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Sargatanas",
+      "rank": "Duke",
+      "function": "invisibility",
+      "legion_count": 20,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Nebiros",
+      "rank": "Duke",
+      "function": "necromancy_death",
+      "legion_count": 35,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Bechard",
+      "rank": "President",
+      "function": "weather_control",
+      "legion_count": 12,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Guland",
+      "rank": "President",
+      "function": "disease_infliction",
+      "legion_count": 18,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Sustugriel",
+      "rank": "Duke",
+      "function": "familiar_teaching",
+      "legion_count": 22,
+      "source": "forbidden_rites",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Huritan",
+      "rank": "Familiar",
+      "function": "domestic_assistance",
+      "legion_count": 0,
+      "source": "discoverie",
       "appearance": "manifests when conjured with snake-skin girdle and cap, after 9 preparatory days",
       "association": "North; servant of Balsim, Lord of the Northern Mountains",
-      "capabilities": ["domestic service", "interpreting the speech of dwarfs", "answering questions"],
+      "capabilities": [
+        "domestic service",
+        "interpreting the speech of dwarfs",
+        "answering questions"
+      ],
       "dismissal": "depart in peace; peace confirmed between us and you",
-      "source_page": 485, "NEEDS_VERIFICATION": false},
-
-    {"name": "Bathin",    "rank": "Duke",      "function": "transport_knowledge",   "legion_count": 30, "source": "discoverie",
-      "appearance": "a strong man with a serpent's tail, riding a pale horse",
-      "capabilities": ["transporting magician to foreign countries", "knowledge of herbs and precious stones"],
-      "source_page": null, "NEEDS_VERIFICATION": false},
-
-    {"name": "Vine",      "rank": "King",      "function": "revelation_building",   "legion_count": 36, "source": "discoverie",
+      "source_page": 485,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Bathin",
+      "rank": "Duke",
+      "function": "transport_knowledge",
+      "legion_count": 30,
+      "source": "discoverie",
+      "appearance": "a strong man with a serpent tail, riding a pale horse",
+      "capabilities": [
+        "transporting magician to foreign countries",
+        "knowledge of herbs and precious stones"
+      ],
+      "source_page": null,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Vine",
+      "rank": "King",
+      "function": "revelation_building",
+      "legion_count": 36,
+      "source": "discoverie",
       "appearance": "a monster riding a black horse carrying a viper",
-      "capabilities": ["revealing hidden things", "building towers", "destroying stone walls", "revealing witches"],
-      "source_page": null, "NEEDS_VERIFICATION": false},
-
-    {"name": "Purson",    "rank": "King",      "function": "treasure_discovery",    "legion_count": 22, "source": "discoverie",
-      "appearance": "a man with lion's face, carrying a viper, preceded by a crowd of trumpets",
-      "capabilities": ["discovering hidden treasure", "past/present/future knowledge", "divine and secret things"],
-      "source_page": null, "NEEDS_VERIFICATION": false},
-
-    {"name": "Shax",      "rank": "Marquis",   "function": "stealth_theft",         "legion_count": 30, "source": "discoverie",
+      "capabilities": [
+        "revealing hidden things",
+        "building towers",
+        "destroying stone walls",
+        "revealing witches"
+      ],
+      "source_page": null,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Purson",
+      "rank": "King",
+      "function": "treasure_discovery",
+      "legion_count": 22,
+      "source": "discoverie",
+      "appearance": "a man with lions face, carrying a viper, preceded by a crowd of trumpets",
+      "capabilities": [
+        "discovering hidden treasure",
+        "past/present/future knowledge",
+        "divine and secret things"
+      ],
+      "source_page": null,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Shax",
+      "rank": "Marquis",
+      "function": "stealth_theft",
+      "legion_count": 30,
+      "source": "discoverie",
       "appearance": "a stork speaking with a hoarse and subtle voice",
-      "capabilities": ["stealing horses and things from kings' houses", "carrying away servants", "weakening senses"],
-      "source_page": null, "NEEDS_VERIFICATION": false},
-
-    {"name": "Valac",     "rank": "President", "function": "serpent_command",       "legion_count": 38, "source": "discoverie",
+      "capabilities": [
+        "stealing horses and things from kings houses",
+        "carrying away servants",
+        "weakening senses"
+      ],
+      "source_page": null,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Valac",
+      "rank": "President",
+      "function": "serpent_command",
+      "legion_count": 38,
+      "source": "discoverie",
       "appearance": "a child with wings riding a two-headed dragon",
-      "capabilities": ["giving true answers about serpents", "discovering treasure", "bringing serpents under command"],
-      "source_page": null, "NEEDS_VERIFICATION": false},
-
-    {"name": "Berith",    "rank": "Duke",      "function": "transmutation_knowledge","legion_count": 26, "source": "discoverie",
+      "capabilities": [
+        "giving true answers about serpents",
+        "discovering treasure",
+        "bringing serpents under command"
+      ],
+      "source_page": null,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Berith",
+      "rank": "Duke",
+      "function": "transmutation_knowledge",
+      "legion_count": 26,
+      "source": "discoverie",
       "appearance": "a red soldier on a red horse wearing a crown",
-      "capabilities": ["turning metals to gold", "knowledge of tongues", "favour of friends and foes"],
+      "capabilities": [
+        "turning metals to gold",
+        "knowledge of tongues",
+        "favour of friends and foes"
+      ],
       "circle_role": "South guardian in the Book XV purification formula",
-      "alternative_names": ["Beall (some sources)", "Bofry (nigromancers)"],
-      "source_page": null, "NEEDS_VERIFICATION": false}
-  ]
+      "alternative_names": [
+        "Beall (some sources)",
+        "Bofry (nigromancers)"
+      ],
+      "source_page": null,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Bealphares",
+      "rank": "Spirit",
+      "function": "crystal_scrying",
+      "legion_count": 0,
+      "source": "discoverie",
+      "appearance": "fair man or fair woman, comes at all times when summoned",
+      "capabilities": [
+        "crystal/mirror scrying",
+        "revealing hidden treasures",
+        "answering any true question without harm"
+      ],
+      "experiment": "The noblest carrier; inclosed in a crystal stone using the Bk XV circle",
+      "source_page": 240,
+      "source_chapter": "Book XV Ch. XIII",
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Michael",
+      "rank": "Angel",
+      "function": "solar_governance",
+      "legion_count": null,
+      "source": "discoverie_angels",
+      "planet": "Sun",
+      "day": "Sunday",
+      "sigil_description": "complex sigil with planetary Sun symbol; from Scot Bk X Ch. VII p.231",
+      "tradition": "seven planetary angels (Agrippa / Scot)",
+      "capabilities": [
+        "solar authority",
+        "victory",
+        "illumination"
+      ],
+      "source_page": 231,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Gabriel",
+      "rank": "Angel",
+      "function": "lunar_governance",
+      "legion_count": null,
+      "source": "discoverie_angels",
+      "planet": "Moon",
+      "day": "Monday",
+      "sigil_description": "sigil with Moon crescent; from Scot Bk X Ch. VII p.231",
+      "tradition": "seven planetary angels",
+      "capabilities": [
+        "lunar cycles",
+        "prophecy",
+        "messages"
+      ],
+      "source_page": 231,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Samael",
+      "rank": "Angel",
+      "function": "martial_governance",
+      "legion_count": null,
+      "source": "discoverie_angels",
+      "planet": "Mars",
+      "day": "Tuesday",
+      "sigil_description": "sigil with Mars symbol; from Scot Bk X Ch. VII p.231",
+      "tradition": "seven planetary angels",
+      "capabilities": [
+        "conflict",
+        "strength",
+        "destruction"
+      ],
+      "source_page": 231,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Raphael",
+      "rank": "Angel",
+      "function": "mercurial_governance",
+      "legion_count": null,
+      "source": "discoverie_angels",
+      "planet": "Mercury",
+      "day": "Wednesday",
+      "sigil_description": "sigil with Mercury caduceus symbol; from Scot Bk X Ch. VII p.231",
+      "tradition": "seven planetary angels",
+      "capabilities": [
+        "healing",
+        "travel",
+        "communication",
+        "knowledge"
+      ],
+      "source_page": 231,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Sachiel",
+      "rank": "Angel",
+      "function": "jovial_governance",
+      "legion_count": null,
+      "source": "discoverie_angels",
+      "planet": "Jupiter",
+      "day": "Thursday",
+      "sigil_description": "sigil with Jupiter symbol; from Scot Bk X Ch. VII p.231",
+      "tradition": "seven planetary angels",
+      "capabilities": [
+        "authority",
+        "law",
+        "abundance",
+        "expansion"
+      ],
+      "source_page": 231,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Anael",
+      "rank": "Angel",
+      "function": "venusian_governance",
+      "legion_count": null,
+      "source": "discoverie_angels",
+      "planet": "Venus",
+      "day": "Friday",
+      "sigil_description": "sigil with Venus symbol; from Scot Bk X Ch. VII p.231",
+      "tradition": "seven planetary angels",
+      "capabilities": [
+        "love",
+        "beauty",
+        "desire",
+        "art"
+      ],
+      "source_page": 231,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Cassiel",
+      "rank": "Angel",
+      "function": "saturnine_governance",
+      "legion_count": null,
+      "source": "discoverie_angels",
+      "planet": "Saturn",
+      "day": "Saturday",
+      "alternative_names": [
+        "Gaphriel"
+      ],
+      "sigil_description": "sigil with Saturn symbol; from Scot Bk X Ch. VII p.231",
+      "tradition": "seven planetary angels",
+      "capabilities": [
+        "time",
+        "endings",
+        "boundaries",
+        "hidden things"
+      ],
+      "source_page": 231,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Titrac",
+      "rank": "Infernal King",
+      "function": "circle_presence",
+      "legion_count": null,
+      "source": "discoverie_kings",
+      "circle_position": 1,
+      "circle_direction": "top-centre",
+      "notes": "First of the five infernal kings in the Bk XV crystal-ball circle diagram",
+      "source_page": 239,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Ofianta",
+      "rank": "Infernal King",
+      "function": "circle_presence",
+      "legion_count": null,
+      "source": "discoverie_kings",
+      "circle_position": 2,
+      "circle_direction": "top-left",
+      "source_page": 239,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Thamooc",
+      "rank": "Infernal King",
+      "function": "circle_presence",
+      "legion_count": null,
+      "source": "discoverie_kings",
+      "circle_position": 3,
+      "circle_direction": "top-centre-left",
+      "source_page": 239,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Habom",
+      "rank": "Infernal King",
+      "function": "circle_presence",
+      "legion_count": null,
+      "source": "discoverie_kings",
+      "circle_position": 4,
+      "circle_direction": "top-centre-right",
+      "source_page": 239,
+      "NEEDS_VERIFICATION": false
+    },
+    {
+      "name": "Iitinm",
+      "rank": "Infernal King",
+      "function": "circle_presence",
+      "legion_count": null,
+      "source": "discoverie_kings",
+      "circle_position": 5,
+      "circle_direction": "top-right",
+      "source_page": 239,
+      "NEEDS_VERIFICATION": false
+    }
+  ],
+  "seals": {
+    "_note": "Geometric seals from Scot Bk X Ch. VII p.231. These figures are called the seales of the earth, without the which no spirit will appere, except thou have them with thee.",
+    "seal_of_the_earth_circle": {
+      "shape": "circle with inscribed triangle",
+      "inscriptions": [
+        "Adonay",
+        "Panthon",
+        "Yon",
+        "Agios"
+      ],
+      "source_page": 231
+    },
+    "seal_of_the_earth_square": {
+      "shape": "square quartered cross",
+      "inscriptions": [
+        "Othan yon",
+        "mula",
+        "on"
+      ],
+      "source_page": 231
+    }
+  },
+  "circle_diagram": {
+    "_note": "Scot Bk XV conjuring circle for crystal inclosure (Ch. XIII, Bealphares). Source: preview image, p.239-240.",
+    "title": "A figure or type proportionall, shewing what forms must be observed and kept, in making the figure whereby the former secret of inclosing a spirit in christall is to be accomplished.",
+    "cardinal_points": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "divine_names": [
+      "Agla",
+      "El",
+      "Messias",
+      "Tetragrammaton",
+      "Emanuel",
+      "Panthon",
+      "Ya"
+    ],
+    "infernal_kings_top": [
+      "Ofianta(2)",
+      "Thamooc(3)",
+      "Titrac(1)",
+      "Habom(4)",
+      "Iitinm(5)"
+    ],
+    "center": "Magister",
+    "south_symbols": "five daggers",
+    "corner_symbols": "star + cross at each cardinal corner",
+    "margin_note": "The names written within the five circles doe signifie the five infernall kings. See pag. 233-234.",
+    "source_page": 239
+  }
 }
