@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses cryptographic methods involving character substitutions, numerical codes, and symbolic representations, referencing zodiac signs (diGionibus) as carriers of meaning and emphasizing the need for a 'Regula' to resolve ambiguity in decoding.",
+  "entities": [
+    {
+      "name": "TERTIVS",
+      "type": "person",
+      "description": "Named individual referenced in cipher context",
+      "page_ref": "p.247",
+      "quote": "fives TERTIVS."
+    },
+    {
+      "name": "diGionibus",
+      "type": "concept",
+      "description": "Zodiac signs used as symbolic or coded references in cryptographic analysis",
+      "page_ref": "p.250",
+      "quote": "many... will observe together with the diGionibus"
+    },
+    {
+      "name": "Regula",
+      "type": "concept",
+      "description": "A guiding rule for resolving ambiguity in cryptographic interpretation",
+      "page_ref": "p.250, p.251",
+      "quote": "let the Regula be followed"
+    },
+    {
+      "name": "X",
+      "type": "concept",
+      "description": "Symbolic or positional marker referenced in cryptographic construction",
+      "page_ref": "p.249",
+      "quote": "in hinemodam X"
+    },
+    {
+      "name": "A, B, Q; PF, DC",
+      "type": "concept",
+      "description": "Cipher characters or letter pairs used in cryptographic examples",
+      "page_ref": "p.250",
+      "quote": "and A, B, Q; PF, DC, & hui modi reliquz"
+    },
+    {
+      "name": "AGAAACNNXAMGAASYNAG",
+      "type": "cipher_method",
+      "description": "Example of a coded string or anagram-based cipher text",
+      "page_ref": "p.250",
+      "quote": "It is written thus. AGAAACNNXAMGAASYNAG"
+    },
+    {
+      "name": "micro-filtration",
+      "type": "concept",
+      "description": "Perceived method of hidden communication or detection",
+      "page_ref": "p.248",
+      "quote": "more certain an argument from micro-filtration being perceived"
+    },
+    {
+      "name": "liquid",
+      "type": "concept",
+      "description": "Symbolic term associated with 'two are numbered as twenty' in cryptographic logic",
+      "page_ref": "p.248",
+      "quote": "From these it is seen that two are numbered as twenty, liquid appears"
+    },
+    {
+      "name": "Y and Z",
+      "type": "concept",
+      "description": "Rarely occurring letters used in cryptographic conjunctions",
+      "page_ref": "p.248",
+      "quote": "of two letters Y and Z very rarely occurs"
+    },
+    {
+      "name": "Ocevir",
+      "type": "person",
+      "description": "Attributed author or source of the cited passage",
+      "page_ref": "p.249",
+      "quote": "From Ocevir. Lir. Nor."
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 13
+}

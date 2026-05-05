@@ -1,0 +1,45 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text describes a method of secret writing involving consultation, testing, and binding of a cipher or message, referencing divine will and personal resolve.",
+  "entities": [
+    {
+      "name": "praetexta",
+      "type": "cipher_method",
+      "description": "preparatory text used in the cipher process",
+      "page_ref": null,
+      "quote": "bring forth the praetexta"
+    },
+    {
+      "name": "divine will",
+      "type": "concept",
+      "description": "the motivating force behind the secret writing act",
+      "page_ref": null,
+      "quote": "I will hasten to reveal the divine"
+    },
+    {
+      "name": "friends",
+      "type": "person",
+      "description": "individuals for whom the cipher is intended or promised",
+      "page_ref": null,
+      "quote": "moved by the matter concerning friends; I have promised them"
+    },
+    {
+      "name": "exequatur",
+      "type": "device",
+      "description": "ritual authorization used in the process",
+      "page_ref": null,
+      "quote": "I summon the exequatur"
+    },
+    {
+      "name": "wine",
+      "type": "material",
+      "description": "substance used during nighttime ritual",
+      "page_ref": null,
+      "quote": "summon the exequatur, wine"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 9
+}

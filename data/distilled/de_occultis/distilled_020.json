@@ -1,0 +1,66 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text lists numerous names and terms related to secret writing, including cipher methods, materials, persons, concepts, devices, locations, and historical examples, with references to pages 422-435.",
+  "entities": [
+    {
+      "name": "Os",
+      "type": "cipher_method",
+      "description": "A cipher method referenced on page 422",
+      "page_ref": "p.422",
+      "quote": "i.e. Os [p.422]"
+    },
+    {
+      "name": "WNicoftra",
+      "type": "concept",
+      "description": "A term possibly representing a cipher or code",
+      "page_ref": null,
+      "quote": "WNicoftra = Fauftina Agata Filenia ."
+    },
+    {
+      "name": "Cleopatra",
+      "type": "person",
+      "description": "Historical figure mentioned in the list of names",
+      "page_ref": null,
+      "quote": "Cleopatra Alvina Olimpia |."
+    },
+    {
+      "name": "pigeon",
+      "type": "device",
+      "description": "Carrier method for secret writing, referenced in context of pigeons",
+      "page_ref": null,
+      "quote": "Nicoftra = Fauftina Agata Filenia ."
+    },
+    {
+      "name": "arrow",
+      "type": "device",
+      "description": "Carrier method for secret writing, referenced in context of arrows",
+      "page_ref": null,
+      "quote": "WNicoftra = Fauftina Agata Filenia ."
+    },
+    {
+      "name": "Furcht",
+      "type": "concept",
+      "description": "An occult or cryptographic concept mentioned in the text",
+      "page_ref": "p.423",
+      "quote": "DE Furr."
+    },
+    {
+      "name": "Octavia",
+      "type": "person",
+      "description": "Historical figure referenced among many names",
+      "page_ref": null,
+      "quote": "Octavia Prudentia Scolaftica Lacena Sylvia Onfale Phylli Polixena Stella Leucippe Zenobia Pellegrina Hermina Veronica."
+    },
+    {
+      "name": "Saffo",
+      "type": "person",
+      "description": "Historical poet referenced in the text",
+      "page_ref": "p.423",
+      "quote": "h Saffo I m Caleftine * a SE Pomponia :"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 20
+}

@@ -1,0 +1,73 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses various cipher methods, including letter transposition and hidden arrangements in lines, referencing historical figures like Palamedes and Simonides, and mentions the use of specific letters and numerical values in encoding.",
+  "entities": [
+    {
+      "name": "Palamedes",
+      "type": "person",
+      "description": "Named as a figure associated with cipher methods",
+      "page_ref": "Book X Ch Y",
+      "quote": "Palamedes"
+    },
+    {
+      "name": "Simonides Melici",
+      "type": "person",
+      "description": "Mentioned alongside Palamedes in relation to cipher examples",
+      "page_ref": "Book X Ch Y",
+      "quote": "Simonides Melici"
+    },
+    {
+      "name": "Tyrian letter",
+      "type": "concept",
+      "description": "Referred to as a component in cipher transformation",
+      "page_ref": "p.92",
+      "quote": "if the Tyrian letter"
+    },
+    {
+      "name": "letter transposition",
+      "type": "cipher_method",
+      "description": "Described as a mode of hidden writing where letters are rearranged in order",
+      "page_ref": "p.93",
+      "quote": "That through letter transposition hidden [ciphering] is possible."
+    },
+    {
+      "name": "duplex ratio",
+      "type": "concept",
+      "description": "A method involving alternating placement of letters in upper and lower lines",
+      "page_ref": "p.94",
+      "quote": "The duplex ratio of this kind is: the other is, which if one carefully considers..."
+    },
+    {
+      "name": "Batie",
+      "type": "cipher_method",
+      "description": "Identified as the first mode of ratio in the described cipher system",
+      "page_ref": "p.94",
+      "quote": "The first mode of ratio here is Batie."
+    },
+    {
+      "name": "hidden genera",
+      "type": "concept",
+      "description": "Main types of ciphers from which many species derive due to varied composition and arrangement",
+      "page_ref": "p.93",
+      "quote": "These are the main hidden (ciphering) genera, truly from them many species emanate"
+    },
+    {
+      "name": "numerical values",
+      "type": "concept",
+      "description": "Used in cipher transformation, such as 'four', 'decem', and 'vigintinum'",
+      "page_ref": "p.92",
+      "quote": "Palamedes four, decem, posthunc"
+    },
+    {
+      "name": "cipher examples",
+      "type": "concept",
+      "description": "Provided as practical instances of encoded messages using described methods",
+      "page_ref": "p.94",
+      "quote": "These verses are first submitted to our cipher examples."
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 5
+}

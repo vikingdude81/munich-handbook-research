@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses symbolic interpretations in cryptographic and occult practices, referencing Egyptian symbolism, allegorical figures like the phoenix and scarab beetle, and methods of concealing knowledge through indirect references and natural symbols.",
+  "entities": [
+    {
+      "name": "Egypt",
+      "type": "location",
+      "description": "Geographical region referenced in symbolic context",
+      "page_ref": "p.59",
+      "quote": "thus Egypt"
+    },
+    {
+      "name": "phoenix",
+      "type": "concept",
+      "description": "Symbolic creature representing concealed knowledge and transformation",
+      "page_ref": "p.60",
+      "quote": "they will designate the phoenix as a creature of various kinds"
+    },
+    {
+      "name": "scarab beetle",
+      "type": "concept",
+      "description": "Symbolic animal associated with Egyptian matters and hidden meanings",
+      "page_ref": "p.60",
+      "quote": "such as the scarab beetle and other animals"
+    },
+    {
+      "name": "Apollonius",
+      "type": "person",
+      "description": "Author of a book on Egyptian rites and mysteries",
+      "page_ref": "p.60",
+      "quote": "the book of Apollonius on Egyptian rites and mysteries"
+    },
+    {
+      "name": "Valerian",
+      "type": "person",
+      "description": "Commentator on Apollonius's work regarding Egyptian mysteries",
+      "page_ref": "p.60",
+      "quote": "Valerian's commentary on this same argument has been published"
+    },
+    {
+      "name": "Tettij",
+      "type": "person",
+      "description": "Author of demonological commentaries discussing allegories and parables",
+      "page_ref": "p.60",
+      "quote": "the demonological commentaries of Tettij"
+    },
+    {
+      "name": "Minotaur",
+      "type": "concept",
+      "description": "Allegorical figure used to represent complex symbolic structures and concealment",
+      "page_ref": "p.61",
+      "quote": "to depict the Minotaur"
+    },
+    {
+      "name": "dolphin",
+      "type": "device",
+      "description": "Symbolic creature associated with anchoring and delayed action in cryptographic metaphor",
+      "page_ref": "p.61",
+      "quote": "the firmness of the dolphin's anchor"
+    },
+    {
+      "name": "anchor",
+      "type": "material",
+      "description": "Physical object symbolizing delay and restraint in cryptographic timing",
+      "page_ref": "p.61",
+      "quote": "by holding back from the adversary with an anchor, delay is intimately stirred up"
+    },
+    {
+      "name": "cicadae",
+      "type": "concept",
+      "description": "Symbolic reference in kings' scepters related to concealment and birth symbolism",
+      "page_ref": "p.59",
+      "quote": "as in the kings' scepters above the cicadae"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 3
+}

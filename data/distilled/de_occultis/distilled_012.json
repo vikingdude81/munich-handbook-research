@@ -1,0 +1,73 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses methods for extracting letters from words using ciphers, emphasizing that consonants can be repeated or joined to conceal meaning, and mentions geminated letters and positional rules in decoding.",
+  "entities": [
+    {
+      "name": "geminate letters",
+      "type": "cipher_method",
+      "description": "Letters repeated to obscure distinction",
+      "page_ref": "p.230",
+      "quote": "preferring geminate letters, which must be placed by indication"
+    },
+    {
+      "name": "consonants",
+      "type": "concept",
+      "description": "Can be produced through repetition or conjunction at word ends and middles",
+      "page_ref": "p.231",
+      "quote": "they can be produced in two ways: through repetition and through a greater conjunction"
+    },
+    {
+      "name": "vowels",
+      "type": "concept",
+      "description": "Must be confirmed by rules before assignment; separated from consonants",
+      "page_ref": "p.231",
+      "quote": "do not assign vowels unless all the rules concerning them have been confirmed"
+    },
+    {
+      "name": "scripta verbum",
+      "type": "cipher_method",
+      "description": "A method involving scripta (letters) and word meaning to discern knowledge",
+      "page_ref": "p.231",
+      "quote": "from that same matter or something else (scripti verbum po[sit] intelligi)"
+    },
+    {
+      "name": "war",
+      "type": "concept",
+      "description": "Context in which epistle origin can be inferred for cipher decoding",
+      "page_ref": "p.231",
+      "quote": "one can infer from war about which epistle or during the time of war"
+    },
+    {
+      "name": "De Occvrr. Lit. Nor.",
+      "type": "location",
+      "description": "Recipient or reference point in address; possibly a cipher key or title",
+      "page_ref": "p.230, p.231",
+      "quote": "to De Occvrr. Lit. Nor."
+    },
+    {
+      "name": "DiGiones",
+      "type": "concept",
+      "description": "Tables referenced for letter presence and arrangement",
+      "page_ref": "p.233",
+      "quote": "as in the tables of DiGiones one sees all the letters to be present"
+    },
+    {
+      "name": "X",
+      "type": "concept",
+      "description": "Rare letter considered for addition in cipher analysis",
+      "page_ref": "p.233",
+      "quote": "either H, or Q, or X, or Z... so that from three places in DiGionibus it becomes"
+    },
+    {
+      "name": "potency variation",
+      "type": "concept",
+      "description": "Individual letters vary in power; repetition affects visibility",
+      "page_ref": "p.232",
+      "quote": "the powers of individual letters can differ... its repetition will be observed"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 12
+}

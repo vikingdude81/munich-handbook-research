@@ -1,0 +1,66 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses cryptographic signs and methods, noting that certain marks are difficult to read but essential for important matters; it references historical examples involving figures like Perfars and Timoxenus, and mentions the use of coded letters and symbols in military and secret correspondence.",
+  "entities": [
+    {
+      "name": "Perfars",
+      "type": "person",
+      "description": "Individual involved in cryptographic communication; mentioned as a correspondent who responded to messages.",
+      "page_ref": null,
+      "quote": "Perfars responded as follows"
+    },
+    {
+      "name": "Timoxenus of Sicily",
+      "type": "historical_example",
+      "description": "Person whose case is cited as an example of a cryptographic or coded incident.",
+      "page_ref": null,
+      "quote": "Example almost happened to Timoxenus of Sicily"
+    },
+    {
+      "name": "cipher_method",
+      "type": "concept",
+      "description": "Use of concealed letters and symbols for secret communication, avoiding detection.",
+      "page_ref": null,
+      "quote": "letters, not those which were designated, should be intercepted"
+    },
+    {
+      "name": "military_notes",
+      "type": "device",
+      "description": "Coded marks used in military contexts to convey information securely.",
+      "page_ref": null,
+      "quote": "militum norinacontinebantur, propriz erant"
+    },
+    {
+      "name": "Hermes Artaphernes",
+      "type": "person",
+      "description": "Recipient of a cryptographic tablet; associated with secret correspondence.",
+      "page_ref": null,
+      "quote": "dedicate a careful tablet to Hermes Artaphernes"
+    },
+    {
+      "name": "Sardis",
+      "type": "location",
+      "description": "Location where Histiaeus went, involved in the described events.",
+      "page_ref": null,
+      "quote": "Histiaeus ... went to Perfars, who were staying among the Sardis"
+    },
+    {
+      "name": "rebellion_examples",
+      "type": "concept",
+      "description": "Cryptographic or coded references to acts of rebellion used as illustrative examples.",
+      "page_ref": null,
+      "quote": "1. Examples of rebellion."
+    },
+    {
+      "name": "letter_interception",
+      "type": "device",
+      "description": "The act of intercepting coded letters, indicating a cryptographic countermeasure.",
+      "page_ref": null,
+      "quote": "the letters ... should be intercepted"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 1
+}

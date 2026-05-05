@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses methods of encoding letters and arranging figures in tables for cryptographic purposes, referencing the use of consonant and vowel groupings, numerical divisions, and tabular structures to represent letters and their combinations.",
+  "entities": [
+    {
+      "name": "cipher_method",
+      "type": "cipher_method",
+      "description": "Letter arrangement based on consonant-vowel similarity and numerical division in tables",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "the same figure could be arranged in many ways to indicate the connection of the stars"
+    },
+    {
+      "name": "tabular_structure",
+      "type": "concept",
+      "description": "Tables used to organize letters and figures for cryptographic encoding",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "In the cni* table two bina-rum diGjonum tables are proposed"
+    },
+    {
+      "name": "consonant_vowel_similarity",
+      "type": "concept",
+      "description": "Grouping of similar consonants and vowels for cipher construction",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "Consonants and similar vowels. ~_ bibi momo toro coco."
+    },
+    {
+      "name": "numerical_division",
+      "type": "concept",
+      "description": "Division of letters into parts based on numerical values (e.g., first, third, fifth)",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "Prima, ter. & quar. voc. fec. & quar.confi"
+    },
+    {
+      "name": "letter_combination",
+      "type": "concept",
+      "description": "Use of combined letters to represent other letters or concepts",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "the swift runner of their use among all letter combinations was born"
+    },
+    {
+      "name": "star_connection",
+      "type": "concept",
+      "description": "Linking letters to celestial bodies for astrological cryptographic meaning",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "to indicate the connection of the stars"
+    },
+    {
+      "name": "large_volume_requirement",
+      "type": "concept",
+      "description": "Complex arrangements require extensive written material",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "this work would require a very large volume to be created"
+    },
+    {
+      "name": "omission_recommendation",
+      "type": "concept",
+      "description": "The text suggests omitting certain complex methods due to low utility",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "Therefore, this matter is more to be omitted than to approach it with difficulty"
+    },
+    {
+      "name": "bina-rum_diGjonum_tables",
+      "type": "cipher_method",
+      "description": "Binary tables used in cryptographic figure arrangement",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "two bina-rum diGjonum tables are proposed"
+    },
+    {
+      "name": "figure_positioning",
+      "type": "concept",
+      "description": "Arrangement of figures based on their position in sequential tables",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "from the position of the two kinds of figures at the beginning of each subsequent one no one is placed among three divisions"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 15
+}

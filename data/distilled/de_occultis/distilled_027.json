@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses cryptographic methods, including cipher tables and planetary associations, with instructions for encoding using doubled letters and numerical systems.",
+  "entities": [
+    {
+      "name": "alphabet",
+      "type": "concept",
+      "description": "Used in cipher systems with specific letter assignments and doubling rules",
+      "page_ref": "p.663",
+      "quote": "the alphabet may be used by any sign or planet"
+    },
+    {
+      "name": "doubled letters",
+      "type": "concept",
+      "description": "Each letter should be doubled to prevent misreading and false strikes",
+      "page_ref": "p.663",
+      "quote": "each letter may be doubled, lest it be read falsely"
+    },
+    {
+      "name": "19 letters",
+      "type": "concept",
+      "description": "Recommended alphabet size to avoid duplication and confusion",
+      "page_ref": "p.663",
+      "quote": "I wish the alphabet to consist of 19 letters, not duplicating 18"
+    },
+    {
+      "name": "planetary characters",
+      "type": "concept",
+      "description": "Linked to cipher systems and numbered signs for cryptographic use",
+      "page_ref": "p.663",
+      "quote": "tablets marked with numbers {cryptic @ signs or planetary characters}"
+    },
+    {
+      "name": "chemical analysis table",
+      "type": "concept",
+      "description": "A fixed table for varied reading, referenced on folio 60",
+      "page_ref": "p.659",
+      "quote": "See Table, folio 60"
+    },
+    {
+      "name": "twelve signs",
+      "type": "concept",
+      "description": "Assigned numbers in cipher systems, possibly zodiac-related",
+      "page_ref": "p.663",
+      "quote": "We assign numbers to the twelve signs."
+    },
+    {
+      "name": "Polydora",
+      "type": "person",
+      "description": "Cited author of prior cryptographic work",
+      "page_ref": "p.663",
+      "quote": "Outside the cryptography of Polydora"
+    },
+    {
+      "name": "furnace",
+      "type": "concept",
+      "description": "Metaphorical location for cryptographic 'work' or transformation",
+      "page_ref": "p.663",
+      "quote": "we have driven into the furnace in which"
+    },
+    {
+      "name": "wandering iron",
+      "type": "concept",
+      "description": "Symbolic element concluding the cryptographic process",
+      "page_ref": "p.663",
+      "quote": "concluding with the wandering iron"
+    },
+    {
+      "name": "tablets marked with numbers",
+      "type": "device",
+      "description": "Physical carriers for cryptographic symbols and planetary characters",
+      "page_ref": "p.663",
+      "quote": "tablets marked with numbers {cryptic @ signs or planetary characters}"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 27
+}

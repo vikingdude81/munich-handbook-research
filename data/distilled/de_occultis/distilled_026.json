@@ -1,0 +1,24 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The passage discusses various methods of secret writing, including ciphers based on letters, musical notes, and astrological or chemical symbolism, as well as the use of materials like oil, marble, and plants. It references numerous historical figures and texts, indicating a blend of occult, linguistic, and cryptographic knowledge.",
+  "entities": [
+    {
+      "name": "cipher wheel",
+      "type": "device",
+      "description": "A rotating device used for encoding messages, referenced with page number 547.",
+      "page_ref": "Book X Ch Y (not specified)",
+      "quote": "thread from the cipher wheel"
+    },
+    {
+      "name": "ligni occulte",
+      "type": "material",
+      "description": "Hidden or secret writing material, possibly wood-based, mentioned on page 552.",
+      "page_ref": "Book X Ch Y (not specified)",
+      "quote": "ligno occulte"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 26
+}

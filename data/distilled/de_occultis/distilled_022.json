@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text contains fragmented references to cipher methods, materials, persons, locations, and devices used in secret writing, with some encoded examples and chapter references.",
+  "entities": [
+    {
+      "name": "Stralam",
+      "type": "cipher_method",
+      "description": "A cipher method mentioned at the start of the text.",
+      "page_ref": null,
+      "quote": "Stralam"
+    },
+    {
+      "name": "tErser Quinrus",
+      "type": "person",
+      "description": "A named individual possibly involved in cryptographic practice.",
+      "page_ref": null,
+      "quote": "tErser Quinrus"
+    },
+    {
+      "name": "Rena",
+      "type": "concept",
+      "description": "Possibly refers to a cipher or symbolic system (e.g., Rhenish cipher).",
+      "page_ref": null,
+      "quote": "Rena"
+    },
+    {
+      "name": "Lisboa",
+      "type": "location",
+      "description": "A city listed among other locations, possibly used as a code or reference.",
+      "page_ref": null,
+      "quote": "Lisbona"
+    },
+    {
+      "name": "Machinia",
+      "type": "device",
+      "description": "Possibly refers to a cipher device or mechanism (e.g., 'machina' in cryptographic context).",
+      "page_ref": null,
+      "quote": "Machinia"
+    },
+    {
+      "name": "Canufia",
+      "type": "material",
+      "description": "Likely refers to papyrus, a material used for writing and hidden messages.",
+      "page_ref": null,
+      "quote": "Canufia"
+    },
+    {
+      "name": "Vigefimo",
+      "type": "cipher_method",
+      "description": "A complex cipher method referenced with numerical sequences (pp. 510–518).",
+      "page_ref": "Book X Ch Y (implied via page numbers)",
+      "quote": "Vigefimo octa- r 1200 uty yf Ix 7: é"
+    },
+    {
+      "name": "Lister Quintus",
+      "type": "person",
+      "description": "A named individual, possibly a cryptographer or subject of a cipher example.",
+      "page_ref": null,
+      "quote": "Lister Quintus."
+    },
+    {
+      "name": "Conflatinopoli",
+      "type": "location",
+      "description": "An invented or variant location name, likely used in coded references.",
+      "page_ref": null,
+      "quote": "Conflatinopoli"
+    },
+    {
+      "name": "Decimorertioi",
+      "type": "cipher_method",
+      "description": "A cipher method referenced with numerical codes (p. 514).",
+      "page_ref": "Book X Ch Y (implied via page numbers)",
+      "quote": "b Decimorertioi b 69."
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 22
+}

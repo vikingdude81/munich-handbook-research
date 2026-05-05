@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text describes cryptographic methods involving coded letters and tables, referencing a cipher key based on alphabetical order and specific letter substitutions. It includes an example using the phrase 'BELLA FORTISSIME GESTA SVNT' and mentions symbolic associations with mythological figures.",
+  "entities": [
+    {
+      "name": "Alphabet-based cipher",
+      "type": "cipher_method",
+      "description": "Cipher using letter position and substitution within an alphabet structure",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "\"primum clavis prima litera in quo queratur alphabeto\""
+    },
+    {
+      "name": "Tabula (table)",
+      "type": "device",
+      "description": "A table used to encode and decode messages via letter positioning and pairing",
+      "page_ref": "p.156",
+      "quote": "\"Hec quo magisab ho minum cognitione remota fuerint: tutiorem cryptocautionem przsttabunt\""
+    },
+    {
+      "name": "Bella Fortissime Gesta Sunt",
+      "type": "historical_example",
+      "description": "Example plaintext phrase used to demonstrate encryption method",
+      "page_ref": "p.154",
+      "quote": "\"BELLA FORTISSIME GESTA SVNT\""
+    },
+    {
+      "name": "Apollo",
+      "type": "person",
+      "description": "Mythological figure invoked as 'the King' in cryptographic analogy",
+      "page_ref": "p.157",
+      "quote": "\"I will call Apollo the King\""
+    },
+    {
+      "name": "Scorpius",
+      "type": "person",
+      "description": "Mythological figure referenced as 'the Scorpion' in cryptographic context",
+      "page_ref": "p.157",
+      "quote": "\"Scorpius the Scorpion\""
+    },
+    {
+      "name": "Muses",
+      "type": "concept",
+      "description": "Nine Muses referenced symbolically in cryptographic illustration",
+      "page_ref": "p.158",
+      "quote": "\"tactfully nine Muses, who hang from hooks\""
+    },
+    {
+      "name": "Cryptic epistle",
+      "type": "concept",
+      "description": "Encrypted message whose meaning is hidden and requires deciphering through methodical analysis",
+      "page_ref": "p.157",
+      "quote": "\"a cryptic epistle, if anyone finds it, with words understood\""
+    },
+    {
+      "name": "Letter substitution",
+      "type": "cipher_method",
+      "description": "Technique where letters are replaced by other characters or symbols based on positional rules",
+      "page_ref": "p.156",
+      "quote": "\"the first cipher letter, which is B\""
+    },
+    {
+      "name": "Hidden message extraction",
+      "type": "concept",
+      "description": "Process of revealing concealed meaning from text using structural and alphabetical clues",
+      "page_ref": "p.156",
+      "quote": "\"the entire hidden cryptogram will be extracted from the open\""
+    },
+    {
+      "name": "Symbolic associations (e.g., Apollo, Scorpius)",
+      "type": "concept",
+      "description": "Use of mythological figures to represent abstract or coded concepts in cipher construction",
+      "page_ref": "p.157-158",
+      "quote": "\"I will call Apollo the King, Scorpius the Scorpion\""
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 8
+}

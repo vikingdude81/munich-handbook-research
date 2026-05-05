@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The passage describes methods for creating invisible ink using natural substances such as egg whites, alum, and gall nuts, applied to paper or wood, with instructions on rendering the writing visible through chemical treatment.",
+  "entities": [
+    {
+      "name": "egg white",
+      "type": "material",
+      "description": "used as a carrier for invisible ink that becomes visible when treated with chemicals",
+      "page_ref": null,
+      "quote": "the thin membrane is formed, and when mixed with albumen, it forms a soft substance from itself"
+    },
+    {
+      "name": "alum",
+      "type": "material",
+      "description": "combined with gall nuts to create an impermeable ink that can be revealed by heat or chemical exposure",
+      "page_ref": null,
+      "quote": "gall nuts crushed with alum, from which... almost impermeable substances arise"
+    },
+    {
+      "name": "gall nuts",
+      "type": "material",
+      "description": "source of tannic acid used in invisible ink formulations",
+      "page_ref": null,
+      "quote": "gall nuts crushed with alum, from which... almost impermeable substances arise"
+    },
+    {
+      "name": "vinegar",
+      "type": "material",
+      "description": "used to treat the ink or paper to reveal hidden writing",
+      "page_ref": null,
+      "quote": "when mixed with vinegar it becomes tender, through them penetrating"
+    },
+    {
+      "name": "paper",
+      "type": "device",
+      "description": "surface on which invisible ink is applied and later revealed",
+      "page_ref": null,
+      "quote": "the egg white... imprints on the egg white; this, when immersed in cold water and dried, reduces to its original form"
+    },
+    {
+      "name": "wood",
+      "type": "device",
+      "description": "alternative surface for applying invisible ink using similar chemical methods",
+      "page_ref": null,
+      "quote": "penetrate very hard wood, the depth of the characters of the woodcutters' tools"
+    },
+    {
+      "name": "Hittieus",
+      "type": "person",
+      "description": "named individual referenced in relation to making indelible letters on the head",
+      "page_ref": null,
+      "quote": "how Hittieus poterat capiti literas indelebiles facere"
+    },
+    {
+      "name": "Capuchin friar",
+      "type": "person",
+      "description": "mentioned as a possible source of secret messages via bodily excretions, though likely garbled text",
+      "page_ref": null,
+      "quote": "the natural philosopher's stone... the nuncius... capiti literas indelebiles"
+    },
+    {
+      "name": "invisible ink",
+      "type": "concept",
+      "description": "secret writing that is not visible to the naked eye and requires chemical treatment to reveal",
+      "page_ref": null,
+      "quote": "the thin membrane... become visible with great clarity"
+    },
+    {
+      "name": "chemical revelation",
+      "type": "concept",
+      "description": "process of using substances like alum, vinegar, or heat to make invisible ink visible",
+      "page_ref": null,
+      "quote": "when mixed with albumen... imprints on the egg white; this, when immersed in cold water and dried..."
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 24
+}

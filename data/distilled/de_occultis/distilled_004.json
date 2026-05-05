@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text describes ancient methods of secret writing, including wax tablets and iron gall ink techniques, referencing historical figures like Xerxes' messengers, Spartan practices, and Roman grammarians such as Cicero and Probus.",
+  "entities": [
+    {
+      "name": "wax tablet",
+      "type": "device",
+      "description": "A moscat or wax tablet used to conceal messages with a surface layer of wax.",
+      "page_ref": "p.75",
+      "quote": "the tablet was made, like a moscat... and wax was applied so that nothing would be revealed unless the message was deciphered."
+    },
+    {
+      "name": "iron gall ink",
+      "type": "material",
+      "description": "A dark ink used for writing letters that could not be seen by artifice.",
+      "page_ref": "p.76-77",
+      "quote": "feruuscum [i.e., iron gall ink] is sent from Miletus to Arista-goram"
+    },
+    {
+      "name": "Lacedemons (Spartans)",
+      "type": "person",
+      "description": "Spartan warriors who concealed messages by feigning ignorance.",
+      "page_ref": "p.75",
+      "quote": "the truth was there, but they feigned ignorance, Gorgo replied."
+    },
+    {
+      "name": "Cleomenis",
+      "type": "person",
+      "description": "A Spartan king whose daughter wrapped a dagger in wax to send a message.",
+      "page_ref": "p.75",
+      "quote": "In § Cleomenis... his daughter, and also in book 7 of Leonidas, reminding his wife, wrapped a dagger in wax"
+    },
+    {
+      "name": "Herodotus",
+      "type": "person",
+      "description": "Historian who records the use of secret writing by Persians.",
+      "page_ref": "p.75-76",
+      "quote": "Herodotus also records the same thing from Demaratus in book 7"
+    },
+    {
+      "name": "Cicero",
+      "type": "person",
+      "description": "Roman philosopher who wrote about digraphs and letter marking with fingers.",
+      "page_ref": "p.78",
+      "quote": "Cicero (as some seem to consider) — who in his book on the Digraphs wrote"
+    },
+    {
+      "name": "Probus",
+      "type": "person",
+      "description": "Grammarian whose commentary is referenced for cryptographic analysis.",
+      "page_ref": "p.78",
+      "quote": "From this method of concealment Probus (from Probus the grammarian’s more curious commentary) is curious about the meaning of hidden letters from C"
+    },
+    {
+      "name": "Pugillarian",
+      "type": "device",
+      "description": "A cipher device mentioned as not yet fully described.",
+      "page_ref": "p.75",
+      "quote": "The Pugillarian (a cipher device) had not yet received its full description"
+    },
+    {
+      "name": "Xerxes",
+      "type": "person",
+      "description": "Persian king whose expedition involved secret messaging.",
+      "page_ref": "p.75",
+      "quote": "the Persians, when they had accepted Xerxes' expedition with statues"
+    },
+    {
+      "name": "Arista-goram",
+      "type": "location",
+      "description": "A destination referenced in secret correspondence from Miletus.",
+      "page_ref": "p.76-77",
+      "quote": "feruuscum [is] sent from Miletus to Arista-goram"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 4
+}

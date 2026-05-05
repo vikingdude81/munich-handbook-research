@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The passage discusses various symbolic and cryptographic devices used in antiquity, including shields with animal forms, hieroglyphic representations, and references to cipher-like practices involving signs and concealment.",
+  "entities": [
+    {
+      "name": "Cymric shields",
+      "type": "device",
+      "description": "Shields associated with Cimmerians, called Timbres Casaubon by Gauls and Geregier by Germans.",
+      "page_ref": "p.316",
+      "quote": "Cymric (Cimmerian) shields"
+    },
+    {
+      "name": "Tin Cask",
+      "type": "concept",
+      "description": "A symbolic container referenced as a cipher or concealment device, possibly representing hidden meaning.",
+      "page_ref": "p.316",
+      "quote": "this [refers to] the Tin Cask"
+    },
+    {
+      "name": "Proteus",
+      "type": "person",
+      "description": "King of Egypt, transformed into various shapes by poets to assume different forms.",
+      "page_ref": "p.316",
+      "quote": "Proteus, the King of Egypt, was transformed by poets into all manner of shapes"
+    },
+    {
+      "name": "Diodorus Siculus",
+      "type": "person",
+      "description": "Historian who records ancient customs, including Gaulish military practices and animal symbolism.",
+      "page_ref": "p.316",
+      "quote": "custom of the ancient Gauls in the army is attested by Diodorus Siculus"
+    },
+    {
+      "name": "Vegetius",
+      "type": "person",
+      "description": "Roman military writer who mentions Roman sign-bearers using symbolic devices.",
+      "page_ref": "p.316",
+      "quote": "among Roman sign-bearers, as found in Vegetius"
+    },
+    {
+      "name": "Anubis",
+      "type": "concept",
+      "description": "Egyptian deity represented as a dog, cited as an example of symbolic transformation.",
+      "page_ref": "p.316",
+      "quote": "Anubis as a dog"
+    },
+    {
+      "name": "Macedon",
+      "type": "concept",
+      "description": "Represented as a wolf in ancient symbolism, per Diodorus Siculus.",
+      "page_ref": "p.316",
+      "quote": "Macedon as a wolf"
+    },
+    {
+      "name": "Aristomenes",
+      "type": "person",
+      "description": "King of the Messenians, depicted with a ram and wings in symbolic form.",
+      "page_ref": "p.316",
+      "quote": "Aristomenes, king of the Messenians, a ram with wings"
+    },
+    {
+      "name": "Pegasus",
+      "type": "concept",
+      "description": "Mythical winged horse referenced in connection with heraldic or symbolic imagery.",
+      "page_ref": "p.316",
+      "quote": "Pegasus"
+    },
+    {
+      "name": "Scytale",
+      "type": "device",
+      "description": "A cryptographic device mentioned as being wrapped with a cord, possibly used for secret writing.",
+      "page_ref": "p.320",
+      "quote": "Scytalacuiusmodi fuerit"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 16
+}

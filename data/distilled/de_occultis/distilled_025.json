@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses cipher interpretation rules, including reversing letter order and using similar letters to derive keys from ciphers, with references to specific letter sequences and methods for decoding.",
+  "entities": [
+    {
+      "name": "reversed alphabet order",
+      "type": "cipher_method",
+      "description": "Using reverse sequence (e.g., DCBA) as a cipher method",
+      "page_ref": "p.600",
+      "quote": "retrogando ordine, recto ABCD, retrogra-dout DCBA"
+    },
+    {
+      "name": "similar letters rule",
+      "type": "cipher_method",
+      "description": "Identifying and using repeated or similar ciphered letters to deduce keys",
+      "page_ref": "p.601",
+      "quote": "regula for similar letters, in which I proceed straight ahead with the key"
+    },
+    {
+      "name": "CCC",
+      "type": "concept",
+      "description": "Four repeated letters (CCCC) identified as helpful for decoding",
+      "page_ref": "p.602",
+      "quote": "initio four similar letters CCCC, which is the greatest help for us"
+    },
+    {
+      "name": "lead lamellae",
+      "type": "material",
+      "description": "Thin sheets of lead used to inscribe secret messages",
+      "page_ref": "p.604",
+      "quote": "letters are placed in leaden lamellae, closed in the middle with wax"
+    },
+    {
+      "name": "wax seal",
+      "type": "material",
+      "description": "Used to close and secure lead lamellae containing secret messages",
+      "page_ref": "p.604",
+      "quote": "closed in the middle with wax, and sealed"
+    },
+    {
+      "name": "papyrus roll",
+      "type": "device",
+      "description": "A rolled papyrus container used to conceal and transport secret writings",
+      "page_ref": "p.604",
+      "quote": "a papyrus-lined roll, wrapped with leaden pile"
+    },
+    {
+      "name": "Cralem Servier Defpotum",
+      "type": "person",
+      "description": "Recipient of secret correspondence mentioned in historical context",
+      "page_ref": "p.604",
+      "quote": "letters were sent to Cralem Servier Defpotum"
+    },
+    {
+      "name": "columbae memory",
+      "type": "concept",
+      "description": "Reference to pigeons' memory as a metaphor or method in cryptographic practice",
+      "page_ref": "p.604",
+      "quote": "Themistius says among animals columbz memory"
+    },
+    {
+      "name": "interlaced letters (equantes)",
+      "type": "cipher_method",
+      "description": "Letters interlaced according to specific rules (e.g., VACE) for decoding",
+      "page_ref": "p.603",
+      "quote": "four letters are interlaced (equantes), one (cilicer intercalated) VACE"
+    },
+    {
+      "name": "STV rule",
+      "type": "cipher_method",
+      "description": "A decoding rule involving the sequence STV to determine placement or key",
+      "page_ref": "p.603",
+      "quote": "by the third rule STV to say place"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 25
+}

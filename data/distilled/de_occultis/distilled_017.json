@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text contains cryptic instructions involving symbolic letters, geometric figures, and references to historical figures like Agathon Tragicus and Theodectes Phaelites, suggesting encoded methods tied to natural signs and occult symbolism.",
+  "entities": [
+    {
+      "name": "Agathon Tragicus",
+      "type": "person",
+      "description": "Illiterate figure mentioned as describing a phenomenon in Telepho",
+      "page_ref": "p.336",
+      "quote": "The same Agathon Tragicus in Telepho, illiterate, was describing some phenomenon."
+    },
+    {
+      "name": "Theodectes Phaelites",
+      "type": "person",
+      "description": "Individual associated with the name given to a described rustic method",
+      "page_ref": "p.336",
+      "quote": "The same name was given to Theodectes Phaelites, who described rusticum."
+    },
+    {
+      "name": "cipher_method",
+      "type": "concept",
+      "description": "Symbolic system using lines, circles, and geometric forms derived from nature",
+      "page_ref": null,
+      "quote": "Two lines drawn from the same point converged at both feet... A sixth-pointed arc, clementine of the third kind"
+    },
+    {
+      "name": "material",
+      "type": "concept",
+      "description": "Hidden or concealed things are central to the method",
+      "page_ref": null,
+      "quote": "Let us conceal the hidden things."
+    },
+    {
+      "name": "geometric_figure",
+      "type": "device",
+      "description": "Circle with a middle sign, described as umbilicated and containing rules",
+      "page_ref": "p.336",
+      "quote": "The primordial scripture is umbilicated in the middle circle"
+    },
+    {
+      "name": "Trinity",
+      "type": "concept",
+      "description": "Threefold structure emerging from a central arc, linked to divine elements",
+      "page_ref": null,
+      "quote": "From it emerge two coccinellids... A trinity in obligation, shining"
+    },
+    {
+      "name": "coccinellids",
+      "type": "concept",
+      "description": "Two ladybug-like symbols emerging from the trinity",
+      "page_ref": null,
+      "quote": "From it emerge two coccinellids"
+    },
+    {
+      "name": "Leonardo Veronensis",
+      "type": "person",
+      "description": "Friend associated with liberalitas and benevolence",
+      "page_ref": "p.339",
+      "quote": "liberalitas of Leonardo Veronensis our intimate friend"
+    },
+    {
+      "name": "Mariam",
+      "type": "concept",
+      "description": "Divine mother figure, nourisher and resource in occult theology",
+      "page_ref": "p.339",
+      "quote": "itself our nourisher and mother Mariam"
+    },
+    {
+      "name": "Anconius",
+      "type": "person",
+      "description": "Reverent figure referenced in a prayer-like passage",
+      "page_ref": "p.339",
+      "quote": "Anconius reverently x1"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 17
+}

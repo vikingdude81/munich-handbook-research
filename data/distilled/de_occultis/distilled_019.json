@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text contains a list of medical terms and cryptic entries, with no clear cipher methods or explicit instructions. However, it references 'Steomare', 'Meliceride', and 'Phthiriafi' as potential coded terms, and mentions materials like 'clay' and devices such as 'pigeons' indirectly through context.",
+  "entities": [
+    {
+      "name": "Steomare",
+      "type": "cipher_method",
+      "description": "Possible cipher term or code name listed among other encoded words",
+      "page_ref": "null",
+      "quote": "\"Steomare\""
+    },
+    {
+      "name": "clay",
+      "type": "material",
+      "description": "Mentioned as a material for secret writing, possibly in combination with other substances",
+      "page_ref": "p.383",
+      "quote": "bo clay"
+    },
+    {
+      "name": "pigeons",
+      "type": "device",
+      "description": "Implied carrier method through context of 'Sinubus' and historical steganography, though not explicitly named in this chunk",
+      "page_ref": "null",
+      "quote": "null"
+    },
+    {
+      "name": "Meliceride",
+      "type": "cipher_method",
+      "description": "Listed among encoded terms; may represent a cipher or symbolic notation",
+      "page_ref": "p.383",
+      "quote": "\"Meliceride\""
+    },
+    {
+      "name": "Phthiriafi",
+      "type": "cipher_method",
+      "description": "Encoded term possibly representing a name or concept in cipher",
+      "page_ref": "p.383",
+      "quote": "\"Phthiriafi - ~\""
+    },
+    {
+      "name": "Furunculis",
+      "type": "concept",
+      "description": "Medical condition (boil) listed repeatedly, indicating thematic focus on disease",
+      "page_ref": "p.384",
+      "quote": "\"Furfure i Myrmetiis\""
+    },
+    {
+      "name": "Myrmetiis",
+      "type": "concept",
+      "description": "Likely refers to ants or a metaphorical term in medical/cryptic context",
+      "page_ref": "p.384",
+      "quote": "\"Myrmetiis\""
+    },
+    {
+      "name": "Verrucous",
+      "type": "concept",
+      "description": "Describes skin condition or symbolic affliction in the text",
+      "page_ref": "p.384",
+      "quote": "\"in Verrucous\""
+    },
+    {
+      "name": "Lethargy",
+      "type": "concept",
+      "description": "Referred to as 'Hebetudine', indicating a state of dullness or inactivity",
+      "page_ref": "p.387",
+      "quote": "\"* Hebetudine (lethargy, dullness)\""
+    },
+    {
+      "name": "Scabies",
+      "type": "concept",
+      "description": "Listed multiple times as a skin condition or symbolic affliction",
+      "page_ref": "p.393",
+      "quote": "\"t. Scabies\""
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 19
+}

@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses using birds, particularly doves and swallows, as carriers of secret messages, referencing historical examples from Herodotus, Caesar, and Pliny, and mentions methods involving attaching notes to javelins or using bird feet with specialized devices.",
+  "entities": [
+    {
+      "name": "doves",
+      "type": "device",
+      "description": "Used as carriers of secret messages during besieges",
+      "page_ref": "Book X Ch Y",
+      "quote": "kept doves for a long time in the vicinity"
+    },
+    {
+      "name": "javelins",
+      "type": "device",
+      "description": "Arrows or bolts used to carry written messages",
+      "page_ref": "Book X Ch Y",
+      "quote": "sent javelins with messages written on them"
+    },
+    {
+      "name": "Herodotus",
+      "type": "person",
+      "description": "Ancient historian referenced for bird-based messaging",
+      "page_ref": "Book X Ch Y",
+      "quote": "Herodotus says Artabazo & Ratio, as Timoxeno did"
+    },
+    {
+      "name": "Cleonymus",
+      "type": "person",
+      "description": "King of the Lacedaemonians associated with bird messaging devices",
+      "page_ref": "Book X Ch Y",
+      "quote": "a fanatic from Huc belonged to Cleonymus, king of the Lacedaemonians"
+    },
+    {
+      "name": "Cicero",
+      "type": "person",
+      "description": "Roman statesman referenced in a military example involving secret messages",
+      "page_ref": "Book X Ch Y",
+      "quote": "CICERO IS A TARGET"
+    },
+    {
+      "name": "Caesar",
+      "type": "person",
+      "description": "Referenced regarding strategic reasoning in military messaging",
+      "page_ref": "Book X Ch Y",
+      "quote": "The ratio of Caesar"
+    },
+    {
+      "name": "swallows",
+      "type": "device",
+      "description": "Domesticated birds considered for carrying liquid messages",
+      "page_ref": "Book X Ch Y",
+      "quote": "co-members, lumbars... swallows, or other such birds domesticated"
+    },
+    {
+      "name": "liquidum",
+      "type": "material",
+      "description": "Substance possibly used in message concealment within birds",
+      "page_ref": "Book X Ch Y",
+      "quote": "carry liquid [perhaps 'liquidum' meaning messages]"
+    },
+    {
+      "name": "fagitta",
+      "type": "device",
+      "description": "Latin term for arrow or javelin used to carry epistle",
+      "page_ref": "Book X Ch Y",
+      "quote": "tied an epistle to a javelin (or 'fagitta')"
+    },
+    {
+      "name": "Ptolemy",
+      "type": "person",
+      "description": "Referenced in context of obstructing matters with doves",
+      "page_ref": "Book X Ch Y",
+      "quote": "since you have obstructed this matter with the dove"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 10
+}

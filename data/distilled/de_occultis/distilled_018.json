@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text describes cryptographic methods involving letter substitution with vowels, numerical ciphers, and references to a cipher table used for decoding messages, alongside mentions of individuals and locations tied to secret communications.",
+  "entities": [
+    {
+      "name": "vowel-based cipher",
+      "type": "cipher_method",
+      "description": "Letters are converted into vowels using interposed sounds as per the text's method.",
+      "page_ref": "null",
+      "quote": "Vowels written openly conceal hidden letters, soft consonants."
+    },
+    {
+      "name": "numerical cipher",
+      "type": "cipher_method",
+      "description": "Numbers are used to represent letters and decode messages via a table or key.",
+      "page_ref": "null",
+      "quote": "we will explain how all the numbers of letters are changed into vowels"
+    },
+    {
+      "name": "Dr. Furrer Wéris",
+      "type": "person",
+      "description": "A figure who reveals himself as a keyholder for secret communications.",
+      "page_ref": "null",
+      "quote": "Dr. Furr. Lirr. Norys 4"
+    },
+    {
+      "name": "Cornelio",
+      "type": "person",
+      "description": "One of the leaders mentioned to be involved in opening a clanculum for military use.",
+      "page_ref": "null",
+      "quote": "we will come with Ruralino, CORNELIO, AND OTHER LEADERS"
+    },
+    {
+      "name": "caper leaf",
+      "type": "material",
+      "description": "Used as a symbolic or literal image in the cipher context.",
+      "page_ref": "null",
+      "quote": "a caper leaf from the mind"
+    },
+    {
+      "name": "antiphagum",
+      "type": "device",
+      "description": "Possibly a plant part or symbolic object referenced in relation to the caper leaf.",
+      "page_ref": "null",
+      "quote": "an antiphagum"
+    },
+    {
+      "name": "cipher table",
+      "type": "device",
+      "description": "A table used for decoding messages by mapping numbers or letters to vowels or other symbols.",
+      "page_ref": "p.359",
+      "quote": "we can begin to decipher with one key"
+    },
+    {
+      "name": "Pugna te virile",
+      "type": "concept",
+      "description": "A phrase indicating struggle for liberty, possibly symbolic in the cipher context.",
+      "page_ref": "null",
+      "quote": "PUGNATE VIRILY; FOR I COME so that I may assert liberty in citizenship."
+    },
+    {
+      "name": "Neapolis",
+      "type": "location",
+      "description": "Where Datum (the work) was published or dated.",
+      "page_ref": "p.361",
+      "quote": "Datum Neapoli 12. Auguiltt 1577"
+    },
+    {
+      "name": "Laurentius",
+      "type": "person",
+      "description": "A named individual referenced in the cipher key or table.",
+      "page_ref": "p.360",
+      "quote": "8 Laurentius"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 18
+}

@@ -1,0 +1,24 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text describes cryptographic and steganographic methods using signs, letters, and fire-based signals, referencing classical authors like Cicero and Polybius, and linking to occult practices in Renaissance cryptography.",
+  "entities": [
+    {
+      "name": "Cicero",
+      "type": "person",
+      "description": "Roman statesman referenced for his use of symbolic signs",
+      "page_ref": "Book VITI or null",
+      "quote": "\"adde 4 : ;\""
+    },
+    {
+      "name": "Polybius",
+      "type": "person",
+      "description": "Greek historian cited regarding military sign systems",
+      "page_ref": "Chapter X or null",
+      "quote": "Polibius refert"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 23
+}

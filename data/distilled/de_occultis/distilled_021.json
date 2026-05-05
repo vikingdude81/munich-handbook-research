@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text contains a coded passage with references to natural substances, possibly including materials for secret writing and cipher methods, though specific techniques are obscured.",
+  "entities": [
+    {
+      "name": "Apofila",
+      "type": "material",
+      "description": "Likely a medicinal or aromatic substance used in cryptographic preparations",
+      "page_ref": "p.463",
+      "quote": "Apofila"
+    },
+    {
+      "name": "Myrrha",
+      "type": "material",
+      "description": "Frankincense, possibly used as a seal or writing medium additive",
+      "page_ref": "p.463",
+      "quote": "Myrrha"
+    },
+    {
+      "name": "Scriba",
+      "type": "person",
+      "description": "Implied scribe or cryptographer referenced in context of writing",
+      "page_ref": null,
+      "quote": "Regia ."
+    },
+    {
+      "name": "Cardamomo",
+      "type": "material",
+      "description": "Aromatic substance, possibly used for invisible ink or concealment",
+      "page_ref": "p.463",
+      "quote": "a Cardamomo™ a_ Valeriana"
+    },
+    {
+      "name": "Hieride",
+      "type": "concept",
+      "description": "Possibly refers to sacred or hidden writing practices",
+      "page_ref": "p.461",
+      "quote": "Hieride"
+    },
+    {
+      "name": "Cynosbato",
+      "type": "material",
+      "description": "Likely a plant-based substance, possibly for marking or encoding",
+      "page_ref": "p.465",
+      "quote": "a Cynosbato"
+    },
+    {
+      "name": "Thymol",
+      "type": "material",
+      "description": "Implied essential oil or preservative with potential cryptographic use",
+      "page_ref": "p.470",
+      "quote": "Ser Serola . , * Cheoltrom."
+    },
+    {
+      "name": "Lavender",
+      "type": "material",
+      "description": "Herbal substance, possibly used for scent masking or ink stabilization",
+      "page_ref": "p.462",
+      "quote": "e Venerea e Lavendula «=. ¢ Valentia"
+    },
+    {
+      "name": "Oro di Persia",
+      "type": "material",
+      "description": "Gold from Persia, possibly used in secret writing or sealing",
+      "page_ref": "p.463",
+      "quote": "Pepulo i"
+    },
+    {
+      "name": "Inula",
+      "type": "material",
+      "description": "Plant root, potentially used for binding or preserving messages",
+      "page_ref": "p.463",
+      "quote": "Inula"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 21
+}

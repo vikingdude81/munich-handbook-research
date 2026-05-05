@@ -1,0 +1,73 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses linguistic ambiguity, symbolic interpretation of words and names, and methods for concealing or revealing hidden meanings through language, referencing poets, philosophers, and historical figures.",
+  "entities": [
+    {
+      "name": "MALYYS",
+      "type": "concept",
+      "description": "A word signifying multiple things: a tree, fruit, and an impious person",
+      "page_ref": "p.43",
+      "quote": "\"MALYYS, a tree, fruit, and him who is impious can signify it.\""
+    },
+    {
+      "name": "Apollo's Oracle",
+      "type": "concept",
+      "description": "Delivered in ambiguous or cryptic language as an example of concealed meaning",
+      "page_ref": "p.43",
+      "quote": "\"of this kind Apollo's Oracle is delivered.\""
+    },
+    {
+      "name": "Achilles",
+      "type": "person",
+      "description": "Referenced in a cryptic phrase about death and transformation",
+      "page_ref": "p.43",
+      "quote": "\"Fifty verbs, from which a hundred arises; Achilles dies.\""
+    },
+    {
+      "name": "Sibyllarum vaticinia",
+      "type": "concept",
+      "description": "Hidden prophecies associated with the Sibyls, part of secret knowledge",
+      "page_ref": "p.43",
+      "quote": "\"& h Sibyllarum vaticinia complura\""
+    },
+    {
+      "name": "Plutarchus",
+      "type": "person",
+      "description": "Cited as an authority on moral and educational matters in convivial settings",
+      "page_ref": "p.44",
+      "quote": "\"and Plutarchus in the book de li- quos quafu- beris educandis\""
+    },
+    {
+      "name": "Socrates",
+      "type": "person",
+      "description": "Mentioned as admonishing Plato, linked to philosophical instruction and occult knowledge",
+      "page_ref": "p.44",
+      "quote": "\"Socrates étiam apud Pla- ee platonéadmonet\""
+    },
+    {
+      "name": "Ptolemy (implied by 'Lirip is Parimvs')",
+      "type": "person",
+      "description": "Referenced in a cryptic genealogical or symbolic statement on page 23",
+      "page_ref": "p.43",
+      "quote": "\"Lirip is Parimvs.\""
+    },
+    {
+      "name": "fire",
+      "type": "material",
+      "description": "Must be kept burning as part of a ritual or symbolic practice, not extinguished",
+      "page_ref": "p.44",
+      "quote": "\"And fire must be kept burning, it is necessary not to extinguish it\""
+    },
+    {
+      "name": "vessel",
+      "type": "device",
+      "description": "Should not be erased; used in demonstrations involving invisibility and visibility",
+      "page_ref": "p.44",
+      "quote": "\"Do not erase the vessel\""
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 2
+}

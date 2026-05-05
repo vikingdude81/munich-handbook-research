@@ -1,0 +1,59 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses cryptographic principles involving numerical patterns, figure analysis, and cipher interpretation, referencing the use of numbers, letters, and symbolic distinctions in secret writing.",
+  "entities": [
+    {
+      "name": "cipher_method",
+      "type": "cipher_method",
+      "description": "Numerical and letter-based cryptographic techniques using figure excess and repetition.",
+      "page_ref": "p.265-269",
+      "quote": "the excess of their figures is repeated by a more rapid repetition"
+    },
+    {
+      "name": "material",
+      "type": "material",
+      "description": "Not explicitly stated; context implies use of letters and numbers as primary materials.",
+      "page_ref": null,
+      "quote": null
+    },
+    {
+      "name": "person",
+      "type": "person",
+      "description": "Lrper Terrivs (likely a cryptographic author or commentator).",
+      "page_ref": "p.267",
+      "quote": "Lrper Terrivs."
+    },
+    {
+      "name": "concept",
+      "type": "concept",
+      "description": "Use of numerical patterns, figure distinctions, and cryptic interpretation in secret writing.",
+      "page_ref": "p.265-269",
+      "quote": "they will be four; seven letters remaining constant"
+    },
+    {
+      "name": "device",
+      "type": "device",
+      "description": "Not explicitly mentioned; cryptographic 'figures' and letter arrangements serve as symbolic devices.",
+      "page_ref": null,
+      "quote": null
+    },
+    {
+      "name": "location",
+      "type": "location",
+      "description": "Not specified in the text.",
+      "page_ref": null,
+      "quote": null
+    },
+    {
+      "name": "historical_example",
+      "type": "historical_example",
+      "description": "No specific historical example is provided; references are abstract and theoretical.",
+      "page_ref": null,
+      "quote": null
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 14
+}

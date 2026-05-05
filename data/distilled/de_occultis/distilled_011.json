@@ -1,0 +1,80 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "Porta discusses methods for detecting hidden messages in letters, emphasizing observation of letter frequency, position, and context to decipher ciphers.",
+  "entities": [
+    {
+      "name": "cipher_method",
+      "type": "cipher_method",
+      "description": "Permutation of characters by occultation (z.caps.6) as a method for revealing hidden messages",
+      "page_ref": "Book X Ch Y or null",
+      "quote": "Semple os"
+    },
+    {
+      "name": "material",
+      "type": "material",
+      "description": "Letters used in ciphers, divided and numbered (up to 25 total)",
+      "page_ref": "p.213",
+      "quote": "there are not more than twenty-one, or rather two and twenty-five in total"
+    },
+    {
+      "name": "concept",
+      "type": "concept",
+      "description": "Hidden messages in letters revealed through frequency analysis and positional clues",
+      "page_ref": "p.213",
+      "quote": "Sermo enim in epistola contentus aliquando frequentissimas ratissimas, & rariissimas frequentissimas faciet"
+    },
+    {
+      "name": "device",
+      "type": "device",
+      "description": "Use of directional methods (right hand) and positional markers (end, middle, fertile line)",
+      "page_ref": "p.213",
+      "quote": "in whatever way, or in any order, or by any method of the right hand, or in the end, or in the middle"
+    },
+    {
+      "name": "person",
+      "type": "person",
+      "description": "Lipper Tertius (author referenced)",
+      "page_ref": "p.215",
+      "quote": "Liper TERTIVS, 195"
+    },
+    {
+      "name": "concept",
+      "type": "concept",
+      "description": "Division of letters into groups based on frequency and position for cipher analysis",
+      "page_ref": "p.213",
+      "quote": "the division of this kind in the Scripta Prætoria is « 4"
+    },
+    {
+      "name": "concept",
+      "type": "concept",
+      "description": "Use of vowel and consonant analysis to determine cipher structure",
+      "page_ref": "p.217",
+      "quote": "they can be pronounced with vowels and consonants, as indicated"
+    },
+    {
+      "name": "location",
+      "type": "location",
+      "description": "Scripta Prætoria (context for letter division method)",
+      "page_ref": "p.215",
+      "quote": "the division of this kind in the Scripta Prætoria is « 4"
+    },
+    {
+      "name": "historical_example",
+      "type": "historical_example",
+      "description": "Not explicitly stated; references to general cipher use without specific historical case",
+      "page_ref": null,
+      "quote": null
+    },
+    {
+      "name": "concept",
+      "type": "concept",
+      "description": "Ciphers should be understood through proportion and order, not chance",
+      "page_ref": "p.213",
+      "quote": "the true nature of the word is known: which when clearly tested will be produced by the right proportion and order"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 11
+}

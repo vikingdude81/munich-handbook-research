@@ -1,0 +1,73 @@
+{
+  "source_id": "de_occultis",
+  "has_relevant_content": true,
+  "summary": "The text discusses methods of secret writing, including ciphers and concealment techniques, emphasizing the need for discretion in political and military contexts.",
+  "entities": [
+    {
+      "name": "Giambattista Porta",
+      "type": "person",
+      "description": "Author of De Occultis Literarum Notis (1592)",
+      "page_ref": "Book I Ch 0",
+      "quote": "JOAN. BAPTISTA PORTA NAPOLITANO AUCTORE."
+    },
+    {
+      "name": "cipher_methods",
+      "type": "concept",
+      "description": "Various methods of secret writing and concealment devised by ancient and modern scholars",
+      "page_ref": "Book I Ch 0",
+      "quote": "various stratagems for concealing matters not only from spirits but also from other hidden things"
+    },
+    {
+      "name": "letters",
+      "type": "concept",
+      "description": "Letters combined with each other to form signs in ciphers",
+      "page_ref": "Book I Ch 0",
+      "quote": "when letters are combined with each other, whose signs are noted in the middle of the nut"
+    },
+    {
+      "name": "Aufonius",
+      "type": "location",
+      "description": "A place where secrets are concealed according to Porta",
+      "page_ref": "Book I Ch 0",
+      "quote": "an elegant place is found at Aufonius, where some things are concealed"
+    },
+    {
+      "name": "Ovid",
+      "type": "person",
+      "description": "Ancient writer referenced for his discussion of hidden matters",
+      "page_ref": "Book I Ch 0",
+      "quote": "those who have further discussed this matter, as Ovid relates"
+    },
+    {
+      "name": "military_affairs",
+      "type": "concept",
+      "description": "One of the domains where secret writing is applied",
+      "page_ref": "Book I Ch 0",
+      "quote": "politics, military affairs, and other branches of this same kind of art"
+    },
+    {
+      "name": "spirits",
+      "type": "concept",
+      "description": "Hidden or spiritual entities from which matters are concealed",
+      "page_ref": "Book I Ch 0",
+      "quote": "concealing matters not only from spirits but also from other hidden things"
+    },
+    {
+      "name": "books",
+      "type": "material",
+      "description": "Texts containing secret writing methods and keys",
+      "page_ref": "Book I Ch 0",
+      "quote": "since the books themselves bear the marks of secret writing"
+    },
+    {
+      "name": "key",
+      "type": "concept",
+      "description": "The cipher key that allows decryption of messages",
+      "page_ref": "Book I Ch 0",
+      "quote": "the author has also handed over the key (or cipher)"
+    }
+  ],
+  "relationships": [],
+  "_truncated": true,
+  "chunk_id": 0
+}
