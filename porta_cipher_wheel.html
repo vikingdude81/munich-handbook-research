@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Porta's Cipher Wheel — De Occultis Literarum Notis</title>
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #c4a868; font-family: 'Palatino Linotype', Palatino, Georgia, serif; color: #1a1008; min-height: 100vh; }
+::-webkit-scrollbar { width: 8px; } ::-webkit-scrollbar-track { background: #b8975a; } ::-webkit-scrollbar-thumb { background: #5a3a18; border-radius: 4px; }
+input, textarea, select { font-family: inherit; }
+button { font-family: inherit; cursor: pointer; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+const { useState, useEffect, useRef, useCallback } = React;
+
+/* ═══════════════════════════════════════════════════
+   PORTA'S PLANETARY CIPHER SYSTEM
+   Based on De Occultis Literarum Notis (1592)
+   "the alphabet may be used by any sign or planet"
+   — chunk 027, p.663
+═══════════════════════════════════════════════════ */
+
+const PLANETS = [
+  { name:"Saturn",  sym:"♄", color:"#5a4a3a", metal:"Lead",   number:3,  angel:"Cassiel",  spirit:"Zazel",    sigil:"⊕",
+    desc:"Rules restriction, secrecy, and the weight of hidden things. Saturn's cipher reverses — DCBA — what is forward becomes backward.",
+    rotation: 7,  method:"Reversed alphabet — Saturn's retrograde principle. Each letter maps to its mirror (A↔Z, B↔Y...).",
+    porta_ref:"retrogando ordine, recto ABCD, retrogra-dout DCBA" },
+  { name:"Jupiter", sym:"♃", color:"#4a3a6a", metal:"Tin",    number:4,  angel:"Sachiel",  spirit:"Hismael",  sigil:"✦",
+    desc:"Rules expansion, wisdom, and the thunder of revelation. Jupiter's cipher advances by 4 — the square number.",
+    rotation: 13, method:"Numeric shift by 4 — Jupiter's square. Each letter advances four positions in the wheel.",
+    porta_ref:"We assign numbers to the twelve signs" },
+  { name:"Mars",    sym:"♂", color:"#7a3a3a", metal:"Iron",   number:5,  angel:"Samael",   spirit:"Bartzabel", sigil:"⚔",
+    desc:"Rules conflict, force, and the cutting edge. Mars's cipher uses every 5th letter — the pentagonal skip.",
+    rotation: 5,  method:"Skip cipher by 5 — the pentagonal stride of Mars. Every fifth letter of the wheel.",
+    porta_ref:"cipher_method: Permutation of characters by occultation" },
+  { name:"Sun",     sym:"☉", color:"#8b6914", metal:"Gold",   number:6,  angel:"Michael",  spirit:"Sorath",   sigil:"◎",
+    desc:"Rules identity, light, and the revealing of hidden things. Sol's cipher illuminates — shift forward by 6.",
+    rotation: 6,  method:"Shift forward 6 — Sol Invictus. The sun's number reveals plaintext by advancing 6 positions.",
+    porta_ref:"I will call Apollo the King" },
+  { name:"Venus",   sym:"♀", color:"#4a6a4a", metal:"Copper", number:7,  angel:"Anael",    spirit:"Kedemel",  sigil:"❧",
+    desc:"Rules beauty, concealment, and harmonic proportion. Venus's cipher weaves vowels — consonants hide behind vowels.",
+    rotation: 9,  method:"Vowel interposition — Venus's harmonic rule. Vowels mask consonants in rotating pairs.",
+    porta_ref:"Vowels written openly conceal hidden letters, soft consonants" },
+  { name:"Mercury", sym:"☿", color:"#3a5a6a", metal:"Quicksilver", number:8, angel:"Raphael", spirit:"Taphthartharath", sigil:"⚗",
+    desc:"Rules communication, craft, and the messenger's art. Mercury's cipher substitutes by the digraphic method — letter pairs.",
+    rotation: 11, method:"Digraphic substitution — Mercury's paired-letter method. Each pair of letters maps to a single cipher character.",
+    porta_ref:"first cipher letter, which is B — the digraph" },
+  { name:"Moon",    sym:"☽", color:"#5a5a6a", metal:"Silver", number:9,  angel:"Gabriel",  spirit:"Chasmodai", sigil:"☾",
+    desc:"Rules the tides, intuition, and the hidden face of things. Luna's cipher mirrors — every letter takes the position of its opposite across the wheel.",
+    rotation: 13, method:"Mirror cipher — Luna's reflection. Each letter takes its position opposite on the wheel (A↔N for 26-letter alphabet).",
+    porta_ref:"interlaced letters (equantes), one (cilicer intercalated) VACE" },
+];
+
+const ZODIAC = [
+  {n:"Aries",s:"♈",num:1}, {n:"Taurus",s:"♉",num:2}, {n:"Gemini",s:"♊",num:3},
+  {n:"Cancer",s:"♋",num:4}, {n:"Leo",s:"♌",num:5}, {n:"Virgo",s:"♍",num:6},
+  {n:"Libra",s:"♎",num:7}, {n:"Scorpio",s:"♏",num:8}, {n:"Sagittarius",s:"♐",num:9},
+  {n:"Capricorn",s:"♑",num:10}, {n:"Aquarius",s:"♒",num:11}, {n:"Pisces",s:"♓",num:12},
+];
+
+// Mythological cipher token substitution (Porta p.157-158)
+// "I will call Apollo the King, Scorpius the Scorpion"
+const MYTH_TOKENS = {
+  A:"Apollo", B:"Brutus", C:"Cicero", D:"Diana", E:"Endymion", F:"Fortuna",
+  G:"Gorgo", H:"Hermes", I:"Iris", J:"Jove", K:"Kronos", L:"Luna",
+  M:"Mars", N:"Nemesis", O:"Osiris", P:"Proteus", Q:"Quirinus", R:"Raphael",
+  S:"Scorpius", T:"Tammuz", U:"Uranus", V:"Venus", W:"Wisdom", X:"Xerxes",
+  Y:"Yule", Z:"Zazel",
+};
+
+const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+
+/* ═══ CIPHER ENGINES ═══ */
+function caesarShift(text, shift, encrypt) {
+  return text.toUpperCase().split("").map(c => {
+    if (!/[A-Z]/.test(c)) return c;
+    const idx = ALPHABET.indexOf(c);
+    const newIdx = encrypt ? (idx + shift) % 26 : (idx - shift + 26) % 26;
+    return ALPHABET[newIdx];
+  }).join("");
+}
+
+function reversedAlphabet(text, encrypt) {
+  // Saturn: A↔Z, B↔Y, etc. — same in both directions (involution)
+  return text.toUpperCase().split("").map(c => {
+    if (!/[A-Z]/.test(c)) return c;
+    return ALPHABET[25 - ALPHABET.indexOf(c)];
+  }).join("");
+}
+
+function mirrorCipher(text, encrypt) {
+  // Moon: shift by 13 (ROT13-style)
+  return caesarShift(text, 13, true);
+}
+
+function vowelInterposition(text, encrypt) {
+  // Venus: consonants hide behind vowels
+  const vowels = "AEIOU";
+  if (encrypt) {
+    return text.toUpperCase().split("").map(c => {
+      if (!/[A-Z]/.test(c)) return c;
+      if (vowels.includes(c)) return c;
+      // Shift consonant: replace with next vowel + original
+      const vi = Math.floor(ALPHABET.indexOf(c) * 5 / 26);
+      return vowels[vi] + c;
+    }).join("");
+  } else {
+    // Decrypt: remove interposed vowels
+    let out = "", i = 0, arr = text.toUpperCase().split("");
+    while (i < arr.length) {
+      if (vowels.includes(arr[i]) && i+1 < arr.length && !vowels.includes(arr[i+1])) {
+        out += arr[i+1]; i += 2;
+      } else { out += arr[i]; i++; }
+    }
+    return out;
+  }
+}
+
+function applyPlanetCipher(planet, text, encrypt) {
+  switch(planet.name) {
+    case "Saturn":  return reversedAlphabet(text, encrypt);
+    case "Jupiter": return caesarShift(text, 4, encrypt);
+    case "Mars":    return caesarShift(text, 5, encrypt);
+    case "Sun":     return caesarShift(text, 6, encrypt);
+    case "Venus":   return vowelInterposition(text, encrypt);
+    case "Mercury": return caesarShift(text, planet.rotation % 26, encrypt);
+    case "Moon":    return mirrorCipher(text, encrypt);
+    default:        return text;
+  }
+}
+
+function toMythTokens(text) {
+  return text.toUpperCase().split("").map(c => MYTH_TOKENS[c] || c).join(" · ");
+}
+
+function fromMythTokens(text) {
+  const rev = Object.fromEntries(Object.entries(MYTH_TOKENS).map(([k,v]) => [v.toLowerCase(), k]));
+  return text.split(/[\s·]+/).map(w => rev[w.toLowerCase()] || w).join("");
+}
+
+/* ═══ SVG WHEEL ═══ */
+function WoodcutBorder() {
+  return (
+    <svg viewBox="0 0 500 20" style={{width:"100%",height:20,display:"block",opacity:0.35}}>
+      {Array.from({length:50},(_,i) => {
+        const x = i*10+5;
+        return <g key={i}>
+          <line x1={x-3} y1={7} x2={x} y2={3} stroke="#3a2810" strokeWidth="1.2"/>
+          <line x1={x} y1={3} x2={x+3} y2={7} stroke="#3a2810" strokeWidth="1.2"/>
+          <line x1={x-2} y1={13} x2={x+2} y2={13} stroke="#3a2810" strokeWidth="0.8"/>
+          <circle cx={x} cy={17} r={0.9} fill="#3a2810" opacity="0.5"/>
+        </g>;
+      })}
+    </svg>
+  );
+}
+
+function WoodcutDivider() {
+  return (
+    <svg viewBox="0 0 400 16" style={{width:"100%",maxWidth:280,height:14,display:"block",margin:"6px auto",opacity:0.3}}>
+      <line x1={20} y1={8} x2={180} y2={8} stroke="#3a2810" strokeWidth="0.8"/>
+      <line x1={220} y1={8} x2={380} y2={8} stroke="#3a2810" strokeWidth="0.8"/>
+      <circle cx={200} cy={8} r={5} fill="none" stroke="#3a2810" strokeWidth="1"/>
+      <circle cx={200} cy={8} r={2} fill="#3a2810"/>
+    </svg>
+  );
+}
+
+function CipherWheel({ planet, outerRotation, onDrag, isDragging }) {
+  const svgRef = useRef(null);
+  const sz = 380, cx = sz/2, cy = sz/2;
+  const outerR = 170, innerR = 115, hubR = 48;
+  const outerLetters = ALPHABET; // fixed outer ring = plaintext
+  const innerLetters = ALPHABET; // inner ring rotates = cipher alphabet
+
+  // Tick marks
+  const ticks = Array.from({length:26}, (_,i) => {
+    const a = (i * 360/26 - 90) * Math.PI/180;
+    return <line key={"tick"+i}
+      x1={cx + (outerR-14)*Math.cos(a)} y1={cy + (outerR-14)*Math.sin(a)}
+      x2={cx + (outerR-6)*Math.cos(a)}  y2={cy + (outerR-6)*Math.sin(a)}
+      stroke="#5a4a2a" strokeWidth={i%13===0 ? 1.5 : 0.6}/>;
+  });
+
+  // Zodiac symbols on outermost ring
+  const zodTicks = Array.from({length:12}, (_,i) => {
+    const a = (i * 30 - 90) * Math.PI/180;
+    const zod = ZODIAC[i];
+    return <text key={"z"+i}
+      x={cx + (outerR+14)*Math.cos(a)}
+      y={cy + (outerR+14)*Math.sin(a)}
+      textAnchor="middle" dominantBaseline="middle"
+      fontSize="10" fill="#5a3a18" opacity="0.7"
+      transform={`rotate(${i*30}, ${cx + (outerR+14)*Math.cos(a)}, ${cy + (outerR+14)*Math.sin(a)})`}>
+      {zod.s}
+    </text>;
+  });
+
+  // Handle drag to rotate inner ring
+  const dragStart = useRef(null);
+  const startRot = useRef(0);
+
+  function getAngle(e, svg) {
+    const rect = svg.getBoundingClientRect();
+    const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+    const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+    const x = clientX - rect.left - rect.width/2;
+    const y = clientY - rect.top - rect.height/2;
+    return Math.atan2(y, x) * 180 / Math.PI;
+  }
+
+  function onMouseDown(e) {
+    dragStart.current = getAngle(e, svgRef.current);
+    startRot.current = outerRotation;
+    e.preventDefault();
+  }
+
+  function onMouseMove(e) {
+    if (dragStart.current === null) return;
+    const angle = getAngle(e, svgRef.current);
+    const delta = angle - dragStart.current;
+    onDrag((startRot.current + delta + 360) % 360);
+  }
+
+  function onMouseUp() { dragStart.current = null; }
+
+  useEffect(() => {
+    window.addEventListener("mousemove", onMouseMove);
+    window.addEventListener("mouseup", onMouseUp);
+    window.addEventListener("touchmove", onMouseMove, {passive:false});
+    window.addEventListener("touchend", onMouseUp);
+    return () => {
+      window.removeEventListener("mousemove", onMouseMove);
+      window.removeEventListener("mouseup", onMouseUp);
+      window.removeEventListener("touchmove", onMouseMove);
+      window.removeEventListener("touchend", onMouseUp);
+    };
+  });
+
+  const innerShift = Math.round(outerRotation / (360/26)) % 26;
+
+  return (
+    <svg ref={svgRef} viewBox={`0 0 ${sz} ${sz}`} style={{width:"100%",maxWidth:400,cursor:isDragging?"grabbing":"default",userSelect:"none"}}
+      onMouseDown={onMouseDown} onTouchStart={onMouseDown}>
+      <defs>
+        <radialGradient id="hubGrad">
+          <stop offset="0%" stopColor={planet.color} stopOpacity="0.6"/>
+          <stop offset="100%" stopColor={planet.color} stopOpacity="0.1"/>
+        </radialGradient>
+        <filter id="parchAge">
+          <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="3" result="n"/>
+          <feDisplacementMap in="SourceGraphic" in2="n" scale="1.2" xChannelSelector="R" yChannelSelector="G"/>
+        </filter>
+        <radialGradient id="bgGrad">
+          <stop offset="0%" stopColor="#d4b878"/>
+          <stop offset="100%" stopColor="#b89050"/>
+        </radialGradient>
+      </defs>
+
+      {/* Background */}
+      <circle cx={cx} cy={cy} r={sz/2-2} fill="url(#bgGrad)" stroke="#5a3a18" strokeWidth="2"/>
+
+      {/* Outer zodiac ring */}
+      <circle cx={cx} cy={cy} r={outerR+24} fill="none" stroke="#5a4a2a" strokeWidth="1.5"/>
+      <circle cx={cx} cy={cy} r={outerR+4}  fill="none" stroke="#5a4a2a" strokeWidth="0.5"/>
+      {zodTicks}
+
+      {/* Outer fixed ring — PLAINTEXT */}
+      <circle cx={cx} cy={cy} r={outerR} fill="#c8a860" stroke="#5a4a2a" strokeWidth="2"/>
+      <circle cx={cx} cy={cy} r={outerR-26} fill="none" stroke="#5a4a2a" strokeWidth="0.5"/>
+      {ticks}
+      {outerLetters.map((letter, i) => {
+        const a = (i * 360/26 - 90) * Math.PI/180;
+        const lr = outerR - 14;
+        return (
+          <text key={"ol"+i}
+            x={cx + lr*Math.cos(a)} y={cy + lr*Math.sin(a)}
+            textAnchor="middle" dominantBaseline="middle"
+            fontSize="13" fontWeight="600" fill="#2a1808"
+            transform={`rotate(${i*360/26}, ${cx + lr*Math.cos(a)}, ${cy + lr*Math.sin(a)})`}>
+            {letter}
+          </text>
+        );
+      })}
+      <text x={cx} y={cy - outerR + 6} textAnchor="middle" fontSize="7" fill="#5a3a18" opacity="0.7">PLAINTEXT</text>
+
+      {/* Inner rotating ring — CIPHER */}
+      <g transform={`rotate(${outerRotation}, ${cx}, ${cy})`}>
+        <circle cx={cx} cy={cy} r={innerR} fill="#b89050" stroke="#5a4a2a" strokeWidth="2.5"/>
+        <circle cx={cx} cy={cy} r={innerR-28} fill="none" stroke="#5a4a2a" strokeWidth="0.5"/>
+        {innerLetters.map((letter, i) => {
+          const a = (i * 360/26 - 90) * Math.PI/180;
+          const lr = innerR - 14;
+          return (
+            <text key={"il"+i}
+              x={cx + lr*Math.cos(a)} y={cy + lr*Math.sin(a)}
+              textAnchor="middle" dominantBaseline="middle"
+              fontSize="13" fontWeight="600" fill={planet.color}
+              style={{filter:"drop-shadow(0 0 2px rgba(0,0,0,0.4))"}}
+              transform={`rotate(${-(outerRotation) + i*360/26}, ${cx + lr*Math.cos(a)}, ${cy + lr*Math.sin(a)})`}>
+              {letter}
+            </text>
+          );
+        })}
+        {/* Drag handle hint arrows */}
+        <path d={`M ${cx-10} ${cy-innerR+8} A 10 10 0 0 1 ${cx+10} ${cy-innerR+8}`}
+          fill="none" stroke="#5a4a2a" strokeWidth="1" opacity="0.4"/>
+      </g>
+
+      {/* Hub */}
+      <circle cx={cx} cy={cy} r={hubR} fill="url(#hubGrad)" stroke="#5a4a2a" strokeWidth="1.5"/>
+      <text x={cx} y={cy-8} textAnchor="middle" fontSize="22" fill={planet.color}>{planet.sym}</text>
+      <text x={cx} y={cy+10} textAnchor="middle" fontSize="9" fontStyle="italic" fill="#3a2810" opacity="0.8">{planet.name}</text>
+      <text x={cx} y={cy+22} textAnchor="middle" fontSize="7" fill="#3a2810" opacity="0.5">shift·{innerShift}</text>
+
+      {/* Pointer / indicator at top */}
+      <path d={`M ${cx-6} ${cy-outerR-28} L ${cx} ${cy-outerR-4} L ${cx+6} ${cy-outerR-28} Z`}
+        fill="#3a2810" opacity="0.7"/>
+
+      {/* Label */}
+      <text x={cx} y={cy + innerR - 8} textAnchor="middle" fontSize="7" fill="#5a3a18" opacity="0.7">CIPHER · DRAG TO ROTATE</text>
+    </svg>
+  );
+}
+
+/* ═══ CIPHER MAP DISPLAY ═══ */
+function CipherMapTable({ planet, shift }) {
+  const shifted = ALPHABET.map((_, i) => {
+    switch(planet.name) {
+      case "Saturn":  return ALPHABET[25 - i];
+      case "Moon":    return ALPHABET[(i + 13) % 26];
+      case "Jupiter": return ALPHABET[(i + 4) % 26];
+      case "Mars":    return ALPHABET[(i + 5) % 26];
+      case "Sun":     return ALPHABET[(i + 6) % 26];
+      case "Mercury": return ALPHABET[(i + 11) % 26];
+      case "Venus":   return ALPHABET[(i + 9) % 26];
+      default:        return ALPHABET[(i + shift) % 26];
+    }
+  });
+
+  return (
+    <div style={{overflowX:"auto", marginTop:8}}>
+      <table style={{borderCollapse:"collapse", fontSize:11, width:"100%"}}>
+        <tbody>
+          <tr>
+            <td style={{padding:"2px 6px", fontWeight:"bold", color:"#3a2810", opacity:0.6, fontSize:10}}>Plain</td>
+            {ALPHABET.map(l => (
+              <td key={l} style={{padding:"3px 4px", textAlign:"center", fontWeight:"bold", color:"#2a1808", borderBottom:"1px solid #9a7840"}}>{l}</td>
+            ))}
+          </tr>
+          <tr>
+            <td style={{padding:"2px 6px", fontWeight:"bold", color:planet.color, fontSize:10}}>Cipher</td>
+            {shifted.map((l, i) => (
+              <td key={i} style={{padding:"3px 4px", textAlign:"center", fontWeight:"bold", color:planet.color, background:i%2===0?"rgba(0,0,0,0.04)":"transparent"}}>{l}</td>
+            ))}
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+/* ═══ MAIN APP ═══ */
+function App() {
+  const [selPlanet, setSelPlanet] = useState(0);
+  const [rotation, setRotation] = useState(0);
+  const [isDragging, setIsDragging] = useState(false);
+  const [plaintext, setPlaintext] = useState("");
+  const [ciphertext, setCiphertext] = useState("");
+  const [mode, setMode] = useState("encrypt"); // encrypt | decrypt | myth
+  const [mythInput, setMythInput] = useState("");
+  const [mythOutput, setMythOutput] = useState("");
+  const [activeTab, setActiveTab] = useState("wheel"); // wheel | encode | tokens | lore
+
+  const planet = PLANETS[selPlanet];
+  const shift = Math.round(rotation / (360/26)) % 26;
+
+  // Snap rotation to planet's natural shift on planet change
+  useEffect(() => {
+    const planetShifts = { Saturn:0, Jupiter:4*(360/26), Mars:5*(360/26), Sun:6*(360/26), Venus:9*(360/26), Mercury:11*(360/26), Moon:13*(360/26) };
+    setRotation(planetShifts[planet.name] || 0);
+  }, [selPlanet]);
+
+  // Auto-apply cipher on text change
+  useEffect(() => {
+    if (!plaintext) { setCiphertext(""); return; }
+    if (mode === "decrypt") {
+      setCiphertext(applyPlanetCipher(planet, plaintext, false));
+    } else {
+      setCiphertext(applyPlanetCipher(planet, plaintext, true));
+    }
+  }, [plaintext, selPlanet, mode, rotation]);
+
+  useEffect(() => {
+    if (!mythInput) { setMythOutput(""); return; }
+    if (mode === "myth_enc") setMythOutput(toMythTokens(mythInput));
+    else setMythOutput(fromMythTokens(mythInput));
+  }, [mythInput, mode]);
+
+  const panelStyle = {
+    background:"rgba(180,148,72,0.25)",
+    border:"1px solid rgba(90,58,24,0.4)",
+    borderRadius:4,
+    padding:"12px 14px",
+    marginBottom:12,
+  };
+
+  const tabBtn = (id, label) => (
+    <button onClick={() => setActiveTab(id)} style={{
+      flex:1, padding:"8px 4px", fontSize:12,
+      background: activeTab===id ? "#3a2810" : "rgba(58,40,16,0.15)",
+      color: activeTab===id ? "#c4a868" : "#3a2810",
+      border:"1px solid rgba(58,40,16,0.3)",
+      fontFamily:"inherit", fontWeight:"bold", letterSpacing:"0.05em",
+      cursor:"pointer", transition:"all 0.2s",
+    }}>{label}</button>
+  );
+
+  const inputStyle = {
+    width:"100%", background:"rgba(200,168,96,0.3)",
+    border:"1px solid rgba(90,58,24,0.5)", borderRadius:3,
+    padding:"8px 10px", fontSize:13, color:"#1a1008",
+    resize:"vertical", fontFamily:"inherit",
+  };
+
+  return (
+    <div style={{minHeight:"100vh", display:"flex", flexDirection:"column"}}>
+      {/* ── HEADER ── */}
+      <div style={{background:"#2a1808", padding:"18px 20px", textAlign:"center"}}>
+        <div style={{fontSize:11, letterSpacing:"0.25em", color:"#8b6914", marginBottom:4}}>GIAMBATTISTA DELLA PORTA · 1592</div>
+        <div style={{fontSize:26, fontWeight:"bold", color:"#c4a868", letterSpacing:"0.08em"}}>PORTA'S CIPHER WHEEL</div>
+        <div style={{fontSize:12, fontStyle:"italic", color:"#9a7840", marginTop:4}}>De Occultis Literarum Notis — The Art of Secret Writing</div>
+        <WoodcutBorder/>
+      </div>
+
+      {/* ── PLANET SELECTOR ── */}
+      <div style={{background:"rgba(42,24,8,0.08)", padding:"10px 16px"}}>
+        <div style={{fontSize:9, letterSpacing:"0.2em", color:"#5a3a18", marginBottom:8, textAlign:"center"}}>SELECT PLANETARY KEY</div>
+        <div style={{display:"flex", gap:6, overflowX:"auto", paddingBottom:4}}>
+          {PLANETS.map((p, i) => (
+            <button key={p.name} onClick={() => setSelPlanet(i)} style={{
+              flex:"0 0 auto", padding:"6px 10px",
+              background: selPlanet===i ? p.color : "rgba(180,148,72,0.3)",
+              color: selPlanet===i ? "#c4a868" : "#3a2810",
+              border: selPlanet===i ? `2px solid ${p.color}` : "1px solid rgba(90,58,24,0.3)",
+              borderRadius:3, fontFamily:"inherit", cursor:"pointer",
+              fontSize:11, fontWeight:"bold", transition:"all 0.2s",
+              display:"flex", flexDirection:"column", alignItems:"center", gap:2,
+            }}>
+              <span style={{fontSize:18}}>{p.sym}</span>
+              <span style={{fontSize:9, letterSpacing:"0.1em"}}>{p.name.toUpperCase()}</span>
+            </button>
+          ))}
+        </div>
+      </div>
+
+      {/* ── TABS ── */}
+      <div style={{display:"flex", borderBottom:"2px solid rgba(58,40,16,0.3)"}}>
+        {tabBtn("wheel", "⟳ WHEEL")}
+        {tabBtn("encode", "✦ ENCODE")}
+        {tabBtn("tokens", "⚗ MYTH TOKENS")}
+        {tabBtn("lore", "☽ LORE")}
+      </div>
+
+      {/* ── CONTENT ── */}
+      <div style={{flex:1, padding:"16px", maxWidth:900, margin:"0 auto", width:"100%"}}>
+
+        {activeTab === "wheel" && (
+          <div style={{display:"flex", flexDirection:"row", flexWrap:"wrap", gap:20, alignItems:"flex-start"}}>
+            {/* Wheel */}
+            <div style={{flex:"0 0 auto", width:"100%", maxWidth:400}}>
+              <CipherWheel planet={planet} outerRotation={rotation} onDrag={setRotation} isDragging={isDragging}/>
+              <div style={{textAlign:"center", marginTop:8, fontSize:11, color:"#5a3a18", fontStyle:"italic"}}>
+                Drag the inner ring to rotate · Current shift: <strong>{shift}</strong>
+              </div>
+              {/* Fine rotation control */}
+              <div style={{display:"flex", alignItems:"center", gap:8, marginTop:10}}>
+                <button onClick={() => setRotation(r => (r - 360/26 + 360)%360)} style={{
+                  flex:1, padding:"6px", background:"rgba(58,40,16,0.15)", border:"1px solid rgba(58,40,16,0.3)",
+                  borderRadius:3, fontSize:12, fontFamily:"inherit", cursor:"pointer",color:"#3a2810"
+                }}>← Prev</button>
+                <span style={{fontSize:11, color:"#5a3a18", whiteSpace:"nowrap"}}>{shift} / 26</span>
+                <button onClick={() => setRotation(r => (r + 360/26)%360)} style={{
+                  flex:1, padding:"6px", background:"rgba(58,40,16,0.15)", border:"1px solid rgba(58,40,16,0.3)",
+                  borderRadius:3, fontSize:12, fontFamily:"inherit", cursor:"pointer",color:"#3a2810"
+                }}>Next →</button>
+              </div>
+            </div>
+
+            {/* Cipher map */}
+            <div style={{flex:"1 1 280px"}}>
+              <div style={{...panelStyle}}>
+                <div style={{fontSize:10, letterSpacing:"0.15em", color:"#5a3a18", marginBottom:6}}>{planet.sym} {planet.name.toUpperCase()} · CIPHER ALPHABET</div>
+                <CipherMapTable planet={planet} shift={shift}/>
+                <WoodcutDivider/>
+                <div style={{fontSize:11, color:"#3a2810", fontStyle:"italic", lineHeight:1.6}}>{planet.method}</div>
+                <div style={{fontSize:10, color:"#6a5a3a", marginTop:8, fontStyle:"italic", borderTop:"1px solid rgba(90,58,24,0.2)", paddingTop:6}}>
+                  Porta: "{planet.porta_ref}"
+                </div>
+              </div>
+
+              {/* Planet attributes */}
+              <div style={{...panelStyle, display:"grid", gridTemplateColumns:"1fr 1fr", gap:8, fontSize:11}}>
+                <div><span style={{color:"#6a5a3a"}}>Metal: </span><strong>{planet.metal}</strong></div>
+                <div><span style={{color:"#6a5a3a"}}>Number: </span><strong>{planet.number}</strong></div>
+                <div><span style={{color:"#6a5a3a"}}>Angel: </span><strong style={{color:planet.color}}>{planet.angel}</strong></div>
+                <div><span style={{color:"#6a5a3a"}}>Spirit: </span><strong>{planet.spirit}</strong></div>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {activeTab === "encode" && (
+          <div style={{display:"flex", flexDirection:"column", gap:12}}>
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:10, letterSpacing:"0.15em", color:"#5a3a18", marginBottom:10}}>
+                {planet.sym} {planet.name.toUpperCase()} CIPHER · SHIFT {shift}
+              </div>
+
+              {/* Mode toggle */}
+              <div style={{display:"flex", gap:0, marginBottom:12, border:"1px solid rgba(58,40,16,0.3)", borderRadius:3, overflow:"hidden"}}>
+                {[["encrypt","Encrypt ↓"],["decrypt","Decrypt ↑"]].map(([m, label]) => (
+                  <button key={m} onClick={() => { setMode(m); setPlaintext(""); setCiphertext(""); }} style={{
+                    flex:1, padding:"7px", fontSize:12,
+                    background: mode===m ? "#3a2810" : "transparent",
+                    color: mode===m ? "#c4a868" : "#3a2810",
+                    border:"none", fontFamily:"inherit", cursor:"pointer",
+                  }}>{label}</button>
+                ))}
+              </div>
+
+              <label style={{fontSize:11, color:"#5a3a18", display:"block", marginBottom:4}}>
+                {mode==="encrypt" ? "Plaintext message:" : "Ciphertext to decode:"}
+              </label>
+              <textarea
+                value={plaintext}
+                onChange={e => setPlaintext(e.target.value)}
+                placeholder={mode==="encrypt" ? "Enter your secret message..." : "Enter cipher text to reveal..."}
+                rows={4}
+                style={inputStyle}
+              />
+
+              <div style={{textAlign:"center", margin:"10px 0", fontSize:18, color:planet.color}}>
+                {mode==="encrypt" ? "↓" : "↑"}
+              </div>
+
+              <label style={{fontSize:11, color:"#5a3a18", display:"block", marginBottom:4}}>
+                {mode==="encrypt" ? "Cipher output:" : "Revealed plaintext:"}
+              </label>
+              <div style={{
+                ...inputStyle, minHeight:80, background:"rgba(42,24,8,0.1)",
+                fontWeight:"bold", fontSize:15, letterSpacing:"0.1em",
+                color: mode==="encrypt" ? planet.color : "#2a1808",
+                borderColor: planet.color, whiteSpace:"pre-wrap", wordBreak:"break-all",
+              }}>
+                {ciphertext || <span style={{opacity:0.4, fontWeight:"normal", fontSize:12}}>Output will appear here…</span>}
+              </div>
+
+              {ciphertext && (
+                <button onClick={() => navigator.clipboard?.writeText(ciphertext)} style={{
+                  marginTop:8, padding:"6px 14px", background:"rgba(58,40,16,0.15)",
+                  border:"1px solid rgba(58,40,16,0.3)", borderRadius:3, fontSize:11,
+                  fontFamily:"inherit", cursor:"pointer", color:"#3a2810",
+                }}>Copy to clipboard</button>
+              )}
+            </div>
+
+            {/* Quick planet switch for encode */}
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:10, letterSpacing:"0.15em", color:"#5a3a18", marginBottom:8}}>CHANGE PLANETARY KEY</div>
+              <div style={{display:"flex", flexWrap:"wrap", gap:6}}>
+                {PLANETS.map((p, i) => (
+                  <button key={p.name} onClick={() => setSelPlanet(i)} style={{
+                    padding:"4px 10px",
+                    background: selPlanet===i ? p.color : "rgba(180,148,72,0.3)",
+                    color: selPlanet===i ? "#c4a868" : "#3a2810",
+                    border: `1px solid ${selPlanet===i ? p.color : "rgba(90,58,24,0.3)"}`,
+                    borderRadius:3, fontSize:11, fontFamily:"inherit", cursor:"pointer",
+                  }}>{p.sym} {p.name}</button>
+                ))}
+              </div>
+            </div>
+          </div>
+        )}
+
+        {activeTab === "tokens" && (
+          <div style={{display:"flex", flexDirection:"column", gap:12}}>
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:13, fontWeight:"bold", color:"#3a2810", marginBottom:6}}>Mythological Cipher Tokens</div>
+              <div style={{fontSize:11, lineHeight:1.7, color:"#3a2810", marginBottom:12}}>
+                From De Occultis p.157–158: <em>"I will call Apollo the King, Scorpius the Scorpion."</em><br/>
+                Porta assigned each letter a mythological figure — so a cipher text reads as a list of gods, heroes, and creatures. To an outsider it is theology. To the initiated it is a message.
+              </div>
+              <WoodcutDivider/>
+
+              {/* Token table */}
+              <div style={{display:"grid", gridTemplateColumns:"repeat(auto-fill, minmax(120px,1fr))", gap:4, marginBottom:12}}>
+                {ALPHABET.map(l => (
+                  <div key={l} style={{
+                    background:"rgba(42,24,8,0.08)", borderRadius:3, padding:"4px 8px",
+                    display:"flex", alignItems:"center", gap:6, fontSize:11,
+                  }}>
+                    <span style={{fontWeight:"bold", color:planet.color, width:14}}>{l}</span>
+                    <span style={{color:"#3a2810", fontStyle:"italic"}}>{MYTH_TOKENS[l]}</span>
+                  </div>
+                ))}
+              </div>
+              <WoodcutDivider/>
+
+              {/* Encode/decode with myth tokens */}
+              <div style={{display:"flex", gap:0, marginBottom:10, border:"1px solid rgba(58,40,16,0.3)", borderRadius:3, overflow:"hidden"}}>
+                {[["myth_enc","Text → Tokens"],["myth_dec","Tokens → Text"]].map(([m, label]) => (
+                  <button key={m} onClick={() => { setMode(m); setMythInput(""); setMythOutput(""); }} style={{
+                    flex:1, padding:"7px", fontSize:12,
+                    background: mode===m ? "#3a2810" : "transparent",
+                    color: mode===m ? "#c4a868" : "#3a2810",
+                    border:"none", fontFamily:"inherit", cursor:"pointer",
+                  }}>{label}</button>
+                ))}
+              </div>
+
+              <textarea
+                value={mythInput}
+                onChange={e => setMythInput(e.target.value)}
+                placeholder={mode==="myth_enc" ? "Enter text to encode as myth tokens..." : "Enter token names separated by · or spaces..."}
+                rows={3}
+                style={inputStyle}
+              />
+              <div style={{textAlign:"center", margin:"8px 0", fontSize:16, color:planet.color}}>↓</div>
+              <div style={{
+                ...inputStyle, minHeight:60, background:"rgba(42,24,8,0.1)",
+                fontWeight:"bold", fontSize:13, color:planet.color,
+                whiteSpace:"pre-wrap", wordBreak:"break-word",
+              }}>
+                {mythOutput || <span style={{opacity:0.4, fontWeight:"normal", fontSize:12}}>Output will appear here…</span>}
+              </div>
+            </div>
+          </div>
+        )}
+
+        {activeTab === "lore" && (
+          <div style={{display:"flex", flexDirection:"column", gap:12}}>
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:13, fontWeight:"bold", color:"#3a2810", marginBottom:4}}>
+                {planet.sym} {planet.name} — {planet.desc.split(".")[0]}
+              </div>
+              <WoodcutDivider/>
+              <div style={{fontSize:12, lineHeight:1.8, color:"#2a1808"}}>{planet.desc}</div>
+            </div>
+
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:11, letterSpacing:"0.12em", color:"#5a3a18", marginBottom:8}}>ALL SEVEN PLANETARY CIPHERS</div>
+              {PLANETS.map(p => (
+                <div key={p.name} style={{
+                  marginBottom:10, paddingBottom:10,
+                  borderBottom:"1px solid rgba(90,58,24,0.2)",
+                }}>
+                  <div style={{display:"flex", alignItems:"center", gap:8, marginBottom:3}}>
+                    <span style={{fontSize:18, color:p.color}}>{p.sym}</span>
+                    <span style={{fontWeight:"bold", fontSize:13, color:p.color}}>{p.name}</span>
+                    <span style={{fontSize:10, color:"#6a5a3a", marginLeft:"auto"}}>{p.metal} · {p.angel}</span>
+                  </div>
+                  <div style={{fontSize:11, color:"#3a2810", fontStyle:"italic"}}>{p.method}</div>
+                  <div style={{fontSize:10, color:"#8a7050", marginTop:3}}>Porta: "{p.porta_ref}"</div>
+                </div>
+              ))}
+            </div>
+
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:11, letterSpacing:"0.12em", color:"#5a3a18", marginBottom:8}}>INVISIBLE INK FORMULAE</div>
+              {[
+                {mat:"Egg white (albumen)", method:"Write on paper or wood — dries clear. Revealed by heat or chemical treatment.", ref:"Chunk 024"},
+                {mat:"Alum + Gall Nuts", method:"Crush together to produce impermeable ink. Revealed by heat or vinegar.", ref:"Chunk 024"},
+                {mat:"Iron Gall Ink", method:"Penetrates paper invisibly if diluted. Standard scriptorial ink of the period.", ref:"Chunk 001"},
+                {mat:"Lead Lamellae + Wax", method:"Inscribe on thin lead sheet, fold and seal with wax. The physical form of a curse tablet.", ref:"Chunk 013"},
+              ].map((f, i) => (
+                <div key={i} style={{marginBottom:8, paddingBottom:8, borderBottom:"1px solid rgba(90,58,24,0.15)"}}>
+                  <div style={{fontWeight:"bold", fontSize:12, color:"#3a2810"}}>{f.mat}</div>
+                  <div style={{fontSize:11, color:"#5a3a18", fontStyle:"italic"}}>{f.method}</div>
+                  <div style={{fontSize:9, color:"#8a7050"}}>De Occultis, {f.ref}</div>
+                </div>
+              ))}
+            </div>
+
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:11, letterSpacing:"0.12em", color:"#5a3a18", marginBottom:8}}>CARRIER METHODS</div>
+              {[
+                {name:"Carrier Doves", detail:"Attach message to leg. Porta cites Herodotus, Caesar, Ptolemy. The same bird used in magical rites.", ref:"Chunk 010"},
+                {name:"Scytale (Cipher Stick)", detail:"Spartan device — wrap strip of parchment around a rod. Message only readable on a rod of identical diameter.", ref:"Chunk 019"},
+                {name:"Wax Tablet Surface", detail:"Write on wood beneath wax surface. Appearance of a blank tablet conceals the message.", ref:"Chunk 013"},
+                {name:"Papyrus Roll", detail:"Rolled papyrus container — message hidden inside structural layers of the scroll.", ref:"Chunk 017"},
+                {name:"Javelin / Arrow", detail:"Porta cites classical use of messages attached to arrows or bolts fired into besieged cities.", ref:"Chunk 010"},
+              ].map((c, i) => (
+                <div key={i} style={{marginBottom:8, paddingBottom:8, borderBottom:"1px solid rgba(90,58,24,0.15)"}}>
+                  <div style={{fontWeight:"bold", fontSize:12, color:"#3a2810"}}>{c.name}</div>
+                  <div style={{fontSize:11, color:"#5a3a18", fontStyle:"italic"}}>{c.detail}</div>
+                  <div style={{fontSize:9, color:"#8a7050"}}>De Occultis, {c.ref}</div>
+                </div>
+              ))}
+            </div>
+
+            <div style={{...panelStyle}}>
+              <div style={{fontSize:10, color:"#6a5a3a", fontStyle:"italic", lineHeight:1.7}}>
+                <em>Giambattista della Porta</em> (1535–1615) was a Neapolitan polymath — natural magician, cryptographer, playwright, and founder of the <em>Accademia dei Segreti</em> (Academy of Secrets), one of the first scientific societies in Europe. <em>De Occultis Literarum Notis</em> (1592) is his systematic treatise on cryptography, the most comprehensive of the Renaissance. His planetary cipher system assigns each planet a distinct encoding method — the same seven planets that govern hours, angels, and spirits in the tradition of the Munich Handbook.
+              </div>
+            </div>
+          </div>
+        )}
+
+      </div>
+
+      {/* ── FOOTER ── */}
+      <div style={{background:"#2a1808", padding:"10px 20px", textAlign:"center"}}>
+        <WoodcutBorder/>
+        <div style={{fontSize:9, letterSpacing:"0.2em", color:"#6a5040", marginTop:8}}>
+          COMPANION TO THE SPHERE OF HEW DRAPER · MUNICH HANDBOOK RESEARCH PROJECT
+        </div>
+        <div style={{fontSize:9, color:"#4a3020", marginTop:3}}>
+          Based on De Occultis Literarum Notis (Giambattista della Porta, Naples, 1592) · OCR + Translation via nemotron-nano-omni
+        </div>
+      </div>
+    </div>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<App/>);
+</script>
+</body>
+</html>
