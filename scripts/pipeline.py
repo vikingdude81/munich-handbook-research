@@ -118,6 +118,32 @@ SOURCES = {
                          "concept", "location", "critique"],
     },
 
+    "alchemy_mysticism": {
+        "label": "Alchemy & Mysticism — Taschen (2003)",
+        "pdf": r"c:\Users\akbon\Downloads\Alchemy___Mysticism_-_Taschen__2003__text.pdf",
+        "mode": "native",
+        "language": "en",
+        "translate": False,
+        "research_goal": (
+            "Extract structured knowledge from Taschen's Alchemy & Mysticism (2003): "
+            "Kircher's Ars Magna Lucis lunar mansions and planetary-organ correspondences, "
+            "Giordano Bruno's great wheel and combinatory disk systems, Picatrix-derived talismans and "
+            "planetary operations, Dee's Monas Hieroglyphica symbolism, and Agrippa-style occult correspondences "
+            "for Draper's talismanic model."
+        ),
+        "distill_instructions": (
+            "Prioritize extraction of the 28 lunar mansions, Yeats-like Great Wheel/diagram relationships, "
+            "Bruno disk constructions, Picatrix talisman descriptions and attributions, "
+            "Kircher organ/planet correspondences, and any system of planetary magic or seal correspondences "
+            "that can be mapped into the Draper occult model."
+        ),
+        "entity_types": [
+            "lunar_mansion", "great_wheel", "bruno_disk", "picatrix_talisman", "seal",
+            "diagram", "planet", "organ_correspondence", "planetary_organ", "magic_square",
+            "symbol", "system", "concept",
+        ],
+    },
+
     "key_of_solomon": {
         "label": "Key of Solomon (Clavicula Salomonis) — multiple MSS, c. 14th-17th c.",
         "pdf": r"c:\Users\akbon\Downloads\key_of_solomon.pdf",
@@ -329,7 +355,8 @@ LANGUAGE_NAMES = {
 
 
 def stage_translate(source_id: str, cfg: dict, client: OpenAI,
-                    resume: bool = False, skip_chunks: set = None):
+                    resume: bool = False, skip_chunks: set = None,
+                    chunk_numbers: set[int] | None = None):
     """Raw chunks → English translations in data/sources/{source_id}_translated/"""
     p = paths_for(source_id)
     in_dir = p["raw"]
@@ -348,6 +375,8 @@ def stage_translate(source_id: str, cfg: dict, client: OpenAI,
 
     for chunk_path in chunks:
         num = int(re.search(r"chunk_(\d+)", chunk_path.name).group(1))
+        if chunk_numbers is not None and num not in chunk_numbers:
+            continue
         if num in skip_chunks:
             print(f"  [SKIP] chunk_{num:03d} (skip_chunks)")
             continue
@@ -443,11 +472,13 @@ Return ONLY a JSON object with this schema:
 }}
 
 Entity types for this source: {entity_types}
+{extra_instructions}
 """
 
 
 def stage_distill(source_id: str, cfg: dict, client: OpenAI,
-                  resume: bool = False, skip_chunks: set = None):
+                  resume: bool = False, skip_chunks: set = None,
+                  chunk_numbers: set[int] | None = None):
     """Translated chunks → structured JSON in data/distilled/{source_id}/"""
     p = paths_for(source_id)
     # Use translated dir if translation was done, else raw dir
@@ -466,6 +497,8 @@ def stage_distill(source_id: str, cfg: dict, client: OpenAI,
 
     for chunk_path in chunks:
         num = int(re.search(r"chunk_(\d+)", chunk_path.name).group(1))
+        if chunk_numbers is not None and num not in chunk_numbers:
+            continue
         if num in skip_chunks:
             continue
 
@@ -478,11 +511,18 @@ def stage_distill(source_id: str, cfg: dict, client: OpenAI,
             text = text[:MAX_CHARS_PER_DISTILL]
 
         print(f"  Distilling chunk_{num:03d} ({len(text)} chars) ...")
+        extra_instructions = cfg.get("distill_instructions", "")
+        extra_instructions = (
+            f"Extra instructions: {extra_instructions}"
+            if extra_instructions else ""
+        )
+
         user_msg = DISTILL_USER_TEMPLATE.format(
             source_label=cfg["label"],
             research_goal=cfg["research_goal"],
             text=text,
             entity_types=entity_types,
+            extra_instructions=extra_instructions,
         )
 
         for attempt in range(3):
@@ -591,6 +631,51 @@ def stage_aggregate(source_id: str):
 
     print(f"  {len(all_entities)} unique entities -> {p['aggregate_json'].name} + .csv")
 
+def is_draper_relevant_entity(ent: dict) -> bool:
+    type_name = (ent.get("type") or "").lower().strip()
+    if type_name in {
+        "lunar_mansion", "organ_correspondence", "planet", "talisman", "seal",
+        "symbol", "system", "diagram", "magic_square", "bruno_disk",
+        "picatrix_talisman", "great_wheel",
+    }:
+        return True
+
+    text = " ".join([str(ent.get(k, "")) for k in ["name", "description", "type"]]).lower()
+    return any(keyword in text for keyword in [
+        "lunar", "mansion", "kircher", "bruno", "picatrix", "agrippa", "draper",
+        "organ", "planet", "talisman", "seal", "wheel", "disk", "magic",
+    ])
+
+
+def stage_draper_subset(source_id: str):
+    """Export a Draper-focused subset from a source's aggregated entity file."""
+    p = paths_for(source_id)
+    if not p["aggregate_json"].exists():
+        print(f"  [ERROR] Missing aggregate JSON: {p['aggregate_json']}")
+        return
+
+    try:
+        entities = json.loads(p["aggregate_json"].read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"  [ERROR] Could not read aggregate JSON: {exc}")
+        return
+
+    subset = []
+    for ent in entities:
+        if is_draper_relevant_entity(ent):
+            ent_copy = ent.copy()
+            ent_copy["attributes"] = json.dumps(ent_copy.get("attributes", {}), ensure_ascii=False)
+            subset.append(ent_copy)
+
+    output_csv = DATA_DIR / "distilled" / f"{source_id}_draper_subset.csv"
+    fieldnames = ["name", "type", "description", "source_ref", "source_id", "chunk_id", "attributes"]
+
+    with open(output_csv, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(subset)
+
+    print(f"  {len(subset)} Draper-relevant entities -> {output_csv.name}")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # STATUS
@@ -642,6 +727,10 @@ def main():
     agg_p = sub.add_parser("aggregate", help="Merge distilled chunks into entities.json/csv")
     agg_p.add_argument("--source", required=True, choices=list(SOURCES.keys()))
 
+    # subset
+    subset_p = sub.add_parser("subset", help="Export a Draper-relevant subset from aggregated entities")
+    subset_p.add_argument("--source", required=True, choices=list(SOURCES.keys()))
+
     # list
     sub.add_parser("list", help="List all available sources")
 
@@ -661,14 +750,23 @@ def main():
         stage_aggregate(args.source)
         return
 
+    if args.command == "subset":
+        print(f"Exporting Draper subset for {args.source} ...")
+        stage_draper_subset(args.source)
+        return
+
     if args.command == "run":
         cfg = SOURCES[args.source]
         skip_chunks = set()
+        chunk_numbers = None
         if args.chunks:
-            # Only process specified chunks (inverse: skip everything else)
-            pass  # handled inside each stage via filtering
+            chunk_numbers = set(int(x.strip()) for x in args.chunks.split(",") if x.strip())
 
         print(f"\nPipeline: {cfg['label']}")
+        chunk_numbers = None
+        if args.chunks:
+            chunk_numbers = set(int(x.strip()) for x in args.chunks.split(",") if x.strip())
+
         print(f"Source ID: {args.source}  |  Stage: {args.stage}  |  Resume: {args.resume}\n")
 
         client = OpenAI(base_url=LM_STUDIO_URL, api_key="lm-studio")
@@ -679,13 +777,15 @@ def main():
 
         if args.stage in ("translate", "all") and cfg.get("translate"):
             print("[Stage 2] TRANSLATE")
-            stage_translate(args.source, cfg, client, resume=args.resume)
+            stage_translate(args.source, cfg, client, resume=args.resume,
+                            chunk_numbers=chunk_numbers)
         elif args.stage == "translate" and not cfg.get("translate"):
             print("[Stage 2] SKIP — source is already in English")
 
         if args.stage in ("distill", "all"):
             print("[Stage 3] DISTILL")
-            stage_distill(args.source, cfg, client, resume=args.resume)
+            stage_distill(args.source, cfg, client, resume=args.resume,
+                          chunk_numbers=chunk_numbers)
 
         print("\nAggregating entities ...")
         stage_aggregate(args.source)

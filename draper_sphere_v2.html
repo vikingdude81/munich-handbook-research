@@ -15,38 +15,40 @@
 <body>
 <div id="root"></div>
 <script type="text/babel">
-const { useState, useEffect } = React;
+const { useState } = React;
 
-/* ══════ DATA ══════ */
-const CHALDEAN=["Saturn","Jupiter","Mars","Sun","Venus","Mercury","Moon"];
+/* ═══ CORE DATA ═══ */
+const CH=["Saturn","Jupiter","Mars","Sun","Venus","Mercury","Moon"];
 const DR=["Sun","Moon","Mars","Mercury","Jupiter","Venus","Saturn"];
 const DN=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 const ZOD=[
-  {n:"Aries",s:"♈",e:"Fire",st:"Mar 21",ru:"Mars",q:"Cardinal",d:"Initiative, courage, raw energy. The ram charges — first sign, spring equinox."},
-  {n:"Taurus",s:"♉",e:"Earth",st:"Apr 20",ru:"Venus",q:"Fixed",d:"Stability, sensuality, material wealth. The bull holds ground."},
-  {n:"Gemini",s:"♊",e:"Air",st:"May 21",ru:"Mercury",q:"Mutable",d:"Communication, duality, intellect. Draper carved his sphere under this sign."},
-  {n:"Cancer",s:"♋",e:"Water",st:"Jun 21",ru:"Moon",q:"Cardinal",d:"Nurture, protection, emotional depth. The crab carries its home."},
-  {n:"Leo",s:"♌",e:"Fire",st:"Jul 23",ru:"Sun",q:"Fixed",d:"Authority, creativity, will. The Sun's own domicile."},
-  {n:"Virgo",s:"♍",e:"Earth",st:"Aug 23",ru:"Mercury",q:"Mutable",d:"Analysis, precision. The maiden winnows wheat from chaff."},
-  {n:"Libra",s:"♎",e:"Air",st:"Sep 23",ru:"Venus",q:"Cardinal",d:"Balance, justice, partnership. Saturn is exalted here."},
-  {n:"Scorpio",s:"♏",e:"Water",st:"Oct 23",ru:"Mars",q:"Fixed",d:"Transformation, secrets, power. The scorpion strikes from shadow."},
-  {n:"Sagittarius",s:"♐",e:"Fire",st:"Nov 22",ru:"Jupiter",q:"Mutable",d:"Exploration, philosophy, freedom. The archer aims at truth."},
-  {n:"Capricorn",s:"♑",e:"Earth",st:"Dec 22",ru:"Saturn",q:"Cardinal",d:"Ambition, structure, mastery. Saturn's own domicile."},
-  {n:"Aquarius",s:"♒",e:"Air",st:"Jan 20",ru:"Saturn",q:"Fixed",d:"Innovation, rebellion, humanity. The outsider's sign."},
-  {n:"Pisces",s:"♓",e:"Water",st:"Feb 19",ru:"Jupiter",q:"Mutable",d:"Intuition, dissolution, transcendence. The mystic's sign."},
+  {n:"Aries",s:"♈",e:"Fire",st:"Mar 21",ru:"Mars",q:"Cardinal",d:"Initiative, courage, raw energy."},
+  {n:"Taurus",s:"♉",e:"Earth",st:"Apr 20",ru:"Venus",q:"Fixed",d:"Stability, sensuality, material wealth."},
+  {n:"Gemini",s:"♊",e:"Air",st:"May 21",ru:"Mercury",q:"Mutable",d:"Communication, duality, intellect. Draper's sign."},
+  {n:"Cancer",s:"♋",e:"Water",st:"Jun 21",ru:"Moon",q:"Cardinal",d:"Nurture, protection, emotional depth."},
+  {n:"Leo",s:"♌",e:"Fire",st:"Jul 23",ru:"Sun",q:"Fixed",d:"Authority, creativity, will."},
+  {n:"Virgo",s:"♍",e:"Earth",st:"Aug 23",ru:"Mercury",q:"Mutable",d:"Analysis, precision, service."},
+  {n:"Libra",s:"♎",e:"Air",st:"Sep 23",ru:"Venus",q:"Cardinal",d:"Balance, justice, partnership."},
+  {n:"Scorpio",s:"♏",e:"Water",st:"Oct 23",ru:"Mars",q:"Fixed",d:"Transformation, secrets, power."},
+  {n:"Sagittarius",s:"♐",e:"Fire",st:"Nov 22",ru:"Jupiter",q:"Mutable",d:"Exploration, philosophy, freedom."},
+  {n:"Capricorn",s:"♑",e:"Earth",st:"Dec 22",ru:"Saturn",q:"Cardinal",d:"Ambition, structure, mastery."},
+  {n:"Aquarius",s:"♒",e:"Air",st:"Jan 20",ru:"Saturn",q:"Fixed",d:"Innovation, rebellion, humanity."},
+  {n:"Pisces",s:"♓",e:"Water",st:"Feb 19",ru:"Jupiter",q:"Mutable",d:"Intuition, dissolution, transcendence."},
 ];
 const EC={Fire:"#8b3a3a",Earth:"#5a6b3a",Air:"#3a5a6b",Water:"#3a3a6b"};
 const PL={
-  Sun:{s:"☉",c:"#8b6914",m:"Gold",dom:["Leo"],ex:"Aries",det:["Aquarius"],fa:"Libra",d:"Core identity, vitality, conscious will. Rules Sunday."},
-  Moon:{s:"☽",c:"#6a6a78",m:"Silver",dom:["Cancer"],ex:"Taurus",det:["Capricorn"],fa:"Scorpio",d:"Emotion, intuition, the unconscious. Rules Monday."},
-  Mercury:{s:"☿",c:"#5a6878",m:"Quicksilver",dom:["Gemini","Virgo"],ex:"Virgo",det:["Sagittarius","Pisces"],fa:"Pisces",d:"Communication, intellect, craft. Rules Wednesday."},
+  Sun:{s:"☉",c:"#8b6914",m:"Gold",dom:["Leo"],ex:"Aries",det:["Aquarius"],fa:"Libra",d:"Vitality, will, identity. Rules Sunday."},
+  Moon:{s:"☽",c:"#6a6a78",m:"Silver",dom:["Cancer"],ex:"Taurus",det:["Capricorn"],fa:"Scorpio",d:"Emotion, intuition, cycles. Rules Monday."},
+  Mercury:{s:"☿",c:"#5a6878",m:"Quicksilver",dom:["Gemini","Virgo"],ex:"Virgo",det:["Sagittarius","Pisces"],fa:"Pisces",d:"Intellect, craft, communication. Rules Wednesday."},
   Venus:{s:"♀",c:"#5a7a5a",m:"Copper",dom:["Taurus","Libra"],ex:"Pisces",det:["Aries","Scorpio"],fa:"Virgo",d:"Love, beauty, harmony. Rules Friday."},
   Mars:{s:"♂",c:"#8b4a4a",m:"Iron",dom:["Aries","Scorpio"],ex:"Capricorn",det:["Taurus","Libra"],fa:"Cancer",d:"Action, conflict, force. Rules Tuesday."},
-  Jupiter:{s:"♃",c:"#5a4a7a",m:"Tin",dom:["Sagittarius","Pisces"],ex:"Cancer",det:["Gemini","Virgo"],fa:"Capricorn",d:"Expansion, wisdom, fortune. Rules Thursday."},
+  Jupiter:{s:"♃",c:"#5a4a7a",m:"Tin",dom:["Sagittarius","Pisces"],ex:"Cancer",det:["Gemini","Virgo"],fa:"Capricorn",d:"Expansion, fortune, wisdom. Rules Thursday."},
   Saturn:{s:"♄",c:"#5a4a3a",m:"Lead",dom:["Capricorn","Aquarius"],ex:"Libra",det:["Cancer","Leo"],fa:"Aries",d:"Restriction, time, death. Rules Saturday."},
 };
+
+/* ═══ ANGELIC ═══ */
 const ANG={
-  Sun:{a:"Michael",rk:"Archangel",int:"Nakhiel",sp:"Sorath",n:111,sq:6,inv:"By the light of the Sun and the authority of Michael, prince of angels"},
+  Sun:{a:"Michael",rk:"Archangel",int:"Nakhiel",sp:"Sorath",n:111,sq:6,inv:"By the light of the Sun and the authority of Michael"},
   Moon:{a:"Gabriel",rk:"Archangel",int:"Malkah be-Tarshisim",sp:"Chasmodai",n:369,sq:9,inv:"By the tides of the Moon and the vision of Gabriel"},
   Mars:{a:"Samael",rk:"Angel of Severity",int:"Graphiel",sp:"Bartzabel",n:65,sq:5,inv:"By the fires of Mars and the severity of Samael"},
   Mercury:{a:"Raphael",rk:"Archangel",int:"Tiriel",sp:"Taphthartharath",n:260,sq:8,inv:"By the wind of Mercury and the healing of Raphael"},
@@ -54,695 +56,559 @@ const ANG={
   Venus:{a:"Anael",rk:"Angel of Love",int:"Hagiel",sp:"Kedemel",n:175,sq:7,inv:"By the grace of Venus and the beauty of Anael"},
   Saturn:{a:"Cassiel",rk:"Angel of Solitude",int:"Agiel",sp:"Zazel",n:15,sq:3,inv:"By the weight of Saturn and the patience of Cassiel"},
 };
-const DIVN=[
-  {n:"Adonai",p:"N",d:"Lord — divine name of sovereignty"},
-  {n:"Tetragrammaton",p:"NE",d:"YHVH — the ineffable four-letter name"},
-  {n:"Agla",p:"E",d:"Thou art mighty forever, O Lord"},
-  {n:"Messias",p:"SE",d:"The anointed one"},
-  {n:"Emanuel",p:"S",d:"God is with us"},
-  {n:"Panthon",p:"SW",d:"All-ruler — from Greek pantokrator"},
-  {n:"Iesus Nazarenus",p:"W",d:"Invoked as divine authority"},
-  {n:"Magister",p:"C",d:"The operator's station"},
-];
-const CIPH=[
-  {n:"Substitution Cipher",d:"Replace each letter using a keyed alphabet disk with concentric rotating wheels.",f:"De Occultis, Lib. I"},
-  {n:"Digraphic Cipher",d:"First known cipher on letter PAIRS — dramatically increasing keyspace.",f:"De Occultis, Lib. II"},
-  {n:"Music Cipher",d:"Messages encoded as musical notation. One of the earliest steganographic methods.",f:"De Occultis, Lib. III"},
-  {n:"Invisible Ink",d:"Write on eggshell with alum ink — penetrates the porous shell. Boil to erase outer traces.",f:"De Occultis, Lib. IV"},
-  {n:"Volvelle Disk",d:"Rotating concentric alphabet wheels — the original cipher machine.",f:"De Occultis, Appendix"},
+
+/* ═══ KIRCHER ORGAN MAP ═══ */
+const ORGANS={Sun:"Heart",Moon:"Brain",Jupiter:"Liver",Saturn:"Spleen",Venus:"Kidneys",Mercury:"Lungs",Mars:"Gallbladder"};
+
+/* ═══ 28 LUNAR MANSIONS (Picatrix/Agrippa) ═══ */
+const MANSIONS=[
+  {n:"Al-Sharatain",star:"β Aries",op:"Travel, discord",tal:"Seal of black iron — destruction of enemies",nature:"Destructive"},
+  {n:"Al-Butain",star:"δ Aries",op:"Finding treasure, wells",tal:"Ring of red copper — reconciliation",nature:"Benefic"},
+  {n:"Al-Thurayya",star:"Pleiades",op:"Navigation, alchemy, hunting",tal:"Silver ring — safety at sea",nature:"Benefic"},
+  {n:"Al-Dabaran",star:"Aldebaran",op:"Buildings, vengeance",tal:"Red wax seal — enmity between lovers",nature:"Destructive"},
+  {n:"Al-Haq'a",star:"Orion's head",op:"Students, goodwill",tal:"Silver plate — favor of kings",nature:"Benefic"},
+  {n:"Al-Han'a",star:"Alhena",op:"Hunting, besieging cities",tal:"Tin plate — destroy harvests",nature:"Mixed"},
+  {n:"Al-Dhira",star:"Castor/Pollux",op:"Gain, friendship",tal:"Gold image — all good things",nature:"Benefic"},
+  {n:"Al-Nathra",star:"Praesepe",op:"Love, friendship",tal:"Gold seal — victory in war",nature:"Mixed"},
+  {n:"Al-Tarf",star:"Cancer eye",op:"Harm to crops, travelers",tal:"Lead plate — cause misfortune",nature:"Destructive"},
+  {n:"Al-Jabha",star:"Regulus",op:"Love, good health",tal:"Gold plate — strengthen buildings",nature:"Benefic"},
+  {n:"Al-Zubra",star:"δ Leo",op:"Voyages, trade, harvest",tal:"Gold image — besiegement & revenge",nature:"Mixed"},
+  {n:"Al-Sarfa",star:"β Leo",op:"Harvest, buildings, gain",tal:"Seal of gold — profit and ease",nature:"Benefic"},
+  {n:"Al-Awwa",star:"β Virgo",op:"Harvest, trade, voyages",tal:"Lead image — separation of lovers",nature:"Mixed"},
+  {n:"Al-Simak",star:"Spica",op:"Love, healing, voyages",tal:"Silver seal — friendship and curing disease",nature:"Benefic"},
+  {n:"Al-Ghafr",star:"ι Virgo",op:"Finding treasure, digging wells",tal:"Iron seal — friendship of powerful",nature:"Benefic"},
+  {n:"Al-Jubana",star:"Libra claws",op:"Trade, redemption of captives",tal:"Silver image — prevent travellers from proceeding",nature:"Mixed"},
+  {n:"Al-Iklil",star:"Scorpio crown",op:"Against thieves, buildings",tal:"Iron seal — improve bad fortune",nature:"Benefic"},
+  {n:"Al-Qalb",star:"Antares",op:"Buildings, victory",tal:"Gold seal — attack enemies",nature:"Mixed"},
+  {n:"Al-Shaula",star:"Scorpio tail",op:"Hunting, besieging",tal:"Tin seal — facilitate childbirth",nature:"Mixed"},
+  {n:"Al-Na'am",star:"Sagittarius",op:"Taming beasts, captives",tal:"Tin ring — hunting & pursuit",nature:"Mixed"},
+  {n:"Al-Baldah",star:"ε Sagittarius",op:"Harvest, buildings",tal:"Silver seal — destruction & devastation",nature:"Destructive"},
+  {n:"Sa'd al-Dhabih",star:"α Capricorn",op:"Healing, good will",tal:"Iron seal — cure of illness",nature:"Benefic"},
+  {n:"Sa'd Bula",star:"μ Aquarius",op:"Healing, buildings",tal:"Iron ring — divorce and freedom",nature:"Mixed"},
+  {n:"Sa'd al-Su'ud",star:"β Aquarius",op:"Trade, harvest, healing",tal:"Iron seal — good for all purposes",nature:"Benefic"},
+  {n:"Sa'd al-Akhbiya",star:"γ Aquarius",op:"Revenge, separation",tal:"Black wax seal — destruction and waste",nature:"Destructive"},
+  {n:"Al-Fargh al-Awwal",star:"α Pegasus",op:"Union, goodwill",tal:"White wax seal — unite lovers",nature:"Benefic"},
+  {n:"Al-Fargh al-Thani",star:"γ Pegasus",op:"Harvest, trade, gain",tal:"Iron seal — gain in all things",nature:"Benefic"},
+  {n:"Batn al-Hut",star:"Andromeda",op:"Harvest, trade, travel",tal:"Iron seal — gathering fish, destruction",nature:"Mixed"},
 ];
 
+/* ═══ YEATS GREAT WHEEL QUADRANTS ═══ */
+const YEATS_QUAD=[
+  {name:"Complete Objectivity",dir:"North",phases:[28,1,2,3,4,5,6,7],desc:"The mask of the other. Consciousness expands outward. You see the world but not yourself. The beginning and end of the cycle — seed state."},
+  {name:"Breaking of Strength",dir:"East",phases:[8,9,10,11,12,13,14],desc:"The growing self confronts the world. Will crystallizes. Ambition and form emerge. The creative impulse takes shape."},
+  {name:"Complete Subjectivity",dir:"South",phases:[15,16,17,18,19,20,21],desc:"Full moon — the mask dissolves. You see yourself completely. Peak power, peak danger. The Full Moon (15) is the crisis of total self-knowledge."},
+  {name:"Discovery of Strength",dir:"West",phases:[22,23,24,25,26,27],desc:"Return to the source. Wisdom earned. Dissolution of form. The waning moon carries knowledge inward. Preparation for rebirth."},
+];
+
+/* ═══ BRUNO DECAN DATA ═══ */
+const DECANS = ZOD.flatMap((z,zi) => [0,1,2].map(d => ({
+  sign: z.n, symbol: z.s, element: z.e,
+  decan: d+1, degrees: (zi*30+d*10)+"°-"+(zi*30+d*10+10)+"°",
+  ruler: [z.ru, CH[(zi*3+d+1)%7], CH[(zi*3+d+2)%7]][d]
+})));
+
+/* ═══ CIPHERS ═══ */
+const CIPH=[
+  {n:"Substitution Cipher",d:"Keyed alphabet disk with rotating wheels.",f:"De Occultis, Lib. I"},
+  {n:"Digraphic Cipher",d:"First cipher on letter PAIRS.",f:"De Occultis, Lib. II"},
+  {n:"Music Cipher",d:"Messages as musical notation.",f:"De Occultis, Lib. III"},
+  {n:"Invisible Ink",d:"Alum on eggshell penetrates porous shell.",f:"De Occultis, Lib. IV"},
+  {n:"Volvelle Disk",d:"Rotating alphabet wheels — original cipher machine.",f:"De Occultis, App."},
+];
+
+const DIVN=[
+  {n:"Adonai",p:"N",d:"Lord — divine sovereignty"},{n:"Tetragrammaton",p:"NE",d:"YHVH — ineffable name"},
+  {n:"Agla",p:"E",d:"Thou art mighty forever"},{n:"Messias",p:"SE",d:"The anointed one"},
+  {n:"Emanuel",p:"S",d:"God is with us"},{n:"Panthon",p:"SW",d:"All-ruler"},
+  {n:"Iesus Nazarenus",p:"W",d:"Divine authority"},{n:"Magister",p:"C",d:"The operator"},
+];
+
+/* ═══ EPHEMERIS ═══ */
 const DP={Sun:78.09,Moon:281.35,Mercury:65.07,Venus:122.27,Mars:320.77,Jupiter:47.48,Saturn:83.64};
-const TP={Sun:43.1,Moon:2.7+240,Mercury:0.7+30,Venus:11.3+60,Mars:18.3,Jupiter:19.3+90,Saturn:9.4};
+const TP={Sun:43.1,Moon:243,Mercury:31,Venus:71,Mars:18.3,Jupiter:109,Saturn:9.4};
 const MM={Sun:0.9856,Moon:13.176,Mercury:1.383,Venus:1.2,Mars:0.524,Jupiter:0.0831,Saturn:0.0335};
 const TJD=2461131.5;
-function d2jd(y,m,d){if(m<=2){y--;m+=12;}const A=Math.floor(y/100),B=2-A+Math.floor(A/4);return Math.floor(365.25*(y+4716))+Math.floor(30.6001*(m+1))+d+B-1524.5;}
+function d2j(y,m,d){if(m<=2){y--;m+=12;}return Math.floor(365.25*(y+4716))+Math.floor(30.6001*(m+1))+d+(2-Math.floor(y/100)+Math.floor(Math.floor(y/100)/4))-1524.5;}
 function aP(r,rj,tj){const dt=tj-rj,p={};for(const k of Object.keys(r))p[k]=((r[k]+MM[k]*dt)%360+360)%360;return p;}
 
+/* ═══ ASPECTS ═══ */
 const ASP=[{n:"Conjunction",a:0,o:8,s:"☌",c:"#8b6914"},{n:"Sextile",a:60,o:6,s:"⚹",c:"#5a7a5a"},{n:"Square",a:90,o:7,s:"□",c:"#8b4a4a"},{n:"Trine",a:120,o:8,s:"△",c:"#5a4a7a"},{n:"Opposition",a:180,o:8,s:"☍",c:"#5a4a3a"}];
 function fA(pos){const n=Object.keys(pos),r=[];for(let i=0;i<n.length;i++)for(let j=i+1;j<n.length;j++){let d=Math.abs(pos[n[i]]-pos[n[j]]);if(d>180)d=360-d;for(const a of ASP)if(Math.abs(d-a.a)<=a.o)r.push({p1:n[i],p2:n[j],asp:a,ex:d});}return r;}
 function gS(l){return ZOD[Math.floor(((l%360)+360)%360/30)];}
 function gD(l){return((l%360)+360)%360%30;}
 function gDig(p,l){const s=gS(l).n,d=PL[p];if(d.dom.includes(s))return{t:"Domicile",c:"#8b6914"};if(d.ex===s)return{t:"Exalted",c:"#5a7a5a"};if(d.det.includes(s))return{t:"Detriment",c:"#8b4a4a"};if(d.fa===s)return{t:"Fall",c:"#5a4a3a"};return{t:"Peregrine",c:"#6a5a4a"};}
-function gPH(di,h){return CHALDEAN[(CHALDEAN.indexOf(DR[di])+h)%7];}
+function gPH(di,h){return CH[(CH.indexOf(DR[di])+h)%7];}
 
-/* ══════ WOODCUT DECORATIONS ══════ */
-function WoodcutBorder(){
-  return(
-    <svg viewBox="0 0 500 24" style={{width:"100%",height:24,display:"block",opacity:0.4}}>
-      {Array.from({length:50},(_,i)=>{
-        const x=i*10+5;
-        return <g key={i}>
-          <line x1={x-3} y1={8} x2={x} y2={4} stroke="#3a2810" strokeWidth="1.2"/>
-          <line x1={x} y1={4} x2={x+3} y2={8} stroke="#3a2810" strokeWidth="1.2"/>
-          <line x1={x-2} y1={14} x2={x+2} y2={14} stroke="#3a2810" strokeWidth="0.8"/>
-          <circle cx={x} cy={19} r={1} fill="#3a2810" opacity="0.5"/>
-        </g>;
-      })}
-    </svg>
-  );
+/* ═══ LUNAR FUNCTIONS ═══ */
+function getMansion(moonLon) {
+  const idx = Math.floor(((moonLon % 360 + 360) % 360) / (360/28));
+  return { index: idx, mansion: MANSIONS[idx], number: idx + 1 };
 }
 
-function WoodcutDivider(){
-  return(
-    <svg viewBox="0 0 400 20" style={{width:"100%",maxWidth:300,height:16,display:"block",margin:"8px auto",opacity:0.35}}>
-      <line x1={20} y1={10} x2={180} y2={10} stroke="#3a2810" strokeWidth="0.8"/>
-      <line x1={220} y1={10} x2={380} y2={10} stroke="#3a2810" strokeWidth="0.8"/>
-      <circle cx={200} cy={10} r={5} fill="none" stroke="#3a2810" strokeWidth="1"/>
-      <circle cx={200} cy={10} r={2} fill="#3a2810"/>
-      <line x1={190} y1={4} x2={200} y2={0} stroke="#3a2810" strokeWidth="0.6"/>
-      <line x1={200} y1={0} x2={210} y2={4} stroke="#3a2810" strokeWidth="0.6"/>
-      <line x1={190} y1={16} x2={200} y2={20} stroke="#3a2810" strokeWidth="0.6"/>
-      <line x1={200} y1={20} x2={210} y2={16} stroke="#3a2810" strokeWidth="0.6"/>
-    </svg>
-  );
+function getMoonPhase(sunL, moonL) {
+  const pa = ((moonL - sunL) % 360 + 360) % 360;
+  const illum = (1 - Math.cos(pa * Math.PI / 180)) / 2 * 100;
+  const phaseNum = Math.floor(pa / (360/28)) + 1;
+  const phase8 = Math.floor(pa / 45);
+  const names8 = ["New Moon","Waxing Crescent","First Quarter","Waxing Gibbous","Full Moon","Waning Gibbous","Last Quarter","Waning Crescent"];
+  const icons8 = ["🌑","🌒","🌓","🌔","🌕","🌖","🌗","🌘"];
+  const quad = YEATS_QUAD.find(q => q.phases.includes(phaseNum)) || YEATS_QUAD[0];
+  return { pa, illum, phaseNum, phase8: names8[phase8], icon8: icons8[phase8], quad };
 }
 
-function CornerOrnament({flip}){
-  return(
-    <svg viewBox="0 0 40 40" style={{width:32,height:32,opacity:0.3,transform:flip?"scaleX(-1)":"none"}}>
-      <path d="M2 38 Q2 2 38 2" fill="none" stroke="#3a2810" strokeWidth="1.5"/>
-      <path d="M6 34 Q6 6 34 6" fill="none" stroke="#3a2810" strokeWidth="0.8"/>
-      <circle cx={8} cy={8} r={2} fill="#3a2810"/>
-      <path d="M2 28 C8 24 12 18 14 2" fill="none" stroke="#3a2810" strokeWidth="0.5"/>
-    </svg>
-  );
-}
-
-/* ══════ WHEEL ══════ */
-function Wheel({pos,label,showV,showA,hlP,selZ,selP,onCZ,onCP}){
-  const sz=400,cx=sz/2,cy=sz/2,oR=180,iR=138,sR=158,pR=112,cR=52;
-  const vP=Array.from({length:5},(_,i)=>(pos.Venus+i*215.6)%360);
-  const asp=fA(pos);
-  const ticks=[];
-  for(let i=0;i<360;i+=10){const a=(i-90)*Math.PI/180;const r2=oR+(i%30===0?8:4);ticks.push(<line key={"t"+i} x1={cx+(oR+1)*Math.cos(a)} y1={cy+(oR+1)*Math.sin(a)} x2={cx+r2*Math.cos(a)} y2={cy+r2*Math.sin(a)} stroke="#5a4a2a" strokeWidth={i%30===0?1:0.4}/>);}
-
-  return(
-    <svg viewBox={"0 0 "+sz+" "+sz} style={{width:"100%",maxWidth:400}}>
-      <defs>
-        <radialGradient id="cg"><stop offset="0%" stopColor="#8b691420"/><stop offset="100%" stopColor="transparent"/></radialGradient>
-        <filter id="gl"><feGaussianBlur stdDeviation="1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-        <filter id="glB"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-        <filter id="aged"><feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="4" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="1.5" xChannelSelector="R" yChannelSelector="G"/></filter>
-      </defs>
-      {ticks}
-      <circle cx={cx} cy={cy} r={oR} fill="none" stroke="#5a4a2a" strokeWidth="2"/>
-      <circle cx={cx} cy={cy} r={oR-1} fill="none" stroke="#5a4a2a" strokeWidth="0.3"/>
-      <circle cx={cx} cy={cy} r={iR} fill="none" stroke="#5a4a2a" strokeWidth="1"/>
-      <circle cx={cx} cy={cy} r={cR} fill="url(#cg)" stroke="#5a4a2a" strokeWidth="0.8"/>
-
-      {ZOD.map((z,i)=>{
-        const a1=(i*30-90)*Math.PI/180,a2=((i+1)*30-90)*Math.PI/180,am=((i*30+15)-90)*Math.PI/180;
-        const isSel=selZ===i;
-        const path="M "+(cx+iR*Math.cos(a1))+" "+(cy+iR*Math.sin(a1))+" L "+(cx+oR*Math.cos(a1))+" "+(cy+oR*Math.sin(a1))+" A "+oR+" "+oR+" 0 0 1 "+(cx+oR*Math.cos(a2))+" "+(cy+oR*Math.sin(a2))+" L "+(cx+iR*Math.cos(a2))+" "+(cy+iR*Math.sin(a2))+" A "+iR+" "+iR+" 0 0 0 "+(cx+iR*Math.cos(a1))+" "+(cy+iR*Math.sin(a1));
-        return(<g key={z.n} onClick={()=>onCZ(i)} style={{cursor:"pointer"}}>
-          <path d={path} fill={isSel?EC[z.e]+"25":"transparent"}/>
-          <line x1={cx+iR*Math.cos(a1)} y1={cy+iR*Math.sin(a1)} x2={cx+oR*Math.cos(a1)} y2={cy+oR*Math.sin(a1)} stroke="#5a4a2a" strokeWidth="0.5"/>
-          <text x={cx+sR*Math.cos(am)} y={cy+sR*Math.sin(am)} textAnchor="middle" dominantBaseline="central" fill={isSel?"#3a2810":EC[z.e]} fontSize={isSel?20:16} opacity={isSel?1:0.6} style={{fontFamily:"serif"}}>{z.s}</text>
-        </g>);
-      })}
-
-      {showV&&vP.map((l,i)=>{const n=vP[(i+2)%5],a1=(l-90)*Math.PI/180,a2=(n-90)*Math.PI/180,r=cR+18;
-        return(<line key={"v"+i} x1={cx+r*Math.cos(a1)} y1={cy+r*Math.sin(a1)} x2={cx+r*Math.cos(a2)} y2={cy+r*Math.sin(a2)} stroke="#5a7a5a" strokeWidth="0.7" opacity="0.4" strokeDasharray="4,3"/>);})}
-
-      {showA&&asp.map((a,i)=>{const a1=(pos[a.p1]-90)*Math.PI/180,a2=(pos[a.p2]-90)*Math.PI/180;const hl=hlP===a.p1||hlP===a.p2||selP===a.p1||selP===a.p2;
-        return(<line key={"a"+i} x1={cx+pR*Math.cos(a1)} y1={cy+pR*Math.sin(a1)} x2={cx+pR*Math.cos(a2)} y2={cy+pR*Math.sin(a2)} stroke={a.asp.c} strokeWidth={hl?1.5:0.6} opacity={hl?0.5:0.2} strokeDasharray={a.asp.a===90?"2,2":"none"}/>);})}
-
-      {Object.entries(pos).map(([name,lon])=>{const angle=(lon-90)*Math.PI/180,px=cx+pR*Math.cos(angle),py=cy+pR*Math.sin(angle);const pd=PL[name];const hl=hlP===name||selP===name;
-        return(<g key={name} filter={hl?"url(#glB)":"url(#gl)"} onClick={()=>onCP(name)} style={{cursor:"pointer"}}>
-          <circle cx={px} cy={py} r={hl?14:11} fill="#f4e8c8" stroke={pd.c} strokeWidth={hl?2:1}/>
-          <text x={px} y={py+1} textAnchor="middle" dominantBaseline="central" fill={pd.c} fontSize={hl?15:12} style={{fontFamily:"serif"}}>{pd.s}</text>
-        </g>);})}
-
-      <text x={cx} y={cy-6} textAnchor="middle" fill="#5a4a2a" fontSize="6" style={{fontFamily:"'IM Fell English',serif",letterSpacing:1.5,textTransform:"uppercase"}}>{label.length>28?label.slice(0,28):label}</text>
-      <text x={cx} y={cy+7} textAnchor="middle" fill="#8b6914" fontSize="8" style={{fontFamily:"'IM Fell English',serif"}}>Tap signs & planets</text>
-    </svg>
-  );
-}
-
-/* ══════ CONJURING CIRCLE ══════ */
-function Circle(){
-  const sz=340,cx=sz/2,cy=sz/2;
-  const rings=[148,128,105,78,48];
-  const dirs=[{l:"North",a:-90},{l:"East",a:0},{l:"South",a:90},{l:"West",a:180}];
-  const names=DIVN.filter(d=>d.p!=="C");
-  return(
-    <svg viewBox={"0 0 "+sz+" "+sz} style={{width:"100%",maxWidth:320}}>
-      {rings.map((r,i)=>(<circle key={i} cx={cx} cy={cy} r={r} fill="none" stroke={i===0?"#5a4a2a":"#8a7a5a"} strokeWidth={i===0?2:0.6}/>))}
-      <line x1={cx} y1={cy-148} x2={cx} y2={cy+148} stroke="#8a7a5a" strokeWidth="0.4"/>
-      <line x1={cx-148} y1={cy} x2={cx+148} y2={cy} stroke="#8a7a5a" strokeWidth="0.4"/>
-      {dirs.map(c=>{const a=c.a*Math.PI/180;return(<text key={c.l} x={cx+156*Math.cos(a)} y={cy+156*Math.sin(a)} textAnchor="middle" dominantBaseline="central" fill="#5a4a2a" fontSize="8" style={{fontFamily:"'IM Fell English',serif",letterSpacing:2,textTransform:"uppercase"}}>{c.l}</text>);})}
-      {names.map((d,i)=>{const a=((i*51.4)-90)*Math.PI/180;const x=cx+118*Math.cos(a),y=cy+118*Math.sin(a);return(<text key={d.n} x={x} y={y} textAnchor="middle" dominantBaseline="central" fill="#8b6914" fontSize="7" transform={"rotate("+(i*51.4)+","+x+","+y+")"} style={{fontFamily:"'IM Fell English',serif",fontStyle:"italic"}}>{d.n}</text>);})}
-      {[0,1,2,3,4].map(i=>{const a1=((i*72)-90)*Math.PI/180,a2=(((i+2)*72)-90)*Math.PI/180;return(<line key={"p"+i} x1={cx+43*Math.cos(a1)} y1={cy+43*Math.sin(a1)} x2={cx+43*Math.cos(a2)} y2={cy+43*Math.sin(a2)} stroke="#5a4a2a" strokeWidth="0.7"/>);})}
-      <text x={cx} y={cy-3} textAnchor="middle" fill="#3a2810" fontSize="9" style={{fontFamily:"'IM Fell English',serif",fontWeight:600}}>Magister</text>
-      <text x={cx} y={cy+9} textAnchor="middle" fill="#8a7a5a" fontSize="6" style={{fontFamily:"'IM Fell English',serif"}}>Operator</text>
-    </svg>
-  );
-}
-
-/* ══════ MAGIC SQUARE ══════ */
-function MSq({planet}){
-  const ang=ANG[planet];if(!ang)return null;
-  const grids={3:[[2,7,6],[9,5,1],[4,3,8]],4:[[4,14,15,1],[9,7,6,12],[5,11,10,8],[16,2,3,13]],5:[[11,24,7,20,3],[4,12,25,8,16],[17,5,13,21,9],[10,18,1,14,22],[23,6,19,2,15]]};
-  const n=ang.sq,grid=grids[n];if(!grid)return(<div style={{color:"#8a7a5a",fontSize:12}}>Square of order {n}</div>);
-  const cs=Math.min(34,170/n);
-  return(<div style={{display:"inline-block"}}><table style={{borderCollapse:"collapse",margin:"0 auto"}}><tbody>{grid.map((row,r)=>(<tr key={r}>{row.map((val,c)=>(<td key={c} style={{width:cs,height:cs,textAlign:"center",border:"1px solid #c4a86820",color:"#3a2810",fontSize:cs>30?13:10,fontFamily:"'IM Fell English',serif"}}>{val}</td>))}</tr>))}</tbody></table><div style={{textAlign:"center",fontSize:10,color:"#8a7a5a",marginTop:4}}>Constant: {ang.n} · Order: {n}×{n}</div></div>);
-}
-
-/* ══════ CARDS ══════ */
-function ZCard({index,pos}){const z=ZOD[index];const here=Object.entries(pos).filter(([_,l])=>gS(l).n===z.n);
-  return(<div className="pcard" style={{borderColor:EC[z.e]+"60"}}><div style={{display:"flex",alignItems:"center",gap:10}}><span style={{fontSize:36,color:EC[z.e]}}>{z.s}</span><div><div className="cardTitle">{z.n}</div><div style={{fontSize:11,color:"#8a7a5a"}}>{z.e} · {z.q} · {z.st} · Ruler: {z.ru}</div></div></div>
-    <div style={{fontSize:12,color:"#5a4a2a",marginTop:8,lineHeight:1.7}}>{z.d}</div>
-    {here.length>0&&<div style={{marginTop:8,paddingTop:8,borderTop:"1px solid #c4a86830"}}><div className="sectionLabel">Planets in {z.n}</div>{here.map(([n,l])=>(<div key={n} style={{display:"flex",alignItems:"center",gap:6,fontSize:12,marginBottom:2}}><span style={{color:PL[n].c,fontSize:16}}>{PL[n].s}</span><span style={{color:"#3a2810"}}>{n} at {gD(l).toFixed(1)}°</span><span style={{color:gDig(n,l).c,fontSize:10,marginLeft:"auto"}}>{gDig(n,l).t}</span></div>))}</div>}
-  </div>);
-}
-
-function PCard({name,lon}){const pd=PL[name],sign=gS(lon),deg=gD(lon),dig=gDig(name,lon),ang=ANG[name];
-  return(<div className="pcard" style={{borderColor:pd.c+"60"}}><div style={{display:"flex",alignItems:"center",gap:10}}><span style={{fontSize:36,color:pd.c}}>{pd.s}</span><div style={{flex:1}}><div className="cardTitle">{name}</div><div style={{fontSize:12,color:EC[sign.e]}}>{sign.s} {deg.toFixed(1)}° {sign.n}</div><div style={{fontSize:11,color:dig.c}}>{dig.t}</div></div><div style={{textAlign:"right"}}><div style={{fontSize:10,color:"#8a7a5a"}}>{pd.m}</div><div style={{fontSize:12,color:"#5a4a2a"}}>{ang?ang.a:""}</div></div></div>
-    <div style={{fontSize:12,color:"#5a4a2a",marginTop:8,lineHeight:1.7}}>{pd.d}</div>
-    <div style={{marginTop:8,paddingTop:8,borderTop:"1px solid #c4a86830",fontSize:11,color:"#8a7a5a"}}>Domicile: {pd.dom.join(", ")} · Exalted: {pd.ex} · Detriment: {pd.det.join(", ")} · Fall: {pd.fa}</div>
-  </div>);
-}
-
-/* ══════ HOURS ══════ */
-function HTable({selDay,onSD,selHour,onSH}){
-  const rows=[];
-  for(let h=0;h<24;h++){const cells=[<td key="h" style={{padding:"2px 3px",borderBottom:"1px solid #c4a86815",textAlign:"center",color:"#8a7a5a",fontWeight:600,fontSize:8}}>{h}</td>];
-    for(let di=0;di<7;di++){const p=gPH(di,h),pd=PL[p],sel=selDay===di&&selHour===h;
-      cells.push(<td key={di} onClick={()=>{onSD(di);onSH(h);}} style={{padding:"1px 2px",borderBottom:"1px solid #c4a86810",textAlign:"center",cursor:"pointer",fontSize:13,background:sel?"#c4a86825":"transparent",color:pd.c,opacity:(h>=6&&h<18)?1:0.3}} title={p+" — "+(ANG[p]?ANG[p].a:"")}>{pd.s}</td>);}
-    rows.push(<tr key={h}>{cells}</tr>);}
-  return(<div style={{overflowX:"auto"}}><table style={{borderCollapse:"collapse",width:"100%",fontSize:11,fontFamily:"'IM Fell English',serif"}}><thead><tr><th style={{padding:"3px",borderBottom:"1px solid #c4a86840",textAlign:"center",width:26}}></th>{DN.map((d,i)=>(<th key={d} onClick={()=>onSD(i)} style={{padding:"3px",borderBottom:"1px solid #c4a86840",textAlign:"center",fontWeight:600,cursor:"pointer",background:selDay===i?"#c4a86820":"transparent",color:selDay===i?"#8b6914":"#8a7a5a"}}>{d.slice(0,2)}</th>))}</tr></thead><tbody>{rows}</tbody></table></div>);
-}
-
-/* ══════ DATE PICKER ══════ */
-function DPick({onDC}){const[v,setV]=useState("1561-05-30");const go=()=>{const pts=v.split("-").map(Number);if(pts[0]&&pts[1]&&pts[2]){const jd=d2jd(pts[0],pts[1],pts[2]);const p=aP(TP,TJD,jd);const mo=["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];onDC(p,mo[pts[1]]+" "+pts[2]+", "+pts[0]+" (approx)");}};
-  return(<div style={{display:"flex",gap:6,alignItems:"center"}}><input type="date" value={v} onChange={e=>setV(e.target.value)} className="dateInput"/><button onClick={go} className="castBtn">Cast</button></div>);
-}
-
-/* ══════ LUNAR PHASES & READING ══════ */
-const MOON_PHASES = [
-  { name:"New Moon", icon:"🌑", range:[0,45], grimoire:"Beginnings, planting intentions, binding work. The veil is thinnest — ideal for divination and scrying. Spirits summoned now come more willingly but are harder to constrain.", horoscope:"A time of planting seeds. Set intentions. Begin new projects. Internal reflection." },
-  { name:"Waxing Crescent", icon:"🌒", range:[45,90], grimoire:"Growth workings, attraction magic, calling forth. Build momentum. Summonings gain strength as the light increases. Intelligence spirits (benevolent aspects) respond best during waxing phases.", horoscope:"Building energy. Take first steps on plans set at the new moon. Momentum gathering." },
-  { name:"First Quarter", icon:"🌓", range:[90,135], grimoire:"Action, confrontation, breaking obstacles. Mars-type operations excel. The half-lit moon creates a balance point — workings that require choosing between two paths.", horoscope:"A crossroads. Decisions must be made. Tension between old patterns and new growth. Act decisively." },
-  { name:"Waxing Gibbous", icon:"🌔", range:[135,180], grimoire:"Refinement, preparation for culmination. Final adjustments before the full moon peak. Angelic invocations are strongest here — the light is nearly complete.", horoscope:"Refine and adjust. Almost at peak. Patience brings clarity. Details matter now." },
-  { name:"Full Moon", icon:"🌕", range:[180,225], grimoire:"Maximum power. All operations are amplified. Evocations to visible appearance are most likely to succeed. Gabriel (Moon angel) is at peak influence. However — spirits summoned at full moon are at their most powerful and hardest to dismiss. The experienced practitioner uses this; the novice is cautioned.", horoscope:"Culmination, illumination, revelation. What was hidden becomes visible. Emotions peak. Harvest the results of earlier intentions." },
-  { name:"Waning Gibbous", icon:"🌖", range:[225,270], grimoire:"Banishing, releasing, sending away. The decreasing light carries things out. Dismissals are easier. Protective workings gain force. Spirit aspects (raw force) respond best during waning phases.", horoscope:"Gratitude and sharing. Distribute what you've gained. Teach what you've learned. Generosity flows." },
-  { name:"Last Quarter", icon:"🌗", range:[270,315], grimoire:"Breaking, destroying, unbinding. Saturn-type operations. Ending what must end. Cassiel (Saturn angel) presides over dissolution. The half-dark moon favors workings against things rather than for them.", horoscope:"Release and let go. Clear what no longer serves you. Break old habits. Forgive." },
-  { name:"Waning Crescent", icon:"🌘", range:[315,360], grimoire:"Rest, recuperation, preparation for renewal. The darkening moon withdraws power from the world. Divination about what comes next. Do not attempt major summonings — the veil is closing.", horoscope:"Rest and surrender. Retreat inward. Prepare for the next cycle. Dreams are vivid and prophetic." },
-];
-
-function getMoonPhase(sunLon, moonLon) {
-  const phaseAngle = ((moonLon - sunLon) % 360 + 360) % 360;
-  const illumination = (1 - Math.cos(phaseAngle * Math.PI / 180)) / 2 * 100;
-  const phase = MOON_PHASES.find(p => phaseAngle >= p.range[0] && phaseAngle < p.range[1]) || MOON_PHASES[0];
-  return { phase, phaseAngle, illumination };
-}
-
-function MoonPhaseVisual({ phaseAngle, illumination }) {
-  const r = 40, cx = 50, cy = 50;
-  const cosAngle = Math.cos(phaseAngle * Math.PI / 180);
-  return (
-    <svg viewBox="0 0 100 100" style={{ width: 80, height: 80 }}>
-      <defs>
-        <radialGradient id="moonGlow">
-          <stop offset="0%" stopColor="#f4e8c8" stopOpacity="0.3" />
-          <stop offset="100%" stopColor="transparent" />
-        </radialGradient>
-      </defs>
-      <circle cx={cx} cy={cy} r={r + 8} fill="url(#moonGlow)" />
-      <circle cx={cx} cy={cy} r={r} fill="#3a2810" stroke="#5a4a2a" strokeWidth="1" />
-      <clipPath id="moonClip">
-        <circle cx={cx} cy={cy} r={r} />
-      </clipPath>
-      <g clipPath="url(#moonClip)">
-        {phaseAngle <= 180 ? (
-          <ellipse cx={cx} cy={cy} rx={r * Math.abs(cosAngle)} ry={r} fill="#f4e8c8" />
-        ) : (
-          <>
-            <circle cx={cx} cy={cy} r={r} fill="#f4e8c8" />
-            <ellipse cx={cx} cy={cy} rx={r * Math.abs(cosAngle)} ry={r} fill="#3a2810" />
-          </>
-        )}
-        {phaseAngle <= 90 && (
-          <rect x={cx} y={cy - r} width={r} height={r * 2} fill="#f4e8c8" />
-        )}
-        {phaseAngle > 90 && phaseAngle <= 180 && (
-          <rect x={cx - r} y={cy - r} width={r} height={r * 2} fill="#3a2810" />
-        )}
-        {phaseAngle > 180 && phaseAngle <= 270 && (
-          <rect x={cx} y={cy - r} width={r} height={r * 2} fill="#3a2810" />
-        )}
-        {phaseAngle > 270 && (
-          <rect x={cx - r} y={cy - r} width={r} height={r * 2} fill="#f4e8c8" />
-        )}
-      </g>
-      <circle cx={cx} cy={cy} r={r} fill="none" stroke="#5a4a2a" strokeWidth="0.8" />
-    </svg>
-  );
-}
-
-function getElementBalance(pos) {
-  const counts = { Fire: 0, Earth: 0, Air: 0, Water: 0 };
-  for (const [name, lon] of Object.entries(pos)) {
-    counts[gS(lon).e]++;
-  }
-  return counts;
-}
-
-function getSunInterpretation(sign) {
-  const interps = {
-    Aries: "Your will burns with initiative. This is a time to start, to charge, to lead. The self is assertive and direct — impatience is the shadow side.",
-    Taurus: "Your will is grounded in the material. Seek stability, beauty, and sensual pleasure. Build slowly. Stubbornness serves you if aimed well.",
-    Gemini: "Your will scatters across many interests — communication, curiosity, duality. Gather information. Speak. Write. The mind is your primary instrument.",
-    Cancer: "Your will turns inward toward home, family, and emotional security. Protect what matters. Nurture. The shell is both fortress and prison.",
-    Leo: "Your will demands recognition and creative expression. Lead with generosity. Create with authority. The heart rules the head now.",
-    Virgo: "Your will is refined through service and analysis. Attend to details. Perfect your craft. Humility is strength, not weakness.",
-    Libra: "Your will seeks balance and partnership. Negotiate. Harmonize. Beauty and justice are your instruments. Indecision is the trap.",
-    Scorpio: "Your will operates in the depths — transformation, power, secrets. What must die? What must be reborn? Intensity is your ally.",
-    Sagittarius: "Your will aims at distant targets — philosophy, travel, truth. Expand your horizons. Teach what you know. Restlessness drives discovery.",
-    Capricorn: "Your will builds structures that endure. Ambition, discipline, mastery. The long game rewards patience. Authority is earned, not given.",
-    Aquarius: "Your will rebels against convention. Innovate. Connect with the collective. The outsider's perspective sees what insiders cannot.",
-    Pisces: "Your will dissolves into the universal. Intuition, dreams, transcendence. Boundaries are permeable now — a gift and a danger.",
-  };
-  return interps[sign] || "";
-}
-
-function getMoonInterpretation(sign) {
-  const interps = {
-    Aries: "Emotions are hot, quick, and impulsive. React fast. Anger flares and passes. Emotional courage available.",
-    Taurus: "Emotions seek comfort and stability. Sensory grounding helps. Stubborn feelings. Loyalty runs deep.",
-    Gemini: "Emotions are restless and communicative. Talk about feelings. Curiosity about your own inner life. Scattered but adaptable.",
-    Cancer: "Emotions are deeply felt and protective. Heightened empathy. Nostalgia. The need to nurture or be nurtured.",
-    Leo: "Emotions demand expression and recognition. Dramatic feelings. Generous heart. Need for appreciation.",
-    Virgo: "Emotions are processed analytically. Worry is the shadow. Finding peace through useful service. Modest needs.",
-    Libra: "Emotions seek harmony and fairness. Discomfort with conflict. Beauty soothes. Relationship-oriented feelings.",
-    Scorpio: "Emotions run deep, intense, transformative. Nothing is surface-level. Jealousy and passion intertwine. Powerful intuition.",
-    Sagittarius: "Emotions are expansive and optimistic. Restless feelings. Need for freedom and meaning. Philosophical mood.",
-    Capricorn: "Emotions are controlled and serious. Responsibility weighs. Ambition drives feeling. Dry wit masks depth.",
-    Aquarius: "Emotions are detached and idealistic. Connected to collective feelings. Unconventional emotional needs. Independence paramount.",
-    Pisces: "Emotions are oceanic and boundless. Extreme empathy. Spiritual sensitivity. Dreams are vivid. Boundaries dissolve.",
-  };
-  return interps[sign] || "";
-}
-
-function getSummoningGuidance(pos, moonData) {
-  const moonSign = gS(pos.Moon);
-  const sunSign = gS(pos.Sun);
-  const marsDig = gDig("Mars", pos.Mars);
-  const saturnDig = gDig("Saturn", pos.Saturn);
-  const jupiterDig = gDig("Jupiter", pos.Jupiter);
-  const aspects = fA(pos);
+function getGrimoire(pos, moon) {
+  const mansion = getMansion(pos.Moon);
   const lines = [];
-
-  lines.push({ title: "Lunar Cycle", text: moonData.phase.grimoire });
-
-  const waterMoon = moonSign.e === "Water";
-  const fireMoon = moonSign.e === "Fire";
-  if (waterMoon) {
-    lines.push({ title: "Moon in " + moonSign.n, text: "A water moon heightens psychic receptivity and emotional sensitivity. Spirits communicate more through feeling and vision than through words. Scrying and divination are especially effective. However, emotional overwhelm is a risk — maintain firm intention." });
-  } else if (fireMoon) {
-    lines.push({ title: "Moon in " + moonSign.n, text: "A fire moon lends courage and command to workings. Spirits respond to authority and will. Evocations benefit from assertive language. The danger is arrogance — commanding beyond your capacity invites backlash." });
-  } else if (moonSign.e === "Air") {
-    lines.push({ title: "Moon in " + moonSign.n, text: "An air moon favors intellectual operations — communication with spirits, obtaining knowledge, cipher work. Mercury and Raphael operations are enhanced. The risk is disconnection from the emotional grounding that protects." });
-  } else {
-    lines.push({ title: "Moon in " + moonSign.n, text: "An earth moon grounds workings in the material. Physical talismans, herbal preparations, and inscribed objects carry extra potency. Operations for wealth, health, and material protection are favored." });
-  }
-
-  if (marsDig.t === "Domicile" || marsDig.t === "Exalted") {
-    lines.push({ title: "Mars " + marsDig.t, text: "Mars is empowered — Samael is at full strength. Workings of protection, binding, and confrontation carry unusual force. Military and martial spirits respond readily. Use with caution: an empowered Mars cuts both ways." });
-  }
-  if (marsDig.t === "Detriment" || marsDig.t === "Fall") {
-    lines.push({ title: "Mars " + marsDig.t, text: "Mars is weakened — aggressive workings lack force. Samael is diminished. This actually favors peaceful summonings and gentle invocations, as the martial resistance in the astral field is lowered." });
-  }
-
-  if (jupiterDig.t === "Domicile" || jupiterDig.t === "Exalted") {
-    lines.push({ title: "Jupiter " + jupiterDig.t, text: "Jupiter is empowered — Sachiel bestows abundance and protection. Angelic workings are especially favored. The great benefic shields the practitioner. A rare and fortunate condition." });
-  }
-
-  if (saturnDig.t === "Domicile" || saturnDig.t === "Exalted") {
-    lines.push({ title: "Saturn " + saturnDig.t, text: "Saturn is empowered — Cassiel operates at full severity. Necromantic workings, ancestral communication, and operations involving time, death, and binding gain power. The weight of Saturn demands respect and preparation." });
-  }
-  if (saturnDig.t === "Fall") {
-    lines.push({ title: "Saturn in Fall", text: "Saturn is debilitated — structures and constraints are unreliable. Binding circles may not hold as expected. Compensate with additional divine names and reinforced geometry. Cassiel's patience is tested." });
-  }
-
-  for (const a of aspects) {
-    if (a.asp.n === "Square" && (a.p1 === "Mars" || a.p2 === "Mars" || a.p1 === "Saturn" || a.p2 === "Saturn")) {
-      lines.push({ title: a.p1 + " □ " + a.p2, text: "A square between malefics or a malefic and benefic creates astral tension. Workings may produce unexpected results. The friction can be harnessed for transformation, but uncontrolled it destabilizes." });
+  lines.push({ t: "Lunar Mansion " + mansion.number + ": " + mansion.mansion.n, d: "Star: " + mansion.mansion.star + " · Nature: " + mansion.mansion.nature + "\nOperation: " + mansion.mansion.op + "\nTalisman: " + mansion.mansion.tal });
+  
+  const moonEl = gS(pos.Moon).e;
+  if (moonEl === "Water") lines.push({ t: "Water Moon", d: "Psychic receptivity heightened. Scrying and divination effective. Spirits communicate through vision." });
+  else if (moonEl === "Fire") lines.push({ t: "Fire Moon", d: "Courage and command. Spirits respond to authority. Evocations benefit from assertive language." });
+  else if (moonEl === "Air") lines.push({ t: "Air Moon", d: "Intellectual operations — knowledge-seeking, communication with spirits, cipher work." });
+  else lines.push({ t: "Earth Moon", d: "Material workings. Talismans, herbal preparations, inscribed objects carry extra potency." });
+  
+  for (const [p, l] of Object.entries(pos)) {
+    const dig = gDig(p, l);
+    if (dig.t === "Domicile" || dig.t === "Exalted") {
+      const ang = ANG[p];
+      lines.push({ t: p + " " + dig.t, d: ang.a + " at full power. Workings aligned with " + p + " carry exceptional force. Use " + p + " planetary hour." });
     }
-    if (a.asp.n === "Conjunction" && a.p1 === "Sun" && a.p2 === "Saturn") {
-      lines.push({ title: "Sun ☌ Saturn", text: "The Sun is under Saturn's weight — authority is burdened. As on Draper's date in 1561. The practitioner's vitality is constrained. Proceed with humility; do not overreach." });
+    if (dig.t === "Fall" && p === "Saturn") {
+      lines.push({ t: "Saturn in Fall", d: "Binding circles unreliable. Reinforce with additional divine names and geometry. Cassiel diminished." });
     }
   }
-
-  const dignities = Object.entries(pos).map(([n, l]) => ({ name: n, dig: gDig(n, l) }));
-  const strongest = dignities.find(d => d.dig.t === "Domicile") || dignities.find(d => d.dig.t === "Exalted");
-  if (strongest) {
-    const ang = ANG[strongest.name];
-    lines.push({ title: "Recommended Operation", text: "With " + strongest.name + " in " + strongest.dig.t + ", workings aligned with " + (ang ? ang.a : strongest.name) + " carry the greatest natural force. Use the " + strongest.name + " planetary hour for maximum alignment." });
+  
+  const strongP = Object.entries(pos).find(([n,l]) => gDig(n,l).t === "Domicile") || Object.entries(pos).find(([n,l]) => gDig(n,l).t === "Exalted");
+  if (strongP) {
+    const [pn] = strongP;
+    lines.push({ t: "Picatrix Recommendation", d: "With " + pn + " empowered, create a talisman of " + PL[pn].m + " during the " + pn + " hour, inscribed with the seal of " + ANG[pn].a + ". The lunar mansion (" + mansion.mansion.n + ") " + (mansion.mansion.nature === "Benefic" ? "supports this working." : mansion.mansion.nature === "Destructive" ? "suggests caution — redirect toward protective intent." : "is neutral — the talisman's purpose will determine the outcome.") });
   }
-
   return lines;
 }
 
-function ReadingTab({ pos, label }) {
-  const sunSign = gS(pos.Sun);
-  const moonSign = gS(pos.Moon);
-  const moonData = getMoonPhase(pos.Sun, pos.Moon);
-  const elements = getElementBalance(pos);
-  const aspects = fA(pos);
-  const guidance = getSummoningGuidance(pos, moonData);
-  const dominant = Object.entries(elements).sort((a, b) => b[1] - a[1])[0];
+/* ═══ WOODCUT DECORATIONS ═══ */
+function WBorder(){return(<svg viewBox="0 0 500 20" style={{width:"100%",height:18,display:"block",opacity:0.35}}>{Array.from({length:50},(_,i)=>{const x=i*10+5;return(<g key={i}><line x1={x-3} y1={7} x2={x} y2={3} stroke="#3a2810" strokeWidth="1"/><line x1={x} y1={3} x2={x+3} y2={7} stroke="#3a2810" strokeWidth="1"/><circle cx={x} cy={14} r={0.8} fill="#3a2810"/></g>);})}</svg>);} 
+function WDiv(){return(<svg viewBox="0 0 400 16" style={{width:"100%",maxWidth:260,height:14,display:"block",margin:"8px auto",opacity:0.3}}><line x1={20} y1={8} x2={175} y2={8} stroke="#3a2810" strokeWidth="0.7"/><line x1={225} y1={8} x2={380} y2={8} stroke="#3a2810" strokeWidth="0.7"/><circle cx={200} cy={8} r={4} fill="none" stroke="#3a2810" strokeWidth="0.8"/><circle cx={200} cy={8} r={1.5} fill="#3a2810"/></svg>);} 
 
-  return (
-    <div>
-      <div className="sectionLabel">Your Reading</div>
-      <div style={{ fontSize: 11, color: "var(--ink-faint)", marginBottom: 12, fontStyle: "italic" }}>
-        An interpretation through the lens of Renaissance astrology & the grimoire tradition
-      </div>
-
-      <div className="pcard" style={{ borderColor: "#6a6a7840", textAlign: "center" }}>
-        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 16 }}>
-          <MoonPhaseVisual phaseAngle={moonData.phaseAngle} illumination={moonData.illumination} />
-          <div style={{ textAlign: "left" }}>
-            <div style={{ fontSize: 10, color: "var(--ink-faint)", textTransform: "uppercase", letterSpacing: 2 }}>Lunar Phase</div>
-            <div style={{ fontSize: 20, color: "var(--ink)" }}>{moonData.phase.icon} {moonData.phase.name}</div>
-            <div style={{ fontSize: 12, color: "var(--gold)" }}>{moonData.illumination.toFixed(0)}% illuminated</div>
-          </div>
-        </div>
-        <WoodcutDivider />
-        <div style={{ fontSize: 13, color: "var(--ink-light)", lineHeight: 1.8, textAlign: "left", marginTop: 4 }}>
-          {moonData.phase.horoscope}
-        </div>
-      </div>
-
-      <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 8, marginTop: 8 }}>
-        <div className="pcard" style={{ borderColor: EC[sunSign.e] + "40" }}>
-          <div style={{ fontSize: 10, color: "var(--ink-faint)", textTransform: "uppercase", letterSpacing: 1 }}>Sun — Will & Identity</div>
-          <div style={{ fontSize: 24, color: EC[sunSign.e], marginTop: 4 }}>{sunSign.s} <span style={{ fontSize: 14 }}>{sunSign.n}</span></div>
-          <div style={{ fontSize: 11, color: "var(--ink-light)", marginTop: 6, lineHeight: 1.6 }}>
-            {getSunInterpretation(sunSign.n)}
-          </div>
-        </div>
-        <div className="pcard" style={{ borderColor: EC[moonSign.e] + "40" }}>
-          <div style={{ fontSize: 10, color: "var(--ink-faint)", textTransform: "uppercase", letterSpacing: 1 }}>Moon — Emotion & Soul</div>
-          <div style={{ fontSize: 24, color: EC[moonSign.e], marginTop: 4 }}>{moonSign.s} <span style={{ fontSize: 14 }}>{moonSign.n}</span></div>
-          <div style={{ fontSize: 11, color: "var(--ink-light)", marginTop: 6, lineHeight: 1.6 }}>
-            {getMoonInterpretation(moonSign.n)}
-          </div>
-        </div>
-      </div>
-
-      <div className="pcard" style={{ borderColor: "#c4a86830", marginTop: 8 }}>
-        <div style={{ fontSize: 10, color: "var(--ink-faint)", textTransform: "uppercase", letterSpacing: 1, marginBottom: 8 }}>Elemental Balance</div>
-        <div style={{ display: "flex", gap: 4, marginBottom: 8 }}>
-          {Object.entries(elements).map(([el, count]) => (
-            <div key={el} style={{ flex: count || 0.1, height: 20, background: EC[el] + "40", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 9, color: EC[el], fontWeight: count === dominant[1] ? 700 : 400, transition: "flex 0.3s" }}>
-              {count > 0 && el + " " + count}
-            </div>
-          ))}
-        </div>
-        <div style={{ fontSize: 12, color: "var(--ink-light)", lineHeight: 1.6 }}>
-          {dominant[0] === "Fire" && "Fire dominates — energy, will, and transformation are amplified. Workings requiring force and courage are favored. Risk of burnout."}
-          {dominant[0] === "Earth" && "Earth dominates — material manifestation, grounding, and practical results are favored. Talismans and physical objects carry extra charge."}
-          {dominant[0] === "Air" && "Air dominates — communication, intellect, and connection are amplified. Knowledge-seeking operations excel. Ground yourself."}
-          {dominant[0] === "Water" && "Water dominates — intuition, emotion, and psychic receptivity are heightened. Scrying, divination, and lunar operations are powerfully supported."}
-        </div>
-      </div>
-
-      {aspects.length > 0 && (
-        <div className="pcard" style={{ borderColor: "#c4a86830", marginTop: 8 }}>
-          <div style={{ fontSize: 10, color: "var(--ink-faint)", textTransform: "uppercase", letterSpacing: 1, marginBottom: 6 }}>The Sky Speaks</div>
-          {aspects.map((a, i) => (
-            <div key={i} style={{ display: "flex", gap: 8, padding: "6px 0", borderBottom: i < aspects.length - 1 ? "1px solid #c4a86815" : "none", alignItems: "flex-start" }}>
-              <div style={{ display: "flex", gap: 4, alignItems: "center", minWidth: 70 }}>
-                <span style={{ color: PL[a.p1].c, fontSize: 16 }}>{PL[a.p1].s}</span>
-                <span style={{ color: a.asp.c, fontSize: 14 }}>{a.asp.s}</span>
-                <span style={{ color: PL[a.p2].c, fontSize: 16 }}>{PL[a.p2].s}</span>
-              </div>
-              <div style={{ fontSize: 11, color: "var(--ink-light)", lineHeight: 1.5 }}>
-                <strong style={{ color: "var(--ink)" }}>{a.p1} {a.asp.n} {a.p2}</strong> ({a.ex.toFixed(0)}°) — {a.asp.n === "Conjunction" ? a.p1 + " and " + a.p2 + " fuse their energies. What one does, the other amplifies." : a.asp.n === "Trine" ? "Effortless flow between " + a.p1 + " and " + a.p2 + ". Gifts that arrive without struggle." : a.asp.n === "Square" ? "Tension between " + a.p1 + " and " + a.p2 + ". Growth through friction. Neither planet yields easily." : a.asp.n === "Sextile" ? "Gentle opportunity between " + a.p1 + " and " + a.p2 + ". Available if you reach for it." : a.p1 + " and " + a.p2 + " face each other across the sky. Awareness through opposition."}
-              </div>
-            </div>
-          ))}
-        </div>
-      )}
-
-      <WoodcutDivider />
-      <div style={{ fontSize: 10, color: "var(--ink-faint)", textTransform: "uppercase", letterSpacing: 2, marginBottom: 8 }}>Grimoire Guidance</div>
-      <div style={{ fontSize: 11, color: "var(--ink-faint)", marginBottom: 8, fontStyle: "italic" }}>
-        How the lunar cycle and planetary conditions affect ceremonial workings
-      </div>
-
-      {guidance.map((g, i) => (
-        <div key={i} style={{ padding: "8px 0", borderBottom: "1px solid #c4a86820" }}>
-          <div style={{ fontSize: 13, color: "var(--gold)", marginBottom: 4 }}>{g.title}</div>
-          <div style={{ fontSize: 12, color: "var(--ink-light)", lineHeight: 1.7 }}>{g.text}</div>
-        </div>
-      ))}
-
-      <div className="infoBox" style={{ marginTop: 12 }}>
-        <strong>The Eight Lunar Gates:</strong>
-        <div style={{ marginTop: 8 }}>
-          {MOON_PHASES.map((p, i) => (
-            <div key={i} style={{ display: "flex", gap: 8, padding: "3px 0", opacity: p.name === moonData.phase.name ? 1 : 0.5 }}>
-              <span style={{ fontSize: 14, width: 20 }}>{p.icon}</span>
-              <span style={{ fontSize: 11, color: p.name === moonData.phase.name ? "var(--gold)" : "var(--ink-faint)", fontWeight: p.name === moonData.phase.name ? 700 : 400, flex: 1 }}>{p.name}</span>
-              <span style={{ fontSize: 9, color: "var(--ink-faint)" }}>{p.range[0]}°–{p.range[1]}°</span>
-            </div>
-          ))}
-        </div>
-      </div>
-    </div>
+/* ═══ WHEEL ═══ */
+function Wheel({pos,label,hlP,selZ,selP,onCZ,onCP}){
+  const sz=380,cx=sz/2,cy=sz/2,oR=175,iR=135,sR=155,pR=110,cR=50;
+  const vP=Array.from({length:5},(_,i)=>(pos.Venus+i*215.6)%360);
+  const asp=fA(pos);
+  const ticks=[];
+  for(let i=0;i<360;i+=10){const a=(i-90)*Math.PI/180;ticks.push(<line key={"t"+i} x1={cx+(oR+1)*Math.cos(a)} y1={cy+(oR+1)*Math.sin(a)} x2={cx+(oR+(i%30===0?7:3))*Math.cos(a)} y2={cy+(oR+(i%30===0?7:3))*Math.sin(a)} stroke="#5a4a2a" strokeWidth={i%30===0?1:0.3}/>);} 
+  return(
+    <svg viewBox={"0 0 "+sz+" "+sz} style={{width:"100%",maxWidth:380}}>
+      <defs>
+        <radialGradient id="cg"><stop offset="0%" stopColor="#8b691418"/><stop offset="100%" stopColor="transparent"/></radialGradient>
+        <filter id="gl"><feGaussianBlur stdDeviation="1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+        <filter id="glB"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </defs>
+      {ticks}
+      <circle cx={cx} cy={cy} r={oR} fill="none" stroke="#5a4a2a" strokeWidth="1.5"/>
+      <circle cx={cx} cy={cy} r={iR} fill="none" stroke="#5a4a2a" strokeWidth="0.8"/>
+      <circle cx={cx} cy={cy} r={cR} fill="url(#cg)" stroke="#5a4a2a" strokeWidth="0.6"/>
+      {ZOD.map((z,i)=>{const a1=(i*30-90)*Math.PI/180,a2=((i+1)*30-90)*Math.PI/180,am=((i*30+15)-90)*Math.PI/180;const isSel=selZ===i;
+        const path="M "+(cx+iR*Math.cos(a1))+" "+(cy+iR*Math.sin(a1))+" L "+(cx+oR*Math.cos(a1))+" "+(cy+oR*Math.sin(a1))+" A "+oR+" "+oR+" 0 0 1 "+(cx+oR*Math.cos(a2))+" "+(cy+oR*Math.sin(a2))+" L "+(cx+iR*Math.cos(a2))+" "+(cy+iR*Math.sin(a2))+" A "+iR+" "+iR+" 0 0 0 "+(cx+iR*Math.cos(a1))+" "+(cy+iR*Math.sin(a1));
+        return(<g key={z.n} onClick={()=>onCZ(i)} style={{cursor:"pointer"}}><path d={path} fill={isSel?EC[z.e]+"25":"transparent"}/><line x1={cx+iR*Math.cos(a1)} y1={cy+iR*Math.sin(a1)} x2={cx+oR*Math.cos(a1)} y2={cy+oR*Math.sin(a1)} stroke="#5a4a2a" strokeWidth="0.5"/><text x={cx+sR*Math.cos(am)} y={cy+sR*Math.sin(am)} textAnchor="middle" dominantBaseline="central" fill={isSel?"#3a2810":EC[z.e]} fontSize={isSel?18:15} opacity={isSel?1:0.55} style={{fontFamily:"serif"}}>{z.s}</text></g>);})}
+      {vP.map((l,i)=>{const n=vP[(i+2)%5],a1=(l-90)*Math.PI/180,a2=(n-90)*Math.PI/180,r=cR+16;return(<line key={"v"+i} x1={cx+r*Math.cos(a1)} y1={cy+r*Math.sin(a1)} x2={cx+r*Math.cos(a2)} y2={cy+r*Math.sin(a2)} stroke="#5a7a5a" strokeWidth="0.6" opacity="0.35" strokeDasharray="3,3"/>);})}
+      {asp.map((a,i)=>{const a1=(pos[a.p1]-90)*Math.PI/180,a2=(pos[a.p2]-90)*Math.PI/180;const hl=hlP===a.p1||hlP===a.p2||selP===a.p1||selP===a.p2;return(<line key={"a"+i} x1={cx+pR*Math.cos(a1)} y1={cy+pR*Math.sin(a1)} x2={cx+pR*Math.cos(a2)} y2={cy+pR*Math.sin(a2)} stroke={a.asp.c} strokeWidth={hl?1.3:0.5} opacity={hl?0.5:0.18}/>);})}
+      {Object.entries(pos).map(([nm,lon])=>{const angle=(lon-90)*Math.PI/180,px=cx+pR*Math.cos(angle),py=cy+pR*Math.sin(angle);const pd=PL[nm];const hl=hlP===nm||selP===nm;return(<g key={nm} filter={hl?"url(#glB)":"url(#gl)"} onClick={()=>onCP(nm)} style={{cursor:"pointer"}}><circle cx={px} cy={py} r={hl?13:10} fill="#f4e8c8" stroke={pd.c} strokeWidth={hl?1.8:0.8}/><text x={px} y={py+1} textAnchor="middle" dominantBaseline="central" fill={pd.c} fontSize={hl?14:11} style={{fontFamily:"serif"}}>{pd.s}</text></g>);})}
+      <text x={cx} y={cy+3} textAnchor="middle" fill="#8b6914" fontSize="7" style={{fontFamily:"'IM Fell English',serif"}}>Tap to explore</text>
+    </svg>
   );
 }
 
-/* ══════ MAIN ══════ */
-function App(){
-  const[tab,setTab]=useState("sphere");
-  const[mode,setMode]=useState("draper");
-  const[cP,sCP]=useState(null);
-  const[cL,sCL]=useState("");
-  const[sD,sSD]=useState(null);
-  const[sH,sSH]=useState(null);
-  const[hlP,sHLP]=useState(null);
-  const[sV,sSV]=useState(true);
-  const[sA,sSA]=useState(true);
-  const[selZ,sSelZ]=useState(null);
-  const[selP,sSelP]=useState(null);
+/* ═══ BRUNO COMBINATORY DISK ═══ */
+function BrunoDisk({ pos }) {
+  const sz = 360, cx = sz/2, cy = sz/2;
+  const moonPhase = getMoonPhase(pos.Sun, pos.Moon);
+  const mansion = getMansion(pos.Moon);
+  
+  return (
+    <svg viewBox={"0 0 " + sz + " " + sz} style={{ width: "100%", maxWidth: 340 }}>
+      {/* Outer ring: 36 decans */}
+      <circle cx={cx} cy={cy} r={165} fill="none" stroke="#5a4a2a" strokeWidth="1.5" />
+      <circle cx={cx} cy={cy} r={140} fill="none" stroke="#5a4a2a" strokeWidth="0.5" />
+      {DECANS.map((d, i) => {
+        const a = ((i * 10 + 5) - 90) * Math.PI / 180;
+        const aLine = ((i * 10) - 90) * Math.PI / 180;
+        return (
+          <g key={"d" + i}>
+            <line x1={cx + 140 * Math.cos(aLine)} y1={cy + 140 * Math.sin(aLine)} x2={cx + 165 * Math.cos(aLine)} y2={cy + 165 * Math.sin(aLine)} stroke="#5a4a2a30" strokeWidth="0.3" />
+            {i % 3 === 1 && <text x={cx + 152 * Math.cos(a)} y={cy + 152 * Math.sin(a)} textAnchor="middle" dominantBaseline="central" fill={EC[d.element]} fontSize="10" opacity="0.5" style={{ fontFamily: "serif" }}>{d.symbol}</text>}
+          </g>
+        );
+      })}
+      
+      {/* Middle ring: 7 planets */}
+      <circle cx={cx} cy={cy} r={110} fill="none" stroke="#5a4a2a" strokeWidth="0.8" />
+      {Object.entries(PL).map(([name, pd], i) => {
+        const a = ((pos[name]) - 90) * Math.PI / 180;
+        return (
+          <g key={"bp" + i}>
+            <circle cx={cx + 110 * Math.cos(a)} cy={cy + 110 * Math.sin(a)} r={9} fill="#f4e8c8" stroke={pd.c} strokeWidth="1" />
+            <text x={cx + 110 * Math.cos(a)} y={cy + 110 * Math.sin(a) + 1} textAnchor="middle" dominantBaseline="central" fill={pd.c} fontSize="11" style={{ fontFamily: "serif" }}>{pd.s}</text>
+          </g>
+        );
+      })}
+      
+      {/* Inner ring: 28 mansions */}
+      <circle cx={cx} cy={cy} r={75} fill="none" stroke="#5a4a2a" strokeWidth="0.6" />
+      <circle cx={cx} cy={cy} r={55} fill="none" stroke="#5a4a2a" strokeWidth="0.4" />
+      {MANSIONS.map((m, i) => {
+        const a = ((i * (360/28) + (180/28)) - 90) * Math.PI / 180;
+        const aLine = ((i * (360/28)) - 90) * Math.PI / 180;
+        const isCurrent = i === mansion.index;
+        return (
+          <g key={"m" + i}>
+            <line x1={cx + 55 * Math.cos(aLine)} y1={cy + 55 * Math.sin(aLine)} x2={cx + 75 * Math.cos(aLine)} y2={cy + 75 * Math.sin(aLine)} stroke="#5a4a2a20" strokeWidth="0.3" />
+            <text x={cx + 65 * Math.cos(a)} y={cy + 65 * Math.sin(a)} textAnchor="middle" dominantBaseline="central" fill={isCurrent ? "#8b6914" : "#8a7a5a"} fontSize={isCurrent ? 8 : 5} style={{ fontFamily: "'IM Fell English',serif" }}>{i + 1}</text>
+          </g>
+        );
+      })}
+      
+      {/* Moon position marker */}
+      {(() => {
+        const moonA = (pos.Moon - 90) * Math.PI / 180;
+        return (
+          <g>
+            <circle cx={cx + 65 * Math.cos(moonA)} cy={cy + 65 * Math.sin(moonA)} r={6} fill="#f4e8c8" stroke="#6a6a78" strokeWidth="1.2" />
+            <text x={cx + 65 * Math.cos(moonA)} y={cy + 65 * Math.sin(moonA) + 1} textAnchor="middle" dominantBaseline="central" fill="#6a6a78" fontSize="9" style={{ fontFamily: "serif" }}>☽</text>
+          </g>
+        );
+      })()}
+      
+      {/* Center */}
+      <circle cx={cx} cy={cy} r={30} fill="#f4e8c830" stroke="#5a4a2a" strokeWidth="0.5" />
+      <text x={cx} y={cy - 6} textAnchor="middle" fill="#5a4a2a" fontSize="6" style={{ fontFamily: "'IM Fell English',serif", textTransform: "uppercase", letterSpacing: 1.5 }}>Bruno</text>
+      <text x={cx} y={cy + 6} textAnchor="middle" fill="#8b6914" fontSize="7" style={{ fontFamily: "'IM Fell English',serif" }}>Combinatory</text>
+    </svg>
+  );
+}
 
-  const pos=mode==="draper"?DP:mode==="today"?TP:(cP||DP);
-  const label=mode==="draper"?"May 30, 1561 (Julian)":mode==="today"?"May 4, 2026":(cL||"Select a date");
-  const selHP=sD!==null&&sH!==null?gPH(sD,sH):null;
-  const clickZ=(i)=>{sSelZ(selZ===i?null:i);sSelP(null);};
-  const clickP=(n)=>{sSelP(selP===n?null:n);sSelZ(null);};
-  const tabs=[["sphere","Sphere"],["reading","Reading"],["angels","Angels"],["circle","Circle"],["hours","Hours"],["cipher","Cipher"]];
+/* ═══ MAGIC SQUARE ═══ */
+function MSq({planet}){const ang=ANG[planet];if(!ang)return null;const grids={3:[[2,7,6],[9,5,1],[4,3,8]],4:[[4,14,15,1],[9,7,6,12],[5,11,10,8],[16,2,3,13]],5:[[11,24,7,20,3],[4,12,25,8,16],[17,5,13,21,9],[10,18,1,14,22],[23,6,19,2,15]]};const n=ang.sq,grid=grids[n];if(!grid)return(<div style={{color:"#8a7a5a",fontSize:11}}>Order-{n} square</div>);const cs=Math.min(32,160/n);
+  return(<div style={{display:"inline-block"}}><table style={{borderCollapse:"collapse",margin:"0 auto"}}><tbody>{grid.map((row,r)=>(<tr key={r}>{row.map((v,c)=>(<td key={c} style={{width:cs,height:cs,textAlign:"center",border:"1px solid "+PL[planet].c+"20",color:"#3a2810",fontSize:cs>28?12:9,fontFamily:"'IM Fell English',serif"}}>{v}</td>))}</tr>))}</tbody></table><div style={{textAlign:"center",fontSize:9,color:"#8a7a5a",marginTop:3}}>Σ{ang.n} · {n}×{n}</div></div>);
+}
 
-  return(
+/* ═══ HOURS TABLE ═══ */
+function HTable({sD,onSD,sH,onSH}){
+  const rows=[];for(let h=0;h<24;h++){const cells=[<td key="h" style={{padding:"1px 2px",borderBottom:"1px solid #c4a86812",textAlign:"center",color:"#8a7a5a",fontSize:7,fontWeight:600}}>{h}</td>];
+    for(let di=0;di<7;di++){const p=gPH(di,h),pd=PL[p],sel=sD===di&&sH===h;cells.push(<td key={di} onClick={()=>{onSD(di);onSH(h);}} style={{padding:"1px",borderBottom:"1px solid #c4a86808",textAlign:"center",cursor:"pointer",fontSize:12,background:sel?"#c4a86825":"transparent",color:pd.c,opacity:(h>=6&&h<18)?1:0.3}} title={p}>{pd.s}</td>);}rows.push(<tr key={h}>{cells}</tr>);}
+  return(<div style={{overflowX:"auto"}}><table style={{borderCollapse:"collapse",width:"100%",fontSize:10,fontFamily:"'IM Fell English',serif"}}><thead><tr><th style={{padding:"2px",borderBottom:"1px solid #c4a86835",width:22}}></th>{DN.map((d,i)=>(<th key={d} onClick={()=>onSD(i)} style={{padding:"2px",borderBottom:"1px solid #c4a86835",textAlign:"center",fontWeight:600,cursor:"pointer",background:sD===i?"#c4a86820":"transparent",color:sD===i?"#8b6914":"#8a7a5a",fontSize:9}}>{d.slice(0,2)}</th>))}</tr></thead><tbody>{rows}</tbody></table></div>);
+}
+
+/* ═══ DATE PICKER ═══ */
+function DPick({onDC}){const[v,setV]=useState("1561-05-30");const go=()=>{const p=v.split("-").map(Number);if(p[0]&&p[1]&&p[2]){const jd=d2j(p[0],p[1],p[2]);const ps=aP(TP,TJD,jd);const mo=["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];onDC(ps,mo[p[1]]+" "+p[2]+", "+p[0]);}};
+  return(<div style={{display:"flex",gap:6}}><input type="date" value={v} onChange={e=>setV(e.target.value)} className="dateInput"/><button onClick={go} className="castBtn">Cast</button></div>);
+}
+
+/* ═══ MAIN APP ═══ */
+function App() {
+  const [tab, setTab] = useState("sphere");
+  const [mode, setMode] = useState("draper");
+  const [cP, sCP] = useState(null);
+  const [cL, sCL] = useState("");
+  const [sD, sSD] = useState(null);
+  const [sH, sSH] = useState(null);
+  const [hlP, sHLP] = useState(null);
+  const [selZ, sSelZ] = useState(null);
+  const [selP, sSelP] = useState(null);
+
+  const pos = mode === "draper" ? DP : mode === "today" ? TP : (cP || DP);
+  const label = mode === "draper" ? "May 30, 1561" : mode === "today" ? "May 22, 2026" : (cL || "Select date");
+  const selHP = sD !== null && sH !== null ? gPH(sD, sH) : null;
+  const clickZ = (i) => { sSelZ(selZ === i ? null : i); sSelP(null); };
+  const clickP = (n) => { sSelP(selP === n ? null : n); sSelZ(null); };
+
+  const tabs = [["sphere","Sphere"],["reading","Reading"],["bruno","Bruno"],["angels","Angels"],["hours","Hours"],["cipher","Cipher"]];
+
+  return (
     <div className="grimoire">
-      <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+DW+Pica:ital@0;1&display=swap" rel="stylesheet"/>
+      <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+DW+Pica:ital@0;1&display=swap" rel="stylesheet" />
       <style>{`
-        .grimoire {
-          --parchment: #f4e8c8;
-          --parchment-dark: #e8d5a8;
-          --ink: #3a2810;
-          --ink-light: #5a4a2a;
-          --ink-faint: #8a7a5a;
-          --gold: #8b6914;
-          --accent: #c4a868;
-          min-height: 100vh;
-          padding: 0;
-          font-family: 'IM Fell English', serif;
-          color: var(--ink);
-          background: 
-            repeating-linear-gradient(0deg, transparent, transparent 28px, #c4a86808 28px, #c4a86808 29px),
-            repeating-linear-gradient(90deg, transparent, transparent 28px, #c4a86805 28px, #c4a86805 29px),
-            radial-gradient(ellipse at 30% 20%, #f4e8c8 0%, #e8d5a8 40%, #d4c498 80%, #c4a868 150%);
-          background-attachment: fixed;
-          position: relative;
-        }
-        .grimoire::before {
-          content: '';
-          position: fixed; top: 0; left: 0; right: 0; bottom: 0;
-          background: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.06'/%3E%3C/svg%3E");
-          pointer-events: none;
-          z-index: 0;
-        }
-        .inner { max-width: 480px; margin: 0 auto; padding: 24px 16px; position: relative; z-index: 1; }
-        .pageEdge {
-          position: fixed; top: 0; bottom: 0; width: 20px;
-          background: linear-gradient(90deg, #b89848 0%, #c4a868 30%, transparent 100%);
-          opacity: 0.15; z-index: 0;
-        }
-        .modeBtn {
-          flex: 1; padding: 6px 0; background: none; border: none;
-          font-family: 'IM Fell English', serif; font-size: 11px; cursor: pointer;
-          letter-spacing: 1px; transition: all 0.2s;
-        }
-        .modeBtn.active { color: var(--ink); border-bottom: 2px solid var(--gold); }
-        .modeBtn.inactive { color: var(--ink-faint); border-bottom: 2px solid transparent; }
-        .tabBtn {
-          flex: 1; padding: 6px 2px; background: none; border: none;
-          font-family: 'IM Fell English', serif; font-size: 10px; cursor: pointer;
-          white-space: nowrap; transition: all 0.2s;
-        }
-        .tabBtn.active { color: var(--ink); border-bottom: 2px solid var(--gold); }
-        .tabBtn.inactive { color: var(--ink-faint); border-bottom: 2px solid transparent; }
-        .pcard {
-          background: linear-gradient(135deg, #f4e8c8 0%, #ecdcb8 100%);
-          border: 1px solid; padding: 12px 14px; margin-top: 8px;
-          box-shadow: 2px 2px 8px #c4a86830;
-        }
-        .cardTitle { font-size: 18px; color: var(--ink); }
-        .sectionLabel { font-size: 10px; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
-        .infoBox {
-          margin-top: 12px; padding: 12px 14px;
-          background: linear-gradient(135deg, #ecdcb8 0%, #e4d0a8 100%);
-          border: 1px solid #c4a86840;
-          font-size: 12px; color: var(--ink-light); line-height: 1.7;
-          box-shadow: inset 0 1px 3px #c4a86820;
-        }
-        .infoBox strong { color: var(--gold); }
-        .dateInput {
-          background: #ecdcb8; border: 1px solid #c4a86860; color: var(--ink);
-          padding: 6px 10px; font-family: 'IM Fell English', serif; font-size: 13px; flex: 1;
-        }
-        .castBtn {
-          background: #c4a86830; border: 1px solid #c4a86860; color: var(--gold);
-          padding: 6px 16px; font-family: 'IM Fell English', serif; font-size: 13px;
-          cursor: pointer; letter-spacing: 1px;
-        }
-        .castBtn:hover { background: #c4a86850; }
-        .statusBar {
-          background: linear-gradient(135deg, #ecdcb8 0%, #e4d0a8 100%);
-          border: 1px solid #c4a86830; padding: 8px 12px;
-          margin: 8px 0 12px; display: flex; justify-content: space-between; align-items: center;
-        }
-        .legendItem {
-          display: flex; align-items: center; gap: 5px; font-size: 11px; cursor: pointer;
-        }
-        .legendItem:hover { opacity: 0.7; }
-        .angelRow {
-          cursor: pointer; border-bottom: 1px solid #c4a86820; padding: 10px 0;
-          transition: background 0.2s;
-        }
-        .angelRow:hover { background: #c4a86810; }
-        .checkLabel { font-size: 11px; color: var(--ink-faint); cursor: pointer; display: flex; align-items: center; gap: 4px; }
+        .grimoire { min-height:100vh; padding:0; font-family:'IM Fell English',serif; color:#3a2810;
+          background: repeating-linear-gradient(0deg,transparent,transparent 28px,#c4a86808 28px,#c4a86808 29px),
+            radial-gradient(ellipse at 30% 20%,#f4e8c8,#e8d5a8 40%,#d4c498 80%); background-attachment:fixed; }
+        .grimoire::before { content:''; position:fixed; inset:0; background:url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.06'/%3E%3C/svg%3E"); pointer-events:none; z-index:0; }
+        .inner { max-width:480px; margin:0 auto; padding:20px 14px; position:relative; z-index:1; }
+        .mBtn { flex:1; padding:5px 0; background:none; border:none; font-family:'IM Fell English',serif; font-size:10px; cursor:pointer; letter-spacing:1px; }
+        .mBtn.on { color:#3a2810; border-bottom:2px solid #8b6914; }
+        .mBtn.off { color:#8a7a5a; border-bottom:2px solid transparent; }
+        .tBtn { flex:1; padding:5px 1px; background:none; border:none; font-family:'IM Fell English',serif; font-size:9px; cursor:pointer; white-space:nowrap; }
+        .tBtn.on { color:#3a2810; border-bottom:2px solid #8b6914; }
+        .tBtn.off { color:#8a7a5a; border-bottom:2px solid transparent; }
+        .pc { background:linear-gradient(135deg,#f4e8c8,#ecdcb8); border:1px solid #c4a86830; padding:10px 12px; margin-top:8px; box-shadow:1px 1px 4px #c4a86820; }
+        .ib { margin-top:10px; padding:10px 12px; background:linear-gradient(135deg,#ecdcb8,#e4d0a8); border:1px solid #c4a86830; font-size:11px; color:#5a4a2a; line-height:1.7; box-shadow:inset 0 1px 2px #c4a86818; }
+        .ib strong { color:#8b6914; }
+        .sl { font-size:9px; color:#8a7a5a; text-transform:uppercase; letter-spacing:1.5px; margin-bottom:4px; }
+        .dateInput { background:#ecdcb8; border:1px solid #c4a86850; color:#3a2810; padding:5px 8px; font-family:'IM Fell English',serif; font-size:12px; flex:1; }
+        .castBtn { background:#c4a86825; border:1px solid #c4a86850; color:#8b6914; padding:5px 14px; font-family:'IM Fell English',serif; font-size:12px; cursor:pointer; }
+        .aRow { cursor:pointer; border-bottom:1px solid #c4a86818; padding:8px 0; }
+        .aRow:hover { background:#c4a86808; }
       `}</style>
 
-      <div className="pageEdge" style={{left:0}}/>
-      <div className="pageEdge" style={{right:0,transform:"scaleX(-1)"}}/>
-
       <div className="inner">
-        <div style={{display:"flex",justifyContent:"space-between"}}><CornerOrnament/><CornerOrnament flip/></div>
-        <div style={{textAlign:"center",margin:"-12px 0 8px"}}>
-          <div style={{fontSize:8,color:"var(--ink-faint)",letterSpacing:8,textTransform:"uppercase"}}>The Occult Library</div>
-          <h1 style={{margin:"6px 0 2px",fontSize:22,fontWeight:400,color:"var(--ink)",letterSpacing:1,fontFamily:"'IM Fell DW Pica',serif"}}>
-            Draper's Sphere
-          </h1>
-          <div style={{fontSize:14,color:"var(--gold)",fontStyle:"italic",fontFamily:"'IM Fell English',serif"}}>& the Grimoire Tradition</div>
-          <div style={{fontSize:10,color:"var(--ink-faint)",marginTop:4}}>Hew Draper (1561) · Reginald Scot (1584) · Della Porta (1592)</div>
+        <div style={{ textAlign: "center", marginBottom: 10 }}>
+          <div style={{ fontSize: 7, color: "#8a7a5a", letterSpacing: 7, textTransform: "uppercase" }}>The Occult Library</div>
+          <h1 style={{ margin: "4px 0", fontSize: 20, fontWeight: 400, color: "#3a2810", fontFamily: "'IM Fell DW Pica',serif" }}>Draper's Sphere</h1>
+          <div style={{ fontSize: 12, color: "#8b6914", fontStyle: "italic" }}>& the Grimoire Tradition</div>
+          <div style={{ fontSize: 9, color: "#8a7a5a", marginTop: 2 }}>Draper (1561) · Scot (1584) · Della Porta (1592) · Picatrix · Agrippa · Bruno</div>
         </div>
-        <WoodcutBorder/>
+        <WBorder />
 
-        <div style={{display:"flex",gap:0,marginBottom:6}}>
-          {[["draper","Draper 1561"],["today","Today"],["custom","Custom"]].map(([k,l])=>(
-            <button key={k} onClick={()=>{setMode(k);sSelZ(null);sSelP(null);}} className={"modeBtn "+(mode===k?"active":"inactive")}>{l}</button>
+        <div style={{ display: "flex", marginBottom: 4 }}>
+          {[['draper','Draper 1561'],['today','Today'],['custom','Custom']].map(([k, l]) => (
+            <button key={k} onClick={() => { setMode(k); sSelZ(null); sSelP(null); }} className={"mBtn " + (mode === k ? "on" : "off")}>{l}</button>
           ))}
         </div>
-        {mode==="custom"&&<div style={{padding:"8px 0 4px"}}><DPick onDC={(p,l)=>{sCP(p);sCL(l);sSelZ(null);sSelP(null);}}/></div>}
+        {mode === "custom" && <div style={{ padding: "6px 0" }}><DPick onDC={(p, l) => { sCP(p); sCL(l); }} /></div>}
 
-        <div className="statusBar">
-          <div><div style={{fontSize:9,color:"var(--ink-faint)",textTransform:"uppercase",letterSpacing:2}}>Viewing</div><div style={{fontSize:14,color:"var(--gold)"}}>{label}</div></div>
-          <div style={{textAlign:"right"}}><div style={{fontSize:9,color:"var(--ink-faint)"}}>Sun in</div><div style={{fontSize:15,color:EC[gS(pos.Sun).e]}}>{gS(pos.Sun).s} {gD(pos.Sun).toFixed(0)}° {gS(pos.Sun).n}</div></div>
+        <div style={{ background: "#ecdcb8", border: "1px solid #c4a86825", padding: "6px 10px", margin: "6px 0 8px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+          <div>
+            <div style={{ fontSize: 8, color: "#8a7a5a", textTransform: "uppercase", letterSpacing: 2 }}>Viewing</div>
+            <div style={{ fontSize: 12, color: "#8b6914" }}>{label}</div>
+          </div>
+          <div style={{ textAlign: "center" }}>
+            <div style={{ fontSize: 16 }}>{getMoonPhase(pos.Sun, pos.Moon).icon8}</div>
+            <div style={{ fontSize: 8, color: "#8a7a5a" }}>Mansion {getMansion(pos.Moon).number}</div>
+          </div>
+          <div style={{ textAlign: "right" }}>
+            <div style={{ fontSize: 8, color: "#8a7a5a" }}>Sun</div>
+            <div style={{ fontSize: 14, color: EC[gS(pos.Sun).e] }}>{gS(pos.Sun).s} {gS(pos.Sun).n}</div>
+          </div>
         </div>
 
-        <div style={{display:"flex",gap:0,marginBottom:10,borderBottom:"1px solid #c4a86830",overflowX:"auto"}}>
-          {tabs.map(([k,l])=>(<button key={k} onClick={()=>{setTab(k);sSelZ(null);sSelP(null);}} className={"tabBtn "+(tab===k?"active":"inactive")}>{l}</button>))}
+        <div style={{ display: "flex", marginBottom: 8, borderBottom: "1px solid #c4a86825", overflowX: "auto" }}>
+          {tabs.map(([k, l]) => (
+            <button key={k} onClick={() => { setTab(k); sSelZ(null); sSelP(null); }} className={"tBtn " + (tab === k ? "on" : "off")}>{l}</button>
+          ))}
         </div>
 
-        {tab==="sphere"&&<div>
-          <Wheel pos={pos} label={label} showV={sV} showA={sA} hlP={hlP} selZ={selZ} selP={selP} onCZ={clickZ} onCP={clickP}/>
-          <div style={{display:"flex",gap:16,justifyContent:"center",margin:"6px 0"}}>
-            <label className="checkLabel"><input type="checkbox" checked={sV} onChange={()=>sSV(!sV)} style={{accentColor:"#5a7a5a"}}/> Venus</label>
-            <label className="checkLabel"><input type="checkbox" checked={sA} onChange={()=>sSA(!sA)} style={{accentColor:"#8b6914"}}/> Aspects</label>
-          </div>
-          {selZ!==null&&<ZCard index={selZ} pos={pos}/>}
-          {selP&&<PCard name={selP} lon={pos[selP]}/>}
-          {selZ===null&&!selP&&<div className="infoBox" style={{textAlign:"center"}}>Tap any zodiac sign or planet glyph for details</div>}
-          <WoodcutDivider/>
-          <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:"2px 12px",marginTop:4}}>
-            {Object.entries(PL).map(([n,pd])=>(<div key={n} onMouseEnter={()=>sHLP(n)} onMouseLeave={()=>sHLP(null)} onClick={()=>clickP(n)} className="legendItem"><span style={{fontSize:16,color:pd.c,width:20,textAlign:"center"}}>{pd.s}</span><span style={{color:"var(--ink-faint)"}}>{n}</span><span style={{color:"#c4a86880",marginLeft:"auto",fontSize:9}}>{ANG[n]?ANG[n].a:""}</span></div>))}
-          </div>
-        </div>}
-
-        {tab==="reading"&&<ReadingTab pos={pos} label={label}/>}
-
-        {tab==="angels"&&<div>
-          <div className="sectionLabel">The Seven Planetary Angels</div>
-          <div style={{fontSize:11,color:"var(--ink-faint)",marginBottom:12,fontStyle:"italic"}}>From Reginald Scot, Discoverie of Witchcraft, Book XV Ch. VII (1584)</div>
-          {Object.entries(ANG).map(([planet,ang])=>{const pd=PL[planet];const isOpen=selP===planet;
-            return(<div key={planet} onClick={()=>sSelP(isOpen?null:planet)} className="angelRow">
-              <div style={{display:"flex",alignItems:"center",gap:10}}>
-                <span style={{fontSize:24,color:pd.c,width:30,textAlign:"center"}}>{pd.s}</span>
-                <div style={{flex:1}}><div style={{fontSize:15,color:"var(--ink)"}}>{ang.a}</div><div style={{fontSize:11,color:"var(--ink-faint)"}}>{ang.rk} · {planet} · {DN[DR.indexOf(planet)]}</div></div>
-                <span style={{fontSize:10,color:"var(--ink-faint)"}}>{isOpen?"▼":"▶"}</span>
-              </div>
-              {isOpen&&<div style={{marginTop:10,paddingLeft:40}}>
-                <div style={{fontSize:12,color:"var(--ink-light)",lineHeight:1.7,marginBottom:8}}>
-                  <div style={{color:pd.c,fontStyle:"italic",marginBottom:6}}>"{ang.inv}"</div>
-                  <div><strong style={{color:"var(--ink-faint)"}}>Intelligence:</strong> {ang.int}</div>
-                  <div><strong style={{color:"var(--ink-faint)"}}>Spirit:</strong> {ang.sp}</div>
+        {tab === "sphere" && (
+          <div>
+            <Wheel pos={pos} label={label} hlP={hlP} selZ={selZ} selP={selP} onCZ={clickZ} onCP={clickP} />
+            {selZ !== null && (
+              <div className="pc" style={{ borderColor: EC[ZOD[selZ].e] + "50" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                  <span style={{ fontSize: 32, color: EC[ZOD[selZ].e] }}>{ZOD[selZ].s}</span>
+                  <div><div style={{ fontSize: 16 }}>{ZOD[selZ].n}</div><div style={{ fontSize: 10, color: "#8a7a5a" }}>{ZOD[selZ].e} · {ZOD[selZ].q} · {ZOD[selZ].st} · {ZOD[selZ].ru}</div></div>
                 </div>
-                <div style={{marginTop:8}}><div className="sectionLabel">Kamea (Magic Square)</div><MSq planet={planet}/></div>
-              </div>}
-            </div>);
-          })}
-          <div className="infoBox"><strong>The System:</strong> Each planet has a ruling angel, an Intelligence, and a Spirit. The Kamea generates the sigil — trace the angel's name through the grid. The character scripts in the Discoverie illustration are produced by exactly this method.</div>
-        </div>}
-
-        {tab==="circle"&&<div>
-          <div className="sectionLabel">The Conjuring Circle</div>
-          <div style={{fontSize:11,color:"var(--ink-faint)",marginBottom:8,fontStyle:"italic"}}>From Discoverie of Witchcraft, Book XV — "Conjuring for a Spirit"</div>
-          <div style={{display:"flex",justifyContent:"center"}}><Circle/></div>
-          <WoodcutDivider/>
-          <div style={{marginTop:4}}>
-            {DIVN.map(d=>(<div key={d.n} style={{display:"flex",gap:8,padding:"4px 0",borderBottom:"1px solid #c4a86815"}}>
-              <span style={{fontSize:11,color:"var(--gold)",width:28,textAlign:"center"}}>{d.p}</span>
-              <span style={{fontSize:12,color:"var(--ink)",minWidth:100}}>{d.n}</span>
-              <span style={{fontSize:10,color:"var(--ink-faint)",flex:1}}>{d.d}</span>
-            </div>))}
+                <div style={{ fontSize: 11, color: "#5a4a2a", marginTop: 6, lineHeight: 1.6 }}>{ZOD[selZ].d}</div>
+              </div>
+            )}
+            {selP && (
+              <div className="pc" style={{ borderColor: PL[selP].c + "50" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                  <span style={{ fontSize: 32, color: PL[selP].c }}>{PL[selP].s}</span>
+                  <div style={{ flex: 1 }}><div className="cardTitle">{selP}</div><div style={{ fontSize: 11, color: EC[gS(pos[selP]).e] }}>{gS(pos[selP]).s} {gD(pos[selP]).toFixed(1)}° {gS(pos[selP]).n} — <span style={{ color: gDig(selP, pos[selP]).c }}>{gDig(selP, pos[selP]).t}</span></div></div>
+                  <div style={{ textAlign: "right", fontSize: 10, color: "#8a7a5a" }}><div>{PL[selP].m}</div><div>{ANG[selP] ? ANG[selP].a : ""}</div><div>{ORGANS[selP]}</div></div>
+                </div>
+                <div style={{ fontSize: 11, color: "#5a4a2a", marginTop: 6, lineHeight: 1.6 }}>{PL[selP].d}</div>
+              </div>
+            )}
+            {!selZ && !selP && <div className="ib" style={{ textAlign: "center" }}>Tap any zodiac sign or planet glyph</div>}
+            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1px 10px", marginTop: 8 }}>
+              {Object.entries(PL).map(([n, pd]) => (
+                <div key={n} onMouseEnter={() => sHLP(n)} onMouseLeave={() => sHLP(null)} onClick={() => clickP(n)} style={{ display: "flex", alignItems: "center", gap: 4, fontSize: 10, cursor: "pointer" }}>
+                  <span style={{ fontSize: 14, color: pd.c, width: 18, textAlign: "center" }}>{pd.s}</span>
+                  <span style={{ color: "#6a5a4a" }}>{n}</span>
+                  <span style={{ color: "#c4a86870", marginLeft: "auto", fontSize: 8 }}>{ORGANS[n]}</span>
+                </div>
+              ))}
+            </div>
           </div>
-          <div className="infoBox"><strong>Context:</strong> Draper's sphere tells you WHEN to work. The conjuring circle tells you HOW. The operator stands at center (Magister), surrounded by divine names as authority and protection. The pentagram and concentric rings create geometric containment.</div>
-        </div>}
+        )}
 
-        {tab==="hours"&&<div>
-          <div className="sectionLabel">Planetary Hours — Draper's Grid</div>
-          <HTable selDay={sD} onSD={sSD} selHour={sH} onSH={sSH}/>
-          {selHP&&<div className="pcard" style={{borderColor:"#c4a86840"}}><div style={{display:"flex",alignItems:"center",gap:10}}><span style={{fontSize:30,color:PL[selHP].c}}>{PL[selHP].s}</span><div><div style={{fontSize:15,color:"var(--ink)"}}>{selHP} · {ANG[selHP]?ANG[selHP].a:""}</div><div style={{fontSize:11,color:"var(--ink-faint)"}}>{DN[sD]} · Hour {sH} · {PL[selHP].m}</div><div style={{fontSize:11,color:"var(--ink-light)",marginTop:4}}>{PL[selHP].d}</div>{ANG[selHP]&&<div style={{fontSize:11,color:PL[selHP].c,marginTop:4,fontStyle:"italic"}}>Intelligence: {ANG[selHP].int} · Spirit: {ANG[selHP].sp}</div>}</div></div></div>}
-          {!selHP&&<div className="infoBox"><strong>Tap any cell</strong> — each hour shows planet, angel, intelligence, and spirit.</div>}
-        </div>}
+        {tab === "reading" && (
+          <div>
+            <div className="sl">Your Reading</div>
 
-        {tab==="cipher"&&<div>
-          <div className="sectionLabel">Renaissance Cryptography</div>
-          <div style={{fontSize:11,color:"var(--ink-faint)",marginBottom:12,fontStyle:"italic"}}>Giambattista della Porta, De Occultis Literarum Notis (1592)</div>
-          {CIPH.map((c,i)=>(<div key={i} style={{padding:"10px 0",borderBottom:"1px solid #c4a86820"}}>
-            <div style={{fontSize:14,color:"var(--gold)",marginBottom:4}}>{c.n}</div>
-            <div style={{fontSize:12,color:"var(--ink-light)",lineHeight:1.6}}>{c.d}</div>
-            <div style={{fontSize:10,color:"var(--ink-faint)",marginTop:4,fontStyle:"italic"}}>{c.f}</div>
-          </div>))}
-          <div className="infoBox"><strong>The Connection:</strong> Della Porta published De Furtivis in 1563 — two years after Draper carved his sphere. The angelic "characters" in Scot's Chapter VII ARE a cipher: each sigil is generated by tracing an angel's name through the planetary magic square.</div>
-          <div className="infoBox"><strong>Sources for Your Cluster:</strong><div style={{marginTop:4,color:"var(--ink-light)"}}>
-            <div>Discoverie of Witchcraft — gutenberg.org/ebooks/60766</div>
-            <div>De Occultis — archive.org/details/de-occultis-literarum-notis-seu-artis</div>
-            <div>De Furtivis — archive.org/details/bub_gb_sc-Zaq8_jFIC</div>
-          </div></div>
-        </div>}
+            <div className="pc">
+              <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
+                <span style={{ fontSize: 36 }}>{getMoonPhase(pos.Sun, pos.Moon).icon8}</span>
+                <div>
+                  <div style={{ fontSize: 10, color: "#8a7a5a", textTransform: "uppercase", letterSpacing: 1.5 }}>Lunar Phase</div>
+                  <div style={{ fontSize: 20, color: "#3a2810" }}>{getMoonPhase(pos.Sun, pos.Moon).phase8}</div>
+                  <div style={{ fontSize: 12, color: "#8b6914" }}>{getMoonPhase(pos.Sun, pos.Moon).illum.toFixed(0)}% illuminated</div>
+                </div>
+              </div>
+              <WDiv />
+              <div style={{ fontSize: 12, color: "#3a2810", marginBottom: 4 }}><strong>Lunar Mansion {getMansion(pos.Moon).number}: {getMansion(pos.Moon).mansion.n}</strong></div>
+              <div style={{ fontSize: 11, color: "#5a4a2a", lineHeight: 1.8 }}>
+                Star: {getMansion(pos.Moon).mansion.star} · Nature: <strong style={{ color: getMansion(pos.Moon).mansion.nature === "Benefic" ? "#5a6b3a" : getMansion(pos.Moon).mansion.nature === "Destructive" ? "#8b3a3a" : "#8b6914" }}>{getMansion(pos.Moon).mansion.nature}</strong>
+                <div style={{ marginTop: 4 }}>Operation: {getMansion(pos.Moon).mansion.op}</div>
+                <div style={{ marginTop: 2, fontStyle: "italic", color: "#8a7a5a" }}>Talisman: {getMansion(pos.Moon).mansion.tal}</div>
+              </div>
+            </div>
 
-        <WoodcutDivider/>
-        <div style={{display:"flex",justifyContent:"space-between",marginTop:4}}><CornerOrnament/><CornerOrnament flip/></div>
-        <div style={{fontSize:9,color:"var(--ink-faint)",textAlign:"center",lineHeight:1.8,marginTop:-8,opacity:0.6}}>
-          Ephemeris: Swiss Ephemeris DE431 · Angels: Scot (1584) & Agrippa (1533)<br/>
+            <div className="pc" style={{ marginTop: 8 }}>
+              <div style={{ fontSize: 10, color: "#8a7a5a", textTransform: "uppercase", letterSpacing: 1, marginBottom: 4 }}>Yeats Great Wheel — {getMoonPhase(pos.Sun, pos.Moon).quad.dir}</div>
+              <div style={{ fontSize: 14, color: "#8b6914", marginBottom: 4 }}>{getMoonPhase(pos.Sun, pos.Moon).quad.name}</div>
+              <div style={{ fontSize: 11, color: "#5a4a2a", lineHeight: 1.7 }}>{getMoonPhase(pos.Sun, pos.Moon).quad.desc}</div>
+            </div>
+
+            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 8, marginTop: 8 }}>
+              <div className="pc" style={{ borderColor: EC[gS(pos.Sun).e] + "40" }}>
+                <div style={{ fontSize: 10, color: "#8a7a5a", textTransform: "uppercase", letterSpacing: 1 }}>Sun — Will & Identity</div>
+                <div style={{ fontSize: 24, color: EC[gS(pos.Sun).e], marginTop: 4 }}>{gS(pos.Sun).s} <span style={{ fontSize: 14 }}>{gS(pos.Sun).n}</span></div>
+                <div style={{ fontSize: 11, color: "#5a4a2a", marginTop: 6, lineHeight: 1.6 }}>{ZOD.find(z => z.n === gS(pos.Sun).n).d}</div>
+              </div>
+              <div className="pc" style={{ borderColor: EC[gS(pos.Moon).e] + "40" }}>
+                <div style={{ fontSize: 10, color: "#8a7a5a", textTransform: "uppercase", letterSpacing: 1 }}>Moon — Emotion & Soul</div>
+                <div style={{ fontSize: 24, color: EC[gS(pos.Moon).e], marginTop: 4 }}>{gS(pos.Moon).s} <span style={{ fontSize: 14 }}>{gS(pos.Moon).n}</span></div>
+                <div style={{ fontSize: 11, color: "#5a4a2a", marginTop: 6, lineHeight: 1.6 }}>{ZOD.find(z => z.n === gS(pos.Moon).n).d}</div>
+              </div>
+            </div>
+
+            <div className="pc" style={{ marginTop: 8 }}>
+              <div style={{ fontSize: 10, color: "#8a7a5a", textTransform: "uppercase", letterSpacing: 1, marginBottom: 4 }}>Kircher Planetary-Organ Map</div>
+              <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "2px 8px" }}>
+                {Object.entries(ORGANS).map(([p, organ]) => {
+                  const dig = gDig(p, pos[p]);
+                  const strong = dig.t === "Domicile" || dig.t === "Exalted";
+                  return (
+                    <div key={p} style={{ display: "flex", alignItems: "center", gap: 4, fontSize: 10, opacity: strong ? 1 : 0.5 }}>
+                      <span style={{ color: PL[p].c, fontSize: 13 }}>{PL[p].s}</span>
+                      <span style={{ color: "#5a4a2a" }}>{organ}</span>
+                      {strong && <span style={{ color: dig.c, fontSize: 8, marginLeft: "auto" }}>★ {dig.t}</span>}
+                    </div>
+                  );
+                })}
+              </div>
+              <div style={{ fontSize: 10, color: "#8a7a5a", marginTop: 4, fontStyle: "italic" }}>Empowered planets activate Kircher's corresponding organs.</div>
+            </div>
+
+            {fA(pos).length > 0 && (
+              <div className="pc" style={{ marginTop: 8 }}>
+                <div style={{ fontSize: 10, color: "#8a7a5a", textTransform: "uppercase", letterSpacing: 1, marginBottom: 4 }}>Aspects</div>
+                {fA(pos).map((a, i) => (
+                  <div key={i} style={{ display: "flex", gap: 8, padding: "6px 0", borderBottom: i < fA(pos).length - 1 ? "1px solid #c4a86810" : "none", alignItems: "flex-start" }}>
+                    <div style={{ display: "flex", gap: 4, alignItems: "center", minWidth: 70 }}>
+                      <span style={{ color: PL[a.p1].c, fontSize: 16 }}>{PL[a.p1].s}</span>
+                      <span style={{ color: a.asp.c, fontSize: 14 }}>{a.asp.s}</span>
+                      <span style={{ color: PL[a.p2].c, fontSize: 16 }}>{PL[a.p2].s}</span>
+                    </div>
+                    <div style={{ fontSize: 11, color: "#5a4a2a", lineHeight: 1.5 }}>
+                      <strong style={{ color: "#3a2810" }}>{a.p1} {a.asp.n} {a.p2}</strong> — {a.asp.n === "Conjunction" ? a.p1 + " and " + a.p2 + " fuse their energies. What one does, the other amplifies." : a.asp.n === "Trine" ? "Effortless flow between " + a.p1 + " and " + a.p2 + ". Gifts that arrive without struggle." : a.asp.n === "Square" ? "Tension between " + a.p1 + " and " + a.p2 + ". Growth through friction. Neither planet yields easily." : a.asp.n === "Sextile" ? "Gentle opportunity between " + a.p1 + " and " + a.p2 + ". Available if you reach for it." : a.p1 + " and " + a.p2 + " face each other across the sky. Awareness through opposition."}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+
+            <WDiv />
+            <div className="sl">Grimoire Guidance</div>
+            {getGrimoire(pos, getMoonPhase(pos.Sun, pos.Moon)).map((g, i) => (
+              <div key={i} style={{ padding: "8px 0", borderBottom: "1px solid #c4a86820" }}>
+                <div style={{ fontSize: 13, color: "#8b6914", marginBottom: 4 }}>{g.t}</div>
+                <div style={{ fontSize: 11, color: "#5a4a2a", lineHeight: 1.7, whiteSpace: "pre-line" }}>{g.d}</div>
+              </div>
+            ))}
+
+            <WDiv />
+            <div className="sl">The 28 Lunar Mansions</div>
+            <div style={{ fontSize: 10, color: "#8a7a5a", marginBottom: 6, fontStyle: "italic" }}>From the Picatrix & Agrippa's De Occulta Philosophia</div>
+            {MANSIONS.map((m, i) => (
+              <div key={i} style={{ display: "flex", gap: 6, padding: "3px 0", borderBottom: "1px solid #c4a86810", opacity: i === getMansion(pos.Moon).index ? 1 : 0.45 }}>
+                <span style={{ fontSize: 10, color: i === getMansion(pos.Moon).index ? "#8b6914" : "#8a7a5a", width: 18, fontWeight: i === getMansion(pos.Moon).index ? 700 : 400 }}>{i + 1}</span>
+                <span style={{ fontSize: 10, color: "#3a2810", flex: 1 }}>{m.n}</span>
+                <span style={{ fontSize: 8, color: m.nature === "Benefic" ? "#5a6b3a" : m.nature === "Destructive" ? "#8b3a3a" : "#8a7a5a" }}>{m.nature}</span>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {tab === "bruno" && (
+          <div>
+            <div className="sl">Bruno's Combinatory Disk</div>
+            <div style={{ fontSize: 10, color: "#8a7a5a", marginBottom: 8, fontStyle: "italic" }}>After Giordano Bruno, Opera II (1886) — zodiac decans, planets, and lunar mansions on rotating Lullian wheels</div>
+            <BrunoDisk pos={pos} />
+            <div className="pc" style={{ marginTop: 8 }}>
+              <div style={{ fontSize: 10, color: "#8a7a5a", textTransform: "uppercase", letterSpacing: 1, marginBottom: 4 }}>Current Alignment</div>
+              <div style={{ fontSize: 11, color: "#5a4a2a", lineHeight: 1.7 }}>
+                <div>Outer ring: 36 decans (3 per zodiac sign, each 10°)</div>
+                <div>Middle ring: 7 planets at their current ecliptic positions</div>
+                <div>Inner ring: 28 lunar mansions with Moon marker at Mansion {getMansion(pos.Moon).number} ({getMansion(pos.Moon).mansion.n})</div>
+              </div>
+            </div>
+            <div className="ib">
+              <strong>Bruno's System:</strong> Giordano Bruno combined the classical art of memory with Ramon Lull's rotating combinatory disks, mapping zodiac decan images, planetary pictures, and lunar phase images onto concentric wheels. By rotating the wheels independently, every possible combination of celestial conditions could be generated — a Renaissance computational device for exploring the space of all possible astrological configurations. Bruno was burned at the stake in 1600 for, among other heresies, this magical cosmology.
+            </div>
+          </div>
+        )}
+
+        {tab === "angels" && (
+          <div>
+            <div className="sl">The Seven Planetary Angels</div>
+            <div style={{ fontSize: 10, color: "#8a7a5a", marginBottom: 8, fontStyle: "italic" }}>Scot, Discoverie of Witchcraft, Book XV Ch. VII (1584)</div>
+            {Object.entries(ANG).map(([planet, ang]) => {
+              const pd = PL[planet]; const isOpen = selP === planet;
+              return (
+                <div key={planet} onClick={() => sSelP(isOpen ? null : planet)} className="aRow">
+                  <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                    <span style={{ fontSize: 20, color: pd.c, width: 26, textAlign: "center" }}>{pd.s}</span>
+                    <div style={{ flex: 1 }}><div style={{ fontSize: 14, color: "#3a2810" }}>{ang.a}</div><div style={{ fontSize: 10, color: "#8a7a5a" }}>{ang.rk} · {planet} · {DN[DR.indexOf(planet)]} · {ORGANS[planet]}</div></div>
+                    <span style={{ fontSize: 9, color: "#8a7a5a" }}>{isOpen ? "▼" : "▶"}</span>
+                  </div>
+                  {isOpen && (
+                    <div style={{ marginTop: 8, paddingLeft: 34 }}>
+                      <div style={{ fontSize: 11, color: pd.c, fontStyle: "italic", marginBottom: 6 }}>&quot;{ang.inv}&quot;</div>
+                      <div style={{ fontSize: 11, color: "#5a4a2a", lineHeight: 1.6 }}>
+                        <div>Intelligence: {ang.int} · Spirit: {ang.sp}</div>
+                      </div>
+                      <div style={{ marginTop: 6 }}><div className="sl">Kamea</div><MSq planet={planet} /></div>
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        )}
+
+        {tab === "hours" && (
+          <div>
+            <div className="sl">Planetary Hours — Draper's Grid</div>
+            <HTable sD={sD} onSD={sSD} sH={sH} onSH={sSH} />
+            {selHP && (
+              <div className="pc">
+                <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+                  <span style={{ fontSize: 28, color: PL[selHP].c }}>{PL[selHP].s}</span>
+                  <div>
+                    <div style={{ fontSize: 14 }}>{selHP} · {ANG[selHP] ? ANG[selHP].a : ""}</div>
+                    <div style={{ fontSize: 10, color: "#8a7a5a" }}>{DN[sD]} · Hour {sH} · {PL[selHP].m} · {ORGANS[selHP]}</div>
+                    {ANG[selHP] && <div style={{ fontSize: 10, color: PL[selHP].c, marginTop: 3, fontStyle: "italic" }}>Int: {ANG[selHP].int} · Sp: {ANG[selHP].sp}</div>}
+                  </div>
+                </div>
+              </div>
+            )}
+            {!selHP && <div className="ib"><strong>Tap any cell</strong> — planet, angel, intelligence, spirit, and organ.</div>}
+          </div>
+        )}
+
+        {tab === "cipher" && (
+          <div>
+            <div className="sl">Renaissance Cryptography</div>
+            <div style={{ fontSize: 10, color: "#8a7a5a", marginBottom: 8, fontStyle: "italic" }}>Della Porta, De Occultis Literarum Notis (1592)</div>
+            {CIPH.map((c, i) => (
+              <div key={i} style={{ padding: "8px 0", borderBottom: "1px solid #c4a86818" }}>
+                <div style={{ fontSize: 13, color: "#8b6914", marginBottom: 2 }}>{c.n}</div>
+                <div style={{ fontSize: 11, color: "#5a4a2a", lineHeight: 1.5 }}>{c.d}</div>
+                <div style={{ fontSize: 9, color: "#8a7a5a", marginTop: 2, fontStyle: "italic" }}>{c.f}</div>
+              </div>
+            ))}
+            <div className="ib"><strong>The Connection:</strong> The angelic characters in Scot's Ch. VII are a cipher — each sigil traced through the planetary Kamea. Della Porta published De Furtivis in 1563, two years after Draper.</div>
+            <div className="ib"><strong>Sources:</strong><div style={{ marginTop: 3 }}>
+              <div>Discoverie — gutenberg.org/ebooks/60766</div>
+              <div>De Occultis — archive.org/details/de-occultis-literarum-notis-seu-artis</div>
+            </div></div>
+          </div>
+        )}
+
+        <WDiv />
+        <div style={{ fontSize: 8, color: "#8a7a5a", textAlign: "center", lineHeight: 1.8, opacity: 0.5 }}>
+          Ephemeris: Swiss Ephemeris DE431 · Mansions: Picatrix & Agrippa · Angels: Scot & Agrippa<br />
           "Hew Draper of Brystow made thys spheer the 30 daye of Maye anno 1561"
         </div>
       </div>
