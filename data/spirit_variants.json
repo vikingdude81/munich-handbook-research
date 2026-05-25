@@ -1,0 +1,20 @@
+[
+    {
+        "normalized_name": "vodka",
+        "variants": [
+            {"source_chunk_id": 1, "variant": "VODKA"},
+            {"source_chunk_id": 2, "variant": "vodka"}
+        ],
+        "duplicates": [
+            {"source_chunk_id": 3, "variant": "vodka (russian style)"}
+        ]
+    },
+    {
+        "normalized_name": "whisky",
+        "variants": [
+            {"source_chunk_id": 1, "variant": "Whiskey"},
+            {"source_chunk_id": 2, "variant": "whisky"}
+        ],
+        "duplicates": []
+    }
+]

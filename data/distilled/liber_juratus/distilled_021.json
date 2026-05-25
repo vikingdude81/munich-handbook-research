@@ -1,0 +1,311 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": "21",
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Maymon",
+      "type": "spirit",
+      "attributes": {
+        "title": "King",
+        "ministers": [
+          "Assaibi",
+          "Albunalich",
+          "Haibalidech",
+          "Iasfla"
+        ]
+      },
+      "page_ref": "256, 257",
+      "raw_quote": "Where is King Maymon? Where are his ministers Assaibi, Albunalich, Haibalidech, and Iasfla?"
+    },
+    {
+      "name": "Barthan",
+      "type": "spirit",
+      "attributes": {
+        "title": "King",
+        "ministers": [
+          "Taadas",
+          "Caudas",
+          "Yalcal"
+        ],
+        "quality": "most powerful"
+      },
+      "page_ref": "256, 257, 260",
+      "raw_quote": "Exeat hic potentissimus rex Barthan cum omnibus suis suffraganeis in virtute celesti meam facere voluntatem"
+    },
+    {
+      "name": "Formione",
+      "type": "spirit",
+      "attributes": {
+        "title": "King",
+        "ministers": [
+          "Guth",
+          "Maguth",
+          "Guthryn"
+        ],
+        "quality": "most beautiful"
+      },
+      "page_ref": "256, 257, 261",
+      "raw_quote": "Exeat hic pulcherrimus rex Formione cum suis legionibus angelorum virtute timoris summi iudicii meam facere voluntatem"
+    },
+    {
+      "name": "Iammax",
+      "type": "spirit",
+      "attributes": {
+        "title": "King",
+        "ministers": [
+          "Carmox",
+          "Ycanol",
+          "Pasfran"
+        ],
+        "quality": "most mighty"
+      },
+      "page_ref": "256, 257, 260",
+      "raw_quote": "Exeat hinc fortissimus rex Yammax cum sua inenumerabili caterva virtute divina meam facere voluntatem"
+    },
+    {
+      "name": "Sarabocres",
+      "type": "spirit",
+      "attributes": {
+        "title": "King",
+        "ministers": [
+          "Nassar",
+          "Cynassa"
+        ],
+        "quality": "most noble and most shining"
+      },
+      "page_ref": "257, 263",
+      "raw_quote": "Exeat hic nobilissimus ac fulgentissimus rex Sarabocres cum omnium suorum spirituum fulgencium potencia"
+    },
+    {
+      "name": "Harthan",
+      "type": "spirit",
+      "attributes": {
+        "title": "King",
+        "ministers": [
+          "Bileth",
+          "Mylalu",
+          "Abucaba"
+        ],
+        "quality": "most mild"
+      },
+      "page_ref": "257, 260",
+      "raw_quote": "Exeat hic mitissimus Harthan rex cum omnium suorum velocium subditorum caterva angelica virtute meam facere voluntatem"
+    },
+    {
+      "name": "Abaa",
+      "type": "spirit",
+      "attributes": {
+        "title": "King",
+        "ministers": [
+          "Hyici",
+          "Quyron",
+          "Zach",
+          "Eladeb"
+        ],
+        "quality": "most wise"
+      },
+      "page_ref": "257, 263",
+      "raw_quote": "Exeat hic sapientissimus rex Abaa cum omnium suorum sapientium spirituum exercitu virtute huius sacri Dei meam facere voluntatem"
+    },
+    {
+      "name": "Maymon",
+      "type": "spirit",
+      "attributes": {
+        "title": "King",
+        "quality": "most harsh"
+      },
+      "page_ref": "260",
+      "raw_quote": "Exeat hic acerbissimus rex Maymon cum omnium suorum aerorum spirituum exercitu virtute obediencie Belzebut"
+    },
+    {
+      "name": "Frigicap",
+      "type": "location",
+      "attributes": {
+        "direction": "North-West boundary"
+      },
+      "page_ref": "258, 263",
+      "raw_quote": "Then you should enter the circle through the part between Frigicap and the West"
+    },
+    {
+      "name": "Consol",
+      "type": "location",
+      "attributes": {
+        "direction": "South-West"
+      },
+      "page_ref": "259, 261",
+      "raw_quote": "if five, 5us versus consol"
+    },
+    {
+      "name": "Nogahem",
+      "type": "location",
+      "attributes": {
+        "direction": "South-East"
+      },
+      "page_ref": "259, 263",
+      "raw_quote": "if sixth, 6us versus nogahem"
+    },
+    {
+      "name": "Gladius (Sword)",
+      "type": "tool",
+      "attributes": {
+        "quantity": "7",
+        "placement": "one towards each direction"
+      },
+      "page_ref": "258, 260",
+      "raw_quote": "Then place one sword towards each direction, and they must be equalized in height"
+    },
+    {
+      "name": "Virgula (Wand)",
+      "type": "tool",
+      "attributes": {
+        "material": "laurel or hazel from that year"
+      },
+      "page_ref": "259, 260",
+      "raw_quote": "magister tenens baculum lauri vel coruli illius anni in manu dextra"
+    },
+    {
+      "name": "Thuribulum (Censer)",
+      "type": "tool",
+      "attributes": {
+        "contents": "incense on glowing charcoals"
+      },
+      "page_ref": "259, 263",
+      "raw_quote": "place incense on the glowing charcoals in the censer"
+    },
+    {
+      "name": "Scannum ligneum (Wooden Stool)",
+      "type": "tool",
+      "attributes": {
+        "height": "higher than the ground by the thickness of a finger"
+      },
+      "page_ref": "258",
+      "raw_quote": "And any of them may have a wooden stool higher than the ground by the thickness of a finger"
+    },
+    {
+      "name": "Sigillum et ligacio",
+      "type": "sigil",
+      "attributes": {
+        "names": [
+          "Bethala",
+          "payga",
+          "permyga",
+          "percuretaih",
+          "perrenay"
+        ]
+      },
+      "page_ref": "268",
+      "raw_quote": "Sigillum et ligacio Bethala suspensus in ethera, payga. permyga. percuretaih. perrenay."
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "divine_name",
+      "attributes": {
+        "role": "Lord"
+      },
+      "page_ref": "264",
+      "raw_quote": "O Lord Jesus Christ, merciful and kind, who willed yourself to be crucified on a cross of wood"
+    },
+    {
+      "name": "Heloy",
+      "type": "divine_name",
+      "attributes": {
+        "qualities": [
+          "holy",
+          "just",
+          "most powerful"
+        ]
+      },
+      "page_ref": "267",
+      "raw_quote": "per sanctum, iustum, potentissimum, excellentissimum, piissimum et coroboratum Heloy"
+    },
+    {
+      "name": "Names of God (1-81)",
+      "type": "divine_name",
+      "attributes": {
+        "count": "81+",
+        "usage": "conjunction and sealing"
+      },
+      "page_ref": "265, 267",
+      "raw_quote": "through these his holy names: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    },
+    {
+      "name": "Application Prayer",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "binding spirits to appear and obey"
+      },
+      "page_ref": "259",
+      "raw_quote": "That this spirit or these spirits N., whom I have invoked, may come bound to me"
+    },
+    {
+      "name": "Invocation Prayer (CXXXIII)",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "calling Heaven and binding spirits"
+      },
+      "page_ref": "265",
+      "raw_quote": "Per me [*nomen] et in nomine omnipotentis coroborati Dei vivi et veri Sabaoth"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Maymon",
+      "to": "Assaibi",
+      "type": "has_minister"
+    },
+    {
+      "from": "Barthan",
+      "to": "Taadas",
+      "type": "has_minister"
+    },
+    {
+      "from": "Formione",
+      "to": "Guth",
+      "type": "has_minister"
+    },
+    {
+      "from": "Iammax",
+      "to": "Carmox",
+      "type": "has_minister"
+    },
+    {
+      "from": "Sarabocres",
+      "to": "Nassar",
+      "type": "has_minister"
+    },
+    {
+      "from": "Harthan",
+      "to": "Bileth",
+      "type": "has_minister"
+    },
+    {
+      "from": "Abaa",
+      "to": "Hyici",
+      "type": "has_minister"
+    },
+    {
+      "from": "Master",
+      "to": "Virgula",
+      "type": "uses_tool"
+    },
+    {
+      "from": "Swords",
+      "to": "Directions",
+      "type": "placed_in_direction"
+    },
+    {
+      "from": "Spirits",
+      "to": "Names of God",
+      "type": "bound_by"
+    }
+  ],
+  "summary": "This chunk details the ritual procedure for raising specific kings and their ministers (Maymon, Barthan, Formione, etc.) using a circle, swords, and divine names. It outlines the placement of associates and tools in cardinal directions, the use of incense fumigation, and recites extensive invocations binding spirits to obey through holy names and seals.",
+  "key_passages": [
+    "Where is King Maymon? Where are his ministers Assaibi, Albunalich, Haibalidech, and Iasfla?",
+    "Exeat hic potentissimus rex Barthan cum omnibus suis suffraganeis in virtute celesti meam facere voluntatem",
+    "Then you should enter the circle through the part between Frigicap and the West",
+    "Per me [*nomen] et in nomine omnipotentis coroborati Dei vivi et veri Sabaoth, cui omnia patent",
+    "Sigillum et ligacio Bethala suspensus in ethera, payga. permyga. percuretaih. perrenay."
+  ]
+}

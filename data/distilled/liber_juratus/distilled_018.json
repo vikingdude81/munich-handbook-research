@@ -1,0 +1,132 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 18,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Zebedei",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "221",
+      "raw_quote": "Obey therefore Zebedei and me in his name."
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "divine_name",
+      "attributes": {
+        "English": "Agla",
+        "Hebrew": "Heloy",
+        "Arabic": "Iaym",
+        "Greek": "Theos",
+        "Latin": "Deus"
+      },
+      "page_ref": "221-222",
+      "raw_quote": "and by his ineffable name Tetragrammaton, which Aaron wore on his forehead, which in English is called Agla, in Hebrew Heloy, in Arabic Iaym, in Greek Theos, which in Latin is called Deus"
+    },
+    {
+      "name": "Boel",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "221-2, 222",
+      "raw_quote": "Boel, Cafziel, Micrathon, Saterquiel, Satquiel, Raphael, Paamcociel, Asassaiel, Samael, Sathiel, Yturaiel, Amabiel, Raphael, Caphael, Dardiel, Hurathaphel, Anael, Raquiel, Salguyel, Michael, Myel, Sarapiel, Gabriel, Mychael, Samyel, Athithael"
+    },
+    {
+      "name": "Baxhatau",
+      "type": "spirit",
+      "attributes": {
+        "role": "exciter of the North wind",
+        "subordinate_to": "Sun and North wind"
+      },
+      "page_ref": "229",
+      "raw_quote": "But of those there are four governing in the East, and they are subordinate to the Sun and its wind, which is called the North wind. And there are four (spirits) raising it up: Baxhatau, Gahatus, Caudes, Iarabal"
+    },
+    {
+      "name": "Barthan",
+      "type": "demon",
+      "attributes": {
+        "role": "king of the East spirits",
+        "nature": "gives gold with carbuncles, wealth, gratitude, dissolves hostility"
+      },
+      "page_ref": "229",
+      "raw_quote": "of which Barthan is the king, Taadas, Caudas, Yalcal are the ministers"
+    },
+    {
+      "name": "Harthan",
+      "type": "demon",
+      "attributes": {
+        "role": "king of the West spirits",
+        "subordinate_to": "Moon and Zephyr"
+      },
+      "page_ref": "230-231",
+      "raw_quote": "The western ones are four... of which Harthan is the king, Bileth, Milalu, and Habuchaba are his ministers"
+    },
+    {
+      "name": "Iammax",
+      "type": "demon",
+      "attributes": {
+        "role": "king of the South spirits",
+        "subordinate_to": "Mars and Eastern wind",
+        "nature": "causes war, plague, murders, treason, burning; grants death/sickness/health"
+      },
+      "page_ref": "231-232",
+      "raw_quote": "Iammax the king, Carmox, Ichanol, Pasfran, to whom all other daemons of the region are subordinate"
+    },
+    {
+      "name": "Sign of the Cross on Ground",
+      "type": "ritual",
+      "attributes": {
+        "instruction": "make with eyes closed"
+      },
+      "page_ref": "221-222",
+      "raw_quote": "here make the sign of the cross on the ground, with eyes closed, saying"
+    },
+    {
+      "name": "Inverted Hand Sign",
+      "type": "ritual",
+      "attributes": {
+        "instruction": "hold hand inverted over head and show the sign to them"
+      },
+      "page_ref": "222",
+      "raw_quote": "here he should hold his hand inverted over his head, and show the sign to them."
+    },
+    {
+      "name": "Spirits of the Air",
+      "type": "concept",
+      "attributes": {
+        "classification": "good (Eastern/Western), evil (Southern/Northern), neither good nor evil (collateral)"
+      },
+      "page_ref": "227-228",
+      "raw_quote": "There are two kinds of aerial spirits, for some are good while others are evil; some are mild, others wild."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Barthan",
+      "to": "Taadas, Caudas, Yalcal",
+      "type": "king to ministers"
+    },
+    {
+      "from": "Harthan",
+      "to": "Bileth, Milalu, Habuchaba",
+      "type": "king to ministers"
+    },
+    {
+      "from": "Iammax",
+      "to": "Carmox, Ichanol, Pasfran",
+      "type": "king to subordinates"
+    },
+    {
+      "from": "Baxhatau, Gahatus, Caudes, Iarabal",
+      "to": "Sun and North wind",
+      "type": "exciters of"
+    }
+  ],
+  "summary": "This chunk details the invocation of powerful angels using various divine names and concludes a ritual procedure involving signs and hand positions. It also introduces the Third Treatise concerning 'Spirits of the Air,' categorizing them by direction (East, West, South) and providing their specific hierarchies, physical appearances, elemental associations, and magical properties.",
+  "key_passages": [
+    "and by his ineffable name Tetragrammaton, which Aaron wore on his forehead",
+    "here make the sign of the cross on the ground, with eyes closed, saying",
+    "here he should hold his hand inverted over his head, and show the sign to them.",
+    "There are two kinds of aerial spirits, for some are good while others are evil; some are mild, others wild.",
+    "Their nature is to give gold with carbuncles as desired; also to obtain wealth, gratitude, and good will"
+  ]
+}

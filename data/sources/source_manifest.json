@@ -7,7 +7,7 @@
       "id": "necro",
       "status": "ok",
       "path": "H:\\NECRO.txt",
-      "description": "Kieckhefer, Forbidden Rites — full text of Munich Handbook study",
+      "description": "Kieckhefer, Forbidden Rites \u2014 full text of Munich Handbook study",
       "total_chars": 925451,
       "total_chunks": 39,
       "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\necro",
@@ -291,7 +291,7 @@
       "id": "forbidden_rites_pdf",
       "status": "ok",
       "path": "H:\\Forbidden Rites - A Necromancer's Manual of the Fifteenth Century (Magic in History) - Richard Kieckhefer (1).pdf",
-      "description": "Kieckhefer, Forbidden Rites — PDF version (cross-reference)",
+      "description": "Kieckhefer, Forbidden Rites \u2014 PDF version (cross-reference)",
       "total_chars": 911762,
       "total_chunks": 39,
       "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf",
@@ -575,7 +575,7 @@
       "id": "worship_dead",
       "status": "ok",
       "path": "H:\\The_Worship_of_the_Dead_A_Rigorous_Inqui.pdf",
-      "description": "The Worship of the Dead — necromantic practice context",
+      "description": "The Worship of the Dead \u2014 necromantic practice context",
       "total_chars": 1126710,
       "total_chunks": 48,
       "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\worship_dead",
@@ -922,760 +922,266 @@
       "id": "aurora_consurgens",
       "status": "scanned_images",
       "path": "H:\\AuroraConsurgenszrichZentralbibliothekMs.Rh.172.pdf",
-      "description": "Aurora Consurgens (Zurich MS Rh.172) — scanned images, no extractable text",
+      "description": "Aurora Consurgens (Zurich MS Rh.172) \u2014 scanned images, no extractable text",
       "note": "This PDF contains scanned images only. OCR would be needed."
     },
     {
-      "id": "discoverie",
+      "id": "ars_notoria",
       "status": "ok",
-      "label": "Reginald Scot — Discoverie of Witchcraft (1584 / 1886 reprint)",
-      "path": "c:\\Users\\akbon\\Downloads\\b21720307.pdf",
-      "description": "Reginald Scot, The Discoverie of Witchcraft (1584). Digitized 1886 Nicholson reprint. Primary source for planetary angels, conjuring circles, spirit hierarchies, and sceptical analysis of magic. Directly cited in the Sphere of Hew Draper app (Book XV Ch. VII).",
-      "mode": "native",
-      "total_chars": 1786094,
-      "total_chunks": 76,
-      "chunk_dir": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie",
+      "path": "C:\\Users\\akbon\\Downloads\\ars_notoria.pdf",
+      "description": "Ars Notoria \u2014 angelic art of knowledge acquisition through prayer and notation",
+      "total_chars": 140603,
+      "total_chunks": 6,
+      "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\ars_notoria",
       "chunks": [
         {
           "chunk_id": 0,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_000.txt",
+          "file": "E:\\munich_handbook_research\\data\\sources\\ars_notoria\\chunk_000.txt",
           "start_char": 0,
-          "end_char": 24263,
-          "chars": 24263
+          "end_char": 24477,
+          "chars": 24477
         },
         {
           "chunk_id": 1,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_001.txt",
-          "start_char": 23763,
-          "end_char": 47945,
-          "chars": 24182
+          "file": "E:\\munich_handbook_research\\data\\sources\\ars_notoria\\chunk_001.txt",
+          "start_char": 23977,
+          "end_char": 47448,
+          "chars": 23471
         },
         {
           "chunk_id": 2,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_002.txt",
-          "start_char": 47445,
-          "end_char": 71864,
-          "chars": 24419
+          "file": "E:\\munich_handbook_research\\data\\sources\\ars_notoria\\chunk_002.txt",
+          "start_char": 46948,
+          "end_char": 71285,
+          "chars": 24337
         },
         {
           "chunk_id": 3,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_003.txt",
-          "start_char": 71364,
-          "end_char": 94667,
-          "chars": 23303
+          "file": "E:\\munich_handbook_research\\data\\sources\\ars_notoria\\chunk_003.txt",
+          "start_char": 70785,
+          "end_char": 95785,
+          "chars": 25000
         },
         {
           "chunk_id": 4,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_004.txt",
-          "start_char": 94167,
-          "end_char": 118521,
-          "chars": 24354
+          "file": "E:\\munich_handbook_research\\data\\sources\\ars_notoria\\chunk_004.txt",
+          "start_char": 95285,
+          "end_char": 120285,
+          "chars": 25000
         },
         {
           "chunk_id": 5,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_005.txt",
-          "start_char": 118021,
-          "end_char": 143021,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 6,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_006.txt",
-          "start_char": 142521,
-          "end_char": 167521,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 7,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_007.txt",
-          "start_char": 167021,
-          "end_char": 191785,
-          "chars": 24764
-        },
-        {
-          "chunk_id": 8,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_008.txt",
-          "start_char": 191285,
-          "end_char": 216285,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 9,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_009.txt",
-          "start_char": 215785,
-          "end_char": 239570,
-          "chars": 23785
-        },
-        {
-          "chunk_id": 10,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_010.txt",
-          "start_char": 239070,
-          "end_char": 262944,
-          "chars": 23874
-        },
-        {
-          "chunk_id": 11,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_011.txt",
-          "start_char": 262444,
-          "end_char": 287115,
-          "chars": 24671
-        },
-        {
-          "chunk_id": 12,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_012.txt",
-          "start_char": 286615,
-          "end_char": 311615,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 13,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_013.txt",
-          "start_char": 311115,
-          "end_char": 334350,
-          "chars": 23235
-        },
-        {
-          "chunk_id": 14,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_014.txt",
-          "start_char": 333850,
-          "end_char": 356930,
-          "chars": 23080
-        },
-        {
-          "chunk_id": 15,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_015.txt",
-          "start_char": 356430,
-          "end_char": 380373,
-          "chars": 23943
-        },
-        {
-          "chunk_id": 16,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_016.txt",
-          "start_char": 379873,
-          "end_char": 404005,
-          "chars": 24132
-        },
-        {
-          "chunk_id": 17,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_017.txt",
-          "start_char": 403505,
-          "end_char": 427711,
-          "chars": 24206
-        },
-        {
-          "chunk_id": 18,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_018.txt",
-          "start_char": 427211,
-          "end_char": 450353,
-          "chars": 23142
-        },
-        {
-          "chunk_id": 19,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_019.txt",
-          "start_char": 449853,
-          "end_char": 473653,
-          "chars": 23800
-        },
-        {
-          "chunk_id": 20,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_020.txt",
-          "start_char": 473153,
-          "end_char": 496977,
-          "chars": 23824
-        },
-        {
-          "chunk_id": 21,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_021.txt",
-          "start_char": 496477,
-          "end_char": 521477,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 22,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_022.txt",
-          "start_char": 520977,
-          "end_char": 544620,
-          "chars": 23643
-        },
-        {
-          "chunk_id": 23,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_023.txt",
-          "start_char": 544120,
-          "end_char": 569120,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 24,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_024.txt",
-          "start_char": 568620,
-          "end_char": 593568,
-          "chars": 24948
-        },
-        {
-          "chunk_id": 25,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_025.txt",
-          "start_char": 593068,
-          "end_char": 616799,
-          "chars": 23731
-        },
-        {
-          "chunk_id": 26,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_026.txt",
-          "start_char": 616299,
-          "end_char": 639447,
-          "chars": 23148
-        },
-        {
-          "chunk_id": 27,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_027.txt",
-          "start_char": 638947,
-          "end_char": 662854,
-          "chars": 23907
-        },
-        {
-          "chunk_id": 28,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_028.txt",
-          "start_char": 662354,
-          "end_char": 687354,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 29,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_029.txt",
-          "start_char": 686854,
-          "end_char": 711854,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 30,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_030.txt",
-          "start_char": 711354,
-          "end_char": 735958,
-          "chars": 24604
-        },
-        {
-          "chunk_id": 31,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_031.txt",
-          "start_char": 735458,
-          "end_char": 759635,
-          "chars": 24177
-        },
-        {
-          "chunk_id": 32,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_032.txt",
-          "start_char": 759135,
-          "end_char": 783168,
-          "chars": 24033
-        },
-        {
-          "chunk_id": 33,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_033.txt",
-          "start_char": 782668,
-          "end_char": 807380,
-          "chars": 24712
-        },
-        {
-          "chunk_id": 34,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_034.txt",
-          "start_char": 806880,
-          "end_char": 831632,
-          "chars": 24752
-        },
-        {
-          "chunk_id": 35,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_035.txt",
-          "start_char": 831132,
-          "end_char": 854326,
-          "chars": 23194
-        },
-        {
-          "chunk_id": 36,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_036.txt",
-          "start_char": 853826,
-          "end_char": 877479,
-          "chars": 23653
-        },
-        {
-          "chunk_id": 37,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_037.txt",
-          "start_char": 876979,
-          "end_char": 900171,
-          "chars": 23192
-        },
-        {
-          "chunk_id": 38,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_038.txt",
-          "start_char": 899671,
-          "end_char": 923295,
-          "chars": 23624
-        },
-        {
-          "chunk_id": 39,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_039.txt",
-          "start_char": 922795,
-          "end_char": 946572,
-          "chars": 23777
-        },
-        {
-          "chunk_id": 40,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_040.txt",
-          "start_char": 946072,
-          "end_char": 970616,
-          "chars": 24544
-        },
-        {
-          "chunk_id": 41,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_041.txt",
-          "start_char": 970116,
-          "end_char": 994238,
-          "chars": 24122
-        },
-        {
-          "chunk_id": 42,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_042.txt",
-          "start_char": 993738,
-          "end_char": 1017400,
-          "chars": 23662
-        },
-        {
-          "chunk_id": 43,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_043.txt",
-          "start_char": 1016900,
-          "end_char": 1041900,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 44,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_044.txt",
-          "start_char": 1041400,
-          "end_char": 1064868,
-          "chars": 23468
-        },
-        {
-          "chunk_id": 45,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_045.txt",
-          "start_char": 1064368,
-          "end_char": 1089368,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 46,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_046.txt",
-          "start_char": 1088868,
-          "end_char": 1113868,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 47,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_047.txt",
-          "start_char": 1113368,
-          "end_char": 1137623,
-          "chars": 24255
-        },
-        {
-          "chunk_id": 48,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_048.txt",
-          "start_char": 1137123,
-          "end_char": 1162123,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 49,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_049.txt",
-          "start_char": 1161623,
-          "end_char": 1186623,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 50,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_050.txt",
-          "start_char": 1186123,
-          "end_char": 1211123,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 51,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_051.txt",
-          "start_char": 1210623,
-          "end_char": 1234801,
-          "chars": 24178
-        },
-        {
-          "chunk_id": 52,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_052.txt",
-          "start_char": 1234301,
-          "end_char": 1259301,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 53,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_053.txt",
-          "start_char": 1258801,
-          "end_char": 1283108,
-          "chars": 24307
-        },
-        {
-          "chunk_id": 54,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_054.txt",
-          "start_char": 1282608,
-          "end_char": 1307608,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 55,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_055.txt",
-          "start_char": 1307108,
-          "end_char": 1330173,
-          "chars": 23065
-        },
-        {
-          "chunk_id": 56,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_056.txt",
-          "start_char": 1329673,
-          "end_char": 1354673,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 57,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_057.txt",
-          "start_char": 1354173,
-          "end_char": 1378018,
-          "chars": 23845
-        },
-        {
-          "chunk_id": 58,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_058.txt",
-          "start_char": 1377518,
-          "end_char": 1402518,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 59,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_059.txt",
-          "start_char": 1402018,
-          "end_char": 1427018,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 60,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_060.txt",
-          "start_char": 1426518,
-          "end_char": 1450838,
-          "chars": 24320
-        },
-        {
-          "chunk_id": 61,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_061.txt",
-          "start_char": 1450338,
-          "end_char": 1475338,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 62,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_062.txt",
-          "start_char": 1474838,
-          "end_char": 1499086,
-          "chars": 24248
-        },
-        {
-          "chunk_id": 63,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_063.txt",
-          "start_char": 1498586,
-          "end_char": 1523580,
-          "chars": 24994
-        },
-        {
-          "chunk_id": 64,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_064.txt",
-          "start_char": 1523080,
-          "end_char": 1546896,
-          "chars": 23816
-        },
-        {
-          "chunk_id": 65,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_065.txt",
-          "start_char": 1546396,
-          "end_char": 1571097,
-          "chars": 24701
-        },
-        {
-          "chunk_id": 66,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_066.txt",
-          "start_char": 1570597,
-          "end_char": 1594479,
-          "chars": 23882
-        },
-        {
-          "chunk_id": 67,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_067.txt",
-          "start_char": 1593979,
-          "end_char": 1617885,
-          "chars": 23906
-        },
-        {
-          "chunk_id": 68,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_068.txt",
-          "start_char": 1617385,
-          "end_char": 1641346,
-          "chars": 23961
-        },
-        {
-          "chunk_id": 69,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_069.txt",
-          "start_char": 1640846,
-          "end_char": 1664480,
-          "chars": 23634
-        },
-        {
-          "chunk_id": 70,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_070.txt",
-          "start_char": 1663980,
-          "end_char": 1688182,
-          "chars": 24202
-        },
-        {
-          "chunk_id": 71,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_071.txt",
-          "start_char": 1687682,
-          "end_char": 1712682,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 72,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_072.txt",
-          "start_char": 1712182,
-          "end_char": 1736850,
-          "chars": 24668
-        },
-        {
-          "chunk_id": 73,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_073.txt",
-          "start_char": 1736350,
-          "end_char": 1760507,
-          "chars": 24157
-        },
-        {
-          "chunk_id": 74,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_074.txt",
-          "start_char": 1760007,
-          "end_char": 1785007,
-          "chars": 25000
-        },
-        {
-          "chunk_id": 75,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\discoverie\\chunk_075.txt",
-          "start_char": 1784507,
-          "end_char": 1786094,
-          "chars": 1587
+          "file": "E:\\munich_handbook_research\\data\\sources\\ars_notoria\\chunk_005.txt",
+          "start_char": 119785,
+          "end_char": 140603,
+          "chars": 20818
         }
       ]
     },
     {
-      "id": "de_occultis",
+      "id": "liber_juratus",
       "status": "ok",
-      "label": "Giambattista della Porta — De Occultis Literarum Notis (1592)",
-      "path": "c:\\Users\\akbon\\Downloads\\De Occultis Literarum Notis seu Artis.pdf",
-      "description": "Giambattista della Porta, De Occultis Literarum Notis seu Artis Aenigmaticae (1592). The foundational Renaissance cryptography text. Covers substitution ciphers, digraphic ciphers, music ciphers, volvelle alphabet wheels, and steganography. The angelic 'characters' in Scot's Discoverie are generated by tracing names through planetary magic squares — a cipher system documented here.",
-      "mode": "ocr",
-      "total_chars": 663384,
+      "path": "C:\\Users\\akbon\\Downloads\\Sworn Book of Honorius Liber - Juratus Honorii - Joseph Peterson.pdf",
+      "description": "Liber Juratus Honorii \u2014 the Sworn Book of Honorius (Peterson ed.)",
+      "total_chars": 659348,
       "total_chunks": 28,
-      "chunk_dir": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis",
+      "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\liber_juratus",
       "chunks": [
         {
           "chunk_id": 0,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_000.txt",
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_000.txt",
           "start_char": 0,
-          "end_char": 24751,
-          "chars": 24751
+          "end_char": 23663,
+          "chars": 23663
         },
         {
           "chunk_id": 1,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_001.txt",
-          "start_char": 24251,
-          "end_char": 49038,
-          "chars": 24787
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_001.txt",
+          "start_char": 23163,
+          "end_char": 47804,
+          "chars": 24641
         },
         {
           "chunk_id": 2,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_002.txt",
-          "start_char": 48538,
-          "end_char": 73522,
-          "chars": 24984
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_002.txt",
+          "start_char": 47304,
+          "end_char": 71241,
+          "chars": 23937
         },
         {
           "chunk_id": 3,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_003.txt",
-          "start_char": 73022,
-          "end_char": 97960,
-          "chars": 24938
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_003.txt",
+          "start_char": 70741,
+          "end_char": 94392,
+          "chars": 23651
         },
         {
           "chunk_id": 4,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_004.txt",
-          "start_char": 97460,
-          "end_char": 122414,
-          "chars": 24954
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_004.txt",
+          "start_char": 93892,
+          "end_char": 117704,
+          "chars": 23812
         },
         {
           "chunk_id": 5,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_005.txt",
-          "start_char": 121914,
-          "end_char": 146786,
-          "chars": 24872
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_005.txt",
+          "start_char": 117204,
+          "end_char": 141245,
+          "chars": 24041
         },
         {
           "chunk_id": 6,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_006.txt",
-          "start_char": 146286,
-          "end_char": 171086,
-          "chars": 24800
-        },
-        {
-          "chunk_id": 7,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_007.txt",
-          "start_char": 170586,
-          "end_char": 194333,
-          "chars": 23747
-        },
-        {
-          "chunk_id": 8,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_008.txt",
-          "start_char": 193833,
-          "end_char": 218397,
-          "chars": 24564
-        },
-        {
-          "chunk_id": 9,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_009.txt",
-          "start_char": 217897,
-          "end_char": 242859,
-          "chars": 24962
-        },
-        {
-          "chunk_id": 10,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_010.txt",
-          "start_char": 242359,
-          "end_char": 266755,
-          "chars": 24396
-        },
-        {
-          "chunk_id": 11,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_011.txt",
-          "start_char": 266255,
-          "end_char": 291009,
-          "chars": 24754
-        },
-        {
-          "chunk_id": 12,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_012.txt",
-          "start_char": 290509,
-          "end_char": 315011,
-          "chars": 24502
-        },
-        {
-          "chunk_id": 13,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_013.txt",
-          "start_char": 314511,
-          "end_char": 339486,
-          "chars": 24975
-        },
-        {
-          "chunk_id": 14,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_014.txt",
-          "start_char": 338986,
-          "end_char": 363939,
-          "chars": 24953
-        },
-        {
-          "chunk_id": 15,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_015.txt",
-          "start_char": 363439,
-          "end_char": 388362,
-          "chars": 24923
-        },
-        {
-          "chunk_id": 16,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_016.txt",
-          "start_char": 387862,
-          "end_char": 412677,
-          "chars": 24815
-        },
-        {
-          "chunk_id": 17,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_017.txt",
-          "start_char": 412177,
-          "end_char": 437125,
-          "chars": 24948
-        },
-        {
-          "chunk_id": 18,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_018.txt",
-          "start_char": 436625,
-          "end_char": 461625,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_006.txt",
+          "start_char": 140745,
+          "end_char": 165745,
           "chars": 25000
         },
         {
+          "chunk_id": 7,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_007.txt",
+          "start_char": 165245,
+          "end_char": 189159,
+          "chars": 23914
+        },
+        {
+          "chunk_id": 8,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_008.txt",
+          "start_char": 188659,
+          "end_char": 213659,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 9,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_009.txt",
+          "start_char": 213159,
+          "end_char": 238159,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 10,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_010.txt",
+          "start_char": 237659,
+          "end_char": 262625,
+          "chars": 24966
+        },
+        {
+          "chunk_id": 11,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_011.txt",
+          "start_char": 262125,
+          "end_char": 285805,
+          "chars": 23680
+        },
+        {
+          "chunk_id": 12,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_012.txt",
+          "start_char": 285305,
+          "end_char": 309880,
+          "chars": 24575
+        },
+        {
+          "chunk_id": 13,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_013.txt",
+          "start_char": 309380,
+          "end_char": 334380,
+          "chars": 25000
+        },
+        {
+          "chunk_id": 14,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_014.txt",
+          "start_char": 333880,
+          "end_char": 358167,
+          "chars": 24287
+        },
+        {
+          "chunk_id": 15,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_015.txt",
+          "start_char": 357667,
+          "end_char": 381965,
+          "chars": 24298
+        },
+        {
+          "chunk_id": 16,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_016.txt",
+          "start_char": 381465,
+          "end_char": 406132,
+          "chars": 24667
+        },
+        {
+          "chunk_id": 17,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_017.txt",
+          "start_char": 405632,
+          "end_char": 429896,
+          "chars": 24264
+        },
+        {
+          "chunk_id": 18,
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_018.txt",
+          "start_char": 429396,
+          "end_char": 454154,
+          "chars": 24758
+        },
+        {
           "chunk_id": 19,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_019.txt",
-          "start_char": 461125,
-          "end_char": 486101,
-          "chars": 24976
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_019.txt",
+          "start_char": 453654,
+          "end_char": 478015,
+          "chars": 24361
         },
         {
           "chunk_id": 20,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_020.txt",
-          "start_char": 485601,
-          "end_char": 510024,
-          "chars": 24423
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_020.txt",
+          "start_char": 477515,
+          "end_char": 501183,
+          "chars": 23668
         },
         {
           "chunk_id": 21,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_021.txt",
-          "start_char": 509524,
-          "end_char": 534515,
-          "chars": 24991
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_021.txt",
+          "start_char": 500683,
+          "end_char": 525412,
+          "chars": 24729
         },
         {
           "chunk_id": 22,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_022.txt",
-          "start_char": 534015,
-          "end_char": 558903,
-          "chars": 24888
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_022.txt",
+          "start_char": 524912,
+          "end_char": 548230,
+          "chars": 23318
         },
         {
           "chunk_id": 23,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_023.txt",
-          "start_char": 558403,
-          "end_char": 582769,
-          "chars": 24366
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_023.txt",
+          "start_char": 547730,
+          "end_char": 571869,
+          "chars": 24139
         },
         {
           "chunk_id": 24,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_024.txt",
-          "start_char": 582269,
-          "end_char": 607161,
-          "chars": 24892
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_024.txt",
+          "start_char": 571369,
+          "end_char": 595865,
+          "chars": 24496
         },
         {
           "chunk_id": 25,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_025.txt",
-          "start_char": 606661,
-          "end_char": 631339,
-          "chars": 24678
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_025.txt",
+          "start_char": 595365,
+          "end_char": 619705,
+          "chars": 24340
         },
         {
           "chunk_id": 26,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_026.txt",
-          "start_char": 630839,
-          "end_char": 655752,
-          "chars": 24913
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_026.txt",
+          "start_char": 619205,
+          "end_char": 642890,
+          "chars": 23685
         },
         {
           "chunk_id": 27,
-          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\de_occultis\\chunk_027.txt",
-          "start_char": 655252,
-          "end_char": 663384,
-          "chars": 8132
+          "file": "E:\\munich_handbook_research\\data\\sources\\liber_juratus\\chunk_027.txt",
+          "start_char": 642390,
+          "end_char": 659348,
+          "chars": 16958
         }
       ]
     }

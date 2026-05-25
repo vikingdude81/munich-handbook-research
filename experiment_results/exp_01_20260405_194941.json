@@ -1,0 +1,31 @@
+{
+  "experiment": 1,
+  "name": "Knowledge Conjuration",
+  "timestamp": "20260405_194941",
+  "result": [
+    {
+      "question": "What spirits are invoked for the invisibility experiments, and what materials are required?",
+      "answer": "To answer your inquiry regarding the rituals of invisibility, I must draw from the various fragments of the *Munich Handbook* (CLM 849) contained within my binding. The text provides different methods depending on the specific experiment:\n\n### **Method 1: The Black Cat Ritual**\nOne method for achieving invisibility involves the use of a specific animal and timing:\n*   **Spirits/Entities:** This ritual is associated with the use of a \"black cat born in March\" [necro chunk 28].\n*   **Materials:** A black cat, specifically one born in the month of March [necro chunk 28].\n\n### **Method 2: The White Dove Ritual**\nAnother experiment focuses on sacrifice and blood-drawing:\n*   **Spirits/Entities:** This ritual involves a \"white dove\" [necro chunk 37].\n*   **Materials/Instructions:** A white dove that is sacrificed on a Saturday night, with the practitioner using its blood to draw the necessary figures [necro chunk 37].\n\n### **Method 3: General Invisibility via Cloak or Plant**\nThe text also notes broader categories of invisibility experiments:\n*   **Materials/Methods:** The handbook details methods for obtaining invisibility through the use of a \"cloak, plant, or sacrifice\" [forbidden_rites_pdf chunk 7].\n\n***\n\n**Note on Interpretation:** While the text provides specific ingredients (such as the black cat or the dove), it does not explicitly list a unified group of named spirits specifically dedicated *only* to invisibility across all these methods; rather, it focuses on the ritualistic materials and timing required to trigger the effect [necro chunk 28, necro chunk 37].",
+      "tokens": 369,
+      "elapsed": 11.2
+    },
+    {
+      "question": "Describe the hierarchy of demonic princes in CLM 849 — who commands whom?",
+      "answer": "This lies beyond my binding.\n\nThe provided source material does not contain a formal, structured hierarchy or a definitive \"chain of command\" detailing which demonic princes command others. While the text lists numerous named spirits, demons, and their various ranks, it does not explicitly define a sovereign order of command between them.\n\nI can, however, provide the following specific details regarding the organization and grouping of spirits as found in the text:\n\n*   **Categorization by Function:** The manuscript is organized into categories of practice—illusionist, psychological, and divinatory [necro chunk 3]—rather than a hierarchy of demonic lords.\n*   **Groups and Legions:** Certain rituals involve specific groups or \"classes\" of spirits acting in concert. For example:\n    *   The **'armigeri' group** is invoked for military illusions to create phantom armies [necro chunk 26].\n    *   The **Oymelor group** and the **Vsyr group** are part of the spirit lists used for summoning illusory banquets and castles [necro chunk 25].\n    *   There are mentions of demons possessing **\"ranks and legions\"** [necro chunk 32], though specific command structures between these ranks are not detailed.\n*   **Subordinate Spirits:** The text notes that certain named demons exist alongside \"subordinate spirits\" [necro chunk 17], but it does not specify which prince commands which subordinate.\n*   **Use of Divine Authority for Command:** Rather than a demonic hierarchy, the text emphasizes that the magician uses **divine names** (such as *Tetragrammaton*, *Adonay*, and *Alpha et Omega*) and **sacred authority** (the power of Christ’s Passion or the Trinity) to \"compel,\" \"coerce,\" or \"bind\" spirits to obey [necro chunk 16, 17, 18, 31]. In these rituals, the true \"command\" is derived from the sacred names used by the practitioner, not from a demonic sovereign.",
+      "tokens": 437,
+      "elapsed": 8.4
+    },
+    {
+      "question": "What role does the boy medium (puer) play in the divination experiments?",
+      "answer": "In the divinatory experiments of the Munich Handbook (CLM 849), the boy medium (*puer*) serves as a vital participant for scrying and revelation.\n\nAccording to the source material:\n\n*   **Role in Scrying:** The *puer* is specifically identified as a ritual participant in scrying operations involving mirrors, crystals, and fingernails [necro chunk 13].\n*   **Ritual Context:** These divinatory practices are noted to involve \"especially virgin boys\" [necro chunk 13].\n*   **Detection of Crimes:** The gaze of a boy is utilized in specific rituals for the detection of theft or murder [necro chunk 28].\n\n**Interpretation:**\nBased on these passages, the *puer* acts as a sensitive vessel or medium through which spirits (such as Floron or Lilith) can be made to reveal hidden truths. The text suggests that the purity or specific nature of the child (the \"virgin boy\") is a necessary component for the efficacy of the scrying tools used in these experiments.",
+      "tokens": 228,
+      "elapsed": 4.5
+    }
+  ],
+  "metadata": {
+    "model": "google/gemma-4-26b-a4b",
+    "node": "Xeon",
+    "context_chunks": 30,
+    "questions": 3
+  }
+}

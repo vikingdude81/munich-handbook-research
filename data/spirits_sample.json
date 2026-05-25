@@ -1,0 +1,16 @@
+[
+  {
+    "spirits": [
+      {
+        "name": "Spiritus Malificus",
+        "rank": 1,
+        "function": "Evocation of Demonic Entities",
+        "appearance": "Dark and malevolent",
+        "legion_count": 50,
+        "conjuration_method": "Invocation Rituals",
+        "experiment_ref": "Experiment 342",
+        "page_folio": "Book of Shadows, Volume 1"
+      }
+    ]
+  }
+]

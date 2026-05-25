@@ -1,0 +1,205 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 13,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "malaparos",
+      "type": "spirit",
+      "attributes": {
+        "associated_names": [
+          "malapatas",
+          "helatay",
+          "helahenay",
+          "methay",
+          "meray"
+        ]
+      },
+      "page_ref": "161",
+      "raw_quote": "n. malaparos. malapatas. helatay. helahenay. methay. meray."
+    },
+    {
+      "name": "Maloht",
+      "type": "spirit",
+      "attributes": {
+        "associated_names": [
+          "Otheos",
+          "hatamagiel",
+          "hataha",
+          "marihel",
+          "gezozay",
+          "iezoray",
+          "gezozay",
+          "saziel",
+          "sazamay",
+          "iezoramp",
+          "zazamamp",
+          "sacamap",
+          "zachamay",
+          "iecornamas"
+        ]
+      },
+      "page_ref": "161",
+      "raw_quote": "Maloht. Otheos. hatamagiel. hataha. marihel. gezozay. iezoray. gezozay. saziel. sazamay. iezoramp. zazamanp. sacamap. zachamay. iecornamas."
+    },
+    {
+      "name": "Prayer 26",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "LXXXVIII. Latin Prayer",
+        "purpose": "To achieve the vision of God and help disbelief"
+      },
+      "page_ref": "161-162",
+      "raw_quote": "Pie Deus, misericors Deus, clemens Deus omnipotens omnia dans, fac michi credenti hodie omnia possibilia..."
+    },
+    {
+      "name": "Prayer 27",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "LXXXIX. Prayer 27",
+        "purpose": "To honor the Trinity and seek vision through sacraments"
+      },
+      "page_ref": "162-164",
+      "raw_quote": "Sechce, pie Pater, misericors Fili, clemens Spiritus sancte, Deus, rex ineffabilis et inestimabilis..."
+    },
+    {
+      "name": "Prayer 28",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "XC. Prayer 28",
+        "purpose": "To wash away sins and prepare for the holy vision"
+      },
+      "page_ref": "164-166",
+      "raw_quote": "Elscha, profiteor tibi hodie, Deus, Pater omnium, qui secreta celestia ostendisti."
+    },
+    {
+      "name": "Prayer 29",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "XCI. Prayer 29",
+        "purpose": "To dispose the will according to God's counsel and overcome weakness"
+      },
+      "page_ref": "165-167",
+      "raw_quote": "Abbadya, omnium regnorum sive potestatum visibilium sive invisibilium dispensator atque dispositor..."
+    },
+    {
+      "name": "Prayer 30",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "XCII. Prayer 30",
+        "purpose": "To receive heavenly grace and the sevenfold gifts of the Holy Spirit"
+      },
+      "page_ref": "167-168",
+      "raw_quote": "Alpha et Ω, Deus, vivorum dominator et omnium visibilium et invisibilium administrator..."
+    },
+    {
+      "name": "Prayer 31",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "XCIII. Prayer 31"
+      },
+      "page_ref": "168-170",
+      "raw_quote": "Leyste, profiteor tibi hodie, Deus, Pater omnium, qui secreta celestia ostendisti."
+    },
+    {
+      "name": "Prayer 32",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "XCIV. Prayer 32"
+      },
+      "page_ref": "170",
+      "raw_quote": "Horistion, Domine, quia ego servus tuus sum..."
+    },
+    {
+      "name": "Prayer 33",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "XCV. Prayer 33",
+        "sacraments": [
+          "Hosel",
+          "Iesel",
+          "Hazaiacol",
+          "Iosel",
+          "Authiachar",
+          "Hazacol",
+          "Gezor",
+          "Gezamyhor",
+          "Namathar",
+          "Senales",
+          "Iole",
+          "Tarotheos",
+          "Lochos",
+          "Genos",
+          "Halla",
+          "Samyhel",
+          "Ramay",
+          "Sacharios",
+          "Logos",
+          "Patir",
+          "Sarahc",
+          "Iothosym"
+        ]
+      },
+      "page_ref": "171-172",
+      "raw_quote": "Jeremon, clementissime Domine, Deus meus, et miserere mei et parce malis meis."
+    },
+    {
+      "name": "Prayer 34",
+      "type": "prayer",
+      "attributes": {
+        "latin_title": "XCVI. Prayer 34"
+      },
+      "page_ref": "172",
+      "raw_quote": "Hofbor, excelse Domine, Deus invisibilis..."
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "spirit",
+      "attributes": {
+        "roles": [
+          "Comforter",
+          "Sanctifier",
+          "Giver of grace"
+        ]
+      },
+      "page_ref": "161-172",
+      "raw_quote": "send the Comforter, the Holy Spirit, from Heaven to me on the Earth"
+    },
+    {
+      "name": "Satan",
+      "type": "demon",
+      "attributes": {
+        "actions": [
+          "stole ability of seeing and intellect"
+        ]
+      },
+      "page_ref": "166",
+      "raw_quote": "which ability of seeing and comprehending the judgment of Satan has stolen away."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Holy Spirit",
+      "to": "the practitioner",
+      "type": "fortifies/guides"
+    },
+    {
+      "from": "Satan",
+      "to": "human intellect",
+      "type": "deprives"
+    },
+    {
+      "from": "Prayer 33 sacraments",
+      "to": "attaining vision",
+      "type": "facilitates"
+    }
+  ],
+  "summary": "This chunk contains a series of liturgical prayers (Prayers 26 through 34) intended for the practitioner to achieve a divine vision. It includes various lists of sacred names and sacraments used to purify the soul and strengthen the mind for spiritual encounter.",
+  "key_passages": [
+    "make all things possible today, to me, a believer, and help my very disbelief today",
+    "that I may receive inwardly that which you will give and retain and be suited for having the vision of your person",
+    "I am a poor sinner presuming to undertake this ceremony, for seeing and recognizing this vision",
+    "through your most holy names and sacraments, which are: Hosel. Iesel. Hazaiacol. Iosel. Authiachar...",
+    "that the sevenfold gifts of grace of your Holy Spirit may work in me"
+  ]
+}

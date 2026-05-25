@@ -1,0 +1,533 @@
+SOURCE: Liber Juratus Honorii — the Sworn Book of Honorius (Peterson ed.)
+CHUNK: 1/28  |  CHARS: 0-23663 of 659348
+============================================================
+
+--- PAGE 1 ---
+The Sworn Book of
+HONORIUS
+Liber Iuratus Honorii
+Honorius of Thebes
+With Text, Translation, and Commentary by 
+Joseph Peterson
+
+
+--- PAGE 2 ---
+The Sworn Book of Honorius
+Liber Iuratus Honorii
+
+
+--- PAGE 4 ---
+The Sworn Book of Honorius
+Liber Iuratus Honorii
+by
+Honorius of Thebes
+With Text, Translation, and Commentary by
+Joseph Peterson
+Original Sourcebook of Medieval Magic
+I P
+Lake Worth, FL
+
+
+--- PAGE 5 ---
+Permission is hereby granted to make one handwritten copy  
+for personal use, provided the master bind his executors by a 
+strong oath (juramentum) to bury it with him in his grave.  
+Beyond this, whoever copies this sacred text without  
+permission from the editor will be damned. 
+Published in 2016 by Ibis Press
+A division of Nicolas-Hays, Inc.
+P. O. Box 540206
+Lake Worth, FL 33454-0206
+www.ibispress.net
+Distributed to the trade by
+Red Wheel/Weiser, LLC
+65 Parker St. • Ste. 7
+Newburyport, MA 01950
+www.redwheelweiser.com
+Copyright © 2016 by Joseph H. Peterson
+All rights reserved. No part of this publication may be  
+reproduced or transmitted in any form or by any means, electronic  
+or mechanical, including photocopying, recording, or by any information  
+storage and retrieval system, without permission in writing from  
+Nicolas-Hays, Inc. Reviewers may quote brief passages.
+isbn 978-0-89254-215-4
+ebook isbn 978-0-89254-630-5
+Library of Congress Cataloging-in-Publication Data
+Available upon request
+Book design and production by Studio 31
+www.studio31.com
+Printed in the United States of America 
+[MV]
+
+
+--- PAGE 6 ---
+5
+Table of Contents
+Introduction  
+7
+Abbreviations   
+45
+Text and Translation   
+47
+Prologue    
+49
+ 
+The oath   
+51
+Book I. Preparing the seal of God, and the Divine vision   
+53
+ 
+Composition of the Seal of God   
+65
+ 
+Beatific vision   
+77
+ 
+First purification   
+127
+ 
+Second purification   
+173
+ 
+Placating the Divine Majesty   
+175
+ 
+Separation   
+177
+ 
+Names of the living God   
+181
+ 
+Completion of the work   
+183
+Book II. Angels   
+197
+ 
+Natures and offices of planetary angels 
+199
+ 
+Construction of the circle and rituals for  
+207
+ 
+ 
+invoking and binding them  
+Book III. Spirits of the air   
+223
+ 
+Nature of spirits of the air   
+227
+ 
+Manner of working with them   
+239
+ 
+ 
+Raising up the winds and constructing the circle   
+245
+ 
+ 
+Preparation and raising up the spirits   
+259
+ 
+ 
+Seals and bonds   
+269
+ 
+ 
+Placating the spirits   
+273
+Book IV. Spirits of the Earth   
+277
+ 
+Manner of working with them   
+279
+ 
+Calling them forth  
+281
+
+
+--- PAGE 7 ---
+Book V. General exposition   
+283
+ 
+Consecration of the ink   
+287
+ 
+Details on the masses   
+291
+ 
+Beginning of undertaking the work   
+295
+ 
+Instructions for making the magic whistle   
+297
+Appendix I. Corrections and Addenda to Hedegård 2002   
+303
+Appendix II. Variants of some of the figures 
+304
+Bibliography   
+306
+Index of Spirit names   
+313
+Index of Divine names   
+321
+General Index   
+324
+
+
+--- PAGE 8 ---
+7
+Introduction
+E
+uropean history is peppered with accounts of a mysterious book 
+of magic called the Sworn Book of Honorius. It was so-called because its 
+owners were sworn to secrecy by one of the most severe oaths ever recorded. 
+They evidently took the oath quite seriously, for only a few manuscripts are 
+known to survive, and only one is complete. Its actual contents have remained 
+almost completely unknown, and no complete translation has been published 
+until the present. 
+It is not surprising then that scholars and historians have only recently 
+started to recognize its exceptional importance. In fact it is now recognized 
+as one of the oldest and most important texts of Medieval magic. The text 
+teaches a highly religious magic, or magic religion, but acutely at odds with 
+the established church authorities. Religious historian Claire Fanger called 
+it a “key text, in the sense that it stands at a crossroads for many areas and 
+disciplines.”1 Robert Mathiesen notes that it provides important evidence for 
+the flow of esoteric teachings between through Europe, and between Chris-
+tian, Jewish, and Arab communities.2 University of Hertfordshire historian 
+Owen Davis lists it as one of the “top ten grimoires,” stating the writings of 
+Honorius were “second only to those of Solomon in notoriety in the medi-
+eval period.”3 
+Although little known today, this text must have been widely known in 
+Medieval times and beyond. References to it appear in notices and legal pro-
+ceedings throughout the period. Jean-Patrice Boudet provides details of the 
+major references, which I will only list: 
+•–(circa 1230) Possible mention by William of Auvergne condemning the 
+text; 
+•–(circa 1347) clear description in a trial record of Olivier Pépin from Mende 
+France; 
+1 Fanger 2006 p. 180.
+2 Mathiesen 1998 p. 143.
+3 The Guardian, April 8, 2009, http://www.theguardian.com/books/2009/apr/08/
+history, retrieved Sep 12, 2015. Skemer 2006 p. 118 also describes it as “one of the leading 
+texts of ritual and ceremonial magic.”
+
+
+--- PAGE 9 ---
+sworn book of honorius
+8
+•–(late 14th century) inventory of the library of the Augustinian friars of 
+York; 
+•–(1376) a reference in Eymerich’s Directorium inquisitorum; 
+•–(1389) possible mention by Mézières in his Dream of the Old Pilgrim; 
+•–(1398) various condemnations by the Faculty of Theology of the University 
+of Paris likely referred to the text; 
+•–(1397) reference by John Gower in Confessio Amantis; 
+•–(1400) Jean d’Astarac possessing a copy of Liber sacratus, which seems very 
+likely that of Honorius; 
+•–(circa 1494) the colophon in Italian magic manuscript Florence, Laurent., 
+Plut. 89 sup. 38; 
+•–(1518) Trithemius references the magic of Honorius of Thebes in 
+Polygraphia; 
+•–(1582) references in the secret writings of John Dee; 
+•–(1583–1585) possible allusion by Giordano Bruno in his Cabala of Pegasus.4 
+To this can be added 
+•–(1623) a condemned sorcerer, Jean Michel Menuisier used a book titled 
+Philippus Attinius onorius, likely Liber Iuratus Honorii to judge by the 
+details of its contents.5
+In spite of its importance, these references reveal almost nothing of its 
+actual contents. Better known than the text is the Sigil or Seal of God – a cen-
+tral component of Honorius’s magic. It was apparently part of “a magical tra-
+dition that must have spread from the Mediterranean region across Europe.”6 
+Besides examples on metal, it can be found in manuscripts and at least one 
+printed edition of the Key of Solomon. The later examples exhibit consider-
+4 Jean-Patrice Boudet 2002 p. 853-855, 869–870. On the Pepin case, see also Bulman 2005 
+p. 4 ff. For details on Jean d’Astarac, see Jan Veenstra 1998 p. 84. For details of the library 
+of the Augustinian friars of York, see Klaassen 1998 p. 29, and more detail in Klaassen 
+2013, pp. 69, 73, and 76. For Plut. 89 sup. 38 (Firenze, Biblioteca Medicea Laurenziana), 
+see also Véronèse 2012, p. 98. Most of these notices were also given by Mathiesen 1998 p. 
+158.
+5 Davies 2009 pp. 64–65.
+6 Chardonnens and Veenstra 2014 p. 130.
+
+
+--- PAGE 10 ---
+Introduction
+9
+able divergence from the earliest ones, and its barely recognizable state in La 
+Véritable Magie Noire (1750)7 testifies to a long and elaborate transmission.
+The title “Sworn book of Honorius” came to be adopted in English lit-
+erature based on the catalog entry for the 16th century English translation in 
+London, brought to a wider audience’s attention by influential occultist A. 
+E. Waite (1898).8 Waite judged the text important, but “unaccountably over-
+looked by writers on ceremonial magic.”9 Ironically, he himself didn’t go into 
+details on the contents of the text, only describing the prologue, which gives 
+the text’s own account of its origin. Waite was aware of two manuscripts, only 
+one of which he identified—Sloane 313 in the British Library.
+7 “Iroé-Grego” 1750
+8 British Library Royal MS 17 A XLII (on which see below). The catalog entry actually 
+reads “THE SWORNE BOOKE of Honoryus,” even though the manuscript itself uses 
+the spelling “Honorius.”
+9 Waite 1911 p. 20. He mentions it again in his translation of Levi’s History of Magic, 1913. 
+Seal of God from La Véritable Magie Noire (1750) p. 69.
+
+
+--- PAGE 11 ---
+sworn book of honorius
+10
+The great pioneer on the history of magic, Lynn Thorndike, refers to the 
+text as Liber Sacratus in his 1923–1958 monumental survey of magic literature. 
+He translated the entire prologue, and went on to briefly survey the contents 
+of the text, identifying five manuscripts.10 
+Butler mentions it only briefly in her 1949 Ritual Magic, apparently based 
+solely on Waite’s references. Shah also mentions it in his 1956 Oriental Magic, 
+but again showed no knowledge of its actual contents, almost certainly hav-
+ing seen the references only in Waite’s books.
+Intrigued by these references, I took a summer in the Seventies to examine 
+the manuscripts firsthand, and order microfilms for further study. It proved 
+to be every bit as fascinating as hoped. The other purpose of my visit was to 
+study the manuscripts and magic artifacts of Elizabethan polymath John Dee, 
+and I was surprised to discover his connection to the Sworn Book (on which 
+see below).
+In 1977, Daniel Driscoll published a hybrid version of the text, based on 
+the two manuscripts described by Waite. This was limited to only 450 signed 
+and hand-numbered copies, beautifully printed in red, blue, and black ink. 
+Although it was missing much of the text found in other manuscripts, it pro-
+vided a fuller account of the contents than Waite and Thorndike, and has 
+come to be a valuable collectible.11
+In spite of the taboo, the Sworn Book was one of the first texts I published 
+on the Internet in 1998, on what was later to become esotericarchives.com.12 
+That version was based largely on the English manuscript, Royal 17 A XLII, 
+which omits much of the later material, but it finally made the bulk of the text 
+accessible to a wider audience.13 
+Since then, scholarly interest has exploded. Recent detailed studies have 
+been published by Mathiesen, Kieckhefer, Klaassen, Boudet, Jan Veenstra, 
+Mesler, and Chardonnens, as well as abundant references in literature.14 A 
+critical edition of the Latin text was published by Göste Hedegård in 2002, 
+10 Thorndike 1923, p. 284.
+11 Driscoll’s audience was contemporary magicians. His text was uncritical, with much 
+tampering and insertions to best serve that intended audience. In spite of this, it is still 
+relatively unnoticed by modern practitioners.
+12 It was in fact only the second text on the website, after Bruno’s Umbris Idearum.
+13 As an example, a copy of my text was printed and displayed at the Museum of 
+Witchcraft in Boscastle, UK.
+14 See references.
+
+
+--- PAGE 12 ---
+Introduction
+11
+and another critical edition of much of the text was published by Boudet in 
+the same year. An alternate version of the text has recently been recognized 
+from extensive passages in Berengar Ganell’s Summa Sacre Magice, virtually 
+revolutionizing our understanding of this text.15 In particular, some of Gan-
+ell’s Honorius material appears to be older than that of the better-known 
+northern European manuscripts. For more on this topic, see below.
+Title
+The title in the Latin manuscripts is variously given as Liber sacer sive iuratus 
+(“the Sacred or Sworn Book” I.18), Liber Sacer (“the Sacred Book”, CIII.1), 
+and “liber sacer vel liber angelorum vel liber iuratus ... quem fecit Honorius, 
+magister Thebarum” (“the Sacred Book, or the Book of the Angels, or the 
+Sworn Book, which was made by Honorius, the master of Thebes,” CXLI.1).
+The title Liber sacratus (“consecrated book”), in the possible references 
+by William of Auverne, is not actually found in the text, although the word 
+sacratus is used descriptively in chapter I.19, saying it is called “Sacred, as it 
+acts through the sacred, or because sacred things emerge from it, or because 
+it is consecrated through the angels, and because the angel Hocrohel called 
+it consecrated before the Lord.” Note too that Ganell does in fact refer to it as 
+Liber Sacratus.16
+Date
+Hedegård has established a date of between 1100-1350 A.D. for the text. Vary-
+ing attempts have been made to narrow it further. In 1998, Mathiesen pro-
+posed a date of the first half of the 13th century, while Kieckhefer proposed a 
+date a century later.17 The main argument for the earlier date is that the brief 
+references to a Liber Sacratus by William of Auvergne (circa 1230) are tempt-
+ingly close to our text. On the other hand, he may be referring to some other 
+magic text.
+15 Gilly, 2002. Damaris Gehr produced a critical edition for her Doctoral Thesis, and a 
+forthcoming edition is in press.
+16 L.1.f.23.
+17 Matheisen 1998 pp. 145–147; Kieckhefer 1998 pp. 253–254; Hedegård 2002 pp. 11–12.
+
+
+--- PAGE 13 ---
+sworn book of honorius
+12
+Thorndike favored the earlier date on the basis of William’s statements. 
+Lawrence-Mathers and Escobar-Vargas also favor the identification of Wil-
+liam’s text with the Sworn Book.18 
+The main argument for the latter date is the observation that the pro-
+logue most likely refers to the actions of John XXII, pope from 1316-1334, to 
+persecute heretics. In fact the wording in the prologue comes very close to 
+some of his sermons. Both Kieckhefer and Hedegård thus favor the early 14th 
+century. Of course the persecution passage could be a later insertion, as we 
+now know the text has been redacted. It could also refer to another, less noto-
+rious papal action. This view is supported by the fact that this persecution/
+origin myth is missing from Ganell’s text, as noted by Veenstra.19
+The possibility that these were later insertions also fits nicely with a the-
+ory raised by Boudet, that an earlier version circulated in the time of William, 
+and was known as Liber Sacratus. This would also explain the use of the title 
+Liber Sacratus by Ganell, and not by the northern manuscripts. It would also 
+explain the absence of persecution statements in the Summa Sacre Magice. Let 
+me point out that there is also a logical inconsistency in the persecution story, 
+which a late insertion might explain: If the magic was revealed to Honorius 
+by the angel Hocroel, there would be no reason to assemble experts from all 
+over to preserve their traditions from such Church actions.
+Another problem with the fourteenth century date, is that the oldest 
+manuscript, Sloane 3854, dates to then. This would not allow much time 
+to develop such a complicated manuscript tradition and stemma as demon-
+strated by Hedegård and others.20
+One further argument for the fourteenth century date is the inclusion of 
+prayers from the “glossed version” of Ars Notoria, which has been dated to the 
+fourteenth century.21 The importance of this as evidence is lessened however 
+by the discovery that Ganell’s Honorius does not include that material, but 
+rather demonstrates that the text underwent a later revision.22
+18 2014, pp. 38-39, 78.
+19 Veenstra 2012 p. 155.
+20 Hedegård 2002, especially p. 25.
+21 Véronèse 2007 pp. 135 ff.
+22 Actually, for the record, Ganell does include the Ars Notoria prayers, but later in his 
+compilation.
+
+
+--- PAGE 14 ---
+Introduction
+13
+Author
+As mentioned, the prologue gives an intriguing account of the text’s ori-
+gin, which smacks of fiction: A council of eighty-nine magicians assembled, 
+choosing one of their own, Honorius, to preserve the sacred magic from the 
+attacks of the church. The experts were assembled from Naples, Athens, and 
+Toledo. Honorius was said to be from Thebes—in this case probably not 
+Egypt,23 but Thebes Greece was intended. This may be pure fiction of course, 
+but that city did in fact have a large Jewish population, and saw much turmoil 
+during medieval times between the Eastern and Western Christian churches. 
+In many ways Thebes was at the crossroads. Interestingly, Thebes Greece (now 
+called Thiva) was referred to as “Thebes of the seven gates” to distinguish it 
+from the city in Egypt. These seven city gates were associated with the seven 
+planets—might these have inspired Honorius to design his magic circle with 
+a sword for each planet, stationed at seven directions around the perimeter?
+The name Honorius, son of Euclid, has been largely dismissed as a pseud-
+onym. Aside from Liber Iuratus, the only independent reference to Honorius 
+of Thebes is possibly Trithemius (1462–1516), who attributes a magic alphabet 
+to him: “Here follows another alphabet of Honorius surnamed the Theban, 
+and the use thereof is for hiding the foolishness of his magic, such as Petrus de 
+Abano testifies in his greater fourth book.”24 I have not been able to identify 
+any such passage in the many voluminous works of De Abano (c. 1257–1316). 
+Since pseudo-de Abano writings are not unknown, the evidence this provides 
+for a historical Honorius is shaky at best. The only manuscript of Honorius 
+which actually includes the alphabet is Sloane 3853, where it is clearly identi-
+fied as having been taken from Trithemius’s student Agrippa,25 thus making 
+a remarkable round-trip back to Honorius. This so-called Theban alphabet 
+is clearly based on the Latin alphabet, not Greek. This magical alphabet 
+23 Idries Shah, Oriental Magic, London: Octagon, 1992, p. 192, pronounced the work of 
+Egyptian origin on the basis of this name.
+24 “Sequitur aliud alphabetum Honorii cognomento Thebani, cuius ministerio suas in 
+magicis fatuitates abscondit, sicut Petrus de Apono testatur in suo maiore libro quarto” 
+Johannes Trithemius, Polygraphia 6, 1508, p. 579.
+25 Fol. 49v: “De characteribus predict. ... in liber tercius Henr[icus] Cornelius” i.e. 
+Agrippa, de Occulta Philosophia Liber III.29. The passage in question is not in the 1510 
+manuscript, but new to the 1533 edition. Agrippa does not actually identify his source, but 
+it is certainly that of his old mentor Trithemius.
+
+
+--- PAGE 15 ---
+sworn book of honorius
+14
+incidentally has seen widespread popularity by modern practitioners of 
+magic, Wicca, and other forms of witchcraft.
+Contents
+I will not recount the contents in depth, since the translation makes that 
+redundant, but only make a few observations. Seemingly the work of a single 
+author, the Sworn Book has an internal coherence based on medieval science 
+and theology. In short, it is a comprehensive method of magical attainment, 
+not a collection of unrelated spells like most magic texts that have come down 
+to us. 
+The centerpiece of the text is the ritual to attain nothing less than the 
+beatific vision. Subsequent rituals use the same framework for both spiri-
+tual and material benefits, using prayers, conjurations, seals, swords, a wand, 
+circles, and names of God, as well as names of angels and demons. A long 
+list of various practical uses that can be obtained appears at the beginning of 
+the book. It seems this was copied from material later in the text, making it 
+appear to be a list of chapters or table of contents. This is unfortunately not 
+the case, and a source of some confusion.26
+26 GH p. 27, Veenstra 2012 p. 174.
+Magic alphabet of Honorius
+
+
+--- PAGE 16 ---
+Introduction
+15
+Although the method of Honorius is distinctly Christian, it directly 
+attacks church authorities of the time, and teaches direct knowledge as 
+opposed to relying on the Church. It has Jewish elements as well as we will see.
+Origins and parallels i: 
+Jewish and “Solomonic” magic
+The Sworn Book shares some common concepts with medieval Jewish Byz-
+antine magic texts from Spain, France, and Byzantium. These include con-
+junction with God by magical means (devequt), whereupon the angels and 
+demons will bring one anything. Other key concepts are the powers of the 
+seven planets, and the magical uses of names of God—the 72-letter name in 
+particular.27 One of the earliest Kabbalists, R. Abraham Abulafia, was known 
+to have composed and disseminated his teachings in the 1270’s in Greece, 
+including Thebes.28 Abulafia composed a treatise on the 72-letter divine name, 
+although the details are different in Honorius and Abulafia. The similarities 
+suggest possible influence or fertilization in the development of Honorius’s 
+Christian art of magic.
+Interestingly, Hekalot Rabbati (8th or 9th century), a core text of Jew-
+ish mystical literature, has a similar origin narrative: “when R. Nehunia ben 
+ha-Kana heard that Rome was planning to destroy the sages, he gathered a 
+company of rabbis together to ‘reveal the nature (midda) of the secret of the 
+world.’”29
+Honorius claims his magic as coming from Solomon. The great seal is 
+called the Seal of Solomon (as well as the Seal of God), famous from antiq-
+uity for controlling demons. Some of the prayers and magical essentials are 
+also labeled with the name of that Jewish king. Honorius clearly saw himself 
+as following in the tradition, and endowed with the authority of Solomon. 
+Some elements of the method of Honorius indeed show familiarity with that 
+tradition: The use of magic circles protected by sacred names, suffumigations 
+and ink with familiar ingredients, and use of virgin parchment. Of the names 
+of God and those of spirits, there is a mixture of Hebrew, Greek, Latin, and 
+others not identifiable. Some are well known in magical literature, and others 
+27 Schwartz 2003 pp. 196, 202–203.
+28 Idel 2012 p. 663.
+29 Michael D. Schwartz 2006, p. 404.
+
+
+--- PAGE 17 ---
+sworn book of honorius
+16
+otherwise unknown. One example, Corniger, sounds like it could be from 
+some medieval popular drama.
+Kieckhefer identifies sleep visions as an essentially Jewish element.30 
+Another connection with Jewish mysticism may be found in chapter XCVIII, 
+where the text refers to seeing the heavenly palace; this definitely is a concept 
+found primarily in Hekaloth literature and Merkabah mysticism.
+Honorius also recognizes the traditional Jewish concept of Shem ha-
+Meforash, but again differs in the details from Kabbalistic tradition. The use 
+of this term, the planetary classification of spirits, and the concept of the 
+heavenly throne, all suggest Jewish influence akin to Sepher Raziel. Some 
+prayers, such as CXV.25, are very reminiscent of those found in Raziel, but 
+don’t match exactly. In at least one small instance, however, Honorius seems 
+to have drawn on this mystical text more or less directly.31 The text also uses 
+the term Shamayim, which is the Hebrew word for heaven. In medieval Jew-
+ish Merkabah literature, it is the name of the First Heaven, found in Raziel 
+and other sources.32 Of the prayers, only one is labeled Hebrew (LXIII), 
+though it doesn’t seem to have any Hebrew content.
+Besides these slender connections with Liber Razielis and Liber Semipho-
+ras, very little of the method of Honorius appears to be directly related to 
+other treatises on Solomonic magic, such as Clavicula Salomonis, Ars Alm-
+adel, De officiis spirituum, De novem candariis, or De quattuor annulis. The 
+concept of angels and daemons associated with the days and hours is also 
+found in the Clavicula, but details again differ. The use of prayers from Ars 
+Notoria is the exception, but again these were evidently added later.
+Origins and parallels ii: 
+Western/Latin Christianity
+A major influence on the magic of Honorius is traditional devout Chris-
+tian practice, with its common prayers (adapted in some cases), observance 
+of liturgical hours, abstinence, use of the hair shirt, and enlisting the help 
+30 Kieckhefer 1998 p. 256. See also Veenstra 2012 p. 186 n. 27.
+31 Namely, seven divine names used in the Seal of God (IV.14–47, CXXVII.15): Layaly, 
+etc. See below.
+32 See Raziel and Liber Semiphoras, 6/7Moses in Peterson 2008 p. 265.
+
+

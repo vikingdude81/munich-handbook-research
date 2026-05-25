@@ -1,0 +1,271 @@
+{
+  "source_id": "ars_notoria",
+  "chunk_id": 1,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Ars Notoria",
+      "type": "ritual",
+      "attributes": {
+        "description": "Angelic art of knowledge acquisition through prayer and notation",
+        "function": "contains all arts and sciences in brief notes"
+      },
+      "page_ref": "16",
+      "raw_quote": "Ars Notoria — angelic art of knowledge acquisition through prayer and notation"
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {
+        "role": "recipient of revelation",
+        "title": "King",
+        "authorship": "Lemegeton, Treatise on Spiritual and Secret Experiments"
+      },
+      "page_ref": "16–23",
+      "raw_quote": "Solomon witnesseth: Therefore it is called, The Notary Art, because in certain brief Notes, it teacheth and comprehendeth the Knowledge of all Arts"
+    },
+    {
+      "name": "The Angel",
+      "type": "spirit",
+      "attributes": {
+        "role": "revealer",
+        "prohibition": "cannot be expounded or shared",
+        "status": "lays inexcusable prohibition"
+      },
+      "page_ref": "16",
+      "raw_quote": "the Angel that declared it to Solomon, laid an inexcusable prohibition upon it"
+    },
+    {
+      "name": "The Queen of Tongues",
+      "type": "prayer",
+      "attributes": {
+        "function": "removes impediments of the tongue and grants eloquence",
+        "origin": "Chaldean Language"
+      },
+      "page_ref": "17",
+      "raw_quote": "this is an Oration which in the Scriptures we are taught to have alwayes in our mouthes; but it is taken out of the Chaldean Language"
+    },
+    {
+      "name": "Lameth, Leynach, Semach, Belmay, Azzailement, Gesegon, Lothamasim, Ozetogomaglial, Zeziphier, Josanum, Solatac, Bozefama, Defarciamar, Zemait, Lemaio, Pheralon, Anuc, Philosophi, Gregoon, Letos, Anum",
+      "type": "divine_name",
+      "attributes": {
+        "function": "invokes angels and provokes eloquence",
+        "usage": "to be said at beginning of month and Scripture"
+      },
+      "page_ref": "17",
+      "raw_quote": "Lameth, Leynach, Semach, Belmay... Azzailement, Gesegon, Lothamasim, Ozetogomaglial..."
+    },
+    {
+      "name": "Eliphasmasay, Gelonucoa, Gebeche Banai, Gerabcai, Elomnit",
+      "type": "divine_name",
+      "attributes": {
+        "function": "Archangels invoked for memory",
+        "context": "in prayer to increase Memory"
+      },
+      "page_ref": "17",
+      "raw_quote": "By thy Archangels, Eliphasmasay, Gelonucoa, Gebeche Banai, Gerabcai, Elomnit"
+    },
+    {
+      "name": "Do., Hel., X., P., A., Li., O., F",
+      "type": "divine_name",
+      "attributes": {
+        "function": "glorious Angels’ names (incomprehensible to human sense)"
+      },
+      "page_ref": "17",
+      "raw_quote": "whose names are so Consecrated, that they cannot be uttered by us; which are these, Do., Hel., X., P., A., Li., O., F, &c."
+    },
+    {
+      "name": "Theos Patir Heminas",
+      "type": "divine_name",
+      "attributes": {
+        "function": "invoked in prayers for memory and illumination"
+      },
+      "page_ref": "17",
+      "raw_quote": "O Most Mighty God, Invisible God, Theos Patir Heminas"
+    },
+    {
+      "name": "The Oration of the Physical Art",
+      "type": "prayer",
+      "attributes": {
+        "function": "diagnose illness and prognosis",
+        "usage": "say three times before patient"
+      },
+      "page_ref": "18–19",
+      "raw_quote": "Ihesus fili Dominus Incompehensibilis; Ancor, Anacor, Anylos..."
+    },
+    {
+      "name": "The Miraculous and Efficacious Foundation of the Physical Science",
+      "type": "prayer",
+      "attributes": {
+        "function": "reveals knowledge of physical art",
+        "attribute": "contains whole physical science in brief"
+      },
+      "page_ref": "19",
+      "raw_quote": "The Miraculous and Efficacious Foundation of the Physical Science"
+    },
+    {
+      "name": "Assay",
+      "type": "ritual_element",
+      "attributes": {
+        "function": "first part of a key Oration, used before speech or study"
+      },
+      "page_ref": "20",
+      "raw_quote": "the first and chiefest thing to be understood therein... the Oration before the second Chapter, it to be used long before every speech, the beginning whereof is Assay"
+    },
+    {
+      "name": "Lamed, Rogum, Ragia, Ragium, Ragiomal, Agaled, Eradioch, Anchovionos, Lochen, Saza, Ya, Manichel, Mamacuo, Lephoa, Bozaco, Cogemal, Saluyel, Tesunanu, Azaroch, Beyestar, Amak",
+      "type": "divine_name",
+      "attributes": {
+        "function": "used to comprehend large volumes of writing",
+        "context": "Oration for Magnitude of Art"
+      },
+      "page_ref": "20",
+      "raw_quote": "Lamed, Rogum, Ragia, Ragium..."
+    },
+    {
+      "name": "Oh Eternal and Unreprehensible Memory! Oh Uncontradictible Wisdom! Oh Unchangeable Power!",
+      "type": "divine_name",
+      "attributes": {
+        "function": "invoked for memory, wisdom, understanding"
+      },
+      "page_ref": "21",
+      "raw_quote": "Oh Eternal and Unreprehensible Memory! Oh Uncontradictible Wisdom! Oh Unchangeable Power!"
+    },
+    {
+      "name": "The Gemme and Crown of the Lord",
+      "type": "prayer",
+      "attributes": {
+        "function": "protection from fire and wild beasts",
+        "origin": "revealed by one of four Angels given power over Earth, Sea, Trees"
+      },
+      "page_ref": "21",
+      "raw_quote": "This Oration is also called by Solomon, The Gemme and Crown of the Lord"
+    },
+    {
+      "name": "The Signe of the Grace of God",
+      "type": "prayer",
+      "attributes": {
+        "function": "teaches Divinity and preserves memory",
+        "scriptural basis": "Ecclesiastes reference"
+      },
+      "page_ref": "21–22",
+      "raw_quote": "Therefore Solomon commandeth it to be called, The Signe of the Grace of God"
+    },
+    {
+      "name": "Achacham, Yhel, Chelychem, Agzyraztor, Yegor",
+      "type": "divine_name",
+      "attributes": {
+        "function": "beginning of a powerful Oration that moves celestial spirits"
+      },
+      "page_ref": "22",
+      "raw_quote": "Achacham, Yhel, Chelychem, Agzyraztor, Yegor, &c."
+    },
+    {
+      "name": "Heilma, Helma, Hmena",
+      "type": "divine_name",
+      "attributes": {
+        "function": "Greek names in division of Oration",
+        "context": "Trinitarian invocation"
+      },
+      "page_ref": "23",
+      "raw_quote": "Heilma, Helma, Hmena, &c. Oh God the Father, God the Son, God the Holy Spirit"
+    },
+    {
+      "name": "Aglaros, Theomiros, Thomitos",
+      "type": "divine_name",
+      "attributes": {
+        "function": "beginning of second part of Oration"
+      },
+      "page_ref": "23",
+      "raw_quote": "Aglaros, Theomiros, Thomitos, &c."
+    },
+    {
+      "name": "Megal, Legal, Chariotos",
+      "type": "divine_name",
+      "attributes": {
+        "function": "third part of Oration"
+      },
+      "page_ref": "23",
+      "raw_quote": "Megal, Legal, Chariotos, &c."
+    },
+    {
+      "name": "Amasiel, Danyihayr",
+      "type": "divine_name",
+      "attributes": {
+        "function": "fourth part of Oration"
+      },
+      "page_ref": "23",
+      "raw_quote": "Amasiel, Danyihayr, &c."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Solomon",
+      "to": "Ars Notoria",
+      "type": "author/receiver"
+    },
+    {
+      "from": "The Angel",
+      "to": "Solomon",
+      "type": "revelator"
+    },
+    {
+      "from": "Ars Notoria",
+      "to": "Lemegeton",
+      "type": "contained_in"
+    },
+    {
+      "from": "Ars Notoria",
+      "to": "all Arts",
+      "type": "comprehends"
+    },
+    {
+      "from": "The Queen of Tongues",
+      "to": "Chaldean Language",
+      "type": "originates_from"
+    },
+    {
+      "from": "Lameth Oration",
+      "to": "beginning of month",
+      "type": "timed_to"
+    },
+    {
+      "from": "Eliphasmasay et al.",
+      "to": "Archangels",
+      "type": "instances_of"
+    },
+    {
+      "from": "Theos Patir Heminas",
+      "to": "Trinity",
+      "type": "invokes"
+    },
+    {
+      "from": "Oration of the Physical Art",
+      "to": "diagnosis",
+      "type": "used_for"
+    },
+    {
+      "from": "The Gemme and Crown of the Lord",
+      "to": "fire/beast protection",
+      "type": "provides"
+    },
+    {
+      "from": "Achacham Oration",
+      "to": "celestial spirits",
+      "type": "moves_to_action"
+    },
+    {
+      "from": "Heilma, Helma, Hmena",
+      "to": "Trinity",
+      "type": "invokes"
+    }
+  ],
+  "summary": "This chunk details the Ars Notoria, a grimoiric system attributed to Solomon involving angelically revealed orations and divine names for acquiring knowledge, eloquence, memory, divination (especially medical prognosis), and protection. It outlines timing (lunar phases), ritual conditions (fasting, devotion), and lists numerous sacred names and prayers with specific applications.",
+  "key_passages": [
+    "Let it be read in appointed times of the Lunation; as, in the fourth day of the Moon, the eighth and twelfth... verily believing, That thereby thy study shall suddenly be increased...",
+    "This is that onely which Solomon calls The happiness of Wit: and M. Apollonius termeth it, The Light of the Soul, and the Speculum of Wisdom",
+    "If you would have the perfect knowledge of any Disease... stand before him and say this Oration three times with great reverence.",
+    "Therefore we, to whom such a faculty of the knowledge of the Scripture of Sciences is granted, have wholly received this great gift, and inestimable benefit, from the overflowing grace of the most high Creator.",
+    "This is a wonderful Oration... the first part whereof is expounded in the Volume of the Magnitude of the quality of Art."
+  ]
+}

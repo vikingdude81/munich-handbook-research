@@ -1,0 +1,561 @@
+SOURCE: Liber Juratus Honorii — the Sworn Book of Honorius (Peterson ed.)
+CHUNK: 2/28  |  CHARS: 23163-47804 of 659348
+============================================================
+
+s ii: 
+Western/Latin Christianity
+A major influence on the magic of Honorius is traditional devout Chris-
+tian practice, with its common prayers (adapted in some cases), observance 
+of liturgical hours, abstinence, use of the hair shirt, and enlisting the help 
+30 Kieckhefer 1998 p. 256. See also Veenstra 2012 p. 186 n. 27.
+31 Namely, seven divine names used in the Seal of God (IV.14–47, CXXVII.15): Layaly, 
+etc. See below.
+32 See Raziel and Liber Semiphoras, 6/7Moses in Peterson 2008 p. 265.
+
+
+--- PAGE 18 ---
+Introduction
+17
+of a priest. Honorius includes both the Apostle’s Creed and the Athanasian 
+Creed, both of which point to the influence of the Western or Latin (Catho-
+lic) church. Similarly, near the very end, the text quotes the blessing of salt, 
+which is a traditional part of Western or Roman ritual. In this form it is not 
+part of Byzantine or Orthodox tradition.
+The text also recognizes the traditional Christian classification of angels, 
+as codified by Pseudo-Dionysius (5th–6th century A.D.) and Gregory the 
+Great (circa 540–604 A.D). Honorius differs however in the order, placing 
+the Cherubim before Seraphim, and Principalities before Powers: Cherubim, 
+Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archan-
+gels, and Angels.33 
+Many of the prayers are reminiscent of medieval Benedictine spiritual 
+exercises, such as those of German mystic Saint Gertrude of Helfta (1256–ca. 
+1302). Gertrude also had special sympathy towards the souls in purgatory, a 
+subject which is alluded to a couple of times in the Sworn Book.
+Origins and parallels III: 
+Eastern Christianity and Byzantium
+As Mathiesen pointed out, the author of the Sworn Book clearly had “some 
+knowledge of the liturgy of the Greek Orthodox Church.”34 In his edition of 
+the Latin text, Hedegård suggested the planetary spirits chapters of the Sworn 
+Book might be based on a Greek source.35 Boudet too raised the possibility 
+that the classification of aerial daemons might be of Byzantine origin. This is 
+supported by the fact that many of them are found in a Byzantine manual of 
+exorcism, published by Delatte. This manuscript was dated by the catalogers 
+as 1735. The names of the demons and their controlling angels correspond 
+closely with Honorius chapters CV-CXI. According to Delatte, “Each group 
+of air demons and wind demons is under the authority of three angels who, 
+under the direction of an archangel, impose his authority through a special 
+seal.” There are also parallels in Petrus de Abano’s Heptameron seu Elementa 
+33 Boudet 2002 p. 863.
+34 Mathiesen 1998 p. 161 n34.
+35 Hedegård 2002 p. 50.
+
+
+--- PAGE 19 ---
+sworn book of honorius
+18
+Magica,36 as well as the fifteenth-century Book of Angels,37 and in the fifteenth-
+century necromancer’s manual published by Richard Kieckhefer.38
+The spirits associated with the Moon also occur in the Astromagia of 
+Alfonso X (written circa 1280). This treatise is primarily about constructing 
+astrological talismans; many of these are taken from Picatrix, but this one is 
+attributed to Raziel. The text reads: 
+Engrave on the sigil the name of the angel and the wind serving the 
+Moon, and commanding over its sign (which is Cancer), with his 
+aides. The angel is Gabriel and his aides are Michael and Samiel. 
+These are the names of the winds that command over Cancer: 
+Hebetel and Halmitab [later spelled Almutab]; and their aides who 
+are Bylol [later spelled Bibol], Milalu, and Abuzoba.39
+36 The earliest edition of this concise handbook of ritual magic appears to be Venice, 
+1496 (Lynn Thorndike, Magic and Experimental Science, vol. II, p. 925.) The attribution 
+of the text to the famous physician Petrus de Abano (1250–1316) “seems quite certainly 
+spurious” according to Thorndike (op. cit., p. 912). His reputation as a magician developed 
+quite early however.
+37 Boudet 2002 p. 867: “L. Delatte, Un office byzantin d’exorcisme. [Bruxelles]: [Palais des 
+académies], 1957, p. 121–122, points out, among others, Arcan, called king of aerial spirits, 
+then king of Zephyr (the West) and his servants Bileth, Misabou, and Abouzaba. They 
+can be found with names distorted in § 23 (of the spirits of the Moon) and 28 (on Western 
+spirits). But the same names also appear in the Astromagia of Alfonso X (see Alfonso el 
+Sabio, cit., pp. 138–139 and 144–145) and in the Liber de angelis of Pseudo-Messahala, 
+published by J.G. Lidaka, The Book of angels, cit., p. 64–65.” (translation mine). The Book 
+of Angels was published in Lidaka 1998.
+38 Kieckhefer 1998 pp. 181, 303–305.
+39 Alfonso X 1992 pp. 138–139 (my translation).
+Seals of the archangels from Byzantine exorcism manual / Delatte 1957 p. 98
+
+
+--- PAGE 20 ---
+Introduction
+19
+Un office byzantin 
+d’exorcisme f 15, 27, 
+36-36v, f99v
+Heptameron
+Honorius
+Book of Angels
+King: Maimon 
+(Μαϋμὀν)
+Servants: Aboumaleth, 
+Asaïbi, Balidet 
+(᾿Αβουμαλήθ, 
+᾿Ασαϊβί, Βαλιδέτ)
+Ruling Angels: Kasiel, 
+Machotan, Ourouel 
+(Κασιήλ, Μαχωτάν, 
+Ούρουήλ)
+K: Maymon
+S: Abumalith, 
+Assaibi, Balidet
+RA: Cassiel, 
+Machatan, Vriel 
+(Saturn)
+K: Maymon
+S: Albunalich, 
+Assaibi, Haibalidech, 
+Yasfla
+RA: Bohel, Cafziel, 
+Michrathon, 
+Saterquiel (CV/
+Saturn)
+K: Mayrion
+“the Black One will 
+create the voids”
+Cassael, Maxtarcop, 
+Stanalcon
+K South (Σούθ)
+S: Magouth, Goutriz 
+(Μαγούθ, Γουτρίζ)
+RA: Sakiel, Kastiel, 
+Asasiel (Σακιήλ, 
+Καστιήλ, ᾿Ασασιήλ)
+K: Suth
+S: Maguth, Gutriz
+RA: Sachiel, Castiel, 
+Asasiel (Jupiter)
+K: Formione
+S: Guth, Maguth, 
+Guthryn
+RA: Satquiel, 
+Raphael, 
+Pahamcocihel, 
+Asassaiel (CVI/
+Jupiter)
+K: Marastac
+S: Aycolaytoum, 
+Lord of Torments
+RA: Sariel, Staus, 
+Iucuciel [or Cricios, 
+Faccas, Casfeel]
+K: Samax (Σαμάξ)
+S: Carmax, Ismoli, 
+Pafran (Καρμάξ, 
+Ίσμολί, Παφράν)
+RA: Samael, Satael, 
+Amabiel
+(Σαμαήλ, Σαταήλ, 
+Άμαβιήλ)
+K: Samax
+S: Carmax, Ismoli, 
+Paffran 
+RA: Samael, Satael, 
+Amabiel (Mars)
+K: Iammax
+S: Carmox, Ycanohl, 
+Pasfran
+RA: Samahel, Satihel, 
+Yturahihel, Amabiel 
+(CVII/Mars)
+Rubeus Pugnator 
+(“Red Fighter”)*
+S: Karmal, Iobial, 
+Yfasue
+Saliciel [aka 
+Salatiel], Ycaachel 
+[aka Taxael], 
+Harmanel [aka 
+Harnariel]
+K: Barcan (Βαρκαν)
+S: Tous, Adas, Cunabal 
+(Τούς, ᾿Αδάς, 
+Κυναβάλ)
+RA: Michael, Dardiel, 
+Khourataphel 
+(Μιχαήλ, Δαρδιήλ, 
+Χουραταϕήλ)
+K: Varcan
+S: Tus, Andas, 
+Cynabal
+RA: Michael, 
+Dardiel, Huratapel
+K: Barthan
+S: Thaadas, Chaudas, 
+Ialchal
+RA: Raphael, 
+Cafhael, Dardihel, 
+Hurathaphel (CVIII/
+Sun)
+Barchan
+Chatas, Hycandas, 
+Yaciatal
+RA: Raphael, 
+Dardaci [aka 
+Daniel], Talanasiel 
+[aka Caualasyel]
+K: Sarabotres 
+(Σαραβότρες)
+S: Amabiel, Aba, 
+Abalidoth, Phlaeph 
+(᾿Αμαβιήλ, ᾿Αβά, 
+᾿Αβαλιδώθ, Φλαέ)
+RA: Anael, Rakhiel, 
+Sakhiel (᾿αναήλ, 
+᾿ραχιήλ, Σαχιήλ)
+K: Sarabrotres 
+S: Amabiel, Aba, 
+Abalidoth, Flaëf
+RA: Anael, Rachiel, 
+Sachiel  (Venus)
+K: Sarabocres
+S: Nassar, Cynassa
+RA: Hanahel, 
+Raquiel, Salguyel 
+(CIX/Venus)
+* On these seven kings addressed by colors, see Scholem 1965 p. 2.
+
+
+--- PAGE 21 ---
+sworn book of honorius
+20
+Un office byzantin 
+d’exorcisme f 15, 27, 
+36-36v, f99v
+Heptameron
+Honorius
+Book of Angels
+K: Modiath (or 
+Mediath) (Μοδιαθ or 
+Μεδιάθ)
+S: Soukinos, Sallales 
+(Σουκίνος, 
+Σαλλάλες)
+RA: Raphael, Miel, 
+Saraphiel (᾿ραϕαήλ, 
+Μιήλ, Σαραϕιήλ)
+K: Modiat
+S: Suquinos, Sallales 
+RA: Raphael, Miel, 
+Saraphiel (Mercury)
+K: Habaa
+S: Hyyci, Quyron, 
+Zach, Eladeb
+RA: Mychael, Myhel, 
+Sarapiel (CX/Mercury)
+K: Zombar
+S: Darial, Faccas
+RA: Michael, Sariel, 
+Miriel†
+K: Arcan (᾿Αρκαν)
+S: Bileth (Βιλέθ), 
+Misabou 
+(Μισσαβού), 
+Abouzaba (or 
+Abuzampa) 
+(Αβουζαβα)
+RA: Gabriel, Michael, 
+Samael (Γαβριήλ, 
+Μιχαήλ, Σαμαήλ)
+K: Arcan
+S: Bilet, Missabu, 
+Abuzaha
+RA: Gabriel, 
+Michael, Samael 
+(Moon)
+K: Harthan
+S: Bileth, Misabou, 
+Abouzaba
+RA: Michael, Gabriel, 
+Samyel, Atithael. 
+(Moon) (CXI/Moon)
+K: Abdalaa
+S: Baysul, Maylalu, 
+Ebuzoba
+RA: Gabriel, 
+Samayel, Michael
+Another passage shows even more variations on these names: 
+The angels who have power over (the Moon) are Gabriel, Szamahel 
+[later spelled Esmahel], and Michael.... The king who rules over this 
+image is the honored Abdala, and his servants are Baylul, Maylalu, 
+and Ebuzoba. Over this talisman recite the following invocation:  
+“I beseech you, angels in charge of the character of the Moon, by the 
+name of Ilamos, Namoz, Heyeyl, Caffaa, Bassal, Nacha, Cana, swift 
+Calta, Cahala.”40
+It seems therefore that by 1280, the names had already been known long 
+enough for significant variations to develop, and that some unknown Raziel 
+text was the source.41 Given how far these differ from Honorius, it seems 
+40 Alfonso X 1992 pp. 144–145.
+41 The editor likewise comments (p. 383): “This talisman must derive from the Book of 
+Raziel, but I have not tracked in ms. Reg. Lat. 1300.” Since Damaris Gehr is working on 
+these texts, hopefully she will shed more light on it in the future.
+† Planet is not identified, so correspondence is uncertain.
+
+
+--- PAGE 22 ---
+Introduction
+21
+unlikely that Honorius was informed by Alfonso’s Greek and Arabic transla-
+tion activities.
+We can also see from the above that Honorius is sometimes closer to the 
+Byzantine text than are the other texts. For example, “H” in Harthan, “th” in 
+Bileth, and “ou” in Abouzaba and Misabou reflect the Greek spellings more 
+closely than the other texts. Incorporation of Byzantine material would also 
+explain the puzzling variety of spellings by Honorius, for example, the seem-
+ingly arbitrary insertion of the letter “h.” This could reflect indecision on how 
+to transliterate the Greek: A few examples should illustrate: Miel vs. Mihel 
+(Gk. Μιήλ), Dardiel vs. Dardihel (Gk. Δαρδιήλ), and Harkan vs. Arcan (Gk. 
+᾿Αρκάν).
+In other cases, Honorius differs where Petrus and the Greek agree. Hono-
+rius generally includes more names than the others. The ruling angel of Mer-
+cury is also interesting. In Petrus (similarly Cardanus and Michael Scotus), the 
+ruling archangel is identified as Raphael, while Liber Semiphoras and Agrippa 
+identify him as Michael.42 Hence Honorius is closer to Liber Semiphoras.
+In the great exorcism in the Byzantine manual only seals of four archan-
+gels are preserved, owing to damage at the bottom of folio 102. These four 
+are similar to those in Heptameron, which has all seven. It has generally been 
+assumed that the seals of the archangels found in the Royal manuscript are 
+an insertion directly from Heptameron, but perhaps they were actually pres-
+ent in the original Sworn Book after all. Heptameron clearly labels the archan-
+gels associated with each seal, but the Royal manuscript just associates them 
+with the planet, which is odd if the scribe took them directly from de Abano. 
+Nothing resembling these appear in Ganell however.43
+Another part of the Byzantine exorcism manual has parallels in Hono-
+rius: The “great exorcism” (f36v), parallels Honorius CXXXIII.38: “πάντα 
+τὰ πονηρὰ δαιμόνια Βεραλανεῦσις, Βαλδακιόνσης, Πανμαχιά, 
+Άπολογίου καθέδραι, δοῦλοι τῆς ταρταρέας καθέδρας, Πριμάκ, 
+Βαρκάν, Τούς....” (“the ever-evil demons Beralanysis, Baldakionsis, Pan-
+machia, Apologias cathedrai, slaves of Tartar cathedra, Primak, Barkan, 
+Tous...”)44
+42 Peterson 2008 pp. 156, 165.
+43 See also parallel seals in Kieckhefer 1998 pp. 303-305.
+44 The “Exorcism of the Spirits of the Air” (f. 11–14v, 102v–104v) also closely parallels 
+Heptameron “Exorcismus Spirituum Aereorum,” pp. 112–120..
+
+
+--- PAGE 23 ---
+sworn book of honorius
+22
+The concept of angels and daemons associated with the days, hours, and 
+cardinal directions is also found in Byzantine sources, although the details 
+differ.45 Likewise with the use of magic circles with sacred names, and features 
+aligned to the compass, gloves and other apparel,46 as well as incenses (aro-
+mata) used to attract and placate the daemons.47
+Another puzzle is found in CXL.11 where we read the following: “Casziel, 
+Satquiel, and so on. Furthermore, there are seven superiors, namely Barachiel, 
+Uriel, and the rest.” This is the only place that Barachiel is mentioned, so it 
+is apparent the original reference has gotten lost, or was expected to be well 
+known. Unfortunately, this doesn’t help identify the provenance, since Uriel 
+and Barachiel are both known as archangels from a variety of traditions, 
+including Orthodox, Latin, the Sibylline Oracles, and ancient Jewish magic.48
+In summary, it seems likely that all these sources descended from a com-
+mon ancestor, likely a Byzantine one, and none of them are directly depen-
+dent on another.
+Evolution of the text
+As Frank Klaassen has pointed out, the literature of ritual magic often encour-
+ages the process of personalizing or transforming the text.49 The Elizabethan 
+magi John Dee and Edward Kelly clearly do this with Honorius material in 
+their experiments with spirit communication.50
+Although many minor differences occur in the manuscripts, only one 
+(Sloane 3854) appears to contain the complete text. Moreover, recent studies 
+45 Greenfield 1988 pp. 338 ff. Marathakis 2011 pp. 55–74, pp. 101–106, pp. 285–291.
+46 Greenfield 1995 p. 136; Marathakis p. 94–95.
+47 Greenfield 1995 p. 135.
+48 For Sibylline Oracles, see Charlesworth 1983 p. 350. For examples from Jewish magic 
+see Bohak 2008 pp. 315, 318, and Casanowicz 1976 p. 162. Barachiel (also spelled Baruchiel, 
+Barakiel, or Baraqiel) is one of the seven archangels in orthodox tradition (along with 
+Michael, Gabriel, Raphael, Uriel, Salathiel, Jegudiel) See St. Nikolai Velimirovic, The 
+Prologue of Ohrid—Volume One. The Synaxis icon includes Jegudiel, Gabriel, Selaphiel, 
+Michael, Uriel, Raphael, and Barachiel. Images on the Basilica of St. Mary of the Angels 
+and the Martyrs (16th century) testify to the Western tradition. (Mark Bredin, Studies 
+in the Book of Tobit: A Multidisciplinary Approach, London [u.a.]: T & T Clark, 2006, 
+p. 121.)
+49 Klaassen 2014 p. 4.
+50 Peterson 2008.
+
+
+--- PAGE 24 ---
+Introduction
+23
+have deduced some evolution of the text. This can be shown from the fact 
+that large portions of the text are quoted in Ganell’s Summa Sacre Magice 
+(SSM), including apparently some original “Honorius” material which is not 
+found in the other manuscripts. Ganell’s text also shows differences in the 
+order of the material. Analyzing these differences, researchers have found 
+evidence that the better-known group of manuscripts has been redacted at 
+some point. Thus scholars have started referring to this better-known mate-
+rial as the “London Honorius” or “Northwestern European” tradition. (The 
+use of “London” is somewhat of a misnomer, since a German manuscript also 
+exists.51)
+Veenstra has demonstrated that the “London Honorius” has adapted the 
+text somewhat, such as likely moving the instructions on consecrating the Seal 
+of God to the beginning.52 Further evidence of this change is that the German 
+manuscript preserves the presumed original order: part 1: To behold the face 
+of the Deity; part 2: Knowledge of the angels; part 3: Knowledge of the 
+spirits of the air, their binding and which spirits are under them; part 4: 
+Knowledge of the spirits of the earth; part 5: Knowledge of the great name 
+of God, in Hebrew Shem ha-Meforash, with instructions for constructing the 
+Seal of God.
+More evidence of the editorial process may be the unusual variation of 
+the Tetragrammaton, “Ioth He Vau Deleth,” found in two places in the text: 
+CXXXIII.39 and CXXXVII.5. These may be mistakes, evidence of the com-
+piler’s unfamiliarity with Hebrew, a possibility suggested by both Mesler and 
+Veenstra.53 However this seems unlikely to me given the fact that the “mis-
+take” recurs. Moreover, the form also occurs in other texts, such as Vincu-
+lum Salomonis, a text which does not appear to derive from Honorius.54 The 
+substitution of Deleth could also have been intentional to avoid writing the 
+51 Leipzig Cod. Mag. 16.
+52 Veenstra 2012 pp. 151 ff, and especially pp. 167–168.
+53 Mesler 2012 p. 118, Veenstra 2012 pp. 172–173. There is a parallel passage to CXXXIII.39 
+in de Abano’s text, Heptameron (H) pp. 120–122, which reads “per hoc nomen ineffabile, 
+Tetragrammaton IHVH Iehouah,” but this may easily be a later editorial correction. 
+Similarly SSM L.3.f.37.
+54 For example, Wellcome 110 fol. 36r. This manuscript has been dated late 16th century: 
+“et quod ex quatuor literis constat scilicet Ioth he vahu deleth et per novem celestia 
+candelabra [sic], et per eorum virtutes quatenus etc.”
+
+
+--- PAGE 25 ---
+sworn book of honorius
+24
+correct name (maybe clued by deleth = he deletes?).55 However, since the text 
+abounds in sacred names of God, that explanation seems unlikely to me too. 
+A third possibility is that the compiler was simply preserving the form found 
+in his source material, which had itself conservatively censored the correct 
+form of the name. This is consistent with the eclectic nature of the text.
+A comparison of the manuscripts shows other evidence of transforma-
+tions aside from introducing minor errors. For example, the Royal manu-
+script in some instances preserves earlier readings; however, it also seems 
+to have excised material on demons, leaving only the angels (which it also 
+expanded upon). Some of the manuscripts altered the magic circle to have 
+seven equal segments. To judge by comparison with Ganell’s Honorius mate-
+rial, the northern European redactor may have removed material about the 
+four demon kings (Amaymon, Oriens or Orienens, Paymon, and Egyn), seals 
+of the spirits, and further instructions about ritual instruments.56
+The psalter is another interesting case. These core prayers are essential to 
+the magic of Honorius, yet they differ in the northern Honorius and in the 
+Honorius quoted by Ganell. Perhaps they were originally a separate detached 
+text, or possibly they got omitted at some point. In the northern European 
+recension, the want was supplied by prayers taken from Ars Notoria. In Gan-
+ell’s text, the core prayers are taken from a book called the Liber Trium Ani-
+marum (LTA). It now seems certain that the use of Ars Notoria is a departure 
+from the hypothetical Ur text, based on the dating of the specific variations 
+of Ars Notoria used. The original version of Honorius may have included the 
+LTA prayers, but it is of course possible the LTA was a different attempt to fill 
+the gap left from the missing prayers. Curiously, Ganell’s Summa also includes 
+prayers from the Ars Notoria, which he refers to as the “old art.”57
+In conclusion, it seems likely that the compiler had some knowledge of 
+Jewish Kabbalah and Merkabah traditions, and wanted to incorporate the 
+55 Suggested by Mesler, p. 139.
+56 Ganell goes into details of 4 kings of the N/S/E/W. In some cases he specifically states 
+that Honorius does not provide instructions, so he will supplement the information, 
+for example his chapter on the vestments. Ganell’s text shows clear signs of redaction in 
+some cases, such as crossing out words which are found in other manuscripts. There are 
+many example where he uses th and t interchangeably, e.g. thetragramaton but elsewhere 
+tetragramathon.
+57 For example, L.4.f.9 “oracio quartus artis veretis: Helyscemath, hazaram, hemel” = 
+Honorius chapter XVI = Ars Not. 7, JV p. 146.
+
+
+--- PAGE 26 ---
+Introduction
+25
+concepts into his own system, based more on Christian elements, such as 
+names of Christ, and traditional prayers. He also likely incorporated mate-
+rial from some Byzantine source, resulting in a method that was truly at the 
+crossroads of various traditions.
+Elements of magic as taught by Honorius
+Vision of God, or the Beatific Vision
+The key to the entire of system of magic taught by Honorius is the magical 
+means for achieving the vision of God, even as the saints and prophets them-
+selves knew God. This section of the text was probably the first part originally. 
+Mathiesen singles out this as the most interesting and important historically, 
+without parallel in magical literature.58
+As mentioned above, this was a key element of Jewish Merkabah 
+mysticism,59 as well as various Christian authors such as Pseudo-Dionysius. 
+Theodoric of Freiberg (ca. 1240–ca. 1320), a German Dominican theologian, 
+wrote an influential treatise on the subject, called Tractatus de visione beatifica. 
+The writings of Christian mystics, such as Saint Gertrude of Helfta, abound 
+in visions of Jesus and Mary, so this may be a logical extension of those too.
+Honorius professes to provide a practical way to achieve this, going far 
+beyond anything the conventional church rituals could offer.
+Seals of angels
+The term seal (sigilla) is used in two different senses in the magic of Hono-
+rius. The first designates specific texts to be recited to bind the spirits.60 It can 
+also mean physical seals or sigils of angels or spirits that can be held in the 
+hand.61 Unfortunately, no examples of the second type are represented in the 
+manuscripts.62 Chapter CXXV.4 states these seals may be engraved on silver, 
+and possibly tin or other metals. Ganell, who has a tendency to supplement 
+58 Mathiesen, 1998 pp. 150 ff.
+59 Michael D. Schwartz 2006, pp. 415.
+60 See Veenstra 2012 p. 190 n 79.
+61 CXXXI: magister habens signum Dei et sigilla in manu sua dextra. See also 
+CXXXIX.2.
+62 The exception is R, which may be an accretion derived from Heptameron.
+
+
+--- PAGE 27 ---
+sworn book of honorius
+26
+Honorius, in some cases simply uses the written names of the spirits, some-
+times in Hebrew.63 One rare exception is the “seal of Amaymon” found in the 
+Summa on L.3.f.22.
+Given the parallel texts, perhaps something close to the seals found in the 
+Royal manuscript were originally present in the lost Ur-text.
+Other variations of these same seals are included in the fifteenth-century 
+Munich handbook.64
+63 For example, L.5.f.63.
+64 Kieckhefer 1998 pp. 367–368.
+Seal of Amaymon, from Ganell
+Seals of the archangels from Royal MS 17Axlii fols. 67v–70r
+
+
+--- PAGE 28 ---
+Introduction
+27
+Seal of God or Seal of Solomon: Signum Dei, Sigillum Dei
+The concept of a great seal, commonly called the Seal of Solomon, is cen-
+tral to Solomonic magic. Early references can be found in the Greek Magical 
+Papyri.65 Duling mentions a second to third century metal-foil amulet which 
+mentions it.66 One of the oldest examples is found in the Testament of Solo-
+mon (1st to 3th ce), described as engraved on a precious stone, which some 
+manuscripts expand on as being a pentalpha, or five-pointed star.67 Many 
+versions of the seal of Solomon can be found in magical literature, from the 
+simple pentalpha to the extremely elaborate.68 Many versions, including that 
+in the Sworn Book contain the pentalpha as a central or key element.
+The great seal as described by Honorius is likewise central to his magic. 
+He refers to it variously as the Seal of the True and Living God, the Seal of 
+the Eternal, Living, and True God, the Sign (or Seal) of God, the Sacrosanct 
+Seal, the Seal of the Sacred Names of God, the Sacred (or Holy) Seal; the Sign 
+of Solomon, the Seal of Solomon, the Sign (or Seal) of the Lord, the Sacred 
+Seal, the Sacred [Seal] of God; the Sign of Solomon given by the Lord, or 
+simply the Sign.69 Ganell also refers to it at times as the Divine Sign.70 Note, it 
+is never referred to as the Seal of Truth (Heb. Aemeth), which John Dee uses.71
+65 PGM IV.3041. Betz, Hans Dieter. The Greek Magical Papyri in Translation, Including 
+the Demotic Spells. Chicago: University of Chicago Press, 1986, p. 96. 
+66 Duling 1983, p. 948.
+67 For a recent translation, see Duling 1983 pp. 935 ff. On the seal, see p. 962 and note k. 
+On later treatment of the Testament, see Sarah Iles Johnston, “The Testament of Solomon 
+from Late Antiquity to the Renaissance” in Bremmer and Veenstra 2002. For bibliography, 
+see also G. Fitzer, Theological Dictionary of the New Testament 7 (1971): 947, n. 72.
+68 The version in Grimorium Verum (Peterson 2007, p. 80) is fairly simple. Jean-Patrice 
+Boudet 2006 planche XIV shows a particularly elaborate example from an Italian edition 
+of the Key of Solomon (1446). Paris, BnF, ms. Ital. 1524, fol. 186.
+69 Sigillum Dei, III.7, IV.51, CXXXVII.15, 18, 21, CXL.5; Sigillum Dei vivi et veri, 
+IV.1; Sigillum Dei eterni, vivi, et veri, CXXXVII.1; Signum Dei, CXV.7, CXXXI.1, 
+CXXXIX.2. Signum Domini, CXV.2, CXXIX.4, CXXXIII.46, CXXXVII.22. Sigillum 
+Domini CXXXIX.3; Sacrosanctum Sigillum IV.65; Sigillum sanctorum nominum Dei, 
+CXV.14; Sacrum Sigillum, CXXXIII.13, CXXXVII.7; Sacrum Sigillum Dei, CXXXII.12; 
+Sanctum Sigillum, CXXXIII.53, CXXXVII.12; Sigillum Salomonis, CXXXIII.37; 
+Signum Salomonis, CXXVI.14, CXXXIII.30, 51; Signum Salomonis a Domino datum, 
+CXXXIII.30; Signum, CXV.45, CXXXIII.37.
+70 Signum diuino, e.g. SSM L.3.f.6.
+71 Peterson 2003, especially pp. 22, 79.
+
+

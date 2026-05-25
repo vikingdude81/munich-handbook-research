@@ -1,0 +1,186 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 11,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Lamyhara",
+      "type": "divine_name",
+      "attributes": {
+        "role": "omnipotens, misericors Pater, omnium creatur[urarum] ordinator, iuste iudex, eterne rex regum et Domine dominancium"
+      },
+      "page_ref": "137",
+      "raw_quote": "Lamyhara, omnipotens, misericors Pater, omnium creaturarum ordinator, [iuste] iudex, eterne rex regum et Domine dominancium"
+    },
+    {
+      "name": "Hocleiste",
+      "type": "divine_name",
+      "attributes": {
+        "role": "holy God, blessed Father and imperishable evidence of the heart"
+      },
+      "_page_ref": "137",
+      "raw_quote": "Hocleiste, O holy God, blessed Father and imperishable evidence of the heart"
+    },
+    {
+      "name": "Hamphynethon",
+      "type": "divine_name",
+      "attributes": {
+        "role": "most merciful creator, inspirer and reformer of all corrupted souls"
+      },
+      "page_ref": "137",
+      "raw_quote": "Hamphynethon, Heloy, most merciful creator, inspirer and reformer of all corrupted souls"
+    },
+    {
+      "name": "Heloy",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "137",
+      "raw_quote": "Hamphynethon, Heloy"
+    },
+    {
+      "name": "Hanazay",
+      "type": "concept",
+      "attributes": {
+        "description": "A sequence of names/voces magicae used in prayer"
+      },
+      "page_ref": "138-139",
+      "raw_quote": "Hanazay. zarahoron. hubisenaar. ghu. hirbaionay. gynbar. zanailc. selchora. zelmora. hiramay. iethohal. ylaramel. hamatha. mathois. iaboha."
+    },
+    {
+      "name": "Ianemyer",
+      "type": "divine_name",
+      "attributes": {
+        "role": "unus, magnus, mirabilis, eterne Deus, angel of eternal council"
+      },
+      "page_ref": "139",
+      "raw_quote": "Ianemyer, unus, magnus, mirabilis, eterne Deus, eterni consilii angelus"
+    },
+    {
+      "name": "Hadyon",
+      "type": "divine_name",
+      "attributes": {
+        "role": "illustrious with eternal harmony of all powers, rulers, and courts"
+      },
+      "page_ref": "139",
+      "raw_quote": "Hadyon, usyon, omnium potestatum atque regnorum et iudiciorum eterna conspicazione conspicuus"
+    },
+    {
+      "name": "Adonay",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "139",
+      "raw_quote": "Adonay"
+    },
+    {
+      "name": "Hely",
+      "type": "divine_name",
+      "attributes": {
+        "role": "mighty, master of angels and archangels"
+      },
+      "page_ref": "142",
+      "raw_quote": "Hely, reverende, potens et dominans superioribus angelis et archangelis omnibusque celestibus creaturis"
+    },
+    {
+      "name": "Horlon",
+      "type": "divine_name",
+      "attributes": {
+        "role": "God who ordered all things in number, weight, and measure"
+      },
+      "page_ref": "142",
+      "raw_quote": "Horlon, Deus, qui omnia numero, pondere et mensura fecisti"
+    },
+    {
+      "name": "Porrenthimon",
+      "type": "divine_name",
+      "attributes": {
+        "role": "mediator of all operations and creatures"
+      },
+      "page_ref": "143",
+      "raw_quote": "Porrenthimon, mediator omnium operacionum et creaturarum"
+    },
+    {
+      "name": "Ihelur",
+      "type": "divine_name",
+      "attributes": {
+        "role": "almighty judge, O Father"
+      },
+      "page_ref": "144",
+      "raw_quote": "[Ihelur], iudex omnipotens, Pater"
+    },
+    {
+      "name": "Gofgameli",
+      "type": "divine_name",
+      "attributes": {
+        "role": "God of all wisdom and giver of this science"
+      },
+      "page_ref": "144",
+      "raw_quote": "Gofgameli, omnis sapiencie Deus et sciencie donator illis"
+    },
+    {
+      "name": "Emanuel",
+      "type": "divine_name",
+      "attributes": {
+        "role": "king of kings, God, substance, salvation and revelation"
+      },
+      "page_ref": "145",
+      "raw_quote": "Emanuel, adoro te, rex regum et Deus meus et substancia mea, salus et revelacio mea"
+    },
+    {
+      "name": "Hon. ezethomos sequence",
+      "type": "ritual",
+      "attributes": {
+        "description": "A series of names used in Prayer 16"
+      },
+      "page_ref": "146",
+      "raw_quote": "{H}on. ezethomos. iezemonos. hazalathon. azaithon. hentynethel. hezemtynethel."
+    },
+    {
+      "name": "Admyhel",
+      "type": "divine_name",
+      "attributes": {
+        "role": "holy and almighty Father"
+      },
+      "page_ref": "147",
+      "raw_quote": "Admyhel, Domine, Deus, sancte Pater omnipotens"
+    },
+    {
+      "name": "Honzmorb sequence",
+      "type": "ritual",
+      "attributes": {
+        "description": "A series of names used in Prayer 18"
+      },
+      "page_ref": "149",
+      "raw_quote": "Honzmorb. lemogethon. hegemothon. hazathay. hazathar. hazamathar."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Lamyhara",
+      "to": "all creatures",
+      "type": "ordainer"
+    },
+    {
+      "from": "Ianemyer",
+      "to": "heavenly angels",
+      "type": "angel of their names"
+    },
+    {
+      "from": "Gofgameli",
+      "to": "Angels and Archangels",
+      "type": "invoked through"
+    },
+    {
+      "from": "Hely",
+      "to": "angels and archangels",
+      "type": "master of"
+    }
+  ],
+  "summary": "This chunk contains a collection of liturgical prayers (numbered LVII to LXXVI) from the Liber Juratus. These prayers utilize various divine names, angelic hierarchies, and 'voces magicae' (magical names) to petition God for spiritual vision, purification, wisdom, and the effectiveness of the 'art'.",
+  "key_passages": [
+    "Lamyhara, omnipotens, misericors Pater, omnium creaturarum ordinator",
+    "grant unto me those things which I desire and I believe, the glory and grace of this vision",
+    "adorn my intelligence this day, and multiply in me a penitent and clarifying reasoning",
+    "God, who ordered all things in number, weight, and measure",
+    "through the power of this sacrament, inspire my heart and pour into it the dew of your grace"
+  ]
+}

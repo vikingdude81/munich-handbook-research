@@ -1,0 +1,5 @@
+{
+  "total_spirits": 15,
+  "unique_spirits": ["SpiritA", "SpiritB", "SpiritC"],
+  "total_experiments": 8
+}

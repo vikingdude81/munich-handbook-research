@@ -1,0 +1,61 @@
+{
+  "experiment": 27,
+  "name": "Bond of Solomon — Escalation Chain",
+  "timestamp": "20260405_195839",
+  "result": {
+    "attempts": [
+      {
+        "tier": "1st Conjuratio (whisper)",
+        "model": "qwen/qwen3.5-9b",
+        "node": "5090+3050",
+        "raw_output": "",
+        "json_valid": false,
+        "correct_structure": false,
+        "tokens": 252,
+        "elapsed": 29.7
+      },
+      {
+        "tier": "2nd Conjuratio (command)",
+        "model": "qwen2.5-3b-instruct",
+        "node": "4070",
+        "raw_output": "{\n  \"analysis\": {\n    \"thesis\": \"The Munich Handbook is an agent framework that emphasizes the importance of context and adaptability in decision-making, aligning with modern AI's need for nuanced understanding and dynamic learning.\",\n    \"evidence\": [\n      {\n        \"claim\": \"The Munich Handbook stresses the significance of contextual awareness in its agents' decision processes.\",\n        \"source\": \"Munich Handbook, Chapter 3\",\n        \"ai_parallel\": \"Context-aware machine learning models\"\n   ",
+        "json_valid": true,
+        "correct_structure": true,
+        "tokens": 275,
+        "elapsed": 43.4,
+        "parsed_json": {
+          "analysis": {
+            "thesis": "The Munich Handbook is an agent framework that emphasizes the importance of context and adaptability in decision-making, aligning with modern AI's need for nuanced understanding and dynamic learning.",
+            "evidence": [
+              {
+                "claim": "The Munich Handbook stresses the significance of contextual awareness in its agents' decision processes.",
+                "source": "Munich Handbook, Chapter 3",
+                "ai_parallel": "Context-aware machine learning models"
+              },
+              {
+                "claim": "Adaptability is a core principle in the design of agents according to the Munich Handbook.",
+                "source": "Munich Handbook, Section 5.2",
+                "ai_parallel": "Self-adaptive AI systems"
+              },
+              {
+                "claim": "The Munich Handbook advocates for an iterative approach to agent development that mirrors modern AI's emphasis on continuous learning and improvement.",
+                "source": "Munich Handbook, Appendix B",
+                "ai_parallel": "Iterative machine learning algorithms"
+              }
+            ],
+            "conclusion": "The Munich Handbook's principles of contextuality and adaptability are foundational for contemporary AI frameworks."
+          },
+          "metadata": {
+            "model": "AI_Analysis_Tool_v1.2",
+            "confidence": 0.95
+          }
+        }
+      }
+    ],
+    "final_success": true,
+    "tiers_needed": 2
+  },
+  "metadata": {
+    "escalation_levels": 4
+  }
+}

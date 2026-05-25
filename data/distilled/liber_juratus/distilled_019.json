@@ -1,0 +1,216 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 19,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Maymon",
+      "type": "spirit",
+      "attributes": {
+        "title": "rex (king)",
+        "region": "North",
+        "subordinate_to": "Saturn and wind Africus"
+      },
+      "page_ref": "233",
+      "raw_quote": "Maymon rex, Albunalich, Assaibi, Haibalidech, Yasfla... subditi Saturno et vento eius"
+    },
+    {
+      "name": "Albunalich",
+      "type": "spirit",
+      "attributes": {
+        "region": "North"
+      },
+      "page_ref": "233",
+      "raw_quote": "The Northern ones are these: Maymon the king, Albunalich..."
+    },
+    {
+      "name": "Mextyura",
+      "type": "spirit",
+      "attributes": {
+        "function": "excitans (raises spirits)",
+        "region": "North"
+      },
+      "page_ref": "233",
+      "raw_quote": "Et excitantes eum sunt isti: Mextyura, Alcybany, Alflas"
+    },
+    {
+      "name": "Formione",
+      "type": "angel",
+      "attributes": {
+        "title": "rex (king)",
+        "region": "East and South (Consol)",
+        "subordinate_to": "Jupiter and winds Borean/Subsolar"
+      },
+      "page_ref": "235",
+      "raw_quote": "Formione rex, Guth, Maguth, Gutrhyn eius ministri... subditi Iovi et ventis eius"
+    },
+    {
+      "name": "Guth",
+      "type": "spirit",
+      "attributes": {
+        "role": "minister of Formione"
+      },
+      "page_ref": "235",
+      "raw_quote": "Formione the king, and his ministers Guth, Maguth, and Gutrhyn"
+    },
+    {
+      "name": "Harit",
+      "type": "spirit",
+      "attributes": {
+        "function": "excitans (raises spirits)",
+        "region": "East and South"
+      },
+      "page_ref": "235",
+      "raw_quote": "Et excitantes eos sunt isti: Harit, Iesse, Ryon, Nesaph, Naadob"
+    },
+    {
+      "name": "Sarabocres",
+      "type": "spirit",
+      "attributes": {
+        "title": "rex (king)",
+        "region": "South and West (Nogahem)",
+        "subordinate_to": "Venus and winds Subsolanus/Zephirus"
+      },
+      "page_ref": "236",
+      "raw_quote": "Sarabocres rex, Nassar, Cynassa eius ministri... subditi Veneri et ventis eius"
+    },
+    {
+      "name": "Cambores",
+      "type": "spirit",
+      "attributes": {
+        "function": "excitans (raises spirits)",
+        "region": "South and West"
+      },
+      "page_ref": "236",
+      "raw_quote": "Et excitantes eos sunt isti: Cambores, Trachatat, Nassar, Naassa"
+    },
+    {
+      "name": "Abaa",
+      "type": "spirit",
+      "attributes": {
+        "title": "rex (king)",
+        "region": "West and North (Frigicap)",
+        "subordinate_to": "Mercury and winds Zephirus/Africus"
+      },
+      "page_ref": "237",
+      "raw_quote": "Abaa rex, Hyici, Quyron, Zach, Eladeb eius ministri... subditi Mercurio et ventis eius"
+    },
+    {
+      "name": "Zobha",
+      "type": "spirit",
+      "attributes": {
+        "title": "rex (king)",
+        "function": "excitans (raises spirits)",
+        "region": "West and North"
+      },
+      "page_ref": "237",
+      "raw_quote": "Et excitantes eos sunt isti: Zobha, Drohas, Palas, Zambas"
+    },
+    {
+      "name": "Lialy",
+      "type": "divine_name",
+      "attributes": {
+        "function": "Name of Creator to write outside circle"
+      },
+      "page_ref": "243",
+      "raw_quote": "scribere in terra vel in cedulis 7 nomina creatoris, que sunt L[a]ialy..."
+    },
+    {
+      "name": "Seal of Solomon",
+      "type": "sigil",
+      "attributes": {
+        "function": "protection and defense"
+      },
+      "page_ref": "243",
+      "raw_quote": "Signum Salomonis ad salvacionem et defensionem pono supra me"
+    },
+    {
+      "name": "Circle",
+      "type": "tool",
+      "attributes": {
+        "dimensions": "9 feet across, two circles 1 foot apart",
+        "purpose": "ritual operation and defense"
+      },
+      "page_ref": "239",
+      "raw_quote": "protrahat circulum 9 pedum dicens... duos circulos protrahat, quorum unus distet ab alio per unum pedem"
+    },
+    {
+      "name": "Heptagon",
+      "type": "sigil",
+      "attributes": {
+        "location": "within the two circles",
+        "purpose": "suitable for all invocations"
+      },
+      "page_ref": "241",
+      "raw_quote": "protrahes infra istos duos circulos eptagonum communem omnibus invocacionibus aptum"
+    },
+    {
+      "name": "Incense (Thus)",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "fumigation of circle on second day"
+      },
+      "page_ref": "244",
+      "raw_quote": "habeas thus et thuribulum, in quo sint prune, et ponas thus super prunas"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "divine_name",
+      "attributes": {
+        "role": "recipient of prayer during Eucharist"
+      },
+      "page_ref": "239",
+      "raw_quote": "O Lord Jesus Christ, son of the living God... I beg you in this critical moment"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Maymon",
+      "to": "Saturn",
+      "type": "subordinate_to"
+    },
+    {
+      "from": "Formione",
+      "to": "Jupiter",
+      "type": "subordinate_to"
+    },
+    {
+      "from": "Sarabocres",
+      "to": "Venus",
+      "type": "subordinate_to"
+    },
+    {
+      "from": "Abaa",
+      "to": "Mercury",
+      "type": "subordinate_to"
+    },
+    {
+      "from": "Mextyura",
+      "to": "Northern Spirits",
+      "type": "raises_up"
+    },
+    {
+      "from": "Harit",
+      "to": "East/South Spirits",
+      "type": "raises_up"
+    },
+    {
+      "from": "Cambores",
+      "to": "South/West Spirits",
+      "type": "raises_up"
+    },
+    {
+      "from": "Zobha",
+      "to": "West/North Spirits",
+      "type": "raises_up"
+    }
+  ],
+  "summary": "This chunk details the specific spirits and angels associated with four directional regions (North, East/South, South/West, West/North), including their names, hierarchies, physical descriptions, powers, and signs of invocation. It concludes with detailed ritual instructions for purification, circle construction, drawing sigils like the heptagon, and using divine names to protect and command these entities.",
+  "key_passages": [
+    "Their nature is to sow discord, create hatred, evil thoughts, theft, and greed; they give lead if desired, kill anyone, and destroy limbs.",
+    "Their bodies are long and slender, full of wrath and anger. They have four faces: one is forward, another behind...",
+    "If therefore anybody wishes to operate with those spirits, we must first warn him strictly that he must be thoroughly purified... until he comes to the fourteenth day, on which day he must begin his fast.",
+    "I put the Seal of Solomon over me for salvation and defense, in order that it protect me in the face of the enemy. In the name of the Father and the Son and the Holy Spirit. Amen.",
+    "Their nature is to give all metals from the earth, whichever exist, lettered or sculpted with gold and silver as desired..."
+  ]
+}

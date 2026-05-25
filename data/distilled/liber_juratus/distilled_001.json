@@ -1,0 +1,337 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 1,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Layaly",
+      "type": "divine_name",
+      "attributes": {
+        "context": "part of seven divine names used in the Seal of God"
+      },
+      "page_ref": "31",
+      "raw_quote": "seven divine names used in the Seal of God (IV.14–47, CXXVII.15): Layaly, etc."
+    },
+    {
+      "name": "Cherubim",
+      "type": "angel",
+      "attributes": {
+        "hierarchy_order": "first in Honorius's classification"
+      },
+      "page_ref": "18",
+      "raw_quote": "Honorius differs however in the order, placing the Cherubim before Seraphim"
+    },
+    {
+      "name": "Seraphim",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "placing the Cherubim before Seraphim"
+    },
+    {
+      "name": "Thrones",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels."
+    },
+    {
+      "name": "Dominations",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels."
+    },
+    {
+      "name": "Virtues",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels."
+    },
+    {
+      "name": "Principalities",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels."
+    },
+    {
+      "name": "Powers",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels."
+    },
+    {
+      "name": "Archangels",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels."
+    },
+    {
+      "name": "Angels",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels."
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "association": "Moon"
+      },
+      "page_ref": "19",
+      "raw_quote": "The angel is Gabriel and his aides are Michael and Samiel."
+    },
+    {
+      "name": "Michael",
+      "type": "angel",
+      "attributes": {
+        "association": "Moon"
+      },
+      "page_ref": "19",
+      "raw_quote": "The angel is Gabriel and his aides are Michael and Samiel."
+    },
+    {
+      "name": "Samiel",
+      "type": "angel",
+      "attributes": {
+        "association": "Moon"
+      },
+      "page_ref": "19",
+      "raw_quote": "The angel is Gabriel and his aides are Michael and Samiel."
+    },
+    {
+      "name": "Hebetel",
+      "type": "wind",
+      "attributes": {
+        "association": "Cancer/Moon"
+      },
+      "page_ref": "19",
+      "raw_quote": "These are the names of the winds that command over Cancer: Hebetel and Halmitab"
+    },
+    {
+      "name": "Halmitab",
+      "type": "wind",
+      "attributes": {
+        "association": "Cancer/Moon"
+      },
+      "page_ref": "19",
+      "raw_quote": "These are the names of the winds that command over Cancer: Hebetel and Halmitab"
+    },
+    {
+      "name": "Bylol",
+      "type": "spirit",
+      "attributes": {
+        "association": "Moon/Cancer"
+      },
+      "page_ref": "19",
+      "raw_quote": "and their aides who are Bylol [later spelled Bibol], Milalu, and Abuzoba."
+    },
+    {
+      "name": "Milalu",
+      "type": "spirit",
+      "attributes": {
+        "association": "Moon/Cancer"
+      },
+      "page_ref": "19",
+      "raw_quote": "and their aides who are Bylol [later spelled Bibol], Milalu, and Abuzoba."
+    },
+    {
+      "name": "Abuzoba",
+      "type": "spirit",
+      "attributes": {
+        "association": "Moon/Cancer"
+      },
+      "page_ref": "19",
+      "raw_quote": "and their aides who are Bylol [later spelled Bibol], Milalu, and Abuzoba."
+    },
+    {
+      "name": "Maimon",
+      "type": "king",
+      "attributes": {
+        "association": "Heptameron/Book of Angels"
+      },
+      "page_ref": "20",
+      "raw_quote": "King: Maimon (Μαϋμὀν)"
+    },
+    {
+      "name": "Aboumaleth",
+      "type": "servant",
+      "attributes": {},
+      "page_ref": "20",
+      "raw_quote": "Servants: Aboumaleth, Asaïbi, Balidet"
+    },
+    {
+      "name": "Asaïbi",
+      "type": "servant",
+      "attributes": {},
+      "page_ref": "20",
+      "raw_quote": "Servants: Aboumaleth, Asaïbi, Balidet"
+    },
+    {
+      "name": "Balidet",
+      "type": "servant",
+      "attributes": {},
+      "page_ref": "20",
+      "raw_quote": "Servants: Aboumaleth, Asaïbi, Balidet"
+    },
+    {
+      "name": "Kasiel",
+      "type": "ruling_angel",
+      "attributes": {},
+      "page_ref": "20",
+      "raw_quote": "Ruling Angels: Kasiel, Machotan, Ourouel"
+    },
+    {
+      "name": "Machotan",
+      "type": "ruling_angel",
+      "attributes": {},
+      "page_ref": "20",
+      "raw_quote": "Ruling Angels: Kasiel, Machotan, Ourouel"
+    },
+    {
+      "name": "Ourouel",
+      "type": "ruling_angel",
+      "attributes": {},
+      "page_ref": "20",
+      "raw_quote": "Ruling Angels: Kasiel, Machotan, Ourouel"
+    },
+    {
+      "name": "Arcan",
+      "type": "king",
+      "attributes": {
+        "association": "aerial spirits/Zephyr/West"
+      },
+      "page_ref": "19",
+      "raw_quote": "Arcan, called king of aerial spirits, then king of Zephyr (the West)"
+    },
+    {
+      "name": "Bileth",
+      "type": "servant",
+      "attributes": {
+        "association": "Arcan"
+      },
+      "page_ref": "19",
+      "raw_quote": "his servants Bileth, Misabou, and Abouzaba."
+    },
+    {
+      "name": "Misabou",
+      "type": "servant",
+      "attributes": {
+        "association": "Arcan"
+      },
+      "page_ref": "19",
+      "raw_quote": "his servants Bileth, Misabou, and Abouzaba."
+    },
+    {
+      "name": "Abouzaba",
+      "type": "servant",
+      "attributes": {
+        "association": "Arcan"
+      },
+      "page_ref": "19",
+      "raw_quote": "his servants Bileth, Misabou, and Abouzaba."
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {
+        "other_names": [
+          "Signum Dei",
+          "Sigillum Dei",
+          "Seal of Solomon"
+        ]
+      },
+      "page_ref": "28",
+      "raw_quote": "The concept of a great seal, commonly called the Seal of Solomon, is central to Solomonic magic."
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "divine_name",
+      "attributes": {
+        "variant_found": "Ioth He Vau Deleth"
+      },
+      "page_ref": "24",
+      "raw_quote": "unusual variation of the Tetragrammaton, “Ioth He Vau Deleth,” found in two places"
+    },
+    {
+      "name": "Apostle's Creed",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Honorius includes both the Apostle’s Creed and the Athanasian Creed"
+    },
+    {
+      "name": "Athanasian Creed",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "Honorius includes both the Apostle’s Creed and the Athanasian Creed"
+    },
+    {
+      "name": "blessing of salt",
+      "type": "ritual",
+      "attributes": {},
+      "page_ref": "18",
+      "raw_quote": "the text quotes the blessing of salt, which is a traditional part of Western or Roman ritual."
+    },
+    {
+      "name": "sigil",
+      "type": "sigil",
+      "attributes": {
+        "instruction": "Engrave name of angel and wind"
+      },
+      "page_ref": "19",
+      "raw_quote": "Engrave on the sigil the name of the angel and the wind serving the Moon"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Gabriel",
+      "to": "Moon",
+      "type": "serves"
+    },
+    {
+      "from": "Michael",
+      "to": "Moon",
+      "type": "aides"
+    },
+    {
+      "from": "Samiel",
+      "to": "Moon",
+      "type": "aides"
+    },
+    {
+      "from": "Bileth",
+      "to": "Arcan",
+      "type": "servant"
+    },
+    {
+      "from": "Misabou",
+      "to": "Arcan",
+      "type": "servant"
+    },
+    {
+      "from": "Abouzaba",
+      "to": "Arcan",
+      "type": "servant"
+    },
+    {
+      "from": "Maimon",
+      "to": "Aboumaleth",
+      "type": "king of servants"
+    }
+  ],
+  "summary": "This chunk discusses the historical influences on the Liber Juratus Honorii, specifically Western/Latin and Byzantine Christianity. It details various angelic hierarchies, planetary spirits (particularly for the Moon), and compares name variations across different manuscripts like the Heptameron and Astromagia of Alfonso X.",
+  "key_passages": [
+    "Honorius includes both the Apostle’s Creed and the Athanasian Creed",
+    "Engrave on the sigil the name of the angel and the wind serving the Moon, and commanding over its sign (which is Cancer), with his aides.",
+    "Each group of air demons and wind demons is under the authority of three angels who, under the direction of an archangel, impose his authority through a special seal.",
+    "The concept of a great seal, commonly called the Seal of Solomon, is central to Solomonic magic.",
+    "unusual variation of the Tetragrammaton, “Ioth He Vau Deleth,” found in two places in the text"
+  ]
+}

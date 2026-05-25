@@ -1,0 +1,137 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 8,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Deihel",
+      "type": "spirit",
+      "attributes": {},
+      "page_ref": "101",
+      "raw_quote": "proferri non debent, que sunt hec: (4) Deihel. Dehel. Depymo. Dein. Hel."
+    },
+    {
+      "name": "Michael",
+      "type": "angel",
+      "attributes": {
+        "role": "the medicine of God"
+      },
+      "page_ref": "102",
+      "raw_quote": "Michael, i.e. the medicine of God"
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "attributes": {
+        "role": "the Strength of God"
+      },
+      "page_ref": "102",
+      "raw_quote": "Raphael, the Strength of God"
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "role": "burning"
+      },
+      "page_ref": "102",
+      "raw_quote": "Gabriel, burning"
+    },
+    {
+      "name": "Seraphim",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "102",
+      "raw_quote": "and Seraphim: helipha. massay."
+    },
+    {
+      "name": "Cherubim",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "102",
+      "raw_quote": "Cherubim: ielomynctos. gadabany. zedabanay. gederanay. saramany. lomtety. loctosy. gerohanathon. zahamany. lomyht. gedanabasy. setemanay. seremanay. henlothant. helomyht. henboramyt. samanazay. gedebaudi."
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "102",
+      "raw_quote": "you, O Jesus Christ, through all your saints and glorious [arch]angels"
+    },
+    {
+      "name": "Prayer XXIV",
+      "type": "prayer",
+      "attributes": {
+        "subject": "God the most high"
+      },
+      "page_ref": "102",
+      "raw_quote": "XXIV. Prayer. O God, the most high, invisible God."
+    },
+    {
+      "name": "Prayer XXVI",
+      "type": "prayer",
+      "attributes": {
+        "subject": "Jesus, son of the incomprehensible God"
+      },
+      "page_ref": "103",
+      "raw_quote": "XXVI. Prayer. Iesu, Dei filius incomprehensibilis, hancor. hanacor. hanylos."
+    },
+    {
+      "name": "Prayer XXVII",
+      "type": "prayer",
+      "attributes": {
+        "subject": "Eleminator"
+      },
+      "page_ref": "103",
+      "raw_quote": "XXVII. Prayer. Eleminator. candones. helos. helee. resphaga."
+    },
+    {
+      "name": "Prayer XXX",
+      "type": "prayer",
+      "attributes": {
+        "subject": "God, angel of eternal council"
+      },
+      "page_ref": "104",
+      "raw_quote": "XXX. Prayer. Memoria irreprehensibilis, sapiencia incontradicibilis et incommutabilis Deus, angelus eterni consilii"
+    },
+    {
+      "name": "Tetragramos",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "108",
+      "raw_quote": "tetragramos"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "104",
+      "raw_quote": "Deus Pater, Deus Fili, Deus Spiritus sancte"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Michael",
+      "to": "God",
+      "type": "medicine of"
+    },
+    {
+      "from": "Raphael",
+      "to": "God",
+      "type": "strength of"
+    },
+    {
+      "from": "Jesus Christ",
+      "to": "saints and archangels",
+      "type": "acts through"
+    }
+  ],
+  "summary": "This chunk contains a series of liturgical prayers (XXIV through XLI) containing various divine names, angelic hierarchies (Seraphim, Cherubim), and lists of ineffable names. The text focuses on petitions for spiritual vision, purification, and the strengthening of memory and intellect through the power of God and His angels.",
+  "key_passages": [
+    "O God, the most high, invisible God. Theos. Patir. behemnos. lehernnyos. behenny.",
+    "Michael, i.e. the medicine of God, Raphael, the Strength of enough, Gabriel, burning",
+    "I beseech you, O my Lord: illuminate and clarify my soul and conscience with the brilliance of your light",
+    "The truth, the light, the way, and the life of all creatures, O just God, vivify me",
+    "Deus omnipotens... in cuius manu omnia sunt munda et pura"
+  ]
+}

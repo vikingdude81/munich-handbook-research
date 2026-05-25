@@ -1,0 +1,178 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 9,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Theos",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "sacred name"
+      },
+      "page_ref": "115, 117, 118, 119",
+      "raw_quote": "Theos"
+    },
+    {
+      "name": "Christus",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "117",
+      "raw_quote": "Christus"
+    },
+    {
+      "name": "Sathanos",
+      "type": "demon",
+      "attributes": {},
+      "page_ref": "116, 119",
+      "raw_quote": "Sathanos"
+    },
+    {
+      "name": "First Terminus",
+      "type": "prayer",
+      "attributes": {
+        "classification": "Termini (Ends)",
+        "purpose": "effective for obtaining divine consent"
+      },
+      "page_ref": "115, 116",
+      "raw_quote": "XLII. First Terminus."
+    },
+    {
+      "name": "Second Terminus",
+      "type": "prayer",
+      "attributes": {
+        "classification": "Termini (Ends)"
+      },
+      "page_ref": "115, 116",
+      "raw_quote": "XLIII. Second Terminus."
+    },
+    {
+      "name": "Third Terminus",
+      "type": "prayer",
+      "attributes": {
+        "classification": "Termini (Ends)"
+      },
+      "page_ref": "117, 118",
+      "raw_quote": "XLIV. Third Terminus."
+    },
+    {
+      "name": "Fourth Terminus",
+      "type": "prayer",
+      "attributes": {
+        "classification": "Termini (Ends)"
+      },
+      "page_ref": "119, 120",
+      "raw_quote": "XLV. Fourth Terminus."
+    },
+    {
+      "name": "Fifth Terminus",
+      "type": "prayer",
+      "attributes": {
+        "classification": "Termini (Ends)"
+      },
+      "page_ref": "120, 121",
+      "raw_quote": "XLVI. Fifth Terminus."
+    },
+    {
+      "name": "Sixth Terminus",
+      "type": "prayer",
+      "attributes": {
+        "classification": "Termini (Ends)"
+      },
+      "page_ref": "121, 122",
+      "raw_quote": "XLVII. Sixth Terminus."
+    },
+    {
+      "name": "Seventh Terminus",
+      "type": "prayer",
+      "attributes": {
+        "classification": "Termini (Ends)"
+      },
+      "page_ref": "122",
+      "raw_quote": "XLVIII. Seventh Terminus."
+    },
+    {
+      "name": "Eighth Terminus",
+      "type": "prayer",
+      "attributes": {
+        "classification": "Termimni (Ends)"
+      },
+      "page_ref": "123, 124",
+      "raw_quote": "XLIX. Eighth Terminus."
+    },
+    {
+      "name": "Preparation of the way",
+      "type": "ritual",
+      "attributes": {
+        "count": "8 prayers"
+      },
+      "page_ref": "124",
+      "raw_quote": "eight are preparation of the way to work"
+    },
+    {
+      "name": "Friday Fasting",
+      "type": "ritual",
+      "attributes": {
+        "day": "Friday",
+        "diet": "bread and water",
+        "condition": "after sincere repentance and confession"
+      },
+      "page_ref": "124",
+      "raw_quote": "one Friday, after sincerely repenting and confessing, you must fast on bread and water."
+    },
+    {
+      "name": "Morning Twilight Prayer",
+      "type": "ritual",
+      "attributes": {
+        "timing": "early morning/twilight",
+        "method": "pleasantly, attentively, projecting words purposefully"
+      },
+      "page_ref": "124",
+      "raw_quote": "In the early morning around morning twilight, say the ten prayers... pleasantly and attentively"
+    },
+    {
+      "name": "Lunar Cycle Ritual",
+      "type": "ritual",
+      "attributes": {
+        "timing": "first moon/Monday",
+        "repetition": "through 4 moons"
+      },
+      "page_ref": "125",
+      "raw_quote": "Deinde prima luna, scilicet in die Lune sequenti, fac ut prius penitus et eodem modo similiter luna 2a et luna 3a et luna 4a"
+    },
+    {
+      "name": "Charity/Almsgiving",
+      "type": "ritual",
+      "attributes": {
+        "condition": "if prayer is rejected",
+        "action": "give three alms to three poor people"
+      },
+      "page_ref": "125",
+      "raw_quote": "Si autem repulsam habueris... debes dare tres elemosinas tribus pauperibus"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Eight prayers",
+      "to": "Preparation of the way",
+      "type": "constituent_of"
+    },
+    {
+      "from": "The eight Termini",
+      "to": "obtaining divine consent",
+      "type": "purpose"
+    },
+    {
+      "from": "Friday Fasting",
+      "to": "Preparation of the way",
+      "type": "preparatory_action"
+    }
+  ],
+  "summary": "This chunk contains long lists of divine, angelic, and demonic names organized into 'Termini' (Ends) for specific ritual stages. It also provides detailed instructions on the timing, fasting, and spiritual state required for performing these prayers, including protocols for handling prayer rejection.",
+  "key_passages": [
+    "eight are preparation of the way to work, and preparation of the work for obtaining",
+    "The eight prayers are placed at the end, which are called the eight Termini (or “Ends”), and regarding them I say, that they are effective for obtaining divine consent.",
+    "one Friday, after sincerely repenting and confessing, you must fast on bread and water.",
+    "In the early morning around morning twilight, say the ten prayers... pleasantly and attentively, while projecting the words purposefully.",
+    "Si autem repulsam habueris... debes dare tres elemosinas tribus pauperibus misericorditer et devote."
+  ]
+}

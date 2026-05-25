@@ -1,0 +1,131 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 12,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "God (Deus)",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "infinite mercy, immeasurable greatness, king of kings, creator, savior, threefold and one",
+        "roles": "granter, arranger, disposer, stabilizer of foundations, judge"
+      },
+      "page_ref": "150, 151, 152, 154, 155, 156, 158, 159",
+      "raw_quote": "O God, always the way, the truth, and the life... Rex regum, Deus infinite misericordie et maiestatis inmense"
+    },
+    {
+      "name": "Holy Spirit (Spiritus sanctus)",
+      "type": "spirit",
+      "attributes": {
+        "function": "virtue, grace, source of illumination and strength"
+      },
+      "page_ref": "150, 151, 152, 154, 156, 159",
+      "raw_quote": "through the virtue of the Holy Spirit... that the Holy Spirit may be shaped in me"
+    },
+    {
+      "name": "Jesus Christ (Iesu Christe)",
+      "type": "divine_name",
+      "attributes": {
+        "status": "only-begotten son of God"
+      },
+      "page_ref": "157, 158",
+      "raw_quote": "Iesu Christe, fili Dei unigenite, cui ante secula dedit Pater omnia in manus"
+    },
+    {
+      "name": "Adam",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "157, 158",
+      "raw_quote": "the spring, which you revealed to the first man Adam"
+    },
+    {
+      "name": "Abraham",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "154, 157, 158",
+      "raw_quote": "you... to your servants Abraham, Isaac and Jacob"
+    },
+    {
+      "name": "Isaac",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "157, 158",
+      "raw_quote": "Abraham, Ysac et Iacob"
+    },
+    {
+      "name": "Jacob",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "157, 158",
+      "raw_quote": "Abraham, Ysac et Iacob"
+    },
+    {
+      "name": "Moses",
+      "type": "person",
+      "attributes": {},
+      "page_ref": "154, 156",
+      "raw_quote": "you... who to Moses and Abraham, your servants... bestowed grace"
+    },
+    {
+      "name": "Devil (Diaboli)",
+      "type": "demon",
+      "attributes": {
+        "role": "enemy of the faithful"
+      },
+      "page_ref": "159",
+      "raw_quote": "that... I may prevail in the face of the devil, the enemy of the humbly."
+    },
+    {
+      "name": "LXXIV Latin Prayer",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "150",
+      "raw_quote": "O God, always the way, the truth, and the life, give your light to flourish in my conscience"
+    },
+    {
+      "name": "LXXV Prayer 18",
+      "type": "prayer",
+      "attributes": {
+        "contains_names": [
+          "Honzmorb",
+          "lemogethon",
+          "hegemothon"
+        ]
+      },
+      "page_ref": "150",
+      "raw_quote": "Honzmorb. lemogethon. hegemothon. hazathay. hazathar. hazamathar."
+    },
+    {
+      "name": "LXXVIII Latin Prayer",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "151, 152",
+      "raw_quote": "O king of kings, God of infinite mercy and immeasurable greatness"
+    },
+    {
+      "name": "LXXIX Prayer 20",
+      "type": "prayer",
+      "attributes": {
+        "invocation": "Hofob"
+      },
+      "page_ref": "151, 152",
+      "raw_quote": "Hofob, Deus, Pater inmense, a quo procedit omne, quod bonum est"
+    },
+    {
+      "name": "LXXXI Latin Prayer",
+      "type": "prayer",
+      "attributes": {},
+      "page_ref": "152, 153",
+      "raw_quote": "O King, eternal God, judge and discerner of all good consciences"
+    },
+    {
+      "name": "LXXXII Prayer 22",
+      "type": "prayer",
+      "attributes": {
+        "invocation": "Hanethi"
+      },
+      "page_ref": "152, 153, 154",
+      "raw_quote": "Hanethi, O God, the author and foundation of all piety"
+    }
+  ]
+}

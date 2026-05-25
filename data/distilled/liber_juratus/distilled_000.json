@@ -1,0 +1,93 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 0,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Honorius of Thebes",
+      "type": "person",
+      "attributes": {
+        "role": "author/magister",
+        "origin": "Thebes, Greece"
+      },
+      "page_ref": "page 1",
+      "raw_quote": "Honorius of Thebes"
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {
+        "importance": "central component",
+        "composition": "contains seven divine names"
+      },
+      "page_ref": "page 9",
+      "raw_quote": "Besides examples on metal, it can be found in manuscripts and at least one printed edition of the Key of Solomon."
+    },
+    {
+      "name": "Hocrohel",
+      "type": "angel",
+      "attributes": {
+        "action": "called the text consecrated before the Lord"
+      },
+      "page_ref": "page 12",
+      "raw_quote": "because the angel Hocrohel called it consecrated before the Lord."
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {
+        "notoriety": "high in medieval period",
+        "association": "authority for Honorius"
+      },
+      "page_ref": "page 8",
+      "raw_quote": "stating the writings of Honorius were “second only to those of Solomon in notoriety in the medi-eval period."
+    },
+    {
+      "name": "Seal of Solomon",
+      "type": "sigil",
+      "attributes": {
+        "function": "controlling demons"
+      },
+      "page_ref": "page 16",
+      "raw_quote": "The great seal is called the Seal of Solomon (as well as the Seal of God), famous from antiquity for controlling demons."
+    },
+    {
+      "name": "Theban alphabet",
+      "type": "tool",
+      "attributes": {
+        "basis": "Latin alphabet",
+        "use": "hiding magic foolishness"
+      },
+      "page_ref": "page 14",
+      "raw_quote": "This so-called Theban alphabet is clearly based on the Latin alphabet, not Greek."
+    },
+    {
+      "name": "beatific vision",
+      "type": "concept",
+      "attributes": {
+        "nature": "ritual centerpiece"
+      },
+      "page_ref": "page 15",
+      "raw_quote": "The centerpiece of the text is the ritual to attain nothing less than the beatific vision."
+    },
+    {
+      "name": "Layaly",
+      "type": "divine_name",
+      "attributes": {
+        "context": "part of seven divine names in Seal of God"
+      },
+      "page_ref": "page 16",
+      "raw_quote": "seven divine names used in the Seal of God (IV.14–47, CXXVII.15): Layaly, etc."
+    },
+    {
+      "name": "magic circle",
+      "type": "ritual",
+      "attributes": {
+        "structure": "seven directions/planets",
+        "components": "swords for each planet"
+      },
+      "page_ref": "page 14",
+      "raw_quote": "might these have inspired Honorius to design his magic circle with a sword for each planet, stationed at seven directions around the perimeter?"
+    }
+  ]
+}

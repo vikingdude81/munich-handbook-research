@@ -68,10 +68,10 @@ class MagicCircleManifold:
 
 
 if __name__ == "__main__":
-    from spirit_vectors import load_seed_spirits
+    from src.spirit_vectors import load_seed_spirits, N_FEATURES
     data, names = load_seed_spirits()
     m = MagicCircleManifold(data)
     print(f"Lattice volume: {m.lattice_volume():.4f}")
     print(f"Basis shape: {m.basis.shape}")
-    test = np.random.rand(6)
+    test = np.random.rand(N_FEATURES)
     print(f"Random vector in circle? {m.is_within_circle(test)}  (residual={m.residual(test):.4f})")

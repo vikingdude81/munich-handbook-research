@@ -1,0 +1,173 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 27,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "angels",
+      "type": "angel",
+      "attributes": {
+        "hierarchy": "exists in hierarchy",
+        "offices": "possess offices",
+        "planetary_correspondence": "invocation of planetary angels"
+      },
+      "page_ref": "17, 33, 55, 61, 65, 145, 175, 193, 197, 199, 271, 285, 289, 291, 299",
+      "raw_quote": "hierarchy of angels, 17, 33, 55, 61, 65, 145, 175, 193, 197, 199, 271, 285, 289, 291, 299"
+    },
+    {
+      "name": "spirits",
+      "type": "spirit",
+      "attributes": {
+        "types": [
+          "elemental",
+          "aerial",
+          "earthly",
+          "infernal",
+          "aquatic",
+          "of the air",
+          "of the earth",
+          "of Jupiter",
+          "of Mars",
+          "of Mercury",
+          "of Moon",
+          "of Nogahem",
+          "of Saturn",
+          "of Sun",
+          "of Venus"
+        ],
+        "actions": [
+          "adjuration",
+          "appearance",
+          "placating",
+          "seeing and conversing with"
+        ]
+      },
+      "page_ref": "33-34 and passim",
+      "raw_quote": "spirits, 33-34 and passim; adjuration, 267; appearance, 279;"
+    },
+    {
+      "name": "Nogahel (Nogahem)",
+      "type": "spirit",
+      "attributes": {
+        "association": "associated with spirits"
+      },
+      "page_ref": "29, 35, 235, 241, 243",
+      "raw_quote": "Nogahel (Nogahem), 29, 35, 235, 241, 243"
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {
+        "aliases": [
+          "Seal of Solomon",
+          "Signum Dei",
+          "Sigillum Dei"
+        ]
+      },
+      "page_ref": "8-9, 16n, 23, 27, 32, 37, 39-40, 61, 65-75, 183n, 201n, 213, 217, 221, 243, 251, 259, 263, 267, 271, 275-291, 295, 297, 304",
+      "raw_quote": "Seal of God (Seal of Solomon, Signum Dei, Sigillum Dei), 8-9, 16n, 23, 27, 32, 37, 39-40, 61, 65-75, 183n, 201n, 213, 217, 221, 243, 251, 259, 263, 2fmt, 271, 275-291, 295, 297, 304"
+    },
+    {
+      "name": "incense",
+      "type": "ingredient",
+      "attributes": {
+        "use": "ritual use"
+      },
+      "page_ref": "22, 36-37, 39, 75, 131, 209, 213, 245, 249, 259, 263, 279, 295",
+      "raw_quote": "incense, 22, 36-37, 39, 75, 131, 209, 213, 245, 249, 259, 263, 279, 295"
+    },
+    {
+      "name": "swords",
+      "type": "tool",
+      "attributes": {
+        "type": "magic"
+      },
+      "page_ref": "33, 35, 38, 42, 249, 257-263, 269, 271, 295, 297",
+      "raw_quote": "swords, magic, 33, 35, 38, 42, 249, 257-263, 269, 271, 295, 297"
+    },
+    {
+      "name": "wand",
+      "type": "tool",
+      "attributes": {
+        "materials": [
+          "laurel",
+          "hazel"
+        ]
+      },
+      "page_ref": "14, 33, 38, 42, 259-263, 297",
+      "raw_quote": "wand (laurel or hazel), 14, 33, 38, 42, 259-263, 297"
+    },
+    {
+      "name": "Shem ha-Meforash",
+      "type": "divine_name",
+      "attributes": {},
+      "page_ref": "16, 23, 31, 53, 65, 287, 289",
+      "raw_quote": "Shem ha-Meforash, 16, 23, 31, 53, 65, 287, 289"
+    },
+    {
+      "name": "Raziel",
+      "type": "angel",
+      "attributes": {},
+      "page_ref": "16, 18, 20, 32, 42, 211n",
+      "raw_quote": "Raziel, 16, 18, 20, 32, 42, 211n"
+    },
+    {
+      "name": "exorcism",
+      "type": "ritual",
+      "attributes": {},
+      "page_ref": "17, 21, 275n, 289, 291",
+      "raw_quote": "exorcism, 17, 21, 275n, 289, 291"
+    },
+    {
+      "name": "purification",
+      "type": "ritual",
+      "attributes": {
+        "types": [
+          "first purification",
+          "second purification",
+          "purification of the air"
+        ]
+      },
+      "page_ref": "57, 111, 153, 165, 239, 127-133, 173, 225",
+      "raw_quote": "purification, 57, 111, 153, 165, 239; first, 127-133; second, 173; prayers of, 223; of the air, 225"
+    },
+    {
+      "name": "Solomon, King",
+      "type": "person",
+      "attributes": {
+        "associated_magic": "Solomonic magic"
+      },
+      "page_ref": "15, 27, 38, 41-42, 53, 61, 75, 77, 79, 141, 173, 189, 211n, 213, 217, 227, 271-275, 289",
+      "raw_quote": "Solomon, King, 15, 27, 38, 41-42, 53, 61, 75, 77, 79, 141, 173, 189, 211n, 213, 217, 227, 271-275, 289"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Solomon, King",
+      "to": "Seal of Solomon",
+      "type": "associated_with"
+    },
+    {
+      "from": "spirits",
+      "to": "Nogahem",
+      "type": "includes"
+    },
+    {
+      "from": "angels",
+      "to": "planetary_correspondence",
+      "type": "subject_of_invocation"
+    },
+    {
+      "from": "incense",
+      "to": "purification",
+      "type": "used_in"
+    }
+  ],
+  "summary": "This chunk contains the index entries for the Liber Juratus Honorii, detailing a vast array of entities including angels, spirits (elemental, aerial, infernal), and divine names like Shem ha-Meforash. It lists ritual elements such as magic swords, wands, incense, and purification procedures, alongside planetary correspondences and historical figures associated with Solomonic magic.",
+  "key_passages": [
+    "spirits, 33-34 and passim; adjuration, 267; appearance, 279;",
+    "Seal of God (Seal of Solomon, Signum Dei, Sigillum Dei), 8-9, 16n, 23, 27, 32, 37, 39-40, 61, 65-75, 183n, 201n, 213, 217, 221, 243, 251, 259, 263, 267, 271, 275-291, 295, 297, 304",
+    "hierarchy of angels, 17, 33, 55, 61, 65, 145, 175, 193, 197, 199, 271, 285, 289, 291, 299",
+    "Solomon, King, 15, 27, 38, 41-42, 53, 61, 75, 77, 79, 141, 173, 189, 211n, 213, 217, 227, 271-275, 289"
+  ]
+}

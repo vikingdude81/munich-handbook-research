@@ -1,0 +1,419 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 24,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mass of Nativity of Queen of Angels",
+      "type": "ritual",
+      "attributes": {
+        "day": "4th day",
+        "preface": "... Et te in nativitate beate Marie"
+      },
+      "page_ref": "293-294",
+      "raw_quote": "In 4a die missam de nativitate imperatricis angelorum [et] ... Et te in nativitate beate Marie"
+    },
+    {
+      "name": "Mass of Annunciation",
+      "type": "ritual",
+      "attributes": {
+        "day": "5th day",
+        "preface": "... Et te in annunciacione"
+      },
+      "page_ref": "293-294",
+      "raw_quote": "In 5a die missam annunciacionis eiusdem [et] ... Et te in annunciacione"
+    },
+    {
+      "name": "Mass of Nativity of Christ",
+      "type": "ritual",
+      "attributes": {
+        "day": "6th day",
+        "preface": "... Quia per incarnati verbi misterium nova"
+      },
+      "page_ref": "293-294",
+      "raw_quote": "In 6a die missam nativitatis Christi, et ista sit prefacio: ... Quia per incarnati verbi misterium nova"
+    },
+    {
+      "name": "Mass of Epiphany",
+      "type": "ritual",
+      "attributes": {
+        "day": "7th day",
+        "preface": "... Quia, cum unigenitus tuus in substancia nostre"
+      },
+      "page_ref": "293-294",
+      "raw_quote": "In 7a die missam epiphanie, et prefacio: ... Quia, cum unigenitus tuus in substancia nostre"
+    },
+    {
+      "name": "Mass of Purification",
+      "type": "ritual",
+      "attributes": {
+        "day": "8th day",
+        "preface": "... Et te in purificacione beate Marie"
+      },
+      "page_ref": "293-294",
+      "raw_quote": "In 8a die missam purificacionis, et prefacio: ... Et te in purificacione beate Marie"
+    },
+    {
+      "name": "Mass of Resurrection",
+      "type": "ritual",
+      "attributes": {
+        "day": "9th day",
+        "preface": "... Et te quidem, Domine, omni tempore set in hac potissimum nocte"
+      },
+      "page_ref": "293-294",
+      "raw_quote": "In nona die missam resurreccionis, et prefacio: ... Et te quidem, Domine, omni tempore set in hac potissimum nocte"
+    },
+    {
+      "name": "Mass of Ascension",
+      "type": "ritual",
+      "attributes": {
+        "day": "10th day",
+        "preface": "... Qui post resurreccionem suam omnibus discipulis suis manifestus apparuit"
+      },
+      "page_ref": "293-294",
+      "raw_quote": "In 10a die missam ascencionis, et prefacio: ... Qui post resurreccionem suam omnibus discipulis suis manifestus apparuit"
+    },
+    {
+      "name": "Mass of Assumption of Blessed Mary",
+      "type": "ritual",
+      "attributes": {
+        "day": "11th day",
+        "preface": "... Et te in assumpcione"
+      },
+      "page_ref": "293-294",
+      "raw_quote": "In XIa die missam assumpcionis beate Marie, et prefacio sit: ... Et te in assumpcione"
+    },
+    {
+      "name": "Mass of All Saints",
+      "type": "ritual",
+      "attributes": {
+        "day": "12th day",
+        "preface": "apostolorum (modified)"
+      },
+      "page_ref": "294-295",
+      "raw_quote": "In 12a die missam omnium sanctorum, et prefacio apostolorum sit"
+    },
+    {
+      "name": "Mass of the Angels",
+      "type": "ritual",
+      "attributes": {
+        "day": "13th day",
+        "preface": "apostolorum (modified)"
+      },
+      "page_ref": "294-295",
+      "raw_quote": "In 13a die missam angelorum, et prefacio apostolorum"
+    },
+    {
+      "name": "Mass of the Holy Spirit",
+      "type": "ritual",
+      "attributes": {
+        "day": "14th day",
+        "preface": "... Qui ascendens super omnes celos"
+      },
+      "page_ref": "294-295",
+      "raw_quote": "In 14a die missam Spiritus sancti, et prefacio sit: ... Qui ascendens super omnes celos"
+    },
+    {
+      "name": "Mass of the Holy Cross",
+      "type": "ritual",
+      "attributes": {
+        "day": "15th day",
+        "preface": "... Qui salutem humani generis in ligno"
+      },
+      "page_ref": "294-295",
+      "raw_quote": "In quintadecima die missam sancte crucis, et prefacio sit: ... Qui salutem humani generis in ligno"
+    },
+    {
+      "name": "Mass of the Trinity",
+      "type": "ritual",
+      "attributes": {
+        "day": "16th day",
+        "preface": "... Qui cum unigenito filio tuo et Spiritu sancto unus es<t> Deus"
+      },
+      "page_ref": "294-295",
+      "raw_quote": "In 16a die missam trinitatis, et prefacio sit: ... Qui cum unigenito filio tuo et Spiritu sancto unus es<t> Deus"
+    },
+    {
+      "name": "Raising of the Winds",
+      "type": "ritual",
+      "attributes": {
+        "timing": "11th hour of sacred work day",
+        "location": "outside house, away from circle by 2-3 stadia"
+      },
+      "page_ref": "295-296",
+      "raw_quote": "Excitacio ventorum est principium operandi in illa XIa hora diei operis sacri et debet fieri extra domum, longe a circulo ad duo stadia vel tria."
+    },
+    {
+      "name": "Wand (Virga)",
+      "type": "tool",
+      "attributes": {
+        "shape": "quadrata (square)",
+        "inscriptions": "Adonay, Sabaoth, Hiskiros, Emanuel",
+        "symbol": "pentagonus Salomonis"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "Virga autem sit quadrata, et in uno latere scribatur in summitate Adonay; on the second side Sabaoth; on 3 Hiskiros; on 4 Emanuel."
+    },
+    {
+      "name": "Whistle (Sibilum)",
+      "type": "tool",
+      "attributes": {
+        "material": "white copper, silver, gold, or hazel",
+        "shape": "eptagonum (heptagonal/7 sides)",
+        "length": "three fingers"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "Fac sibilum de ere albo vel de argento vel de auro vel avellana, et sit eptagonum, id est septem latera habens."
+    },
+    {
+      "name": "Adonay",
+      "type": "divine_name",
+      "attributes": {
+        "location_on_tool": "Wand side 1"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "in uno latere scribatur in summitate Adonay"
+    },
+    {
+      "name": "Sabaoth",
+      "type": "divine_name",
+      "attributes": {
+        "location_on_tool": "Wand side 2"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "in secundo latere Sabaoth"
+    },
+    {
+      "name": "Hiskiros",
+      "type": "divine_name",
+      "attributes": {
+        "location_on_tool": "Wand side 3"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "in 3 Hiskiros"
+    },
+    {
+      "name": "Emanuel",
+      "type": "divine_name",
+      "attributes": {
+        "location_on_tool": "Wand side 4"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "on the fourth Emanuel."
+    },
+    {
+      "name": "On",
+      "type": "divine_name",
+      "attributes": {
+        "location_on_tool": "Whistle top"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "in summitate eius sculpatur hoc nomen: On"
+    },
+    {
+      "name": "Beel",
+      "type": "divine_name",
+      "attributes": {
+        "location_on_tool": "Whistle bottom"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "inferius in alia summitate Beel"
+    },
+    {
+      "name": "Barthan",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "King of the East",
+        "location_on_tool": "Whistle side 1"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "nomen regis orientalis, scilicet Barthan"
+    },
+    {
+      "name": "Formione",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "King of Consol",
+        "location_on_tool": "Whistle side 2"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "nomen regis consol, scilicet Formione"
+    },
+    {
+      "name": "Yammax",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "King of the South",
+        "location_on_tool": "Whistle side 3"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "regis meridiei, scilicet Yammax"
+    },
+    {
+      "name": "Sarabocres",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "King of Nogahel",
+        "location_on_tool": "Whistle side 4"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "regis nogahelis, scilicet Sarabocres"
+    },
+    {
+      "name": "Harthan",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "King of the West",
+        "location_on_tool": "Whistle side 5"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "regis occidentalis, scilicet Harthan"
+    },
+    {
+      "name": "Abaa",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "King of Frigicap",
+        "location_on_tool": "Whistle side 6"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "regis frigicapicis, Abaa"
+    },
+    {
+      "name": "Maymon",
+      "type": "spirit_name",
+      "attributes": {
+        "role": "King of the North",
+        "location_on_tool": "Whistle side 7"
+      },
+      "page_ref": "296-297",
+      "raw_quote": "regis septemtrionalis, Maymon"
+    },
+    {
+      "name": "Casziel",
+      "type": "angel",
+      "attributes": {
+        "role": "Leader of angels"
+      },
+      "page_ref": "298-299",
+      "raw_quote": "principes eorum omnium sunt 7, ut patuit supra: Casziel, Satquiel et cetera."
+    },
+    {
+      "name": "Satquiel",
+      "type": "angel",
+      "attributes": {
+        "role": "Leader of angels"
+      },
+      "page_ref": "298-299",
+      "raw_quote": "Casziel, Satquiel et cetera."
+    },
+    {
+      "name": "Barachiel",
+      "type": "angel",
+      "attributes": {
+        "role": "Superior angel"
+      },
+      "page_ref": "298-299",
+      "raw_quote": "Adhuc sunt 7 superiores, scilicet Barachiel, Uriel et cetera."
+    },
+    {
+      "name": "Uriel",
+      "type": "angel",
+      "attributes": {
+        "role": "Superior angel"
+      },
+      "page_ref": "298-299",
+      "raw_quote": "Adhuc sunt 7 superiores, scilicet Barachiel, Uriel et cetera."
+    },
+    {
+      "name": "Honorius",
+      "type": "person",
+      "attributes": {
+        "title": "magister Thebarum"
+      },
+      "page_ref": "299-301",
+      "raw_quote": "quem fecit Honorius, magister Thebarum."
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {
+        "arrangement": "Top seal on skin, others hang below"
+      },
+      "page_ref": "295-296",
+      "raw_quote": "in illa pelle, ubi est sigillum Domini, debent esse tria sigilla predicta sub signo ita, quod pendeant de manu."
+    },
+    {
+      "name": "Circle for Good Angels",
+      "type": "location",
+      "attributes": {
+        "height": "three and a half feet high"
+      },
+      "page_ref": "297-298",
+      "raw_quote": "debent apparere infra circulum, qui debet esse altus tribus pedibus et semis."
+    },
+    {
+      "name": "Circle for Aerial Spirits",
+      "type": "location",
+      "attributes": {
+        "shape": "planus sicut equiparet (flat/equalized)"
+      },
+      "page_ref": "297-298",
+      "raw_quote": "illi aerei apparent extra circulum in aere homine existente infra circulum, qui debet esse totus planus"
+    },
+    {
+      "name": "Circle for Terrestrial Spirits",
+      "type": "location",
+      "attributes": {
+        "shape": "concavum, profundum et rotundum (hollow, deep, round)"
+      },
+      "page_ref": "297-298",
+      "raw_quote": "ipsi apparent infra circulum concavum, profundum et rotundum"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Wand (Virga)",
+      "to": "Adonay",
+      "type": "inscribed_with"
+    },
+    {
+      "from": "Whistle (Sibilum)",
+      "to": "Barthan",
+      "type": "inscribed_with"
+    },
+    {
+      "from": "Seals",
+      "to": "Hand",
+      "type": "hung_from"
+    },
+    {
+      "from": "Good Angels",
+      "to": "Circle (3.5 ft high)",
+      "type": "appear_in"
+    },
+    {
+      "from": "Aerial Spirits",
+      "to": "Air above Circle",
+      "type": "appear_above"
+    },
+    {
+      "from": "Terrestrial Spirits",
+      "to": "Hollow Circle",
+      "type": "appear_in"
+    },
+    {
+      "from": "Book",
+      "to": "Honorius",
+      "type": "authored_by"
+    }
+  ],
+  "summary": "This chunk details the final days of purification involving specific masses for days 4 through 16, followed by instructions for raising winds and preparing ritual tools like a square wand and heptagonal whistle inscribed with divine names and spirit kings. It distinguishes summoning circles for good angels versus aerial or terrestrial spirits and concludes with the book's claimed powers and authorship by Honorius.",
+  "key_passages": [
+    "Excitacio ventorum est principium operandi in illa XIa hora diei operis sacri et debet fieri extra domum, longe a circulo ad duo stadia vel tria.",
+    "Virga autem sit quadrata, et in uno latere scribatur in summitate Adonay; on the second side Sabaoth; on 3 Hiskiros; on 4 Emanuel.",
+    "Fac sibilum de ere albo vel de argento vel de auro vel avellana, et sit eptagonum, id est septem latera habens.",
+    "Hic est liber, quo Deus in hac vita facialiter quit videri. Hic est liber, quo quilibet potest salvari et in vitam eternam procul dubio deduci.",
+    "Angeli hore sunt qui regnant in hora operis, angeli diei qui in die operis, angeli mensis angeli Lune vel principii mensis."
+  ]
+}

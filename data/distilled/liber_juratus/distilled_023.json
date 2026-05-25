@@ -1,0 +1,205 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 23,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Labadau",
+      "type": "spirit",
+      "attributes": {
+        "role": "Princeps of terrestrial spirits",
+        "ministry": "Ministers of Hell"
+      },
+      "page_ref": "280",
+      "raw_quote": "Princeps eorum est Labadau. Eius coadiutor est Asmodeus..."
+    },
+    {
+      "name": "Asmodeus",
+      "type": "spirit",
+      "attributes": {
+        "role": "Coadiutor of Labadau",
+        "power": "Gives indestructible treasure"
+      },
+      "page_ref": "280",
+      "raw_quote": "Eius coadiutor est Asmodeus, qui dat thesaurum indestructibilem..."
+    },
+    {
+      "name": "Corniger",
+      "type": "spirit",
+      "attributes": {
+        "role": "King of the south",
+        "meaning": "Horn-bearing"
+      },
+      "page_ref": "280",
+      "raw_quote": "Corniger (“horn-bearing”) is king of the south..."
+    },
+    {
+      "name": "Trocornifer",
+      "type": "spirit",
+      "attributes": {
+        "role": "Attendant in the East"
+      },
+      "page_ref": "280",
+      "raw_quote": "Trocornifer in the East..."
+    },
+    {
+      "name": "Malafer",
+      "type": "spirit",
+      "attributes": {
+        "role": "Attendant in the West"
+      },
+      "page_ref": "280",
+      "raw_quote": "Malafer in the West..."
+    },
+    {
+      "name": "Euiraber",
+      "type": "spirit",
+      "attributes": {
+        "role": "Attendant in the South"
+      },
+      "page_ref": "280",
+      "raw_quote": "Euiraber in the South..."
+    },
+    {
+      "name": "Mulcifer",
+      "type": "spirit",
+      "attributes": {
+        "role": "Attendant in the North"
+      },
+      "page_ref": "280",
+      "raw_quote": "Mulcifer in the North."
+    },
+    {
+      "name": "Sigillum Terre",
+      "type": "sigil",
+      "attributes": {
+        "purpose": "To assemble infernal ones"
+      },
+      "page_ref": "281-282",
+      "raw_quote": "Sigillum terre “{H}oreaua. recolia. narex..."
+    },
+    {
+      "name": "Semenphoras",
+      "type": "divine_name",
+      "attributes": {
+        "variant": "Shem Ha-Meforash",
+        "letters": "72 letters"
+      },
+      "page_ref": "287-288",
+      "raw_quote": "nominis tui “Semenphoras”... Shem Ha-Meforash..."
+    },
+    {
+      "name": "IOHT HE VAU DALETH",
+      "type": "divine_name",
+      "attributes": {
+        "description": "Tetragrammaton variation"
+      },
+      "page_ref": "287-288",
+      "raw_quote": "nomen tuum, quod 4 literis scribitur, ioht, he, vau, deleth..."
+    },
+    {
+      "name": "Agla Eloy Yaym Theos Deus",
+      "type": "divine_name",
+      "attributes": {
+        "effect": "Celestial terrestrial and infernal tremble"
+      },
+      "page_ref": "287-288",
+      "raw_quote": "Agla, Eloy, Yaym, Theos, Deus—quo audito celestia..."
+    },
+    {
+      "name": "On Alpha Omega El Ely Eloe Elion Sother Emanuel Sabaoth Adonay Egge Ya Ye",
+      "type": "divine_name",
+      "attributes": {
+        "description": "Holy names for consecration"
+      },
+      "page_ref": "287-288",
+      "raw_quote": "per hec sanctissima nomina: On, Alpha et ℧... Ye..."
+    },
+    {
+      "name": "Cruor (Blood)",
+      "type": "ingredient",
+      "attributes": {
+        "purpose": "Ink for Seal of God"
+      },
+      "page_ref": "287-290",
+      "raw_quote": "benediccionem huius creature sanguinis... cruorem istum..."
+    },
+    {
+      "name": "Circle (Hollow)",
+      "type": "tool",
+      "attributes": {
+        "purpose": "Where spirits come"
+      },
+      "page_ref": "280-283",
+      "raw_quote": "circulus eorum concavus et rotundus..."
+    },
+    {
+      "name": "Sulfur (Sulphur)",
+      "type": "ingredient",
+      "attributes": {
+        "purpose": "Suffumigation"
+      },
+      "page_ref": "280-281",
+      "raw_quote": "Suﬀumigium eorum est sulphur..."
+    },
+    {
+      "name": "Masses (Purification)",
+      "type": "ritual",
+      "attributes": {
+        "days": "First to Fourth day of second purification"
+      },
+      "page_ref": "291-292",
+      "raw_quote": "In prima die secunde mundacionis dicet sacerdos missam..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Labadau",
+      "to": "Terrestrial Spirits",
+      "type": "is princeps of"
+    },
+    {
+      "from": "Asmodeus",
+      "to": "Labadau",
+      "type": "is coadiutor of"
+    },
+    {
+      "from": "Corniger",
+      "to": "Terrestrial Spirits",
+      "type": "is king of south"
+    },
+    {
+      "from": "Trocornifer",
+      "to": "Corniger",
+      "type": "is attendant in East"
+    },
+    {
+      "from": "Malafer",
+      "to": "Corniger",
+      "type": "is attendant in West"
+    },
+    {
+      "from": "Euiraber",
+      "to": "Corniger",
+      "type": "is attendant in South"
+    },
+    {
+      "from": "Mulcifer",
+      "to": "Corniger",
+      "type": "is attendant in North"
+    },
+    {
+      "from": "Cruor (Blood)",
+      "to": "Sigillum Dei",
+      "type": "used for ink of"
+    }
+  ],
+  "summary": "This chunk details the hierarchy and attributes of terrestrial spirits including Labadau, Asmodeus, and Corniger's attendants, along with their ritual requirements like sulfur suffumigation and specific circles. It transitions to Book Five, outlining five treatises concerning divine vision, angels, and absolution, followed by detailed prayers for consecrating blood as ink for the Seal of God.",
+  "key_passages": [
+    "Princeps eorum est Labadau. Eius coadiutor est Asmodeus, qui dat thesaurum indestructibilem cuiuslibet monete.",
+    "Corniger (“horn-bearing”) is king of the south, and he has four attendants in the four parts of the world: Trocornifer in the East, Malafer in the West, Euiraber in the South, Mulcifer in the North.",
+    "Deus invisibilis, Deus inestimabilis, Deus ineffabilis, Deus incommutabilis...",
+    "In hac operacione sed de angelis terreis duo isti circuli necessarii; iste primus, qui est concavus, est in quo veniunt advocati...",
+    "Benedicat te Pater ✠, benedicat te Filius ✠, benedicat te Spiritus sanctus ✠."
+  ]
+}

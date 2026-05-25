@@ -1,0 +1,264 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 2,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Signum Domini",
+      "type": "sigil",
+      "attributes": {
+        "references": [
+          "CXV.2",
+          "CXXIX.4",
+          "CXXXIII.46",
+          "CXXXVII.22"
+        ]
+      },
+      "page_ref": "28",
+      "raw_quote": "Signum Domini, CXV.2, CXXIX.4, CXXXIII.46, CXXXVII.22."
+    },
+    {
+      "name": "Sigillum Salomonis",
+      "type": "sigil",
+      "attributes": {},
+      "page_ref": "28",
+      "raw_quote": "Sigillum Salomonis, CXXXIII.37;"
+    },
+    {
+      "name": "Seal of God",
+      "type": "sigil",
+      "attributes": {
+        "variants": "many outside Honorius-related texts",
+        "use": "effective against physical dangers and protection from ghosts or phantasms"
+      },
+      "page_ref": "29",
+      "raw_quote": "Many variants of this Seal of God occur... effective against a long list of physical dangers, as well as protection from ghosts or phantasms."
+    },
+    {
+      "name": "Magic Circle",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "basis for invoking spirits; providing the 'greatest fortification' against spirits",
+        "structure": "seven-fold classification including planets, directions, winds, elements, and humors"
+      },
+      "page_ref": "30",
+      "raw_quote": "A representation of this “map of the universe” is the basis for the magic circle used for invoking spirits."
+    },
+    {
+      "name": "The Sun",
+      "type": "angel",
+      "attributes": {
+        "direction": "East",
+        "element": "Fire",
+        "humor": "Hot & dry, masculine",
+        "planet_association": "Sun",
+        "angel_name": "Boon",
+        "divine_name": "Ysicres"
+      },
+      "page_ref": "30",
+      "raw_quote": "East, warm and moist, where the angels of the Sun dominate."
+    },
+    {
+      "name": "Jupiter",
+      "type": "angel",
+      "attributes": {
+        "direction": "Southeast",
+        "element": "Not specified (mixed)",
+        "humor": "Hot, mixed moist dry"
+      },
+      "page_ref": "30",
+      "raw_quote": "Consol (Southeast) hot, mixed moist dry [NOT DRY]... Jupiter Uriel Zebedey"
+    },
+    {
+      "name": "Mars",
+      "type": "angel",
+      "attributes": {
+        "direction": "South",
+        "element": "Fire",
+        "humor": "Very hot & dry, masculine",
+        "angel_name": "Karathiel",
+        "divine_name": "Eloy"
+      },
+      "page_ref": "30",
+      "raw_quote": "South hot and dry Fire Very hot & dry, masculine Mars Karathiel Eloy"
+    },
+    {
+      "name": "Venus",
+      "type": "angel",
+      "attributes": {
+        "direction": "Southwest",
+        "element": "Air",
+        "humor": "Warm and feminine",
+        "angel_name": "Uriel",
+        "divine_name": "Ienomei"
+      },
+      "page_ref": "30",
+      "raw_quote": "Nogahel (Southwest) warm, and feminine Air Warm & moist... Venus Uriel Ienomei"
+    },
+    {
+      "name": "The Moon",
+      "type": "angel",
+      "attributes": {
+        "direction": "West",
+        "element": "Water",
+        "humint": "Cold and moist, feminine",
+        "angel_name": "Hocroel",
+        "divine_name": "Theos"
+      },
+      "page_ref": "30",
+      "raw_quote": "West cold and moist / feminine Water Cold & moist, feminine The Moon Hocroel Theos"
+    },
+    {
+      "name": "Mercury",
+      "type": "angel",
+      "attributes": {
+        "direction": "Northwest",
+        "element": "Not specified",
+        "humor": "cold and damp, masculine",
+        "angel_name": "Vihel",
+        "divine_name": "Sother"
+      },
+      "page_ref": "30",
+      "raw_quote": "Frigicap (Northwest) cold and damp, masculine... Mercury Vihel Sother"
+    },
+    {
+      "name": "Saturn",
+      "type": "angel",
+      "attributes": {
+        "direction": "Northern part",
+        "element": "Earth",
+        "humor": "Very cold & dry, masculine",
+        "angel_name": "Lanael",
+        "divine_name": "Christ"
+      },
+      "page_ref": "30",
+      "raw_quote": "Northern part cold and dry Earth Very cold & dry, masculine Saturn Lanael Christ"
+    },
+    {
+      "name": "Shem ha-Meforash",
+      "type": "divine_name",
+      "attributes": {
+        "description": "seventy-two letter name of God",
+        "composition": "derived from the initial letters of seventy-two names of God"
+      },
+      "page_ref": "31",
+      "raw_quote": "The text also uses the Hebrew term Shem ha-Melorash, probably meaning something like “explicit name” of God."
+    },
+    {
+      "name": "Asmodeus",
+      "type": "demon",
+      "attributes": {},
+      "page_ref": "34",
+      "raw_quote": "Asmodeus (CXXXV.10) is of course well known from Tobit..."
+    },
+    {
+      "name": "Bileth",
+      "type": "demon",
+      "attributes": {},
+      "page_ref": "34",
+      "raw_quote": "Bileth is another name well-known in the literature."
+    },
+    {
+      "name": "Candle of virgin wax",
+      "type": "ingredient",
+      "attributes": {
+        "quality": "cleaner flame than tallow"
+      },
+      "page_ref": "37",
+      "raw_quote": "Candle of virgin wax. It should be noted that wax was more expensive than tallow candles, but provided a much cleaner flame."
+    },
+    {
+      "name": "Incense mixture",
+      "type": "ingredient",
+      "attributes": {
+        "components": [
+          "amber",
+          "musk",
+          "aloe",
+          "white and red labdanum",
+          "mastic",
+          "frankincense",
+          "pearls"
+        ]
+      },
+      "page_ref": "37",
+      "raw_quote": "The Seal of God consecration specifies a mixture of amber, musk, aloe, white and red labdanum, mastic, frankincense, pearls, and “incense”"
+    },
+    {
+      "name": "Swords",
+      "type": "tool",
+      "attributes": {
+        "quantity": 7,
+        "requirement": "equal in length, lustrous or brightly polished",
+        "restriction": "not used when calling higher angels"
+      },
+      "page_ref": "38",
+      "raw_quote": "Seven are needed when calling forth spirits, but not the higher angels. The swords should all be equal in length..."
+    },
+    {
+      "name": "Wand of laurel or hazel",
+      "type": "tool",
+      "attributes": {
+        "material": [
+          "laurel",
+          "hazel"
+        ],
+        "form": [
+          "stick",
+          "staff",
+          "rod",
+          "twig",
+          "switch"
+        ],
+        "specification": "four sides on which are written figures and sacred names; hazel rod should be length of master's arm"
+      },
+      "page_ref": "38",
+      "raw_quote": "Wand of laurel or hazel... the hazel rod/switch (virga avellane) should be the length of the master’s arm, extended"
+    },
+    {
+      "name": "Whistle",
+      "type": "tool",
+      "attributes": {
+        "materials": [
+          "copper",
+          "silver",
+          "gold",
+          "hazel wood"
+        ],
+        "restriction": "not used with higher angels"
+      },
+      "page_ref": "39",
+      "raw_quote": "Whistle: It is sounded and struck at various points in the ritual to call the spirits. It is not used with the higher angels."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Magic Circle",
+      "to": "spirits",
+      "type": "fortification against"
+    },
+    {
+      "from": "Shem ha-Meforash",
+      "to": "Seal of God",
+      "type": "contained in border of"
+    },
+    {
+      "from": "Swords",
+      "to": "spirits",
+      "type": "used to call forth"
+    },
+    {
+      "from": "Wand",
+      "to": "spirits",
+      "type": "used to call forth"
+    }
+  ],
+  "summary": "This chunk details the cosmological structure of the Honorius magic system, including a seven-fold universe of planets, elements, and directions. It provides specific lists of divine names (Shem ha-Meforash), hierarchies of angels and demons, and an extensive inventory of ritual tools, ingredients, and preparatory requirements for the practitioner.",
+  "key_passages": [
+    "The magic circle is required for calling spirits, and is described as providing the “greatest fortification” against the spirits.",
+    "The use of the names of God is central to the method of Honorius...",
+    "The seventy-two letter name of God... is derived from the initial letters of seventy-two names of God.",
+    "The preparations taught by Honorius... include a special diet, shaving the hair from your body, sexual abstinence, confession and contrition...",
+    "Seven [swords] are needed when calling forth spirits, but not the higher angels."
+  ]
+}

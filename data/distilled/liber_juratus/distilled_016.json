@@ -1,0 +1,180 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 16,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Divine Majesty",
+      "type": "divine_name",
+      "attributes": {
+        "difficulty": "most difficult for one to perceive"
+      },
+      "page_ref": "195",
+      "raw_quote": "it is most difficult for one to perceive the Divine Majesty."
+    },
+    {
+      "name": "God",
+      "type": "divine_name",
+      "attributes": {
+        "nature": "provides nourishment to young ravens through mercy"
+      },
+      "page_ref": "195",
+      "raw_quote": "nourished by the mercy of God, as David testified when he said, 'he gives his food to beasts, and to young ravens who cry out.'"
+    },
+    {
+      "name": "Bohel",
+      "type": "angel",
+      "attributes": {
+        "classification": "Saturnian",
+        "body_type": "long and slender, pale or yellow",
+        "region": "North"
+      },
+      "page_ref": "201",
+      "raw_quote": "But of those certain ones are called Saturnians, and these are: Bohel, Cafziel, Michrathon, Satquiel"
+    },
+    {
+      "name": "Cafziel",
+      "type": "angel",
+      "attributes": {
+        "classification": "Saturnian"
+      },
+      "page_ref": "201",
+      "raw_quote": "these are: Bohel, Cafziel, Michrathon, Satquiel"
+    },
+    {
+      "name": "Michrathon",
+      "type": "angel",
+      "attributes": {
+        "classification": "Saturnian"
+      },
+      "page_ref": "201",
+      "raw_quote": "these are: Bohel, Cafziel, Michrathon, Satquiel"
+    },
+    {
+      "name": "Satquiel",
+      "type": "angel",
+      "attributes": {
+        "classification": "Saturnian/Jovial"
+      },
+      "page_ref": "201",
+      "raw_quote": "these are: Bohel, Cafziel, Michrathon, Satquiel"
+    },
+    {
+      "name": "Maymon",
+      "type": "demon",
+      "attributes": {
+        "rank": "king",
+        "subordination": "Southwest Winds"
+      },
+      "page_ref": "201",
+      "raw_quote": "They are these: Maymon the king, Assaibi, Albunalich, Haibalidech, Yasfla, which daemons are subordinate to the Southwest Winds"
+    },
+    {
+      "name": "Raphael",
+      "type": "angel",
+      "attributes": {
+        "classification": "Jovial/Solar",
+        "nature": "joy, love, gladness; provides dew, flowers, herbs"
+      },
+      "page_ref": "201",
+      "raw_quote": "Others are Jovial and are these: Satquiel, Raphael, Pahamcocihel, Assasaiel"
+    },
+    {
+      "name": "Samahel",
+      "type": "angel",
+      "attributes": {
+        "classification": "Martian",
+        "nature": "provokes wars, murder, destruction",
+        "body_type": "medium stature, dry and thin",
+        "color": "red like coals"
+      },
+      "page_ref": "203",
+      "raw_quote": "Others are of Mars and are these: Samahel, Satihel, Yturahihel, Amabiel, and their nature is to provoke wars, murder, destruction"
+    },
+    {
+      "name": "Hanahel",
+      "type": "angel",
+      "attributes": {
+        "classification": "Venusian",
+        "nature": "causes laughter, lust, desire; gives flowers and fruit"
+      },
+      "page_ref": "203",
+      "raw_quote": "Others are of Venus, and they are these: Hanahel, Raquiel, Salguyel"
+    },
+    {
+      "name": "Mychael",
+      "type": "angel",
+      "attributes": {
+        "classification": "Mercurial",
+        "nature": "subjugates spirits; reveals secrets of past, present, and future"
+      },
+      "page_ref": "205",
+      "raw_quote": "Others are of Mercury, and they are these: Mychael, Myhel, Sarapiel"
+    },
+    {
+      "name": "Gabriel",
+      "type": "angel",
+      "attributes": {
+        "classification": "Lunar",
+        "nature": "moves will/thinking; speeds journeys; causes rain"
+      },
+      "page_ref": "205",
+      "raw_quote": "Others are of the Moon, and they are these: Gabriel, Michael, Samyel, Atithael"
+    },
+    {
+      "name": "Construction of the Circle",
+      "type": "ritual",
+      "attributes": {
+        "materials": [
+          "hard stones",
+          "tiles",
+          "lime",
+          "beach sand"
+        ],
+        "dimensions_primary": "9 feet width/length",
+        "dimensions_secondary": "7 feet length/width, 3.5 feet height (mound)"
+      },
+      "page_ref": "207",
+      "raw_quote": "Take hard and uniform stones... First, let the circle be level with the ground, and nine feet in width"
+    },
+    {
+      "name": "Consecration Prayer",
+      "type": "prayer",
+      "attributes": {
+        "context": "to be said by a priest while consecrating the body of Christ"
+      },
+      "page_ref": "207",
+      "raw_quote": "You, O Lord Jesus Christ... that from the gift and permission of your grace, all those angels which he shall call upon... may you deign to send and constrain them"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Maymon",
+      "to": "Southwest Winds",
+      "type": "subordinate to"
+    },
+    {
+      "from": "Formione",
+      "to": "Jupiter",
+      "type": "daemon of"
+    },
+    {
+      "from": "Habaa",
+      "to": "Mercury",
+      "type": "daemon of"
+    },
+    {
+      "from": "Harthan",
+      "to": "Moon",
+      "type": "daemon of"
+    }
+  ],
+  "summary": "This chunk details the second treatise of the Liber Juratus, outlining various planetary spirits (Saturnian, Jovial, Martian, etc.), their natures, physical forms, and hierarchies. It also provides specific instructions for the construction of a ritual circle using stones and mortar, and includes a prayer for the invocation of angels.",
+  "key_passages": [
+    "the operator must beware, lest he is in mortal sin, because if so, he will go insane",
+    "to know the spirits of the fire, their names, superiors and sigils, powers and virtues",
+    "their nature is to cause sadness, anger, and hatred, to create snow and ice together",
+    "Take hard and uniform stones, which have no holes or cracks, or otherwise you can use tiles made specifically for this and mortar the stones or tiles together.",
+    "You, O Lord Jesus Christ... that from the gift and permission of your grace, all those angels which he shall call upon... may you deign to send and constrain them"
+  ]
+}

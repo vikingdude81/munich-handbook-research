@@ -1,12 +1,14 @@
 ==========================================================================================
-  THE MUNICH HANDBOOK OF NECROMANCY (CLM 849)
+  MEDIEVAL GRIMOIRE SPIRIT & RITUAL GUIDE
   A Comprehensive Guide to Spirits, Rituals, and Magical Practice
-  Based on Richard Kieckhefer's 'Forbidden Rites' and Related Sources
+  Five Sources: Munich Handbook (CLM 849), Forbidden Rites, Worship of the Dead,
+                Ars Notoria, and Liber Juratus Honorii
 ==========================================================================================
 
-  Generated from 2903 extracted entities
-  across 67 source text sections
-  Covering: Forbidden Rites (text), Forbidden Rites (PDF), Worship of the Dead
+  Generated from 3507 extracted entities
+  Merged to 2467 unique entities
+  across 99 source text sections
+  Covering 5 sources: ars_notoria, forbidden_rites_pdf, liber_juratus, necro, worship_dead
 
 
 ==========================================================================================
@@ -212,13 +214,13 @@
   ──────────────────────────────────────────────────────────────────────────────────────
   BEELZEBUB
   Classification: Prince of demons (Belzebub/Belzebuc variant)
-  Status: FOUND — 9 occurrences across 9 chunks
-  Sources: forbidden_rites_pdf, necro, worship_dead
-  Page References: CLM 849, experiment no. 1; footnote 14, [97v], [100r], fol 4v (circle), p. 193, p. 196–197, p. 201, p. 207, p. 372
+  Status: FOUND — 10 occurrences across 10 chunks
+  Sources: forbidden_rites_pdf, liber_juratus, necro, worship_dead
+  Page References: 270-271, CLM 849, experiment no. 1; footnote 14, [97v], [100r], fol 4v (circle), p. 193, p. 196–197, p. 201, p. 207
   Name Variants: Beelzebub, Belzebub
   Attributes:
     rank: demon; princeps demoniorum
-    role: named in conjurations; demonic spirit; prince of demons
+    role: named in conjurations; demonic spirit; prince of demons; head of your prince
     function: appears in circles; listed in circle inscriptions
     variant_names: Belzebuc
     page_refs: p. 193
@@ -231,7 +233,8 @@
     Satan or Sathan."
     "Belial, Satan, Osendior, Matalot, Belzebub, Lucifer..."
     "...Belial, Satan, Mendior Matalot, Belzebub, Lucifer..."
-  Relationships (3):
+  Relationships (4):
+    --> [commands] spirits
     --> [identified with] satan
     --> [prince_of] demons
     --> [synonym] satan
@@ -239,20 +242,32 @@
 
 ==========================================================================================
   PART II: COMPLETE SPIRIT CATALOGUE
-  1058 unique spirits from the Munich Handbook sources
+  1254 unique spirits across all 5 grimoire sources
 ==========================================================================================
 
-  MAJOR SPIRITS (42 spirits with 5+ cross-references)
+  MAJOR SPIRITS (54 spirits with 5+ cross-references)
   ──────────────────────────────────────────────────────────────────────────────────────
   Astaroth                       [prince/master demon; demon; marquis; spirit; magis]
     Occurrences: 20 | Pages: 166, 269n (fig. f.30r); 271a, 63r, CLM 849, experiment no. 2; footnote 14, [99r], [100r], [103v]
     Function: reveals treasures guarded by spirits; gives love of women, especially widows; co
     Co-invoked with: belial
 
+  Gabriel                        [archangel; angel]
+    Occurrences: 19 | Pages: 100, 102, 178, 18, 20, 67, 71, 101, 179, 189, 205-221, 19
+    Function: appears in sacred inscriptions; agent of binding/constraining the demon
+    Planet: Moon; Luna
+    Day: Monday
+
   Satan                          [infernal name invoked in final incantation; Devil;]
-    Occurrences: 17 | Pages: 145–146, 171, 234, 59v–62v (No. 32), CLM 849, experiment no. 1; footnote 14
+    Occurrences: 19 | Pages: 145–146, 166, 171, 234, 49
     Function: subject of conjuration in longer bond formula; appears in circles as object of c
     Co-invoked with: discobermath
+
+  Raphael                        [archangel; angel]
+    Occurrences: 17 | Pages: 100, 102, 178, 201, 209
+    Function: appears in sacred inscriptions; agent of binding/constraining the demon
+    Planet: Sun; Sol
+    Day: Sunday
 
   Belial                         [principal prince; infernal name invoked; demon; pr]
     Occurrences: 16 | Pages: 145–146, 233 (note m), 234, 269n (fig. f.30r), CLM 849, experiment no. 12; footnote 14
@@ -264,6 +279,12 @@
     Function: one of four spirits invoked for invisibility cloak; one of three kings conjured;
     Direction: east
     Co-invoked with: apolin, maraloth, taraor, firiel, melemil, taraor
+
+  Michael                        [archangel; angel]
+    Occurrences: 15 | Pages: 100, 102, 178, 19, 209
+    Function: appears in sacred inscriptions; agent of binding/constraining the demon
+    Planet: Mercury; Mercurius
+    Day: Wednesday
 
   Tetragramaton                  [divine name]
     Occurrences: 13 | Pages: 164, 166, 231–232, 45r, 46v–47r (No. 27-A, 27-C), 47r, 48r, 51r, 54r–58v
@@ -279,24 +300,17 @@
     Function: appears in circles; invoked in chain of binding names; Lord; invoked in consecra
 
   Belzebub                       [demon; princeps demoniorum]
-    Occurrences: 9 | Pages: CLM 849, experiment no. 1; footnote 14, [97v], [100r], fol 4v (circle), p. 193, p. 196–197
+    Occurrences: 10 | Pages: 270-271, CLM 849, experiment no. 1; footnote 14, [97v], [100r], fol 4v (circle), p. 193
     Function: appears in circles; listed in circle inscriptions
-
-  Gabriel                        [archangel; angel]
-    Occurrences: 9 | Pages: 314r, 60r, 361, 69v, 75r, 76v, CLM 849, experiment no. 16, Table E (37g), Table F (2nd, 4th, 11th hours)
-    Function: appears in sacred inscriptions; agent of binding/constraining the demon
-    Planet: Moon; Luna
-    Day: Monday
 
   Mirage                         [demon; demon/spirit]
     Occurrences: 9 | Pages: 171, 172, 42, 43, 57n33, 59v–62v (No. 32), 109r–111v [A], 139r–140v [B]
     Function: spirit conjured for knowledge, invisibility, treasure, and consecration; conjure
 
-  Raphael                        [archangel; angel]
-    Occurrences: 9 | Pages: 314r, 60r, 361, 72r, 69r, 75r, 76v, CLM 849, experiment no. 16, Table E (37g), Table F (1st hour)
-    Function: appears in sacred inscriptions; agent of binding/constraining the demon
-    Planet: Sun; Sol
-    Day: Sunday
+  Barthan                        [king of the East spirits; airy powers of the East;]
+    Occurrences: 8 | Pages: 19, 203, 229, 251-271, 229, 251, 256, 257, 260, 269-270
+    Direction: north winds, ruling in the East
+    Planet: Sun
 
   Castiel                        [demon; angel]
     Occurrences: 8 | Pages: 271a, 272a, 362, 90, 156, p. 112, p. 342
@@ -306,20 +320,22 @@
     Occurrences: 8 | Pages: 164, 280–291 (multiple), 48r, 54r–58v, CLM 849, experiment no. 16
     Function: appears in sacred inscriptions; God with us; invoked in consecrations
 
-  Michael                        [archangel; angel]
-    Occurrences: 8 | Pages: 361, 70v, 75r, 76v, CLM 849, experiment no. 16, Table E (37g), Table F (10th hour), [59v]
-    Function: appears in sacred inscriptions; agent of binding/constraining the demon
-    Planet: Mercury; Mercurius
-    Day: Wednesday
-
   Oriens                         [demon with subordinate spirits, kings, and digniti]
     Occurrences: 8 | Pages: 106v-107r, 140, 162, 168, footnote 11, p. 186–187
     Function: invoked in incantations; invoked to reveal hidden treasure in dreams; reveals hi
+
+  Osiris                         [god associated with death and resurrection; Egypti]
+    Occurrences: 8 | Pages: 251, 298–301, 56, 58–59, p. 133, p. 367
 
   Paymon                         [demon]
     Occurrences: 8 | Pages: 269n (fig. f.30r), 87, 156, 173, 174, CLM 849, experiment no. 12; footnote 14, p. 108, p. 266–267, No. 12
     Function: appears in circles and conjurations
     Co-invoked with: belial
+
+  Satquiel                       [angel; archangel]
+    Occurrences: 8 | Pages: 201, 270-271, 298-299, 358, 67-68
+    Planet: Jupiter
+    Day: Thursday
 
   Alpha et O                     [divine title; divine name]
     Occurrences: 7 | Pages: 164, 280–47r (repeatedly), 47r, 48r, 51r, CLM 849, experiments nos. 12, 36, [53v], [136r], [137r]
@@ -330,6 +346,9 @@
     Function: one of three kings conjured; commands teacher-spirit; conveys knowledge through 
     Direction: orientem (east)
     Co-invoked with: berith, maraloth
+
+  Maymon                         [king]
+    Occurrences: 7 | Pages: 201, 233, 251, 256, 257, 260
 
   Mirael                         [demon; spiritus benignissimi; demon/angel]
     Occurrences: 7 | Pages: 74, 156, 172, CLM 849, experiment no. 2; footnote 14, p. 207, p. 74, 156, L72 (index), p. 94
@@ -342,6 +361,25 @@
   Suburith                       [named demon; demon (unspecified); demon (resurrect]
     Occurrences: 7 | Pages: 26r, CLM 849, experiment no. 10, experiment no. 10, p. 207, p. 261–263, No. 10
     Function: inscribed on gold ring for raising dead person
+
+  Abaa                           [King of Frigicap; king of the spirits of the air o]
+    Occurrences: 6 | Pages: 19, 237, 251-265, 297, 237, 251, 257, 263, 296-297
+
+  Anael                          [angel; archangel]
+    Occurrences: 6 | Pages: 19, 67, 71, 213, 221, 357, 71r, 75r, 76v, Table E (37g), Table F (2nd hour), p. 336–345
+    Direction: southwest
+    Planet: Venus
+    Day: Friday; diei Veneris
+
+  Angels                         []
+    Occurrences: 6 | Pages: 125, 130, 17, 33, 55, 61, 65, 145, 175, 193, 197, 199, 271, 285, 289, 291, 299, 18, 61, 79, 80
+
+  daimonia                       [inhabit idols; worshipped as spirits of the dead; ]
+    Occurrences: 6 | Pages: 210, 213–215, 218–223, 248, p. 152–154, p. 26 (CONTENTS)
+    Function: gods of pagans, agents of necromancy; respond to necromantic invocations, perfor
+
+  Formione                       [airy powers of the East; King of Consol; King]
+    Occurrences: 6 | Pages: 235, 251, 256, 257, 261, 269-270, 296-297
 
   Gebel                          [demon]
     Occurrences: 6 | Pages: 167, fol. 14v, p. 97, section 7, Demons and Daimons
@@ -359,6 +397,11 @@
     Occurrences: 6 | Pages: CLM 849, experiment no. 7; footnote 16, fol. 18v–19r, p. 207, p. 252–254, section 7, Demons and Daimons
     Function: castle conjurer; invoked in castle ritual
 
+  Samael                         [angel; archangel]
+    Occurrences: 6 | Pages: 209, 270-271, 67-68, 74, 70r, 75r, 76v, Table E (37g), Table F (7th hour)
+    Planet: Mars
+    Day: Tuesday
+
   Tami                           [squire spirit; spiritus armigeri]
     Occurrences: 6 | Pages: CLM 849, experiment no. 7; footnote 16, fol. 18v–19r, p. 207, p. 252–254, section 7, Demons and Daimons
     Function: castle conjurer; invoked in castle ritual
@@ -374,11 +417,6 @@
   Agla                           [sacred name (divine); divine name]
     Occurrences: 5 | Pages: 167, 68v (fig. e), CLM 849, experiment no. 16, [98r], p. 97, 139, 173 (index)
     Function: used in circles for protection; used in circle inscriptions
-
-  Anael                          [angel; archangel]
-    Occurrences: 5 | Pages: 357, 71r, 75r, 76v, Table E (37g), Table F (2nd hour), p. 336–345, p. [90r]
-    Planet: Venus
-    Day: Friday; diei Veneris
 
   Brimer                         [named demon; demon (resurrection ritual)]
     Occurrences: 5 | Pages: 26r, experiment no. 10, p. 261–263, No. 10, p. 80–81
@@ -400,6 +438,12 @@
     Occurrences: 5 | Pages: 271a, p. 112, p. 207, section 7, Demons and Daimons
     Co-invoked with: belam
 
+  Harthan                        [king of the West spirits; King of the West; king o]
+    Occurrences: 5 | Pages: 230-231, 251, 257, 260, 296-297, 317
+
+  Iammax                         [king of the South spirits; airy powers of the East]
+    Occurrences: 5 | Pages: 231-232, 251, 256, 257, 260, 269-270
+
   Lylet                          [demon]
     Occurrences: 5 | Pages: 42r–43r (No. 23), fol 42r-43r, p. 207, p.161
     Function: reveals truth about theft, homicide, and other matters
@@ -418,6 +462,9 @@
     Function: castle conjurer; invoked in castle ritual; appears to magician, executes command
     Co-invoked with: vsyr
 
+  Sarabocres                     [King of Nogahel; king of daemons or spirits of the]
+    Occurrences: 5 | Pages: 236, 251, 257, 263, 296-297, 321
+
   Syrtroy                        [squire spirit; spiritus armigeri]
     Occurrences: 5 | Pages: 20r, fol. 18v–19r, p. 207, p. 252–254
     Function: castle conjurer; invoked in castle ritual
@@ -431,13 +478,15 @@
     Function: inscribed on gold ring for raising dead person
 
 
-  INTERMEDIATE SPIRITS (295 spirits with 2-4 cross-references)
+  INTERMEDIATE SPIRITS (328 spirits with 2-4 cross-references)
   ──────────────────────────────────────────────────────────────────────────────────────
+  Asmodeus                       x4  [coadjutor to Labadau; Coadiutor of Labad]  pp. 278, 280, 34
   Asyel                          x4  [conjured spirit for constraint rituals; ]  pp. 271a, 272a, p. 112, p. 207
   Baltim                         x4  [spirit; duke; dux]  pp. experiment no. 15 (flying throne), p. 194, p. 76–77
   Bartha                         x4  [king; rex]  pp. 342v–35r, p. 186, p. 195
   Belam                          x4  [conjured spirit for constraint rituals; ]  pp. 271a, 272a, p. 112, p. 207
   Captiel                        x4  [archangel]  pp. 361, 71v, 75r, 76v, p. 336–345
+  Cherubim                       x4  []  pp. 100-101, 102, 18
   Demefin                        x4  [spirit; spiritus iocundissimi]  pp. 85 (note 23), fol. 16r, p. 248–250
   Demor                          x4  [squire spirit; spiritus armigeri]  pp. fol. 18v–19r, p. 207, p. 252–254
   Dyspil                         x4  [spiritus habitatores aque]  pp. 21v, p. 207, p. 256–257
@@ -455,7 +504,7 @@
   Pumotor                        x4  [squire spirit; spiritus armigeri]  pp. fol. 18v–19r, p. 207, p. 252–254
   Rabam                          x4  [conjured spirit for constraint rituals; ]  pp. 271a, p. 112, p. 207
   Risbel                         x4  [squire spirit; spiritus armigeri]  pp. fol. 18v–19r, p. 207, p. 252–254
-  Satquiel                       x4  [angel; archangel]  pp. 358, 71v, 75r, 76v, Table E (37g), Table F (5th hour), Table G (1st hour)
+  Seraphim                       x4  []  pp. 100-101, 102, 18
   Silitor                        x4  [squire spirit; spiritus armigeri]  pp. fol. 18v–19r, p. 207, p. 252–254
   Sother                         x4  [divine name]  pp. 54r–58v, [136r], [137v], [98r]
   Taraor                         x4  [demon (unspecified)]  pp. CLM 849, experiment no. 11, p. 207, p. 78–79
@@ -469,6 +518,7 @@
   Brunlo                         x3  [demon named in circle of names; named in]  pp. p. 106, p. 207
   Cotroy                         x3  [spiritus habitatores aque]  pp. 21v, p. 207, p. 258, n.c
   Curson                         x3  [demon]  pp. p. 187, p. 191, section 7, Demons and Daimons
+  Dardiel                        x3  [angel]  pp. 209, 76v, p. 342
   Despan                         x3  [demon named in circle of names; named in]  pp. p. 106, p. 207
   Dronoth                        x3  [demon named in circle of names; named in]  pp. p. 106, p. 207
   Elyon                          x3  [divine name]  pp. 49v, [136r], [137r], [98r]
@@ -477,6 +527,7 @@
   Galtim                         x3  [duke; dux]  pp. 351r, p. 195, section 7, Demons and Daimons
   Gelbid                         x3  [demon named in circle of names; named in]  pp. p. 106, p. 207
   Hertanalit                     x3  [spiritus; spirit commanded by Saturday's]  pp. 357, 362, p. [91r]
+  Holy Spirit                    x3  []  pp. 161-172, 182, 92-96
   Lamisniel                      x3  [conjured spirit for constraint rituals; ]  pp. 271a, p. 112
   Lampoy                         x3  [demon named in circle of names; named in]  pp. p. 106, p. 207
   Lamsiyel                       x3  [conjured spirit; demonic spirit]  pp. 272a, p. 207
@@ -503,7 +554,6 @@
   Rimel                          x3  [spiritus habitatores aque]  pp. 21v, p. 207, p. 258, n.c
   Saduel                         x3  [demonic ruler; spirit]  pp. 166, 63r
   Saltim                         x3  [duke; dux]  pp. 342v–35r, p. 196, section 7, Demons and Daimons
-  Samael                         x3  [angel; archangel]  pp. 70r, 75r, 76v, Table E (37g), Table F (7th hour), p. 336–345
   Sarquiel                       x3  [angel]  pp. 362, 76v, p. 342
   Satola                         x3  [demon named in circle of names; named in]  pp. p. 106, p. 207
   Semiforas                      x3  [great name]  pp. 106v-107r, 42, Table A (no. 42)
@@ -516,6 +566,7 @@
   Tereol                         x3  [demon]  pp. 167, fol. 14v
   Toth                           x3  [prince of demons; princeps]  pp. 166, 63r
   Tyroy                          x3  [spiritus habitatores aque]  pp. 21v, p. 207, p. 258, n.c
+  Uriel                          x3  [archangel intercessor; Superior angel; a]  pp. 178, 298-299, 319
   Vsuel                          x3  [demonic ruler; spirit]  pp. 166, 63r
   Aa, Ely, Sother, Adonay, Cel, Sabaoth, Messyas, Alazabra, Osian x2  [ineffable names of the Creator; sacred n]  pp. n/a (example from no. 7), p.158
   Abarthiel                      x2  [princeps; prince of the 12th month]  pp. 359, p. [92r]
@@ -530,7 +581,9 @@
   Altramat                       x2  [demon]  pp. section 7, Demons and Daimons
   Alualuaht                      x2  [invoked in Saturday's conjuration; invok]  pp. 358
   Andegor                        x2  [princeps; prince of the 9th month]  pp. 359, p. [92r]
+  Angel of the Lord              x2  [Delivered Book and Notes to Solomon]  pp. 28-31, 38
   Aphaleon                       x2  [demonic ruler]  pp. 166
+  Archangels                     x2  []  pp. 18, 61
   Archidemath                    x2  [demon]  pp. section 7, Demons and Daimons
   Aries                          x2  []  pp. [98r]
   Aroch                          x2  [one of four spirits governing quadrants;]  pp. p. 102
@@ -542,31 +595,38 @@
   Barbectus                      x2  [demon; demon invoked alongside Mosectus ]  pp. p. 93
   Barmaly                        x2  [angel]  pp. 76v, p. 342
   Basyon                         x2  [true God; divine name invoked in binding]  pp. 45r (No. 27-A)
+  Baxhatau                       x2  [exciter of the North wind]  pp. 229, 245
   Bel                            x2  [infernal spirit]  pp. pp. 112–113
   Belferith                      x2  [demon]  pp. p. 207, section 7, Demons and Daimons
   Belsabuct                      x2  [prince of demons; demon invoked alongsid]  pp. p. 93
   Berit                          x2  [princeps demoniorum]  pp. [97v], [103v], p. 372
   Bicol                          x2  [demonic spirit]  pp. 37r fig., p. 207
+  Bileth                         x2  []  pp. 19, 34
   Bireoth                        x2  [variant of Byreoth; variant spelling of ]  pp. p. 98
+  Boel                           x2  []  pp. 209, 221-2, 222
   Bylet                          x2  [spirit (possibly alternate name for Lili]  pp. n/a (Munich Handbook Clm 849, Expt. 23), p. 207
   Byreoth                        x2  [benevolent spirit who sows concord; demo]  pp. p. 97
   Cafriel                        x2  [archangel/hour angel]  pp. 79r, 72v, p. 345–346
+  Cafziel                        x2  []  pp. 201, 209
   Camoy                          x2  [demon]  pp. p. 207, section 7, Demons and Daimons
+  Caphael                        x2  []  pp. 209, 270-271
   Cartutay                       x2  [one of four antipathetic names carved on]  pp. fol. 14r, p. 92
   Caspar                         x2  [One of the Three Magi; invoked in demon ]  pp. 48r, 51r, [98v], [102r]
   Caspar, Balthasar, Melchior    x2  [Three Kings invoked in conjurations; Thr]  pp. 49r, 51r, p. 374 (98v), p. 376–377, 379
   Castuel                        x2  [angelus mandans; angel mandating Saturn’]  pp. 357, p. [90v]
+  Casziel                        x2  [Leader of angels]  pp. 298-299, 67-68
   Cormes                         x2  [demon]  pp. [97v], section 7, Demons and Daimons
+  Corniger                       x2  [King of the south; King]  pp. 280, 319
   Cupido                         x2  [demon inscribed on image to arouse sexua]  pp. p. 104
   Cya                            x2  [invoked in Saturday's conjuration; invok]  pp. 357
   Danmals                        x2  [demonic spirit]  pp. 37r fig., p. 207
   Darail                         x2  [benevolent spirit who sows concord; demo]  pp. p. 97
-  Dardiel                        x2  [angel]  pp. 76v, p. 342
   Dies                           x2  [demon]  pp. [97v], section 7, Demons and Daimons
   Diles                          x2  [demon]  pp. [97v], section 7, Demons and Daimons
   Dilia                          x2  [demon]  pp. [97v], section 7, Demons and Daimons
   Dobel                          x2  [divine name in chain of invocations]  pp. 231–232, fol 3r
   Domiel                         x2  [divine name in chain of invocations]  pp. 231–232, fol 3r
+  Dominations                    x2  []  pp. 18, 61
   Dorayl                         x2  [variant of Darail; variant spelling of D]  pp. p. 98
   Duliatus                       x2  [demon inscribed on image to afflict legs]  pp. p. 104
   Dyacom                         x2  [benevolent spirit who sows concord; demo]  pp. p. 97
@@ -576,6 +636,7 @@
   Elam                           x2  [conjuring formula variant]  pp. 272a
   Eleyson                        x2  [Greek: ἐλέησον (‘have mercy’)]  pp. 167, 48r
   Eloym                          x2  [variant of Elohim; invoked in No. 27-B; ]  pp. 358, 51r
+  Euiraber                       x2  [minister in meridie; Attendant in the So]  pp. 278, 280
   Fabar                          x2  [demon]  pp. [97v], section 7, Demons and Daimons
   Fabni                          x2  [benevolent spirit who sows concord; demo]  pp. p. 97
   Falmar                         x2  [demonic name invoked for power]  pp. 167
@@ -588,6 +649,7 @@
   Folfitoy                       x2  [one of four antipathetic names carved on]  pp. fol. 14r, p. 92
   Fons                           x2  [divine epithet (‘the Fountain’)]  pp. 49v, [98r]
   Fornicator                     x2  [princeps demoniorum]  pp. [97v], p. 372
+  Four Angels                    x2  [revealers of orations; Keepers and affli]  pp. 14, 24
   Fritath                        x2  [demon]  pp. section 7, Demons and Daimons
   Fyrin                          x2  [spiritus habitatores aque]  pp. 22r, p. 256–257
   Fyron                          x2  [demonic spirit; named in protective circ]  pp. p. 207, p. 258, n.c
@@ -600,6 +662,7 @@
   Hayton                         x2  [king spirit]  pp. 75v, p. 341
   Hegergibet                     x2  [demon]  pp. section 7, Demons and Daimons
   Helyberp                       x2  [demon]  pp. section 7, Demons and Daimons
+  Hocrohel                       x2  [consulting angel]  pp. 51, page 12
   Ianua                          x2  []  pp. [98r]
   Illdegage                      x2  [princeps; prince of the 8th month]  pp. 359, p. [92r]
   Isaac                          x2  [patriarch]  pp. 317v, 60r, [59v]
@@ -607,11 +670,13 @@
   Jacob                          x2  [patriarch]  pp. 317v, 60r, [59v]
   Joth                           x2  [God-name in strap conjuration]  pp. 166
   kostolya, elogo, yetas         x2  [magic names invoked to summon horse in e]  pp. experiment no. 43, p. 75–76
+  Labadau                        x2  [Princeps of earth spirits; Princeps of t]  pp. 278, 280
   Lantrayth                      x2  [demonic spirit; variant spelling of Laut]  pp. p. 207, p. 260, n.b
   Latranoy                       x2  [demonic spirit]  pp. 37r fig., p. 207
   Lautrayth                      x2  [spiritus peccatoribus insistentes]  pp. 24r, p. 73–74
   Leutaber                       x2  [spirit]  pp. p. 248–250
   Macgmel                        x2  [princeps; prince of the 10th month]  pp. 359, p. [92r]
+  Malafer                        x2  [minister in occidente; Attendant in the ]  pp. 278, 280
   Mambrim                        x2  [demonic ruler; spirit]  pp. 63r
   Mansator                       x2  [one of four antipathetic names carved on]  pp. fol. 14r, p. 92
   Maratron                       x2  [angelus mandans; angel mandating Saturn’]  pp. 357, p. [90v]
@@ -626,6 +691,7 @@
   Meneglasar                     x2  [demonic spirit]  pp. 37r fig., p. 207
   Messyas                        x2  [divine title]  pp. 164, 48r
   Metraton                       x2  [angelus diei; angel of Sunday]  pp. 361, p. [92v]
+  Michrathon                     x2  []  pp. 201, 209
   Midain                         x2  [benevolent spirit who sows concord; vari]  pp. p. 98
   Mira                           x2  [invoked in Saturday's conjuration; invok]  pp. 358
   Mithiomo                       x2  [demon]  pp. [97v], section 7, Demons and Daimons
@@ -633,12 +699,16 @@
   Morel                          x2  [princeps; prince of the 6th month]  pp. 359, p. [92r]
   Moreth                         x2  [divine name in chain of invocations]  pp. 231–232, fol 3r
   Mosectus                       x2  [prince of demons; prince of demons invok]  pp. p. 93
+  Mulcifer                       x2  [minister in septemtrione; Attendant in t]  pp. 278, 280
   Naquiel                        x2  [angelus mandans; angel mandating Friday']  pp. 357, p. [90r]
   Nasaa                          x2  [adiutor; helper of Friday's image winds]  pp. 357, p. [90r]
   Nasat                          x2  [adiutor; helper of Friday's image winds]  pp. 357, p. [90r]
+  Nephilim                       x2  [interacted with humans pre- and postdilu]  pp. 237, pp. 231–234
   Neutrion                       x2  [demonic ruler]  pp. 166
+  Nimrod                         x2  [Most powerful Nephilim; god of Babylon; ]  pp. 237, 238, 249-253
   Noryoth                        x2  [demon]  pp. p. 207, section 7, Demons and Daimons
   O Brimer                       x2  [demon (unspecified)]  pp. CLM 849, experiment no. 10, p. 207
+  Oannes                         x2  [First teacher of Pagan religion; associa]  pp. 237, 239, pp. 234–235
   Ocel                           x2  [demon]  pp. fol 6v (circle), section 7, Demons and Daimons
   Oliromim                       x2  [named spirit; demonic spirit]  pp. 86 (note 38), p. 207
   Oliroomim                      x2  [spiritus peccatoribus insistentes]  pp. 24r, p. 73–74
@@ -658,10 +728,13 @@
   Pimaton                        x2  [one of four antipathetic names carved on]  pp. fol. 14r, p. 92
   Pist                           x2  [demon]  pp. [97v], section 7, Demons and Daimons
   Pluto                          x2  [governing spirit of a key ritual; infern]  pp. 44v (No. 26), experiment no. 26
+  Powers                         x2  []  pp. 18, 61
   Primogenitus                   x2  []  pp. [98r]
+  Principalities                 x2  []  pp. 18, 61
   Principium et Finis            x2  [divine title]  pp. [102r], [137v]
   Progemon                       x2  [demon]  pp. [97v], section 7, Demons and Daimons
   Puzanil                        x2  [one of four antipathetic names carved on]  pp. fol. 14r, p. 92
+  Pythoness                      x2  [oracle at Delphi]  pp. 210, p. 152–153
   Ragiel                         x2  [princeps; prince of the 2nd month]  pp. 359, p. [92r]
   Ralkal                         x2  [demonic spirit]  pp. 37r fig., p. 207
   Reuces                         x2  [demon inscribed on image to afflict targ]  pp. p. 104
@@ -680,10 +753,12 @@
   sancti et electi dei           x2  [saints]  pp. 317v, 60r, [54r]
   Sarabores                      x2  [venti; wind associated with Friday's ima]  pp. 357, p. [90r]
   Satael                         x2  [angelus mandans; angel mandating Saturn’]  pp. 357, p. [90v]
+  Saturn                         x2  [planet]  pp. 30, p. 71, 72, 87 (index)
   Sayp                           x2  [invoked in Saturday's conjuration; invok]  pp. 358
   Saytam                         x2  [king spirit]  pp. 75v, p. 340
   Seductor                       x2  [princeps demoniorum]  pp. [97v], p. 372
   Selutabel                      x2  [spirit]  pp. p. 248–250
+  Semiramis                      x2  [goddess figure; Central figure in post-d]  pp. 238, 239, p. xxiv (CONTENTS)
   Semoni                         x2  [divine name in chain of invocations]  pp. 231–232, fol 3r
   Serpens                        x2  []  pp. [98r]
   Sigtonia                       x2  [demonic spirit]  pp. 37r fig., p. 207
@@ -697,6 +772,7 @@
   Spiritus Sanctus               x2  [divine person]  pp. [54r], [136v], [98r]
   Syrama                         x2  [spirit]  pp. p. 248–250
   Tamafin                        x2  [spiritus iocundissimi]  pp. fol. 16r, p. 248–250
+  Tammuz                         x2  [fire god; god lamented in Syria/Palestin]  pp. 299–300, p. 179
   Tanenon                        x2  [princeps; prince of the 4th month]  pp. 359, p. [92r]
   Temptator                      x2  [princeps demoniorum]  pp. [97v], p. 372
   Terminas                       x2  [benevolent spirit who sows concord; demo]  pp. p. 97
@@ -704,12 +780,16 @@
   Theos                          x2  []  pp. 167, [102r]
   Thereoth                       x2  [benevolent spirit who sows concord; demo]  pp. p. 97
   Thobar                         x2  [demon]  pp. [97v], section 7, Demons and Daimons
+  Thrones                        x2  []  pp. 18, 61
   Trathacas                      x2  [adiutor; helper of Friday's image winds]  pp. 357, p. [90r]
+  Trocornifer                    x2  [minister in oriente; Attendant in the Ea]  pp. 278, 280
   Tubal                          x2  [demon inscribed on image to afflict targ]  pp. p. 104
   Tuditha                        x2  []  pp. 107r, 36v
   Tyroces                        x2  [demonic name invoked for power]  pp. 167
+  Venus                          x2  [planet]  pp. 30, p. 79-81, 86, 87, 106, 177 (index)
   Verbum                         x2  []  pp. [98r], [98r], [102r]
   Veritas                        x2  []  pp. [98r]
+  Virtues                        x2  []  pp. 18, 61
   Virtus                         x2  []  pp. [98r]
   Vita                           x2  []  pp. [98r]
   Vitulus                        x2  []  pp. [98r]
@@ -729,177 +809,215 @@
   Zambrim                        x2  [demonic ruler; spirit]  pp. 63r
   Zara                           x2  [demonic spirit]  pp. 37r fig., p. 207
 
-  MINOR/SINGLE-MENTION SPIRITS (721 spirits)
+  MINOR/SINGLE-MENTION SPIRITS (872 spirits)
   ──────────────────────────────────────────────────────────────────────────────────────
   Abat                          Abat (hour name)              Abays                       
   Abdenago                      Abgo, Safrit, Bos, Zelentes, Vm, Vom, Motmyo, Thitodens, Gemitias, Gana, Vresius, Pharachte, Foliath, Gebath, Dyrus, Virus, Vnyrus, Peamde, Febat, Gebat, Tyros, Vijas, Nubar, Azathi  Abgoth, Sanfrielis, Selentis, Vniueny, Vtimo, Geremittarum, Dydones, Rayma, Rofanes, Panyte, Fabath, Gallath, Dyrus, Fyrus, Virytus, Finibet, Arath
-  Abiniabyndo                   Abiniabyndo, Abyncola, Abracalos, Pyel, Thyel, Syel  Abracalos                   
+  Abiniabyndo                   Abiniabyndo, Abyncola, Abracalos, Pyel, Thyel, Syel  Aboumaleth                  
+  Abouzaba                      Abracalos                     Abuzoba                     
   Abymalib                      Abyncola                      Abyron                      
   Acuta                         Acynerim (Mars angel)         Adaptinor                   
   Adonav                        Adonav (variant of Adonay)    Adonay (in circle formula)  
   Adoray                        Adtulia                       Adyr                        
   Aepton                        Afah                          Aflas                       
   Afonei                        Aforax                        Agnibora                    
-  Agnus inmaculatus             Aguel                         Agyos                       
-  Alatuel                       Albilfael                     Albumav                     
-  Albumay                       Aler                          Algo                        
-  Algo (nocturnal hour)         Alleluia                      Aloe                        
-  Alpha                         Alpha et O / Alpha et O       Alrogen                     
-  Alssylayessus                 Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon, Vralchim  Altibayn                    
-  Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat, Sona  Alualia                       Alugor                      
-  Alul                          Amabel                        Amamim                      
+  Agnus inmaculatus             Agroueros (Agrus)             Aguel                       
+  Agyos                         Alatuel                       Albilfael                   
+  Albumav                       Albumay                       Albunalich                  
+  Aler                          Algo                          Algo (nocturnal hour)       
+  Alleluia                      Aloe                          Alpha                       
+  Alpha et O / Alpha et O       Alrogen                       Alssylayessus               
+  Althes, Cormes, Dies, Diles, Dilia, Fabar, Felsmes, Mithiomo, Molbet, Natheus, Onaris, Pist, Progemon, Thobar, Vmon, Vralchim  Altibayn                      Altramat, Archidemath, Discobermath, Fritath, Hegergibet, Helyberp, Pestiferat, Sona
+  Alualia                       Alugor                        Alul                        
+  Amabel                        Amabihel                      Amamim                      
   Amamni                        Amamnim                       Amaris                      
   Amicicia names (Malthayl, Caramel, etc.)  An                            Anabona                     
   Anagodyny                     Anathematon                   Anazana                     
-  Andyron                       Aneth                         angeli                      
-  Angels                        Anleyuz                       Apo lyn (Apolyon)           
-  Apollion                      Apollion, Arath, Astra, Damay, Erlain, Gana, Gebel, Lamair, Oor, Safrit, Tami, Taraor, Tatomofon, Thomo, Ym, Zanno/Zaimo  Apollon                     
+  Andyron                       Aneth                         The Angel                   
+  Angel to Solomon              angeli                        Anleyuz                     
+  Annedoti                      Apo lyn (Apolyon)             Apollion                    
+  Apollion, Arath, Astra, Damay, Erlain, Gana, Gebel, Lamair, Oor, Safrit, Tami, Taraor, Tatomofon, Thomo, Ym, Zanno/Zaimo  Apollon                       Apologia                    
   Apolyn                        Apostles                      Apostoli Christi            
-  Aquelyo                       Arath                         Archalia                    
-  archangeli                    Archangels (Gabriel, Michael, Raphael)  Arieth                      
-  Arpa                          Asaame/Asaomie/Asamye (angelic names)  Asef Caroth                 
+  Aquatic Spirits               Aquelyo                       Arath                       
+  Arcan                         Archalia                      archangeli                  
+  Archangels (Gabriel, Michael, Raphael)  Arieth                        Arpa                        
+  Asaame/Asaomie/Asamye (angelic names)  Asaïbi                        Asef Caroth                 
   Asmoday                       Asper                         Assassael                   
-  Astena                        Atal                          Athanathos / Athanathos     
-  Athon / Onay / Anay / Anathon  Athym                         Atlas                       
-  Atle                          Atrarayl                      Atyn                        
-  Atyn (nocturnal hour)         Audena                        Aurora                      
-  Austeron                      Ayos                          Ayos / Theos                
-  Azariel                       Azraro                        Babaia                      
-  Bal                           Balbieit, Zelans, Zelles, Dimedero, Cadar  Balthim                     
-  Baltim, Galtim, Saltim        Baraa                         Baramel                     
-  Barbaras                      Barian (divine name)          Baruch                      
-  Baruth                        Basal                         Baysyn                      
-  Baytan                        Beaali                        Beas                        
-  Beel                          Beheydraz                     Bel et Ebal                 
-  Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon  Benign spirits                Beolthoray                  
-  Berabut                       Bercca                        Berien                      
-  Berion                        Beror                         Beryen (also Berien)        
-  Bessabes                      Bethala, Pamelon, Anguis, Floris, Ereth, Alya, Cabyona, Ely, Eloy, Sadamay, Melgry, Asmyacre  Bezat                       
-  Bezlebuth                     black man (demon form)        Blemutum                    
-  Boel (Saturn angel)           Boreal                        Boreoth                     
+  Assassayel                    Astena                        Atal                        
+  Athanathos / Athanathos       Athitael                      Athon / Onay / Anay / Anathon
+  Athym                         Atlas                         Atle                        
+  Atrarayl                      Atyn                          Atyn (nocturnal hour)       
+  Audena                        Aurora                        Austeron                    
+  Ayos                          Ayos / Theos                  Azariel                     
+  Azelechias, Velozeos, Inoanzama, Samelo, Hotens, Sagnath, Adonay, Soma, Jezoehos, Hicon, Jezomethon, Sadaot  Azraro                        Baal                        
+  Baal Peor                     Babaia                        Bacchus (Ce Bacche/Broum)   
+  Bal                           Balbieit, Zelans, Zelles, Dimedero, Cadar  Balidet                     
+  Balthim                       Baltim, Galtim, Saltim        Baraa                       
+  Barachiel                     Baramel                       Barbaras                    
+  Barian (divine name)          Baruch                        Baruth                      
+  Basal                         Baysyn                        Baytan                      
+  Beaali                        Beas                          Beel                        
+  Beheydraz                     Bel et Ebal                   Belus                       
+  Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon  Belzebut                      Benign spirits              
+  Beolthoray                    Berabut                       Bercca                      
+  Berien                        Berion                        Beror                       
+  Beruth (Covenant)             Beryen (also Berien)          Bessabes                    
+  Bethala, Pamelon, Anguis, Floris, Ereth, Alya, Cabyona, Ely, Eloy, Sadamay, Melgry, Asmyacre  Bezat                         Bezlebuth                   
+  Bilta Niprut / Belit Nipru    Bilu Nipru / Bel Nimrod       black man (demon form)      
+  Blemutum                      Bodhisattvas                  Boel (Saturn angel)         
+  Bohel                         Boreal                        Boreoth                     
   Branar                        Bresis                        Britonia                    
-  Britonia, Bresis, Diton, Crasis, Sanete, Garbamion  Burnon                        Bylent                      
-  Byreoth (Bireoth)             Caatus                        Caci                        
-  Cados                         Cados (variant of Kadosh)     Caffan                      
-  Cafia                         Cafra                         Cal                         
-  Calius                        Caltraa (nocturnal hour)      Caltrua                     
-  Candas                        Caon                          Captiel = Caffriel          
-  Carab                         Carab, Riasteli, Careb, Basal, Mistal, Oronothel, Fabanin, Non, Va, Vatuel  Caramel                     
-  Carbara                       Careb                         Caritas                     
-  Caron (nocturnal hour)        Caror                         Caror (hour name)           
-  Cartel                        Cartutay, Momabel, Sobil, Geteritacon  Cason                       
-  Cassie                        Castyel                       Cead                        
-  Cebal                         Cedon                         Cedon, Zephata, Eloym, Eloyay
-  Cerbelli                      cherubin                      Cherubin / Seraphin         
-  Christus                      Cithe                         Coffossol, Remlestar, El    
-  Col                           Coltasia                      Conadiuro Famal             
-  Conassuor                     Conassuor (nocturnal hour)    Crasis                      
+  Britonia, Bresis, Diton, Crasis, Sanete, Garbamion  Buddha (as Mercury/Thoth)     Buddha (as Tath/Tat)        
+  Buddha (Sakya Muni)           Burnon                        Bylent                      
+  Bylol                         Byreoth (Bireoth)             Caatus                      
+  Caci                          Cados                         Cados (variant of Kadosh)   
+  Caffan                        Cafia                         Cafra                       
+  Cal                           Calius                        Caltraa (nocturnal hour)    
+  Caltrua                       Cama (Kham/Ham)               Cambores                    
+  Candas                        Cannes (Annedotus)            Caon                        
+  Captiel = Caffriel            Carab                         Carab, Riasteli, Careb, Basal, Mistal, Oronothel, Fabanin, Non, Va, Vatuel
+  Caramel                       Carbara                       Careb                       
+  Caritas                       Caron (nocturnal hour)        Caror                       
+  Caror (hour name)             Cartel                        Cartutay, Momabel, Sobil, Geteritacon
+  Cason                         Cassie                        Castyel                     
+  Cead                          Cebal                         Cedon                       
+  Cedon, Zephata, Eloym, Eloyay  Cerbelli                      cherubin                    
+  Cherubin / Seraphin           Chide                         Christus                    
+  Chrysor                       Chrysor (Hephaestus)          Cithe                       
+  Coffossol, Remlestar, El      Col                           Coltasia                    
+  Conadiuro Famal               Conassuor                     Conassuor (nocturnal hour)  
+  Crasis                        Cronus (Saturn, elder)        Cronus/Saturn               
   Cul                           Cundaz                        Cvrson                      
   Dad                           Dada                          Daghyel (Venus angel)       
-  Dalaph                        Dalas                         Dalfat                      
-  Damay                         Damayn (also Damay/Damayrt)   Dana                        
-  Danoe                         Darail (Dorayl)               Dasper                      
-  Dath                          Dator et Receptor             Dedeon                      
-  Demefin, Rodobayl, Tamafin, Abelutabel  Demon (unnamed)               demon summoned by the Spanish magician
-  Denior                        Deseryon                      Deus inuisibilis            
-  Devil / Satan / Enemy         Diton                         dominaciones                
-  Dor                           Dot                           Draco                       
+  Dagon                         daimonia / devils             Dalaph                      
+  Dalas                         Dalfat                        Damay                       
+  Damayn (also Damay/Damayrt)   Dana                          Danoe                       
+  Darail (Dorayl)               Dasper                        Dath                        
+  Dator et Receptor             Dea Myrionymus                Dedeon                      
+  Deihel                        Demefin, Rodobayl, Tamafin, Abelutabel  Demon (unnamed)             
+  demon summoned by the Spanish magician  Denior                        Derketo                     
+  Deseryon                      Deus inuisibilis              Devil (Diaboli)             
+  Devil / Satan / Enemy         Diana of the Ephesians        Dii Manes                   
+  Diton                         dominaciones                  Dor                         
+  Dot                           The Doune Murderers           Draco                       
   duces                         Dyacom (Dyacon)               Dyacon                      
   Dymas                         Ebely                         Egippia                     
   Egippia, Benoham, Beanke      Ego sum qui sum               Egyryon                     
   eight sailors                 El, Eloy, Elyon, Aloe, Sappa, Sother, Emanuel, Tetragramaton, Saday, Luamay, Athanatos, Ysos, Kyrie, Primogenitus, Vita, Finis, Via, Flos, Fons, Veritas, Sapiencia, Virtus, Paraclitus, Ego sum qui sum, Mediator, Agnus, Ouis, Vitulus, Serpens, Aries, Leo, Os, Verbum, Ianua, Ymago, Gloria, Lux, Sol, Splendor, Lapis angularis, Sponsus, Pastor, Propheta, Sacerdos, Immortalis, Lex, Rex, Christus, Pater, Filius, Spiritus Sanctus, Agla, Petra, Eternitas, Neon, Burnon, Parli, Caon, Aepton, Alpha et O, Omnipotens, Misericors, Caritas, Eternus Creator et Redemptor, Primus et Nouissimus, Dator et Receptor, Ayos, Otheos, Yschyros, Sanctus Deus, Fortis et Paciens, Iustus Iudex in vltimo die  Elioram / Elioram           
-  Eloe                          Eloem                         Elov                        
+  Elioun (Hypsistus)            Eliphamasay                   Eloe                        
+  Eloem                         Elomnia                       Elov                        
   Eloy (variant of Elohim)      Eloy / Eloyye                 Eloyay                      
   Elsyday                       Elthie                        Ely                         
   Ely, Eloy, Eloe               Elyas                         Elyon / Elyo / Eloye        
-  Emogeni, Thomo, Gyton, Sertugidis, Jubutzis  Erystion                      Etal                        
-  Eternitas                     Eternus Creator et Redemptor  Eureal                      
+  Emogeni, Thomo, Gyton, Sertugidis, Jubutzis  Epigeus (Autocthon, Ouranos)  Erystion                    
+  Etal                          Eternitas                     Eternus Creator et Redemptor
+  Eureal                        evil spirit                   evil spirits                
   Exclaui / Azeth               exercitus celestis            exercitus infernalis        
-  Eyzaserie                     Ezelphares / Ezelpha-[54r] tes  Ezelphates                  
-  Fabanin                       Fabin                         Fabni (Fabin)               
-  Falduc                        Fastich                       Fatael                      
-  Fauelyon                      Ficary                        Fiel                        
-  fifteen spirits               filius dyabuli                Flegely                     
-  Flos                          Fords et Paciens              Fornicator, tempter, seducer, possessor of humans
-  Fortis                        Frigonay                      Fulmar                      
-  Fustaul                       Fyriel (also Fyriel/Mememil/Taraor)  A G L A                     
-  Gaeneron                      Galtym                        Gana                        
+  Eyzaserie                     Ezamamos, Hazalat, Ezityne, Hezemechel, Czemomechel, Zamay, Zaton, Ziamy Nayzaton, Hyzemogoy, Jeccomantha, Jaraphy, Phalezeton, Sacramphal, Sagamazaim, Secranale, Sacramathan, Jezennalaton Hacheriatos, Jetelemathon, Zaymazay, Zamaihay Gigutheio Geurlagon, Garyos  Ezelphares / Ezelpha-[54r] tes
+  Ezelphates                    Fabanin                       Fabin                       
+  Fabni (Fabin)                 Falduc                        familiar spirits            
+  Fastich                       Fatael                        Fauelyon                    
+  Ficary                        Fiel                          fifteen spirits             
+  filius dyabuli                Flegely                       Flos                        
+  Fords et Paciens              Fornicator, tempter, seducer, possessor of humans  Fortis                      
+  Frigonay                      Fulmar                        Fustaul                     
+  Fyriel (also Fyriel/Mememil/Taraor)  A G L A                       Gaeneron                    
+  Galtym                        Gama                          Gana                        
   Garbamion                     Garglale                      Garoen                      
-  Gaulyar                       Gebelsey                      GebeP (Gebel)               
-  Gehim                         Gemeloy                       Geminiel                    
-  Genuum                        Geremon                       Gerotal                     
-  Gespar                        Giraca                        Gloria                      
-  Gna                           Gnad                          Gospar                      
-  Gospar, Dasper, Gespar, Lapir, Sparsis, Nota, Caliusf Asper  Guabas (divine name)          Guabrath                    
-  Guardian angel                Guitipabey                    Gysay                       
-  Ha                            Haa (divine name)             Haat                        
-  Hactanaabit                   Hami                          Hami (nocturnal hour)       
-  Har                           Harat                         Hasas                       
-  Hassahaa                      Hassas                        Hate                        
-  hateful and malignant, invidious and discordant demons  Haya                          Haybaly                     
-  He / Hee                      ho ōn                         Hoaz                        
-  Hostium / Ianua / Petra / Lapis  Hyaalym                       Hyon                        
-  Hyon (hour name)              Hytatol                       Iaspar, Smoagel             
-  Icibores (speaker in conjuration)  Ignaborum                     Ihesus Christus             
-  Ihesus Nazarenus              Im (Ym)                       Immortalis                  
+  Gaulyar                       Ge (Terra)                    Gebelsey                    
+  GebeP (Gebel)                 Gedo bonay                    Gehim                       
+  Gelomiros                     Gemeloy                       Geminiel                    
+  Geneolia                      Genuum                        Geremon                     
+  Gerotal                       Gespar                        Gezemothon, Oronathian, Heyatha, Aygyay, Lethasihel, Iaechizliet, Gerohay, Gerhomay, Sanoaesorel, Sanasathel, Gissiomo, Hatel, Segomasay, Azomathon, Helomathon, Gerochor, Hojazay, Samin, Heliel, Sanihelyel, Siloth, Silerech, Garamathal, Gesemath, Gecoromay, Gecorenay, Samyel, Samihahel, Hesemyhel, Sedolamax, Secothamay, Samya, Rabiathos, Avinosch, Annas
+  Gezomelion Samach, Semath, Cemon, Gezagam, Gezatrhin, Zheamoth, Zeze Hator Sezeator Samay Sannanda, Gezyel, Iezel, Gaziety, Hel, Gazayethyhel  Ghemschid / Djemschid         Giraca                      
+  Gloria                        Gna                           Gnad                        
+  Gospar                        Gospar, Dasper, Gespar, Lapir, Sparsis, Nota, Caliusf Asper  Guabas (divine name)        
+  Guabrath                      Guardian angel                Guitipabey                  
+  Guth                          Gysay                         Ha                          
+  Haa (divine name)             Haat                          Hactanaabit                 
+  Ham/Ammon                     Hami                          Hami (nocturnal hour)       
+  Hanael                        Hanahel                       Hanazay, Sazhaon, Hubi, Sene, Hay, Ginbar, Ronail, Selmore, Hyramay, Lobal, Yzazamael, Amathomatois, Yaboageyors, Sozomcrat, Ampho, Delmedos, Geroch, Agalos, Meihatagiel, Secamai, Sabeleton, Mechogrisces, Lerirenorbon
+  Har                           Harat                         Harit                       
+  Hasas                         Hassahaa                      Hassas                      
+  Hate                          hateful and malignant, invidious and discordant demons  Haya                        
+  Haybaly                       He / Hee                      Hea                         
+  Hermes/Thoth                  Hesa (Hesus)                  ho ōn                       
+  Hoaz                          Holy Angels                   Holy Spirit (Spiritus sanctus)
+  Horus                         Hosel, Jesel, Anchiator, Aratol, Hasiatol, Gemor, Gesameor  Hostium / Ianua / Petra / Lapis
+  Hu (Celtic god)               Hurathapel                    Hyaalym                     
+  Hyon                          Hyon (hour name)              Hypsuranius                 
+  Hytatol                       Iaspar, Smoagel               Icibores (speaker in conjuration)
+  Ignaborum                     Ihesus Christus               Ihesus Nazarenus            
+  Im (Ym)                       Immortalis                    Incubus and Succubus        
   Infernal spirits              Ioiloth / Ioiloth             Ioseph                      
-  Ioth / Ioth                   Ioth, Nabnoth                 Istath                      
-  Istath, Hoaz, Abays, Fastich  Iustus Iudex in vldmo die     Jany                        
-  Jaspar                        Jesus Nazarenus               Karon                       
-  Karon (hour name)             king (spirit form)            king of the clouds          
+  Ioth / Ioth                   Ioth, Nabnoth                 Isis                        
+  Istath                        Istath, Hoaz, Abays, Fastich  Iustus Iudex in vldmo die   
+  Jany                          Jaspar                        Jesus Nazarenus             
+  Jupiter                       Karon                         Karon (hour name)           
+  Kasiel                        king (spirit form)            king of the clouds          
   king of the east              Kirios                        Kyrie                       
   Lamair, Tentetos, Leutaber, Rimasor  Lantrayth / Lautrayth / Lutrayth  Lapir                       
   Lapis angularis               Latol                         Latol (nocturnal hour)      
   Lautrayth (also Lantrayth)    Lautrayth (also Lutrayth)     Layalym                     
-  Leo de triba Juda (Lion of Judah)  Leorphahel                    Leron                       
-  Leron (nocturnal hour)        Leutaber (Zeugaber)           Lex                         
-  Lilith (also Lilit / Lylet)   Litor Onor                    Luamay                      
-  Lucas, Marcus, Matheus, Ioannes  Lune (Moon) names (Lyara, Lyalguana, etc.)  Lutrayth, Feremim, Oliroomim
-  Lux                           Lytim, Ygrim, Andyron, Vzmyas, Ytelteos, Zymens, Bylent, Baruth  Lytoy                       
-  Madam                         Madrath filius Arath          Madrath, filius Arath       
-  magister                      magister omnium scienciarum   Mahyra                      
-  Malchaam                      Malign demons                 malign spirits              
-  maligni spiritus              Maligni spiritus / infernales principes / aereas potestates  Malthayl                    
-  Mambres                       Manitaynus                    Manith                      
-  Maraloch                      Mariodo                       Martyres                    
+  Lemogethom, Hegemochom, Hazachay Hazatha, Azamachar, Azacham, Cohathay, Geomothay Logomothay, Zathana, Lachanma, Legomezon, Legornozon, Lembdemachom, Zegomaday, Haihanayos, Hatamam, Helesymom, Vagedaren, Vadeyabar, Lamnanath, Lamadai, Gomongchor, Gemecher, Ellemay, Gecromal, Gecrohahi, Colomanos, Colomaythos  Leo de triba Juda (Lion of Judah)  Leorphahel                  
+  Leron                         Leron (nocturnal hour)        Leutaber (Zeugaber)         
+  Lex                           Lilith (also Lilit / Lylet)   Litor Onor                  
+  Luamay                        Lucas, Marcus, Matheus, Ioannes  Lune (Moon) names (Lyara, Lyalguana, etc.)
+  Lutrayth, Feremim, Oliroomim  Lux                           Lytim, Ygrim, Andyron, Vzmyas, Ytelteos, Zymens, Bylent, Baruth
+  Lytoy                         Machotan                      Madam                       
+  Madrath filius Arath          Madrath, filius Arath         magister                    
+  magister omnium scienciarum   Mahyra                        Maimon                      
+  malaparos                     Malchaam                      Malign demons               
+  malign spirits                maligni spiritus              Maligni spiritus / infernales principes / aereas potestates
+  Maloht                        Malthayl                      Mambres                     
+  Manitaynus                    Manith                        Maraloch                    
+  Mariodo                       Mars                          Martyres                    
   Masair, Lotobor, Tatomofon, Sirama  Mascifm                       Maslatym                    
   master (spirit)               master spirit (unspecified name)  Mastiesel                   
   Matalot                       Matha                         Mathail                     
   Mathiel                       Meloth / Meloth               Melyon                      
   Mememil (also Melemil)        Mememil (Melemil)             Memoyr (Memoir)             
-  Mendie                        Messias / Messyas             Michael, Gabriel, Raphael   
-  Micheal                       Midam                         Midam (Midain)              
-  Minon                         Mirus (Mirael)                Misac                       
-  Misericors                    Mistal                        Mittaron                    
-  Mittaton                      Moyn                          Muriel                      
-  Mutaron                       Naamay                        Naamay, Syy                 
-  Naaya                         Nabnoth                       Nafaca                      
-  Nassura                       Nassura (hour name)           Nathalon                    
-  Nathalon (hour name)          Natho                         Nectius                     
-  Nectius (nocturnal hour)      Neon                          Neyilon                     
-  Nocma                         Nomen discipuli               Nomen magistri              
-  nominam                       nominem                       Non                         
-  Nota                          Notooa                        Occinomos                   
-  Oliromim / Oliroomim          Omnipotens                    Onel, On, Adonay, Emanuel   
-  Onela                         Onoydeon / Onoyteon           Oronothel                   
+  Mendie                        Mercury                       Messias / Messyas           
+  Mextyura                      Michael, Gabriel, Raphael     Micheal                     
+  Midam                         Midam (Midain)                Miel                        
+  Milalu                        Minon                         Mirus (Mirael)              
+  Misabou                       Misac                         Misericors                  
+  Mistal                        Mittaron                      Mittaton                    
+  Moloch                        The Moon                      Moyn                        
+  Muriel                        Mutaron                       Mychael                     
+  Naamay                        Naamay, Syy                   Naaya                       
+  Nabnoth                       Nafaca                        Nassura                     
+  Nassura (hour name)           Nathalon                      Nathalon (hour name)        
+  Natho                         Nectius                       Nectius (nocturnal hour)    
+  Neon                          Nephilim Prince of Egypt and Babylon  Neyilon                     
+  Nin                           Nocma                         Nogahel (Nogahem)           
+  Nomen discipuli               Nomen magistri                nominam                     
+  nominem                       Non                           Nota                        
+  Notooa                        Occinomos                     Oliromim / Oliroomim        
+  Omnipotens                    Onel, On, Adonay, Emanuel     Onela                       
+  Onoydeon / Onoyteon           Orion (mythological)          Oronothel                   
   Orophaniel (Lunar angel)      Osatietas                     Osendior                    
   Otaizomos / Occinomos         Otius                         Ouis                        
-  Ovis                          Oymelor, Symofos, Manoir, Faubair  Palicos                     
-  Paluo                         Panite                        Panthon                     
-  Pantocrathon                  Pantrathon / Pantrather       Parclena                    
-  Parli                         Parsail                       Pastor                      
-  Pastor (Jupiter angel)        Patheon                       Pedyoth                     
-  Peripaos (Peripaos)           Pila                          Pneumaton                   
+  Ourouel                       Ovis                          Oymelor, Symofos, Manoir, Faubair
+  Pahamcociel                   Palicos                       Paluo                       
+  Panite                        Panthon                       Pantocrathon                
+  Pantrathon / Pantrather       Parclena                      Parli                       
+  Parsail                       Pastor                        Pastor (Jupiter angel)      
+  Patheon                       Pedyoth                       Peripaos (Peripaos)         
+  Phlegyae                      Pila                          Pneumaton                   
   Porbayl                       Possessor hominum             Poterestates / Potestates   
   potestates                    Powerful, magnificent, and illustrious spirits  Prearraton / Prameliwz / Premelus
-  Premelus / Premelus           Primus et Nouissimus          princes of the hand         
+  Premelus / Premelus           Primachia                     Primus et Nouissimus        
+  prince of demons              Prince of Evil                princes of the hand         
   princes of the thumb/nail     principatus                   Principatus / Throni / Dominaciones
   Principium / Primogenitus     Progeneri, Mutimo, Possunt, Thomopest, Vtany, Votanes, Filij, Fibos, Fibet, Baruth, Sachith, Propiietas, Voltam, Panyte, Farum, Cubarum, Crutines, Tyrygel, Dyrus, Formys, Fembusalk, Berith, Sathanas  Propheta                    
   Prophets                      Pumiotor                      Puzanil, Pimaton, Folfitoy, Mansator
   Pyel                          Pytalas                       Q Alatuel                   
   Raagor                        Rabuel                        Rabuel, Astena, Hytatol     
-  Raccedi                       Ralaz                         Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim, Lodoni
-  Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim, Lodoni  red bridle horse              Regale                      
+  Raccedi                       Ralaz                         Rama                        
+  Raphael / Anael / Michael / Gabriel  Raquiel                       Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim, Lodoni
+  Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim, Lodoni  Raziel                        red bridle horse            
+  Regale                        Rephaim                       Rephaim / Zuzim             
   Rex                           rex filius dyabulD            Riasteli                    
   Ristel                        Rodobayl (Rodobail)           Rosahal                     
   Rotunda                       Saaca                         Saana                       
@@ -909,69 +1027,81 @@
   Sadadat (hour name)           Sadav (variant of Saday)      Sadoy / Saday               
   Safaten                       Safrit                        Sala                        
   Sala (hour name)              Salaij                        Salaij (nocturnal hour)     
-  Salamia (Solar angel)         Salodaya                      Salvator                    
-  Samahil                       Samorie                       Samuel                      
-  Sanctae Virgines              sancti dei                    sancti virgines             
-  Sanctus Deus                  Sanete                        Sanyel                      
-  Sapiencia                     Sapiencia / Virtus            Sapientia                   
-  Sappa                         Sarafem, Custyeli             Saramey                     
-  Sarastan                      Saroten                       Sarphiel                    
-  Sarpiel                       Sartquiel                     Sartquiel (Satraquel)       
-  Sassa                         Satan (Sathan)                Satan / Sathan              
-  Satan/Sathan                  Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda  Sathane                     
-  Sathauel                      Saturn                        Satyel                      
+  Salamia (Solar angel)         Salguiel                      Salodaya                    
+  Salvator                      Samahel                       Samahil                     
+  Samaym                        Samiel                        Samorie                     
+  Samuel                        Samyel                        Sanctae Virgines            
+  sancti dei                    sancti virgines               Sanctus Deus                
+  Sanete                        Sanyel                        Sapiencia                   
+  Sapiencia / Virtus            Sapientia                     Sappa                       
+  Sarafem, Custyeli             Saramey                       Saranana                    
+  Sarastan                      Saripiel                      Saroten                     
+  Sarphiel                      Sarpiel                       Sartquiel                   
+  Sartquiel (Satraquel)         Sassa                         Satan (Sathan)              
+  Satan / Sathan                Satan/Sathan                  Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda
+  Sathane                       Sathanos                      Sathauel                    
+  Sathquyel                     Satiel                        Satyel                      
   Schyros / Schyros             Sebegyol                      Sebely                      
-  Sefa                          Segeuratetho                  Selutabel (Belutabel)       
-  Semegibetelye                 Semiforas (Shem ham-M’forash)  Sepmelamaton                
-  Seralabelis                   seraphin                      Serbaton                    
-  Sereaye                       Setgaboy                      Shoeth / Hebatit / Het / Agla / Jocht / Othot / Vanecht / Nabuthi
-  Siego                         Silitol                       Simofor                     
-  Sinner-attending spirits      Sithothith                    six spirits                 
+  Sefa                          Segeuratetho                  seirim                      
+  Selutabel (Belutabel)         Semegibetelye                 Semiforas (Shem ham-M’forash)
+  Semiramis (Rhea)              Sepmelamaton                  Seralabelis                 
+  seraphin                      Serbaton                      Sereaye                     
+  Serpent                       Serpent god / Satan           Setgaboy                    
+  Seth (Egyptian god)           Shoeth / Hebatit / Het / Agla / Jocht / Othot / Vanecht / Nabuthi  Siego                       
+  Silitol                       Simofor                       Sinner-attending spirits    
+  Sithothith                    Siva                          six spirits                 
   Smoagel                       Sol                           Sothei                      
   Sparsis                       spirit (unnamed horseman)     spirit in horseman form     
-  spirits of Saturn             Spirits who provide magic ship  Spiritualis Paraclitus      
+  spirit of divination (Python)  spirits                       Spirits of Fire             
+  spirits of Saturn             Spirits of the Air            Spirits of the air and earth
+  spirits of the dead           Spirits who provide magic ship  Spiritualis Paraclitus      
   spiritus equus                Spiritus infernales           Spiritus promptus et ydoneum in omni sciencia
   Spiritus qui portet michi aurum et argentum denarios  Spitalote                     Splendor                    
   Sponsus                       Squire spirits                St. John the Evangelist     
   St. Mary                      Stelpha                       Stigisl                     
   Stimlamathon / Stimulamaton   stirps Dauid (Root of David)  Stygeloy                    
-  Subae (divine name)           Subseloy                      Svcax                       
-  Sydrac                        Sydrac, Misac, Abdenago       Syel                        
-  Symofor                       Symofor (Simofor)             Sypro                       
-  Syrama (Sirama)               Syy                           Tafat                       
+  Subae (divine name)           Subseloy                      The Sun                     
+  Sun god                       Svcax                         Sydrac                      
+  Sydrac, Misac, Abdenago       Syel                          Symofor                     
+  Symofor (Simofor)             Sypro                         Syrama (Sirama)             
+  Syy                           Taautus (Thoth/Hermes)        Tafat                       
   Tafat (nocturnal hour)        Talius                        Tamafrn                     
   Tamhut                        Tamhut (hour name)            Tamy                        
   Taob                          Taraor (also Tarator)         Taraor (Tarator)            
   Tariel                        Tariel (hour name)            Tarquiel                    
-  Tartarath                     Tasagaf                       Terayl                      
-  Tereoth                       Terminas (Termines)           Termines                    
-  Teth / Teth                   Thereoth (Tereoth)            Thomo                       
-  three maximi reges            throni                        Thyel                       
-  Thytagora (Mercury hour angel)  Tomitat                       Tranauit (also Tranayrt/Tramayrt)
+  Tartarath                     Tasagaf                       Teotl (Mexican deity)       
+  Terayl                        Tereoth                       Terminas (Termines)         
+  Termines                      Terrestrial and Infernal Spirits  Teth / Teth                 
+  Teutates                      Theon, Haltanagon, Haramalon, Zamoyma, Chamasal, Jeconamril, Harionatar, Jechomagol, Gela Magos, Kemolihot, Kamanatar, Hariomolatar, Hanaces, Velonionathar, Azoroy, Jezabali  Thereoth (Tereoth)          
+  Thomo                         Thoth (Hermes)                three maximi reges          
+  throni                        Thyel                         Thytagora (Mercury hour angel)
+  Titans                        Tomitat                       Tranauit (also Tranayrt/Tramayrt)
   Trinitas Sancta               Tubairum                      Tvroces                     
   Twueries                      Tyaurax                       Tyboel                      
-  Tymelyy                       Uralchim                      Uriel, Raguel, Seraqael, Haniel
-  Usyr                          Va                            Vabros                      
-  Vambal                        Varo                          Vasas                       
-  Vatuel                        Vegeido                       Venus                       
+  Tymelyy                       Typhon                        Uralchim                    
+  Uriel, Raguel, Seraqael, Haniel  Usyr                          Va                          
+  Vabros                        Vambal                        Varo                        
+  Vasas                         Vatuel                        Vegeido                     
   Verbum / Salus / Angelus / Sponsus  Vermis / Athanatos / Kyrios   Via                         
   Virgin Mary (feast of the Assumption)  virtutes                      virtutes celestes           
   Visio                         Vitulus / Serpens / Aries / Leo  Vmeloth (Umeloth)           
   Vmon, Progemon, Mithiomo, Pist, Vralchim, Althes, Panite, Fabar, Thobar, Cormes, Felsmes, Diles, Dilia, Dies, Onaris  Volach                        Vralchim                    
   Vsion / Vsyion                Vsy / Vsyion                  Vzmyas                      
-  Water-dwellers                Wiez                          Ya / Yayay                  
-  Yada                          Yafaa, Safaa, Alleya, Hayala, Haya, Halix, Hayul, Ataya, Hytoia, Saffetaba  Yaffla                      
-  Yamhor                        Yan                           Yan (hour name)             
+  Water-dwellers                Wiez                          Wodan (Mexican deity)       
+  Ya / Yayay                    Yada                          Yafaa, Safaa, Alleya, Hayala, Haya, Halix, Hayul, Ataya, Hytoia, Saffetaba
+  Yaffla                        Yama                          Yamhor                      
+  Yammax                        Yan                           Yan (hour name)             
   Yaneaa                        Yayn (hour name)              Yca                         
   Yegeron                       Yemat                         Yfla                        
   Ygrim                         Yhah (YHWH-related)           Yhwh-related names (Eye, Yhaa, etc.)
   Ymago                         Ymas                          Ymas / Ymas                 
   Ynissamon (divine name)       Ypation                       Yschyros                    
   Ysos                          Ysyornus                      Ytelteos                    
-  YVE                           YVEX                          Zaia                        
-  Zaia (nocturnal hour)         Zambrim et Mambrim            Zaraimayl                   
-  Zenit                         Zephata                       Zephirim                    
-  Zymens                      
+  Yturaihel                     YVE                           YVEX                        
+  Zaia                          Zaia (nocturnal hour)         Zambrim et Mambrim          
+  Zaraimayl                     Zenit                         Zephata                     
+  Zephirim                      Zerbanit                      Zobha                       
+  Zoroaster (Chaldean)          Zymens                      
 
 ==========================================================================================
   PART III: DEMONIC HIERARCHY & ORGANIZATION
@@ -1022,6 +1152,7 @@
     lylet                     --[commanded-by             ]--> zelles
     oraphaniely               --[commanded-by             ]--> gabriel
     apolin                    --[commands                 ]--> master spirit
+    beelzebub                 --[commands                 ]--> spirits
     berith                    --[commands                 ]--> master spirit
     exorcista                 --[commands                 ]--> maligni spiritus
     king of the clouds        --[commands                 ]--> duces
@@ -1106,10 +1237,19 @@
   DIRECTIONAL ASSIGNMENTS:
   ──────────────────────────────────────────────────────────────────────────────────────
     east           : Berith
+    north winds, ruling in the East: Barthan
     orientem (east): Apolin
+    southwest      : Anael
     west           : Firiel
     north          : Taraor
     south          : Melemil
+    Northern part  : Saturn
+    Southwest      : Venus
+    Southeast      : Jupiter
+    South          : Mars
+    Northwest      : Mercury
+    West           : The Moon
+    East           : The Sun
 
   PLANETARY / DAY ASSIGNMENTS:
   ──────────────────────────────────────────────────────────────────────────────────────
@@ -1154,13 +1294,14 @@
     Atlas                | Day: diei sabbati
     Metraton             | Day: dies dominica
     Yaspel               | Day: dies secundus
+    Barthan              | Planet: Sun
     Cafriel              | Planet: Saturn
     Mathael              | Planet: Mercury
 
 
 ==========================================================================================
   PART IV: RITUALS, EXPERIMENTS & PROCEDURES
-  212 unique rituals from the Munich Handbook sources
+  323 unique rituals across all 5 grimoire sources
 ==========================================================================================
 
   Munich Handbook (CLM 849)
@@ -1195,6 +1336,14 @@
     "Our necromantic manual in Clm 849 includes four experiments said to induce
     love..."
     Connected to: conjuration of satan/mirage, liber consecracionum, list of spirits, illusionist experiments, love magic ritual (no. 3), table b
+
+  Ars Notoria
+    Purpose: contains all arts and sciences in brief notes
+    Pages: 1, 7, 16, p.18–19
+    "He thus sought to renew the ‘heresy and sorcery’ known as the ars notoria, which
+    involves the use of special figures, contemplation of these figures a"
+    "ARS / Notoria / The NOTORY Art of Solomon"
+    Connected to: solomon, apollonius, all arts, lemegeton, general abilities, note (of grammar)
 
   Rawlinson necromantic manuscript
     Pages: 58–60, p. 206, p. 80–81
@@ -1242,6 +1391,20 @@
     factum per ix dies, erit liber consecratus…"
     Connected to: ihesus christus, experimentum, confiteor, psalmus 101, psalmus 32, psalmus 37
 
+  exorcism
+    Pages: 17, 21, 275n, 289, 291, p.26
+    "What we now call exorcism was practised by an individual, usually a cleric... who
+    addressed demons with formal commands..."
+    "exorcism, 17, 21, 275n, 289, 291"
+    Connected to: conjuring
+
+  human sacrifice
+    Pages: 249-251, 345-346
+    ""This, as already pointed out, seems to have been the origin of human sacrifice."
+    "These victims... were usually confined to captives taken in war, slaves and
+    criminals"
+    Connected to: appeasement_of_gods, cronus/saturn/cush, baal and moloch
+
   Key of Pluto
     Purpose: opening all locks
     Pages: 26, 39, 41
@@ -1259,6 +1422,15 @@
     Purpose: marks magician’s position in circle
     Pages: CLM 849, experiments nos. 3,7,9,12, p. 206
     "...the term Locus magistri (nos 3, 7, 9, 12) or simply Magister..."
+
+  magic circle
+    Purpose: basis for invoking spirits; providing the 'greatest fortification' against spiri
+    Pages: 30, page 14
+    "might these have inspired Honorius to design his magic circle with a sword for
+    each planet, stationed at seven directions around the perimeter?"
+    "A representation of this “map of the universe” is the basis for the magic circle
+    used for invoking spirits."
+    Connected to: munich handbook (clm 849), de nigromancia (roger bacon), liber honorius, caesarius of heisterbach, spirits, rawlinson necromantic manuscript
 
   Malleus maleficarum
     Pages: 5, 86, 155, section 7, Demons and Daimons
@@ -1289,6 +1461,14 @@
     recipes for madness in Picatrix"
     Connected to: munich handbook, thabit ibn qurra’s de imaginibus, astral magic
 
+  purification
+    Pages: 40, 57, 111, 153, 165, 239, 127-133, 173, 225
+    "A twenty-day purification comes next, involving attending mass, and reciting
+    certain prayers"
+    "purification, 57, 111, 153, 165, 239; first, 127-133; second, 173; prayers of,
+    223; of the air, 225"
+    Connected to: incense
+
   Rawlinson MS D 252
     Pages: 24, 42–4, 56, 61, 100, 107, 110, 131, 140, 158, 159, 171, 175, footnotes (e.g., n.37, 52)
     "Compare the wording of the conjuration in Bodleian Library MS Rawlinson D 252..."
@@ -1301,22 +1481,72 @@
     Pages: 49v-50r
     "Karacteres isti [5Or] scribendi sunt vt infra docetur: A, Q,- O, P, E, V."
 
+  Accadian magic/necromancy
+    Pages: p. 190
+    ""the religion which he taught... consisted of the Magic, Sorcery, Demon and
+    Nature worship of the Accadians, the texts and incantations of which... co"
+
   AGLA
     Pages: p. 120
     "writes on it the letters ‘AGLA’... 'Lord Jesus Christ, king of glory, send us
     three angels to tell us the truth and not falsehood in all matters about"
     Connected to: angelic invocation ritual, circulus, magic circle, tetragrammaton, conjurations
 
-  ars notoria
-    Pages: p.18–19
-    "He thus sought to renew the ‘heresy and sorcery’ known as the ars notoria, which
-    involves the use of special figures, contemplation of these figures a"
-    Connected to: mysterious and presumably demonic names
+  All Saints
+    Pages: 47
+    "...the Church of England...clings devoutly to All Saints."
+
+  All Souls
+    Pages: 47
+    "Wherever the Roman Catholic Church exists, solemn Mass for All Souls is said on
+    the 2nd November..."
+
+  Alms
+    Purpose: to achieve success/mercy
+    Pages: 125, 126
+    "cheerfully give many alms"
+
+  Ancestor worship (Chinese)
+    Pages: 154–155
+    "There is also a special day set apart for the worship of their ancestors by the
+    Chinese, viz., the fifteenth day of their seventh month..."
+    Connected to: sraddha
+
+  Anthesteria
+    Pages: 48
+    "A feast called the 'Anthesteria' was also celebrated at Athens on February
+    llth-13th, in honour of Bacchus, who was identical with the Egyptian Osiris"
+
+  Apporeta
+    Pages: p. 26 (CONTENTS)
+    "The dread secret or "Apporeta"—Revelation of the god as the Serpent"
+    Connected to: greater mysteries
+
+  The Ark
+    Pages: p. xxiv (CONTENTS)
+    "The Ark a symbol of Christ—Events of the Deluge incorporated with the revived
+    Idolatry—The Ark became the symbol of the goddess"
 
   Asperges me, domine, ysipo
     Purpose: aspergillum rite in treasure ritual
     Pages: 106r
     "asperge te aqua benedicta, dicens antyfonam, Asperges me, domine, ysopo..."
+
+  Assay
+    Purpose: first part of a key Oration, used before speech or study
+    Pages: 20
+    "the first and chiefest thing to be understood therein... the Oration before the
+    second Chapter, it to be used long before every speech, the beginning "
+
+  Aya Marca
+    Pages: 47
+    ""The month...is called 'Aya Marca,' from 'Aya', a 'corpse', and 'Marca',
+    'carrying in arms', because they celebrated the solemn festival of the dead w"
+
+  Baal fires
+    Pages: p. 179
+    ""Similar Baal fires take place still in Ireland on June 24th... children are
+    thrown across it""
 
   Baptism
     Purpose: source of authority over demons
@@ -1325,17 +1555,60 @@
     baptismo"
     Connected to: authority_over_demons, deluge
 
+  bed surrounded by ashes
+    Purpose: critical sleep visions
+    Pages: 40
+    "you prepare a bed surrounded by ashes with divine names written therein. This is
+    the stage for critical sleep visions."
+
+  Beltane fire-jumping
+    Pages: p. 179
+    ""men and women assemble round a fire at an ancient Druidical circle of stones;
+    after casting lots, one has to jump through the fire... This takes plac"
+
   Bismille araathe
     Pages: p.159
     "One notable exception is a conjuration given in pseudo-Chaldean (no. 18):
     Bismille araathe…. This formula actually derives from an Arabic protoype: Bi"
     Connected to: quranic basmala
 
+  blessing of salt
+    Pages: 18
+    "the text quotes the blessing of salt, which is a traditional part of Western or
+    Roman ritual."
+
   bond of Solomon
     Purpose: extended conjuration used to compel spirits who refuse to cooperate
     Pages: n/a (Munich Handbook Clm 849, Expt. 33)
     "...the master reads the unbreakable ‘bond of Solomon’, an extended conjuration."
     Connected to: spirit refusal
+
+  brazen serpent (Moses)
+    Purpose: symbol of sin crucified
+    Pages: p. 378–379
+    "the brazen serpent was not a symbol of Christ in itself, but of sin crucified by
+    Christ."
+
+  Canaanite nations’ religion
+    Pages: p. 152–153
+    "the magicians, wizards, necromancers, diviners, sorcerers, enchanters and persons
+    with familiar spirits who were the priesthood of the Canaanitish nat"
+
+  Chaldean incantations
+    Purpose: invoke beneficent spirits to defeat evil spirits, disease, misfortune
+    Pages: 156–157
+    "...incantations and spells used by the Chaldean priesthood...expressed in the
+    ancient Accadian language, which it was thought gave them greater effica"
+    Connected to: accadian language
+
+  Charity/Almsgiving
+    Pages: 125
+    "Si autem repulsam habueris... debes dare tres elemosinas tribus pauperibus"
+
+  Chastity
+    Pages: 47
+    "he that would Operate in this Art, let him be clean and chast by the space of
+    nine dayes at least"
 
   Christianization of image ritual
     Pages: p. 109
@@ -1347,158 +1620,23 @@
     Pages: experiment no. 11
     "...trace a circle such as appears here, with a magnificent sword..."
 
-  circle (ring ritual)
-    Purpose: used to raise dead person
-    Pages: experiment no. 10
-    "...make a circle with a sword, and on it write with the sword the names and
-    figures..."
-
-  circle (ritual)
-    Pages: Munich Handbook, CLM 849
-    "The circle required for this first experiment is a single band inscribed within a
-    square. Inscribed in and around the band are the names of seven spir"
-    Connected to: fruit-bearing tree
-
-  circle (ship ritual)
-    Purpose: used to conjure eight sailors
-    Pages: experiment no. 8
-    "...trace a circle with a horizontal band across the centre and a vertical band
-    across the top semicircle..."
-
-  circle (throne ritual)
-    Purpose: used to summon flying throne
-    Pages: experiment no. 15
-    "...makes a circle, into which he places three jars with him..."
-
-  Circle construction
-    Purpose: to conjure Mirage in secret location
-    Pages: appended material to Munich Handbook (CLM 849)
-    "a set of instructions for constructing a circle in a secret location, with
-    various prayers, and supplementary conjurations in which Mirage is threaten"
-    Connected to: mirage
-
-  Circle of CLM 849
-    Purpose: protective ritual space
-    Pages: 68v (fig. e)
-    "Figure at top offol. 68v: a triple circular band, with Sabaoth and meridies
-    marked just outside... Hunc circulum facio in nomine dei Patris omnipotent"
-
-  circle of protection
-    Purpose: magical containment for all rituals
-    Pages: 20r-21r
-    "...michi in omnibus istis apparere faciatis castrum fortissimum, cum profundis
-    foveis..."
-
-  circle with double band and pentagram
-    Purpose: resurrection ritual; protective and binding
-    Pages: 26r
-    "Figure on fol. 26r: a double circular band, with a pentagram inscribed. O Brimer,
-    Suburith, Tranauit is inscribed in the outer band..."
-    Connected to: ritual resurrection
-
-  circle with single band and crescent (ship)
-    Purpose: boat summoning
-    Pages: 21v
-    "Figure onfol. 21v: a single circular band in which are inscribed the names Fyrin,
-    Dyspil, Onoroy, Sysabel, Cotroy, Tyroy, Rimel and Orooth..."
-    Connected to: ritual boat conjuration
-
-  circle with square and inner circle
-    Purpose: horse summoning
-    Pages: 23v
-    "Figure on fol. 23v: a single circular band, with a square inscribed, and a circle
-    inside the square..."
-    Connected to: ritual horse conjuration
-
-  circle with square and inner circle (horse ritual)
-    Purpose: used to conjure horse spirits
-    Pages: experiment no. 9
-    "The figure shown is a single circular band, with a square inscribed, and a circle
-    inside the square..."
-
-  circulus (ceremonial)
-    Purpose: protective circle drawn for spirit conjuration
-    Pages: 62v, 67v–68r
-    "pone circulum quando vis... Hunc circulum facio in nomine dei Patris
-    omnipotentis..."
-
-  circulus (circle)
-    Purpose: protective boundary for ritual
-    Pages: 49r
-    "...post mane et in crepusculo noctis, circulum protrahendo..."
-
-  Circulus armorum (army circle)
-    Purpose: shown to summoned spirits in castle ritual
-    Pages: fol. 19r
-    "...ostende eis statim hunc circulum, qui habet multum ipsos 15 demones pauentare
-    (uel spanentare)..."
-
-  Circulus quadruplex cum pentangulo (quadruple band circle with pentangle)
-    Purpose: used in banquet ritual
-    Pages: fol. 15v diagram, described p. 16r
-    "Diagram on fol. 15v: a quadruple band with a pentangle inscribed in the
-    centre..."
-
-  cloth bundle
-    Purpose: pillow during sleep; contains sword; used for grounding ritual space
-    Pages: 144–146
-    "...put down the sword and wrap it in the aforesaid cloth, and, having made a
-    bundle, lie down on it..."
-
-  Complex character
-    Pages: Fol. 108r, no. 45
-    "Fol. 108r, no. 45: Complex character."
-
-  Coniuratio
-    Purpose: act of conjuring spirits
-    Pages: [59v]
-    "Coniuro et constringo atque precipio tibi"
-    Connected to: mirage
-
-  conjuratio equi
-    Purpose: binds horse to master’s will
-    Pages: 107r
-    "Coniuro te, eque bone, per creatorem celi et terre..."
-    Connected to: kostolya, elogo, yetas
-
-  Conjuration formulas (generic)
-    Purpose: command spirits
-    Pages: p.156–160
-    "the four primary elements virtually always found in conjurations… declaration (‘I
-    conjure you’), the address (‘thus-and-such spirits’), the series of "
-
-  The Conjuration of Malign Spirits Dwell. in Bodies of People
-    Pages: printed several times late 15th c.
-    "The simplest form of exorcism used here is simply, ‘I exorcize you, unclean
-    spirit, in the name of God the Father almighty & and in the name of Jesus "
-
-  The Conjuration of Malign Spirits Dwelling in the Bodies of People
-    Purpose: exorcism of demons from possessed individuals
-    Pages: 174–176
-    "...a manual for exorcizing the possessed that was printed several times in the
-    late fifteenth century went by the title The Conjuration of Malign Spir"
-
-  Conjuration of Satan/Mirage
-    Pages: 42, 43
-    "Conjuration of Satan/Mirage (59v–62v)... a conjuration of a demon named Mirage
-    (given fols 109r–118r and again fols 139r–146r)"
-    Connected to: mirage, clm 849, mirage
-
 
 ==========================================================================================
   PART V: RITUAL MATERIALS & INSTRUMENTS
 ==========================================================================================
 
-  INGREDIENTS (192 unique)
+  INGREDIENTS (205 unique)
   ──────────────────────────────────────────────────────────────────────────────────────
 
-  Fumigations/Incense (44):
+  Fumigations/Incense (47):
     myrrh                               x4
     Sulphur                             x4
+    incense                             x3
     saffron                             x3
     Almastic                            x2
     Altast                              x2
     cinnamon                            x2
+    frankincense                        x2
     Olibanum                            x2
     Abana                               x1
     Abana (abana)                       x1
@@ -1516,10 +1654,10 @@
     Croceum                             x1
     Cyg                                 x1
     Cygnus (cyg b)                      x1
-    frankincense                        x1
     frankincense, myrrh, olibano (incense) x1
     human bones and hair                x1
-    incense                             x1
+    Incense (Thus)                      x1
+    Incense mixture                     x1
     Indian wood                         x1
     lignum aloes, ambra, mirra, olibanus albus x1
     Lignum radim                        x1
@@ -1535,10 +1673,11 @@
     Piper (pepper)                      x1
     Piper longum (long pepper)          x1
     red sandalwood                      x1
+    Sulfur (Sulphur)                    x1
     Thure et mirra                      x1
     Thus Odee Capre                     x1
 
-  Sacrificial/Blood Materials (17):
+  Sacrificial/Blood Materials (20):
     white dove                          x4  | sacrifice in invisibility ritual no. 45
     bat’s blood                         x2  | ink for inscribing names to summon horse
     alba columba                        x1  | sacrificed for invisibility ritual
@@ -1549,15 +1688,18 @@
     Blood                               x1  | used in divine invocation (cf. Christ's blood
     blood (bird)                        x1  | writing spirit’s name and magician’s name in 
     blood of bird (hoopoe?)             x1  | ink for inscribing cloth circle
+    Blood of Mole / Turtledove / Hoopoe / Bat x1  | 
+    Cruor (Blood)                       x1  | 
     hoopoe blood                        x1  | in diagram for flying horse ritual
     hoopoe feather and blood            x1  | writing instrument for protective circle
     human blood                         x1  | used to water plant for invisibility ritual
     human blood (mixed with water)      x1  | watering plant for invisibility ritual
+    ink made from blood                 x1  | 
     ram (ritual animal)                 x1  | sacrificial animal for spirits
     Red blood (sangwine rubeo)          x1  | image-making for tongue-binding
     sangwine (blood)                    x1  | 
 
-  Inscription Materials (14):
+  Inscription Materials (15):
     white dove                          x4  | sacrifice in invisibility ritual no. 45
     horsehide                           x3  | inscribe circle for control over horses; mate
     oleum olivae                        x3  | used to anoint mirror
@@ -1569,6 +1711,7 @@
     costa (rib bone)                    x1  | used in love ritual; inscribed with Bel et Eb
     feather (from left wing of black hen) x1  | writing implement for inscribing vessel
     ignis (fire)                        x1  | used to burn inscribed bone in love ritual
+    ink made from blood                 x1  | 
     Onelf On, Adonay, Emanuel...        x1  | inscribed for revelation
     pulvis (powder)                     x1  | inscribe spirit-binding marks
     rib bone                            x1  | inscribed with names and burned
@@ -1601,6 +1744,7 @@
     borax                               x1  | component of chemical mixture
     burning coals                       x1  | for melting wax image and ritual heating
     candle (funeral)                    x1  | 
+    Candle of virgin wax                x1  | 
     cantalides                          x1  | component of chemical mixture
     carbones accensi (burning coals)    x1  | heat medium for wax image
     carta agni virginea                 x1  | used to draw protective figure in invisibilit
@@ -1611,6 +1755,8 @@
     ceram nouam                         x1  | component of chemical mixture
     ceram virgineam (virgin wax)        x1  | love magic image
     cerusa                              x1  | component of chemical mixture
+    charcoal                            x1  | 
+    Clear cold spring water             x1  | 
     cornu ovinae corrigia               x1  | 
     Corpus Christi                      x1  | Eucharistic body invoked for binding power
     corrigia ovina                      x1  | 
@@ -1640,6 +1786,7 @@
     lapides (from cemetery)             x1  | used to draw circle for mirror ritual
     Lapis mollis (soft stone)           x1  | used for carving images in dignity ritual
     Lapis viosus                        x1  | used for hatred ritual; river stone
+    laurel leaves                       x1  | 
     linen cloth                         x1  | wrapping images
     lunae limatura                      x1  | used in chemical prescription
     Mare                                x1  | elemental force that responds to divine names
@@ -1651,6 +1798,7 @@
     moon                                x1  | 
     ovum                                x1  | component of chemical mixture
     oxcroceum                           x1  | component of chemical mixture
+    pearls                              x1  | 
     puluis buffonum                     x1  | component of chemical mixture
     pulvis albus herbae (alba)          x1  | indicates efficacy of grain
     red bristles                        x1  | in image-making
@@ -1677,6 +1825,7 @@
     Stones                              x1  | used in ritual power
     stones from cemetery                x1  | used to form circle for experiment no. 33; nu
     suffumigatio (fumigation)           x1  | 
+    Suffumigation Ingredients (Amber / Musk / Aloe / Labdanum / Mastic / Frankincense / Pearls) x1  | 
     terebentina                         x1  | component of chemical mixture
     Terra                               x1  | earth element that trembles at divine names
     Theriac                             x1  | for images
@@ -1686,6 +1835,7 @@
     valerian                            x1  | aphrodisiac herb
     vernicius                           x1  | component of chemical mixture
     vervain                             x1  | aphrodisiac herb
+    Virgin Parchment (Calf / Foal / Deer) x1  | 
     vitriolum                           x1  | component of chemical mixture
     Water                               x1  | used in divine invocation (cf. Christ's blood
     water and chalk                     x1  | placed in jar #3 for flying throne ritual
@@ -1697,16 +1847,20 @@
     white thorn wood                    x1  | fire-starting material
 
 
-  RITUAL TOOLS (117 unique)
+  RITUAL TOOLS (156 unique)
   ──────────────────────────────────────────────────────────────────────────────────────
+    Seal of God                         x9  | effective against physical dangers and p
+      pp. 175, 309, 28, 29
     sword                               x8  | draw resurrection ritual circle
       pp. 144–147, 26r, CLM 849, experiments nos. 6,11
+    circle                              x4  | protection; focus of power; terrifying s
+      pp. 18, 23, 25, 29, 36, 42, 44–53, 55–60, 57, 62–3, 70–1, 74, 80, 84–7, 91, 100, 103, 106, 110–13, 115–6, 141, 142, 187, 239, CLM 849 experiments nos. 3,7,8,9,11
     iron stylus                         x4  | carving names on image
       pp. p. 106, p. 97
-    circle                              x3  | protection; focus of power; terrifying s
-      pp. 18, 23, 25, 29, 36, 42, 44–53, 55–60, 57, 62–3, 70–1, 74, 80, 84–7, 91, 100, 103, 106, 110–13, 115–6, 141, 142, 187, CLM 849 experiments nos. 3,7,8,9,11, pp. 18-23, 25, 29, 36, 42–53, 55–60, 70–74, 80, 84n, 100, 103, 106, 110–13, 115, 117–19, 126, 128, 133, 139, 144, 159, 170–6, 178, 186–7 (index)
     iron chain                          x3  | binding images in experiment no. 4
       pp. p. 98, p. 99
+    swords                              x3  | 
+      pp. 33, 35, 38, 42, 249, 257-263, 269, 271, 295, 297, 38, 42, 47–50, 59, 60, 62, 72, 84, 88, 98, 101, 104, 110–12, 117–9, 159, 160, 171, 173
     circle (ritual)                     x2  | protective space for conjuration; also u
       pp. p. 106, p. 107–108
     horsehair                           x2  | suspension cord for image; used to suspe
@@ -1715,14 +1869,24 @@
       pp. 41–42, n/a (Munich Handbook Clm 849, Expt. 18)
     mirrors                             x2  | used in scrying and illusionist experime
       pp. 4, 28, 29, 61, 97–100, 103–8, 110, 112, 178, p. 28, 29, 61, 97-100, 103-8, 110, 112 (index)
+    new knife                           x2  | used to carve or inscribe circles
+      pp. 211, Sworn Book reference
+    Seal of Solomon                     x2  | controlling demons; protection and defen
+      pp. 243, page 16
+    Sigillum Salomonis                  x2  | seal used in binding spirits
+      pp. 28, 61r–v
     signum sancte crucis                x2  | sign of the cross made on forehead
       pp. 304–305, [54r], [136v]
+    Whistle                             x2  | 
+      pp. 39, 64b-65a
     white-handled knife                 x2  | 
       pp. p. 108
     A, Q, O, P, E, V                    x1  | characters to be written in ritual
       pp. 50r
     acus (needles)                      x1  | animate love image
       pp. p. 267, No. 12
+    Alpha and Omega                     x1  | 
+      pp. 43
     anuli Salomonis (Rings of Solomon)  x1  | plural form; used in repeated conjuratio
       pp. 48v–49r
     anulus aureus (golden ring)         x1  | resurrection; protection
@@ -1731,16 +1895,24 @@
       pp. 48r
     bacimine (basin)                    x1  | scrying vessel
       pp. 49r
+    Baitulos (stone)                    x1  | 
+      pp. 251-252
+    Bed of Hay and Ashes                x1  | 
+      pp. 183
     bird heart                          x1  | writing instrument for inscribing cloth 
       pp. first experiment in manuscript
     bird's heart                        x1  | 
       pp. Munich Handbook, CLM 849
+    Book of Gold                        x1  | 
+      pp. 38
     bridle (magic)                      x1  | control illusory horse
       pp. p. 73–74
     bridle (never used)                 x1  | instrument of control for spirit-horse
       pp. experiment no. 9
     bronze bowl/saucer                  x1  | vessel for divination by reflection
       pp. bowl divination reference (Greek papyri)
+    bulla                               x1  | especial symbol of the god
+      pp. 344
     burning coals in pot                x1  | for wax image formation
       pp. p. 108
     candela accensa (lit candle)        x1  | used in bone-gazing ritual
@@ -1759,6 +1931,8 @@
       pp. 178–179
     cingulum sacerdotalis (priest’s girdle) x1  | ritual binding of book
       pp. 53r
+    Circle (Hollow)                     x1  | 
+      pp. 280-283
     circle (ritual space)               x1  | protected ritual space for medium
       pp. experiments 38–40
     circulus (ritual circle)            x1  | protective boundary
@@ -1798,18 +1972,32 @@
       pp. [61v]
     Ferrum (iron)                       x1  | used for stylus in dignity ritual
       pp. fol. 12r
+    Figure of Memory                    x1  | 
+      pp. 46
     Floron                              x1  | mirror for revelation
       pp. Table A (experiments 18–20)
     frenum (bridle)                     x1  | bind spirit-horse; consecrated object
       pp. p. 259–260, No. 9
+    Gemeliath                           x1  | 
+      pp. 28
+    Gladius (Sword)                     x1  | 
+      pp. 258, 260
     gold ring                           x1  | resurrection ritual; inscribed with spir
       pp. 25v
     gold ring (ritual object)           x1  | inscribed with spirit names for life/dea
       pp. p. 80–81
+    Golden Seal                         x1  | 
+      pp. 40
+    Heptagon                            x1  | 
+      pp. 241
     Hoc est candela                     x1  | label for candle in diagram
       pp. CLM 849, experiment no. 2
     horse bridle (unused)               x1  | ritual focus for horse spirit summoning
       pp. 23v
+    Hundred Names of God                x1  | 
+      pp. 183
+    incense and censer                  x1  | 
+      pp. 245
     iron key or stylus                  x1  | draw horse ritual circle
       pp. 23v
     iron stylus / nail                  x1  | used to trace circle
@@ -1827,16 +2015,24 @@
     magic circle with names and figures x1  | protection, summoning, control
       pp. p. 74–75
     needles (9 or 13)                   x1  | piercing image
-    new knife                           x1  | used to carve or inscribe circles
-      pp. Sworn Book reference
+    New Gloves (without chalk)          x1  | 
+      pp. 77-78
     nine needles                        x1  | 
       pp. p. 108–109
+    Note (of Grammar)                   x1  | 
+      pp. 8
     pannus (cloth)                      x1  | receptacle for spirit names, worn under 
       pp. 231–234
     pelu (stone slab)                   x1  | surface for resin incense and inscribed 
       pp. 49v-50r
+    Pentagon                            x1  | 
+      pp. 64
     Pentagram                           x1  | used as seat for master and boy; protect
       pp. CLM 849, experiments nos. 6,10,22,23
+    planchette                          x1  | device for receiving spirit communicatio
+      pp. 218
+    Planchette apparatus                x1  | 
+      pp. 158
     polished thumbnail/fingernail       x1  | 
       pp. n/a (Munich Handbook Clm 849, Expt. 27)
     priestly cincture                   x1  | 
@@ -1858,21 +2054,37 @@
       pp. 42, 59, 61–3, 84, 85, 97, 100, 128, 133, 139, 142, 161
     Ritual bond (vinculum)              x1  | control of evil spirits via divine names
       pp. 178–179
+    Sackcloth and black garments        x1  | 
+      pp. 187
     SATOR-AREPO square                  x1  | amulet for gaining favour
     Sator-arepo-square                  x1  | magic square used in protective circle
       pp. 49r
+    Scannum ligneum (Wooden Stool)      x1  | 
+      pp. 258
+    Seal of God / Seal of the True and Living God x1  | 
+      pp. 65-78
     Septem Candelabra (Seven Golden Candlesticks) x1  | ritual object invoked for power
       pp. [61v]
     Septem candelabra aurea             x1  | celestial symbols invoked in binding Mir
       pp. 62r
     serraginem                          x1  | 
       pp. 283 (No. 22)
+    seven equal swords                  x1  | 
+      pp. 249
     shining sword                       x1  | tracing circles, inscribing names
     shoulderblade (animal)              x1  | inscribe names and heat for constraint
-    Sigillum Salomonis                  x1  | seal used in binding spirits
-      pp. 61r–v
+    sigil                               x1  | 
+      pp. 19
+    Sigillum et ligacio                 x1  | 
+      pp. 268
     Sigillum Salomonis (Seal of Solomon) x1  | used to bind demons
       pp. [61v]
+    Sigillum Terre                      x1  | 
+      pp. 281-282
+    Sign of the Lord                    x1  | 
+      pp. 212
+    Signum Domini                       x1  | 
+      pp. 28
     spatula arietis dextram (right shoulder blade of ram) x1  | divinatory implement
       pp. 47v–48r
     speculum                            x1  | used in divination ritual; spirit appear
@@ -1901,16 +2113,20 @@
       pp. p. 78–79
     sword (ritual)                      x1  | used for blessing, protection, and exodu
       pp. experiments 38–40
-    swords                              x1  | 
-      pp. 42, 47–50, 59, 60, 62, 72, 84, 88, 98, 101, 104, 110–12, 117–9, 159, 160, 171, 173
     tablet                              x1  | recording medium for spirit’s teachings
       pp. 145
     tablet (for writing)                x1  | 
       pp. Munich Handbook, CLM 849
+    Tau                                 x1  | 
+      pp. 64
     Tetragrammaton                      x1  | inscribed on ring for conjuration
       pp. 58
+    Theban alphabet                     x1  | hiding magic foolishness
+      pp. page 14
     three-legged stool                  x1  | seat for medium in circle rituals
       pp. experiments 38–40
+    Thuribulum (Censer)                 x1  | 
+      pp. 259, 263
     triple circular band with cross     x1  | ritual circle for spirit conjuration
       pp. 105v
     tripod stool                        x1  | ritual seat
@@ -1919,60 +2135,285 @@
       pp. 5, 28, 59, 78, 85, 86, 103, 108, 112
     virgo iuvenis (young virgin)        x1  | seer / spirit medium
       pp. 45v, 46r, 47r
+    Virgula (Wand)                      x1  | 
+      pp. 259, 260
     Vppupa (turtle dove)                x1  | used as binding agent in banquet ritual
       pp. fol. 15v–17r
+    wand                                x1  | 
+      pp. 14, 33, 38, 42, 259-263, 297
+    Wand (Virga)                        x1  | 
+      pp. 296-297
+    Wand of laurel or hazel             x1  | 
+      pp. 38
+    wand/sword/whistle/magic circle     x1  | 
+      pp. 42
     wax image                           x1  | used in love magic and judicial cases
       pp. p. 102–103
+    Whistle (Sibilum)                   x1  | 
+      pp. 296-297
 
 ==========================================================================================
   PART VI: INCANTATIONS, DIVINE NAMES & CONJURATION FORMULAS
 ==========================================================================================
 
-  DIVINE NAMES (15 unique)
+  DIVINE NAMES (102 unique)
   ──────────────────────────────────────────────────────────────────────────────────────
+    Adonay                         x8  | separated sea from bounds
+      "O ADONAY, Creator of all visible Creatures!"
+    God                            x7  | Restorer of all things by His Spirit; creator of h
+      "Oh Lord, Holy Father, Almighty, eternal God, in whose sight are all the
+      foundations of all creatures"
+    Tetragramaton                  x7  | conjuration authority
+      "per hoc nomen domini: Tetragramaton..."
+    Jesus Christ                   x6  | Lord; Suffered for salvation, descended into hell,
+      "Oh Lord Jesus Christ, eternal only begotten Son of God"
+    Heloy                          x3  | 
+      "Hamphynethon, Heloy"
+    Shem ha-Meforash               x3  | 
+      "The text also uses the Hebrew term Shem ha-Melorash, probably meaning
+      something like “explicit name” of God."
+    Agla                           x2  | 
+      "Agla, Monhon, Tetragramaton, Ely Deus"
+    Alpha and Omega                x2  | beginning and end
+      "God, who is Alpha and Omega, the beginning and the end"
+    Amasiel, Danyihayr             x2  | fourth part of Oration
+      "Amasiel, Danyihayr, &c."
+    Christus                       x2  | 
+      "Christus"
+    Emanuel                        x2  | king of kings, God, substance, salvation and revel
+      "Emanuel, adoro te, rex regum et Deus meus et substancia mea, salus et
+      revelacio mea"
+    Hamphynethon                   x2  | most merciful creator, inspirer and reformer of al
+      "Hamphynethon, Heloy, clementissime creator"
+    Hiskiros                       x2  | 
+      "invoking I conjure you through Zabuater, Rabarmas, Hiskiros"
+    Hocleiste                      x2  | holy God, blessed Father and imperishable evidence
+      "Hocleiste, sancte Deus"
+    Holy Spirit                    x2  | proceeding from Father and Son
+      "the Holy Spirit, the holy Catholic Church, the communion of Saints"
+    Lamyhara                       x2  | omnipotens, misericors Pater, omnium creatur[uraru
+      "Lamyhara, omnipotens, misericors Pater"
+    Layaly                         x2  | 
+      "seven divine names used in the Seal of God (IV.14–47, CXXVII.15): Layaly,
+      etc."
+    Sabaoth                        x2  | 
+      "Sabaoth, quod est 'exercitus angelorum'"
+    100 Dei vivi nomina            x1  | 
+      "(2) 100 Dei vivi nomina. 1. Agla, 2. Monon, 3. Tetragramaton..."
+    Abracio                        x1  | spoke to Moses in burning bush
+      "Abracio, qui Moysi... in medio rubi locutus fuisti"
+    Achacham, Yhel, Chelychem, Agzyraztor, Yegor x1  | beginning of a powerful Oration that moves celesti
+      "Achacham, Yhel, Chelychem, Agzyraztor, Yegor, &c."
+    Admyhel                        x1  | holy and almighty Father
+      "Admyhel, Domine, Deus, sancte Pater omnipotens"
+    Agla Eloy Yaym Theos Deus      x1  | 
+      "Agla, Eloy, Yaym, Theos, Deus—quo audito celestia..."
+    Aglaros, Theomiros, Thomitos   x1  | beginning of second part of Oration
+      "Aglaros, Theomiros, Thomitos, &c."
     Agyos, Otheos, Athanatos, Yschiros, Kirios, Alleluia, Eleyson x1  | conjuration authority
       "...Agyos, Otheos, Athanatos, Yschiros, Kirios, Alleluia, Eleyson..."
     Alpha et O                     x1  | conjuration authority
       "...qui est Alpha et O, primus et nouissimus..."
+    Archima                        x1  | 
+      "(31) Archima, qui 32 annis populo tuo fidem catholicam predicasti..."
+    Assaylemath Assay Lemath Azzabue x1  | 
+      "Assaylemath, Assay, Lemath, Azzabue."
+    Azzaylemath Lemath Azacgessenio x1  | 
+      "Azzaylemath, Lemath, Azacgessenio."
     Basvon                         x1  | conjuration authority
       "per deum verum Basvon..."
+    Beel                           x1  | 
+      "inferius in alia summitate Beel"
+    Christ / Jesus Christ          x1  | Redeemer
+      "In the Name of Christ... O Christ, Son of the living God, who art the
+      Splendor and Figure of light"
+    Divine Majesty                 x1  | 
+      "it is most difficult for one to perceive the Divine Majesty."
+    Do., Hel., X., P., A., Li., O., F x1  | glorious Angels’ names (incomprehensible to human 
+      "whose names are so Consecrated, that they cannot be uttered by us; which are
+      these, Do., Hel., X., P., A., Li., O., F, &"
+    El                             x1  | 
+      "supra illud signum scribe nomen Dei “El”"
+    El / Ely / Eloy                x1  | 
+      "write the name of God El and sub nomen aliud Dei, scilicet Ely."
+    Eleminator                     x1  | 
+      "“Eleminator,” (XXVII), which is part of the same prayer"
+    Eliorem                        x1  | 
+      "(29) Eliorem, qui in templo Salomonis... ipsi Symeoni dedisti cognicionis
+      effectum..."
+    Eliphasmasay, Gelonucoa, Gebeche Banai, Gerabcai, Elomnit x1  | Archangels invoked for memory
+      "By thy Archangels, Eliphasmasay, Gelonucoa, Gebeche Banai, Gerabcai, Elomnit"
+    Elmot, Sehel, Hemech, Zaba     x1  | 
+      "Elmot, Sehel, Hemech, Zaba, &c."
     Elthie                         x1  | conjuration authority
       "per sanctum nomen dei Elthie..."
+    Ely                            x1  | 
+      "et sub nomen aliud Dei, scilicet “Ely”"
     Ely, Eloe, Sabaoth, Adonay, Elyon, On x1  | conjuration authority
       "...per hec sancta nomina tua: Ely, Eloe, Sabaoth, Adonay, Elyon, On..."
     Ely, Elov, Eloem               x1  | conjuration authority
       "...Ihesu Christi: Ely, Elov, Eloem..."
     Fords, Fons, Leo, Petra        x1  | conjuration authority
       "...Fords, Fons, Leo, Petra..."
+    Fothon                         x1  | creator of Heaven and Earth
+      "Fothon, celi et terre conditor"
     A G L A                        x1  | 
       "...by the name of the Lord God which is blessed forever A G L A..."
+    God (Deus)                     x1  | 
+      "O God, always the way, the truth, and the life... Rex regum, Deus infinite
+      misericordie et maiestatis inmense"
+    Gofgameli                      x1  | God of all wisdom and giver of this science
+      "Gofgameli, omnis sapiencie Deus et sciencie donator illis"
+    Gofgar                         x1  | 
+      "(26) Gofgar, qui adventus tui per Iohannem baptistam... testimonium..."
+    Hadyon                         x1  | illustrious with eternal harmony of all powers, ru
+      "Hadyon, usyon, omnium potestatum atque regnorum et iudiciorum eterna
+      conspicazione conspicuus"
+    Heilma, Helma, Hmena           x1  | Greek names in division of Oration
+      "Heilma, Helma, Hmena, &c. Oh God the Father, God the Son, God the Holy
+      Spirit"
+    Hely                           x1  | mighty, master of angels and archangels
+      "Hely, reverende, potens et dominans superioribus angelis et archangelis
+      omnibusque celestibus creaturis"
+    Hely Deus                      x1  | 
+      "Hely Deus, creator, Adonay"
+    Hely Scemath Amazaz Hemel Sathusteon hheli Tamazam x1  | 
+      "Hely, Scemath Amazaz, Hemel, Sathusteon, hheli Tamazam, &cet. which Solomon
+      entitled, His First Revelation"
+    Hofga                          x1  | created mankind on sixth day
+      "Hofga, qui sexta die hominem ad ymaginem tuam creasti"
+    Horlon                         x1  | God who ordered all things in number, weight, and 
+      "Horlon, Deus, qui omnia numero, pondere et mensura fecisti"
+    Hosel                          x1  | 
+      "Hosel, Iesel et cetera, debent dici paulo post principium orandi"
+    Hospesk                        x1  | 
+      "(25) Hospesk, qui in manibus Ioseph virgam siccam florere fecisti."
+    Ianemyer                       x1  | unus, magnus, mirabilis, eterne Deus, angel of ete
+      "Ianemyer, unus, magnus, mirabilis, eterne Deus, eterni consilii angelus"
+    Iesel                          x1  | 
+      "Hosel, Iesel et cetera, debent dici paulo post principium orandi"
+    Ihelur                         x1  | almighty judge, O Father
+      "[Ihelur], iudex omnipotens, Pater"
+    IOHT HE VAU DALETH             x1  | 
+      "nomen tuum, quod 4 literis scribitur, ioht, he, vau, deleth..."
+    Jesus Christ (Iesu Christe)    x1  | 
+      "Iesu Christe, fili Dei unigenite, cui ante secula dedit Pater omnia in manus"
     Jesus Nazarenus                x1  | conjuration authority
       "...Jesus Nazarenus, Messyas, Sother, Emanuel, Fords, Fons, Leo, Petra..."
+    Jesus, son of God              x1  | 
+      "“Jesus, son of God…” (XXVI)"
     Joth                           x1  | used by Solomon to bind demons; invoked in conjura
       "I command you to be bound beneath the deep waters of the sea, by these two
       names, Joth [and] Nabnoth, by which Solomon b"
+    Lamed, Rogum, Ragia, Ragium, Ragiomal, Agaled, Eradioch, Anchovionos, Lochen, Saza, Ya, Manichel, Mamacuo, Lephoa, Bozaco, Cogemal, Saluyel, Tesunanu, Azaroch, Beyestar, Amak x1  | used to comprehend large volumes of writing
+      "Lamed, Rogum, Ragia, Ragium..."
+    Lameth, Leynach, Semach, Belmay, Azzailement, Gesegon, Lothamasim, Ozetogomaglial, Zeziphier, Josanum, Solatac, Bozefama, Defarciamar, Zemait, Lemaio, Pheralon, Anuc, Philosophi, Gregoon, Letos, Anum x1  | invokes angels and provokes eloquence
+      "Lameth, Leynach, Semach, Belmay... Azzailement, Gesegon, Lothamasim,
+      Ozetogomaglial..."
+    Lemath Sabanche Ellithy Aygezo x1  | 
+      "Lemath, Sabanche, Ellithy, Aygezo."
+    Lethellete                     x1  | stretched out Heaven above clouds
+      "Lethellete, qui celum super altitudinem nubium extendisti"
+    Lialy                          x1  | Name of Creator to write outside circle
+      "scribere in terra vel in cedulis 7 nomina creatoris, que sunt L[a]ialy..."
+    Megal, Legal, Chariotos        x1  | third part of Oration
+      "Megal, Legal, Chariotos, &c."
     Messyas, Soter, Emanuel, Pancraton, Occinomos x1  | conjuration authority
       "...nomen domini: Messyas, Soter, Emanuel, Pancraton, Occinomos,
       Tetragramaton..."
+    Monhon                         x1  | 
+      "Monhon, Domine, sancte Pater, omnipotens"
+    Most High Creator              x1  | source of revelation
+      "The Notory Art revealed by the Most High Creator to Solomon"
     Nabnoth                        x1  | used with Joth to bind demons; invoked in Expt. 27
       "...by these two names, Joth [and] Nabnoth, by which Solomon bound demons in a
       glass vessel."
+    Names of God (1-81)            x1  | 
+      "through these his holy names: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+    Narath / Libarre / Libares / Lialg / Ueham / Yalgal x1  | 
+      "scribatur hoc nomen sanctum Dei: Narath."
+    Occynnomos                     x1  | 
+      "(27) Occynnomos, qui tribus regibus te adorare volentibus... stellam previam
+      transmisisti..."
+    Oh Eternal and Unreprehensible Memory! Oh Uncontradictible Wisdom! Oh Unchangeable Power! x1  | invoked for memory, wisdom, understanding
+      "Oh Eternal and Unreprehensible Memory! Oh Uncontradictible Wisdom! Oh
+      Unchangeable Power!"
+    On                             x1  | 
+      "in summitate eius sculpatur hoc nomen: On"
+    On / Adonay / Saday / Sother / Christus (Χρς) x1  | 
+      "in the other under the fourth cross again On."
+    On Alpha Omega El Ely Eloe Elion Sother Emanuel Sabaoth Adonay Egge Ya Ye x1  | 
+      "per hec sanctissima nomina: On, Alpha et ℧... Ye..."
     On, Orion, Sabaoth, Adonay     x1  | conjuration authority
       "Coniuro te, virgo iuvenis, per deum On, Orion, Sabaoth, Adonay..."
+    Orha                           x1  | 
+      "(24) Orha, qui per Gabrielem beate Marie virgini... nunium tue
+      incarnacionis..."
     Pantocrator                    x1  | conjuration authority
       "Sic in MS, for Pantocrator?"
-    Tetragramaton                  x1  | conjuration authority
-      "per hoc nomen domini: Tetragramaton..."
+    Paraclitus                     x1  | appeared to Abraham in three persons
+      "Paraclitus, qui Abrahe... ad radicem Mambre aparuisti"
+    Porrenthimon                   x1  | mediator of all operations and creatures
+      "Porrenthimon, mediator omnium operacionum et creaturarum"
+    Rabarmas                       x1  | 
+      "invoking I conjure you through Zabuater, Rabarmas, Hiskiros"
+    Rabur                          x1  | 
+      "(32) Rabur, qui 40 dierum spacio in deserto ieiunasti..."
+    Saday                          x1  | 
+      "Saday, Hebrew, Shaddai. Also on Seal of God"
+    Semenphoras                    x1  | 
+      "nominis tui “Semenphoras”... Shem Ha-Meforash..."
+    Semet, Lamen                   x1  | 
+      "begin to say this Oration following seriously: Semet, Lamen, &c."
+    Shem Ha-Meforash / Semenphoras x1  | 
+      "great name of the Lord Shem Ha-Meforash of seventy-two letters."
+    Tetragramos                    x1  | 
+      "tetragramos"
+    Theos                          x1  | 
+      "Theos"
+    Theos Patir Heminas            x1  | invoked in prayers for memory and illumination
+      "O Most Mighty God, Invisible God, Theos Patir Heminas"
+    Vos / Duynas / Gyram / Gram / Aysaram / Alpha / Omega x1  | 
+      "in the next side to the right of the same third heptagon this name: Duynas."
+    Zabuater                       x1  | 
+      "invoking I conjure you through Zabuater, Rabarmas, Hiskiros"
+    Zabuather                      x1  | 
+      ""Zabuather, Rabarmas, Yskiros...""
+    Zebedei                        x1  | 
+      "Obey therefore Zebedei and me in his name."
 
-  INCANTATIONS (31 unique)
+  INCANTATIONS (91 unique)
   ──────────────────────────────────────────────────────────────────────────────────────
+    Pater Noster
+      Pages: 42, 91
+      "Then say three times the Pater Noster"
+      "Pater noster, qui es in celis, sanctiﬁcetur nomen tuum. Adveniat regnum
+      tuum."
+
     Alpha et O
       Pages: 314r, 315v, 322r–v
       "per Alpha et O, per Ihesum Christum filium tuum..."
 
+    Apostle's Creed
+      Pages: 18
+      "Honorius includes both the Apostle’s Creed and the Athanasian Creed"
+
+    Application Prayer
+      Pages: 259
+      "That this spirit or these spirits N., whom I have invoked, may come bound to
+      me"
+
     Asperges me, Domine, ysopo
       Pages: experiment no. 11
       "...saying, Asperges me, Domine, ysopo ... [Ps. 50:9 Vulg.]."
+
+    Assaylemaht...
+      Pages: 126, 127
+      "namely “Assaylemaht…” (XX) and “Hazailemaht …,” (XXI)"
+
+    Athanasian Creed
+      Pages: 18
+      "Honorius includes both the Apostle’s Creed and the Athanasian Creed"
 
     Ave Maria
       Pages: experiment no. 15 (flying throne)
@@ -2009,6 +2450,12 @@
       Pages: fols 42v, 43r
       "Coniuro vos demones vt veniatis et compareatis... per Alpha et O..."
 
+    Consecration Prayer
+      Pages: 207
+      "You, O Lord Jesus Christ... that from the gift and permission of your grace,
+      all those angels which he shall call upon... may you deign to send and
+      constrain them"
+
     Deus sanctus, deus omnipotens...
       Pages: p. 209
       "No. 23 has Deus sanctus, deus omnipotens, deus fortis..."
@@ -2016,6 +2463,10 @@
     Deus tuum regi da
       Pages: p. 208–209
       "...and Deus tuum [sic] regi da in its three bands."
+
+    Eighth Terminus
+      Pages: 123, 124
+      "XLIX. Eighth Terminus."
 
     Emanuel
       Pages: 314r, 322v
@@ -2025,6 +2476,36 @@
       Pages: p. 208
       "...a rectangular signum with the inscription Esto altissimus, vnus, eternus,
       amen..."
+
+    Fifth Terminus
+      Pages: 120, 121
+      "XLVI. Fifth Terminus."
+
+    First Oration at the beginning of the Note
+      Pages: 32
+      "The Light, Truth, Life, Way, Judge, Mercy, Fortitude and Patience, preserve,
+      help me, and have Mercy upon me, Amen."
+
+    First Oration of the 10
+      Pages: 41
+      "This is the first Oration of the 10, which may be pronounced by its self...
+      to acquire Memory, Eloquence and understanding"
+
+    First Terminus
+      Pages: 115, 116
+      "XLII. First Terminus."
+
+    Fourth Terminus
+      Pages: 119, 120
+      "XLV. Fourth Terminus."
+
+    The Gemme and Crown of the Lord
+      Pages: 21
+      "This Oration is also called by Solomon, The Gemme and Crown of the Lord"
+
+    Hazaram hihel...
+      Pages: 129, 130
+      "“Hazaram hihel ...” (XXXI) with its four parts"
 
     Hic magister cum suis sociis
       Pages: p. 258, n.c
@@ -2041,9 +2522,18 @@
       "The first circle for no. 39 has In nomine Patris et Filij et Spiritus
       Sancti..."
 
+    Invocation Prayer (CXXXIII)
+      Pages: 265
+      "Per me [*nomen] et in nomine omnipotentis coroborati Dei vivi et veri
+      Sabaoth"
+
     kostolya, elogo, yetas
       Pages: 107v
       "kostolya, elogo, yetas."
+
+    Lameht ragua...
+      Pages: 126, 130
+      "That most holy prayer: “Lameht ragua...”"
 
     Latin incantation (boat ritual)
       Pages: 22r
@@ -2065,13 +2555,56 @@
       Moloy, Pumiotor, Tamy, Dor, Ym, voco vos vt hie venire debeatis per
       consecracionem huius circuli..."
 
+    Latin Oration/Prologue
+      Pages: 26
+      "Oh omnipotent and eternal God, and merciful Father, blessed before all
+      Worlds"
+
     Lesser Doxology
       Pages: experiment no. 15 (flying throne)
       "...the Ave Maria, part of Psalm 50, the Lesser Doxology..."
 
+    LXXIV Latin Prayer
+      Pages: 150
+      "O God, always the way, the truth, and the life, give your light to flourish
+      in my conscience"
+
+    LXXIX Prayer 20
+      Pages: 151, 152
+      "Hofob, Deus, Pater inmense, a quo procedit omne, quod bonum est"
+
+    LXXV Prayer 18
+      Pages: 150
+      "Honzmorb. lemogethon. hegemothon. hazathay. hazathar. hazamathar."
+
+    LXXVIII Latin Prayer
+      Pages: 151, 152
+      "O king of kings, God of infinite mercy and immeasurable greatness"
+
+    LXXXI Latin Prayer
+      Pages: 152, 153
+      "O King, eternal God, judge and discerner of all good consciences"
+
+    LXXXII Prayer 22
+      Pages: 152, 153, 154
+      "Hanethi, O God, the author and foundation of all piety"
+
+    The Miraculous and Efficacious Foundation of the Physical Science
+      Pages: 19
+      "The Miraculous and Efficacious Foundation of the Physical Science"
+
     Nomen dei ineffabile
       Pages: 322v
       "...per nomen dei ineffabile..."
+
+    Oration for Eloquence
+      Pages: 25
+      "This Holy Oration which followeth, is a certain special Oration, to obtain
+      Eloquence"
+
+    The Oration of the Physical Art
+      Pages: 18–19
+      "Ihesus fili Dominus Incompehensibilis; Ancor, Anacor, Anylos..."
 
     Oriens, Oriens, Oriens
       Pages: 106v
@@ -2080,6 +2613,112 @@
     Per hoc signum sancte crucis...
       Pages: p. 209
       "...gracia dei defendat nos ab omni malo."
+
+    Prayer 1 (Invocation)
+      Pages: 80
+      "Direct, we beg you, O Lord, our actions by your holy inspirations..."
+
+    Prayer 2 (Ave Maria)
+      Pages: 81
+      "Hail Mary, full of grace, the Lord is with thee."
+
+    Prayer 26
+      Pages: 161-162
+      "Pie Deus, misericors Deus, clemens Deus omnipotens omnia dans, fac michi
+      credenti hodie omnia possibilia..."
+
+    Prayer 27
+      Pages: 162-164
+      "Sechce, pie Pater, misericors Fili, clemens Spiritus sancte, Deus, rex
+      ineffabilis et inestimabilis..."
+
+    Prayer 28
+      Pages: 164-166
+      "Elscha, profiteor tibi hodie, Deus, Pater omnium, qui secreta celestia
+      ostendisti."
+
+    Prayer 29
+      Pages: 165-167
+      "Abbadya, omnium regnorum sive potestatum visibilium sive invisibilium
+      dispensator atque dispositor..."
+
+    Prayer 3 (Salve Regina)
+      Pages: 81
+      "Hail holy queen, mother of mercy, Hail our life, our sweetness, and our
+      hope."
+
+    Prayer 30
+      Pages: 167-168
+      "Alpha et Ω, Deus, vivorum dominator et omnium visibilium et invisibilium
+      administrator..."
+
+    Prayer 31
+      Pages: 168-170
+      "Leyste, profiteor tibi hodie, Deus, Pater omnium, qui secreta celestia
+      ostendisti."
+
+    Prayer 32
+      Pages: 170
+      "Horistion, Domine, quia ego servus tuus sum..."
+
+    Prayer 33
+      Pages: 171-172
+      "Jeremon, clementissime Domine, Deus meus, et miserere mei et parce malis
+      meis."
+
+    Prayer 34
+      Pages: 172
+      "Hofbor, excelse Domine, Deus invisibilis..."
+
+    Prayer 4 (Litany of Mary)
+      Pages: 82
+      "O glorious Mary, eternal virgin, glorious mother, mother of the church..."
+
+    Prayer 5 (Sacred Names of Mary)
+      Pages: 85, 86
+      "So you are named Mary, Creator, Mother, Bride, Daughter, Theotan, Rod,
+      Vessel..."
+
+    Prayer 6 (The Creed)
+      Pages: 87
+      "I believe in God, the Father Almighty, Creator of heaven and earth..."
+
+    Prayer 7 (Athanasian Creed)
+      Pages: 88, 89
+      "Whoever wishes to be saved and have the vision of God, should above all
+      things hold to the Catholic faith."
+
+    Prayer in the Beginning
+      Pages: 11, 13
+      "In the Name of the Holy and undivided Trinity, beginneth this most Holy Art
+      of Knowledge... I humbly implore and beseech, that thou wilt mercifully with
+      the Father, illustrate my M"
+
+    Prayer of Consecration
+      Pages: 76-77
+      "That you, O Lord, through the annunciation, the conception... that you would
+      deign to bless and consecrate this most holy name."
+
+    Prayer of Washing
+      Pages: 186-187
+      ""Domine, sancte Pater, omnipotens, eterne Deus...""
+
+    Prayer XXIV
+      Pages: 102
+      "XXIV. Prayer. O God, the most high, invisible God."
+
+    Prayer XXVI
+      Pages: 103
+      "XXVI. Prayer. Iesu, Dei filius incomprehensibilis, hancor. hanacor. hanylos."
+
+    Prayer XXVII
+      Pages: 103
+      "XXVII. Prayer. Eleminator. candones. helos. helee. resphaga."
+
+    Prayer XXX
+      Pages: 104
+      "XXX. Prayer. Memoria irreprehensibilis, sapiencia incontradicibilis et
+      incommutabilis Deus, angelus eterni consilii"
 
     Psalm 120:1 (Vulg.) / Psalm 122:1
       Pages: experiment no. 9
@@ -2090,6 +2729,39 @@
       Pages: experiment no. 15 (flying throne)
       "...says various prayers (the Ave Maria, part of Psalm 50...)"
 
+    The Queen of Tongues
+      Pages: 17
+      "this is an Oration which in the Scriptures we are taught to have alwayes in
+      our mouthes; but it is taken out of the Chaldean Language"
+
+    Second Oration
+      Pages: 42
+      "The next Oration is the second of ten, and giveth Eloquence"
+
+    Second Terminus
+      Pages: 115, 116
+      "XLIII. Second Terminus."
+
+    Semoht gechel...
+      Pages: 129, 130
+      "this prayer must be offered: “Semoht gechel ...” (XXXIX)"
+
+    Seventh Terminus
+      Pages: 122
+      "XLVIII. Seventh Terminus."
+
+    The Signe of the Grace of God
+      Pages: 21–22
+      "Therefore Solomon commandeth it to be called, The Signe of the Grace of God"
+
+    Sixth Terminus
+      Pages: 121, 122
+      "XLVII. Sixth Terminus."
+
+    Splendor or Speculum of Wisdom
+      Pages: 14
+      "This is a holy Prayer... which is called, The Splendor or Speculum of Wisdom"
+
     Tant muructa? tiri?
       Pages: 178
       "...intoning a diabolical incantation that began 'Tant muructa? tiri?'"
@@ -2097,6 +2769,19 @@
     Tetragramaton
       Pages: 314r, 322v
       "...per sanctum Tetragramaton..."
+
+    Theos Megale
+      Pages: 13
+      "Theos Megthe, in tu yma Eurel, &cet."
+
+    Third Oration
+      Pages: 42
+      "This is the third Oration of the ten, and is to be said before the first
+      Figure of Astronomy."
+
+    Third Terminus
+      Pages: 117, 118
+      "XLIV. Third Terminus."
 
     Tu Belial, tu Astaroth, tu Paymon, ad hoc sitis opus michi adiutores
       Pages: p. 208
@@ -2108,24 +2793,50 @@
   PART VII: HISTORICAL PERSONS & PRACTITIONERS
 ==========================================================================================
 
+  Solomon                             x8  | legendary magician, ring-bearer; source of magical
+    pp. 1, 7, 11, 168, 16–23
+  Cush                                x4  | patriarch; human original of Hermes/Buddha/Woden; 
+    pp. 60, 62–63, p. 183, p. 227
+  Nimrod                              x4  | founder-king; founder of first great empire, first
+    pp. 254–256, 298–301, 62–64, p. 133, p. 135
+  Abraham                             x3  | patriarch
+    pp. 154, 157, 158, 168, [56r], [137r]
+  Honorius                            x3  | author/magus
+    pp. 299-301, 49-52, 53
   Johannes Cunalis                    x3  | priest and plebanus; priest-necromancer
     pp. 45–46, section 'Necromancy and Necromancers in Fifteenth-Century Munich'
   Noah                                x3  | antediluvian patriarch
     pp. 246-253, [56r], p. 227
-  Solomon                             x3  | legendary magician, ring-bearer; source of magical
-    pp. 168, 24, 85, 108, 115, 139, 159, 171, p. 374 (98v)
-  Abraham                             x2  | patriarch
-    pp. 168, [56r], [137r]
+  Adam                                x2  | first man; invoked in consecration prayers
+    pp. 157, 158, [58r]
+  Apollonius                          x2  | master of arts; Author/Commentator following Solom
+    pp. 12, 13, 31
   Apuleius                            x2  | source of daimon concept in Christian tradition; R
     pp. 210, 214–215, section 7, Demons and Daimons
+  Daniel                              x2  | invoked for deliverance from lions’ den
+    pp. 180, [56r], [137r]
+  Hermes                              x2  | founder of pagan magic and necromantic tradition
+    pp. 223–225, p. 149, 152–153
+  Hesiod                              x2  | ancient Greek poet; Pagan writer
+    pp. 54, 56
   Honi the Circle-Drawer              x2  | 
     pp. 175
+  Isaac                               x2  | patriarch
+    pp. 157, 158, 168
+  Jacob                               x2  | patriarch
+    pp. 157, 158, 168
+  Jesus Christ                        x2  | redeemer; savior, Lord, creator
+    pp. 175, 82, 83, 84, 87, 89
   Johannes Hartlieb                   x2  | 15th-century German physician/magical writer; cite
     pp. 47–52, n/a (cited in Kieckhefer)
   Jubertus of Bavaria                 x2  | confessor/witness; confessor/associate of Johannes
     pp. 45, section 'Necromancy and Necromancers in Fifteenth-Century Munich'
+  King Solomon                        x2  | Recipient of Angelic teaching, witness to the Myst
+    pp. 24-31, 32
   Master Peter of Ardene              x2  | surgeon
     pp. n/a (exemplum narrative), p.154
+  Moses                               x2  | lawgiver invoked in consecration prayers
+    pp. 154, 156, [56r], [137r]
   Socrates                            x2  | supposed ancient authority cited by compiler
     pp. 63, p. 402
   Socrates (as authority)             x2  | authority cited in circle description
@@ -2138,36 +2849,10 @@
     pp. n/a (Coventry case, mid-1480s), p. 124
   Abdenago                            x1  | one of the three young men
     pp. 168
-  Adam                                x1  | first man; invoked in consecration prayers
-    pp. [58r]
   Agnolo di Corso                     x1  | magician who invoked Satan and Beelzebub
     pp. p. 103
-  Alice Kyteler                       x1  | woman accused of using demonic materials for eroti
-    pp. p. 103
-  Antoninus of Florence               x1  | referenced for burning book emitting lamentation
-    pp. p. 79
-  Balthasar                           x1  | one of the three magi
-    pp. 165
-  boy (puer virgineus)                x1  | medium/seer; must be legitimate-born and chaste
-    pp. p. 371 (97r), p. 375 (99v)
-  boy medium                          x1  | scrying medium
-    pp. p. 118
-  Brother Thomas Asty                 x1  | 
-    pp. p. 123
-  C.S. Lewis                          x1  | coined term 'Lowerarchy' for infernal hierarchy
-    pp. section 7, Demons and Daimons
-  Caesarius of Heisterbach            x1  | preacher/narrator
-    pp. p. 209, n. 14
-  Caspar                              x1  | one of the three magi
-    pp. 165
-  Cecco d’Ascoli                      x1  | medieval scholar; Floron known from his writings
-    pp. n/a (cited in Kieckhefer)
-  Child medium (puer/virgo iuvenis)   x1  | medium in divinatory experiments
-    pp. p.160–161
-  Constantius Africanus               x1  | legendary figure associated with opal invisibility
-    pp. p. 78
-  Daniel                              x1  | invoked for deliverance from lions’ den
-    pp. [56r], [137r]
+  Alexander the Great                 x1  | historical figure
+    pp. 56
 
 ==========================================================================================
   PART VIII: SPIRIT CO-OCCURRENCE NETWORK
@@ -2205,6 +2890,90 @@
 ==========================================================================================
   PART IX: SOURCE TEXT SUMMARIES
 ==========================================================================================
+
+  [ars_notoria chunk 0]
+    This chunk introduces the Ars Notoria as an angelic art revealed to Solomon by God
+    through His angels, emphasizing its purpose of acquiring knowledge of liberal arts
+    and spiritual faculties. It outlines the structure (generals/specials), mentions
+    key figures (Solomon, Apollonius, Turner), describes divine names and prayers
+    (e.g., Hely Scemath, Theos Megale, Splendor of Wisdom), and introduces ritual
+    elements like Notes and Triumphal Figures tied to lunar timing. The text stresses
+    the mystical nature of these elements and their reliance on faith, reverence, and
+    proper timing.
+    Key passages:
+      "The Notory Art revealed by the Most High Creator to Solomon, which the Most
+      High Creator by his Holy Angels ministered to Solomon upon the Alter of th"
+      "Hely, Scemath Amazaz, Hemel, Sathusteon, hheli Tamazam, &cet. which Solomon
+      entitled, His First Revelation; and that to be without any Interpretation:"
+      "That is the first Figure of the Notory Art, which is manifestly sited upon a
+      Quadrangle Note: And this is Angelical Wisdom... and in the Notory Art it"
+
+  [ars_notoria chunk 1]
+    This chunk details the Ars Notoria, a grimoiric system attributed to Solomon
+    involving angelically revealed orations and divine names for acquiring knowledge,
+    eloquence, memory, divination (especially medical prognosis), and protection. It
+    outlines timing (lunar phases), ritual conditions (fasting, devotion), and lists
+    numerous sacred names and prayers with specific applications.
+    Key passages:
+      "Let it be read in appointed times of the Lunation; as, in the fourth day of
+      the Moon, the eighth and twelfth... verily believing, That thereby thy stu"
+      "This is that onely which Solomon calls The happiness of Wit: and M.
+      Apollonius termeth it, The Light of the Soul, and the Speculum of Wisdom"
+      "If you would have the perfect knowledge of any Disease... stand before him
+      and say this Oration three times with great reverence."
+
+  [ars_notoria chunk 2]
+    This chunk details the specific Orations and Notes required to acquire knowledge
+    in the Liberal Arts, particularly Grammar, Logic, and Rhetoric. It includes
+    warnings about the dangers of presumptuous use, instructions on lunar timing for
+    rituals, and descriptions of the Angelic transmission of these arts to Solomon.
+    Key passages:
+      "four Angels which he had offended in presumtuous reading so sacred a mystery"
+      "This Holy Oration which followeth, is a certain special Oration, to obtain
+      Eloquence"
+      "The Grammatical Art... hath three things necessary thereunto; Ordination of
+      words and times"
+
+  [ars_notoria chunk 3]
+    This chunk details specific orations, divine names, and angelic entities
+    associated with the various liberal arts (Grammar, Logic, Rhetoric, Arithmetic,
+    Geometry, Theology, Philosophy). It provides instructions on timing for rituals,
+    such as observing lunar phases, and warns of the spiritual dangers of
+    disrespecting the sacred notes.
+    Key passages:
+      "The Lord hath forbid thee to enter into the Temple 80 days, that thou maist
+      repent of thy sin."
+      "The Note is to be looked into, with fear, silence and trembling."
+      "These Orations ought to be said alwayes before noon, every day of the Moneth;
+      and before the Notes say the proper Orations"
+
+  [ars_notoria chunk 4]
+    This chunk details the 'Artem Novam' section of the Ars Notoria, providing
+    specific instructions for performing various Orations to acquire knowledge,
+    memory, and eloquence. It outlines required spiritual preparations such as
+    fasting, chastity, and abstinence from sin, while presenting several specific
+    prayers and incantations addressed to the Divine.
+    Key passages:
+      "it is good to fast two or three dayes; that is may be Divinely revealed,
+      whether thy desires be good or evil."
+      "This is the first Oration of the 10, which may be pronounced by its self,
+      without any precedent work to acquire Memory, Eloquence and understanding"
+      "The next Oration is the second of ten, and giveth Eloquence, which ought to
+      be said after the other; a little interval in between"
+
+  [ars_notoria chunk 5]
+    This chunk details specific ritual procedures for acquiring memory, eloquence, and
+    understanding through the use of orations, psalms, and sigils. It provides
+    instructions on timing (new moon), physical preparation (fasting, cleanliness),
+    and the consecration of a 'Figure of Memory' using incense and specific nocturnal
+    postures.
+    Key passages:
+      "Now in the Name of Christ, on the first day of the Month, in which thou
+      wouldst acquire Memory, Eloquence and Understanding"
+      "The Operator ought to be clean, chaste, to repent of his sins, and earnestly
+      desire to cease from sinning"
+      "When thou wilt operate in the new Moon, kneeling say this verse: Lift up the
+      light of thy Countenance upon us"
 
   [forbidden_rites_pdf chunk 1]
     This chunk introduces the conceptual framing of magical books as sacred objects
@@ -2673,6 +3442,350 @@
       sow and arouse as much hatred between so-and-so and so-and-so, whose name"
       "O Dyacon, Pumeon, Termines, Peripaos, Midain, Fabin, Gebel, Dorayl, Vmeloth,
       Tereoth and Bireoth, most benevolent spirits who sow concord [...] that b"
+
+  [liber_juratus chunk 1]
+    This chunk discusses the historical influences on the Liber Juratus Honorii,
+    specifically Western/Latin and Byzantine Christianity. It details various angelic
+    hierarchies, planetary spirits (particularly for the Moon), and compares name
+    variations across different manuscripts like the Heptameron and Astromagia of
+    Alfonso X.
+    Key passages:
+      "Honorius includes both the Apostle’s Creed and the Athanasian Creed"
+      "Engrave on the sigil the name of the angel and the wind serving the Moon, and
+      commanding over its sign (which is Cancer), with his aides."
+      "Each group of air demons and wind demons is under the authority of three
+      angels who, under the direction of an archangel, impose his authority through"
+
+  [liber_juratus chunk 10]
+    This chunk details specific ritual procedures for the 'First Purification,'
+    including precise lunar timings, prayer sequences, and required states of
+    chastity. It also provides instructions for special circumstances, such as seeking
+    legal justice or interacting with spirits, and lists several divine names and
+    prayers.
+    Key passages:
+      "If however your petition is rejected, consider another time in which to seek
+      permission, and then prepare yourself better before God"
+      "whoever wishes to say those prayers must be chaste and clean, and offer them
+      with devotion"
+      "to compel the spirits of the air and the earth into coming and obeying."
+
+  [liber_juratus chunk 11]
+    This chunk contains a collection of liturgical prayers (numbered LVII to LXXVI)
+    from the Liber Juratus. These prayers utilize various divine names, angelic
+    hierarchies, and 'voces magicae' (magical names) to petition God for spiritual
+    vision, purification, wisdom, and the effectiveness of the 'art'.
+    Key passages:
+      "Lamyhara, omnipotens, misericors Pater, omnium creaturarum ordinator"
+      "grant unto me those things which I desire and I believe, the glory and grace
+      of this vision"
+      "adorn my intelligence this day, and multiply in me a penitent and clarifying
+      reasoning"
+
+  [liber_juratus chunk 13]
+    This chunk contains a series of liturgical prayers (Prayers 26 through 34)
+    intended for the practitioner to achieve a divine vision. It includes various
+    lists of sacred names and sacraments used to purify the soul and strengthen the
+    mind for spiritual encounter.
+    Key passages:
+      "make all things possible today, to me, a believer, and help my very disbelief
+      today"
+      "that I may receive inwardly that which you will give and retain and be suited
+      for having the vision of your person"
+      "I am a poor sinner presuming to undertake this ceremony, for seeing and
+      recognizing this vision"
+
+  [liber_juratus chunk 15]
+    This chunk details the second purification for a Divine Vision, including fasting
+    requirements (12 days bread and water), prayers before receiving the Eucharist,
+    and specific divine names to invoke. It outlines the 'Separation' phase where the
+    practitioner isolates themselves, recites psalms, and uses lists of God's names
+    for protection and cleansing. The text concludes with instructions for the
+    Completion of the Work involving a bed of hay on ashes surrounded by written
+    names.
+    Key passages:
+      "Mundato igitur et macerato corpore volentis videre celeste palacium ipsum
+      mundissimum esse iubemus"
+      "Tu, Domine Iesu Christe, salvator omnium, qui pro me, miserimo peccatore...
+      voluisti corpus tuum salubriter immolare"
+      "Agla, Monhon, Tetragramaton, Ely Deus, Ocleiste, Amphynethon, Lamyara,
+      Ianemyer, Sadyon, Hely, Horlon, Porrenthimon"
+
+  [liber_juratus chunk 15]
+    This chunk details the final stages of a ritual (CI), including the preparation of
+    a hay bed on ashes and the recitation of 100 Divine Names. It prescribes
+    purification through cold water, specific attire (sackcloth/black garments), and a
+    lengthy prayer invoking divine names associated with biblical events like the
+    Nativity and Resurrection to achieve a vision of God while alive.
+    Key passages:
+      ""On Thursday begin in the morning; saying as you said on the preceding, and
+      then you should make a bed of hay...""
+      ""100 Dei vivi nomina. 1. Agla, 2. Monon, 3. Tetragramaton...""
+      ""He should take clear cold spring water, and wash himself, saying: 'Domine,
+      sancte Pater...'""
+
+  [liber_juratus chunk 16]
+    This chunk details the second treatise of the Liber Juratus, outlining various
+    planetary spirits (Saturnian, Jovial, Martian, etc.), their natures, physical
+    forms, and hierarchies. It also provides specific instructions for the
+    construction of a ritual circle using stones and mortar, and includes a prayer for
+    the invocation of angels.
+    Key passages:
+      "the operator must beware, lest he is in mortal sin, because if so, he will go
+      insane"
+      "to know the spirits of the fire, their names, superiors and sigils, powers
+      and virtues"
+      "their nature is to cause sadness, anger, and hatred, to create snow and ice
+      together"
+
+  [liber_juratus chunk 17]
+    This chunk details the ritual procedures for the Second and Third Days of a
+    magical operation, including the use of pearls on charcoal, the drawing of two
+    circles, and the invocation of specific planetary angels. It provides lists of
+    angelic names categorized by their celestial spheres (Saturn, Jupiter, Mars, Sun,
+    Venus, Mercury, Moon) and includes specific binding formulas using divine names.
+    Key passages:
+      "place pearls on glowing charcoal in the censer, which [will be suffumigated]
+      from the place (or direction) of invocation"
+      "draw two circles, with one separated from the other by one foot, doing this
+      with a new knife"
+      "The third day, being bathed and putting on garments of clean white hemp, and
+      the hairs from your body clean shaved"
+
+  [liber_juratus chunk 18]
+    This chunk details the invocation of powerful angels using various divine names
+    and concludes a ritual procedure involving signs and hand positions. It also
+    introduces the Third Treatise concerning 'Spirits of the Air,' categorizing them
+    by direction (East, West, South) and providing their specific hierarchies,
+    physical appearances, elemental associations, and magical properties.
+    Key passages:
+      "and by his ineffable name Tetragrammaton, which Aaron wore on his forehead"
+      "here make the sign of the cross on the ground, with eyes closed, saying"
+      "here he should hold his hand inverted over his head, and show the sign to
+      them."
+
+  [liber_juratus chunk 19]
+    This chunk details the specific spirits and angels associated with four
+    directional regions (North, East/South, South/West, West/North), including their
+    names, hierarchies, physical descriptions, powers, and signs of invocation. It
+    concludes with detailed ritual instructions for purification, circle construction,
+    drawing sigils like the heptagon, and using divine names to protect and command
+    these entities.
+    Key passages:
+      "Their nature is to sow discord, create hatred, evil thoughts, theft, and
+      greed; they give lead if desired, kill anyone, and destroy limbs."
+      "Their bodies are long and slender, full of wrath and anger. They have four
+      faces: one is forward, another behind..."
+      "If therefore anybody wishes to operate with those spirits, we must first warn
+      him strictly that he must be thoroughly purified... until he comes to th"
+
+  [liber_juratus chunk 2]
+    This chunk details the cosmological structure of the Honorius magic system,
+    including a seven-fold universe of planets, elements, and directions. It provides
+    specific lists of divine names (Shem ha-Meforash), hierarchies of angels and
+    demons, and an extensive inventory of ritual tools, ingredients, and preparatory
+    requirements for the practitioner.
+    Key passages:
+      "The magic circle is required for calling spirits, and is described as
+      providing the “greatest fortification” against the spirits."
+      "The use of the names of God is central to the method of Honorius..."
+      "The seventy-two letter name of God... is derived from the initial letters of
+      seventy-two names of God."
+
+  [liber_juratus chunk 20]
+    This chunk details the ritual procedures for 'raising up the winds' using specific
+    circles, incantations, and elemental directions. It also provides instructions for
+    the third day of operations, including required tools like swords and incense, and
+    lists various kings and their ministers to be invoked on different days of the
+    week.
+    Key passages:
+      "Then you should have incense and a censer, in which should be glowing
+      charcoals, and you should put the incense over the glowing charcoals"
+      "the head and crown of your prince Belzebut compels you to arise and come."
+      "The raising up of the spirits of the Sun, which should particularly be done
+      on a Sunday."
+
+  [liber_juratus chunk 21]
+    This chunk details the ritual procedure for raising specific kings and their
+    ministers (Maymon, Barthan, Formione, etc.) using a circle, swords, and divine
+    names. It outlines the placement of associates and tools in cardinal directions,
+    the use of incense fumigation, and recites extensive invocations binding spirits
+    to obey through holy names and seals.
+    Key passages:
+      "Where is King Maymon? Where are his ministers Assaibi, Albunalich,
+      Haibalidech, and Iasfla?"
+      "Exeat hic potentissimus rex Barthan cum omnibus suis suffraganeis in virtute
+      celesti meam facere voluntatem"
+      "Then you should enter the circle through the part between Frigicap and the
+      West"
+
+  [liber_juratus chunk 22]
+    This chunk details the conjuration of airy powers and angels using specific names
+    for seven swords, followed by instructions to placate spirits through kneeling and
+    signs. It concludes with Chapter CXXXV describing earth spirits (Labadau,
+    Asmodeus) and their ministers in four directions.
+    Key passages:
+      "I call upon you, O airy powers of the East, Barthan, Formione, Iammax"
+      "per capud principis vestri Belzebub, cui debetis obedire"
+      "through this ineffable name 'Tetragrammaton:' IOHT, HE, VAU, DALETH"
+
+  [liber_juratus chunk 23]
+    This chunk details the hierarchy and attributes of terrestrial spirits including
+    Labadau, Asmodeus, and Corniger's attendants, along with their ritual requirements
+    like sulfur suffumigation and specific circles. It transitions to Book Five,
+    outlining five treatises concerning divine vision, angels, and absolution,
+    followed by detailed prayers for consecrating blood as ink for the Seal of God.
+    Key passages:
+      "Princeps eorum est Labadau. Eius coadiutor est Asmodeus, qui dat thesaurum
+      indestructibilem cuiuslibet monete."
+      "Corniger (“horn-bearing”) is king of the south, and he has four attendants in
+      the four parts of the world: Trocornifer in the East, Malafer in the Wes"
+      "Deus invisibilis, Deus inestimabilis, Deus ineffabilis, Deus
+      incommutabilis..."
+
+  [liber_juratus chunk 24]
+    This chunk details the final days of purification involving specific masses for
+    days 4 through 16, followed by instructions for raising winds and preparing ritual
+    tools like a square wand and heptagonal whistle inscribed with divine names and
+    spirit kings. It distinguishes summoning circles for good angels versus aerial or
+    terrestrial spirits and concludes with the book's claimed powers and authorship by
+    Honorius.
+    Key passages:
+      "Excitacio ventorum est principium operandi in illa XIa hora diei operis sacri
+      et debet fieri extra domum, longe a circulo ad duo stadia vel tria."
+      "Virga autem sit quadrata, et in uno latere scribatur in summitate Adonay; on
+      the second side Sabaoth; on 3 Hiskiros; on 4 Emanuel."
+      "Fac sibilum de ere albo vel de argento vel de auro vel avellana, et sit
+      eptagonum, id est septem latera habens."
+
+  [liber_juratus chunk 25]
+    This chunk contains bibliographic references and an index of spirit names from the
+    Liber Juratus Honorii, detailing attributes like planetary associations,
+    hierarchies, and moral alignments. It lists specific entities such as Abaa, Anael,
+    and Asmodeus along with their roles within the magical cosmology described in the
+    text.
+    Key passages:
+      "king of the spirits of the air of Mercury, governing between the West and
+      North"
+      "prince of angels associated with the planet Venus and the southwest. The name
+      of this angel is found on the Seal of God."
+      "This demon is the best well known of all spirits listed by Honorius,
+      including from the Book of Tobit and the Testament of Solomon."
+
+  [liber_juratus chunk 26]
+    This chunk contains an index of spirit names, divine names, and ritual elements
+    from the Liber Juratus. It details hierarchies of kings, daemons, and angels
+    associated with planetary bodies (Sun, Moon, Mars, etc.) and cardinal winds, as
+    well as references to the Seal of God.
+    Key passages:
+      "Name of this angel is found on the Seal of God."
+      "Iammax... king of daemons associated with Mars and the south. King of spirits
+      of the air... said to be evil, arrogant, and wild."
+      "AGLA, Hebrew (acronym). Also in 72 names, as well as Seal of God"
+
+  [liber_juratus chunk 27]
+    This chunk contains the index entries for the Liber Juratus Honorii, detailing a
+    vast array of entities including angels, spirits (elemental, aerial, infernal),
+    and divine names like Shem ha-Meforash. It lists ritual elements such as magic
+    swords, wands, incense, and purification procedures, alongside planetary
+    correspondences and historical figures associated with Solomonic magic.
+    Key passages:
+      "spirits, 33-34 and passim; adjuration, 267; appearance, 279;"
+      "Seal of God (Seal of Solomon, Signum Dei, Sigillum Dei), 8-9, 16n, 23, 27,
+      32, 37, 39-40, 61, 65-75, 183n, 201n, 213, 217, 221, 243, 251, 259, 263, 26"
+      "hierarchy of angels, 17, 33, 55, 61, 65, 145, 175, 193, 197, 199, 271, 285,
+      289, 291, 299"
+
+  [liber_juratus chunk 3]
+    This chunk details the ritual procedures, tools, and historical context of the
+    Liber Juratus Honorii. It describes specific stages of magic operations
+    (purification, fasting, sleep visions), mentions key entities like Honorius and
+    the angel Hocrohel, and outlines the components of Solomonic magic such as seals,
+    wands, and sacred names.
+    Key passages:
+      "The core ritual takes seventy-two days in the London Honorius, but forty days
+      in SSM."
+      "And he, with the consulting angel Hocrohel, named seven books of the magic
+      art"
+      "the hundred sacred names of God are included in this book"
+
+  [liber_juratus chunk 4]
+    This chunk details the contents and structure of the 'Sworn Book', outlining
+    various works concerning divine visions, angelology, and spirit binding. It also
+    provides specific instructions for constructing the Seal of God using geometric
+    shapes and sacred names.
+    Key passages:
+      "The first topic, concerning the composition of the great name of God, which
+      the Hebrews call “Shem Ha-Meforash,” and is of 72 letters"
+      "There are three types of angels, the celestial, the aerial, and the earthly."
+      "the nine orders of angels, namely, the Cherubim, Seraphim, Thrones,
+      Dominations, Virtues, Principalities, Powers, Archangels, and Angels"
+
+  [liber_juratus chunk 5]
+    This chunk details the construction, coloring, and consecration of the Seal of the
+    True and Living God. It specifies geometric layouts (circles, pentagon,
+    heptagons), divine and angelic names to be inscribed, materials for writing
+    (specific animal bloods), and ritual requirements for the practitioner
+    (abstinence, penance).
+    Key passages:
+      "First make a single circle, whose diameter is three fingers (on account of
+      the three nails of the Lord)... or else 5 (for the five plagues)"
+      "But in the operations it must be done otherwise, because it should be written
+      with the blood either of a mole, a turtledove, or hoopoe, or of a bat"
+      "First he must perform true penance and confession. He must separate himself
+      from women, and from seeing them."
+
+  [liber_juratus chunk 6]
+    This chunk details the spiritual and physical preparations required for the divine
+    vision, including penance, cleanliness, and constant prayer. It provides a
+    collection of liturgical prayers focused on the Virgin Mary, the Holy Trinity, and
+    the Apostles' Creed to establish necessary faith.
+    Key passages:
+      "First he must perform true penance and confession. He must separate himself
+      from women, and from seeing them."
+      "the same angels, who are pure, are assembled together with men. Therefore
+      they greatly desire clean garments"
+      "Direct, we beg you, O Lord, our actions by your holy inspirations, and carry
+      them on by your gracious assistance"
+
+  [liber_juratus chunk 7]
+    This chunk contains theological creeds regarding the nature of Christ, followed by
+    a series of prayers (XIV through XXV) including invocations to divine names and
+    angels. It provides specific ritual instructions on how to modify petitions for
+    different purposes such as calling spirits, obtaining knowledge, or consecrating
+    books.
+    Key passages:
+      "Pater noster, qui es in celis, sanctiﬁcetur nomen tuum. Adveniat regnum
+      tuum."
+      "Alpha et Ω, Deus omnipotens, principium omnium rerum sine principio, ﬁnis
+      sine ﬁne"
+      "Michael, id est medicina Dei, Raphael, fortitudo Dei, Gabriel, ardens"
+
+  [liber_juratus chunk 8]
+    This chunk contains a series of liturgical prayers (XXIV through XLI) containing
+    various divine names, angelic hierarchies (Seraphim, Cherubim), and lists of
+    ineffable names. The text focuses on petitions for spiritual vision, purification,
+    and the strengthening of memory and intellect through the power of God and His
+    angels.
+    Key passages:
+      "O God, the most high, invisible God. Theos. Patir. behemnos. lehernnyos.
+      behenny."
+      "Michael, i.e. the medicine of God, Raphael, the Strength of enough, Gabriel,
+      burning"
+      "I beseech you, O my Lord: illuminate and clarify my soul and conscience with
+      the brilliance of your light"
+
+  [liber_juratus chunk 9]
+    This chunk contains long lists of divine, angelic, and demonic names organized
+    into 'Termini' (Ends) for specific ritual stages. It also provides detailed
+    instructions on the timing, fasting, and spiritual state required for performing
+    these prayers, including protocols for handling prayer rejection.
+    Key passages:
+      "eight are preparation of the way to work, and preparation of the work for
+      obtaining"
+      "The eight prayers are placed at the end, which are called the eight Termini
+      (or “Ends”), and regarding them I say, that they are effective for obtaini"
+      "one Friday, after sincerely repenting and confessing, you must fast on bread
+      and water."
 
   [necro chunk 10]
     This chunk details a complex love magic ritual from the Munich Handbook (CLM 849),
@@ -3354,21 +4467,30 @@
   APPENDIX: DATABASE STATISTICS
 ==========================================================================================
 
-  Total raw entities extracted:  2903
-  Unique entities after merge:   2058
-  Total relationships:           1018
-  Chunk summaries:               67
+  Total raw entities extracted:  3507
+  Unique entities after merge:   2467
+  Total relationships:           1200
+  Chunk summaries:               99
 
-  Munich Handbook spirits:       1058
-  Munich Handbook rituals:       212
-  Munich Handbook ingredients:   192
-  Munich Handbook tools:         117
-  Munich Handbook incantations:  31
-  Munich Handbook divine names:  15
-  Munich Handbook persons:       89
+  Sources: ars_notoria, forbidden_rites_pdf, liber_juratus, necro, worship_dead
+
+  All-source spirits:            1254
+  All-source rituals:            323
+  All-source ingredients:        205
+  All-source tools:              156
+  All-source incantations:       91
+  All-source divine names:       102
+  All-source persons:            163
+
+  Per-source entity counts:
+    forbidden_rites_pdf        1338 entities
+    necro                      1255 entities
+    liber_juratus               500 entities
+    worship_dead                276 entities
+    ars_notoria                 102 entities
 
   Table D spirits found:         7 / 11
-  Multi-source spirits:          263
+  Multi-source spirits:          266
 
 ==========================================================================================
   END OF GUIDE

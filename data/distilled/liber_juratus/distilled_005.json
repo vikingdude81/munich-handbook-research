@@ -1,0 +1,197 @@
+{
+  "source_id": "liber_juratus",
+  "chunk_id": 5,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Seal of God / Seal of the True and Living God",
+      "type": "sigil",
+      "attributes": {
+        "purpose": "To perform operations, see divine vision",
+        "components": "Circles, Pentagon, Heptagons, Crosses"
+      },
+      "page_ref": "65-78",
+      "raw_quote": "Concerning the composition of the Seal of the True and Living God."
+    },
+    {
+      "name": "Shem Ha-Meforash / Semenphoras",
+      "type": "divine_name",
+      "attributes": {
+        "letter_count": 72,
+        "location": "Between circles"
+      },
+      "page_ref": "65-66",
+      "raw_quote": "great name of the Lord Shem Ha-Meforash of seventy-two letters."
+    },
+    {
+      "name": "El / Ely / Eloy",
+      "type": "divine_name",
+      "attributes": {
+        "location": "Center, spaces under crosses"
+      },
+      "page_ref": "66, 71-73",
+      "raw_quote": "write the name of God El and sub nomen aliud Dei, scilicet Ely."
+    },
+    {
+      "name": "Casziel",
+      "type": "angel",
+      "attributes": {
+        "location": "Side of heptagon"
+      },
+      "page_ref": "67-68",
+      "raw_quote": "write this name of the holy angel, which is Casziel."
+    },
+    {
+      "name": "Satquiel",
+      "type": "angel",
+      "attributes": {
+        "location": "Side of heptagon"
+      },
+      "page_ref": "67-68",
+      "raw_quote": "which is Satquiel."
+    },
+    {
+      "name": "Samael",
+      "type": "angel",
+      "attributes": {
+        "location": "Side of heptagon"
+      },
+      "page_ref": "67-68, 74",
+      "raw_quote": "Then in the next Samael... The angel Samael said to Solomon."
+    },
+    {
+      "name": "Raphael / Anael / Michael / Gabriel",
+      "type": "angel",
+      "attributes": {
+        "location": "Sides of heptagon"
+      },
+      "page_ref": "67-68, 70",
+      "raw_quote": "postea Anael, postea Michael, postea Gabriel."
+    },
+    {
+      "name": "Narath / Libarre / Libares / Lialg / Ueham / Yalgal",
+      "type": "divine_name",
+      "attributes": {
+        "location": "Sides of heptagon"
+      },
+      "page_ref": "69-70",
+      "raw_quote": "scribatur hoc nomen sanctum Dei: Narath."
+    },
+    {
+      "name": "Vos / Duynas / Gyram / Gram / Aysaram / Alpha / Omega",
+      "type": "divine_name",
+      "attributes": {
+        "location": "Third heptagon sides"
+      },
+      "page_ref": "71-72",
+      "raw_quote": "in the next side to the right of the same third heptagon this name: Duynas."
+    },
+    {
+      "name": "On / Adonay / Saday / Sother / Christus (Χρς)",
+      "type": "divine_name",
+      "attributes": {
+        "location": "Spaces under crosses"
+      },
+      "page_ref": "71-73",
+      "raw_quote": "in the other under the fourth cross again On."
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {
+        "role": "Recipient of inspiration, speaker"
+      },
+      "page_ref": "74-75",
+      "raw_quote": "Inspirante Domino dixit Salomon: Vnus est [et] solus Deus."
+    },
+    {
+      "name": "Pentagon / Heptagons / Circles / Crosses",
+      "type": "ritual",
+      "attributes": {
+        "colors": "Red pentagon, Azure heptagon, Purple third heptagon, Black circles"
+      },
+      "page_ref": "65-73",
+      "raw_quote": "First make a single circle... Then below that circle make another circle."
+    },
+    {
+      "name": "Blood of Mole / Turtledove / Hoopoe / Bat",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "Writing the seal"
+      },
+      "page_ref": "74-75",
+      "raw_quote": "written with the blood either of a mole, a turtledove, or hoopoe, or of a bat."
+    },
+    {
+      "name": "Virgin Parchment (Calf / Foal / Deer)",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "Surface for seal"
+      },
+      "page_ref": "74-75",
+      "raw_quote": "formed on virgin parchment, either from a calf, foal, or deer."
+    },
+    {
+      "name": "Suffumigation Ingredients (Amber / Musk / Aloe / Labdanum / Mastic / Frankincense / Pearls)",
+      "type": "ingredient",
+      "attributes": {
+        "usage": "Consecration"
+      },
+      "page_ref": "75-76",
+      "raw_quote": "suffumigetur hoc sigillum ambra, musco, aloe, lapdano albo et rubeo."
+    },
+    {
+      "name": "New Gloves (without chalk)",
+      "type": "tool",
+      "attributes": {
+        "usage": "Holding the seal"
+      },
+      "page_ref": "77-78",
+      "raw_quote": "habeas cirothecas novas sine creta factas."
+    },
+    {
+      "name": "Prayer of Consecration",
+      "type": "prayer",
+      "attributes": {
+        "purpose": "Bless seal, gain powers"
+      },
+      "page_ref": "76-77",
+      "raw_quote": "That you, O Lord, through the annunciation, the conception... that you would deign to bless and consecrate this most holy name."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Seal of God",
+      "to": "Pentagon / Heptagons",
+      "type": "contains"
+    },
+    {
+      "from": "Angels (Casziel, etc.)",
+      "to": "Heptagon sides",
+      "type": "inscribed_on"
+    },
+    {
+      "from": "Blood of animals",
+      "to": "Seal of God",
+      "type": "used_to_write"
+    },
+    {
+      "from": "Suffumigation Ingredients",
+      "to": "Seal of God",
+      "type": "consecrates"
+    },
+    {
+      "from": "Practitioner",
+      "to": "Seal of God",
+      "type": "requires_penance_for"
+    }
+  ],
+  "summary": "This chunk details the construction, coloring, and consecration of the Seal of the True and Living God. It specifies geometric layouts (circles, pentagon, heptagons), divine and angelic names to be inscribed, materials for writing (specific animal bloods), and ritual requirements for the practitioner (abstinence, penance).",
+  "key_passages": [
+    "First make a single circle, whose diameter is three fingers (on account of the three nails of the Lord)... or else 5 (for the five plagues)",
+    "But in the operations it must be done otherwise, because it should be written with the blood either of a mole, a turtledove, or hoopoe, or of a bat",
+    "First he must perform true penance and confession. He must separate himself from women, and from seeing them.",
+    "That you, O Lord, through the annunciation, the conception... that you would deign to bless and consecrate this most holy name and your seal",
+    "And thus is completed this sacrosanct seal, whose first heptagon designates the 7 orders, whose second designates the seven twofold events"
+  ]
+}
