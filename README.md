@@ -8,7 +8,9 @@ Mapping medieval conjuration protocols to modern AI agent orchestration patterns
 
 The Munich Handbook (Bayerische Staatsbibliothek, CLM 849) is a 15th-century necromancer's manual containing ~50 numbered experiments for summoning, binding, and commanding spirits. This project uses a multi-GPU AI cluster to extract, normalize, and analyze every entity, relationship, and ritual protocol from the source texts — then maps the structural patterns onto modern AI agent architecture and trains a Self-Organizing Map to reveal the hidden topology of the spirit world.
 
-## Key Outputs
+## Key Projects
+
+### 1. Necromancy & AI Orchestration
 
 | File | Description |
 |------|-------------|
@@ -17,6 +19,20 @@ The Munich Handbook (Bayerische Staatsbibliothek, CLM 849) is a 15th-century nec
 | [`data/unified_entities.json`](data/unified_entities.json) | **Unified database** — 2,467 merged entities, 1,200 relationships, 99 chunk summaries across 5 sources |
 | [`som_output/`](som_output/) | **SOM Infernal Topology** — trained 15×15 Self-Organizing Map with cluster assignments, court labels, and visualizations |
 | [`experiment_results/`](experiment_results/) | **6 conjuration experiments** re-implemented as multi-GPU AI agent workflows |
+
+### 2. Heresy & Revolution: Deconstructionist Rhetoric Analysis
+
+**Cross-referential study of Medieval Heresy Prosecution and 19th-Century Revolutionary Socialism through personality psychology, ressentiment, and entropy scoring.**
+
+| File | Description |
+|------|-------------|
+| [`analysis/heresy_revolution/RESEARCH_METHODOLOGY.md`](analysis/heresy_revolution/RESEARCH_METHODOLOGY.md) | **Full research thesis** — theoretical framework mapping medieval witch persecution to Marxist revolutionary critique |
+| [`analysis/heresy_revolution/QUICKSTART.md`](analysis/heresy_revolution/QUICKSTART.md) | **Setup guide** — ingest PDFs, run extraction pipeline, interpret entropy scores |
+| [`config/heresy_revolution_schema.json`](config/heresy_revolution_schema.json) | **Extraction schema** — semantic vectors for deconstructionist vs. constructive rhetoric, JSON output format |
+| `data/sources/malleus_marx/` | **Chunked source texts** — *Malleus Maleficarum* (1486) + *Selected Works of Karl Marx* (1848) |
+| `data/distilled/malleus_marx/` | **Extracted analyses** — entropy scores, scapegoat identification, rhetorical intensity, constructive proposals per chunk |
+
+**Key Insight:** Both texts show remarkably similar psychological patterns—same scapegoating mechanics (witch ↔ bourgeoisie), identical entropy profiles (high deconstruction, minimal construction), and moral justifications that create social contagion when environments destabilize.
 
 ## Database Statistics
 

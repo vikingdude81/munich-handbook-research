@@ -1,0 +1,128 @@
+{
+  "project_id": "malleus_marx",
+  "title": "Heresy & Revolution: Deconstructionist Rhetoric Analysis (Malleus Maleficarum & Communist Manifesto)",
+  "description": "Cross-referential analysis of medieval heresy prosecution and 19th-century revolutionary socialism through the lens of personality psychology, ressentiment, and entropy scoring.",
+  "sources": [
+    {
+      "id": "malleus_maleficarum",
+      "title": "The Malleus Maleficarum (1486)",
+      "author": "Heinrich Kramer & Jacob Sprenger",
+      "purpose": "Hierarchical analysis of anti-witch persecution as deconstructionist rhetoric targeting perceived moral corruption",
+      "year": 1486
+    },
+    {
+      "id": "communist_manifesto",
+      "title": "Selected Works of Karl Marx (focus on Communist Manifesto & critique texts)",
+      "author": "Karl Marx",
+      "purpose": "Hierarchical analysis of revolutionary anti-capitalist rhetoric and identification of constructive mechanisms",
+      "year": 1848
+    }
+  ],
+  "extraction_schema": {
+    "chunk_analysis": {
+      "primary_mode": {
+        "type": "enum",
+        "values": ["Deconstruction", "Construction", "Mixed", "Neutral"],
+        "description": "Classification of text's primary operational focus"
+      },
+      "deconstruction_targets": {
+        "type": "array",
+        "items": "string",
+        "description": "Entities or concepts the text seeks to destroy/criticize"
+      },
+      "constructive_proposals": {
+        "type": "array",
+        "items": "string",
+        "description": "Specific rules, mechanisms, or structures proposed for replacement"
+      },
+      "rhetorical_intensity": {
+        "type": "integer",
+        "min": 1,
+        "max": 10,
+        "description": "1 = calm observation, 10 = absolute moral condemnation"
+      },
+      "entropy_score": {
+        "type": "integer",
+        "min": 1,
+        "max": 10,
+        "description": "1 = highly ordered/constructive, 10 = purely destructive/tearing down"
+      },
+      "semantic_markers_matched": {
+        "type": "object",
+        "properties": {
+          "deconstructionist": {
+            "type": "array",
+            "items": "string",
+            "description": "Matched words from deconstructionist vector"
+          },
+          "constructive": {
+            "type": "array",
+            "items": "string",
+            "description": "Matched words from constructive vector"
+          }
+        }
+      },
+      "scapegoat_identified": {
+        "type": "object",
+        "properties": {
+          "name": "string",
+          "description": "The 'enemy' or target of moral condemnation",
+          "attributes": "array",
+          "justification": "string"
+        }
+      },
+      "moral_justification": {
+        "type": "string",
+        "description": "How the text rationalizes extreme measures against the defined enemy"
+      }
+    }
+  },
+  "semantic_vectors": {
+    "deconstructionist": {
+      "label": "Entropic / Tear-Down",
+      "focus": "Unmasking, grievance, structural oppression, absolute negation",
+      "target": "The systemic monolith",
+      "markers": [
+        "abolish", "dismantle", "expose", "exploit", "parasitic", "chains", 
+        "corrupt", "eradicate", "overthrow", "subvert", "illusion", "uproot", 
+        "usurp", "tyranny", "oppression", "enslavement", "corruption", "decay",
+        "rot", "poison", "disease", "infection", "plague", "curse"
+      ]
+    },
+    "constructive": {
+      "label": "Negentropic / Build-Up",
+      "focus": "Governance, rule-sets, operational stability, mechanism design",
+      "target": "The replacement system",
+      "markers": [
+        "establish", "maintain", "govern", "structure", "balance", "generate",
+        "cultivate", "administer", "protocol", "law", "order", "sustain",
+        "mechanism", "framework", "principle", "regulation", "system", "design",
+        "construct", "build", "create", "organize", "coordinate", "function"
+      ]
+    }
+  },
+  "comparative_analysis": {
+    "dynamics_mapping": {
+      "the_monolith": {
+        "malleus": "The Church & Crown (Divine Right)",
+        "manifesto": "The Bourgeoisie & Capital"
+      },
+      "the_other": {
+        "malleus": "The Heretic / The Witch",
+        "manifesto": "The Capitalist / The Reactionary"
+      },
+      "promised_utopia": {
+        "malleus": "Spiritual Purity / The Kingdom of Heaven",
+        "manifesto": "The Classless Society / Communism"
+      },
+      "mechanism_of_action": {
+        "malleus": "Inquisition / Spiritual Warfare",
+        "manifesto": "Violent Revolution / Class Struggle"
+      },
+      "psychological_hook": {
+        "malleus": "Moral superiority and cosmic justice",
+        "manifesto": "Historical inevitability and material justice"
+      }
+    }
+  }
+}
