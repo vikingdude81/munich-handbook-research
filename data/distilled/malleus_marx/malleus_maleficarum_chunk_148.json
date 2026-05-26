@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witches as a political movement",
+    "the Illuminati",
+    "organized society of witches",
+    "anti-social and anarchichal world-wide plot against civilization"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "anti-social",
+      "anarchichal",
+      "world-wide plot against civilization",
+      "recruited from the least educated classes, the ignorant and the poor"
+    ],
+    "justification": "The text portrays witches as a coordinated political threat rather than isolated individuals, framing them as enemies of civilization whose activities undermined social order and targeted prominent figures like Edward II."
+  },
+  "moral_justification": "The text morally justifies the persecution of witches by depicting them as dangerous conspirators engaged in subversive political plots that threatened state stability and public safety, with their actions framed as existential threats to established authority and civilization.",
+  "summary": "This passage deconstructs witchcraft as a coordinated political movement rather than a religious or superstitious phenomenon, using intense moral condemnation and historical examples to portray witches as anarchic conspirators threatening civilization, while offering no constructive alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 148
+}

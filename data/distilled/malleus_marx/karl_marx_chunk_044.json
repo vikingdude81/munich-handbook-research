@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the dogma that 'wages determine prices'",
+    "political economists who treat profit and rent as mere percentages upon wages",
+    "the circular reasoning in political economy where value determines value"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Weston",
+    "attributes": [
+      "advocates the wage-determines-price doctrine",
+      "engages in circular logic regarding wages and prices",
+      "fails to resolve the interdependence between labor value and commodity value"
+    ],
+    "justification": "Weston is singled out as a representative figure who initially supports the idea that wages regulate prices, then contradicts himself by showing that rising wages lead to higher prices \u2014 which in turn means wages are determined by prices. His position exemplifies the vicious circle where value determines value, making him a symbolic target for deconstruction of flawed political economy assumptions."
+  },
+  "moral_justification": "The text condemns classical political economists for propagating a false and self-contradictory doctrine that obscures the true nature of value, rendering their entire theoretical framework meaningless. It positions Ricardo as an exception who successfully dismantled this fallacy, implying moral superiority for those who reject tautological reasoning in economics.",
+  "summary": "The passage deconstructs the classical political economy notion that wages determine commodity prices by exposing its circular logic and lack of empirical grounding. It argues that treating profit and rent as mere percentages on wages leads to a self-referential system where value is determined by value, rendering economic reasoning meaningless. While rhetorically intense and morally condemning in tone, it offers no constructive alternative beyond rejecting the existing framework.",
+  "source_id": "karl_marx",
+  "chunk_id": 44
+}

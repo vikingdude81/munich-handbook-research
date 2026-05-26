@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the accused person (N.)",
+    "the practice of witchcraft",
+    "the legitimacy of the Inquisitorial process without formal accusation"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "N. of the town or parish of \u2014 in the Diocese of \u2014, as above",
+    "attributes": [
+      "accused of witchcraft",
+      "alleged perpetrator of injuries to others",
+      "subject of public report and rumor",
+      "potential victim of false testimony"
+    ],
+    "justification": "N. is portrayed as the target of a secret, rumor-driven process lacking formal accusation, where guilt is inferred from mere 'savouring of witchcraft' and unverified claims, making him the central figure condemned without due process."
+  },
+  "moral_justification": "The text frames witchcraft as an existential threat to faith and the common good of the State, justifying a secretive, oath-bound, and interrogative process that bypasses traditional accuser requirements. The moral imperative is to uphold religious orthodoxy and social order against perceived heretical acts.",
+  "summary": "The passage details a deconstructive Inquisitorial procedure for witchcraft accusations based on rumor rather than formal testimony, emphasizing secrecy, oaths, and interrogation to extract confessions while undermining due process. It condemns the accused as inherently suspect and positions the Judge as an enforcer of religious and social order through procedural manipulation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 105
+}

@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "bourgeois property",
+    "private property as defined by bourgeois society",
+    "individuality under bourgeois conditions",
+    "freedom of trade and selling/buying under capitalism"
+  ],
+  "constructive_proposals": [
+    "abolition of bourgeois private property",
+    "transformation of personal property into common property without class character",
+    "redefinition of labor's role so that accumulated labor enriches the laborer rather than capitalists"
+  ],
+  "scapegoat": {
+    "name": "the bourgeoisie",
+    "attributes": [
+      "property owner",
+      "middle-class individual",
+      "exploiter through private property",
+      "beneficiary of class antagonism",
+      "defender of bourgeois freedom and independence"
+    ],
+    "justification": "The text consistently frames the bourgeoisie as the sole beneficiary of existing property relations, the defender of a system that reduces living labor to a tool for capital accumulation, and the group whose 'individuality' and 'freedom' are portrayed as dependent on class exploitation. It is the central target of condemnation and redefinition."
+  },
+  "moral_justification": "The moral justification centers on the inherent injustice of class antagonism and exploitation: private property in bourgeois hands is not a natural right but a social relation rooted in the exploitation of the many by the few, and its abolition is framed as necessary for human emancipation and the end of systemic oppression.",
+  "summary": "This passage deconstructs bourgeois ideology by exposing private property as a historically contingent construct tied to class exploitation, particularly capital-wage labor antagonism. It rejects moral claims about personal freedom and self-acquired property while proposing collective ownership and reorienting labor's purpose toward enriching the worker rather than capital. The rhetoric is highly charged with revolutionary urgency, targeting the bourgeoisie as the embodiment of oppressive individuality.",
+  "source_id": "karl_marx",
+  "chunk_id": 23
+}

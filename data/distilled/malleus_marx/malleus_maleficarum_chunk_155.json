@@ -1,0 +1,23 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Fr. Thurston"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Fr. Thurston",
+    "attributes": [
+      "dismissive of authoritative writers",
+      "accused of deliberate falsification (implied)",
+      "criticized for minimizing important contributions"
+    ],
+    "justification": "He is condemned for dismissing numerous authoritative writers as 'comparatively few and unimportant,' which the text presents as an unjust and potentially dishonest minimization of scholarly contributions, suggesting deliberate falsification ('suggestio falsi')."
+  },
+  "moral_justification": "The text condemns Fr. Thurston's selective dismissal of credible scholarship as morally problematic, implying intellectual dishonesty in undermining established authority while claiming moral vigilance.",
+  "summary": "This passage deconstructs Fr. Thurston's credibility by highlighting his unjust dismissal of authoritative writers and implying deliberate falsification, using high rhetorical intensity to condemn his selective scholarship without offering constructive alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 155
+}

@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "wizards",
+    "archer-wizards",
+    "mages who enchant weapons",
+    "patrons and protectors of wizards",
+    "Bishops and Rulers who fail to suppress witchcraft"
+  ],
+  "constructive_proposals": [
+    "judges must examine charms in confession or court",
+    "delete unknown words and signs while preserving Gospel words and the sign of the Cross",
+    "sentence offenders after a second method",
+    "complete riddance of charms carried by merchants through confessor or judge"
+  ],
+  "scapegoat": {
+    "name": "archer-wizards and mages who enchant weapons",
+    "attributes": [
+      "manifestly guilty of flagrant heresy",
+      "express pact with the devil",
+      "feats impossible without devil's help",
+      "tacit compact with the devil through unknown words and characters"
+    ],
+    "justification": "The text explicitly labels archer-wizards as 'manifestly guilty of flagrant heresy' due to their expressed pact with the devil, claiming their powers derive from diabolic assistance rather than divine or natural means."
+  },
+  "moral_justification": "These practices are condemned because they involve a tacit compact with the devil, constitute apostasy from the Faith, and empower individuals who oppress others under false spiritual pretenses, warranting divine and legal retribution.",
+  "summary": "The passage deconstructs witchcraft practices by condemning their diabolic origins and heretical nature while prescribing specific judicial and ecclesiastical procedures for investigation and punishment; it targets wizards, their patrons, and negligent religious authorities as corrupting influences that must be eradicated through formal legal and spiritual mechanisms.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 78
+}

@@ -1,0 +1,24 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Construction",
+  "entropy_score": 2,
+  "rhetorical_intensity": 3,
+  "deconstruction_targets": [],
+  "constructive_proposals": [
+    "exorcisms of the Church",
+    "true contrition and confession for mortal sin",
+    "Holy Communion of the Eucharist",
+    "visitation of shrines",
+    "prayers of holy men",
+    "lifting the sentence of excommunication"
+  ],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "Possession is framed as either a consequence of grave personal sin, a means for spiritual purification, or a result of another's grave sin sent for the person's ultimate good by a merciful divine order; devils are portrayed as instruments of humility and divine justice rather than arbitrary evil.",
+  "summary": "The text constructs a theological framework in which demonic possession is not random but purposeful\u2014serving as a corrective mechanism rooted in moral causality. It proposes structured, sacramental remedies for liberation from possession, emphasizing the Church's authority through exorcism, Eucharist, and confession. The tone is didactic and authoritative, with moderate emotional intensity, reflecting a constructive intent to restore order and divine justice rather than merely condemn or deconstruct.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 88
+}

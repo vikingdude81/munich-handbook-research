@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches",
+    "Informers",
+    "Judges",
+    "The accused (especially women)"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "accused of causing harm through supernatural means",
+      "engages in deceptive behavior to create false accusations",
+      "operates under the influence of devils",
+      "is unpunished despite causing moral corruption"
+    ],
+    "justification": "The text portrays witches as agents of the devil who manipulate events and people to sustain their power, while remaining beyond legal accountability. It emphasizes their deceptive tactics \u2014 such as fabricating accusations or using minor actions to incite suspicion \u2014 and highlights how judges are complicit in amplifying these fears without sufficient evidence, thus making the witch the central figure of moral and social condemnation."
+  },
+  "moral_justification": "The text justifies the punishment of witches by framing them as morally corrupt agents who exploit superstition and fear to harm innocent people. It argues that their actions \u2014 though often disguised as minor grievances \u2014 are part of a larger diabolical scheme, thereby warranting severe legal consequences regardless of confession or direct evidence.",
+  "summary": "This passage from the Malleus Maleficarum deconstructs accusations of witchcraft by exposing how informers, witches, and judges manipulate fear, reputation, and testimony to justify persecution. It emphasizes the lack of consistent evidence and the role of demonic influence in enabling injustice, while condemning both the accused and the system that enables their punishment.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 108
+}

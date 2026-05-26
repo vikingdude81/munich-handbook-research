@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Catholic Faith",
+    "the Creator",
+    "mankind's connection to the devil",
+    "witchcraft as a heresy",
+    "unbaptized children offered to Satan",
+    "Incubi and Succubi"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "instrumental in harmful effects through material objects (bones, hair, wood, iron)",
+      "requires God's permission to act",
+      "corrupts mankind through defined compacts with witches"
+    ],
+    "justification": "The text identifies the devil as the primary agent enabling witchcraft, requiring divine permission for action and acting through physical instruments. He is framed as the source of all harmful magic and the corruptor of faith, making him the central scapegoat for moral decay."
+  },
+  "moral_justification": "Witchcraft is condemned as a direct blasphemy against God and creation, involving explicit pacts with evil entities that profane sacred truths and endanger souls. The text presents it as inherently evil, not merely heretical but actively destructive to divine order.",
+  "summary": "The passage deconstructs witchcraft as a diabolical conspiracy requiring three elements: the devil, the witch, and God's permission. It condemns witches for renouncing Catholic faith, worshipping evil, sacrificing children, and engaging in demonic sexual acts under astrological influence. The rhetoric is highly charged with moral urgency, framing witchcraft as the worst form of heresy that blasphemes God and corrupts creation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 11
+}

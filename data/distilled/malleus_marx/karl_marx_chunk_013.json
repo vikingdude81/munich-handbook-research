@@ -1,0 +1,35 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "feudal organization of the country",
+    "isolation and crudity of peasants",
+    "powerlessness of urban rabble",
+    "ineffectiveness of revolts",
+    "guild system as a mechanism of control",
+    "separation of town and country",
+    "dependence on material premises for communal life"
+  ],
+  "constructive_proposals": [
+    "abolition of antagonism between town and country",
+    "mass of material premises required for communal life",
+    "enumeration of conditions necessary for communal life"
+  ],
+  "scapegoat": {
+    "name": "the rabble",
+    "attributes": [
+      "devoid of any power",
+      "composed of individuals strange to one another",
+      "entered separately",
+      "unorganised",
+      "subject to the station assigned by labour demand and urban competitors"
+    ],
+    "justification": "The text portrays the rabble as a passive, disorganized group stripped of agency due to structural conditions \u2014 their lack of collective power stems from fragmented entry into towns, absence of organized labor structures, and subjugation to guild masters or economic necessity. They are not condemned for moral failing but rendered powerless by systemic design."
+  },
+  "moral_justification": "The text does not invoke explicit moral judgment but frames inequality as a structural inevitability rooted in material conditions and historical development. It implies that existing social relations \u2014 particularly the separation of town and country, private property based on labor, and hierarchical guild systems \u2014 are naturalized outcomes of economic necessity rather than ethical choices.",
+  "summary": "The passage deconstructs medieval urban-rural hierarchies by showing how economic necessity, not moral failure, produced fragmented labor, subordinated communities, and entrenched inequality. It critiques feudal structures and the guild system as mechanisms of control that prevented collective power, while suggesting that true communal life requires abolishing town-country antagonism \u2014 a condition dependent on material foundations beyond mere will.",
+  "source_id": "karl_marx",
+  "chunk_id": 13
+}

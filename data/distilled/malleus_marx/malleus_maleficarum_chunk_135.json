@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "witches who cast injurious spells",
+    "unlawful remedies involving expressed invocation of devils",
+    "the accused's denial despite evidence"
+  ],
+  "constructive_proposals": [
+    "remedies that are lawful should not be judged as witchcraft",
+    "judges must assess whether denials stem from taciturnity or genuine resistance",
+    "canonical purgation for those with light suspicion or penitent confessions",
+    "civil judges may apply Civil and Imperial Laws to cases of confession without extreme penalty"
+  ],
+  "scapegoat": {
+    "name": "the accused witch",
+    "attributes": [
+      "accused by a witch in custody",
+      "persists in denial despite evidence",
+      "possibly familiar with witches",
+      "fails canonical purgation"
+    ],
+    "justification": "The text centers on the accused individual as the subject of suspicion and judgment, framing her silence or resistance as evidence of guilt rather than procedural ambiguity. The language emphasizes moral corruption ('vice or witchcraft of taciturnity') and implies inherent culpability through behavioral indicators like inability to weep or endure pain."
+  },
+  "moral_justification": "The text justifies punishment based on perceived alignment with demonic forces, the necessity of proving guilt through ritualized confession or purgation, and the belief that silence under torture indicates witchcraft rather than fear or coercion. Moral authority is derived from canon law and theological precedent, not empirical evidence.",
+  "summary": "This passage presents a detailed legal-theological framework for judging witches, emphasizing deconstruction of the accused's credibility through behavioral signs (e.g., lack of remorse, insensibility to pain) while offering limited constructive procedures like canonical purgation or civil adjudication. The rhetoric is moderately charged with moral urgency but grounded in procedural formalism.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 135
+}

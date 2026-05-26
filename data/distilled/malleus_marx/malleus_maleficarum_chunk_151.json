@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the society of witches",
+    "anti-social revolutionaries"
+  ],
+  "constructive_proposals": [
+    "curb the judicial severities of Tom\u00e0s de Torquemada",
+    "defend his territory against the continual aggression of the Italian despots"
+  ],
+  "scapegoat": {
+    "name": "the society of witches",
+    "attributes": [
+      "anti-social revolutionaries",
+      "vast international",
+      "heretical"
+    ],
+    "justification": "The text identifies the society of witches as a vast international network of anti-social revolutionaries, framing them not merely as superstitious individuals but as organized threats to social and religious order. This deconstructive characterization strips away any individual or cultural nuance, reducing complex practices to a monolithic conspiracy that must be eradicated through ecclesiastical authority."
+  },
+  "moral_justification": "The text justifies the Church's actions by framing the defense of papal temporal power as a moral and political necessity. It portrays Sixtus IV not as complicit in oppression but as a blameless theologian acting within his rights to protect his territory from Italian despots, thereby legitimizing punitive measures against sorcery as both religious and political duty.",
+  "summary": "The passage presents a mixed rhetorical approach: it deconstructs the society of witches as dangerous anti-social revolutionaries while simultaneously constructing a narrative of papal moral authority and defensive governance. It condemns witchcraft through multiple papal bulls but also highlights Sixtus IV's efforts to moderate inquisitorial abuses, balancing criticism with institutional continuity.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 151
+}

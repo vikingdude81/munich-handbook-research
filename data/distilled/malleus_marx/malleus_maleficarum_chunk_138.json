@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the appellant's appeal",
+    "the Judge's authority to proceed with the case after an appeal",
+    "the legitimacy of the appeal process itself"
+  ],
+  "constructive_proposals": [
+    "detaining the accused until negative apostils are received",
+    "requiring the accused to appear before the Pope in Rome within a specified timeframe",
+    "providing the accused with a surety or escort for travel to Rome",
+    "ceasing all proceedings by the original Judge once negative apostils are issued"
+  ],
+  "scapegoat": {
+    "name": "the appellant",
+    "attributes": [
+      "persistent in denying the charge",
+      "advancing frivolous and false objections",
+      "attempting to escape his sentence",
+      "acting unjustly by appealing"
+    ],
+    "justification": "The text portrays the appellant as persistently denying a valid conviction for heresy, making baseless appeals, and attempting to evade justice. He is framed as the source of procedural disruption rather than a recipient of injustice."
+  },
+  "moral_justification": "Justice must proceed without interference; appeals are only valid if grounded in legitimate objections and follow established procedures. The appellant's appeal is illegitimate because it lacks foundation, misuses process, and obstructs justice despite a lawful conviction.",
+  "summary": "The text deconstructs the appellant's appeal as legally invalid and morally unjustified, asserting that the Judge acted justly in maintaining custody and refusing to entertain frivolous appeals. It emphasizes adherence to canonical procedure, condemns the appeal as baseless, and mandates procedural steps for the accused to submit to higher authority (the Pope), while limiting the original Judge's role after issuing negative apostils.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 138
+}

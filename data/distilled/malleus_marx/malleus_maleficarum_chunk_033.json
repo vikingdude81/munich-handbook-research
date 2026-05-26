@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "S. Antoninus and his 'Summa Theologica Moralis'",
+    "The 'Malleus Maleficarum' portrayal of witchcraft and misogyny",
+    "Paulus's critique of the thesis linking Antoninus to the Malleus"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "transmutes rather than alters perception",
+      "cannot induce new appearances directly",
+      "acts through local motion and transmutation of perceptions/humours"
+    ],
+    "justification": "The text deconstructs the idea that the devil creates new perceptual experiences by showing he only transmutes existing faculties without altering their substance, thus undermining claims of supernatural projection."
+  },
+  "moral_justification": "",
+  "summary": "This passage primarily functions as a deconstructionist theological argument, critically analyzing and dismantling claims about demonic influence on perception and imagination. It references historical figures like S. Antoninus and texts such as the 'Summa Theologica Moralis' and 'Malleus Maleficarum' to trace misogynistic elements in witchcraft discourse back to moral theology, while also critiquing opposing views. The rhetoric is highly charged with moral and apocalyptic overtones, particularly in its framing of divine punishment through animal attacks as retribution for sin. However, it offers no constructive proposals or alternative frameworks\u2014only critique and reinterpretation of existing doctrines.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 33
+}

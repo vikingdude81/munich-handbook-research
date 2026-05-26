@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Theological claims about witchcraft's existence and mechanisms",
+    "God's role in permitting witchcraft",
+    "Theologians' and Canonists' authority on witchcraft",
+    "The idea that witchcraft only affects unmarried individuals",
+    "The claim that the devil cannot obstruct natural acts like eating, walking, or standing"
+  ],
+  "constructive_proposals": [
+    "Five specific methods by which the devil can obstruct generation (interposing in bodily form, exciting or freezing desire, disturbing imagination/perception, preventing erection, blocking vital essence flow)",
+    "Acknowledgment that God permits witchcraft for greater corruption of generative powers",
+    "Reference to Decretals and theological consensus on obstruction of marriage by witchcraft"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "spiritual entity with power over corporeal creatures",
+      "greater knowledge and cunning than man",
+      "capable of preventing local motion and bodily functions",
+      "can influence imagination and perception",
+      "acts with divine permission to spread sin"
+    ],
+    "justification": "The devil is framed as the primary agent capable of obstructing natural generative functions, surpassing human ability through spiritual power and cunning, and is permitted by God to do so specifically due to the corruption inherent in sexual acts."
+  },
+  "moral_justification": "Witchcraft is presented not as fantasy but as a real spiritual phenomenon permitted by God to expose moral corruption, particularly through the abuse of generative powers, with the devil acting as the instrument of sin's spread.",
+  "summary": "The text deconstructs arguments denying witchcraft's reality and its exclusive effect on unmarried individuals, asserting that witchcraft is a genuine spiritual phenomenon permitted by God due to the inherent corruption of sexual acts. It constructs a detailed theological framework attributing obstruction of generation to the devil's spiritual power, using five specific mechanisms, while positioning the devil as the central scapegoat whose actions serve divine moral purposes.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 28
+}

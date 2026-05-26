@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "The idea that children are inherently predisposed to witchcraft due to inherited sin or pact with the devil",
+    "The notion that daughters of witches are automatically 'infected' and must be suspected of similar practices",
+    "The claim that parents who offer their offspring's fruit (children) to God inadvertently dedicate them to the devil",
+    "The assertion that children lack knowledge of the Faith and thus cannot initiate witchcraft on their own, implying manipulation or coercion"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the mother",
+    "attributes": [
+      "deceitful",
+      "manipulative",
+      "complicit in demonic pact",
+      "instrument of the devil",
+      "neglects maternal duty by inciting evil through her daughter"
+    ],
+    "justification": "The text portrays the mother as the primary agent who, through her daughter's words and actions, enables witchcraft. She is framed as complicit in a satanic pact that corrupts innocence, making her the central figure of moral corruption and deconstruction."
+  },
+  "moral_justification": "The text constructs a theological argument where human sin \u2014 especially through improper parental conduct or spiritual offering \u2014 invites demonic influence, leading to the corruption of children. It frames witchcraft as a consequence of sacrilegious oblation and inherited guilt, not individual agency, thereby deconstructing notions of innocence and moral responsibility in youth.",
+  "summary": "The passage uses highly charged theological rhetoric to deconstruct the concept of childhood innocence by attributing inherent witchcraft predisposition to daughters of witches through satanic pacts. It places moral blame on mothers as agents of corruption while condemning inherited guilt, with no constructive solutions offered \u2014 only condemnation and explanation rooted in demonological doctrine.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 72
+}

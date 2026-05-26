@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "bourgeois intellect",
+    "commodity fetishism",
+    "exchange value as natural necessity",
+    "monetary system superstition",
+    "capitalist exploitation of living labour",
+    "the notion that value belongs to commodities rather than human labour"
+  ],
+  "constructive_proposals": [
+    "treat social production as regulated by freely associated men according to a settled plan",
+    "establish material ground-work and conditions of existence through long, painful development",
+    "recognize that value arises from social relations and exchange processes, not natural properties"
+  ],
+  "scapegoat": {
+    "name": "the bourgeoisie",
+    "attributes": [
+      "misled by commodity fetishism",
+      "treats pre-capitalist production as self-evidently natural",
+      "fails to see that labour is represented by product value rather than labour time",
+      "views social relations as inherent in things rather than human practices"
+    ],
+    "justification": "The text systematically dismantles the bourgeoisie's ideological framework, showing how they mistake socially constructed economic relations for natural laws. They are portrayed as deluded by commodity fetishism, treating exchange value and capital as self-evident necessities imposed by nature, while ignoring that these forms arise from human labour and social processes. The critique emphasizes their failure to recognize the historical development of production modes and their role in perpetuating exploitation through ownership of conditions of labour."
+  },
+  "moral_justification": "The text condemns capitalist ideology as a form of false consciousness that obscures human agency and social relations, presenting exploitative economic structures as natural necessities. It positions the bourgeoisie's intellectual framework as complicit in maintaining systems of domination by naturalizing inequality.",
+  "summary": "This passage is a deconstructive critique of political economy, dismantling commodity fetishism and capitalist ideology by exposing how value appears to arise naturally from commodities rather than from human labour and social relations. It argues that bourgeois economic theories treat historically specific forms of production as eternal necessities, while advocating for conscious regulation of production by associated men based on material conditions developed through historical struggle.",
+  "source_id": "karl_marx",
+  "chunk_id": 58
+}

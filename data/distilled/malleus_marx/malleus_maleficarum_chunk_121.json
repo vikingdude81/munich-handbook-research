@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "canonical purgation procedures",
+    "legal fiction of relapse into heresy after abjuration",
+    "strong suspicion as basis for condemnation without proof"
+  ],
+  "constructive_proposals": [
+    "commanding the strongly suspected to abjure all heresy in general and particularly that which they are suspected of",
+    "excommunication through the chapter excommunicamus",
+    "handing over to secular court after a year of obstinate refusal following excommunication"
+  ],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "strongly suspected",
+      "refuses to abjure",
+      "commits temporal harms (injuries to men, cattle, and goods)"
+    ],
+    "justification": "The text constructs the witch as a figure whose actions \u2014 especially refusal to abjure and causing harm \u2014 justify both ecclesiastical condemnation and secular execution, despite weak or indirect evidence of heresy."
+  },
+  "moral_justification": "Punishment is justified by the combination of strong suspicion, refusal to recant, and demonstrable harm to community and property; the text asserts that moral corruption and physical damage override procedural leniency.",
+  "summary": "The passage deconstructs canonical procedures for handling heresy suspicions, exposing contradictions in legal fictions and disproportionate punishments, while constructing a rigid, punitive framework where refusal to abjure and causing harm justify execution, particularly targeting witches with indirect or circumstantial evidence.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 121
+}

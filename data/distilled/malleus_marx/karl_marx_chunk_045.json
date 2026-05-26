@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "the tautological method of determining the value of commodities by labour or wages",
+    "the assumption that commodity values are determined by the quantity of labour embodied in them without regard to social conditions",
+    "the idea that greater time spent on production increases a commodity's value regardless of productivity or efficiency"
+  ],
+  "constructive_proposals": [
+    "A method for calculating exchangeable value by adding labour embodied in raw materials, tools, machinery, and buildings",
+    "An average-based approach to accounting for the gradual depreciation of instruments of production (e.g., spindles) over time",
+    "The concept of 'socially necessary labour' defined by societal average conditions, intensity, and skill level"
+  ],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "The text does not assign moral blame or justify actions based on ethics; it critiques a theoretical framework in political economy without invoking morality, justice, or ethical condemnation.",
+  "summary": "This passage deconstructs classical political economists' assumptions about value determination by labour, arguing that value arises from socially necessary labour under average social conditions rather than individual effort or tautological wage-value equivalence. It introduces a methodological framework for measuring value through accumulated labour in production factors and critiques inefficiencies in productivity while rejecting moralized interpretations of labour value.",
+  "source_id": "karl_marx",
+  "chunk_id": 45
+}

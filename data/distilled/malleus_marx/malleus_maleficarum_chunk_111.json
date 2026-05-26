@@ -1,0 +1,35 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the legal system's suppression of witness names",
+    "the accused's inability to confront evidence directly",
+    "the presumption that accusations are based on truth rather than personal vendetta"
+  ],
+  "constructive_proposals": [
+    "Advocate should request full details of the accusation from the Judge, excluding only witness identities",
+    "Exhort accused to exercise patience in cases involving grave charges",
+    "Allow advocate to challenge claims of enmity by revealing potential motives behind accusations",
+    "Judge must investigate whether enmity stems from personal vendettas or actual evidence of wrongdoing",
+    "Reject depositions if no other evidence exists and accused is not commonly suspected",
+    "Apply canonical purgation only when witchcraft is substantiated, not merely alleged",
+    "Consider character evidence alongside factual testimony to assess suspicion",
+    "Imprison for life via ecclesiastical sentence rather than execute, if penitent"
+  ],
+  "scapegoat": {
+    "name": "the accused (typically a woman)",
+    "attributes": [
+      "suspected of witchcraft",
+      "socially vulnerable or marginalized",
+      "accused based on circumstantial evidence or personal grudges",
+      "subject to double standards in evidentiary standards"
+    ],
+    "justification": "The text centers the accused as someone whose testimony is dismissed due to presumed enmity, even when her accusations may be valid. The system prioritizes protecting accusers' reputations over verifying facts, making the accused a convenient target for resolving interpersonal conflicts under religious pretext."
+  },
+  "moral_justification": "The text argues that justice requires distinguishing between genuine evidence of witchcraft and personal vendettas disguised as supernatural accusations. It emphasizes due process: allowing the accused to confront allegations, challenging claims of enmity, rejecting biased testimony, and applying proportional ecclesiastical penalties rather than rushing to execution.",
+  "summary": "This passage presents a medieval legal framework for handling witchcraft accusations where witness anonymity prevents fair defense. While it deconstructs the legitimacy of anonymous accusations and personal vendettas disguised as justice, it also offers structured, constructive procedures for advocates and judges to ensure fairness \u2014 balancing criticism with procedural solutions.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 111
+}

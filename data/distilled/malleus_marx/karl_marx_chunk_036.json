@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "Ricardo's focus on production alone",
+    "The notion that land is in production",
+    "The idea that distribution follows from production",
+    "Economists who treat distribution as separate from production",
+    "Historical narratives where conquest or law creates distribution before production"
+  ],
+  "constructive_proposals": [
+    "Distribution should be understood as preceding and determining production, not the reverse",
+    "Production is shaped by the distribution of instruments of production and social relations",
+    "The structure of production is internally determined by its own distribution mechanisms",
+    "Historical modes of production are shaped by specific distributions (e.g., land allocation, caste systems)"
+  ],
+  "scapegoat": {
+    "name": "Ricardo",
+    "attributes": [
+      "Focuses on production alone",
+      "Treats distribution as secondary or derivative",
+      "Reifies production as natural and eternal"
+    ],
+    "justification": "The text identifies Ricardo as the primary target of deconstruction, accusing him of treating production as an 'eternal truth' while marginalizing history and distribution. He is portrayed as instinctively conceiving distribution as the specific expression of production agents, thereby obscuring how distribution actually precedes and shapes production."
+  },
+  "moral_justification": "The text morally condemns economists like Ricardo for reifying production as natural and eternal while ignoring historical material conditions and the primacy of distribution. It frames their error as not merely analytical but ideologically ideological \u2014 promoting a false naturalism that obscures power relations.",
+  "summary": "This passage deconstructs classical political economy, particularly Ricardo's model, by arguing that distribution precedes and determines production rather than being its passive outcome. It emphasizes historical material conditions \u2014 conquest, law, inheritance, and social hierarchy \u2014 as foundational to both distribution and production. While rhetorically charged with moral condemnation of traditional economists, it offers a constructive alternative framework in which production is internally structured by its own distributional mechanisms.",
+  "source_id": "karl_marx",
+  "chunk_id": 36
+}

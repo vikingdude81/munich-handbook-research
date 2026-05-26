@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "The Malleus Maleficarum",
+    "Inquisition practices",
+    "Belief in witches as real and valid threats",
+    "Canonical law linking heresy to witchcraft",
+    "Modern misconceptions about witchcraft (Wicca)"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "women",
+      "outcasts",
+      "suspicious persons",
+      "old women",
+      "midwives",
+      "Jews",
+      "poets",
+      "gypsies"
+    ],
+    "justification": "The text identifies witches as the primary scapegoat, particularly targeting women and marginalized groups who did not conform to pious Christian norms. These individuals were disproportionately accused and executed during the Inquisition, with the Malleus Maleficarum reinforcing their status as existential threats to the Church."
+  },
+  "moral_justification": "The text condemns the Malleus Maleficarum for validating false beliefs that led to mass persecution, torture, and murder of innocent people. It emphasizes that questioning witchcraft was equated with heresy, silencing dissent and enabling systemic violence under religious authority.",
+  "summary": "This passage deconstructs The Malleus Maleficarum as a dangerous instrument of religious oppression that manufactured and legitimized the belief in witches to justify persecution during the Inquisition. While not offering constructive alternatives, it strongly condemns the text for reinforcing misogynistic, xenophobic, and theocratic violence under the guise of orthodoxy.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 0
+}

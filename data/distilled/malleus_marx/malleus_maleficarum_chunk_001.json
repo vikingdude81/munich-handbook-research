@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the belief in witches as essential to Catholic faith",
+    "the idea that demons or witches can cause permanent physical transformations",
+    "the claim that witchcraft has real, powerful effects on human bodies",
+    "the notion that the devil has power exceeding God's ability to counteract it"
+  ],
+  "constructive_proposals": [
+    "arguing that all bodily changes should be attributed to natural causes (e.g., Aristotle, stars)",
+    "asserting that divine power is stronger than demonic power",
+    "stating that witchcraft only has effect with the permission of God and cooperation of the devil"
+  ],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "heretical believers",
+      "agents of sin",
+      "causes of innocent people being bewitched",
+      "possessers of dangerous, unnatural power",
+      "violators of Catholic doctrine"
+    ],
+    "justification": "The text portrays witches as heretics whose sins enable demonic activity that harms the innocent, particularly through false claims of bodily transformation and magical influence."
+  },
+  "moral_justification": "Witchcraft is framed as a grave threat to divine order and Catholic orthodoxy; belief in witches undermines God's supremacy and enables moral corruption, especially when it leads to harming the innocent. The text justifies its condemnation by appealing to natural philosophy (Aristotle), theological authority (Church teachings, Decretals), and the inviolable power of God over creation.",
+  "summary": "The passage is a deconstructive argument that dismantles beliefs in witchcraft as heretical and demonically enabled, using theological, philosophical, and scriptural reasoning to deny the reality of witches' powers. It emphasizes divine sovereignty, natural causality, and moral purity while condemning both lay belief in witches and their alleged practices.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 1
+}

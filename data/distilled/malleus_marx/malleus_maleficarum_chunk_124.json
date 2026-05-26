@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the accused's light suspicion of heresy",
+    "the requirement to abjure even when suspicion is weak",
+    "the disproportionate punishment for relapse after abjuration",
+    "the performative nature of the abjuration as a tool of control rather than justice"
+  ],
+  "constructive_proposals": [
+    "a formalized procedure for public and private abjuration",
+    "clear criteria distinguishing light vs. strong suspicion",
+    "penalty structure based on prior abjuration status",
+    "requirement to document the nature of suspicion in official records"
+  ],
+  "scapegoat": {
+    "name": "the accused (N.)",
+    "attributes": [
+      "lightly suspected of heresy",
+      "not convicted by evidence or confession",
+      "required to perform public abjuration",
+      "punished more severely for relapse after abjuration"
+    ],
+    "justification": "The text centers on the accused as a vessel of moral threat, despite her lack of concrete guilt. The entire legal mechanism is structured around her potential relapse and symbolic purification through ritualized confession, rendering her the necessary target for maintaining doctrinal purity even in the absence of strong evidence."
+  },
+  "moral_justification": "The text justifies punishment not based on proven guilt but on the perceived danger of latent heresy and the necessity of public renunciation to preserve religious order. Moral authority is derived from ecclesiastical power, with divine sanction invoked through oaths and scripture, while secular consequences are conditional on failure to perform penance.",
+  "summary": "This passage presents a deconstructive legal framework in which guilt is inferred from suspicion rather than evidence, and punishment is calibrated around the performance of abjuration. While it includes procedural details, its core function is to expose how ritualized confession replaces due process, making the accused a symbolic target whose compliance reinforces ecclesiastical authority rather than proving innocence.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 124
+}

@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Incubi",
+    "Succubi",
+    "Demons in monstrous shapes (fauns, satyrs)",
+    "Luxury and moral corruption as root causes"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Incubi",
+    "attributes": [
+      "Shape-shifting spirits",
+      "Embodied in human form for malicious intent",
+      "Linked to vice and luxury",
+      "Target of moral panic and theological condemnation"
+    ],
+    "justification": "The text repeatedly identifies Incubi as the primary demonic entity being analyzed, framing them as deceptive spiritual beings that assume physical forms to corrupt humans through moral vice, particularly linked to luxury. They are portrayed as active agents of evil with theological implications for gender roles and ecclesiastical authority."
+  },
+  "moral_justification": "The text justifies its critique by appealing to Aristotelian reasoning ('what appears true to many cannot be altogether false') and citing authoritative Catholic sources (Augustine, Thomas Aquinas, Bede) to legitimize the existence of Incubi. It frames disbelief in these entities as 'rash' and implies that denying them undermines established doctrine and moral order.",
+  "summary": "This passage is a deconstructive theological commentary that uses dense scholarly citation and emotionally charged language to condemn Incubi as real, malevolent spirits whose existence threatens moral and ecclesiastical order. It relies on authoritative tradition rather than empirical evidence, employs high rhetorical intensity through moral urgency and apocalyptic undertones, and offers no constructive alternatives \u2014 only a reinforcement of established hierarchical beliefs.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 13
+}

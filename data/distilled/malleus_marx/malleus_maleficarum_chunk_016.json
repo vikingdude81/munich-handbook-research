@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Theological claims about the origin of witchcraft (e.g., celestial bodies, Incubi and Succubi)",
+    "The idea that devils are primarily responsible for human sin",
+    "The notion that punishment is directly tied to the act or nature of evil rather than moral responsibility"
+  ],
+  "constructive_proposals": [
+    "Human will is identified as the primary cause of wickedness and witchcraft",
+    "Free-will cannot be destroyed by the devil, implying human agency is central",
+    "Evil thoughts arise from human judgment, not solely demonic influence"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "named as Diabolus, Demon, Belial, Beelzebub, Satan, Asmodeus, Leviathan, Mammon",
+      "described as the tempter and agent of sin (e.g., pride, fornication, avarice)",
+      "framed as a force that tempts but cannot override human free-will"
+    ],
+    "justification": "The text repeatedly attributes witchcraft's increase to human depravity and willful sin rather than demonic agency. While the devil is extensively named and described across multiple identities, he is ultimately portrayed as unable to compel sin \u2014 his role is limited by divine order and human freedom. The primary target of deconstruction is not the devil himself but the theological mechanisms that absolve humans of responsibility by externalizing evil onto supernatural agents."
+  },
+  "moral_justification": "The text justifies witchcraft's increase through moral causality: sin originates in human will, not demonic force. Citing Augustine and Ecclesiastical Dogma, it argues that individuals are fully responsible for their wickedness, rendering the devil a secondary or symbolic figure rather than a primary cause.",
+  "summary": "This passage deconstructs theological excuses for witchcraft by emphasizing human free-will as the true source of sin, dismantling claims that celestial bodies, demons, or Incubi/Succubi drive witchcraft. While rhetorically intense and rich in demonological taxonomy, it offers no constructive system \u2014 only a moral refutation of externalized blame.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 16
+}

@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the devil's occupation of the priest's body",
+    "the distinction between physical and essential limits of the body",
+    "the claim that the devil can enter the body but not the soul",
+    "the assertion that both the priest and his father are liars"
+  ],
+  "constructive_proposals": [
+    "The proposition that the devil can enter the body, but not the soul",
+    "The explanation of how devils occupy a man in three ways: physical inhabitation, extrinsic work on reason, and deprivation of meaningful speech while retaining consciousness",
+    "The claim that intermission from torment is a gift from God"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "occupies the body within physical limits",
+      "inhabits the head substantially",
+      "works extrinsically on reason",
+      "deprives use of words while preserving consciousness of speech",
+      "is portrayed as a liar"
+    ],
+    "justification": "The devil is framed as the primary agent of torment and deception, occupying the priest's body and head, manipulating his intellect indirectly, and being condemned for lying about his presence during the Sacrament. His actions are presented as evidence of moral corruption and falsehood, particularly in claiming to have been present during sacred rituals while hiding within the body."
+  },
+  "moral_justification": "The text frames the devil's actions as morally corrupt through deception (hiding from divine presence), unlawful occupation (entering where he is not permitted), and moral inversion (posing as a holy figure's companion while lying about his location during sacred rites). The claim that 'both he and his father are liars' extends moral condemnation beyond the individual to familial complicity, reinforcing the devil's role as fundamentally untrustworthy and opposed to divine order.",
+  "summary": "The passage deconstructs demonological claims through a scholastic framework distinguishing physical from essential bodily limits, arguing that while angels (good or bad) can influence the body physically without entering its essence, devils specifically occupy the head and reason while avoiding direct entry into the soul. It presents three modes of possession\u2014physical habitation, mental torment, and linguistic deception\u2014and uses moral condemnation and appeals to divine grace to justify the priest's liberation, positioning the devil as a deceptive antagonist whose actions violate both natural and supernatural order.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 67
+}

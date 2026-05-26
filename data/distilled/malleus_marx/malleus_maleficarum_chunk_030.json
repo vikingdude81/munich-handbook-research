@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the possibility of witches altering male organs through supernatural means",
+    "the claim that such alterations are physically real or factually present"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "devils",
+    "attributes": [
+      "deceptive",
+      "capable of illusion",
+      "manipulator of senses",
+      "agent of false perception"
+    ],
+    "justification": "The text attributes all alleged supernatural alterations to the actions of devils, who are portrayed as actively deceiving human senses through glamour and illusion, making them the central scapegoat for the phenomena under discussion."
+  },
+  "moral_justification": "The text frames the devil's influence as an inherently corrupting force that perverts natural order by misleading perception and undermining truth, though it does not explicitly state a moral judgment beyond this theological framing.",
+  "summary": "This passage is primarily deconstructive in rhetoric, using theological arguments from Augustine and Thomas to dismantle claims of witches' supernatural powers over male organs. It emphasizes illusion over reality, attributes all phenomena to demonic deception rather than physical possibility, and rejects the idea that such changes are factual. The tone is highly charged with moral and apocalyptic overtones, focusing on the devil as a pervasive deceiver across sensory domains. No constructive proposals or administrative mechanisms are offered; instead, the text focuses on exposing what it considers false beliefs and misperceptions.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 30
+}

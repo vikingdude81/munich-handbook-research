@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the legitimacy of witch trials based on flawed evidence (e.g., red-hot iron ordeal)",
+    "the moral authority of Church authorities to judge secular matters like witchcraft",
+    "the consistency of legal procedure in definitive sentencing"
+  ],
+  "constructive_proposals": [
+    "Inquisitors should be relieved of passing final sentences in cases where secular judges can adjudicate without ecclesiastical interference",
+    "Secular judges must not pronounce definitive judgments on witchcraft without authorization from Diocesans",
+    "Sentences must follow proper legal procedure, including due hearing of both prosecution and defense arguments",
+    "Definitive sentences pronounced without due process are null and void in law"
+  ],
+  "scapegoat": {
+    "name": "the woman accused of witchcraft (Cunegond)",
+    "attributes": [
+      "alleged to have used supernatural means (trial by red-hot iron beyond three paces)",
+      "accused of dishonoring her marriage and chastity",
+      "subjected to public ordeal despite lack of conclusive proof"
+    ],
+    "justification": "She is portrayed as the target of deconstruction through the exposure of the arbitrary and unjust application of the trial by red-hot iron, which contradicts established legal principles requiring proof of guilt or confession before a definitive sentence. Her endurance of the ordeal without harm undermines the accusation of witchcraft, yet she is still subjected to scandal, revealing how moral outrage overrides procedural justice."
+  },
+  "moral_justification": "The text justifies its critique by appealing to Saint Augustine\u2019s principle that no one should be sentenced unless proven guilty or having confessed, emphasizing that legal procedure must precede judgment \u2014 a standard the witch trials violated through reliance on symbolic ordeals rather than evidence.",
+  "summary": "This passage presents a mixed rhetorical mode: it deconstructs the legitimacy of witch trials and ecclesiastical overreach into secular justice while constructively proposing adherence to due process and clear jurisdictional boundaries. The language is moderately charged, focusing on moral inconsistency and legal irregularity rather than emotional condemnation. The primary target of critique is the misuse of religious authority in judicial matters, particularly the use of ordeals as proof, which contradicts established theological and legal doctrine.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 119
+}

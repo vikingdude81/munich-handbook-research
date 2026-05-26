@@ -1,0 +1,35 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Zoroaster",
+    "Cham the son of Noe",
+    "Ninus the son of Belus",
+    "the devil",
+    "witches",
+    "idolaters",
+    "superstitions",
+    "necromancy",
+    "astrology",
+    "astromancy",
+    "oneiromancy"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "inspirer of Zoroaster",
+      "source of magic arts",
+      "corrupter of early human knowledge",
+      "agent of evil superstitions",
+      "co-conspirator with witches"
+    ],
+    "justification": "The text attributes all origins of witchcraft, idolatry, and magical practices to the devil's influence. Zoroaster is portrayed as 'wholly given up to the magic arts' and inspired by the devil; Cham is described as a 'servant of the devil'; witches are said to 'co-operate with the devil'. The text consistently frames the devil as the active agent behind all supernatural evils, making him the central scapegoat for deconstructing historical superstitions."
+  },
+  "moral_justification": "The text presents a moral universe where evil practices like witchcraft are not accidental but actively inspired by the devil. It justifies condemnation through theological causality: demons act only when permitted by God, and the rise of witchcraft reflects the flourishing of sin in a world where 'charity is growing cold' and 'the knowledge of the Saints grew'. The moral order is preserved by attributing evil to supernatural forces rather than human agency or historical development.",
+  "summary": "This passage deconstructs the origins of witchcraft and superstition through a theological lens, tracing them from Zoroaster and ancient figures to medieval witches. It attributes all magical practices to diabolical inspiration, frames idolatry as the root of superstition, and presents the devil as the central agent of moral corruption. While rhetorically intense and morally charged, it offers no constructive alternatives\u2014only condemnation of 'evil arts' and their demonic origins.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 8
+}

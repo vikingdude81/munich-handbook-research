@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the judge's refusal to examine the accused",
+    "the accusation that the man was a 'wicked malefactor' who denied his crime despite evidence",
+    "the claim that the man struck three respected matrons",
+    "the assertion that the man was guilty based on moral condemnation rather than evidentiary proof"
+  ],
+  "constructive_proposals": [
+    "granting the accused a hearing before magistrates",
+    "releasing the poor man unharmed after review of evidence and testimony",
+    "advising silence to prevent further scandal among devout persons"
+  ],
+  "scapegoat": {
+    "name": "the judge",
+    "attributes": [
+      "indignant",
+      "authoritative",
+      "morally condemnatory",
+      "refused to examine evidence",
+      "relied on moral outrage rather than factual proof"
+    ],
+    "justification": "The judge is portrayed as the primary agent of injustice, reacting with fury not to evidence but to the accused's refusal to confess guilt. He dismisses the man without examination, relies on emotional condemnation ('wicked of men'), and uses exaggerated accusations (beating three respected matrons) to justify his stance. His actions are driven by moral outrage rather than due process, making him the central figure whose authority is deconstructed as unjust and irrational."
+  },
+  "moral_justification": "The text presents a narrative where justice is subverted by moral hysteria; the real crime is not physical harm but the refusal to acknowledge guilt in the face of evidence. The devil's role is invoked to explain how guilt is constructed through accusation rather than proof, suggesting that moral condemnation itself becomes a form of violence when divorced from evidence.",
+  "summary": "The passage deconstructs judicial authority by showing how moral outrage overrides due process, with the judge acting as an instrument of unjust condemnation. While it includes constructive elements like granting a hearing and releasing the innocent, its primary mode is deconstruction \u2014 exposing how accusation, not evidence, drives legal outcomes in a morally charged atmosphere.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 64
+}

@@ -1,0 +1,37 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "formal accusations by accusers",
+    "secretive practices of witches and devils",
+    "light or careless treatment of heresy charges"
+  ],
+  "constructive_proposals": [
+    "require the Judge to conduct cases without requiring writs or contested actions",
+    "allow conducting cases on holidays for public convenience",
+    "shorten case duration by disallowing dilatory exceptions, appeals, obstructions, impertinent contentions, witness quarrels, and superfluous witnesses",
+    "preserve necessary proofs while streamlining process",
+    "require informer to speak as an informer rather than accuser due to danger of formal accusations",
+    "call as witnesses those named by the informer who have most knowledge of the matter",
+    "enter witness names by the scribe",
+    "Judge examine witnesses directly after summoning them based on informer's knowledge",
+    "require at least five persons present during examination: Judge, informer's witness, accused/respondent, Notary/scribe, and a second honest man if no Notary exists",
+    "ensure all witnesses are sworn to avoid false descriptions of being called and sworn"
+  ],
+  "scapegoat": {
+    "name": "witches in conjunction with devils",
+    "attributes": [
+      "act in secret",
+      "use deceptive or careless speech",
+      "engage in practices contrary to the Faith",
+      "require secrecy that prevents definite evidence from accusers"
+    ],
+    "justification": "The text identifies witches and their association with devils as operating in secret, which undermines the possibility of clear, evidentiary accusation by formal accusers. This secrecy is presented as a core problem justifying the need to shift from accuser-initiated proceedings to informer-based inquiries."
+  },
+  "moral_justification": "The text frames the danger of heresy not merely as legal error but as an offense to Divine Majesty, injury to Catholic Faith, and threat to the State. It implies that failing to act decisively on such charges would be both religiously sacrilegious and politically dangerous.",
+  "summary": "This passage presents a mixed rhetorical mode: it deconstructs traditional accusatory procedures by condemning secretive witchcraft practices and the unreliability of formal accusers, while constructively proposing administrative reforms to streamline heresy trials through informer-led inquiries, strict witness protocols, and judicial discretion. The rhetoric is moderately charged with moral urgency but avoids apocalyptic language, focusing instead on procedural legitimacy and divine protection.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 107
+}

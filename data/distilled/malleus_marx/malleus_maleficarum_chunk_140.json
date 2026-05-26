@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "Inquisition",
+    "radical Christians",
+    "minority religions (as historically perceived)",
+    "misconceptions and fears surrounding witchcraft"
+  ],
+  "constructive_proposals": [
+    "preserve historical awareness to prevent repetition of past injustices",
+    "remember those who suffered due to witchcraft accusations"
+  ],
+  "scapegoat": {
+    "name": "Inquisition",
+    "attributes": [
+      "fueled intolerance",
+      "persecuted minority religions",
+      "contributed to misconceptions about witchcraft"
+    ],
+    "justification": "The text identifies the Inquisition as a force that fueled fear and intolerance toward minority religions, particularly in relation to witchcraft, positioning it as responsible for historical injustices."
+  },
+  "moral_justification": "Historical awareness is necessary to prevent the repetition of past injustices against minority religious groups.",
+  "summary": "The passage critiques historical persecution of minority religions by the Inquisition and radical Christians, emphasizing that misconceptions about witchcraft were used to justify oppression. It calls for remembrance of victims and sustained awareness to prevent future repetitions, blending deconstruction of historical narratives with a constructive call for vigilance.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 140
+}

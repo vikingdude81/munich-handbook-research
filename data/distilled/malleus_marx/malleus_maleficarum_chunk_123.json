@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the accused's inconsistency in statements",
+    "the legitimacy of using torture based on equivocation rather than concrete evidence"
+  ],
+  "constructive_proposals": [
+    "seek other proofs before resorting to torture",
+    "use persuasions and exhortations from honest men to induce confession",
+    "apply torture with due precautions and avoid repetition without new indications",
+    "allow for slight torture without shedding blood as a measured approach"
+  ],
+  "scapegoat": {
+    "name": "the accused (heretic)",
+    "attributes": [
+      "inconsistent in answers",
+      "denying the truth out of fear or stubbornness",
+      "equivocal in speech",
+      "resistant to persuasion"
+    ],
+    "justification": "The text targets individuals accused of heresy who are found to be inconsistent in their statements and resistant to confession, framing them as morally suspect due to equivocation rather than proven guilt through evidence."
+  },
+  "moral_justification": "Torture is justified not by proven guilt but by the need to extract truth from a person whose words are deemed unreliable; innocence is conditional on confession, not on factual innocence.",
+  "summary": "The passage deconstructs the legitimacy of torture in heresy cases by focusing on perceived inconsistency and equivocation rather than evidence, while offering procedural guidelines for its application. It constructs a moral framework where truth must be extracted through coercion, positioning the accused as inherently untrustworthy unless they confess under duress.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 123
+}

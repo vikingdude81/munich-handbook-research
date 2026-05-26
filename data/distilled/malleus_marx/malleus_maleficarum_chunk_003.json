@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the Canon's interpretation of witchcraft",
+    "the notion that witchcraft is merely illusionary",
+    "those who deny the reality of demonic agency in witchcraft",
+    "misunderstandings of theological doctrine regarding sorcery"
+  ],
+  "constructive_proposals": [
+    "discuss how to lawfully prevent damage from tempests or hailstorms caused by witches",
+    "explain what sort of ignorance may excuse denial of these propositions"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "practitioners of forbidden arts",
+      "agents of the devil through a compact",
+      "causes of real and actual evils and harm",
+      "engaged in bodily transportation via supernatural means"
+    ],
+    "justification": "The text portrays witches as real, demonically empowered agents who inflict tangible harm, distinguishing them from mere illusion or superstition. They are framed as literal enemies of God's order, justifying extreme punitive measures including torture and execution."
+  },
+  "moral_justification": "Witchcraft is presented as high treason against God's Majesty, warranting severe penalties including torture, burning at the stake, confiscation of property, exile, and public execution. The text frames these actions as divinely sanctioned and necessary for the suppression of a threat to spiritual and social order.",
+  "summary": "The passage is a deconstructive theological and legal argument that condemns modern skepticism about witchcraft as heretical. It asserts the reality of demonic agency, criticizes those who reduce witchcraft to illusion, and justifies extreme punitive measures against witches while proposing constructive legal responses to supernatural harm.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 3
+}

@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the devil (as a manipulative force)",
+    "witches (as agents of corruption)",
+    "old women (as practitioners of temptation)",
+    "the sign of the Cross (as ineffective protection)",
+    "mortal sinners and those who withhold confession",
+    "worldly profit-driven individuals"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "deceptive",
+      "manipulative",
+      "preferential to the good",
+      "possesses the wicked but not the good",
+      "tempts saintly virgins more than wicked people",
+      "uses human agents (e.g., old women) as intermediaries"
+    ],
+    "justification": "The devil is framed as the central antagonist who actively works to corrupt souls, particularly targeting virtuous individuals like 'saintly virgins' and 'devout virgins,' using deceptive methods such as impersonation (Incubus), false promises of marriage, and exploiting emotional vulnerability after failed relationships. He is portrayed as more eager to tempt the good than the wicked, revealing a calculated strategy of moral subversion rather than mere punishment of sinners."
+  },
+  "moral_justification": "The text presents a theological worldview in which moral decay results from deliberate spiritual sabotage by the devil and his agents (witches), particularly through seduction disguised as religious or social interaction. The loss of faith is portrayed as a consequence of withheld confession, partial absolution, and exposure to carnal temptations, all enabled by diabolical influence. The narrative justifies persecution of witches as necessary resistance against a malevolent force undermining divine order.",
+  "summary": "This passage deconstructs religious practices and social behaviors through a moralistic lens, attributing spiritual corruption to the devil's manipulative tactics and the complicity of human agents like witches and old women. It emphasizes the vulnerability of the virtuous to temptation and frames witchcraft as a symptom of deeper moral failure, particularly in confession and purity. The rhetoric is highly charged with apocalyptic undertones and us-versus-them framing, but offers no constructive alternatives\u2014only condemnation and examples of failed resistance.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 49
+}

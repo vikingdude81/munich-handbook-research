@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witches who are accused but remain silent",
+    "the legitimacy of using indirect evidence and threats as proof of witchcraft",
+    "the necessity of confession for conviction"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "accused of heresy",
+      "remains silent",
+      "resists confession",
+      "allegedly uses threatening speech to bewitch others"
+    ],
+    "justification": "The text constructs the witch as a deceptive, malevolent figure who uses supernatural threats to harm others, and whose silence is interpreted not as legal defense but as evidence of diabolical influence. The narrative frames her actions \u2014 such as uttering a curse \u2014 as inherently criminal and worthy of torture and death, regardless of due process."
+  },
+  "moral_justification": "The text justifies the condemnation and torture of witches by asserting that common justice demands confession before execution, and that silence or resistance indicates guilt and diabolical allegiance. It claims that God may compel the devil to withhold aid from witches, but if no such intervention occurs, their silence proves they are beyond redemption and must be destroyed.",
+  "summary": "This passage deconstructs the figure of the witch through a lens of moral panic and theological determinism, using vivid anecdotal evidence and appeals to authority (e.g., St. Bernard) to justify torture and execution. It emphasizes the danger of silence and the necessity of confession, while dismissing indirect or circumstantial accusations as sufficient for condemnation. The rhetoric is highly charged with apocalyptic overtones and demonological certainty, targeting witches as inherently dangerous and deserving of death, making it primarily deconstructive in nature.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 113
+}

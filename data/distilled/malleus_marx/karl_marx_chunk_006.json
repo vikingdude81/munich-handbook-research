@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "German philosophy (idealist tradition)",
+    "Abstract, speculative conceptions of consciousness and ideology",
+    "The notion that ideas are independent from material conditions",
+    "Philosophy as an autonomous source of knowledge"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "German philosophy (idealist tradition)",
+    "attributes": [
+      "Descends from heaven to earth",
+      "Treats consciousness as starting point rather than material reality",
+      "Reifies abstract ideas and ideological forms as independent"
+    ],
+    "justification": "The text explicitly contrasts its method with German philosophy, accusing it of treating consciousness as the origin and descending from abstract ideals rather than ascending from real, active human life. This idealist tradition is framed as fundamentally detached from material conditions and empirically verifiable social practice."
+  },
+  "moral_justification": "The rhetoric frames idealist philosophy and speculative ideology as not only incorrect but epistemologically violent \u2014 distorting reality by inverting it like a camera obscura or retinas, thereby obscuring the true material basis of human existence. This inversion is presented as a moral and scientific failure.",
+  "summary": "This passage is a forceful deconstruction of idealist philosophy and abstract ideology, arguing that consciousness and ideas are not independent origins but epiphenomena of real, material social practice. It rejects speculative metaphysics in favor of an empirically grounded historical materialism where individuals shape their conditions through productive activity.",
+  "source_id": "karl_marx",
+  "chunk_id": 6
+}

@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the use of personal enmity as a basis for discrediting testimony",
+    "the assumption that all witnesses are enemies of the accused",
+    "the reliance on subjective judgments about 'mortal enmity' without objective criteria"
+  ],
+  "constructive_proposals": [
+    "requiring judges to investigate alleged enmity through independent means rather than relying on claims of personal animosity",
+    "providing the accused with a copy of witness testimonies in a scrambled order to prevent collusion or bias detection",
+    "separating lists of witnesses from their deposition order to obscure direct accusations and reduce coercion",
+    "questioning the accused about specific relationships before allowing formal defense, thereby limiting claims of enmity based on unknown parties",
+    "withholding names of informants to prevent preemptive accusations based on suspicion rather than evidence"
+  ],
+  "scapegoat": {
+    "name": "the accused (witch or heretic)",
+    "attributes": [
+      "subject to manipulated procedural traps designed to expose perceived personal enmity",
+      "denied straightforward access to full testimony and fair defense mechanisms",
+      "expected to self-incriminate through contradictory oaths regarding knowledge of witnesses"
+    ],
+    "justification": "The text systematically outlines methods by which the accused is set up to be judged not on evidence of heresy or witchcraft, but on alleged personal animosities that she may not even recognize or be able to refute due to procedural obfuscation. The scapegoat is constructed as someone whose very act of denying enmity becomes evidence against her, and whose silence or ignorance is interpreted as guilt."
+  },
+  "moral_justification": "Justice requires that the accused not be punished based on unverified claims of personal hatred, but on clear, investigable evidence; therefore, procedures must prevent manipulation through emotional or adversarial bias.",
+  "summary": "This passage presents a deconstructive critique of evidentiary practices in witch trials, exposing how personal enmity is weaponized against the accused. It proposes structured, procedural safeguards\u2014such as scrambled testimony delivery and delayed witness confrontation\u2014to prevent false accusations rooted in alleged animosity. While morally framed as protecting the innocent from unjust punishment, its rhetoric remains highly charged, using moral language to justify cunning tactics for 'the good of the faith and the State,' resulting in a mixed mode with high entropy and intensity.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 112
+}

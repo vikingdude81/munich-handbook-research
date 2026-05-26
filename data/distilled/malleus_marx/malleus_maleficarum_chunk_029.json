@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "The belief that there is no witchcraft in the world, attributing natural phenomena to imagination rather than hidden causes",
+    "The claim that devils do not exist and that effects attributed to them stem from natural causes like the stars or Peripatetic philosophy",
+    "The assertion that temporary witch-induced impotence does not annul marriage, which the text challenges as contrary to precedent and law"
+  ],
+  "constructive_proposals": [
+    "Distinguish between temporary and permanent impotence caused by witchcraft",
+    "Prescribe a three-year period with sacraments or remedies to determine if impotence is curable",
+    "Declare that permanent impotence, even if occurring after marriage, may annul it"
+  ],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "Instruments of devils",
+      "At whose instance the devil do mischief to a creature",
+      "Denied as real by those who reject witchcraft"
+    ],
+    "justification": "The text identifies witches as agents of devils acting with divine permission, specifically targeting those who deny the reality of witchcraft and its effects on marriage."
+  },
+  "moral_justification": "Witchcraft is framed as a real spiritual threat sanctioned by God; denial of it is equated with heresy and infidelity, justifying strong condemnation.",
+  "summary": "The passage deconstructs the denial of witchcraft and demonic influence, particularly among educated or philosophical circles influenced by Aristotelian naturalism. It constructs a theological and legal framework to regulate accusations of witch-induced impotence in marriage, positioning witches as agents of divine punishment rather than mere superstition.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 29
+}

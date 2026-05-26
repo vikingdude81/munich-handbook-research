@@ -1,0 +1,24 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 5,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "the assumption that surplus wages are entirely spent on necessaries",
+    "the idea that a general rise in wages would lead to permanent price changes or increased aggregate demand"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Citizen Weston",
+    "attributes": [
+      "advocates for an unrealistic wage increase (nine shillings to eighteen shillings)",
+      "uses exaggerated hypotheticals to alarm about price rises in necessaries",
+      "shifts focus from structural economic analysis to emotional appeal"
+    ],
+    "justification": "Weston is portrayed as creating a misleading scenario by proposing a 100% wage increase, which the author dismisses as irrelevant. The text frames Weston's argument as a distraction rather than engaging with its substance, positioning him as someone who uses alarmist rhetoric to avoid addressing real economic mechanisms."
+  },
+  "moral_justification": "",
+  "summary": "The passage critically analyzes how a general rise in wages affects profit rates across industries through shifts in demand and capital-labor distribution. It dismantles the notion that wage increases lead to sustained price inflation or higher aggregate demand, arguing instead that market equilibrium self-corrects. While rhetorically charged and focused on exposing flawed assumptions, it offers no constructive alternative systems\u2014only a theoretical refutation of a specific economic premise.",
+  "source_id": "karl_marx",
+  "chunk_id": 41
+}

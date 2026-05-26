@@ -1184,6 +1184,31 @@
           "chars": 16958
         }
       ]
+    },
+    {
+      "id": "malleus_maleficarum",
+      "title": "The Malleus Maleficarum (1486)",
+      "authors": [
+        "Heinrich Kramer",
+        "Jacob Sprenger"
+      ],
+      "year": 1486,
+      "project": "malleus_marx",
+      "status": "ingested",
+      "chunks": "data/sources/malleus_marx/malleus_maleficarum",
+      "description": "Medieval heresy prosecution manual \u2014 deconstructionist rhetoric analysis"
+    },
+    {
+      "id": "karl_marx",
+      "title": "Selected Works of Karl Marx",
+      "authors": [
+        "Karl Marx"
+      ],
+      "year": 1848,
+      "project": "malleus_marx",
+      "status": "ingested",
+      "chunks": "data/sources/malleus_marx/karl_marx",
+      "description": "Revolutionary socialist critique \u2014 deconstructionist rhetoric analysis"
     }
   ]
 }

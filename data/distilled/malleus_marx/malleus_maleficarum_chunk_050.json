@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the method of making formal pacts with devils",
+    "the class of witches who eat their own children",
+    "the practice of carnal copulation with devils",
+    "the use of unbaptized children in witchcraft rituals"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the most powerful class of witches (those who eat their own children)",
+    "attributes": [
+      "devour their own species' children",
+      "practice innumerable harms including hailstorms, sterility, and killing",
+      "cannot undo their actions",
+      "engage in carnal copulation with devils",
+      "make unguents from the bones of baptized children"
+    ],
+    "justification": "This class is repeatedly described as the most powerful and dangerous, responsible for extreme acts including cannibalism of children, causing natural disasters, and engaging in diabolical rituals. The text emphasizes their moral corruption through actions that violate both human and divine law, positioning them as the primary embodiment of evil in the narrative."
+  },
+  "moral_justification": "The text frames witchcraft as a deliberate, satanic conspiracy involving sacrilege, child abuse, and rebellion against God and the Church. It justifies persecution through the witches' own admissions of pact-making with devils and their violation of Christian sacraments, especially targeting those who harm innocent children or desecrate sacred elements like baptism.",
+  "summary": "The passage is a deconstructive analysis of witchcraft as a satanic practice, focusing on the most extreme class of witches who consume their own children and make pacts with devils. It condemns their actions through vivid moral condemnation and detailed descriptions of atrocities, while justifying inquisitorial action by linking witches to diabolical rituals and heresy. No constructive alternatives are offered; instead, it serves to expose and vilify the perceived threat.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 50
+}

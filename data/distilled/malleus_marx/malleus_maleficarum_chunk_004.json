@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the possibility of creatures being created through non-natural means",
+    "the role of devils as agents in physical transformations (e.g., humans to beasts)",
+    "the legitimacy and mechanism of magical or demonic influence on bodily change"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "devils",
+    "attributes": [
+      "ministers of God",
+      "servants of God",
+      "agents of divine punishment or correction",
+      "actors permitted by God to afflict and transform creatures"
+    ],
+    "justification": "Devils are framed as instruments of God's will, acting only with divine permission to carry out punishment or correction through physical transformation, thus embodying the mechanism of deconstructed natural order."
+  },
+  "moral_justification": "The text justifies divine sovereignty by asserting that only God can truly afflict or heal, and all other actions\u2014including those attributed to devils or witches\u2014are permitted by God for corrective or punitive purposes, thereby absolving ultimate responsibility from created agents.",
+  "summary": "This passage deconstructs the possibility of non-divine creation and transformation of creatures through demonic agency, framing such phenomena as divinely sanctioned mechanisms of punishment or correction. It constructs a theological framework in which devils operate only by God's permission, reinforcing divine sovereignty while condemning magical practices as instruments of disorder permitted within a hierarchical cosmic order.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 4
+}

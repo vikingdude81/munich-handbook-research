@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witches",
+    "devils",
+    "the practice of child sacrifice (oblation)",
+    "midwives who assist in witchcraft rituals"
+  ],
+  "constructive_proposals": [
+    "baptize the child immediately upon suspicion of ritual danger",
+    "conduct a period of purgation before formal accusation",
+    "bring accusations before the judge after purgation",
+    "burn those accused of witchcraft and sacrilegious offerings"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "compelled by evil spirits",
+      "act against their own wills",
+      "depicted as deceptive, prideful, and spiritually corrupt",
+      "practice child sacrifice for demonic rituals",
+      "use children's limbs to create unguents for spells"
+    ],
+    "justification": "The text portrays witches as agents of the devil who commit horrific crimes against children, motivated by demonic commands and pride. They are framed as deceptive, violating religious purity, and endangering souls, making them the central target of condemnation."
+  },
+  "moral_justification": "The text justifies its moral outrage by claiming that witches kill children to delay divine judgment and serve Satan, thereby defiling sacred rites and preventing salvation. It frames child sacrifice as a direct attack on God's order and the sanctity of life, with devils using deception and pride to corrupt both witches and the faithful.",
+  "summary": "This passage is a highly charged deconstruction of witchcraft practices, particularly child sacrifice, framed as diabolical ritual designed to defy divine authority and delay salvation. It combines vivid moral condemnation with procedural details of accusation and punishment, presenting witches as demonic agents whose actions corrupt religious order. While it includes some constructive elements like baptism and legal procedures, the dominant mode is deconstruction \u2014 exposing and condemning perceived heresies through extreme moral framing and apocalyptic stakes.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 71
+}

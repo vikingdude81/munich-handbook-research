@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the Incubus and its operations",
+    "the devil's influence on witches",
+    "feast days as times of heightened demonic activity",
+    "the belief that witches seduce men during sacred times",
+    "the claim that devils observe times and constellations for pollution of progeny"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil (Incubus/Succubi)",
+    "attributes": [
+      "observes sacred times and places",
+      "infects witches' progeny through semen",
+      "causes venereal acts with witches",
+      "operates visibly to the witch",
+      "exploits religious rituals for moral corruption"
+    ],
+    "justification": "The devil is consistently portrayed as the central agent of corruption, actively manipulating witches during sacred times and using their actions to undermine Christian faith and damn souls. The text frames the devil as an external force that infiltrates religious practices and exploits human weakness, particularly during holy days."
+  },
+  "moral_justification": "The text justifies condemnation of witchcraft by framing it as a tool of the devil used to corrupt faith, commit sacrilege, and invite divine punishment across generations. It emphasizes that such actions offend God more severely and lead to greater spiritual danger.",
+  "summary": "This passage is a deconstructive analysis of witchcraft beliefs, focusing on how the devil manipulates religious times and rituals to corrupt individuals, particularly through Incubi and Succubi. While it presents detailed observations about ritual practices and demonic influence, it offers no constructive alternatives or solutions, instead reinforcing moral condemnation and theological warnings.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 57
+}

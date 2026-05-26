@@ -1,0 +1,24 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the witch's method of using a leaden image to harm the guilty person",
+    "the claim that such cures are generally lawful or effective"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "serves multiple persons through separate witches",
+      "works in agreement to bring perdition of souls",
+      "afflicts the Bishop's mistress out of envy over the girl's fortune"
+    ],
+    "justification": "The text attributes malicious intent and supernatural agency to the devil, framing him as the source of harm who conspires with witches through a compact, particularly motivated by envy. This portrayal aligns with deconstructive rhetoric that identifies the devil as the central agent of evil, undermining any notion of moral or spiritual efficacy in witchcraft practices."
+  },
+  "moral_justification": "The text condemns witchcraft methods as generally unlawful and spiritually dangerous, emphasizing that human weakness leads people to prioritize physical health over soul salvation. It implies a moral hierarchy where true faith should reject such practices, even if they appear effective.",
+  "summary": "The passage deconstructs witchcraft rituals by exposing their reliance on demonic collaboration and harmful symbolic acts, while condemning the moral failure of those who seek pardon through illegal means rather than genuine repentance.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 80
+}

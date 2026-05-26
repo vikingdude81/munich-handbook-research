@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "the notion that wages should rise proportionally with the value of labour",
+    "the assumption that increased productivity necessarily improves workers' relative position",
+    "the claim that wage resistance is merely about maintaining former social status"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "factory lords",
+    "attributes": [
+      "reduced wages by ten percent after abolishing the Corn Laws",
+      "violated solemn pledges during anti-corn law agitation",
+      "acted against stated principles of wage justice"
+    ],
+    "justification": "The text identifies factory lords as agents who unilaterally reduced wages despite prior commitments and economic conditions, framing them as violators of moral and labor-rights norms without offering a constructive alternative."
+  },
+  "moral_justification": "The text argues that workers have a right to be compensated according to the value their labour produces, and any failure to align wages with this value constitutes exploitation; additionally, resistance to wage cuts is framed as a defense of relative social standing against capitalist dominance.",
+  "summary": "This passage deconstructs classical political economy by showing how wage-value relationships are determined by labour productivity and commodity values rather than moral expectations. It critiques the paradoxes in wage theory\u2014where high-productivity labour may yield low wages, and vice versa\u2014and exposes contradictions in assumptions about fairness, profit rates, and worker resistance. While emotionally charged with strong moral framing of capitalists as exploiters violating promises, it offers no constructive alternatives for systemic reform.",
+  "source_id": "karl_marx",
+  "chunk_id": 49
+}

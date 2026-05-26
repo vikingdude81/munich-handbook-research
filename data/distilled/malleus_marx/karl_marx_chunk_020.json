@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Bourgeoisie",
+    "Feudal relations",
+    "Religious fervour",
+    "Chivalrous enthusiasm",
+    "Philistine sentimentalism",
+    "Chartered freedoms",
+    "Family sentimentality"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Bourgeoisie",
+    "attributes": [
+      "Exploitative",
+      "Revolutionary in dismantling tradition",
+      "Reduces human relations to self-interest and cash payment",
+      "Converts respected professions into wage labourers",
+      "Destroys family sentimentality",
+      "Substitutes free trade for moral obligations"
+    ],
+    "justification": "The text systematically portrays the bourgeoisie as a destructive force that dismantles historical, cultural, and social structures for self-interest. It attributes to them the deliberate erosion of moral, familial, and professional bonds in favor of economic calculation and exploitation."
+  },
+  "moral_justification": "The bourgeoisie is condemned for prioritizing profit over human values, destroying traditional social ties, reducing individuals to economic units, and replacing noble or spiritual motivations with cold materialism. Their rise is framed as a moral decline disguised as progress.",
+  "summary": "This passage deconstructs the bourgeoisie as a historically destructive class that replaces feudal and moral relations with exploitative, self-interested economic relations. It emphasizes their role in dismantling family, professional, and cultural institutions while promoting free trade and individualism at the expense of communal values.",
+  "source_id": "karl_marx",
+  "chunk_id": 20
+}

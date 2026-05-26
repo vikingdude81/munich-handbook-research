@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the notion that profit derives from selling commodities at prices above their value",
+    "the idea that profits are based on the price of commodities rather than labor",
+    "the assumption that there exist buyers and sellers with balanced roles in production",
+    "the concept of 'value of labour' as commonly understood"
+  ],
+  "constructive_proposals": [
+    "defining the value of labour by its relation to necessary labour time",
+    "starting from the theorem that commodities sell at their real values on average",
+    "explaining profits as derived from selling commodities in proportion to the quantity of labor realized in them"
+  ],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The text deconstructs classical economic assumptions about value and profit by exposing their paradoxical foundations, arguing that profits arise from labor, not price differentials, while maintaining a highly charged moral tone that frames capitalist relations as inherently exploitative and self-contradictory.",
+  "source_id": "karl_marx",
+  "chunk_id": 46
+}

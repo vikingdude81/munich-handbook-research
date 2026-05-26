@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witches",
+    "divination practices",
+    "the invocation of devils",
+    "spiritualist rituals (e.g., summoning the dead)"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "practitioners of unholy dreams",
+      "engaged in bloodshed and sacrifice",
+      "in league with devils",
+      "perform sacrilegious pacts",
+      "kill children",
+      "distort spiritual truths"
+    ],
+    "justification": "The text portrays witches as agents of the devil who engage in blood rituals, make pacts with demons, invoke spirits for personal or communal harm, and commit infanticide. Their actions are framed as inherently evil and spiritually corrupting, with no redeeming or legitimate purpose."
+  },
+  "moral_justification": "The text justifies the condemnation of witches by framing their practices as diabolical, sacrilegious, and murderous. It appeals to religious doctrine (Augustine, Thomas Aquinas) to argue that such acts are not only unlawful but spiritually abominable, with no divine sanction beyond rare, mysterious exceptions unrelated to actual witchcraft.",
+  "summary": "The passage is a highly charged deconstruction of witchcraft, portraying witches as diabolical agents who engage in blood rituals, pacts with devils, and murder. It contrasts their 'unholy dreams' with legitimate dream-based divination sanctioned by divine or natural order, using theological authority to condemn witchcraft while dismissing any constructive or procedural alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 41
+}

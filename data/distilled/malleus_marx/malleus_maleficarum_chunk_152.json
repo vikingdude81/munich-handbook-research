@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Apostolic Bull Summis desiderantes affectibus issued by Innocent VIII (1484)",
+    "Practices of witchcraft and heresy as defined in the bull",
+    "Judicial astrology and black magic",
+    "The Papacy's unchanging stance on these issues"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Innocent VIII",
+    "attributes": [
+      "author of the Bull Summis desiderantes affectibus",
+      "Pope who issued decrees against witchcraft and heresy",
+      "figure whose actions are condemned as pernicious"
+    ],
+    "justification": "The text explicitly condemns Innocent VIII's Bull as a 'most pernicious and unhappy document' and describes it as a 'perpetual and irrevocable manifesto of the unchanged and unchangeable mind of the Papacy,' positioning him as the central figure responsible for oppressive ecclesiastical actions against witchcraft and heresy."
+  },
+  "moral_justification": "The text portrays the Church's condemnation of witchcraft and heresy as a moral imperative, framing resistance to papal decrees as an act of defiance against divine authority and apostolic tradition. It justifies the Bull's severity by invoking the wrath of God and the Apostles Peter and Paul, presenting dissent as morally indefensible and spiritually dangerous.",
+  "summary": "The passage deconstructs the historical Apostolic Bull Summis desiderantes affectibus issued by Pope Innocent VIII in 1484, condemning its moral authority while simultaneously reinforcing the Church's uncompromising stance against witchcraft and heresy. It portrays the bull as a symbol of oppressive papal power, using intense moral language to depict both the document and those who oppose it as agents of evil, with no constructive alternatives offered.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 152
+}

@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witches",
+    "heresy",
+    "infidelity of heretics",
+    "Jewish infidelity",
+    "Pagan infidelity"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "denying the crucifixion",
+      "committing 'nastiness of the flesh' with devils",
+      "pure spirit of malignity causing injury to souls and bodies",
+      "heresy (apostasy from faith)",
+      "infidelity that corrupts received faith"
+    ],
+    "justification": "Witches are portrayed as uniquely culpable due to their deliberate, lifelong infidelity to the Christian Faith after having known it, their alliance with devils, and their role in causing widespread moral and physical harm through a 'pure spirit of malignity.' The text emphasizes that their sin exceeds others because they oppose truth they have received, making their apostasy more severe than that of Jews or Pagans who lacked such knowledge."
+  },
+  "moral_justification": "The text justifies the extreme condemnation of witches by arguing that their sin is not only grave in quantity and nature but especially heinous due to their conscious, lifelong rejection of revealed truth \u2014 a betrayal that corrupts faith itself. Drawing on Thomas Aquinas and Augustine, it frames witchcraft as a form of apostasy more severe than unbelief among those without exposure to the Gospel, because witches profess Christianity yet actively subvert it through diabolical pacts and heretical teachings.",
+  "summary": "This passage is a highly charged deconstruction of witchcraft as the most grievous sin, rooted in theological arguments about infidelity, apostasy, and moral corruption. It constructs witches as uniquely culpable due to their conscious betrayal of Christian doctrine after baptism, aligning them with Luciferian pride and demonic malice. The rhetoric is intense and apocalyptic, employing scholastic authority (Thomas Aquinas, Augustine) to legitimize the condemnation while offering no constructive alternatives \u2014 only moral eradication.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 38
+}

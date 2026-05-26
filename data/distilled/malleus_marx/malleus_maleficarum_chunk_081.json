@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "superstitious remedies involving devils or tacit pacts with the devil",
+    "the legitimacy of witchcraft-based cures that invoke natural elements like lead under planetary influence",
+    "the classification of certain healing practices as 'idle and vain' superstitions without devil-pact"
+  ],
+  "constructive_proposals": [
+    "curing through God's help using lawful means (e.g., molten lead ritual with Saturnic justification)",
+    "diagnostic testing via natural observation to distinguish witchcraft from illness",
+    "conditional healing based on divine permission and absence of open devil worship"
+  ],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "The text condemns practices involving devils or tacit pacts with the devil as heretical, even when they appear to cure, because they offend God through forbidden spiritual collaboration. It justifies punishment for those who perform such acts, especially if they are certain of their power and demand prolonged rituals, framing them as guilty of heresy despite using 'lawful' methods like invoking Saturn's influence on lead.",
+  "summary": "The passage deconstructs various healing practices by exposing their spiritual foundations\u2014distinguishing between open devil invocation, tacit pacts via natural elements (e.g., lead under planetary influence), and purely superstitious but non-demonic rituals. It condemns those who perform cures through hidden pacts with the devil as heretics, even when they claim divine aid, while offering conditional constructive alternatives rooted in God's help and observable cause-and-effect testing.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 81
+}

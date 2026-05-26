@@ -1,0 +1,34 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "private property",
+    "division of labour",
+    "fragmentation of productive forces",
+    "alienated individuals",
+    "restricted self-activity"
+  ],
+  "constructive_proposals": [
+    "universal appropriation of productive forces by all individuals",
+    "development of total capacities through collective ownership",
+    "abolition of private property",
+    "transformation of labour into self-activity",
+    "establishment of universal intercourse among individuals"
+  ],
+  "scapegoat": {
+    "name": "private property",
+    "attributes": [
+      "indifferent to individual intercourse",
+      "material form divorced from individuals",
+      "source of alienation and restriction",
+      "obstacle to self-activity"
+    ],
+    "justification": "Private property is portrayed as the material embodiment of fragmented productive forces that exist independently of individuals, severing them from their labor and transforming productive forces into external objects owned by a few. It sustains alienation by making individuals dependent on ownership rather than active participation, thereby stunting self-activity and reducing labor to a negative means of survival."
+  },
+  "moral_justification": "The text frames the current state as a moral failure where productive forces have become alienated from individuals, reduced to indifferent property relations that undermine human self-activity and existence. The proletariat is positioned as the only class capable of restoring universal connection through collective appropriation, making private property not just economically obsolete but morally necessary to abolish for human emancipation.",
+  "summary": "The passage deconstructs capitalism by showing how the division of labour and private property alienate individuals from productive forces, reducing labor to a negative form of self-activity. It proposes that only through universal appropriation by all proletarians \u2014 via revolution and collective ownership \u2014 can self-activity be restored, private property abolished, and humanity transformed into complete individuals.",
+  "source_id": "karl_marx",
+  "chunk_id": 19
+}

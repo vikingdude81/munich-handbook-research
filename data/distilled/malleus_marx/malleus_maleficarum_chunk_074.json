@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the attribution of sudden cattle deaths to witchcraft without natural causes",
+    "the claim that devils and witches can cause hailstorms, tempests, and lightning through supernatural means",
+    "the assertion that God permits devils to inflict suffering as divine punishment"
+  ],
+  "constructive_proposals": [
+    "to consider similar cases later in the chapter discussing remedies for bewitched cattle"
+  ],
+  "scapegoat": {
+    "name": "devils and witches",
+    "attributes": [
+      "supernatural agents of harm",
+      "agents acting with God's permission",
+      "instruments of divine punishment"
+    ],
+    "justification": "The text identifies devils and their disciples as the primary actors causing supernatural harm to both people and beasts, framing them as permitted by God to inflict suffering as part of divine justice."
+  },
+  "moral_justification": "God uses devils as instruments of punishment for wickedness and trial for the good, with suffering attributed to demonic action permitted by divine will.",
+  "summary": "The passage deconstructs popular beliefs in witchcraft-induced cattle deaths by contrasting them with theological interpretations attributing similar disasters to divine permission of demonic activity, using biblical examples like Job to justify supernatural causation as part of a moral and cosmic order.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 74
+}

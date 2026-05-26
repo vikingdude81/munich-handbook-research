@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the devil's role in causing harm through witches",
+    "witches as scapegoats for divine permission to inflict suffering",
+    "the attribution of blame from devils to witches",
+    "the possibility of false accusations against innocent women"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "scapegoated for injuries caused by devils",
+      "blamed for actions they enable through pacts with the devil",
+      "accused of causing harm via magical means even when physically innocent"
+    ],
+    "justification": "Witches are portrayed as secondary agents who, through their pact with the devil and complicity in his schemes, bear deserved blame for injuries inflicted by devils, despite not being the primary actors."
+  },
+  "moral_justification": "The text justifies the scapegoating of witches by asserting that they must have made a pact with the devil to perform any harmful act, and that God permits such suffering through them as part of a divine plan to increase the merits of the just. It claims that without their cooperation, the devil could not inflict harm, thus making witchcraft an essential, divinely sanctioned mechanism for testing or refining the righteous.",
+  "summary": "The passage deconstructs popular beliefs about witchcraft by arguing that witches are unjustly blamed for injuries actually caused by devils, but it simultaneously reinforces their culpability through a theological framework that frames their actions as necessary under divine permission. It presents witches as morally culpable agents who, through pact and complicity, enable demonic harm, even as the text critiques the devil's role and acknowledges the injustice of false accusations. The rhetoric is highly charged with moral condemnation and apocalyptic overtones, focusing on spiritual corruption and divine justice.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 68
+}

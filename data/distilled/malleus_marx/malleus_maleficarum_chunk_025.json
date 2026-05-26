@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the belief that devils can change or incite love or hatred in men",
+    "the idea that the devil has power over the soul or will",
+    "the notion that emotional influence implies control over the will"
+  ],
+  "constructive_proposals": [
+    "distinguishing between direct and indirect causes of sin",
+    "asserting that restraint of ungoverned desire is the role of human free-will",
+    "proposing that persuasion (visible or invisible) may explain infatuation without direct will manipulation"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "inciter of sin",
+      "source of moral corruption",
+      "tempts through visible and invisible means",
+      "cannot see inner thoughts but influences emotions"
+    ],
+    "justification": "The text consistently attributes sin, moral failure, and human inclination toward wrongdoing to the devil as a primary cause, especially in the context of witchcraft and emotional manipulation."
+  },
+  "moral_justification": "The text defends the sovereignty of divine will over the soul by denying the devil's ability to directly manipulate love or hatred, arguing that such emotions originate from human free-will rather than demonic agency. It positions the devil as a deceiver who tempts through suggestion but cannot override moral agency.",
+  "summary": "This passage from the Malleus Maleficarum systematically deconstructs the idea that witches or devils can manipulate human will to induce love or hatred, arguing instead for divine sovereignty over the soul and human responsibility for moral choices. It employs high rhetorical intensity with strong moral condemnation of demonic influence while offering a structured theological framework distinguishing direct from indirect causation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 25
+}

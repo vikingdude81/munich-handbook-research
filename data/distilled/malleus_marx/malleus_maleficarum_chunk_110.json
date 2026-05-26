@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 7,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "the power of birth and family",
+    "the power of riches",
+    "the power of malice"
+  ],
+  "constructive_proposals": [
+    "forbid all those who are concerned in the inquiry to reveal without their permission any secrets which they have learned from the Bishop or Inquisitors, under pain of excommunication",
+    "take especial care not to suppress the names of the witnesses as if there were danger to them when there is perfect security",
+    "decide to publish them when it is possible to publish them without risk of any danger to the witnesses"
+  ],
+  "scapegoat": {
+    "name": "the power of malice",
+    "attributes": [
+      "threatens more danger to the witnesses if their names are made known to the accused",
+      "more dangerous because poor accused persons have many evil accomplices, such as outlaws and homicides",
+      "requires concealment of witness names for safety"
+    ],
+    "justification": "The text identifies 'the power of malice' as more to be feared than birth or riches because it endangers witnesses by exposing their names to poor accused persons with criminal accomplices, making secrecy essential for witness protection."
+  },
+  "moral_justification": "The moral justification centers on the sanctity of witness testimony and the preservation of due process; revealing witness identities risks violence from accomplices and thus violates divine law by endangering those who speak truth in judicial proceedings.",
+  "summary": "This passage deconstructs the dangers posed by malice in legal proceedings, particularly the risk to witnesses when their names are disclosed. It establishes strict ecclesiastical protocols requiring secrecy of witness identities under penalty of excommunication, balancing protection of the accused's right to defense with safeguarding witnesses from retaliation. The rhetoric is highly charged (6) and deconstructive (7), condemning disclosure while proposing concrete legal mechanisms for confidentiality.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 110
+}

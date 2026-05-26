@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the act of the will",
+    "the act of the intellect",
+    "the act of the body"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "celestial causes",
+    "attributes": [
+      "directed by divine authority (God)",
+      "directed by angelic influence",
+      "directed by celestial bodies"
+    ],
+    "justification": "The text attributes human actions to three celestial causes\u2014God, an Angel, and a celestial body\u2014which deconstructs human agency by framing will, intellect, and bodily action as governed externally rather than internally."
+  },
+  "moral_justification": "Human actions are not self-determined but subject to divine and celestial control; good works are willed by God, rendering human choice subordinate and eliminating genuine moral autonomy.",
+  "summary": "The passage deconstructs human agency by asserting that will, intellect, and bodily action are governed by external celestial forces\u2014God, an Angel, and a celestial body\u2014citing scriptural authority to show divine sovereignty over human choices, thus undermining self-governance and moral responsibility.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 18
+}

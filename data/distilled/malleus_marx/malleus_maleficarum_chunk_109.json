@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "customary legal procedures that allow release on sureties after negative answers",
+    "the notion that a witch can be released if she escapes custody",
+    "the claim that touching the ground during capture would empower witches to use lightning against others"
+  ],
+  "constructive_proposals": [
+    "search her house thoroughly for instruments of witchcraft",
+    "detain her maid-servant or companions separately as they are presumed to know her secrets",
+    "prevent her from entering her room upon capture to avoid concealing objects of witchcraft",
+    "lift her from the ground using a basket or plank so she cannot touch the earth",
+    "require sureties or oath-bound custody if she is suspected of flight or has associated with witches"
+  ],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "suspected of consorting with demons",
+      "believed to possess hidden knowledge and magical power",
+      "seen as capable of using silence as a supernatural shield",
+      "accused of endangering others through secret powers"
+    ],
+    "justification": "The text constructs the witch as someone who manipulates legal and physical boundaries\u2014evading punishment, hiding objects of witchcraft, and exploiting her connection to supernatural forces to resist examination. Her power is framed as contingent on maintaining silence upon contact with the ground, which would enable lethal magical retaliation, thus justifying extreme containment measures."
+  },
+  "moral_justification": "The moral justification centers on divine order and the necessity of preventing witches from using their alleged powers to harm others; it invokes religious authority (Canonists, Theologians, Duns Scotus) to legitimize procedures that neutralize witchcraft through ritualized containment and legal restriction, framing resistance to such measures as defiance of God's law.",
+  "summary": "The text presents a mixed rhetorical mode: while primarily deconstructing customary leniencies toward witches\u2014such as release on sureties or escape-based conviction\u2014it simultaneously constructs detailed procedural mandates for their capture and detention. The rhetoric is moderately intense, combining legal reasoning with moral and theological condemnation. It targets the witch as a dangerous figure whose silence and physical connection to the earth are seen as sources of supernatural power that must be neutralized through strict, ritualized procedures justified by religious authority.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 109
+}

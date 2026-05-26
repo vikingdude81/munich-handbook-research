@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the heresy of denying witches exist",
+    "the belief that injuries can be caused by devils",
+    "those suspected of heresy but not convicted"
+  ],
+  "constructive_proposals": [
+    "abjuration ritual in vulgar tongue for public understanding",
+    "penance procedures including standing during Mass with candle or pilgrimage",
+    "explicit legal framework for punishment and rehabilitation",
+    "instructions for notary to document abjuration process",
+    "conditional imprisonment for suspected but unconvictted individuals"
+  ],
+  "scapegoat": {
+    "name": "N.",
+    "attributes": [
+      "strongly suspected of heresy",
+      "accused of causing injuries to men, animals, and earth",
+      "allegedly in league with devils",
+      "resistant to Church doctrine and Catholic law"
+    ],
+    "justification": "The text centers on N. as the subject of deconstruction \u2014 a person suspected of heresy who must publicly renounce false beliefs about witches and devil-caused harm, submit to ecclesiastical punishment, and undergo penance. The entire passage is structured around dismantling their alleged heretical stance while reinforcing Church authority."
+  },
+  "moral_justification": "The text justifies its actions through appeals to divine law, Catholic doctrine, imperial decrees, and the necessity of moral purification. It frames the punishment not as vengeance but as justice administered by learned theologians and lawyers acting under ecclesiastical authority, with the goal of protecting the faithful and upholding truth.",
+  "summary": "This passage is a deconstructive legal-theological text that condemns alleged witchcraft heresy while outlining ritualized procedures for abjuration, penance, and punishment. It uses high moral intensity to frame witches and suspected heretics as existential threats to Church and state, justifying their subjugation through institutionalized confession, public humiliation, and ecclesiastical authority \u2014 all without offering constructive alternatives beyond reaffirming existing dogma.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 125
+}

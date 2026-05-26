@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "excommunication practices that lead to spiritual harm without correction",
+    "misuse of exorcism by incorporating superstition or witchcraft elements",
+    "the conflation of demonic possession with moral failure rather than corrective discipline"
+  ],
+  "constructive_proposals": [
+    "limiting excommunication to cases where correction is possible, not damnation",
+    "using exorcism as a means of spiritual restoration rather than punishment",
+    "ensuring exorcists avoid superstition, jesting, or witchcraft in their practice",
+    "allowing the use of natural substances like herbs and stones if not superstitiously invoked"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "agent of spiritual harm",
+      "source of temptation and possession",
+      "instrument of divine correction when used by the Church"
+    ],
+    "justification": "The text portrays the devil as both a destructive force causing physical and spiritual affliction, yet also as an entity whose power is restrained by ecclesiastical authority; he is depicted not as an ultimate evil to be eradicated but as a correctable adversary whose influence can be turned toward moral restoration through proper Church discipline."
+  },
+  "moral_justification": "The text justifies excommunication and correction as necessary for spiritual health, emphasizing that the Church's authority derives from divine grace and that even those delivered to Satan are meant for eventual redemption, not eternal damnation.",
+  "summary": "This passage presents a theological framework in which excommunication is a medicinal tool of the Church, not a final condemnation. It balances deconstruction of abuses\u2014such as superstitious exorcism or misuse of spiritual power\u2014with constructive guidelines for proper ecclesiastical discipline, moral correction, and protection against both demonic influence and clerical overreach.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 89
+}

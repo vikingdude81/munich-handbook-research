@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "Weston's argument that demand increases only raise prices without increasing supply",
+    "The assumption that rising wages must lead to higher commodity prices due to fixed currency",
+    "The idea that increased demand inherently raises market prices regardless of production constraints"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Weston",
+    "attributes": [
+      "advocates a demand-driven price theory",
+      "relies on abstract economic reasoning without empirical support",
+      "fails to account for real-world wage and price data"
+    ],
+    "justification": "Weston is portrayed as theoretically rigid, relying on generalized economic principles while ignoring observed declines in agricultural prices despite rising wages and increased demand from foreign markets."
+  },
+  "moral_justification": "",
+  "summary": "The text critically dismantles Weston's economic argument by contrasting his theoretical expectations with empirical wage and price data, showing that rising wages did not lead to higher prices despite increased demand. It emphasizes deconstruction of classical economic assumptions through detailed counter-evidence.",
+  "source_id": "karl_marx",
+  "chunk_id": 42
+}

@@ -1,0 +1,24 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "Kramer and Sprenger's authorship ambiguity",
+    "The Malleus Maleficarum as an authoritative text"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Heinrich Kramer and James Sprenger",
+    "attributes": [
+      "Dominican inquisitors",
+      "authors of the Malleus",
+      "agents of papal authority"
+    ],
+    "justification": "The text identifies Kramer and Sprenger as central figures who, through their roles as inquisitors and authors of the Malleus, were responsible for institutionalizing witch persecution. While not explicitly condemned as evil individuals, they are portrayed as agents of oppressive systems whose actions had widespread negative consequences across Europe."
+  },
+  "moral_justification": "The text does not provide a moral justification; it presents historical facts and assessments without expressing its own moral stance on the events described.",
+  "summary": "This passage provides a biographical and bibliographic account of Heinrich Kramer and James Sprenger, emphasizing their roles as inquisitors and authors of the Malleus Maleficarum. It highlights the text's widespread influence and controversial status while noting the ambiguity around authorship. The tone is analytical with moderate rhetorical intensity, scoring 5 for emotional charge due to factual assertions about power and legacy without overt condemnation or celebration.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 143
+}

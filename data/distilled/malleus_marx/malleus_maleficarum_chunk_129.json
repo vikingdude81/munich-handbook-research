@@ -1,0 +1,35 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "heretics",
+    "backsliders",
+    "clerics who have relapsed into heresy"
+  ],
+  "constructive_proposals": [
+    "confession of sins",
+    "receiving the Sacrament of the Eucharist",
+    "penitence and patience",
+    "public proclamation of condemnation",
+    "degradation from ecclesiastical office",
+    "handing over to secular justice for punishment"
+  ],
+  "scapegoat": {
+    "name": "the backslider or heretic (N.)",
+    "attributes": [
+      "accused of heresy",
+      "relapsed into previously abjured heresies",
+      "convicted by confession and witnesses",
+      "obstinately persisted in heresy",
+      "publicly renounced heresy before the Church",
+      "again accused after repentance"
+    ],
+    "justification": "The text targets individuals who have relapsed into heresy after prior confession and renunciation, particularly clerics or those of high ecclesiastical standing. These individuals are dehumanized through ritual degradation \u2014 stripped of vestments, titles, and spiritual authority \u2014 before being handed over to secular authorities for punishment. The process is framed as both a moral correction and a public spectacle designed to reinforce orthodoxy through humiliation and corporal justice."
+  },
+  "moral_justification": "The text justifies the harsh treatment by asserting that heresy is not merely doctrinal error but a betrayal of sacred trust, especially when committed by those ordained in holy orders. It frames the degradation and handover as necessary to restore spiritual order, protect the Church from corruption, and uphold divine justice. The moral logic assumes that excommunication is insufficient once heresy recurs, requiring public rebuke and physical punishment to reassert communal and ecclesiastical boundaries.",
+  "summary": "The passage details a formalized, ritualized process for handling heretics \u2014 especially clerics \u2014 who have relapsed after prior repentance. It combines deconstructive rhetoric that condemns the individual's moral failure with constructive procedural mandates: confession, sacraments, degradation, public shaming, and handover to secular justice. The tone is highly charged, using apocalyptic overtones of spiritual death and purification through suffering. While it prescribes clear administrative procedures, its core function is deconstructive: dismantling the heretic\u2019s identity and authority before punishment.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 129
+}

@@ -1,0 +1,22 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Construction",
+  "entropy_score": 2,
+  "rhetorical_intensity": 3,
+  "deconstruction_targets": [],
+  "constructive_proposals": [
+    "establishment of a Confraternity with formal rules and membership registration",
+    "approval by Apostolic authority",
+    "enrichment with indulgences and privileges",
+    "spread throughout Christendom"
+  ],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "The text presents the Confraternity as a divinely sanctioned, morally superior institution whose legitimacy is derived from ecclesiastical approval and its role in promoting religious devotion. It frames Fr. Henry Kramer and Fr. James Sprenger not as persecutors but as zealous defenders of orthodoxy against heresy and witchcraft, with their actions justified by papal authority and imperial decree.",
+  "summary": "The passage constructs a narrative of the Rosary Confraternity's founding as a divinely approved, institutionally robust movement sanctioned by popes and emperors. It emphasizes its rapid spread, formal recognition, and moral righteousness while portraying its leaders\u2014particularly Fr. Henry Kramer\u2014as heroic defenders of orthodoxy against heresy and witchcraft, with no deconstructive critique offered.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 156
+}

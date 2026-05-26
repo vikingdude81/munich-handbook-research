@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the idea that celestial bodies directly cause witchcraft or supernatural illness",
+    "the notion that human choices are solely determined by natural or astrological forces without divine or angelic mediation"
+  ],
+  "constructive_proposals": [
+    "that preservation from witchcraft is achieved through angelic power, not celestial influence",
+    "that an Angel deputed to guard a person can protect them from witchcraft",
+    "that God works indirectly by sending preservation instead of natural defect in the man",
+    "the need for divine enlightenment and angelic guidance to make choices that lead to prosperity"
+  ],
+  "scapegoat": {
+    "name": "the stars (celestial bodies)",
+    "attributes": [
+      "believed to cause supernatural illness and witchcraft",
+      "seen as influencing human choices toward unprofitable or harmful actions",
+      "associated with natural health and sickness, but only in a limited, non-supernatural sense"
+    ],
+    "justification": "The text explicitly states that while celestial bodies are acknowledged as causes of natural phenomena like health and sickness, supernatural afflictions such as witchcraft are attributed to the devil with God's permission, not directly to the stars. The passage argues against attributing bewitchment or preservation from it directly to celestial influence, positioning the stars as indirect or insufficient causes compared to angelic intervention."
+  },
+  "moral_justification": "The text frames supernatural afflictions like witchcraft as morally evil acts inflicted by the devil with divine permission, and positions human prosperity as dependent on alignment with God's will through angelic enlightenment rather than astrological determinism.",
+  "summary": "This passage presents a theological framework in which celestial bodies influence natural processes but not supernatural evils like witchcraft; it deconstructs astrological determinism while proposing angelic mediation and divine grace as the true mechanisms for human flourishing and protection, blending critique with constructive metaphysical and moral guidance.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 48
+}

@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the belief in witches' physical transvection through night travel on beasts",
+    "the notion that demons can physically transform human bodies or minds via magical means",
+    "the legitimacy of witchcraft as a real phenomenon"
+  ],
+  "constructive_proposals": [
+    "priests should preach that such beliefs are false and not from God",
+    "faithful should recognize demonic illusions as non-divine deceptions",
+    "individuals must attend to holy things and the Sacraments to resist demonic influence"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "transmutes imagination",
+      "induces false perceptions",
+      "deceives through illusion rather than physical power",
+      "operates with divine permission",
+      "restrained by God and holy individuals"
+    ],
+    "justification": "The devil is framed as the sole agent capable of causing apparent transformations, but only through psychological manipulation (fancy/perception), not actual physical change; his power is contingent on divine permission and is ineffective against those with spiritual purity."
+  },
+  "moral_justification": "Sin resides in willful consent to imagined acts, not in the imagination itself; thus, demonic illusions do not constitute sin unless the individual consents. The real moral failing lies in neglecting holy practices and allowing the mind to be captivated by deceptive fancies.",
+  "summary": "This passage primarily deconstructs beliefs in witchcraft as delusions induced by devils manipulating perception, not physical reality. It condemns such beliefs while offering constructive guidance: priests must denounce them as false, and individuals should strengthen spiritual discipline to resist demonic influence. The rhetoric is highly charged with moral urgency and apocalyptic framing of spiritual warfare, targeting witches' claims as satanic illusions. While it dismantles the reality of witchcraft, it offers clear corrective measures rooted in faith and sacramental practice.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 32
+}

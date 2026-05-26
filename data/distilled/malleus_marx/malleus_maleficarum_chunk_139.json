@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the Malleus Maleficarum",
+    "Rev. Montague Summers' introductions",
+    "the Inquisition's prosecution of witches"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Heinrich Kramer and James Sprenger",
+    "attributes": [
+      "visionaries",
+      "authors of the Malleus Maleficarum",
+      "agents of religious persecution"
+    ],
+    "justification": "The text portrays them as 'visionaries' who justified and were necessary for the Inquisition's prosecution of witches, implying they are responsible for enabling unjust persecution under the guise of religious duty."
+  },
+  "moral_justification": "",
+  "summary": "The passage deconstructs Rev. Summers' biased introductions to the Malleus Maleficarum by exposing his uncritical validation of the Inquisition and witch hunts as noble and necessary, thereby condemning the moral legitimacy of Kramer and Sprenger's actions while rejecting their portrayal as justified religious figures.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 139
+}

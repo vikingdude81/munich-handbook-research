@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the legitimacy of accusations based solely on defamation without evidence",
+    "the use of public opinion as a basis for heresy charges"
+  ],
+  "constructive_proposals": [
+    "a canonical purgation procedure requiring the accused to appear before the tribunal at a specified time and place",
+    "procedural safeguards allowing continued trial if new evidence emerges after absolution"
+  ],
+  "scapegoat": {
+    "name": "the accused (woman)",
+    "attributes": [
+      "publicly defamed by both good and bad in her community",
+      "not convicted of actual witchcraft or heresy",
+      "accused based on threatening words and subsequent misfortune"
+    ],
+    "justification": "The text targets the woman as someone whose reputation is damaged solely through communal slander without legal proof of criminal acts, making her a symbolic figure for unjust social condemnation."
+  },
+  "moral_justification": "The moral justification centers on due process and the protection against conviction based on rumor or defamation rather than evidence; it emphasizes that no one should be punished unless legally proven guilty, even if publicly reviled.",
+  "summary": "This passage outlines a legal procedure in medieval ecclesiastical courts where individuals accused of heresy\u2014particularly witchcraft\u2014are not convicted if no evidence exists beyond public defamation. It establishes a 'canonical purgation' as an alternative to absolution or condemnation, requiring the accused to appear before authorities for symbolic reaffirmation rather than punishment. The text stresses that moral suspicion alone is insufficient; only legally proven acts justify judgment. While it deconstructs the legitimacy of guilt by reputation, it constructs a procedural safeguard within canon law.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 122
+}

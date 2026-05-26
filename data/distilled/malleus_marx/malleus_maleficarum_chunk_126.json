@@ -1,0 +1,34 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "heretics",
+    "witches",
+    "the Church's judicial process"
+  ],
+  "constructive_proposals": [
+    "imprisonment for life",
+    "interrogation under torture",
+    "canonical purgation with sponsors",
+    "abjuration of heresy",
+    "perpetual penance",
+    "release from excommunication upon abjuration"
+  ],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "gravely suspected of witchcraft",
+      "denies heresy or claims emotional/vehement intent",
+      "remains silent during torture",
+      "cannot shed tears under torture",
+      "recovers strength quickly after torture"
+    ],
+    "justification": "The text constructs the witch as a morally suspect figure whose identity is defined by suspicion, denial of guilt, and resistance to Church authority. Her physical and emotional responses \u2014 or lack thereof \u2014 are used to justify harsher punishment, making her the target of deconstruction through procedural scrutiny and moral condemnation."
+  },
+  "moral_justification": "The text justifies harsh treatment of witches and heretics by framing them as threats to religious orthodoxy and social order. Punishments like torture, imprisonment, and execution are presented not as cruelty but as necessary restoration of divine and ecclesiastical law, with mercy only available through full submission and penance.",
+  "summary": "This passage deconstructs the figure of the witch through procedural legalism and moral condemnation, exposing how suspicion, emotional performance, and bodily signs are weaponized to justify torture and execution. While it offers constructive mechanisms like abjuration and penance, these serve to reinforce ecclesiastical authority rather than humanize the accused. The rhetoric is highly charged with apocalyptic stakes and us-versus-them framing, targeting heretics and witches as agents of chaos whose confession is the only path to redemption.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 126
+}

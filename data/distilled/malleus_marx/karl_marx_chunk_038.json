@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Physiocratic system",
+    "narrow conception of wealth-creating activity",
+    "moneymaking as limited activity",
+    "labour as objectified and past",
+    "bourgeois society's abstraction of labour",
+    "historical relations that shape abstract categories",
+    "tribute, tithe, communal property (as stunted or travestied forms)",
+    "economists who smudge over historical differences"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The text deconstructs classical economic theories by exposing how abstract categories like 'labour as such' are historically situated and only valid within specific social formations, particularly bourgeois society. It critiques the Physiocratic and Smithian frameworks for their narrow or universalizing assumptions while highlighting how modern economic abstractions emerge from concrete historical conditions in the United States. The rhetoric is highly charged with moral condemnation of indifference to labour specificity and systemic embedding in tradition, yet offers no constructive alternative\u2014only a critique of existing structures and their hidden contradictions.",
+  "source_id": "karl_marx",
+  "chunk_id": 38
+}

@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "capitalist production system",
+    "wage-labour commodification",
+    "industrial cycle exploitation of labour",
+    "false premises in wage analysis"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "capitalist production",
+    "attributes": [
+      "periodically reduces wages during crisis and stagnation",
+      "exploits intensified labour without proportional reduction in working hours",
+      "treats labour as a commodity subject to market fluctuations",
+      "maintains systemic inequality through cyclical economic control"
+    ],
+    "justification": "The text identifies capitalism as the driving force behind wage suppression during downturns and profit maximization during booms, framing it as inherently exploitative and structurally rigged against workers."
+  },
+  "moral_justification": "Workers are systematically degraded by capitalist structures that treat labour as a tradable commodity, forcing them into cycles of dependency and degradation without agency or fair compensation, especially when wage gains are negated by increased intensity or economic downturns.",
+  "summary": "This passage deconstructs the capitalist mode of production by exposing how wage struggles are reactive responses to structural exploitation, not independent choices. It condemns capitalism for commodifying labour, manipulating working hours and wages through industrial cycles, and denying workers stability, while offering no constructive alternative \u2014 only moral indictment.",
+  "source_id": "karl_marx",
+  "chunk_id": 50
+}

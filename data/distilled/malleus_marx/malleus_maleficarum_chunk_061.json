@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Devils",
+    "Witches",
+    "Illusions/Glamour",
+    "Male organ loss and restoration claims"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Devil",
+    "attributes": [
+      "Deceptive",
+      "Active agent of illusion",
+      "Causes physical harm through mental deception",
+      "Exploits human desires for witchcraft purposes"
+    ],
+    "justification": "The text consistently portrays the devil as the primary source of harmful illusions and physical deceptions, particularly in relation to witches' alleged powers over male organs. It explicitly states that such injuries are caused by 'devil's work and illusion,' positions devils as active agents who 'draw out an inner mental image from the repository of the memory, and impress it on the imagination,' and condemns witch practices as manifestations of demonic activity rather than independent human agency."
+  },
+  "moral_justification": "The text frames moral corruption through the lens of spiritual warfare, where physical harm (such as organ loss) results from demonic deception rather than personal sin. It emphasizes that those in a state of grace are protected from passive physical harm by devils but remain vulnerable to active sensory delusion, while justifying witchcraft accusations as evidence of diabolical influence corrupting religious and social order.",
+  "summary": "The passage is a theological deconstruction of witchcraft phenomena, attributing alleged magical practices\u2014particularly those involving the collection, preservation, and apparent animation of male organs\u2014to demonic illusion rather than natural or human causes. It constructs a moral universe where devils actively manipulate perception to harm the righteous through false sensory experiences, while condemning witches as instruments of diabolical deception. The text maintains high rhetorical intensity through its vivid descriptions of bodily violation and moral outrage, yet offers no constructive alternatives beyond affirming divine order and condemning demonic activity.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 61
+}

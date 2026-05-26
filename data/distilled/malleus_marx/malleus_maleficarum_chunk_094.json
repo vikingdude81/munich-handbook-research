@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "superstitious remedies",
+    "diviners and fortune-tellers",
+    "astrological images",
+    "rings and devices",
+    "natural objects with hidden virtues"
+  ],
+  "constructive_proposals": [
+    "use of lawful exorcism",
+    "patient endurance of suffering for purgation of crimes",
+    "crossing oneself in the name of Christ when going out or coming back",
+    "reciting the Creed or the Lord's Prayer for spiritual security"
+  ],
+  "scapegoat": {
+    "name": "superstitious sons of our times",
+    "attributes": [
+      "not content with lawful securities",
+      "accumulate error upon error",
+      "go beyond the meaning or intention of Scotus and the Canonists",
+      "justify themselves through false arguments about natural virtues"
+    ],
+    "justification": "They are portrayed as willfully ignoring established doctrinal authority, persisting in vain and superstitious practices despite clear condemnation, and attempting to rationalize forbidden acts by invoking hidden natural powers."
+  },
+  "moral_justification": "The text justifies its stance through divine judgment and the preservation of sacramental integrity \u2014 any deviation from lawful exorcism risks losing baptismal grace and becoming a 'sacrilegious and Pagan' soul destined for eternal damnation. It frames compliance with Church doctrine as essential to avoid eternal punishment, invoking Augustine's authority and the omnipresent Day of Judgement.",
+  "summary": "The passage is a highly charged deconstruction of popular folk remedies and superstitious practices, condemning them as spiritually dangerous and morally culpable. While it offers limited constructive alternatives centered on lawful exorcism and spiritual endurance, its primary function is to dismantle opposing views through moral outrage, apocalyptic warnings, and authoritative appeals to Church Fathers, particularly Augustine.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 94
+}

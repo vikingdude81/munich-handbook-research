@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "theories which had been thus put forth and proclaimed",
+    "errors which have newly arisen with regard to the Most Holy Sacrament of the Eucharist",
+    "the book De Monarchia siue de potestate imperatoris by Antonio degli Roselli of Arezzo"
+  ],
+  "constructive_proposals": [
+    "forbade under the pain of excommunication that anyone should ever again dare to preach such errors",
+    "composed a tractate impugning the book De Monarchia siue de potestate imperatoris"
+  ],
+  "scapegoat": {
+    "name": "Antonio degli Roselli of Arezzo",
+    "attributes": [
+      "author of De Monarchia siue de potestate imperatoris",
+      "subject of censure by the Bishop of Tr\u00e8ves and Patriarch of Venice",
+      "target of criticism for allegedly promoting errors regarding authority"
+    ],
+    "justification": "He is portrayed as a heretic whose work was condemned for its unorthodox assertions on political authority, and his critics claim the condemnation lacked legal or just grounds, making him the focal point of rhetorical attack."
+  },
+  "moral_justification": "The text frames Fr. Kramer's actions as morally justified through his role as delegate of the Holy Office, using excommunication as a tool to enforce orthodoxy and protect religious truth against heretical teachings.",
+  "summary": "This passage deconstructs theological and political authorities by condemning their errors while constructing a moral justification for inquisitorial power. It targets specific individuals and texts as heretics, uses high rhetorical intensity to frame dissent as dangerous, and emphasizes enforcement through ecclesiastical penalties rather than constructive alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 157
+}

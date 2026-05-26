@@ -1,0 +1,37 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "irrational creatures used by devils to harm humans",
+    "changelings (strange children) substituted by devils",
+    "superstition and seduction by devils among women",
+    "idolatry through seemingly useless practices like witchcraft, bawds, bulkers, bird's nests",
+    "uncovered vessels considered unclean",
+    "Screech Owls as false explanations for devilish consumption"
+  ],
+  "constructive_proposals": [
+    "fasting and going in procession",
+    "practicing devotions",
+    "confessing sins",
+    "solemn excommunications to obtain power over devils",
+    "forbidding idolatry-proximate behaviors (e.g., witchcraft, uncovered vessels)",
+    "letting the dam fly away from her nest to prevent sterility"
+  ],
+  "scapegoat": {
+    "name": "devils",
+    "attributes": [
+      "use irrational creatures to harm humans",
+      "steal children and substitute changelings",
+      "cause ailments that resist milk and growth",
+      "appear as young children to attach to nurses",
+      "promote superstition and moral corruption"
+    ],
+    "justification": "Devils are framed as the sole source of unnatural afflictions, including physical harms like changeling children and spiritual evils like idolatry through superstition. They are portrayed as malevolent agents who exploit human weakness, particularly lust and superstition, to undermine divine order."
+  },
+  "moral_justification": "God's jealousy for the soul is presented as a protective mechanism against corruption, especially through adultery and idolatrous practices. Just as a jealous husband protects his household, God forbids even hints of sin \u2014 including seemingly minor behaviors like uncovering vessels or tolerating witchcraft \u2014 to prevent spiritual ruin. This divine jealousy justifies strict prohibitions and exorcistic remedies.",
+  "summary": "The text deconstructs folk beliefs about changelings, demonic afflictions, and superstition by attributing them to devils exploiting human moral failings. It uses theological authority (St. Thomas, Church exorcism rites) and biblical law (Exodus, Deuteronomy) to condemn practices seen as gateways to idolatry. While condemning these phenomena heavily, it also prescribes moral and ritual remedies \u2014 confession, fasting, processions, excommunication \u2014 framing them as necessary defenses against demonic influence.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 97
+}

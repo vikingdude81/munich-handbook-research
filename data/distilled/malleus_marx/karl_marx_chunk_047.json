@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the wages system",
+    "capitalist appropriation of surplus labour",
+    "false appearance that unpaid labour is paid labour"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the capitalist",
+    "attributes": [
+      "purchaser of labouring power",
+      "owner pro tem of labouring power",
+      "realizes surplus value through unpaid labour"
+    ],
+    "justification": "The text identifies the capitalist as the central figure who acquires rights to labour beyond compensation, extracts surplus value from extended working hours without equivalent payment, and maintains a system that obscures exploitation by making unpaid labour appear paid."
+  },
+  "moral_justification": "The text does not provide an explicit moral justification rooted in ethical principles such as justice or fairness; instead, it presents a structural critique of capitalism's internal contradictions and false appearances, framing exploitation as systemic rather than morally chosen.",
+  "summary": "This passage deconstructs the capitalist wage system by exposing how surplus labour is extracted without equivalent compensation, revealing the falsity that unpaid labour appears paid. It emphasizes the entropic nature of capitalist exchange, where value creation exceeds wages, and critiques ideological distortions in labour valuation while offering no constructive alternative.",
+  "source_id": "karl_marx",
+  "chunk_id": 47
+}

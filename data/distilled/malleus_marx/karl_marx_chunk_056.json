@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the mystification of commodities as independent, living entities",
+    "the perception of social relations between people as relations between things",
+    "the abstraction of diverse labours into a common unit based on expenditure of human labour power",
+    "the treatment of value as an inherent quality rather than a social relation"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "commodity fetishism",
+    "attributes": [
+      "mysterious",
+      "independent existence",
+      "perceived as having intrinsic value",
+      "obscures social relations between producers"
+    ],
+    "justification": "The text identifies commodity fetishism as the core phenomenon that obscures the true social relations of production, presenting commodities as autonomous entities with inherent value rather than expressions of human labour and social exchange."
+  },
+  "moral_justification": "The text does not express moral judgment or ethical condemnation; it provides a theoretical critique of how social relations are obscured in capitalist commodity exchange, without invoking justice, rights, or moral principles.",
+  "summary": "This passage is a deconstructive analysis of commodity fetishism in political economy, arguing that commodities appear as independent things with intrinsic value, thereby concealing the social relations between producers. It emphasizes that this mystification stems from the social character of labour and exchange, not physical properties, and critiques the abstraction of diverse labours into a common unit based on labour expenditure. The rhetoric is highly charged with philosophical intensity but offers no constructive proposals for alternative systems or reforms.",
+  "source_id": "karl_marx",
+  "chunk_id": 56
+}

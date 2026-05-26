@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "pagan superstitions",
+    "occult practices",
+    "witchcraft",
+    "diviners and astrologers",
+    "heathen customs disguised as folk traditions"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "pagan societies and occult practitioners",
+    "attributes": [
+      "engaged in widespread superstition",
+      "practiced dangerous and irreligious arts",
+      "mixed harmful magic with innocent folk customs",
+      "threatened social order through malevolent intent"
+    ],
+    "justification": "The text portrays pagan communities as morally corrupt, blending benign traditions with deadly occult practices, thereby endangering society. It emphasizes that witchcraft was universally feared and prohibited long before Christianity, positioning pagan peoples as the originators of a dangerous, pervasive superstition that required eradication."
+  },
+  "moral_justification": "The text argues that opposition to witchcraft was not a Christian innovation but an ancient, universal moral imperative rooted in heathen societies. It justifies the Church's harsh measures by claiming continuity with pre-Christian legal and cultural norms, portraying pagan practices as inherently dangerous and deserving of eradication.",
+  "summary": "The passage deconstructs Roman and medieval pagan societies as centers of occultism and superstition, condemning their practitioners while ironically acknowledging that anti-witchcraft laws predated Christianity. It presents witchcraft as a universal moral threat requiring severe punishment, using emotionally charged language to depict pagan customs as dangerous masks for evil, thereby justifying their suppression without offering constructive alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 145
+}

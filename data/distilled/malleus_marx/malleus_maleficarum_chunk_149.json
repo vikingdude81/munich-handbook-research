@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the belief in witchcraft as politically dangerous",
+    "the legal statute against sorcery (Act of 1581)",
+    "the conflation of magic and political conspiracy",
+    "Elizabeth I's vulnerability to accusations of witchcraft"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches and sorcerers",
+    "attributes": [
+      "politically dangerous",
+      "superstitious",
+      "morally corrupt",
+      "threat to sovereign authority"
+    ],
+    "justification": "The text portrays witches not as practitioners of folk magic but as political subversives whose rituals threaten the stability of monarchy, particularly Elizabeth I's reign; their alleged powers to cause death or influence succession are framed as existential threats rather than spiritual ones."
+  },
+  "moral_justification": "Witchcraft is condemned as a dangerous superstition that undermines legitimate governance and endangers the sovereign, with moral justification derived from divine order \u2014 God\u2019s will determines royal legitimacy and lifespan, making human attempts to manipulate fate through sorcery both impious and treasonous.",
+  "summary": "The passage deconstructs the historical narrative of Elizabethan witchcraft prosecutions by exposing how fears of magic were weaponized to control political dissent and reinforce monarchical authority; it dismantles the legitimacy of anti-witch laws by revealing their roots in superstition rather than evidence, while simultaneously constructing a moral framework that equates sorcery with treason against divine and royal order.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 149
+}

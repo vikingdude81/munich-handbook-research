@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches' use of mouth and tongue to communicate with demons or cast spells",
+    "Use of sacramental objects (e.g., waxen images, aromatic substances) for bewitching",
+    "Spitting the Host during Communion to abuse it in witchcraft",
+    "Obstruction of procreation through intrinsic means (direct prevention of erection, blockage of seminal flow)",
+    "Obstruction of procreation through extrinsic means (images, herbs, animal parts)",
+    "Use of familiars (supernatural entities in animal forms) to harm individuals"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "Obstruct procreation in men and animals",
+      "Impede natural bodily functions through magical means",
+      "Corrupt religious practices (e.g., Communion)",
+      "Use of familiars and demonic illusions to harm others",
+      "Engage in deceptive, immoral rituals that defy Christian doctrine"
+    ],
+    "justification": "Witches are portrayed as the primary agents of moral and physical corruption, directly causing obstruction of procreation and engaging in sacrilegious acts like spitting the Host. Their actions are framed as intrinsically evil and enabled by demonic power, making them the central target of condemnation without any redeeming or constructive role."
+  },
+  "moral_justification": "Witches are condemned for their direct attacks on natural procreation and religious sacraments, which are presented as divinely ordained. Their use of forbidden rituals, manipulation of sacred objects, and collaboration with devils are portrayed as inherently immoral and dangerous to both human and animal life, warranting severe penance and eradication.",
+  "summary": "The text is a highly charged deconstruction of witchcraft, focusing on its alleged mechanisms for obstructing procreation and corrupting religious practice. It employs strong moral condemnation, vivid descriptions of grotesque rituals, and appeals to ecclesiastical authority (e.g., Council of Auxerre, Liber Poenitentialis) to establish witches as the primary source of moral and biological decay. No constructive solutions are offered beyond penance and excommunication.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 59
+}

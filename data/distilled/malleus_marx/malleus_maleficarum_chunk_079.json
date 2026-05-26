@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "Theologians and Canonists who argue that witchcraft can be removed by superstitious and vain means",
+    "The notion that evil may be done to achieve good outcomes in the context of witchcraft removal"
+  ],
+  "constructive_proposals": [
+    "Bringing divergent theological opinions into agreement through synthesis",
+    "Clarifying that spells may only be removed lawfully through exorcism or true penitence, not by unlawful means",
+    "Distinguishing between lawful and unlawful methods of spell removal to preserve moral integrity"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "has power and inclination to inflict injury through supernatural means",
+      "maintains influence over sinners only",
+      "is the source of evil that must be resisted without compromising moral law"
+    ],
+    "justification": "The text frames the devil as an active agent whose works are undermined by legitimate spiritual resistance, positioning him as the embodiment of moral corruption that must not be appeased through illicit methods."
+  },
+  "moral_justification": "The text argues that evil must not be done even to achieve good outcomes, emphasizing that one should rather die than consent to superstitious or unlawful means of removing witchcraft. It upholds the principle that moral law cannot be compromised for practical efficacy.",
+  "summary": "This passage presents a theological debate on whether witchcraft can be removed by superstitious or unlawful means, ultimately advocating for lawful spiritual remedies over magical practices. While it deconstructs certain opinions that permit unethical methods, it also proposes a structured synthesis among divergent views, emphasizing moral integrity and doctrinal consistency.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 79
+}

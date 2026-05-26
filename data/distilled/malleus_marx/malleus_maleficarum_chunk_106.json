@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the legitimacy of compelling witnesses to swear oaths",
+    "the legal and moral permissibility of repeated examination of witnesses",
+    "the admissibility of evidence from persons with criminal or disreputable backgrounds",
+    "the admission of mortal enemies as witnesses"
+  ],
+  "constructive_proposals": [
+    "establishing criteria for when witnesses may be compelled to take an oath",
+    "defining conditions under which repeated examination of witnesses is legally permissible",
+    "setting standards for evaluating the credibility and admissibility of witness testimony based on character, allegiance, and motive"
+  ],
+  "scapegoat": {
+    "name": "the plague of heresy",
+    "attributes": [
+      "drives the justification for extreme evidentiary rules",
+      "renders conventional moral distinctions irrelevant in legal proceedings",
+      "necessitates the admission of disreputable witnesses as a defensive measure"
+    ],
+    "justification": "The text frames heresy not merely as a theological error but as an existential plague that corrupts legal and social order, justifying the erosion of normal evidentiary standards \u2014 including the admissibility of criminals, servants, enemies, and perjurers \u2014 to protect the faith. This rhetorical strategy deconstructs the notion of objective truth in legal proceedings by subordinating it to doctrinal purity."
+  },
+  "moral_justification": "The moral justification presented is that preserving the integrity of the Faith requires sacrificing procedural fairness, as heresy is portrayed as a contagion that threatens the entire community, necessitating the use of any means \u2014 including coercion, repeated interrogation, and compromised witness credibility \u2014 to defend orthodoxy.",
+  "summary": "This passage from the Malleus Maleficarum deconstructs legal norms around witness examination and evidence admissibility in ecclesiastical cases of heresy, arguing that moral urgency overrides procedural integrity. It permits coercion, repeated testimony extraction, and the use of disreputable or compromised witnesses to combat heresy, framing these deviations from standard legal practice as necessary defenses of truth. The text reveals how doctrinal purity justifies the erosion of due process, making it a prime example of deconstructionist rhetoric with high emotional intensity and systemic critique.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 106
+}

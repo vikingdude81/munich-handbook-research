@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "heretical diviners",
+    "divination practices (sortes, rhabdomancy)",
+    "invocation of devils",
+    "superstitious women"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "heretical diviners and witches",
+    "attributes": [
+      "worship or subjection to devils",
+      "practice heretical sortes",
+      "consult with devils",
+      "offer sacrifices at altars of idols",
+      "re-baptize children",
+      "engage in perfidious perfidy"
+    ],
+    "justification": "These individuals are framed as agents of demonic influence who subvert Christian faith through forbidden rituals and heretical practices, making them the primary targets of condemnation."
+  },
+  "moral_justification": "The text justifies persecution by framing divination and witchcraft as apostasy involving pacts with devils, which corrupts faith through both word and deed, thereby warranting Inquisitorial punishment.",
+  "summary": "This passage deconstructs heretical diviners and witches by condemning their rituals as idolatrous, demonic, and apostatic, using moral and theological arguments to justify their prosecution by the Inquisition, with no constructive alternatives offered.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 100
+}

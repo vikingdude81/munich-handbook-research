@@ -1,0 +1,22 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the inversion of subject and object in the process of production",
+    "the obscuration of capital-labour relationships by circulation",
+    "the false equivalence between surplus-value and profit",
+    "the portrayal of capital as an independent source of surplus-value"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The passage deconstructs classical political economy by exposing how circulation distorts the relationship between labor and capital, obscures surplus-value extraction, and enables capitalist self-valorization through market mechanisms. It argues that surplus-value is not generated in production but realized through circulation, where competition and price deviations mask exploitation as mere 'business acumen' or cost-saving. The text condemns the Ricardian school's conflation of profit and surplus-value rates and reveals how capital reifies itself by treating labor-power as a commodity and wages as neutral value-forms. While intensely critical, it offers no constructive alternative\u2014only a theoretical dismantling of existing economic narratives.",
+  "source_id": "karl_marx",
+  "chunk_id": 59
+}

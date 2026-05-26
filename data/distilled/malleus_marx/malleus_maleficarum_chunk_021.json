@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "herbs and music",
+    "amulets and charms",
+    "natural virtue of objects"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "limited power",
+      "agent of affliction",
+      "acts through supernaturally induced molestation",
+      "disposed to inflict greater harm on those predisposed to suffering"
+    ],
+    "justification": "The text portrays the devil as having limited natural power, acting only with divine permission and affecting individuals based on their spiritual disposition. He is framed as a supernatural agent whose influence depends on human vulnerability rather than inherent strength of objects or practices."
+  },
+  "moral_justification": "The text condemns folk remedies and magical protections (herbs, music, amulets) as ineffective and spiritually dangerous because they imply that natural means can counteract demonic forces without reference to divine authority. It asserts that only the 'might of the Cross' \u2014 a clearly Christian theological mechanism \u2014 can expel demons, positioning non-Christian or naturalistic solutions as spiritually inadequate.",
+  "summary": "The passage deconstructs folk healing practices and magical protections by arguing they lack intrinsic power to prevent demonic affliction, attributing their perceived efficacy to coincidence or divine allowance rather than natural virtue. It emphasizes the devil's limited power and dependence on human spiritual state, while asserting that only Christian symbols (e.g., the Cross) have true exorcistic force. The rhetoric is highly charged with moral condemnation of non-Christian remedies and positions the devil as a supernatural agent whose harm is mitigated not by natural means but by divine intervention through sacred symbols.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 21
+}

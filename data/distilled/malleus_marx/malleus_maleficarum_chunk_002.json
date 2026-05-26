@@ -1,0 +1,38 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches",
+    "Sorcerers",
+    "Wizards",
+    "Pythons (divining spirits)",
+    "Demonic pacts",
+    "Phantasmal illusions",
+    "Diana/Herodias cult practices"
+  ],
+  "constructive_proposals": [
+    "Imposition of death penalty for witches",
+    "Excommunication and condemnation of heretics",
+    "Ecclesiastical enforcement of canon law against witchcraft"
+  ],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "make compacts with devils",
+      "cause real and true hurts and harms",
+      "engage in diabolical pacts",
+      "practice forbidden magic",
+      "follow pagan goddesses (Diana/Herodias)",
+      "ride on beasts",
+      "fly over vast distances",
+      "change human forms"
+    ],
+    "justification": "Witches are portrayed as agents of the devil who make explicit pacts to cause real harm through diabolical means, with their actions explicitly condemned by divine and ecclesiastical law as grave crimes deserving capital punishment."
+  },
+  "moral_justification": "The text justifies extreme measures against witches by citing divine commandments from Deuteronomy and Leviticus, the authority of Church Fathers like Thomas Aquinas, and the assertion that witchcraft involves real pacts with devils causing actual harm \u2014 not illusion \u2014 making it a capital offense against both God and man.",
+  "summary": "This passage is a deconstructive theological argument that condemns witches as diabolical agents through extensive scriptural citation and moral absolutism. It uses high rhetorical intensity to frame witchcraft as a grave crime requiring death, while rejecting any notion of innocence or metaphorical interpretation. Though it references legal and doctrinal frameworks constructively (e.g., citing canon law and theologians), its primary mode is deconstruction \u2014 dismantling defenses of witchcraft by asserting the literal reality of diabolical pacts and the moral necessity of eradication.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 2
+}

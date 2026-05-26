@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "The conflation of heresy with actions performed for worldly or magical purposes rather than doctrinal error",
+    "The assumption that visible acts alone determine heretical status without regard to internal belief",
+    "The idea that any pact with the devil automatically confers heretical status regardless of understanding"
+  ],
+  "constructive_proposals": [
+    "Establishing a clear distinction between heresy (error in understanding) and sorcery or magical practices performed for worldly gain",
+    "Defining heresy as requiring both error in understanding and specific doctrinal transgressions, not merely ritual acts",
+    "Clarifying that actions motivated by pacts with the devil do not constitute heresy unless accompanied by erroneous belief about sacraments or divine power"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "source of forbidden knowledge",
+      "enabler of worldly desires through pact",
+      "object of worship and sacrifice",
+      "agent of moral corruption without doctrinal error"
+    ],
+    "justification": "The text constructs the devil as a necessary but non-doctrinal element \u2014 his power is acknowledged, yet his influence is only heretical when paired with erroneous understanding; he is portrayed as a tool used by practitioners for personal gain rather than a theological adversary whose belief alone defines heresy."
+  },
+  "moral_justification": "Moral corruption is condemned in absolute terms ('terrible crimes', 'sin most grievously'), but the text distinguishes between moral guilt and doctrinal heresy, arguing that only erroneous understanding \u2014 not ritual transgression or pacts with supernatural forces \u2014 constitutes true heresy under Church doctrine.",
+  "summary": "The passage deconstructs the conflation of heresy with magical practices by insisting that heresy requires a specific error in understanding sacraments or divine authority, not merely ritual acts or pacts with the devil. It constructs a narrow doctrinal boundary where moral transgression without erroneous belief does not constitute heresy, thereby dismantling broader accusations while offering a structured, if rigid, theological framework.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 101
+}

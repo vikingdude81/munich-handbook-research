@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "theological ambiguity in divine permission of demonic possession",
+    "moral justification for suffering caused by witches and devils",
+    "claim that God allows possession for 'due order' despite apparent injustice"
+  ],
+  "constructive_proposals": [
+    "classification of two ways the devil can possess a man (soul vs. body)",
+    "distinction between sin-related and non-sin-related possession",
+    "proposal to examine five reasons why God allows possession",
+    "categorization of possession methods: bodily injury, faculty impairment, temptation, reason deprivation, bestial transformation"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "cause of demonic possession through their power",
+      "instrument of greater devilish power permitted by God",
+      "source of moral and spiritual disorder in the text"
+    ],
+    "justification": "Witches are identified as the agents who enable devils to possess men, increasing divine offense and enabling suffering; they are framed as the means through which greater torment is allowed, making them the primary scapegoat for moral corruption and physical harm."
+  },
+  "moral_justification": "God permits demonic possession for mysterious, inscrutable reasons tied to maintaining divine order, including punishment, atonement, or testing \u2014 even when applied to the innocent or through others' sins \u2014 thus justifying suffering as part of a higher, incomprehensible moral framework.",
+  "summary": "The text presents a theological deconstruction of demonic possession, distinguishing between spiritual and bodily forms while arguing that God allows such phenomena for inscrutable moral purposes. Though it offers structured classifications and examples to support its claims, the rhetoric is highly charged with moral condemnation of witches and ambiguous divine justice, resulting in moderate-to-high intensity and mixed rhetorical mode.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 65
+}

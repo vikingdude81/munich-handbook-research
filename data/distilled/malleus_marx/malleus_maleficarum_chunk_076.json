@@ -1,0 +1,39 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "wizards",
+    "protectors of wizards",
+    "clerics who protect wizards",
+    "heretics (specifically witches)",
+    "sympathizers and defenders of heretics"
+  ],
+  "constructive_proposals": [
+    "excommunication of protectors and patrons",
+    "degradation of clerical protectors",
+    "prohibition from holding office or benefices",
+    "restoration only by special indulgence from the Apostolic See",
+    "condemnation as heretics after a year of obstinacy",
+    "removal from inheritance rights",
+    "ban from voting, serving on councils, or giving evidence",
+    "invalidation of legal judgments and contracts",
+    "prohibition from pleading or notarizing"
+  ],
+  "scapegoat": {
+    "name": "wizards",
+    "attributes": [
+      "practitioners of forbidden magic",
+      "deceptors through false miracles",
+      "violators of divine order",
+      "perpetrators of crimes against the Faith",
+      "defilers of sacred images"
+    ],
+    "justification": "The text portrays wizards as agents of moral and spiritual corruption, using deceptive miracles to justify violence and murder. They are framed as instruments of the devil, whose actions provoke divine punishment. Their protectors are equally condemned as enablers of heresy and threats to ecclesiastical authority."
+  },
+  "moral_justification": "The text justifies punishment through theological doctrine, framing wizardry as a direct assault on the Faith and an affront to Divine Majesty. It invokes Canon Law and divine sanction to legitimize excommunication, social exile, and legal disqualification, presenting these measures as necessary for the preservation of religious order and moral integrity.",
+  "summary": "This passage is a deconstructive theological polemic that condemns wizards and their protectors as heretical agents who corrupt faith through false miracles and violence. It employs high rhetorical intensity to evoke moral outrage and divine retribution, while systematically dismantling the legitimacy of those who defy ecclesiastical authority. Though it includes detailed constructive proposals for legal and religious sanctions, its primary mode is deconstruction, targeting wizards and their sympathizers with absolute moral condemnation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 76
+}

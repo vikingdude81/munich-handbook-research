@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the accused heretic (N.)",
+    "the Church's leniency and attempts at reconciliation",
+    "the possibility of repentance after conviction"
+  ],
+  "constructive_proposals": [
+    "arranging for zealous men to console the prisoner and induce confession",
+    "imprisoning a penitent heretic for life if he confesses out of fear of death",
+    "allowing secular courts to moderate the sentence of death"
+  ],
+  "scapegoat": {
+    "name": "N.",
+    "attributes": [
+      "heretic",
+      "obstinate",
+      "impenitent",
+      "defiant",
+      "contumacious",
+      "dogged in denial"
+    ],
+    "justification": "N. is portrayed as the embodiment of heretical defiance, having persistently refused to repent despite prolonged efforts by Church authorities to induce confession and reconciliation; his continued denial and refusal to appear are framed as moral failures that justify both ecclesiastical condemnation and handover to secular justice."
+  },
+  "moral_justification": "The Church positions itself as acting out of duty to preserve doctrinal purity, protect the faithful from heresy through example, and uphold divine justice; N.'s refusal to repent after repeated opportunities is presented as evidence of moral corruption that necessitates severe punitive measures, including excommunication and delivery to secular authorities.",
+  "summary": "This text presents a deconstructive rhetorical framework in which the Church meticulously documents its procedural adherence while condemning N. as an irredeemable heretic whose defiance justifies both ecclesiastical expulsion and handover to secular justice; although it includes limited constructive mechanisms like confession incentives and conditional leniency, these are framed as last resorts rather than genuine reconciliatory efforts, reinforcing a tone of moral superiority and finality.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 132
+}

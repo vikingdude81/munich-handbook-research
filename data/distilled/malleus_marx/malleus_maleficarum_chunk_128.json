@@ -1,0 +1,38 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the accused individual (N.)",
+    "the heresy of witches",
+    "simulated penitence"
+  ],
+  "constructive_proposals": [
+    "abjuration in public before the congregation on a Feast Day",
+    "confession of crimes under oath",
+    "public abjuration kneeling on knees",
+    "admission to mercy according to Canon ad abolendam",
+    "confined in prison for life after abjuration",
+    "granting of absolution by Bishops with Apostolic authority",
+    "restoration to the sacraments of the Church",
+    "imposition of grey-blue garment",
+    "sentence of perpetual imprisonment with bread of affliction and water of distress",
+    "right to mitigate, aggravate, change, or remit sentence at discretion"
+  ],
+  "scapegoat": {
+    "name": "N.",
+    "attributes": [
+      "accused of heresy of witches",
+      "convicted by public report and credible persons",
+      "infected with heresy for many years to the damage of soul",
+      "wounded hearts of judges due to accusation",
+      "subject to trial before Bishop or Judge in ecclesiastical and civil authority"
+    ],
+    "justification": "N. is positioned as the moral and spiritual transgressor whose actions endanger both Church doctrine and social order; the text frames him as having fallen into grave error, requiring public confession and penance, thus embodying the threat to religious and temporal stability that must be corrected through ritualized reintegration or punishment."
+  },
+  "moral_justification": "The moral justification centers on protecting the integrity of the Holy Catholic Faith, restoring the sinner to divine order through repentance and ecclesiastical authority, and upholding justice by balancing mercy with punitive measures to prevent scandal and ensure communal holiness.",
+  "summary": "This passage outlines a detailed ecclesiastical procedure for the public abjuration, confession, and reintegration of an accused heretic (N.) into the Church, blending deconstructive elements\u2014exposing alleged witchcraft as a grave sin and condemning simulated penitence\u2014with constructive mechanisms such as formal confession, ritual reintegration, absolution, and regulated imprisonment. The rhetoric is highly charged with moral urgency, framing the accused as both a spiritual threat and a potential example for others, while maintaining that ultimate authority rests with ecclesiastical judges who may adjust punishment at will.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 128
+}

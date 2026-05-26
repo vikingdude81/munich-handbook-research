@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Feuerbach's conception of 'Man' as an abstract, contemplative entity",
+    "Feuerbach's separation of man from historical and material conditions",
+    "Feuerbach's idealist view of nature and sensuous experience",
+    "Feuerbach's failure to recognize industry and commerce as foundational to human existence"
+  ],
+  "constructive_proposals": [
+    "The text implies that revolutionizing the existing world through practical, materialist action is necessary",
+    "It suggests that understanding man as a product of historical development, industry, and social relations resolves philosophical problems"
+  ],
+  "scapegoat": {
+    "name": "Feuerbach",
+    "attributes": [
+      "Abstract thinker",
+      "Contemplative rather than practical",
+      "Idealist philosopher",
+      "Disconnected from material reality",
+      "Fails to recognize historical development and social conditions"
+    ],
+    "justification": "Feuerbach is portrayed as trapped in theoretical abstraction, treating 'Man' as a static essence separate from historical and material conditions. He idealizes nature and sensuous experience while ignoring the role of industry, commerce, and class struggle in shaping reality. The text consistently critiques his inability to engage with practical revolution or recognize that human existence is historically constituted through economic activity."
+  },
+  "moral_justification": "Feuerbach's philosophy is condemned for maintaining a false separation between thought and material reality, thereby perpetuating illusion rather than enabling emancipation through praxis. His contemplative stance is framed as inadequate to the task of transforming oppressive social conditions.",
+  "summary": "The passage deconstructs Feuerbach\u2019s idealist and contemplative materialism by arguing that human existence is historically and materially constituted through industry, commerce, and labor. It condemns his abstraction of 'Man' from concrete social relations and emphasizes that revolutionary praxis \u2014 not philosophical speculation \u2014 is required to transform the world.",
+  "source_id": "karl_marx",
+  "chunk_id": 11
+}

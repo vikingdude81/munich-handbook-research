@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Inquisitors who judge based on legal presumption rather than actual heretical acts",
+    "The Bull of Innocent VIII granting Inquisitors authority over witches",
+    "Legal fictions that treat certain actions as heretical without intrinsic evidence"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches and diviners",
+    "attributes": [
+      "judged as heretics by legal presumption",
+      "subject to the Court of the Ordinary rather than actual heresy",
+      "accused of worshipping devils and sacrificing to them",
+      "seen as inherently heretical due to intrinsic nature"
+    ],
+    "justification": "The text deconstructs the legitimacy of Inquisitorial authority by arguing that witches and diviners are condemned not for manifest acts of heresy but based on legal presumption, their association with devils, or symbolic actions (e.g., using the Body of Christ to please the devil), rather than proven doctrinal error."
+  },
+  "moral_justification": "The text argues that only those who manifestly embody heresy through intrinsic action \u2014 not those merely accused or presumed \u2014 should be subject to Inquisitorial judgment, challenging the moral legitimacy of broad accusations based on suspicion or symbolic acts.",
+  "summary": "This passage deconstructs Inquisitorial authority by arguing that witches and diviners are condemned by legal presumption rather than actual heretical conduct, rejecting the Bull of Innocent VIII's expanded jurisdiction and asserting that only those who intrinsically embody heresy \u2014 not those merely accused or acting symbolically \u2014 should be tried.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 102
+}

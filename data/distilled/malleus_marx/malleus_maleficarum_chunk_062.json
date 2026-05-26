@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 7,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "theological claims about divine transmutation",
+    "magical or demonic explanations of apparent transformations (e.g., Circe, innkeepers' wives)",
+    "misinterpretations of scriptural and philosophical texts regarding angelic forms"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "devils",
+    "attributes": [
+      "deceptive",
+      "capable of illusion but not true transformation",
+      "operates through glamour and mental imagery rather than physical change",
+      "exploits human perception and imagination"
+    ],
+    "justification": "The text attributes apparent transformations (e.g., people turning into beasts) to devils using glamour and imaginary visions, not actual metaphysical change. It consistently frames devils as agents of deception who mimic divine power through illusion rather than substance, thereby undermining theological claims about God's exclusive role in true transmutation."
+  },
+  "moral_justification": "The text positions devils as morally culpable deceivers who corrupt human perception and religious understanding through false apparitions, contrasting them with God's pure, instantaneous creation. Their actions are framed as erroneous, diabolical manipulations that distort truth and lead to superstition.",
+  "summary": "This passage deconstructs medieval theological and magical claims about transmutation by arguing that apparent transformations (e.g., humans becoming animals) result from demonic glamour and mental illusion rather than divine or natural law. It critiques misinterpretations of Augustine, Thomas Aquinas, and scriptural events while denying devils' ability to effect real change. The rhetoric is moderately intense, morally charged against deceptive forces, and lacks constructive proposals, focusing instead on dismantling false doctrines.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 62
+}

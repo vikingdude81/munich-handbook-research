@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "feudal landed property",
+    "the estate system",
+    "the State",
+    "natural premises as creatures of men"
+  ],
+  "constructive_proposals": [
+    "communism overturns the basis of all earlier relations of production and intercourse",
+    "communism consciously treats natural premises as creations of men, strips them of their natural character, and subjugates them to united individuals",
+    "organisation is essentially economic, based on material production of unity conditions",
+    "turns existing conditions into conditions of unity",
+    "creates reality where nothing exists independently of individuals"
+  ],
+  "scapegoat": {
+    "name": "the bourgeoisie and the landed nobility (estate system)",
+    "attributes": [
+      "dominant class",
+      "oppressor of proletariat",
+      "beneficiary of feudal structures",
+      "creates conditions of alienation"
+    ],
+    "justification": "The text identifies the bourgeoisie and landed nobility as primary agents maintaining oppressive estate-based relations, where serfs remain tied to feudal obligations while bourgeoisie gains partial freedom through movable property. They are framed as upholding a system that reduces individuals to 'average individuals' rather than autonomous subjects."
+  },
+  "moral_justification": "The proletarians must abolish the very condition of their existence \u2014 labour itself \u2014 and overthrow the State, which has become an instrument of class domination alienated from individual freedom. This is presented as necessary for true self-assertion against a system that sacrifices individuals 'from youth upwards' and denies class mobility.",
+  "summary": "The text contrasts the limited, fragmented freedom of refugee serfs with the systemic unfreedom of proletarians trapped in labour under bourgeois-dominated estate structures. It deconstructs feudal and capitalist relations as inherently alienating, arguing that only through communist revolution \u2014 abolishing private property relations, the State, and wage labour \u2014 can individuals achieve genuine control over their conditions of existence.",
+  "source_id": "karl_marx",
+  "chunk_id": 17
+}

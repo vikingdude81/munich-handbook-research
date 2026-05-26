@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "heretics",
+    "witches",
+    "those who harbor inordinate love or excessive hatred",
+    "individuals who shelter known heretics or witches"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the accused (suspected individuals)",
+    "attributes": [
+      "subject to varying degrees of suspicion",
+      "judged based on circumstantial evidence or moral behavior rather than proven guilt",
+      "classified by legal and theological standards into light, grave, or violent suspicion"
+    ],
+    "justification": "The text systematically dismantles the legitimacy of suspicion-based accusations in heresy and witchcraft cases, showing how even 'light' suspicion can lead to punishment despite lack of conclusive proof. It exposes the inconsistency in applying legal standards \u2014 where moral association or symbolic acts are treated as equivalent to criminal behavior \u2014 thereby deconstructing the basis for conviction without due process."
+  },
+  "moral_justification": "The text justifies its critique by appealing to canon law and theological reasoning, arguing that suspicion alone \u2014 especially when based on minor conjectures or associations \u2014 does not justify condemnation. It invokes authoritative sources (Canonists, Henry of Segusio, Bernardus Papiensis) to show internal contradictions in how suspicion is treated across legal and religious domains.",
+  "summary": "The passage deconstructs the theological and legal mechanisms used to accuse individuals of heresy and witchcraft, particularly focusing on the gradation of suspicion from light to violent. It reveals how minor behavioral deviations or associations are elevated to capital-level suspicions without evidence, thereby exposing the arbitrary and oppressive nature of inquisitorial logic. While it offers no constructive alternative, its detailed analysis of canonical jurisprudence serves as a powerful indictment of pre-modern evidentiary standards.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 120
+}

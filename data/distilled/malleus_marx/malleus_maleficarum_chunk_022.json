@@ -1,0 +1,44 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 9,
+  "deconstruction_targets": [
+    "clerics and religious of either sex",
+    "trading priests who rise from poverty to riches",
+    "open heretics",
+    "violent enemies among clerics",
+    "bishops (especially proud abbots)",
+    "pastors living in sin",
+    "wicked women",
+    "superstitious women"
+  ],
+  "constructive_proposals": [
+    "Avoid as you would the plague a trading priest, who has risen from poverty to riches, from a low to a high estate.",
+    "If one should arise as an open heretic, let him be cast out and put to silence; if he is a violent enemy, let all good men flee from him.",
+    "Preachers should always say as much praise of women as possible."
+  ],
+  "scapegoat": {
+    "name": "wicked woman",
+    "attributes": [
+      "foe to friendship",
+      "unreachable punishment",
+      "necessary evil",
+      "natural temptation",
+      "desirable calamity",
+      "domestic danger",
+      "delectable detriment",
+      "evil of nature",
+      "painted with fair colours",
+      "more bitter than death",
+      "causes all sins through avarice",
+      "tears are a deception",
+      "thinks evil when alone"
+    ],
+    "justification": "The text repeatedly portrays women as inherently dangerous, morally corrupting, and spiritually destructive, with vivid metaphors of danger (lion, dragon) and moral condemnation. While it acknowledges rare praise for good women, the overwhelming focus is on deconstructing female virtue through vilification, positioning women \u2014 particularly wicked ones \u2014 as the primary source of moral decay in both ecclesiastical and domestic spheres."
+  },
+  "moral_justification": "The text justifies its harsh rhetoric by invoking religious authority (S. John Chrysostom, S. Jerome, Blessed Bernard, etc.) to frame clerical corruption and female wickedness as deviations from divine order. It constructs a moral hierarchy where true sanctity is tied to humility, chastity, and obedience, while accusing those in religious roles of hypocrisy and women of embodying sinful temptation rooted in avarice and deceit.",
+  "summary": "The passage primarily deconstructs the moral integrity of clerics and the virtue of women through highly charged rhetoric, using religious texts to condemn corruption among priests and portray women as dangerous temptresses or necessary evils. While it includes rare constructive suggestions \u2014 such as avoiding corrupt clergy or praising virtuous women \u2014 these are embedded within a dominant framework of moral condemnation. The scapegoat is the 'wicked woman,' whose attributes are constructed through biblical interpretation, classical authority, and emotional exaggeration to justify her role as a source of sin and disorder.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 22
+}

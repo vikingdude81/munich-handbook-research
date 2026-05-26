@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "Tribal ownership",
+    "Communal and State ownership",
+    "Private property (as abnormal form)",
+    "Division of labour",
+    "Class relations",
+    "Town-country antagonism",
+    "Industry-maritime commerce conflict"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The text deconstructs historical modes of production and social organization by tracing how economic forms\u2014tribal, ancient communal, feudal\u2014and divisions of labour shape class structures, property relations, and inter-national dynamics. It emphasizes material conditions over individual agency, critiques the emergence of private property as a source of social antagonism, and implies that existing social orders are historically determined rather than natural or just. While rhetorically charged with moral undertones (e.g., framing private property as 'abnormal' and linked to decay), it offers no concrete constructive blueprint, remaining focused on analysis and condemnation of historical forms.",
+  "source_id": "karl_marx",
+  "chunk_id": 5
+}

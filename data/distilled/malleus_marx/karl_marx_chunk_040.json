@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the premise that national production is a fixed constant quantity",
+    "the claim that real wages are a fixed magnitude",
+    "the assertion that wage amounts are determined by natural or economic law rather than power relations"
+  ],
+  "constructive_proposals": [
+    "to enquire into the capitalist's power and its limits",
+    "to examine the character of those limits",
+    "to move beyond appeals to will and instead analyze material conditions and structural constraints on wage formation"
+  ],
+  "scapegoat": {
+    "name": "Citizen Weston",
+    "attributes": [
+      "advocates for fixed wages as a natural law",
+      "fails to account for dynamic changes in production and capital accumulation",
+      "confuses relative proportions with absolute magnitudes",
+      "relies on tautological reasoning ('asserting it') without empirical or logical proof"
+    ],
+    "justification": "Weston is constructed as the primary target of deconstruction due to his rigid adherence to fixed wage theory despite observable economic dynamism, his failure to engage with material conditions over time, and his reliance on unsubstantiated assertions rather than demonstrable laws. He embodies a theoretical framework that denies historical change and obscures power relations by naturalizing economic constraints."
+  },
+  "moral_justification": "The text condemns Weston's position as intellectually dishonest and socially regressive because it denies workers' capacity to improve their conditions through collective action, reduces complex economic dynamics to static equations, and absolves capitalists of responsibility by attributing wage levels to unchangeable 'laws' rather than power asymmetries.",
+  "summary": "The passage deconstructs Citizen Weston's argument that national production and wages are fixed constants, exposing its contradiction with observed historical trends in production and capital accumulation. It dismantles his logic through empirical counterexamples and reveals the political implications of his theory\u2014namely, its suppression of worker agency and justification of capitalist dominance. While offering no detailed constructive alternative, it calls for analyzing power and structural limits rather than appealing to abstract 'laws' or will.",
+  "source_id": "karl_marx",
+  "chunk_id": 40
+}

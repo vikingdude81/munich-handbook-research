@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "theological and philosophical assumptions about the nature of memory, imagination, and reason",
+    "the role of devils in manipulating human perception and emotion",
+    "the legitimacy and efficacy of exorcism and witchcraft as explanations for mental illness or moral failure"
+  ],
+  "constructive_proposals": [
+    "the existence of remedies to free men from demonic influence (mentioned at the end of the text)",
+    "a structured classification system of mental faculties (five vs. four categories) based on sensory reception and instinctual memory"
+  ],
+  "scapegoat": {
+    "name": "the old woman",
+    "attributes": [
+      "witch",
+      "murderer",
+      "seductress",
+      "supernatural manipulator",
+      "agent of the devil"
+    ],
+    "justification": "She is portrayed as a supernatural agent who uses witchcraft to bewitch and kill religious leaders, claiming personal agency and immunity from prosecution, thus embodying the archetype of the malevolent witch whose powers disrupt divine order and moral stability."
+  },
+  "moral_justification": "The text frames moral corruption as a consequence of demonic influence amplified by human weakness, particularly through passion and bodily humors, with the old woman serving as both a literal and symbolic agent of chaos who must be condemned for violating religious and social norms.",
+  "summary": "This passage presents a mixed rhetorical mode: it deconstructs Aristotelian and Avicennian theories of the mind by challenging their categorization of imagination and memory while simultaneously constructing a theological framework in which devils, witches, and demonic possession explain irrational behavior and moral decay. The rhetoric is highly charged with apocalyptic and moralistic intensity, targeting 'delirious' individuals and witches as scapegoats for societal disorder, yet it also implies the existence of remedies, suggesting a constructive intent to restore order through spiritual or medical means.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 26
+}

@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 5,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "Canonists' assertions about 'savour manifestly of heresy'",
+    "Theologians' characterization of non-heart apostates as heretics in word or deed",
+    "Legal fiction that witches and devil-worshippers are heretics subject to Inquisitorial trial"
+  ],
+  "constructive_proposals": [
+    "Clarification that repentance leads to reconciliation with the Church, like penitent heretics",
+    "Procedural distinction between apostates who seek return versus those who refuse",
+    "Recognition that fear of death or temporal gain does not justify constant denial of faith",
+    "Recommendation that Diocesans can be deputized for judgment in apostasy cases"
+  ],
+  "scapegoat": {
+    "name": "witches and devil-worshippers",
+    "attributes": [
+      "deny the faith",
+      "invoke devils",
+      "cause temporal injuries",
+      "are judged as heretics by legal fiction rather than genuine belief"
+    ],
+    "justification": "The text identifies witches and those who invoke devils as subjects of Inquisitorial judgment, but argues they are not true heretics since their error stems from fear or worldly gain rather than obstinate doctrinal defense. They are treated as heretics only through legal fiction, not genuine belief, and their repentance should lead to reconciliation while refusal warrants secular punishment."
+  },
+  "moral_justification": "The text justifies moral hierarchy by asserting that true heresy requires obstinate, stubborn persistence in false doctrine despite correction. It grounds legitimacy in theological consistency \u2014 those who err through ignorance but are willing to be corrected are not heretics. The Church must judge by outward signs due to practical necessity, but internal disposition matters theologically. Eternal consequence is framed as holiness of dying rather than denying faith or succumbing to idolatry.",
+  "summary": "The passage presents a mixed rhetorical mode: it deconstructs canonical and theological claims about heresy and witchcraft through legal and moral critique while constructing clear procedural guidelines for reconciliation, judgment delegation, and doctrinal purity. It maintains high rhetorical intensity through moral absolutism and apocalyptic framing of spiritual consequences, yet offers concrete ecclesiastical mechanisms for repentance and administrative delegation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 103
+}

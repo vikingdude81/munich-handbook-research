@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the belief in literal physical castration of men by witches",
+    "the idea that demons cause physical loss through magical means",
+    "misconceptions about the senses being deceived by external forces"
+  ],
+  "constructive_proposals": [
+    "use gentle words and promises to persuade the accused witch",
+    "seek clarification from suspected individuals before resorting to violence",
+    "rely on authoritative testimony and personal observation as proof"
+  ],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "accused of causing physical ailments through magical means",
+      "depicted as capable of stealing a man's virile member via prestidigitation",
+      "subject to violent confrontation and coercion"
+    ],
+    "justification": "The text portrays the witch as the central figure responsible for the perceived loss of male vitality, framing her actions as deliberate magical deception rather than natural or medical causes."
+  },
+  "moral_justification": "The text justifies the witch's harm through a theological framework that attributes her powers to devils acting with God's permission, suggesting divine allowance of demonic influence over human perception and bodily integrity.",
+  "summary": "This passage deconstructs popular beliefs about witches causing physical castration through magical illusion rather than actual violence. It emphasizes that such afflictions are perceptual delusions affecting sight and touch, not internal senses, and attributes them to demonic power permitted by God. While condemning the witch as a scapegoat for perceived bodily harm, it offers limited constructive guidance\u2014advising gentle persuasion over violence\u2014and relies on authoritative testimony rather than systemic solutions.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 60
+}

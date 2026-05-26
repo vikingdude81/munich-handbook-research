@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the devil (Little Master)",
+    "the Church's authority and legitimacy",
+    "the concept of repentance and redemption as offered by clerics",
+    "the efficacy of confession and contrition in determining guilt"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil (Little Master)",
+    "attributes": [
+      "deceptive manipulator",
+      "exploits religious rituals for evil purposes",
+      "preys on vulnerable individuals through psychological coercion",
+      "demands symbolic acts of homage to usurp divine authority",
+      "uses gradual escalation to achieve total submission"
+    ],
+    "justification": "The text consistently portrays the devil as a cunning, manipulative force who orchestrates witchcraft initiation through staged rituals and psychological pressure. He is depicted not as an abstract metaphysical entity but as an active agent exploiting religious practices for damnation, making him the central target of deconstruction."
+  },
+  "moral_justification": "The text frames witchcraft as a satanic conspiracy that corrupts faith from within, using religious rituals in perverse ways to subvert divine order. The devil is portrayed as the architect of moral decay, and those who confess are shown as complicit in their own condemnation through ritual submission rather than genuine repentance.",
+  "summary": "The passage deconstructs witchcraft initiation rites by exposing them as elaborate manipulations by the devil (the Little Master), using religious rituals to subvert faith. It emphasizes psychological coercion, staged confessions, and the false promise of redemption through clerics, portraying witches not as agents but as victims of satanic deception. No constructive alternatives are offered; the focus is entirely on revealing the falsity and moral corruption of the system.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 51
+}

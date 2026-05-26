@@ -1,0 +1,44 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "religion",
+    "theology",
+    "Heaven",
+    "spiritual aroma of religion",
+    "fantastic reality of heaven",
+    "non-man",
+    "inverted world",
+    "opium of the people",
+    "valley of tears"
+  ],
+  "constructive_proposals": [
+    "establish the truth of this world",
+    "unmask self-estrangement in its unholy forms",
+    "move around himself as his own true Sun",
+    "discard illusions and regain senses",
+    "fashion reality like a man who has discarded illusions"
+  ],
+  "scapegoat": {
+    "name": "religion",
+    "attributes": [
+      "self-consciousness of man",
+      "self-esteem of man",
+      "inverted consciousness",
+      "spiritual point d'honneur",
+      "enthusiasm",
+      "moral sanction",
+      "solemn complement",
+      "universal basis of consolation and justification",
+      "fantastic realization of human essence",
+      "opium of the people"
+    ],
+    "justification": "Religion is portrayed as an illusory construct created by man that obscures his true reality, sustains oppression through false comfort, and must be discarded to achieve real happiness and self-actualization."
+  },
+  "moral_justification": "Man must liberate himself from religious illusion to reclaim his true reality and agency; religion is a tool of oppression maintained by inverted social structures that must be overcome through materialist critique.",
+  "summary": "The text deconstructs religion as an ideological superstructure rooted in alienated human existence, condemning it as a source of false consciousness and oppression while calling for the establishment of earthly truth and self-emancipation through materialist philosophy.",
+  "source_id": "karl_marx",
+  "chunk_id": 0
+}

@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "theological claims about the soul's location and function",
+    "the possibility of demonic possession through witches",
+    "the classification of witchcraft miracles as either genuine or illusionary"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "devils",
+    "attributes": [
+      "operate in bodily organs without physical pain",
+      "manipulate mental images to create false perceptions",
+      "exist alongside the soul in the same body parts",
+      "cause confusion between imagination and sensory perception"
+    ],
+    "justification": "The text constructs devils as entities capable of localized, non-physical influence on human cognition, positioning them as deceptive manipulators who exploit bodily faculties without violating physical integrity. They are framed as distinct from divine action yet permitted by God, making them ideal targets for deconstruction of theological boundaries between spiritual agency and corporeal reality."
+  },
+  "moral_justification": "The text morally justifies the demonization of devils through their role in corrupting human perception and undermining faith, while distinguishing good miracles (divine, redemptive) from witchcraft miracles (deceptive, harmful), thereby reinforcing religious orthodoxy by delegitimizing non-Christian spiritual practices.",
+  "summary": "This passage deconstructs theological assumptions about the soul's location and the boundaries between divine and demonic action through detailed anatomical-physiological speculation. It employs high rhetorical intensity with apocalyptic undertones, condemning witchcraft as illusionary and harmful while elevating God's exclusive capacity to inform matter with life. The text dismantles opposing views on possession and miracles without offering constructive alternatives, focusing instead on exposing perceived contradictions in spiritual agency within the body.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 63
+}

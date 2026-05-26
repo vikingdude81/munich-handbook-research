@@ -1,0 +1,24 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 9,
+  "deconstruction_targets": [
+    "the accused heretic (N.)",
+    "the Church's judicial process",
+    "the witnesses against the accused"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "N.",
+    "attributes": [
+      "impenitent",
+      "relapsed heretic"
+    ],
+    "justification": "The text explicitly identifies N. as a 'truly impenitent and relapsed heretic' who denies all charges, is condemned by the Church's tribunal, and is delivered to secular justice. The entire passage focuses on his denial, conviction without confession, and the Church's refusal to engage further despite repeated efforts to induce repentance."
+  },
+  "moral_justification": "The moral justification centers on divine justice, the sanctity of the Holy Catholic Faith, and the Church's duty to protect itself from heresy. The accused is portrayed as choosing eternal torment over repentance, thereby deserving damnation and secular punishment. The Church claims it has done all possible to convert him, absolving itself of responsibility for his fate.",
+  "summary": "This text presents a deconstructive rhetorical framework in which the Church acts as an instrument of divine justice, condemning an impenitent heretic (N.) through formal conviction by evidence and witness testimony. The rhetoric is highly charged with moral absolutism, framing denial as spiritual defiance and salvation as contingent on confession. While it includes procedural suggestions for persuasion and confession, these serve to reinforce the inevitability of condemnation rather than offer genuine constructive alternatives. The primary target of deconstruction is the accused's autonomy and the legitimacy of secular justice, while the Church positions itself as morally justified in its judgment.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 131
+}

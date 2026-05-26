@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Incubus devils",
+    "Succubus devils",
+    "Witchcraft accusations",
+    "Lack of legal evidence for demonic possession"
+  ],
+  "constructive_proposals": [
+    "Sacramental Confession",
+    "The Sacred Sign of the Cross",
+    "Recital of the Angelic Salutation",
+    "Use of exorcisms",
+    "Moving to another place",
+    "Excommunication prudently employed by holy men"
+  ],
+  "scapegoat": {
+    "name": "Incubus devils",
+    "attributes": [
+      "supernatural entities that cause involuntary sexual acts",
+      "punishment for sin rather than a sin itself",
+      "resistant to religious remedies like the Cross, Holy Water, and Sacrament"
+    ],
+    "justification": "The text consistently attributes involuntary sexual behavior and spiritual torment to Incubus devils, portraying them as malevolent supernatural forces that defy conventional religious and legal frameworks for justice."
+  },
+  "moral_justification": "The text frames demonic possession as a consequence of sin requiring repentance and divine intervention rather than criminal guilt, emphasizing moral purification over punitive justice. It suggests that the real evil lies in sin and its spiritual consequences, not in the devils themselves, who are treated as instruments of divine punishment.",
+  "summary": "The passage deconstructs beliefs about demonic possession through vivid anecdotes while proposing religious remedies rooted in confession, prayer, and sacramental authority, maintaining a highly charged moral tone that condemns both the devils and the helplessness of victims within a framework where sin and spiritual warfare dominate.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 83
+}

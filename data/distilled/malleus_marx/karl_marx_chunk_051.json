@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the notion that profit has a fixed minimum or ultimate limit",
+    "capital's claim to determine wage and working day limits unilaterally",
+    "the idea that labor markets self-regulate without structural conflict",
+    "classical economic assumptions about wages, machinery, and labor demand in settled countries"
+  ],
+  "constructive_proposals": [
+    "fixing the minimum of wages as a regulatory measure",
+    "acknowledging legislative interference as necessary to limit working day",
+    "using artificial land pricing in colonial contexts to prevent premature labor-to-peasant conversion",
+    "recognizing that capital's productive development alters labor demand and wage dynamics"
+  ],
+  "scapegoat": {
+    "name": "capital",
+    "attributes": [
+      "seeks to reduce wages to physical minimum",
+      "extends working day to physical maximum",
+      "competes with labor through machinery",
+      "dominates production process in settled countries",
+      "creates structural redundancy in labor demand"
+    ],
+    "justification": "The text consistently portrays capital as the active agent pushing boundaries \u2014 minimizing wages, maximizing working hours, introducing disruptive technologies, and reshaping capital composition to maintain control over labor, while resisting fixed limits on profit."
+  },
+  "moral_justification": "Capital is structurally predatory, using systemic advantages in production and legal frameworks to suppress labor, despite theoretical market mechanisms that might suggest mutual benefit; its actions are driven by self-expansion rather than ethical or social balance.",
+  "summary": "The passage deconstructs classical economic assumptions about profit limits and wage determination through historical and statistical analysis, emphasizing class struggle and capital's structural dominance. While condemning capitalist practices with high rhetorical intensity, it also proposes regulatory interventions \u2014 such as minimum wage laws and legislative action on working hours \u2014 indicating a mixed mode focused on systemic critique rather than pure destruction.",
+  "source_id": "karl_marx",
+  "chunk_id": 51
+}

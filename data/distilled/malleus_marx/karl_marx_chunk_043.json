@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Weston's dogma of fixed currency",
+    "the concept of 'high' and 'low' wages as having fixed meanings",
+    "the causal link between wage increases and capital diminution"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Weston",
+    "attributes": [
+      "dogmatic",
+      "unscientific",
+      "confuses relative terms with absolute values",
+      "fails to distinguish between nominal and real economic measures"
+    ],
+    "justification": "Weston is portrayed as clinging to a false dogma about currency contraction from wage increases, failing to define or justify his terms ('high' vs 'low' wages), and ignoring the need for standard economic measurement. He is criticized for treating relative comparisons as absolute truths without grounding them in natural laws or empirical analysis."
+  },
+  "moral_justification": "Weston's position is condemned as intellectually irresponsible, relying on arbitrary conventions rather than economic principles, and thus obstructing genuine understanding of market dynamics.",
+  "summary": "The text deconstructs Weston's economic fallacies by exposing his unexamined assumptions about currency and wages, using detailed quantitative comparisons to show that increased coinage did not correspond to inflation or wage collapse as he claimed. It condemns his failure to define basic economic terms and his ideological rigidity, scoring high in entropy due to its dismantling of entrenched beliefs with minimal constructive alternatives.",
+  "source_id": "karl_marx",
+  "chunk_id": 43
+}

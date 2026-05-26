@@ -1,0 +1,35 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Arabian commentators on Aristotle",
+    "Manichees and their heresies",
+    "Devils (collectively)",
+    "The idea of equal/differential practice among devils"
+  ],
+  "constructive_proposals": [
+    "Establishing a science of reality based on principles opposed to Arabian Aristotelianism",
+    "Refuting Manichean theology",
+    "Asserting hierarchical order among devils (interior and exterior actions)",
+    "Defining divine wisdom as permitting evil for greater good",
+    "Proposing that higher angels have authority over lower devils due to proximity to God"
+  ],
+  "scapegoat": {
+    "name": "Devils",
+    "attributes": [
+      "impure spirits",
+      "subtle in wickedness",
+      "eager to do harm",
+      "swollen with pride",
+      "without distinction in sin and punishment",
+      "indifferently follow filthy practices"
+    ],
+    "justification": "Devils are portrayed as inherently disordered, morally corrupt entities whose actions stem from sin and punishment rather than nature. They are collectively condemned for practicing 'filthy' acts (incubus and succubus) without distinction, framed as disorderly and opposed to divine order."
+  },
+  "moral_justification": "The text justifies moral hierarchy by asserting that devils lack the nobility of higher angels and thus are inherently prone to evil. Evil is permitted by Divine wisdom for a greater good, but devils are held responsible through their nature as impure and prideful spirits who freely choose disorder over obedience.",
+  "summary": "This passage deconstructs the idea of uniformity among devils by asserting hierarchical order based on divine hierarchy and moral worth. It condemns devils as inherently sinful and disordered, using theological authority (Augustine, Thomas, Dionysus) to justify differential punishment and subordination. While it offers constructive elements like a structured cosmology and role for good angels in permitting evil, its primary mode is deconstructive \u2014 dismantling egalitarian interpretations of demonic behavior through moral condemnation and hierarchical theology.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 15
+}

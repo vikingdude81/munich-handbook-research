@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "unordained laymen and secular clerics attempting exorcism",
+    "private use of charms and benedictions without proper conditions",
+    "the legitimacy and methodology of exorcism itself"
+  ],
+  "constructive_proposals": [
+    "judging the legality of exorcism by ordained status",
+    "observing seven conditions for private charm and benediction use",
+    "proper method of exorcising disease and conjuring the devil",
+    "actions to take when no healing grace results from exorcism",
+    "practical, non-verbal remedies and solutions to theological arguments"
+  ],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The text deconstructs the legitimacy of exorcism by questioning who may perform it, outlining strict conditions for private rituals, and examining procedural failures, all within a highly charged moral framework that assumes witchcraft causes real physical illness. While it offers structured proposals for correct practice, it provides no constructive theological or administrative blueprint beyond reinforcing clerical authority and ritual correctness.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 90
+}

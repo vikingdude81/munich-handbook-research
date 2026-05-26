@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "episcopal courts",
+    "the Inquisition's establishment process",
+    "heretical movements of the 12th and 13th centuries",
+    "revolutionary ideologies (Lenin, Trotsky, etc.)"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the Inquisition",
+    "attributes": [
+      "drastic methods",
+      "severe measures",
+      "abuse of power"
+    ],
+    "justification": "The text acknowledges the Inquisition's severe actions but frames them as necessary responses to what it describes as a revolutionary, anti-monarchical, anti-religious conspiracy with practical political aims akin to modern totalitarian movements."
+  },
+  "moral_justification": "The Inquisition is portrayed not as inherently evil but as a defensive institution responding to existential threats posed by heretical movements that sought to abolish monarchy, private property, marriage, social order, and religion \u2014 goals compared to revolutionary ideologies of the modern era.",
+  "summary": "The passage presents a mixed rhetorical stance: it deconstructs the myth of Dominic as Inquisition founder and details the gradual institutional evolution of ecclesiastical courts, while rhetorically justifying the Inquisition's severe methods by equating heretical movements with dangerous, revolutionary conspiracies seeking total societal overthrow.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 147
+}

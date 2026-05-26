@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "women who are jealous",
+    "the institution of marriage",
+    "traditional gender roles",
+    "moral authority of religious figures"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "jealous women",
+    "attributes": [
+      "envying",
+      "causing jealousy",
+      "being wicked",
+      "preventing happiness"
+    ],
+    "justification": "The text attributes all negative consequences\u2014loneliness, family decay, societal instability\u2014to the presence and behavior of jealous women, framing them as the primary source of moral corruption and disruption."
+  },
+  "moral_justification": "The text justifies its critique through religious authority (Ecclesiasticus), classical philosophy (Socrates, Phoroneus), and hagiographic tradition (St. Clotilda), positioning female jealousy as a divine prohibition and societal threat.",
+  "summary": "This passage deconstructs the role of women in medieval Christian society by condemning jealousy as inherently destructive, using religious doctrine, historical exemplars, and philosophical authority to portray women\u2014particularly those who are jealous\u2014as moral corrupters. It lacks constructive proposals, instead focusing on dismantling perceived female agency through moral condemnation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 23
+}

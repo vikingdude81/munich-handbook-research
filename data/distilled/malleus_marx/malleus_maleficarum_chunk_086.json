@@ -1,0 +1,40 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "inordinate love",
+    "adultery",
+    "witchcraft",
+    "the devil's influence through witches",
+    "immoral behavior of powerful men"
+  ],
+  "constructive_proposals": [
+    "yielding to nature within legal bounds",
+    "applying medicinal cures for the soul",
+    "redirecting love toward more worthy objects",
+    "avoiding presence of the beloved to distract the mind",
+    "admonishment and expostulation about the misery of inordinate love",
+    "vilifying the character of the beloved through correction",
+    "assigning arduous duties to distract thoughts",
+    "invoking the Guardian Angel daily",
+    "confession and frequenting shrines of the Saints, especially the Blessed Virgin",
+    "exorcisms using sacred words"
+  ],
+  "scapegoat": {
+    "name": "the devil (via witches)",
+    "attributes": [
+      "stirs up hatred between married people",
+      "induces inordinate love and adultery",
+      "operates through witches",
+      "causes moral and spiritual degradation",
+      "targets noble, rich men as primary victims"
+    ],
+    "justification": "The text attributes the root cause of widespread immoral behavior \u2014 especially adultery among the powerful \u2014 to the devil's influence acting through witches. Witches are portrayed not merely as practitioners but as agents of the devil who manipulate minds to inordinate love or hatred, making them the central deconstructed and condemned force behind societal decay."
+  },
+  "moral_justification": "Inordinate lust is framed as a path to eternal damnation \u2014 losing Heaven and facing eternal fire. The text presents divine law and spiritual salvation as the only true remedy, contrasting earthly pleasure with everlasting punishment. Moral order is upheld through religious discipline, confession, and virtue.",
+  "summary": "The passage deconstructs inordinate love and adultery as societal ills rooted in devilish witchcraft, particularly targeting powerful men, while offering a mix of physical, moral, legal, and spiritual remedies grounded in Christian doctrine to restore virtue and avoid eternal damnation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 86
+}

@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 7,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "the accused heretic",
+    "the legitimacy of suspicion based on defamation and association with heretics",
+    "the canonical procedures for purgation and abjuration as applied to individuals not legally convicted"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the accused individual (suspect and defamed heretic)",
+    "attributes": [
+      "publicly defamed",
+      "suspected of heresy based on association with heretics",
+      "not legally convicted by confession, evidence, or witnesses"
+    ],
+    "justification": "The text targets the accused as a figure whose guilt is inferred from social suspicion and defamation rather than legal proof. The procedure described \u2014 purgation and abjuration \u2014 serves to publicly humiliate and reaffirm ecclesiastical authority over someone who has not been formally convicted, thereby deconstructing any claim of due process or factual basis for conviction."
+  },
+  "moral_justification": "The text frames the accused as morally culpable through defamation and association, implying that suspicion alone justifies religious punishment. It invokes canonical authority (e.g., c. excommunicamus) to legitimize punitive measures even in the absence of formal conviction.",
+  "summary": "This passage deconstructs the legitimacy of heresy accusations based on reputation and defamation rather than evidence, prescribing ritual purification and abjuration as corrective measures. It reflects high rhetorical intensity through moral condemnation and procedural solemnity, operating within a deconstructionist mode that undermines legal innocence in favor of ecclesiastical authority.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 127
+}

@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Diocesan Ecclesiastical Court",
+    "Civil Court",
+    "Inquisitors of the crime of heresy",
+    "Canon law (c. accusatus, \u00a7 sane, lib. VI)",
+    "Apostolic See"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "subject to jurisdiction of ecclesiastical and civil courts",
+      "protected by patrons and defenders",
+      "heretics (if they are also heretics)",
+      "diviners and soothsayers"
+    ],
+    "justification": "The text frames witches as the central group requiring judicial intervention, positioning them as outside proper legal authority while simultaneously arguing that judges should not be distracted from judging them. The rhetorical structure implies their inherent guilt through repeated association with heresy and devil worship, even when acknowledging jurisdictional boundaries."
+  },
+  "moral_justification": "The text establishes a moral hierarchy where canonical authority must remain focused on faith matters, implying that involvement in witch trials would compromise the sanctity of doctrinal judgment. The argument rests on the premise that witches are inherently heretical and thus outside legitimate legal concern unless they fall under specific heretical categories.",
+  "summary": "The passage deconstructs the jurisdictional boundaries of ecclesiastical courts by arguing that judges should not be distracted from their primary duty of judging faith matters, while simultaneously constructing a framework where witches are implicitly guilty through association with heresy and devil worship. It uses canonical authority to justify excluding witches from proper legal consideration, reinforcing moral condemnation without offering procedural solutions.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 98
+}

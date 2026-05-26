@@ -1,0 +1,21 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 5,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "The distinction between production and consumption as separate, opposing forces",
+    "Classical political economy's categorization of productive vs. unproductive labor and consumption",
+    "The notion that production is merely an objective activity detached from the consumer"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The passage presents a dense, dialectical argument that collapses the boundaries between production and consumption through threefold identity: immediate, mediational, and self-completing. It critiques classical economic dichotomies by asserting that products only become 'real' through consumption, that consumption generates the need for production, and that both acts mutually create each other's objects and subjects. While highly critical of traditional economic frameworks, it does not propose a new system or policy \u2014 instead offering a theoretical redefinition rooted in Hegelist idealism.",
+  "source_id": "karl_marx",
+  "chunk_id": 35
+}

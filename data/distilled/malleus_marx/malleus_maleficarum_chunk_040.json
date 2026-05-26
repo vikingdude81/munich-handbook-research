@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the idea that punishment can be inflicted without guilt or cause",
+    "the legitimacy of divine temporal punishment for sins not personally committed",
+    "the notion that suffering automatically serves as correction without moral agency"
+  ],
+  "constructive_proposals": [
+    "The preacher must uphold the principle: 'No one must be punished without guilt, unless there is some cause for doing so.'",
+    "Punishment should only occur when justified by personal guilt or a valid cause",
+    "Suffering with resignation and devotion can transform even natural death into a form of correction"
+  ],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "Punishment is morally legitimate only when it follows personal guilt or a just cause; divine punishment, whether spiritual or temporal, must be grounded in either the sinner's own guilt or a valid reason, never arbitrary or unjust.",
+  "summary": "The text presents a theological framework of punishment rooted in guilt and divine justice, balancing deconstruction of unjust punishment with constructive principles that limit punitive authority to cases of personal guilt or just cause.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 40
+}

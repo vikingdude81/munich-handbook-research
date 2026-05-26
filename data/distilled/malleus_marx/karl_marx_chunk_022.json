@@ -1,0 +1,34 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "bourgeoisie",
+    "aristocracy",
+    "small bourgeoisie (low e r bourgeoisie, small manufacturer, shopkeeper, artisan, peasant)",
+    "lumpenproletariat",
+    "old society's moral and legal frameworks"
+  ],
+  "constructive_proposals": [
+    "formation of workers' unions and permanent associations",
+    "centralization of local struggles into a national class struggle",
+    "legislative recognition of workers' interests (e.g., ten-hours bill in England)",
+    "abolition of previous modes of appropriation and individual property securities"
+  ],
+  "scapegoat": {
+    "name": "lumpenproletariat",
+    "attributes": [
+      "social scum",
+      "passively rotting mass",
+      "thrown off by lowest layers of old society",
+      "prepared for reactionary intrigue",
+      "bribed tool"
+    ],
+    "justification": "The text describes the lumpenproletariat as a 'dangerous class' and 'social scum' that may be swept into the revolutionary movement but is fundamentally unprepared for revolution, instead being suited to serve as tools of reactionary forces due to their deteriorated living conditions."
+  },
+  "moral_justification": "The proletariat is framed as the only truly revolutionary class destined to dismantle bourgeois society, while other classes are depicted as decaying or counter-revolutionary; moral legitimacy is derived from historical materialist analysis rather than ethical judgment.",
+  "summary": "This passage presents a deconstructionist critique of class structures and bourgeois dominance, arguing that capitalism inherently generates internal contradictions that empower the proletariat to overthrow existing orders. While it dismantles multiple classes and ideologies, it also proposes concrete revolutionary pathways through unionization, legislative action, and abolition of private property, making its mode mixed with high rhetorical intensity and significant entropic force.",
+  "source_id": "karl_marx",
+  "chunk_id": 22
+}

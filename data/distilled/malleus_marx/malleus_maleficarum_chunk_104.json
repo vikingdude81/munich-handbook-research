@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Construction",
+  "entropy_score": 5,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "the first method of procedure (accusation before a judge)",
+    "the danger to the accuser due to penalty of talion",
+    "the litigious nature of the first method"
+  ],
+  "constructive_proposals": [
+    "proceeding under three main heads for judges' guidance",
+    "specifying five difficulties in initiating process",
+    "detailing eleven questions for trial procedure",
+    "outlining three considerations and twenty methods of sentencing",
+    "recommending general citation on church/town walls as starting point"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "secret perpetrators",
+      "threat to faith and order",
+      "subject to talion if accused but unproven"
+    ],
+    "justification": "The text frames witches as secret actors whose hidden deeds necessitate institutional intervention, justifying systematic procedures; their alleged ability to invoke talion upon accusers creates moral urgency for state and ecclesiastical authority to act decisively."
+  },
+  "moral_justification": "Preserving faith and social order requires structured judicial action against witches, who are portrayed as secret threats deserving severe penalties, with the Ordinary and civil authorities jointly responsible for justice.",
+  "summary": "The text constructs a detailed legal framework for trying witches through ecclesiastical and civil authority, rejecting accusatory methods in favor of inquisitorial procedures, while positioning witches as dangerous, secret enemies requiring systematic prosecution and punishment.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 104
+}

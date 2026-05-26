@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the notion that witchcraft is primarily about moral corruption or inherent evil",
+    "the idea that physical purity (especially genital) can be achieved through divine intervention alone without moral transformation",
+    "the claim that God directly intervenes to remove temptation or alter bodily functions as a reward for virtue"
+  ],
+  "constructive_proposals": [
+    "the assertion that divine providence is selective and purposeful, with some individuals protected from harm while others are subjected to suffering for correction",
+    "the proposal that guardian angels and celestial powers actively intervene in human affairs to shield the righteous from temptation or harm",
+    "the suggestion that certain bodily functions (e.g., genital) can be purified by divine agents to prevent moral corruption"
+  ],
+  "scapegoat": {
+    "name": "witchcraft",
+    "attributes": [
+      "alleged source of moral and physical corruption",
+      "instrument of temptation, especially through sexual means",
+      "associated with deviation from natural order and divine will"
+    ],
+    "justification": "Witchcraft is framed as the primary agent of corruption, particularly targeting generative functions, which are portrayed as the root cause of original sin and thus the inheritance of moral degradation across humanity."
+  },
+  "moral_justification": "The text justifies suffering and divine intervention through a theological framework of correction, purification, and protection of the elect. It presents affliction \u2014 especially sexual temptation \u2014 not as random, but as part of a corrective mechanism administered by God or angelic agents to restore moral purity and reaffirm divine order.",
+  "summary": "The passage blends deconstructive critique of witchcraft's perceived power with constructive theological assertions about divine providence, angelic protection, and bodily purification. It constructs a system in which God selectively intervenes \u2014 protecting some from harm while allowing others to suffer for moral correction \u2014 using supernatural means (especially angels) to alter human desires and bodies, particularly targeting sexual temptation as the conduit of original sin.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 47
+}

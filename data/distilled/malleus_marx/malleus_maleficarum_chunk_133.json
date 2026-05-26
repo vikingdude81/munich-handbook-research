@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the accused heretic (N.)",
+    "the evil spirit",
+    "obstinacy and defiance of the Church"
+  ],
+  "constructive_proposals": [
+    "require appearance before the Bishop and Judges for final sentence",
+    "publicly affix summons to Cathedral doors",
+    "admit penitent heretic if they repent after a year of excommunication",
+    "deliver impenitent heretics to secular court"
+  ],
+  "scapegoat": {
+    "name": "N.",
+    "attributes": [
+      "accused of heresy",
+      "fled and hidden from justice",
+      "refused to appear despite summons",
+      "persisted in obstinacy for over a year",
+      "scorned mercy and unity of the Holy Faith"
+    ],
+    "justification": "The text portrays N. as the central figure who defied ecclesiastical authority by fleeing, hiding, and refusing to repent after excommunication, embodying the 'evil spirit's' influence and obstructing justice."
+  },
+  "moral_justification": "Justice demands the final sentence due to persistent disobedience, refusal of mercy, and endangerment of the Catholic Faith; delay or leniency would violate divine and canonical law.",
+  "summary": "The text deconstructs N.'s evasion and defiance while constructing a rigid legal process for judgment, using high moral intensity to condemn resistance and justify immediate execution of ecclesiastical authority.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 133
+}

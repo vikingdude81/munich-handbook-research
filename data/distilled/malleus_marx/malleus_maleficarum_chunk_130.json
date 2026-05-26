@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 9,
+  "deconstruction_targets": [
+    "the Church's judicial authority",
+    "the legitimacy of ecclesiastical punishment",
+    "the moral righteousness of the Inquisitorial process"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the impenitent heretic",
+    "attributes": [
+      "accused of heresy",
+      "impenitent",
+      "refusing conversion despite persuasion and hardship",
+      "damning his soul and body"
+    ],
+    "justification": "The text portrays the accused as irredeemable, embodying moral corruption and defiance against divine authority, thereby justifying his removal from ecclesiastical jurisdiction and condemnation to secular justice."
+  },
+  "moral_justification": "The Church asserts its duty to eradicate heresy as a plague, claiming that persistent refusal to repent leaves no room for spiritual salvation, thus warranting the severance of ecclesiastical ties and handover to secular authorities.",
+  "summary": "This text is a deconstructive rhetorical passage from an Inquisitorial manual that condemns the impenitent heretic while justifying his delivery to secular justice. It dismantles the possibility of reconciliation through moral absolutism, frames the Church's role as divinely mandated eradication of spiritual disease, and intensifies moral outrage by portraying resistance as alignment with evil. No constructive alternatives are offered beyond execution or imprisonment.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 130
+}

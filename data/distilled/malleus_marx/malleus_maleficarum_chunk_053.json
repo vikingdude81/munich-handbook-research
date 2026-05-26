@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "The possibility of demonic transportation of humans (including children and priests)",
+    "The claim that witches cannot be locally transported due to divine prohibition",
+    "The moral framing of certain spirits as harmless versus violently punitive"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Devils",
+    "attributes": [
+      "Capable of carrying humans through air against their will",
+      "Able to transport individuals while asleep or awake",
+      "Can cause physical harm, including injury from falls",
+      "Engages in mockery and delusion as well as violent punishment",
+      "Takes up Christ as described in Gospel"
+    ],
+    "justification": "The text repeatedly attributes supernatural transportation events to devils, describing them as active agents who move people without consent, cause physical harm, and operate across social boundaries including clergy. The devil is framed as the sole agent capable of such feats, making it the central target of deconstruction."
+  },
+  "moral_justification": "The text presents a theological framework in which divine permission allows demonic activity as both punishment for parental sin (e.g., curses like 'May you be carrying a devil!') and as evidence of moral corruption, particularly among those dedicated to the devil. It uses scriptural precedent (Christ being carried by the devil) to justify the plausibility of such events, thereby reinforcing a moral order where demonic actions reflect spiritual failure.",
+  "summary": "The passage deconstructs claims about the impossibility of demonic transportation by citing multiple historical and theological examples involving children, priests, and magicians. It employs high rhetorical intensity through vivid descriptions of physical harm and supernatural intervention, while constructing a theological justification that divine permission enables such events as part of moral retribution. No constructive proposals are offered; instead, it reinforces ecclesiastical authority by directing women to consult learned men.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 53
+}

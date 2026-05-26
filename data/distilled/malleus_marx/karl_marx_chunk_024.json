@@ -1,0 +1,37 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "bourgeois marriage",
+    "community of women",
+    "religious ideas",
+    "moral ideas",
+    "philosophical ideas",
+    "juridical ideas",
+    "eternal truths",
+    "class antagonisms"
+  ],
+  "constructive_proposals": [
+    "raise the proletariat to the position of ruling class",
+    "wrest all capit al from the bourgeoisie",
+    "centralise all instruments of production in the hands of the State",
+    "increase the total productive forces as rapidly as possible"
+  ],
+  "scapegoat": {
+    "name": "bourgeois",
+    "attributes": [
+      "hypocritical",
+      "seductive",
+      "exploitative",
+      "reactionary",
+      "oppressor of women and proletarians"
+    ],
+    "justification": "The text repeatedly portrays the bourgeois as morally corrupt, engaging in seduction of each other's wives and daughters while claiming moral superiority. They are depicted as maintaining a system of 'wives in common' that is exploitative and hypocritical, defending patriarchal structures that reduce women to instruments of production."
+  },
+  "moral_justification": "The text frames the bourgeois not merely as economically dominant but as morally bankrupt, using religious, philosophical, and juridical ideas to justify exploitation. It condemns their moral indignation over the 'community of women' as a pretext for maintaining patriarchal control, positioning them as agents of reaction against historical necessity.",
+  "summary": "The passage is a mixed-mode deconstruction that dismantles bourgeois ideology while proposing a concrete revolutionary program. It uses high rhetorical intensity to condemn the bourgeois and traditional institutions (marriage, religion, morality) as tools of exploitation, while outlining a constructive vision of proletarian revolution through state centralization of production and class emancipation.",
+  "source_id": "karl_marx",
+  "chunk_id": 24
+}

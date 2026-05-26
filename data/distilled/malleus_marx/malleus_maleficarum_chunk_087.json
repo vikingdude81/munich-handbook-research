@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "witches who bewitch others into delusions of losing body parts or transforming into beasts",
+    "the concept of 'prestidigitative art' as a form of demonic deception"
+  ],
+  "constructive_proposals": [
+    "reconciliation with God through confession for those deluded by glamour",
+    "coming to an amicable agreement with the witch herself",
+    "extermination of witches by the secular arm of the law in cases of self-transformation into beasts"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "engaged in prestidigitative art",
+      "caused delusions of losing virile members or transforming into beasts",
+      "operated through glamour that hides rather than removes physical parts",
+      "more active in Eastern regions but also prevalent in the West when self-transforming"
+    ],
+    "justification": "The text identifies witches as practitioners of harmful, deceptive arts who exploit human vulnerability through supernatural illusion, framing them as agents of moral and spiritual corruption who must be reconciled with or eliminated."
+  },
+  "moral_justification": "Moral order is restored by reaffirming divine grace, requiring confession to remove the spiritual cause of delusion, and enforcing societal purification through legal extermination of witches when their deception leads to transformation claims.",
+  "summary": "The passage presents a theological and legal framework for diagnosing and remedying witchcraft-induced delusions, blending deconstruction of witchcraft as demonic deception with constructive prescriptions including confession, negotiation with witches, and capital punishment, all framed within a rigid moral hierarchy where divine grace is the sole antidote to supernatural illusion.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 87
+}

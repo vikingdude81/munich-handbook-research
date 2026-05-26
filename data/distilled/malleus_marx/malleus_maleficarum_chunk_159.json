@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the ambiguity of 'Real Presence' in the Blessed Sacrament",
+    "doubt about Christ's institution of the Holy Sacrifice of the Altar",
+    "claims that Our Lord appeared in the Host to various saints",
+    "the legitimacy and power of the Supreme Pontiff as asserted by Master Antonio degli Roselli"
+  ],
+  "constructive_proposals": [
+    "clarify 'Real Presence' by stating 'The Blessed Sacrament is God'",
+    "reject ambiguous theological claims that undermine Christ's sacrifice"
+  ],
+  "scapegoat": {
+    "name": "Master Antonio degli Roselli of Padua",
+    "attributes": [
+      "jurisconsult",
+      "advocate of plenary power for the Supreme Pontiff and temporal monarch"
+    ],
+    "justification": "He is portrayed as promoting theological errors that challenge the authority of the Church and the divine origin of the Eucharist, making him a target of deconstruction in the context of defending orthodoxy."
+  },
+  "moral_justification": "The text defends orthodox Catholic doctrine by condemning theological ambiguity and challenges to Christ's real presence and the legitimacy of papal authority, framing doubt as denial of Christ.",
+  "summary": "This passage is a deconstructive critique of theological errors surrounding the Eucharist and papal authority in late medieval/early Renaissance Italy. It uses intense moral language to denounce ambiguity and dissent while attempting to reinforce doctrinal certainty through selective hagiography and condemnation of specific figures like Antonio degli Roselli.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 159
+}

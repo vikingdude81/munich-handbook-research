@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 7,
+  "rhetorical_intensity": 8,
+  "deconstruction_targets": [
+    "secular judges' authority to try heresy and witchcraft cases",
+    "the distinction between heretics and apostates in relation to witchcraft",
+    "the legitimacy of civil punishment for religious offenses"
+  ],
+  "constructive_proposals": [
+    "establishing ecclesiastical jurisdiction over heresy and witchcraft trials",
+    "requiring secular judges to obtain ecclesiastical authorization before acting on such cases",
+    "recognizing that only the Bishop (ecclesiastical authority) can judge heresy, though secular execution may follow"
+  ],
+  "scapegoat": {
+    "name": "wizards/heretics/apostates",
+    "attributes": [
+      "corruptors of faith",
+      "apostates with intent to undermine Church doctrine",
+      "dangerous to the spiritual life of the soul",
+      "comparable or worse than counterfeiters and malefactors"
+    ],
+    "justification": "The text portrays wizards as apostates who intentionally corrupt the Faith\u2014the life of the soul\u2014making them more dangerous than mere criminals like counterfeiters, thus justifying their immediate execution."
+  },
+  "moral_justification": "Witchcraft is framed as a grave offense against the Faith itself, not merely civil crime; because heresy and apostasy threaten the spiritual survival of individuals and society, swift capital punishment is presented as morally necessary and equitable.",
+  "summary": "The passage deconstructs secular claims to judicial authority in heresy and witchcraft cases by asserting ecclesiastical primacy while simultaneously advocating for severe punitive measures\u2014especially death\u2014for those accused of apostatic witchcraft, portraying them as existential threats whose elimination serves both religious and civil order.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 77
+}

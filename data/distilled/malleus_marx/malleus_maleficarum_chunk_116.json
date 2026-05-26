@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the power of silence in witches",
+    "witches' ability to resist confession despite torture and physical measures",
+    "the use of magical charms or witchcraft objects as explanations for non-confession"
+  ],
+  "constructive_proposals": [
+    "reliance on divine protection through prayer and fasting by judges and devout persons",
+    "shaving the head and using blessed wax in holy water administered three times on a fasting stomach",
+    "consulting other knowledgeable persons if initial methods fail",
+    "invoking patron saints of the country as spiritual intervention",
+    "collective prayer and fasting by judge and people as final recourse"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "scheming for subversion of faith",
+      "compelled by divine power to reveal hidden matters",
+      "agent of perdition and offense against Divine Majesty"
+    ],
+    "justification": "The text attributes the witches' silence and magical resistance not to human or natural causes alone, but primarily to diabolical influence; the devil is framed as actively manipulating outcomes and requiring divine intervention to counteract his work."
+  },
+  "moral_justification": "The text justifies its stance through a theological framework: actions must preserve Divine Majesty, avoid offense to God, and rely on spiritual means rather than worldly or magical solutions. Witches are condemned not only for heresy but for their silence, which is seen as satanic in origin, requiring moral and religious suppression.",
+  "summary": "The passage presents a mixed rhetorical mode: it deconstructs the phenomenon of witches' silence through theological and supernatural explanations while constructively prescribing Inquisitorial procedures involving physical examination, ritual remedies, spiritual intervention, and divine reliance. Rhetorical intensity is high due to moral condemnation and apocalyptic framing of witchcraft as diabolical warfare. Entropy is moderate (6) because while much of the text condemns and dissects, it also offers structured, actionable religious procedures.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 116
+}

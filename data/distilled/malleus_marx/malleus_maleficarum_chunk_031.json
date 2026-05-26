@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the belief that witches can transform men into beasts",
+    "the idea that such transformations are actual rather than glamour-based"
+  ],
+  "constructive_proposals": [
+    "that charm permanence depends on the witch's ability and willingness to heal",
+    "that charm permanence is tied to whether the witch has departed or died before healing",
+    "that some charms may be permanent if they have no human remedy, are unknown, or are unlawful"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "capable of causing harm",
+      "sometimes capable of healing",
+      "unable to heal when departed or dead",
+      "associated with permanent charms that lack human remedy"
+    ],
+    "justification": "The text identifies witches as the source of harmful charms, particularly those that are permanent due to their inability or unwillingness to heal, and attributes actual transformation claims to their deceptive glamour rather than real power."
+  },
+  "moral_justification": "The text frames belief in witchcraft transformations as heretical ('an infidel, and worse than a pagan') because it denies the Creator's exclusive power over creation, positioning such beliefs against divine order.",
+  "summary": "The passage deconstructs claims that witches can permanently transform men into beasts by arguing such changes are illusions (glamour) rather than real transformations, while proposing that charm permanence depends on the witch's ability and willingness to heal, or whether the charm has no human remedy. It constructs a theological framework where only God or divine agents can effect true change, and identifies witches as deceptive actors whose power is limited and contingent.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 31
+}

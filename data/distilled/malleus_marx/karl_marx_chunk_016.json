@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "juridical illusion of property as mere legal title without actual possession",
+    "law as mere expression of will rather than social relation",
+    "individual free will in contracts as ideological fiction",
+    "bourgeois class ideology that separates occupation from reality",
+    "fixed concepts in jurisprudence and politics that reify social relations",
+    "the state, law, religion, and morality as products of ruling class consciousness"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "jurists, politicians, clerics, moralists, ideologues",
+    "attributes": [
+      "profess ideology that obscures material reality",
+      "maintain legal and moral fictions that serve ruling class interests",
+      "reinforce alienation by treating social relations as autonomous concepts"
+    ],
+    "justification": "These groups are portrayed as the primary carriers of false consciousness, upholding a juridical illusion that masks exploitation and prevents recognition of material conditions and class struggle."
+  },
+  "moral_justification": "The text argues that existing legal, religious, and political institutions perpetuate social alienation by presenting arbitrary social relations as natural, fixed, or freely chosen, thereby obscuring the material basis of class domination and preventing genuine emancipation.",
+  "summary": "This passage is a radical deconstruction of liberal legal and political ideology, exposing how property, law, and individual freedom are ideological constructs maintained by ruling classes. It critiques the reification of social relations in consciousness while rejecting any constructive blueprint, instead emphasizing material conditions, class struggle, and historical transformation.",
+  "source_id": "karl_marx",
+  "chunk_id": 16
+}

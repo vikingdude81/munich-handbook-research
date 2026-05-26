@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the popular notion that surplus value is formed by the addition of independent values (wages, rent, profit)",
+    "the idea that land and capital themselves generate surplus value",
+    "the claim that revenue forms are derived from the value of wages or other constituent parts independently"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "employing capitalist",
+    "attributes": [
+      "extracts surplus value from laborer",
+      "claims unpaid labour as profit under various names (industrial profit, rent, interest)",
+      "benefits directly from the division of surplus value with landlords and money-lenders"
+    ],
+    "justification": "The text identifies the employing capitalist as the central agent who extracts surplus value from the laborer and redistributes portions to landlords and money-lenders, while claiming the right to retain industrial profit. This role is portrayed as parasitic and structurally dependent on unpaid labor, making it the primary target of deconstruction."
+  },
+  "moral_justification": "The text morally justifies its critique by asserting that surplus value originates solely from unpaid labor, and any appropriation beyond what reflects labor contribution (e.g., arbitrary profit shares) constitutes exploitation. It frames the extraction of surplus value as illegitimate when divorced from actual labor input.",
+  "summary": "This passage deconstructs classical economic assumptions by arguing that rent, interest, and industrial profit are not independent values but derived fractions of surplus value extracted from unpaid labor. It dismantles the illusion that these forms of revenue arise from independent contributions or asset ownership, instead showing they stem from systemic exploitation in the wage-labor relationship. The rhetoric is highly charged with moral condemnation of capitalist appropriation, though it offers no constructive alternative system.",
+  "source_id": "karl_marx",
+  "chunk_id": 48
+}

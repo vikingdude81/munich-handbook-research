@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the priest's denial of witchcraft as a real phenomenon",
+    "the belief that witches are merely products of imagination",
+    "the idea that devils have no tangible influence on human life"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the old woman (witch)",
+    "attributes": [
+      "accused of causing the priest's affliction through supernatural means",
+      "possesses knowledge of future events and human minds",
+      "acts as an agent of the devil with supernatural powers",
+      "is portrayed as both malevolent and ultimately just in her confession"
+    ],
+    "justification": "The old woman is framed as a direct agent of the devil who uses supernatural power to punish the priest for his denial of witchcraft, making her the central figure embodying the deconstructed belief system \u2014 she represents the reality of witchcraft that the priest denies, and whose actions expose the limits of human reason and religious authority."
+  },
+  "moral_justification": "The text presents a moral universe where disbelief in witchcraft invites divine or demonic retribution; the priest's error is not merely mistaken but spiritually dangerous, inviting supernatural punishment as purification. The devil is portrayed as both enforcer of natural order and agent of justice, acting with purposeful timing and moral intent.",
+  "summary": "The passage deconstructs rationalist denial of witchcraft through a narrative in which a priest's skepticism leads to supernatural affliction, revealing the reality of demonic influence. It constructs a worldview where devils possess superior knowledge and power, operate with moral purpose, and serve as agents of divine justice. The text intensifies moral stakes by framing disbelief as a path to damnation and witchcraft as a real, dangerous force, ultimately reinforcing orthodoxy through fear and supernatural causality.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 52
+}

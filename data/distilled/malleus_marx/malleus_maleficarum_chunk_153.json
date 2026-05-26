@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "ecclesiastical superiors",
+    "mystical phenomena",
+    "Church mystics (friars and nuns)",
+    "sanctuaries of Naples (Limpias, Campocavallo)",
+    "theological concept of holiness",
+    "Mgr. Oeter de Roo",
+    "Pope Alexander VI"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Fr. Thurston",
+    "attributes": [
+      "vulgar",
+      "ill-bred",
+      "crank",
+      "constitutionally incapable",
+      "extravagant",
+      "writes in queer English",
+      "assails with contempt"
+    ],
+    "justification": "He is portrayed as the primary agent of deconstruction, using inflammatory language to discredit Church figures and practices while condemning moral interpretation of holiness and papal legacy."
+  },
+  "moral_justification": "The text frames Fr. Thurston's critique as morally corrupt, attacking the integrity of Church institutions, relics, and historical religious figures without constructive alternatives.",
+  "summary": "This passage is a highly charged deconstructionist critique led by Fr. Thurston, who condemns Church practices, mystics, shrines, and historical interpretations as fraudulent or pathological. It uses strong moral condemnation and personal attacks to dismantle religious authority while offering no constructive alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 153
+}

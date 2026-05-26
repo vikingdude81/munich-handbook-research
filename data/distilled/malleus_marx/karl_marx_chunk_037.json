@@ -1,0 +1,22 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "philosophical consciousness",
+    "conceptual world as sole reality",
+    "thinking head appropriating the concrete",
+    "Hegelian method of deriving real from thought"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The text deconstructs classical political economy's method of beginning with abstract wholes (population, nation) and moving toward concrete analysis, arguing instead that the concrete must be understood as a unified totality of relations. It critiques Hegel\u2019s idealist inversion where categories appear to generate reality through thought, asserting that real social formation occurs externally to consciousness. While rich in theoretical critique, it offers no constructive blueprint for economic organization.",
+  "source_id": "karl_marx",
+  "chunk_id": 37
+}

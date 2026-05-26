@@ -1,0 +1,41 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Louis XIV",
+    "the Queen (Maria Theresa of Austria)",
+    "Louise de la Valli\u00e8re",
+    "Colbert's enemies",
+    "Madame de Montespan",
+    "Comtesse de Soisson (Olympe Mancini)",
+    "Comtesse de Rouse",
+    "Madame de Polignac",
+    "George Villiers, Duke of Buckingham",
+    "Shaftesbury",
+    "La Voisin",
+    "Fra Pietro",
+    "Fra Cherubino",
+    "Fra Domenico"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "George Villiers, Duke of Buckingham",
+    "attributes": [
+      "vivacity",
+      "quickness of parts adapted to ridicule",
+      "profuseness (false generosity)",
+      "malevolent wit",
+      "passion-driven life",
+      "capable of blackest designs",
+      "mutiny instigator",
+      "insurrectionist"
+    ],
+    "justification": "The text portrays Buckingham as a figure devoid of virtue, whose personal traits are framed as moral corruption (e.g., generosity as profuseness, wit as malevolence). He is linked to political conspiracy, insurrection, and association with witchcraft and Satanic rituals. His role in attempting to overthrow the King and his alleged involvement in occult practices position him as a central villain whose actions undermine royal authority and social order."
+  },
+  "moral_justification": "The text frames political and personal transgressions as moral decay rooted in occultism, witchcraft, and conspiracy. Figures are condemned not merely for actions but for their association with demonic rituals, necromancy, and attempts to subvert divine and monarchical order through forbidden arts. The narrative constructs a worldview where power is corrupting and legitimacy is threatened by hidden, immoral forces.",
+  "summary": "The passage deconstructs the political and personal lives of 17th-century French elites as inherently corrupt, entangled with witchcraft, conspiracy, and moral decay. It emphasizes secret plots against royalty, the role of occult practices in governance, and the absence of virtue among key figures. Rhetoric is highly charged, portraying historical actors as agents of chaos and evil, with no constructive alternatives offered.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 150
+}

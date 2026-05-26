@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 5,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "the conception of history held hitherto which neglects the real relationships and confines itself to high-sounding dramas of princes and states",
+    "idealistic view of history that looks for categories in every period",
+    "mental criticism, resolution into 'self-consciousness', transformation into 'apparitions', 'spectres', 'fancies'",
+    "the notion that consciousness can be dissolved by abstract mental processes"
+  ],
+  "constructive_proposals": [
+    "expound the real process of production starting from material production of life itself",
+    "comprehend civil society in its various stages as the basis of all history",
+    "explain all theoretical products and forms of consciousness, religion, philosophy, ethics etc. from that basis",
+    "trace their origins and growth from material practice",
+    "depict the whole thing in its totality including reciprocal action of social relations",
+    "practical overthrow of actual social relations which gave rise to idealistic humbug"
+  ],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The text deconstructs idealist and abstract conceptions of history while constructing a materialist framework that grounds historical development in civil society, productive forces, and the practical overthrow of existing social relations.",
+  "source_id": "karl_marx",
+  "chunk_id": 9
+}

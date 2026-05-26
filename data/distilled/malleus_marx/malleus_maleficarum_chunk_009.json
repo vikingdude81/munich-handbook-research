@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the belief that old women are witches with evil, harmful gazes",
+    "the idea that mental influence alone can cause physical transformation through the eyes",
+    "the claim that celestial bodies and spirits directly cause human actions via magical means"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "old witches",
+    "attributes": [
+      "evil gaze",
+      "harmful to children",
+      "in league with the devil",
+      "possessing supernatural influence through eyes"
+    ],
+    "justification": "The text repeatedly attributes harmful effects \u2014 especially on children \u2014 to old women identified as witches, describing their gazes as 'most evil and harmful' and claiming they are in secret contract with the devil. These characterizations serve to demonize and other them as sources of supernatural harm."
+  },
+  "moral_justification": "The text justifies its deconstruction by appealing to divine order ('permitted by God') and spiritual hierarchy, asserting that only God is absolutely obeyed and that spiritual substances cannot transform bodies without agency. It denies the possibility of natural mental power causing physical change, framing such ideas as either demonic or imaginary.",
+  "summary": "The passage primarily deconstructs beliefs in witchcraft and the evil gaze of old women by arguing that physical harm through sight is impossible without divine or demonic agency, not natural mental power. It condemns popular superstitions while upholding theological hierarchies, using intense moral language to frame witches as agents of the devil and their gazes as inherently dangerous, thus serving a deconstructive rather than constructive purpose.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 9
+}

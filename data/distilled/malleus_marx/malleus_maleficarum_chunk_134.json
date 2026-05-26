@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 7,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "Witches in custody",
+    "Accused persons based on reputation or association with witches",
+    "Legal procedures that rely on spectral evidence or unverified accusations"
+  ],
+  "constructive_proposals": [
+    "Canonical purgation as a procedure for handling cases of suspicion without concrete evidence",
+    "Procedures for face-to-face confrontation between accused and accuser to assess inconsistency",
+    "Use of light torture under judicial supervision with precautions to determine guilt or innocence",
+    "Excommunication of those who consult witches or act as intermediaries, based on Canon law"
+  ],
+  "scapegoat": {
+    "name": "The accused woman (witchcraft suspect)",
+    "attributes": [
+      "Publicly defamed throughout the village or city",
+      "Accused by a witch in custody",
+      "Denies all charges firmly",
+      "Lacks credible witnesses or concrete evidence against her",
+      "Subject to moral and legal condemnation based on reputation rather than proof"
+    ],
+    "justification": "The text constructs the accused woman as the central figure of moral and legal peril, not because of proven wrongdoing but due to association with a witch, public defamation, and failure to conform to expected confessions. Her identity is defined by suspicion, denial, and communal stigma rather than evidence, making her the clear target of deconstructive critique."
+  },
+  "moral_justification": "The text justifies its stance through appeals to canonical law, judicial authority, and moral purity\u2014claiming that guilt must be proven through confession, credible testimony, or clear evidence, not rumor or association. It frames the legal process as divinely sanctioned, with purgation and excommunication serving as restorative rather than punitive measures for those who are merely suspected.",
+  "summary": "This passage deconstructs the logic of witchcraft accusations by exposing how reputation, association, and denial are used to condemn individuals without evidence. It outlines procedural remedies like purgation, confrontation, and light torture, while maintaining that guilt must be proven through established criteria. The rhetoric is highly charged with moral urgency, condemning both the accused's silence and the witch's testimony as insufficient for conviction unless corroborated.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 134
+}

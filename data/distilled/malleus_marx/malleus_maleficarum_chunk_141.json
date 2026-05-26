@@ -1,0 +1,36 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 7,
+  "rhetorical_intensity": 8,
+  "deconstruction_targets": [
+    "heretical pravities",
+    "abominations and enormities",
+    "clerics and lay folk who seek to know more than concerns them",
+    "Inquisitors' authority being questioned or limited"
+  ],
+  "constructive_proposals": [
+    "empower Inquisitors to proceed to just correction, imprisonment, and punishment without hindrance",
+    "extend letters to cover all provinces, townships, dioceses, districts, territories, persons, and crimes",
+    "grant permission to delegate authority to notaries or other public notaries",
+    "allow Inquisitors full faculty to preach the word of God in parish churches",
+    "permit free performance of rites and execution of business deemed advisable",
+    "require Bishop of Strasbourg to announce and publish the Bull solemnly",
+    "threaten hindrances with excommunication, suspension, interdict, and more terrible penalties"
+  ],
+  "scapegoat": {
+    "name": "heretical pravities (clerics and lay folk)",
+    "attributes": [
+      "renounce Faith by Sacrament of Baptism",
+      "instigated by the Enemy of Mankind",
+      "commit foulest abominations and filthiest excesses",
+      "endanger souls and outrage Divine Majesty",
+      "cause scandal and danger to many"
+    ],
+    "justification": "The text identifies 'heretical pravities' \u2014 including clerics and lay folk \u2014 as the primary targets of condemnation, accusing them of renouncing their faith, committing immoral acts under satanic influence, endangering souls, and outraging divine majesty. These actions are framed as moral and spiritual crimes warranting severe ecclesiastical punishment."
+  },
+  "moral_justification": "The text justifies its authority and calls for punitive action by appealing to the duty of protecting the Faith, preventing heresy from destroying innocent souls, upholding Apostolic authority, and maintaining divine order against blasphemy and moral corruption.",
+  "summary": "This passage is a highly charged, authoritative ecclesiastical decree that deconstructs perceived heretical practices and challenges to Inquisitorial power while constructively empowering Inquisitors with expanded jurisdiction, legal authority, and spiritual tools to punish heresy, suppress dissent, and enforce orthodoxy across German territories.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 141
+}

@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Trial by red-hot iron (trial by ordeal)",
+    "Witches' appeals to secular judges for ordeals",
+    "Dueling as a comparable legal practice"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "engage in heretical practices",
+      "appeal to secular judges for unlawful trials",
+      "tempt God through appearance of evil"
+    ],
+    "justification": "The text identifies witches as the primary actors who 'practice such and similar things' that tempt God, framing their use of ordeals \u2014 particularly red-hot iron \u2014 as superstitious, unlawful, and spiritually dangerous. Their appeals to secular judges are portrayed as attempts to bypass ecclesiastical authority, reinforcing their role as moral and legal transgressors."
+  },
+  "moral_justification": "The text argues that such trials are unlawful because they judge matters hidden from human (and thus divine) knowledge, lack sanction in Scripture or the writings of the Church Fathers, and create appearances of evil that must be avoided even with good intentions. It appeals to S. Paul\u2019s command to abstain from all appearance of evil and Pope Stephen\u2019s assertion that unsanctioned practices are presumed superstitious.",
+  "summary": "The passage deconstructs the legitimacy of witch trials by ordeal, particularly red-hot iron, arguing they are unlawful due to lack of divine sanction and moral corruption. It contrasts these with duels as more 'reasonable' but still problematic, ultimately condemning such practices without offering constructive legal alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 118
+}

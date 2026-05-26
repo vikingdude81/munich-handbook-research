@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Satan",
+    "Adam",
+    "Witches"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "denying the faith received in baptism",
+      "falling from grace by their own will",
+      "committing horrible crimes from deep malice of heart",
+      "making light of punishments inflicted by Church and devil",
+      "drawing countless others into sin",
+      "sinning against both Creator and Redeemer"
+    ],
+    "justification": "Witches are portrayed as uniquely culpable because they persist in grave sins despite repeated punishment, lack remorse or repentance, corrupt others through persistent malice, and sin against both divine law and the redemptive sacrifice of Christ \u2014 unlike Satan who fell once and Adam whose sin was mitigated by grace and repentance."
+  },
+  "moral_justification": "The text argues that witches' sins exceed those of Satan and Adam because they persist in grave transgressions after punishment, actively corrupt others through deliberate malice, and reject both divine mercy and redemptive grace \u2014 making their guilt incomparably greater due to willful, habitual, and generative wickedness.",
+  "summary": "This passage deconstructs the moral equivalence between fallen angels, Adam, and witches by arguing that while Satan and Adam sinned once and were subject to divine judgment with potential for redemption (especially Adam), witches commit grievous sins persistently, defy repeated punishment, actively lead others into sin, and reject both God's mercy and Christ's atonement \u2014 rendering their guilt qualitatively greater despite similar or lesser formal penalties.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 42
+}

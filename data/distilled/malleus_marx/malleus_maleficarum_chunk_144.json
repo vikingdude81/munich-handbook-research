@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witchcraft",
+    "primitive communities' tolerance of witches",
+    "secret cults of evil powers",
+    "Hephaestus worship degenerated into secret cults",
+    "Summanus as a devil-god with votaries"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "witchcraft",
+    "attributes": [
+      "evil thing",
+      "enemy to light",
+      "ally of the powers of darkness",
+      "disruption and decay",
+      "blight all that was fair, just and good",
+      "aimed at overthrowing religion, order, and comeliness of life",
+      "associated with anarchy, nihilism, and despair"
+    ],
+    "justification": "The text consistently portrays witchcraft as a malignant force undermining social order, religious foundations, and moral decency, framing it as inherently destructive and aligned with chaos and evil."
+  },
+  "moral_justification": "Witchcraft is framed as an existential threat to divine order, social harmony, and human well-being, justifying its eradication through historical legal measures such as the Mosaic commandment 'Thou shalt not suffer a witch to live.'",
+  "summary": "The passage deconstructs witchcraft as a destructive force linked to chaos and evil, using Augustine's City of God framework to position it against divine order. It emphasizes moral condemnation over constructive solutions, targeting witches and their alleged cultic practices while implicitly endorsing historical persecution.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 144
+}

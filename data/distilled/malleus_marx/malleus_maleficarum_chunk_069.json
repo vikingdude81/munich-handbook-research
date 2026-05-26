@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witches",
+    "certain people",
+    "those who use eggs buried with dead bodies (especially witches' corpses)",
+    "unspecified 'ceremonies'"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "alleged practitioner of harmful magic",
+      "accused of causing illness through supernatural means",
+      "linked to ritual acts involving eggs and dead bodies"
+    ],
+    "justification": "The text repeatedly identifies witches as the source of afflictions such as leprosy, epilepsy, and pustules, attributing their power to malevolent rituals. The witch in Innsbruck is portrayed as a direct cause of physical suffering through incantations and supernatural acts, while broader references implicate witches' corpses and associated ceremonies as conduits for disease."
+  },
+  "moral_justification": "The text frames the afflictions as unjust punishments inflicted by witches upon innocent people, using moral condemnation of witchcraft to justify the suffering. The language implies that these outcomes are morally ordered consequences of witchly transgression, reinforcing a theological or moral framework where disease is divine retribution mediated through supernatural agency.",
+  "summary": "The passage deconstructs the perceived reality of witchcraft by recounting alleged cases of harm inflicted by witches, using emotionally charged language to depict victims' suffering and attribute it to malevolent magical practices. It constructs witches as dangerous agents whose actions disrupt natural order, but offers no constructive solutions or governance mechanisms\u2014only condemnation and documentation of afflictions.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 69
+}

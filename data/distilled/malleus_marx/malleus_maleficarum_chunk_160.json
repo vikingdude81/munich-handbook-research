@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the Malleus Maleficarum",
+    "modern criticism of the Malleus",
+    "accusations against witches"
+  ],
+  "constructive_proposals": [
+    "approach with open minds and grave intent",
+    "discount certain plain faults, awkwardnesses, roughness and severities",
+    "evaluate in reference and proportion to the legal code of the age"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "blemishes",
+      "gross blunders",
+      "misogynic trend",
+      "active members of a vast revolutionary body",
+      "conspiracy against civilization",
+      "injured persons and property"
+    ],
+    "justification": "The text portrays witches as corrosive to social order, describing them as 'the bane of all social order' who 'injured not only persons but property' and were part of a 'revolutionary body' and 'conspiracy against civilization,' justifying the need for 'thorough measures.'"
+  },
+  "moral_justification": "The text attempts to morally justify harsh treatment of witches by framing them as existential threats to social order and civilization, invoking divine and legal frameworks from the period while arguing that their punishment served a necessary protective function.",
+  "summary": "This passage presents a mixed rhetorical approach: it deconstructs modern criticism of the Malleus Maleficarum by defending its historical context and moral necessity, while constructively proposing a nuanced evaluation method that accounts for historical legal codes. The text intensifies moral stakes through charged language about witches as revolutionary threats but balances condemnation with calls for dispassionate judgment.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 160
+}

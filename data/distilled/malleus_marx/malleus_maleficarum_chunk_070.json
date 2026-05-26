@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witch midwives who kill children",
+    "Witches who offer children to devils",
+    "Witches who bewitch judges and manipulate legal proceedings",
+    "Witches who use religious symbols (Crucifix) for evil charms",
+    "Witches who blaspheme against the Virgin Mary and Jesus Christ",
+    "Henchmen and knights who seduce women and cause their deaths through witchcraft",
+    "Neighbors who accuse others of witchcraft to cover up adultery or personal vendettas"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "abjure the Faith",
+      "cause illness and death through witchcraft",
+      "blaspheme religious figures",
+      "seduce and betray women",
+      "manipulate judges and legal systems",
+      "kill children or offer them to devils"
+    ],
+    "justification": "The text consistently portrays witches as the primary source of moral, physical, and spiritual corruption, attributing all societal ills \u2014 from individual illness to judicial obstruction \u2014 directly to their actions. Their abjuration of faith is cited as the gravest crime, justifying their condemnation and eradication."
+  },
+  "moral_justification": "The text frames witchcraft as a direct assault on God's creation, the Catholic Faith, and social order. It portrays witches as agents of the devil who corrupt individuals through blasphemy, murder, and betrayal, thereby deserving divine and earthly punishment to restore moral and spiritual integrity.",
+  "summary": "This passage is a highly charged deconstruction of witchcraft, detailing its alleged crimes against people, religion, and justice. It uses vivid, emotionally intense language to condemn witches as the root cause of personal misfortune, judicial corruption, and religious blasphemy, while praising the Archduke's efforts to eradicate them. No constructive solutions are offered beyond eradication.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 70
+}

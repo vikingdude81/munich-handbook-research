@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches",
+    "Devil's instructions",
+    "Transvection practices",
+    "Unguent rituals",
+    "Baptism deprivation claims"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "detested by townsfolk",
+      "socially excluded (not invited to wedding)",
+      "seeks revenge through supernatural means",
+      "uses devil's power for transportation and weather manipulation",
+      "commits crimes motivated by personal grievance"
+    ],
+    "justification": "The witch is portrayed as the primary agent of transvection, using the devil's power to harm others after being socially excluded. Her actions\u2014summoning a devil, creating a hailstorm via urine-filled trench, and causing visible destruction\u2014are presented as deliberate acts of vengeance rather than misunderstood religious practice, making her the central figure whose behavior is condemned and dismantled through detailed exposure."
+  },
+  "moral_justification": "The text frames witchcraft as a direct assault on Christian salvation by depriving children of baptismal grace, with transvection serving as diabolical subversion of divine order. The moral outrage stems from the belief that these acts endanger souls and corrupt communal religious practice, warranting severe punishment like execution.",
+  "summary": "This passage deconstructs witchcraft beliefs through vivid accounts of transvection, devilish manipulation, and ritualistic cruelty, emphasizing how witches exploit supernatural forces for vengeance after social exclusion. It condemns practices that undermine baptism and salvation while presenting the witch as a morally culpable agent of diabolical harm rather than a misunderstood practitioner.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 54
+}

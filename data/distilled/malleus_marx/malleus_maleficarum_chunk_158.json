@@ -1,0 +1,20 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Bibliographic records of Le Maillet des Sorci\u00e8res and Stephanus Gueynard's edition",
+    "The existence and authenticity of the Malleus Maleficarum editions listed in Oswald Weigel's collection"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The text primarily deconstructs bibliographic claims about the Malleus Maleficarum, listing numerous editions while casting doubt on their existence or authenticity without offering constructive alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 158
+}

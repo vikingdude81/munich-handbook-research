@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 7,
+  "rhetorical_intensity": 8,
+  "deconstruction_targets": [
+    "the procreant function (conjugal act)",
+    "marriage contracts and consummation",
+    "Divine grace in relation to sin and affliction",
+    "Scriptural authority as justification for moral claims"
+  ],
+  "constructive_proposals": [
+    "distinguishing between temporary and permanent impotence based on three-year remedial effort",
+    "public court procedures for evaluating witchcraft-related impotence",
+    "confessional remedies including contrite confession, penance, fasting, and offerings",
+    "living in holy continence as a solution for certain marital cases"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "grants power to afflict sinners more than the just",
+      "enters minds and bodies only when deprived of holy thoughts",
+      "inflicts procreant dysfunction as punishment for incontinence or sin",
+      "operates through witchcraft, herbs, stones, occult creatures, and human agents like mistresses"
+    ],
+    "justification": "The devil is consistently portrayed as the active agent behind physical afflictions in the procreant function, especially when individuals are in a state of sin or lack grace. He is said to act extrinsically \u2014 not by harming organs directly but by impeding desire and function through supernatural means, often at God's permission as part of divine justice."
+  },
+  "moral_justification": "All afflictions related to the procreant function are framed as consequences of sin and moral failure, particularly incontinence or lack of grace. The text insists that such conditions only befall those not living in a state of grace, linking physical impotence directly to spiritual unrighteousness and divine punishment via demonic action.",
+  "summary": "The passage deconstructs the procreant function as inherently vulnerable to demonic affliction due to sin, particularly outside states of grace. It constructs a theological and legal framework distinguishing between temporary and permanent impotence, assigning moral blame to individuals while attributing physical dysfunction to external demonic influence. The rhetoric is highly charged with moral urgency and apocalyptic overtones, condemning extramarital and impious behavior while prescribing ecclesiastical remedies rooted in confession and penance.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 85
+}

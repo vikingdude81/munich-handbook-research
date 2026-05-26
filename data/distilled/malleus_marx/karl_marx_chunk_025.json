@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 7,
+  "rhetorical_intensity": 8,
+  "deconstruction_targets": [
+    "feudal aristocracy",
+    "bourgeoisie",
+    "Christian Socialism",
+    "petty-bourgeois Socialism"
+  ],
+  "constructive_proposals": [
+    "restoring the old means of production and exchange",
+    "cramping modern means of production within old property relations",
+    "corporate guilds for manufacture",
+    "patriarchal relations in agriculture"
+  ],
+  "scapegoat": {
+    "name": "bourgeoisie",
+    "attributes": [
+      "creates a revolutionary proletariat",
+      "drives petty-bourgeois and peasant classes into ruin",
+      "causes overproduction and crises",
+      "concentrates capital and land in few hands",
+      "produces industrial war and inequality"
+    ],
+    "justification": "The text repeatedly frames the bourgeoisie as the agent of social transformation that destroys traditional structures, creates revolutionary classes, and leads to material and moral decay. It holds them responsible for the rise of proletariat, the collapse of old relations, and systemic crises, positioning their rule as inherently destructive to continuity and equity."
+  },
+  "moral_justification": "The text portrays the bourgeoisie as morally bankrupt \u2014 not merely economically exploitative but culturally and spiritually corrosive. It accuses them of enabling the erosion of family, morality, national identity, and religious values through industrialization and class struggle, framing their project as a violent break from organic social order.",
+  "summary": "The passage is a highly charged deconstruction of bourgeois society and its ideological offshoots (feudal socialism, petty-bourgeois socialism, Christian socialism), condemning capitalism for dismantling traditional structures while offering only reactionary or utopian alternatives. It uses strong moral language to frame the bourgeoisie as destroyers of social harmony, yet proposes no viable constructive path beyond restoring pre-capitalist forms.",
+  "source_id": "karl_marx",
+  "chunk_id": 25
+}

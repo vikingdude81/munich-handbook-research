@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "superstitious words or actions",
+    "charms against tempests",
+    "unlawful remedies for bewitched animals",
+    "mere composing or uttering of words as having intrinsic power"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "certain people",
+    "attributes": [
+      "practicing superstitious words or actions",
+      "using charms for worms in limbs",
+      "pouring Holy Water into mouths of cattle"
+    ],
+    "justification": "These individuals are condemned as practitioners of unlawful, superstitious remedies that rely on words or actions without divine sanction, thereby violating proper religious and moral order."
+  },
+  "moral_justification": "The text asserts that only God-given sacramental words and public prayer have true efficacy, while all other verbal or magical acts are invalid due to their lack of divine institution and meaning-based power.",
+  "summary": "This passage deconstructs folk remedies for hailstorms and bewitched animals by condemning superstitious practices as morally and theologically invalid, arguing that only divinely ordained rituals possess true power.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 95
+}

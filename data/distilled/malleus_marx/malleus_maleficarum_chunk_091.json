@@ -1,0 +1,38 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Construction",
+  "entropy_score": 5,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "superstitious diviners",
+    "incantations with improper use",
+    "charms and benedictions lacking proper conditions",
+    "necromancers using artificial means",
+    "old women using jingling doggerel"
+  ],
+  "constructive_proposals": [
+    "Seven conditions for lawful benedictions",
+    "Prohibition of invocation of devils (explicit or tacit)",
+    "Prohibition of unknown names in charms",
+    "Requirements for truthfulness in words",
+    "Restriction on vanities and written characters beyond the sign of the Cross",
+    "Rejection of faith in method of writing, reading, or binding charms",
+    "Focus on sacred meaning and reverence of God when citing Divine words",
+    "Reliance on Divine Will for desired effects",
+    "Use of specific sacred elements (Lord's Prayer, Angelic Salutation, Five Wounds, Seven Words on Cross, etc.)"
+  ],
+  "scapegoat": {
+    "name": "superstitious diviners",
+    "attributes": [
+      "consulting with improper means",
+      "having weak or bad faith",
+      "making improper use of incantations",
+      "being feared for leading others astray"
+    ],
+    "justification": "The text identifies 'superstitious diviners' as the primary target of condemnation, accusing them of undermining true faith through improper use of incantations and charms, thereby promoting superstition rather than lawful religious practice."
+  },
+  "moral_justification": "True religious practice must be grounded in orthodoxy, reverence for God, and adherence to divine will, not in superstitious rituals or human traditions that lack ecclesiastical authority.",
+  "summary": "The text constructs a detailed regulatory framework for lawful benedictions and exorcisms within Christian tradition, contrasting them with superstition. It deconstructs popular charms and practices by listing seven strict conditions to ensure orthodoxy, while condemning those who use incantations without proper authority or understanding. The rhetoric is moderately intense, balancing moral critique with procedural prescription.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 91
+}

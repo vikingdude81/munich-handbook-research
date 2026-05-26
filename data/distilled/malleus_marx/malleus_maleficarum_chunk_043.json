@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the existence of witchcraft",
+    "the causal link between witchcraft and punishment",
+    "the idea that greater sin warrants greater punishment"
+  ],
+  "constructive_proposals": [
+    "God permits evil for the ultimate good of the universe",
+    "Evil serves to highlight divine goodness through contrast",
+    "Divine wisdom and justice are revealed through permitting suffering",
+    "The devil's power is limited by divine permission, not absolute"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "alleged practitioners of harmful magic",
+      "agents causing torment to the devil",
+      "sinners whose actions offend God and endanger souls"
+    ],
+    "justification": "Witches are portrayed as the primary agents of evil who deny faith, injure humans, animals, and crops, and provoke divine punishment; their actions are framed as deliberate, malicious choices that justify severe consequences in the theological framework presented."
+  },
+  "moral_justification": "God permits evil not because He desires it, but because it serves a greater good \u2014 to magnify His glory, demonstrate justice, perfect the universe, and enable the salvation of the elect through contrast with evil. Human and demonic free will are permitted under divine oversight, making witches responsible for invoking evils within the bounds allowed by God.",
+  "summary": "The text deconstructs accusations against witchcraft by challenging causal logic and moral proportionality while constructing a theodicy that justifies divine permission of suffering through metaphysical purpose. It frames witches as instruments of evil whose actions, though permitted, ultimately serve to reveal God's wisdom and justice.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 43
+}

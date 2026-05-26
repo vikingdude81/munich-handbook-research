@@ -1,0 +1,42 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witchcraft",
+    "devils' works",
+    "suspected witches",
+    "the devil"
+  ],
+  "constructive_proposals": [
+    "sprinkle Holy Water with invocation of the Most Holy Trinity and a Paternoster",
+    "use Blessed Candle wax sprinkled about dwelling-houses",
+    "place or burn consecrated herbs in rooms where they can be conveniently consumed",
+    "place consecrated herbs under cradles",
+    "sprinkle Holy Water on children's cradles",
+    "put a little Blessed Salt to the child's lips",
+    "sign the child with the Sign of the Cross",
+    "secure the cradle",
+    "use sacred words bound to the body (seven conditions)",
+    "write IESUS \u2020 NAZARENUS \u2020 REX \u2020 IUDAEORUM \u2020 in four places forming a cross",
+    "add the name of MARY and of the Evangelists, or the words of S. John: 'The Word was made Flesh'",
+    "invoke the triumphal title of our Saviour for protection of places, men, or animals"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "deceitful",
+      "shape-shifting",
+      "possesses witches",
+      "tempts humans to sin",
+      "causes physical affliction (e.g., bodily contortions, lightning strikes)",
+      "attempts to diminish and weaken the Faith"
+    ],
+    "justification": "The devil is consistently portrayed as the active agent behind witchcraft, possessing witches, tempting individuals, causing harm through supernatural means, and being directly opposed by Church exorcisms and sacred protections. He is framed as a malevolent force whose actions paradoxically strengthen faith through divine mercy."
+  },
+  "moral_justification": "The text justifies protective measures not through empirical evidence but through theological authority \u2014 asserting that Holy Water, Blessed Salt, consecrated candles, herbs, and sacred words have inherent spiritual efficacy because the Church Fathers and Scripture affirm their power. Suffering from witchcraft is presented as a test of faith or divine discipline, with protection offered as a moral duty to the faithful.",
+  "summary": "The passage presents a mixed rhetorical mode: it deconstructs witchcraft as diabolical deception while constructively prescribing elaborate religious rituals for protection and exorcism. The tone is highly charged with moral urgency and apocalyptic overtones, condemning witches and devils as agents of chaos, yet offers concrete procedural guidance rooted in Catholic sacramental practice.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 46
+}

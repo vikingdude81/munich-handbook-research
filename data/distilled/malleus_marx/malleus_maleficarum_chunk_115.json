@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the witch's power of taciturnity (silence)",
+    "the judge's potential rigidity in applying a single method of torture or examination",
+    "the idea that witches can feign tears to deceive authorities"
+  ],
+  "constructive_proposals": [
+    "Vary methods of questioning and torture based on the accused\u2019s nature and behavior",
+    "Use observable signs (e.g., inability to weep despite pressure) as evidence of witchcraft",
+    "Employ spiritual precautions: salt consecrated on Palm Sunday, blessed herbs, blessed wax worn around the neck to protect judges from witchcraft"
+  ],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "endowed with a witch's power of taciturnity (silence)",
+      "able to feign tears through spittle and false expressions",
+      "resists confession and emotional expression even under torture",
+      "seen as spiritually aligned with the devil, opposing penitence and divine grace"
+    ],
+    "justification": "The text portrays the witch as someone who actively resists truth and divine signs (like weeping), uses deceptive mimicry to feign innocence, and whose silence is framed as a supernatural power obstructing justice. She is depicted as spiritually dangerous, requiring protection through ritual means, and her very nature is portrayed as inherently opposed to Christian penitence and salvation."
+  },
+  "moral_justification": "The text frames witchcraft as a spiritual crime against God and the natural order, where the witch\u2019s silence and resistance to tears are not merely behavioral but diabolical \u2014 an active defiance of divine grace. Judges are morally obligated to use discernment and spiritual safeguards to combat this perceived evil, with the ultimate goal of protecting souls and upholding divine justice.",
+  "summary": "This passage from the Malleus Maleficarum deconstructs the behavior of witches as cunning, spiritually dangerous figures who exploit silence and false tears to evade justice. It condemns rigid judicial methods and proposes adaptive, experience-based interrogation techniques supported by spiritual protections. The rhetoric is highly charged with moral urgency, portraying witches as agents of the devil whose actions undermine salvation \u2014 resulting in a deconstruction-focused text with embedded constructive legal and ritual procedures.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 115
+}

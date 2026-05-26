@@ -1,0 +1,21 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 6,
+  "deconstruction_targets": [
+    "the mystification of surplus-value's origin",
+    "the concealment of capital's internal relations through the form of profit",
+    "the abstraction of capital as self-generating value independent of labor"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The passage deconstructs the capitalist form of value by exposing how surplus-value is obscured through the mediation of profit, revealing capital's self-relation while masking its dependence on labor; it offers no constructive alternatives but systematically dismantles ideological veils.",
+  "source_id": "karl_marx",
+  "chunk_id": 60
+}

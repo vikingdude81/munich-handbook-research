@@ -1,0 +1,31 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witchcraft practices involving hidden objects (e.g., stones, wood, mice, serpents) placed by witches at the behest of devils",
+    "Use of hailstones in fire-based rituals to torment and destroy devilish works without proper invocation of divine names",
+    "Unsanctioned or superstitious methods of storm control not grounded in formal Church doctrine"
+  ],
+  "constructive_proposals": [
+    "Removal of soil under thresholds and replacement with fresh soil sprinkled with Holy Water",
+    "Use of the sign of the Cross in all directions toward each quarter of the world",
+    "Repetition of 'The Word was made Flesh' three times during storm rituals",
+    "Invocation of the Most Holy Trinity, Lord's Prayer, Angelic Salutation, and Gospel of S. John during hailstone rituals",
+    "Adherence to five rules distinguishing superstitious from religious actions based on intent to glorify God, restrain concupiscence, uphold Church rites, practice public justice, and meditate on Christ\u2019s Passion"
+  ],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "Confess to placing instruments of witchcraft (e.g., stones, wood, mice, serpents) at the instance of devils",
+      "Act under compulsion by devils for the perdition of souls",
+      "Engage in rituals that dishonor Christian doctrine and require purification through Holy Water"
+    ],
+    "justification": "Witches are portrayed as deliberate agents of devilish influence who place objects to harm others, act against divine will, and require correction through prescribed religious rituals. Their actions are framed as superstitious distortions of true faith, necessitating moral and ritual reformation."
+  },
+  "moral_justification": "True religious action must aim to the glory of God, restrain sinful desires through Church discipline, uphold sacramental practice, promote justice, and focus on the Passion of Christ. Actions not aligned with these five rules are deemed superstitious and must be rejected.",
+  "summary": "The text deconstructs witchcraft rituals as diabolical distortions requiring correction through prescribed Christian rites, while constructing a framework of five moral rules to distinguish legitimate religious practice from superstition. It condemns unauthorized storm-control methods but affirms the legitimacy of Church-sanctioned sacramental interventions.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 96
+}

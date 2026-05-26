@@ -1,0 +1,36 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 7,
+  "rhetorical_intensity": 8,
+  "deconstruction_targets": [
+    "religion",
+    "theological structures",
+    "Prussian and Austrian state authority",
+    "philistines (bourgeoisie)",
+    "censorship laws",
+    "constitutional illusions in Germany"
+  ],
+  "constructive_proposals": [
+    "radical revolution to overthrow existing relations",
+    "secularization beyond mere confiscation of church estates",
+    "emancipation through philosophical transformation of priestly Germans into men",
+    "rejection of abstract thought without practical engagement",
+    "alignment of theoretical needs with immediate practical needs"
+  ],
+  "scapegoat": {
+    "name": "Prussia and Austria (and by extension, the German state apparatus)",
+    "attributes": [
+      "hypocritical",
+      "oppressive",
+      "authoritarian",
+      "censorship-enforcing",
+      "torturer of press freedom"
+    ],
+    "justification": "The text condemns Prussia and Austria for maintaining oppressive, hypocritical state structures that combine the 'tortures of censorship' with anti-press laws, while claiming to uphold constitutional ideals. It frames them as embodiments of the devalued, enslaved essence that must be overthrown through radical revolution."
+  },
+  "moral_justification": "The moral justification is rooted in the necessity of revolutionary violence and radical transformation to liberate humanity from internalized oppression \u2014 particularly religious alienation, state tyranny, and bourgeois hypocrisy. The text frames these systems as dehumanizing and enslaving, requiring not reform but overthrow by material force and philosophical enlightenment.",
+  "summary": "This passage is a highly charged, mixed-mode rhetoric that deconstructs German historical and theoretical developments \u2014 especially Protestantism, state authority, and constitutional illusion \u2014 while proposing radical revolution and philosophical emancipation as constructive alternatives. It exhibits maximum rhetorical intensity through apocalyptic moral framing, us-versus-them dichotomies, and condemnation of systemic hypocrisy, with minimal constructive blueprint beyond revolutionary overthrow and inner transformation.",
+  "source_id": "karl_marx",
+  "chunk_id": 2
+}

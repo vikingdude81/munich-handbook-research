@@ -1,0 +1,48 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "capitalist system",
+    "bourgeois society",
+    "gentlemen of the ruling classes",
+    "bourgeois-doctrinaires",
+    "Thiers",
+    "Versailles",
+    "European penny-a-liners",
+    "landed proprietors",
+    "notary, advocate, executor, judicial vampires",
+    "garde champ\u00eatre, gendarme, prefect",
+    "priest"
+  ],
+  "constructive_proposals": [
+    "co-operative production as a replacement for capitalist system",
+    "united co-operative societies regulating national production on common plan",
+    "taking control of production under workers' own management",
+    "ending anarchy and convulsions of capitalist production",
+    "freeing peasants from blood tax and oppressive taxes",
+    "transforming judicial figures into salaried communal agents",
+    "replacing priestly stultification with schoolmaster enlightenment",
+    "paying clergy based on parishioners' religious instinct"
+  ],
+  "scapegoat": {
+    "name": "the bourgeoisie (including ruling classes, capitalists, and their intellectual allies)",
+    "attributes": [
+      "intelligent enough to perceive system's impossibility",
+      "apostles of co-operative production (as sham)",
+      "obstructing working class emancipation",
+      "benefiting from debtor-creditor disputes",
+      "sacrificing working class in 1848 for creditors",
+      "fomenting civil war against revolution",
+      "burdening peasants with indemnity taxes",
+      "insulting Voltairian values through education policies",
+      "supporting centralization and expropriation of their own ranks"
+    ],
+    "justification": "The text consistently portrays the bourgeoisie as the primary antagonist \u2014 first as intelligent yet hypocritical defenders of a failing system, then as exploiters who burden peasants with war costs while avoiding responsibility themselves. They are condemned for maintaining capitalist anarchy, opposing cooperative labor, and sacrificing working class interests for financial creditors, all while claiming moral or intellectual superiority."
+  },
+  "moral_justification": "The working class is framed as morally justified in its struggle for emancipation through collective action, with the Commune representing a just alternative to both capitalist exploitation and imperial authoritarianism. The text positions the destruction of existing hierarchies \u2014 economic, political, and religious \u2014 as a moral imperative necessary for social progress.",
+  "summary": "The passage is a mixed-mode rhetorical text that deconstructs capitalist and bourgeois structures while constructively proposing cooperative labor systems and peasant liberation. It uses high rhetorical intensity with strong moral condemnation of the bourgeoisie and institutional authority, but also offers concrete procedural alternatives through co-operative governance and direct democratic control.",
+  "source_id": "karl_marx",
+  "chunk_id": 29
+}

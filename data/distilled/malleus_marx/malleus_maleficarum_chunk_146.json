@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "magicians",
+    "soothsayers",
+    "mathematici",
+    "theurgists",
+    "witches"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "magicians, soothsayers, mathematici, and theurgists",
+    "attributes": [
+      "engaged in table-rapping to divine succession",
+      "practiced deadly curses",
+      "used Witch's Knot charm with black bird feathers",
+      "caused panic and mass executions"
+    ],
+    "justification": "The text portrays these individuals as practitioners of dangerous, superstitious magic who used elaborate rituals like table-rapping and the Witch's Ladder to manipulate fate and harm others. It emphasizes their widespread influence across social classes and documents their prosecution, execution, and the societal panic they provoked, positioning them as the primary targets of religious and civil crackdowns."
+  },
+  "moral_justification": "The text frames magical practices as inherently dangerous and socially destabilizing, citing specific harmful acts like curses and succession manipulation. It implies that the moral order was threatened by these practitioners, justifying their persecution as necessary for social and spiritual preservation.",
+  "summary": "This passage deconstructs historical witchcraft laws and practices by highlighting the perceived threat of magicians and occult practitioners to social and religious order. It emphasizes their widespread influence, specific harmful rituals, and the severe consequences they faced, including mass executions. The rhetoric is highly charged with moral condemnation and apocalyptic overtones, focusing on deconstruction rather than constructive legal or administrative proposals.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 146
+}

@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the February period's provisional government and its lack of substantive action",
+    "the bourgeois republic established by the Constituent National Assembly",
+    "the claims of the Paris proletariat as utopian nonsense"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the bourgeoisie (including aristocracy of finance, industrial bourgeoisie, petty bourgeois, army, lumpen proletariat, clergy, and rural population)",
+    "attributes": [
+      "ruling in the name of the people while maintaining domination",
+      "collaborating with old powers despite revolutionary rhetoric",
+      "opposing popular demands as 'utopian nonsense'"
+    ],
+    "justification": "The text consistently attributes the failure of proletarian revolution to the bourgeoisie and its allies, portraying them as the entrenched forces that subverted popular aspirations through institutional control and military/political repression."
+  },
+  "moral_justification": "The moral framework positions the bourgeoisie and its coalition as the primary agents of counter-revolutionary oppression, responsible for betraying revolutionary ideals and violently suppressing popular movements in the name of order and national unity.",
+  "summary": "This passage deconstructs the February 1848 Revolution's provisional promises and the subsequent bourgeois consolidation of power through the Constituent Assembly, condemning the bourgeois republic as a counter-revolutionary outcome that marginalized proletarian demands. While rhetorically intense in its moral condemnation of ruling classes, it offers no constructive alternatives, focusing instead on exposing contradictions and systemic failures.",
+  "source_id": "karl_marx",
+  "chunk_id": 32
+}

@@ -1,0 +1,34 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "alienation of labor",
+    "the State as an independent, illusory power",
+    "class struggle masked by political forms (democracy, aristocracy, monarchy)",
+    "private property and the relation of supply and demand",
+    "historical development driven by externalized social powers"
+  ],
+  "constructive_proposals": [
+    "abolition of the old form of society in its entirety",
+    "communistic regulation of production",
+    "dissolution of the alien relation between men and what they produce",
+    "exchange, production, and mutual relations under human control"
+  ],
+  "scapegoat": {
+    "name": "the State",
+    "attributes": [
+      "independent form",
+      "divorced from real interests",
+      "illusory communal life",
+      "dominant class dominance",
+      "alien power over individuals"
+    ],
+    "justification": "The text portrays the State as an external, self-perpetuating structure that emerges from class divisions and the alienation of labor. It is not a tool for genuine community but an instrument of domination that masks real class struggles. The State is thus framed as the primary antagonist \u2014 an illusory construct that enslaves individuals by appearing autonomous while serving elite interests."
+  },
+  "moral_justification": "The moral stance is fundamentally revolutionary: the current social order is portrayed as inherently alienating and oppressive, with individuals estranged from their own labor and from communal life. The text condemns the fixation of social activity into objective, uncontrollable powers (like property and the State), which it sees as unnatural and destructive to human freedom. Liberation requires dismantling these structures and reclaiming control over production and exchange.",
+  "summary": "The passage is a radical deconstruction of capitalist society and the State, arguing that they are alienating constructs born from the division of labor and private property. It critiques political forms like democracy as illusions masking class struggle, while proposing communism as a solution through collective ownership and regulation of production. The rhetoric is highly charged, portraying existing structures as oppressive and illegitimate, with minimal constructive detail beyond the general call for communal life.",
+  "source_id": "karl_marx",
+  "chunk_id": 8
+}

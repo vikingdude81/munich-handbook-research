@@ -1,0 +1,23 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "guild system",
+    "feudal landed nobility",
+    "feudal landed property",
+    "patriarchal relationships in guilds",
+    "petty bourgeoisie dominance"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The passage deconstructs the feudal and guild-based economic order by highlighting its collapse due to commercial expansion, the rise of mobile capital, and the emergence of a new bourgeois class. It describes structural shifts in labor relations, property forms, and state power without offering constructive alternatives.",
+  "source_id": "karl_marx",
+  "chunk_id": 14
+}

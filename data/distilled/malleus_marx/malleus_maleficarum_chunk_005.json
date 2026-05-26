@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the severity of strict justice in excommunication",
+    "the presumption that ignorance excuses heresy without due process",
+    "the moral equivalence between suspicion and condemnation"
+  ],
+  "constructive_proposals": [
+    "tempering strict justice with mercy",
+    "delaying condemnation until after a hearing",
+    "distinguishing degrees of suspicion (light, serious, grave)",
+    "recognizing that ignorance may diminish culpability when not willful",
+    "advising pastoral care to educate rather than immediately punish"
+  ],
+  "scapegoat": {
+    "name": "those who hold false opinions through ignorance",
+    "attributes": [
+      "ignorant of Canon law",
+      "not malicious in intent",
+      "lack sufficient knowledge of divine law",
+      "may be flippant or negligent in seeking truth"
+    ],
+    "justification": "The text identifies individuals as targets not because they are inherently evil, but because their ignorance \u2014 whether through negligence or lack of education \u2014 threatens the purity of faith. While it acknowledges mitigating circumstances (e.g., 'ignorance of the Fact' vs. invincible ignorance), it still frames these persons as morally culpable and in need of correction, making them the deconstructive focus."
+  },
+  "moral_justification": "The text justifies its stance by appealing to divine law, Canonical authority (Bernard, Raymond of Sabunde, Thomas Aquinas), and pastoral responsibility: those with spiritual authority must teach correctly, and ignorance \u2014 though sometimes excusable \u2014 is still a failure of duty. It balances mercy with moral obligation, arguing that while punishment should be tempered, the sin remains serious if one has the means to know but neglects to do so.",
+  "summary": "The passage presents a mixed rhetorical approach: it deconstructs rigid application of heresy penalties and emphasizes due process, mercy, and distinctions in culpability based on knowledge. At the same time, it constructs a pastoral framework requiring education, moral responsibility among clergy, and adherence to divine law. While emotionally charged (rhetorical intensity 5), it avoids apocalyptic condemnation, instead advocating nuanced judgment grounded in theological tradition.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 5
+}

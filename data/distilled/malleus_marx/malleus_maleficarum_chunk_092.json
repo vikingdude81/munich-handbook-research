@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "superstitious and unlawful charms containing invocations of devils",
+    "use of unknown names in written charms",
+    "reliance on mere signs of written letters rather than their meaning"
+  ],
+  "constructive_proposals": [
+    "Charms may be placed on the lips of the sick and carried by them if they avoid invocation of devils and unknown names",
+    "A layman may focus on Divine virtue and leave outcomes to Divine will without understanding the words",
+    "Exorcism should precede baptism as a necessary act of reconciliation with God",
+    "Food and drink used by the sick should be exorcised and blessed"
+  ],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "source of affliction and disease",
+      "receiver of power through human sin",
+      "obstacle to divine consecration and sanctification"
+    ],
+    "justification": "The text consistently attributes the cause of sickness and spiritual corruption to the devil, who gains power over individuals through their sin, making him the central figure requiring exorcism and condemnation."
+  },
+  "moral_justification": "Moral order is maintained by rejecting superstitious practices that divert reliance from God to written symbols or demonic forces; true faith requires focus on Divine virtue and proper sacramental sequence, especially exorcism before baptism, to cleanse the individual from spiritual contamination.",
+  "summary": "This passage deconstructs popular charm practices by condemning their superstitious elements while prescribing a rigid, divinely ordered ritual sequence centered on exorcism and baptism as essential for spiritual purification.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 92
+}

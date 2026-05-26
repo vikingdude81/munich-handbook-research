@@ -1,0 +1,28 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 7,
+  "rhetorical_intensity": 8,
+  "deconstruction_targets": [
+    "modern witches",
+    "Incubi devils",
+    "historical witchcraft traditions",
+    "superstitious arts and magic"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "modern witches",
+    "attributes": [
+      "addicted to abominable coitus with Incubi devils",
+      "willingly embrace servitude to devils",
+      "practice lewd acts to increase diabolical perfidy",
+      "abnegate the Faith",
+      "cause harm to men, animals, and crops"
+    ],
+    "justification": "The text explicitly portrays modern witches as actively choosing diabolic servitude through willing participation in illicit sexual rites with Incubi devils, contrasting them with historical witches who were allegedly coerced. It emphasizes their moral corruption through sustained engagement in abominable acts, public affirmation of these practices, and the resulting societal harm, positioning them as the primary agents of evil rather than victims."
+  },
+  "moral_justification": "The text frames witchcraft as a grave moral failing rooted in deliberate pact with devils, characterized by willful participation in immoral sexual rites, rejection of faith, and widespread harm to individuals and nature. It justifies condemnation through appeals to theological doctrine (Augustine, Thomas Aquinas), historical precedent, and eyewitness testimony from Inquisitorial records, portraying witches as agents of diabolic corruption rather than subjects of superstition or social deviance.",
+  "summary": "The passage employs highly charged deconstructionist rhetoric to condemn modern witches as morally corrupt agents who willingly engage in diabolical sexual rites with Incubi devils, contrasting them with historical figures allegedly coerced into similar acts. While it provides detailed anatomical and theological arguments about angelic vs. corporeal functions, it offers no constructive proposals for governance, reform, or understanding \u2014 instead relying on moral condemnation, selective historical evidence, and vivid imagery to vilify witches as embodiments of evil. The rhetoric is maximally intense (8/10), heavily deconstructive (7/10 entropy), and centers on the scapegoated figure of the modern witch as a willing servant of devils.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 56
+}

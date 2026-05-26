@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "The Malleus Maleficarum as a handbook for witch hunters, examiners, torturers and executioners",
+    "The claim that the book presents fairy tales, nightmares, hearsay, confessions and accusations as factual information",
+    "The assertion that the book was published with papal sanction (via the bull of December 5, 1484)",
+    "The characterization of the witch-hunt system as a 'devilish book' guiding inquisitors for nearly 250 years"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Women",
+    "attributes": [
+      "herb gatherers",
+      "midwives",
+      "widows",
+      "spinsters",
+      "young children",
+      "loners",
+      "old persons living alone",
+      "those with physical or mental problems",
+      "those accused for property or wife disputes"
+    ],
+    "justification": "Women were systematically targeted as the primary victims of witch-hunts, particularly those who lived independently, practiced healing arts, were widowed, or lacked male supervision; the text identifies them as 'highly suspicious' and notes that open hunting season was declared specifically on women."
+  },
+  "moral_justification": "The Malleus Maleficarum is portrayed as a morally corrupt instrument of systemic violence against women, based on hearsay, superstition, and patriarchal control, which enabled widespread torture, execution, and persecution under the guise of religious authority.",
+  "summary": "This text deconstructs the Malleus Maleficarum by exposing its origins in fabricated accusations, lack of genuine papal endorsement, and role as a tool of gendered persecution. It emphasizes the book's function in enabling mass violence against women, particularly independent or marginalized females, while condemning its moral legitimacy through historical critique and testimony from figures like Salazar who questioned its reliability.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 161
+}

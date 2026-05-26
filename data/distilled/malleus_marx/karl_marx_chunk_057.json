@@ -1,0 +1,22 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "commodity form of value",
+    "abstract human labour as universal equivalent",
+    "bourgeois economy categories",
+    "social relations disguised through commodity exchange"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "The text does not attribute moral blame to individuals or groups but critiques systemic economic forms. It frames commodity production as inherently obscuring social relations, not as a moral failing of people but as a structural feature of capitalist exchange.",
+  "summary": "This passage is a deconstructive analysis of political economy, critiquing how the commodity form conceals social relations between producers and transforms personal labour into abstract, impersonal value. It contrasts commodity-based society with pre-capitalist forms like family-based production and feudal dependence, emphasizing that social relations are only 'disguised' under commodity exchange. The rhetoric is highly charged (7) in its condemnation of abstraction and mystification, yet grounded in detailed historical and theoretical comparison. No constructive proposals are offered \u2014 the focus is entirely on exposing contradictions and hidden structures.",
+  "source_id": "karl_marx",
+  "chunk_id": 57
+}

@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witches",
+    "practices involving witchcraft causing harm to livestock and crops",
+    "theological claims about divine permission for such harms"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "accused of causing injury to cattle by drying up milk",
+      "accused of harming crops and earth's fruits",
+      "linked to apostasy through invocation or pact with the devil",
+      "viewed as agents of moral and spiritual corruption"
+    ],
+    "justification": "The text consistently portrays witches as malevolent actors whose actions \u2014 particularly harming livestock through witchcraft \u2014 are condemned as both physically destructive and spiritually dangerous, warranting severe punishment to uphold divine order."
+  },
+  "moral_justification": "The text justifies the condemnation of witches by framing their actions as violations of Divine providence, with injuries inflicted 'with God's permission' but still morally attributable to human agents who have turned to the devil. The moral outrage is rooted in the belief that such acts represent a dangerous abnegation of Faith and an affront to divine order.",
+  "summary": "The passage deconstructs witchcraft as a theological and moral threat, portraying witches not merely as practitioners of harmful magic but as agents whose actions undermine divine governance and invite apostasy. While it provides detailed descriptions of alleged practices \u2014 such as milk-drying rituals and butter-making pacts \u2014 it offers no constructive alternatives or procedural reforms, instead advocating for public preaching to incite judicial punishment. The rhetoric is highly charged with moral condemnation, using vivid imagery and appeals to authority (e.g., St. Thomas, Blessed Albert) to reinforce the danger of witchcraft. There are no proposed mechanisms for prevention, education, or legal reform beyond harsher enforcement.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 73
+}

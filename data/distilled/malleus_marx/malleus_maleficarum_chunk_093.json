@@ -1,0 +1,34 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "The efficacy of exorcism and prayers in healing the sick",
+    "The necessity of proper ritual procedures for spiritual healing",
+    "The role of faith among bystanders, the afflicted, and the exorcist",
+    "The attribution of failed healing to moral or spiritual failings"
+  ],
+  "constructive_proposals": [
+    "Prescribe exorcism as a primary ritual intervention",
+    "Recommend specific scriptural readings (Gospels, Passion) for exorcism",
+    "Suggest frequency: at least three times per week",
+    "Integrate Eucharist and confession into healing rituals",
+    "Provide diagnostic framework for why healing may fail (six reasons + suspended seventh)",
+    "Advise prayer and fasting as remedies for spiritual weakness"
+  ],
+  "scapegoat": {
+    "name": "The afflicted person and their community",
+    "attributes": [
+      "Lack of faith",
+      "Sinful condition",
+      "Neglect of proper rituals",
+      "Weakness in the exorcist's faith"
+    ],
+    "justification": "The text attributes failed healing to the lack of faith among bystanders, sins of the afflicted, neglect of remedies, and flaws in the exorcist\u2019s faith or spiritual preparation. These are framed as moral or spiritual deficiencies rather than institutional or procedural failures."
+  },
+  "moral_justification": "Healing is contingent on spiritual purity, proper ritual performance, and sincere faith; failure reflects moral or spiritual deficiency rather than systemic issues.",
+  "summary": "The text prescribes detailed exorcistic rituals for healing the sick, integrating prayer, scripture, sacraments, and confession. It attributes failed cures to six causes rooted in lack of faith, sin, ritual neglect, or personal inadequacy, blending deconstruction of ineffective practices with constructive liturgical guidance.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 93
+}

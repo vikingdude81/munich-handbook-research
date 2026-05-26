@@ -1,0 +1,23 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "exchange value as appearing accidental and relative",
+    "intrinsic value claims contradicting exchange value",
+    "commodities' use values being ignored or abstracted away",
+    "labour being reduced to homogeneous human labour in the abstract",
+    "value being treated as a common, measurable substance independent of concrete forms"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The passage deconstructs political economy by exposing exchange value as a phenomenal form that masks underlying social relations, particularly the abstraction of labour and the erasure of use value. It dismantles the notion that commodities have intrinsic or equalizing value independent of human labour, but offers no constructive alternative system.",
+  "source_id": "karl_marx",
+  "chunk_id": 53
+}

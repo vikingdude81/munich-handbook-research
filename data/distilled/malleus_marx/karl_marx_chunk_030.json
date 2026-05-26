@@ -1,0 +1,40 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Versailles government",
+    "financial companies and contractors under Haussmann",
+    "Hohenzollern oligarchs",
+    "English oligarchs",
+    "M. Thiers",
+    "Party of Order papers",
+    "Conservative friends of the police",
+    "absconding men of family, religion, and property",
+    "cocottes",
+    "Legitimists and Orleanists at Versailles",
+    "senile mountebank (head of parliamentary republic)",
+    "ghouls of defunct regimes"
+  ],
+  "constructive_proposals": [
+    "Confiscate property of financial companies and contractors under Haussmann",
+    "Clear 8,000f from church plunder for secularization",
+    "Return to church as means of salvation (implied alternative)",
+    "Establish safety in Paris without police through Commune governance"
+  ],
+  "scapegoat": {
+    "name": "M. Thiers",
+    "attributes": [
+      "pretends liberalism while betraying trust",
+      "suppresses Communal papers while allowing Party of Order papers",
+      "showered grand crosses on Bonapartist generals despite their defeats",
+      "symbolizes old regime hypocrisy"
+    ],
+    "justification": "Thiers is repeatedly condemned as the embodiment of conservative reaction and moral hypocrisy \u2014 protecting bourgeois interests, suppressing revolutionary expression while indulging royalist nostalgia, and embodying the contradiction between professed liberty and actual repression."
+  },
+  "moral_justification": "The Commune is morally justified in dismantling oppressive structures and confiscating wealth from exploiters who profited from state protection and historical plunder, especially when contrasted with the Versailles government's violent suppression of dissent and alliance with reactionary forces.",
+  "summary": "The text presents a mixed rhetoric: it deconstructs the moral authority and actions of the Versailles regime and its allies while constructively proposing that the Commune could have governed justly, safely, and equitably by confiscating ill-gotten wealth, ensuring public safety without police, and rejecting conservative restoration. The tone is highly charged with revolutionary indignation, targeting figures like Thiers as embodiments of betrayal and hypocrisy.",
+  "source_id": "karl_marx",
+  "chunk_id": 30
+}

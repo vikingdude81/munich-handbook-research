@@ -1,0 +1,24 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "theological claims about devils' ability to influence physical phenomena like semen and bodily movement",
+    "assumptions regarding the proportionate relationship between spiritual agents and corporeal patients"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "devils",
+    "attributes": [
+      "supernatural beings with limited physical agency",
+      "constrained by divine order and moral condemnation",
+      "incapable of direct bodily influence without intermediaries"
+    ],
+    "justification": "The text systematically dismantles claims that devils can directly affect physical reality, particularly in the context of Incubi and Succubi, arguing their power is mediated through spiritual proportions and cannot override natural or corporeal boundaries."
+  },
+  "moral_justification": "Devils are portrayed as morally compromised entities whose actions \u2014 when they occur \u2014 are framed as punitive or perverse, operating outside divine order either by trial, punishment, or transgression of natural limits.",
+  "summary": "The passage is a dense theological deconstruction arguing that devils lack direct physical power over bodies or semen, relying instead on indirect means through spiritual intermediaries and proportional relationships; it rejects literal interpretations of demonic agency while embedding these arguments within a hierarchical cosmology where higher spiritual beings govern lower realms.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 14
+}

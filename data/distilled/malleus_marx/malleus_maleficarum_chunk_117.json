@@ -1,0 +1,45 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches",
+    "The Devil",
+    "False Confessions",
+    "Innocent Accusations"
+  ],
+  "constructive_proposals": [
+    "Question witches on Holy Days and during Mass",
+    "Exhort people to pray for Divine help and invoke Saints' prayers",
+    "Judge wears Consecrated Salt, Seven Words of Christ, Relics of the Saints",
+    "Bind Holy things around judge's body",
+    "Give accused Holy Water to drink before questioning",
+    "Read depositions of witnesses aloud during interrogation",
+    "Bring witnesses face-to-face with accused to shame her into confession",
+    "Offer ordeal by red-hot iron as test of innocence (though explicitly forbidden)",
+    "Treat accused well in food and drink, engage honest persons in conversation",
+    "Promise mercy conditionally, with mental reservation for State safety",
+    "Record all promises made by Judge in writing",
+    "Examine friends and associates without accused's knowledge",
+    "Show instruments, unguents, boxes to accused and ask their purpose",
+    "Have trusted man engage accused in prolonged conversation at night",
+    "Use spies to listen to conversations between accused and suspected accomplice",
+    "Hear confession immediately without delay, even at night",
+    "Do not postpone confession due to interruptions or delays"
+  ],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "Deceptive",
+      "Heretical",
+      "Devil-possessed",
+      "Unrepentant",
+      "Threat to State and Church"
+    ],
+    "justification": "The text portrays witches as agents of the Devil who deceive others, resist confession despite overwhelming evidence, and threaten both religious and civil order. Their very existence is framed as a plague requiring ritualistic, coercive, and punitive measures to expose and eradicate."
+  },
+  "moral_justification": "The moral justification presented is that protecting the State and upholding divine order requires the eradication of witchcraft through any means necessary \u2014 including psychological pressure, religious ritual, torture, and false promises \u2014 because witches are inherently dangerous, unrepentant, and aligned with evil forces.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 117
+}

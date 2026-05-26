@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the legal process of sentencing and questioning the accused witch",
+    "the use of torture to extract confession",
+    "the promise of life in exchange for confession under coercive conditions",
+    "the claim that witches are inherently dangerous or in league with devils"
+  ],
+  "constructive_proposals": [
+    "imprisonment for life on bread and water as an alternative to execution if the accused confesses and provides evidence against other witches",
+    "using persuasion, imprisonment, and moral counsel instead of immediate torture",
+    "stripping the accused to search for witchcraft instruments hidden in clothing"
+  ],
+  "scapegoat": {
+    "name": "the accused witch (N.)",
+    "attributes": [
+      "notoriously bad reputation",
+      "gravely suspected on unequivocal evidence of crime",
+      "mistress of other witches",
+      "source of danger",
+      "rebellious (spits at devil)"
+    ],
+    "justification": "The text constructs the accused witch as a dangerous, rebellious figure who denies guilt and must be broken through torture or coercive confession. Her 'bad reputation' and alleged role as a leader of witches justify her condemnation, while her defiance ('Depart, cursed devil') marks her as morally corrupt and deserving of punishment."
+  },
+  "moral_justification": "The moral justification is that the accused must confess to reveal truth and protect society from witchcraft, even if it requires torture or coercion. Her life can only be spared through confession and naming others, not mere admission of guilt.",
+  "summary": "This passage deconstructs the legal and moral framework of witch trials by exposing how torture, coercive confession, and the promise of life are used to manipulate the accused. It frames the witch as a dangerous rebel whose confession is extracted under duress, while offering a 'constructive' alternative: imprisonment in exchange for naming accomplices. The rhetoric is highly charged with moral condemnation and apocalyptic stakes.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 114
+}

@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "Pope Innocent VIII's character as portrayed by Burchard, Infessura, Marullo, and Egidio of Viterbo",
+    "the scandalous portrayal of Giovanni Battista Cib\u00f2's personal life and financial improprieties"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Pope Innocent VIII",
+    "attributes": [
+      "dogmatic rigidity",
+      "political ineffectiveness",
+      "moral corruption through nepotism and personal scandal",
+      "excessive indulgence in relics and ceremonial display"
+    ],
+    "justification": "The text heavily criticizes Pope Innocent VIII for failing to unite Christendom against the Turks, being morally compromised by his son's illegitimate children and their wealthy marriages, and engaging in superstitious relic worship rather than spiritual leadership. Chroniclers are cited as portraying him negatively, and the author suggests these depictions are justified."
+  },
+  "moral_justification": "The text condemns Pope Innocent VIII for moral failings, political weakness, and corruption, particularly through his family's financial entanglements and his focus on relics over genuine spiritual or political leadership. It frames him as a figure whose reign was marked by scandal and ineffective governance.",
+  "summary": "This passage presents a mixed rhetorical approach: it constructs a detailed biographical account of Pope Innocent VIII while simultaneously deconstructing his character through criticism of his moral conduct, political failures, and association with corrupt practices. The tone is moderately charged, emphasizing scandal and condemnation without offering constructive alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 154
+}

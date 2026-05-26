@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches",
+    "Devils",
+    "Witchcraft",
+    "The heresy of witchcraft"
+  ],
+  "constructive_proposals": [
+    "Lawful exorcisms using Holy Water, consecrated salt, blessed candles, palm leaves on Palm Sunday",
+    "Divine protection through public justice and Church-sanctioned rituals",
+    "Preventive measures to render individuals immune from witchcraft"
+  ],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "destitute of Divine help",
+      "profess heresy",
+      "practice sacrilege",
+      "initiate devil's power",
+      "perform horrible observances",
+      "inflict harm on innocent people and animals"
+    ],
+    "justification": "Witches are portrayed as agents of the devil who exploit divine permission to harm only those without spiritual protection, making them moral and spiritual threats whose practices must be eradicated through exorcism and legal prosecution."
+  },
+  "moral_justification": "The text justifies its deconstruction by framing witchcraft as a moral and theological evil that violates divine order. It appeals to Christian doctrine \u2014 citing Aristotle, St. Paul, and Church rituals \u2014 to argue that justice, divine law, and ecclesiastical authority are necessary to counteract the chaos introduced by witches. The righteous are protected not by immunity from suffering but by alignment with God's will through public justice and sacramental practice.",
+  "summary": "This passage deconstructs witchcraft as a satanic heresy requiring both preventive and curative ecclesiastical remedies. It constructs moral categories (blessed vs. damned), identifies witches as agents of divine violation, and prescribes Church-sanctioned rituals as protective measures. While it offers procedural prescriptions, its primary mode is deconstruction \u2014 condemning witchcraft through theological framing, scapegoating practitioners, and emphasizing spiritual vulnerability.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 45
+}

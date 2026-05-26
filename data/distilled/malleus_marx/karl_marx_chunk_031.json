@@ -1,0 +1,35 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "feudal foundations and institutions",
+    "Romanism (resurrected Romanist ideals)",
+    "the old revolution's ghosts and historical figures (Brutus, Gracchi, etc.)",
+    "the Bonaparte family's debts and legacy",
+    "superstition about the past",
+    "the February Revolution's idealistic framing",
+    "shameless rule by sword and monk's cowl"
+  ],
+  "constructive_proposals": [
+    "establishing modern bourgeois society with free competition, parcelled land, and unfettered productive power",
+    "creating conditions for bourgeois society to develop within France and across Europe",
+    "stripping away superstition about the past to let the dead bury their dead",
+    "allowing the revolution of the nineteenth century to find its content without relying on historical recollection"
+  ],
+  "scapegoat": {
+    "name": "Napoleon",
+    "attributes": [
+      "caricatured figure",
+      "symbol of old revolutionary ideals turned oppressive",
+      "embodiment of the dead epoch that resists progress",
+      "agent of regression disguised as authority"
+    ],
+    "justification": "Napoleon is portrayed as both a literal and symbolic obstacle to bourgeois society's development \u2014 his legacy, along with the 'old Napoleon' caricature, represents the regressive force that prevents France from moving forward into its own future. The text depicts him as a ghostly figure resurrected in the 1848-51 period, embodying outdated structures and ideologies that must be overcome for modern society to emerge."
+  },
+  "moral_justification": "The moral justification centers on historical necessity: bourgeois society requires the destruction of feudal remnants and their symbolic representations (including Napoleon) through revolutionary violence and sacrifice. The text frames these upheavals not as failures but as necessary stages in the development of modern social order, where the old must die so the new can be born \u2014 even if this involves terror, civil war, and national conflict.",
+  "summary": "The passage presents a mixed rhetoric that both deconstructs feudal and romanticized revolutionary legacies while constructively proposing the establishment of bourgeois society through the elimination of superstition, historical illusion, and outdated institutions. It condemns Napoleon as a symbol of regression but acknowledges his role in dismantling feudalism. The language is highly charged with moral urgency and apocalyptic imagery, positioning revolution as both necessary destruction and transformative creation.",
+  "source_id": "karl_marx",
+  "chunk_id": 31
+}

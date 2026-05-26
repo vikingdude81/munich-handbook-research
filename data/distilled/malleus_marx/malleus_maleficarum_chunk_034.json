@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Divine permission in witchcraft",
+    "Theological legitimacy of God allowing witchcraft",
+    "Augustine's Enchiridion and Aristotle's Metaphysics as cited to justify divine non-intervention"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witch midwives",
+    "attributes": [
+      "cause greater injuries than other witches",
+      "do not kill children but instead expose them to devils by raising them in the air",
+      "are described as actively harming the Catholic Faith"
+    ],
+    "justification": "The text identifies witch midwives as the primary agents of harm, claiming they cause more damage to the Church than other witches and engage in ritualistic acts of offering children to devils, thereby positioning them as moral and theological enemies of the faith."
+  },
+  "moral_justification": "God does not permit witchcraft because such permission would imply divine complicity in evil, undermine God's wisdom and providence, and contradict the belief that all things are subject to His governance; since humans are responsible for their own actions, not all evils are divinely permitted.",
+  "summary": "The passage deconstructs the theological claim that divine permission accompanies witchcraft by arguing that such permission would imply God's impotence or moral failure. It uses Augustine and Aristotle to assert human responsibility and divine sovereignty, rejecting the idea that God permits inherently evil acts. The rhetoric is highly charged with moral condemnation, particularly targeting witch midwives as demonic agents who harm the Church, while offering no constructive theological or procedural alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 34
+}

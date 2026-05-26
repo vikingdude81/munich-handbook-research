@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "the practice of diagnosing witchcraft through physical symptoms and bodily signs",
+    "the legitimacy of using magical or superstitious methods (e.g., molten lead divination) to determine the cause of illness",
+    "the claim that witches can or should be held accountable for causing harm, especially when they are portrayed as powerless against certain groups"
+  ],
+  "constructive_proposals": [
+    "advocating for medical diagnosis by trained doctors based on observable physical signs (age, complexion, eye reaction)",
+    "distinguishing between natural illness and supernatural causes through expert judgment",
+    "recognizing that God permits evil but does not will or command it, implying a theological boundary on human action"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "accused of causing sudden, unexplained illness through supernatural means",
+      "portrayed as having influence over natural elements (e.g., Saturn's effect on lead)",
+      "seen as morally and physically dangerous due to their ability to harm others despite lacking material power"
+    ],
+    "justification": "Witches are framed as the cause of unexplained or sudden illnesses, particularly when symptoms do not align with known natural causes. Their perceived power to inflict harm through hidden means makes them a convenient target for blame, even though their actual ability to act is questioned and limited in the text."
+  },
+  "moral_justification": "The text justifies God's non-involvement in evil by distinguishing between His will (precept, prohibition, advice) and His permission of events. Evil actions are permitted but not willed or commanded by God, who is All-Good; thus, human suffering from witchcraft is seen as permitted rather than directly caused by divine intent.",
+  "summary": "The passage presents a medieval theological and medical argument that distinguishes between natural illness and witchcraft-induced disease through expert judgment. It deconstructs popular beliefs in witchcraft while embedding them within a broader framework of divine will, where God permits evil but does not cause or command it. The rhetoric is moderately charged with moral and apocalyptic overtones, targeting folk medicine and superstition while offering medical and theological alternatives.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 44
+}

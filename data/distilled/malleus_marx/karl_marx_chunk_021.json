@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "feudal relations of property",
+    "bourgeoisie class",
+    "property relations",
+    "modern conditions of production",
+    "commercial crises",
+    "bourgeois society itself"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the bourgeoisie",
+    "attributes": [
+      "creates productive forces beyond its control",
+      "forges weapons against itself",
+      "calls into existence the proletariat",
+      "exploits labor to maintain power",
+      "cannot manage over-production it creates"
+    ],
+    "justification": "The text portrays the bourgeoisie as both creator and destroyer of its own system, generating productive forces that become unmanageable, using exploitation to sustain itself while simultaneously enabling the rise of a class (proletarians) designed to overthrow it. It frames crises like over-production not as failures but as inevitable outcomes of bourgeois development."
+  },
+  "moral_justification": "The bourgeoisie is condemned for creating systemic instability through its own economic expansion, which ultimately threatens its survival; its destruction of feudal structures unleashed forces it cannot control, making it responsible for the chaos that follows.",
+  "summary": "This passage deconstructs the historical role of the bourgeoisie in dismantling feudalism and reorganizing society around centralized production and governance. It argues that the very productive forces and political institutions created by the bourgeoisie become incompatible with its continued rule, leading to systemic crises, over-production, and self-endangerment. While intensely critical and rhetorically charged, it offers no constructive alternatives \u2014 only analysis of contradictions within capitalist development.",
+  "source_id": "karl_marx",
+  "chunk_id": 21
+}

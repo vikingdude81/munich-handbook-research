@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "witches",
+    "devil",
+    "evil spells",
+    "unnatural causes of bodily change"
+  ],
+  "constructive_proposals": [
+    "natural forces can produce miraculous effects without supernatural intervention",
+    "healing works may be performed through natural, good influences rather than evil powers",
+    "the power of imagination and mental influence can affect the body without physical agents",
+    "certain natural substances (e.g., lodestone) have hidden powers that explain extraordinary phenomena"
+  ],
+  "scapegoat": {
+    "name": "witches",
+    "attributes": [
+      "stir up and confound the elements",
+      "arouse terrible hailstorms and tempests",
+      "distract minds of men, driving them to madness, insane hatred, and inordinate lusts",
+      "work through the aid of the devil"
+    ],
+    "justification": "The text identifies witches as agents who invoke evil forces (the devil) to produce unnatural effects like storms, mental derangement, and bodily harm, thereby casting them as the primary source of moral corruption and supernatural disruption."
+  },
+  "moral_justification": "The text argues that extraordinary or harmful events are not caused by witchcraft or demonic power but by natural forces or the imagination, and that attributing such effects to witches unjustly absolves natural causes and misrepresents moral responsibility.",
+  "summary": "This passage presents a medieval philosophical and theological argument that challenges the notion of witchcraft as a supernatural force, instead attributing bodily changes, miracles, and extraordinary events to natural powers, mental influence, or hidden physical properties. While it deconstructs the idea of witches as agents of evil through rational and religious reasoning, it also offers constructive proposals about the mind-body connection, natural causation, and legitimate healing practices, resulting in a mixed rhetorical mode with moderate emotional intensity.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 7
+}

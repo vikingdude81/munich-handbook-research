@@ -1,0 +1,124 @@
+Money or simple circulation; 3. Capital in general. The present part consists of the
+first two chapters.  The entire materi al lies before me in the form of monographs,
+which were written not for publication but for self-clarification at widely separated
+periods; their remoulding into an integrated whole according to the plan I have
+indicated will depend upon circumstances.
+A general introduction, which I had drafted, is omitted, since on further consideration
+it seems to me confusing to anticipate results which still have to be substantiated, and
+the reader who really wishes to follow me will have to decide to advance from the
+particular to the general. A few brief remarks regarding the course of my study of
+political economy are appropriate here.
+Although I studied jurisprudence, I pursued it as a subject subordinated to philosophy
+and history . In the year 1842-43, as editor of the Rheinische Zeitung, I first found
+myself in the emba rrassing position of having to discuss what is known as material
+interests. The deliberations of the Rhenish Landtag on forest thefts and the division of
+landed property; the official polemic started by Herr von Schaper , then Oberpräsident
+of the Rhine Province, against the Rheinische Zeitung about the condition of the
+Moselle peasantry , and finally the debates on free trade and protective tariffs caused
+me in the first instance to turn my attention to economic questions. On the other hand,
+at that time when good intentions “to push forward” often took the place of factual
+knowledge, an echo of French socialism and communism, slightly tinged by
+philosophy , was noticeable in the Rheinische Zeitung. I objected to this dilettantism,
+but at the same time frankly admitted in a controversy with the Allgemeine
+Augsbur ger Zeitung that my previous studies did not allow me to express any opinion
+on the content of the French theories. When the publishers of the Rheinisc he Zeitung
+conceived the illusion that by a more compliant policy on the part of the paper it
+might be possible to secure the abrogation of the death sentence passed  upon it, I
+eagerly grasped the opportunity to withdraw from the public stage to my study .
+The first work which I undertook to dispel the doubts assailing me was a critical re-
+examination of the Hegelian philosop hy of law; the introduction to this work being
+published in the Deutsch-Französische Jahrbücher  issued in Paris in 1844. My
+inquiry led me to the conclusion that neither legal relations nor political forms could
+be comprehended whether by themselves or on the basis of a so-called general
+158development of the human mind, but that on the contrary they originate in the material
+conditions of life, the totality of whic h Hegel, following the example of English and
+French thinkers of the eighteenth century , embraces within the term “civil society”;
+that the anatomy of this civil society , however , has to be sought in political economy .
+The study of this, which I began in Paris, I continued in Brussels, wher e I moved
+owing to an expuls ion order issued by M. Guizot. The general conclusion at which I
+arrived and which, once reached, became the guiding principle of my studies can be
+summarised as follows.
+In the social produ ction of their existe nce, men inevitably enter into definit e relations,
+which are indepen dent of their will, namely relations of production appro priate to a
+given stage in the development of their material forces of production. The totality of
+these relations of production constitutes the economic structure of society , the real
+foundation, on which arises a legal and political superstructure and to which
+correspond definit e forms of social consciousness. The mode of production of
+material life conditions the general process of social, political and intellectu al life. It is
+not the consciousness of men that determines their existence, but their social existence
+that determines their consciousness. At a certain stage of development, the material
+productive forces of society come into conflict with the existing relations of
+production or - this merely expresses the same thing in legal terms - with the property
+relations within the framework of which they have operated hitherto. From forms of
+development of the productive forces these relations turn into their fetters. Then
+begins an era of social revolution. The changes in the economic found ation lead
+sooner or later to the transformation of the whole immense superstructure.
+In studying such transformations it is always necessary to distinguish between the
+material transformation of the economic conditions of production, which can be
+determined with the precision of natural science, and the legal, political , religious,
+artistic or philosophic - in short, ideological forms in which men become conscious of
+this conflict and fight it out. Just as one does not judge an individual by what he
+thinks about hims elf, so one cannot judge such a period of transformation by its
+consciousness, but, on the contrary , this consciousness must be explained from the
+contradictions of material life, from the conflict existing between the social forces of
+production and the relations of production. No social order is ever destroyed  before all
+the produ ctive forces for which it is sufficient have been developed, and new superior
+relations of production never replace older ones before the material conditions for
+their existence have matured within the framework of the old society .
+Mankind thus inevitably sets itself only such tasks as it is able to solve, since closer
+examination will always show that the problem itself arises only when the material
+conditions for its solution are already  present or at least in the course of formation. In
+broad outline, the Asiatic, ancient, feudal and modern bourgeois modes of production
+may be designated as epochs mark ing progress in the economic devel opment of
+society . The bourgeois mode of production is the last antagonistic form of the social
+process of production - antagonistic not in the sense of individual antagon ism but of
+an antagonism that emanates from the individuals' social conditions of existence - but
+the productive forces developing within bourgeois society create also the material
+159conditions for a solution of this antagonism. The prehistory of human society
+accordingly closes with this social formation.
+ 
+160Capital, Volume I (1867)
+From the Pr eface
+Every beginning is difficult, holds in all sciences. To understand the first chapter ,
+especially the section that contains the analysis of commodities, will, therefore,
+present the greatest  difficulty . That which concerns more especially the analysis of the
+substance of value and the magnitude of value, I have, as much as it was possible,
+popularised. The value-form, whose fully developed shape is the money-fo rm, is very
+elementary and simple. Nevertheless, the human mind has for more than 2,000 years
+sought in vain to get to the bottom of it all, whilst on the other hand, to the successful
+analysis of much more composite and complex forms, there has been at least an
+approximation. Why? Because the body , as an organic whole, is more easy of study
+than are the cells of that body . In the analysis of economic forms, moreov er, neither
+microscopes nor chemical reagents are of use. The force of abstraction must replace
+both. But in bourgeois society , the commodity-form of the product of labour – or
+value-form of the commodity – is the economic cell-form. To the superficial observer ,
+the analy sis of these forms seems to turn upon minutiae. It does in fact deal with
+minutiae, but they are of the same order as those dealt with in microscopic anatomy .
+Chapter 1
+§1 The Two Facto rs of a Commodity:  Use-Value and Value
+The wealth of those societies in which the capitalist mode of production prevails,
+presents itself as “an immense accumulation of commodities,” its unit being a single
+commodity . Our investigation must therefore begin with the analysis of a commodity .
+A commodity is, in the first place, an object outside us, a thing that by its properties
+satisfies human wants of some sort or another . The nature of such wants, whether , for
+instance, they spring from the stomach or from fancy , makes no difference. Neither
+are we here concerned to know how the object satisfies these wants, whether directly
+as means of subsistence, or indirectly as means of production.
+Every useful thing, as iron, paper , &c., may be looked at from the two points of view
+of quality and quantity . It is an assemblage of many properties, and may therefore be
+of use in various ways. To discover the various uses of things is the work of history .
+So also is the establishment of socially-recognized standards of measure for the
+quantities of these useful objects. The diversity of these measures has its origin partly
+in the diverse nature of the objects to be measured, partly in convention.
+The utility of a thing makes it a use value. But this utility is not a thing of air. Being
+limited by the physical properties of the commodity , it has no existence apart from
+that commodity . A commodity , such as iron, corn, or a diamond, is therefore, so far as
+it is a material thing, a use value, something useful. This property of a commodity is
+independent of the amount of labour required to appropriate its useful qualities. When
+161treating of use value, we always assum e to be dealing with definite quantities, such as
+dozens of watches, yards of linen, or tons of iron. The use values of commodities
+furnish the material for a special study , that of the commercial knowledge of
+commodities. Use values become a reality only by use or consumption: they also
+constitute the substance of all wealth, whatever may be the social form of that wealth.
+In the form of society we are about  to consider , they are, in addition, the material
+depositories of exchange value.

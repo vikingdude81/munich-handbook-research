@@ -1,0 +1,26 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches who confess to causing natural disasters like hailstorms and lightning",
+    "The Inquisition's torture-based interrogation methods",
+    "The attribution of natural phenomena (lightning, storms) to witchcraft rather than divine or meteorological causes"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "Confess to causing hailstorms and lightning through devilish rituals",
+      "Engage in abjuration of the Faith and copulation with an Incubus devil",
+      "Cause harm to men, cattle, and crops for more than 18-20 years",
+      "Are associated with crossroads rituals and familiars"
+    ],
+    "justification": "The text constructs witches as the primary agents responsible for natural disasters like hailstorms and lightning, despite acknowledging these events may occur by 'Divine permission' without witchly involvement. The narrative emphasizes their confessions\u2014often extracted under torture\u2014as evidence of guilt, while simultaneously undermining alternative explanations. Their prolonged harm to humans, animals, and agriculture, combined with ritualistic practices involving the devil, positions them as moral and cosmic transgressors deserving punishment."
+  },
+  "moral_justification": "The text implicitly justifies the execution of witches by portraying them as long-term, deliberate enemies of divine order who cause widespread harm through supernatural means. Their confessions\u2014even under duress\u2014and consistency across multiple accused individuals are used to validate their guilt and moral corruption, legitimizing capital punishment as a necessary restoration of cosmic and social balance.",
+  "summary": "This passage deconstructs the legitimacy of witchcraft accusations by highlighting coerced confessions and inconsistent interrogation methods while simultaneously reinforcing the narrative that witches are real, dangerous agents of chaos. It uses emotionally charged language to depict witches as diabolical conspirators who defy natural and religious law, justifying their torture and execution. Though it briefly acknowledges alternative explanations (e.g., divine permission), it ultimately dismisses them in favor of a rigid moral framework where witchcraft equals criminality and damnation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 75
+}

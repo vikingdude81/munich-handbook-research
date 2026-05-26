@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "Witches and devils",
+    "Incubus phenomena (as false or bodily delusion)",
+    "Unquestioning credence in women's claims"
+  ],
+  "constructive_proposals": [
+    "Use of the Keys to ward off Powers of the air",
+    "Excommunication as a remedy for witchcraft afflictions",
+    "Lawful exorcisms as additional remedies",
+    "Recourse to standard exorcisms when other remedies fail",
+    "Moral endurance of affliction as expiatory punishment"
+  ],
+  "scapegoat": {
+    "name": "Witches and devils (and by extension, women who report such phenomena)",
+    "attributes": [
+      "Afflicted by devils through witches",
+      "Possess powers that can be warded off by the Keys",
+      "Subject to excommunication as a remedy",
+      "Linked to moral failings requiring penance"
+    ],
+    "justification": "The text attributes witchcraft and demonic affliction primarily to women, framing them as morally suspect due to their 'timidity' and 'easily impressionable souls,' while positioning the Church's authority (via the Keys) as the legitimate corrective force."
+  },
+  "moral_justification": "The text justifies its stance through theological doctrine \u2014 that all power (including exorcism and the Keys) requires grace, which is only present in those in a state of grace. Affliction by devils or witches is framed as either a spiritual trial or a consequence of sin requiring meek endurance, while false beliefs (e.g., Incubus visitations) are pathologized as signs of weak faith or bodily imbalance rather than real demonic activity.",
+  "summary": "The passage presents a mixed rhetorical mode: it constructs a theological framework centered on the Church's authority (the Keys and exorcism) to explain and remedy witchcraft, while simultaneously deconstructing popular beliefs in Incubi and female claims of possession as delusions or bodily illnesses. The rhetoric is moderately intense, using moral and doctrinal language to assert ecclesiastical supremacy over folk practices, but offers no new institutional mechanisms beyond reaffirming existing Church procedures.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 84
+}

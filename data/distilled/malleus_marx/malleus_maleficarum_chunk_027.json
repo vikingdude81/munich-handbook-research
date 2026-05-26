@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the will of man being ruled by God",
+    "the devil's ability to effect physical changes in the body",
+    "the nature and limits of angelic possession"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the devil",
+    "attributes": [
+      "tempts through lust",
+      "causes sin and death",
+      "enters the body to corrupt bodily organs",
+      "exploits human weakness for inordinate love",
+      "transforms individuals unexpectedly"
+    ],
+    "justification": "The text consistently attributes moral corruption, physical transformation, and loss of self-control to the devil's influence, portraying him as an active agent who enters the body through bodily organs and exploits lust as a means of leading men into sin and spiritual death."
+  },
+  "moral_justification": "Sin originates from human lust, which is tempted by the devil; virtue lies in resisting temptation without yielding, and moral integrity depends on divine order and angelic guidance.",
+  "summary": "The passage deconstructs claims about witchcraft and demonic influence by arguing that physical transformations are impossible for the devil alone, attributing moral corruption to internal human weakness tempted by the devil rather than supernatural forces. It emphasizes resistance through virtue and divine protection, using biblical examples to condemn inordinate love as a product of diabolical temptation.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 27
+}

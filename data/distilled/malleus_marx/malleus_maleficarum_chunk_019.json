@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Fate as a rational fact",
+    "Second causes (including the influence of the stars)",
+    "The idea that witchcraft is caused by celestial powers or separate essences",
+    "Avicenna and his school's view on soul-body influence through imagination/fear"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "the Powers that move the stars",
+    "attributes": [
+      "good in nature",
+      "intelligent by will",
+      "supposedly capable of influencing human actions for good or ill",
+      "misattributed as the cause of witchcraft"
+    ],
+    "justification": "The text explicitly rejects the notion that celestial powers cause witchcraft, arguing they are inherently good and intelligent, yet cannot be responsible because their nature is to promote the good of the universe; attributing witchcraft to them contradicts their moral character and divine order."
+  },
+  "moral_justification": "Witchcraft originates not from celestial or natural forces but from human actions driven by fear, imagination, and evil intent; true virtue requires alignment with God's will, not manipulation through second causes or astrological influence.",
+  "summary": "The passage deconstructs the medieval notion that fate or celestial powers determine witchcraft, asserting instead that such acts stem from human agency and are outside divine or natural causality. It condemns attributing witchcraft to stars or spiritual essences while affirming God's providence operates through ordained causes, not astrological influence.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 19
+}

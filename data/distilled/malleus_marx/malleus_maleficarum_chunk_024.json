@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 9,
+  "deconstruction_targets": [
+    "Women",
+    "Witchcraft",
+    "Carnal lust",
+    "Vanity",
+    "Superstition"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Women",
+    "attributes": [
+      "malicious",
+      "seductive",
+      "deceptive",
+      "dangerous to soul and body",
+      "more bitter than death",
+      "secret enemy",
+      "insatiable lust",
+      "heretical influence"
+    ],
+    "justification": "The text consistently portrays women as the primary source of moral corruption, sin, and witchcraft. It attributes all evil\u2014from Eve's role in original sin to modern-day witchcraft\u2014to women's insatiable carnal desires, vanity, and deceitful nature. Women are framed as inherently more dangerous than external evils like the devil or death itself, making them the central scapegoat for societal and spiritual decay."
+  },
+  "moral_justification": "The text justifies its deconstruction of women through religious doctrine (citing Proverbs, Ecclesiastes, Apocalypse), appeals to moral superiority ('pleasing God'), and frames male salvation as dependent on female absence. It uses biblical and classical references to legitimize its claims while portraying women as inherently corrupting forces whose removal would restore divine order.",
+  "summary": "This passage is a highly charged deconstruction of women, blaming them for all moral, spiritual, and societal ills\u2014from ancient sin to modern witchcraft. It uses intense religious rhetoric, vivid metaphors (sirens, chimaera), and selective scriptural interpretation to portray women as inherently dangerous, seductive, and destructive. No constructive solutions are offered; instead, it advocates for male preservation through female exclusion, making it a pure example of deconstructive, high-intensity rhetoric with maximal scapegoating.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 24
+}

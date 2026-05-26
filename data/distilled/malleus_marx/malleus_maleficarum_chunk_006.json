@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the possibility of universal application of alchemical principles",
+    "the legitimacy of alchemy as a means to produce true gold",
+    "the efficacy of witchcraft without an agent"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "devils",
+    "attributes": [
+      "bring about evil effects through witchcraft",
+      "require an agent to make any form, substantial or accidental",
+      "can inflict real and true damage"
+    ],
+    "justification": "The text attributes the capacity for harm solely to devils acting with an agent, framing them as necessary conduits of evil rather than independent sources of power."
+  },
+  "moral_justification": "Evil effects are not inherent to witchcraft itself but depend on external agents (devils), making the practice a contingent and mediated phenomenon rather than an autonomous force.",
+  "summary": "The passage deconstructs alchemical and magical claims by distinguishing between superficial resemblance and true substance, particularly in gold production and the mechanics of witchcraft. It emphasizes that effects require agents, undermining notions of autonomous magical or alchemical power. The rhetoric is highly charged with moral urgency, condemning attempts to universalize these practices while attributing evil to devilish agency.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 6
+}

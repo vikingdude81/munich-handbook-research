@@ -1,0 +1,32 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the notion that ruling class dominance is merely the rule of ideas or concepts",
+    "the abstraction of historical ideas as universal and self-determined",
+    "the separation of ideas from their material production conditions and producers",
+    "Hegel's idealist philosophy and its claim that history progresses through concept alone",
+    "the mystical transformation of 'concept' into 'Self-Consciousness' or 'philosophers' as historical agents"
+  ],
+  "constructive_proposals": [
+    "separate ruling ideas from empirical rulers and recognize their illusionary rule",
+    "establish an order among ruling ideas by revealing their mystical connections through understanding them as self-determinations",
+    "remove the mystical appearance of the 'self-determining concept' by transforming it into persons (Self-Consciousness or philosophers) to expose material reality"
+  ],
+  "scapegoat": {
+    "name": "philosophers, thinkers, ideologists",
+    "attributes": [
+      "dominant in history according to Hegel",
+      "manufacturers of history",
+      "rulers and 'council of guardians'",
+      "agents of mystical illusion"
+    ],
+    "justification": "The text identifies philosophers and ideologists as the primary agents who sustain the illusion that ideas, not material conditions or classes, rule history. They are scapegoated for transforming abstract concepts into supposed self-determined historical actors, thereby obscuring class struggle and material production."
+  },
+  "moral_justification": "The text condemns the idealist interpretation of history as a mystical concealment of class domination and exploitation, arguing that it falsely universalizes ruling class interests and erases the material basis of social change.",
+  "summary": "This passage is a deconstructive critique of Hegelian idealism and liberal historiography, which abstracts ideas as universal forces governing history. It dismantles the notion that ruling classes dominate through ideas alone, exposing how philosophers and ideologues mystify class rule by turning concepts into self-determined agents. While it offers three methodological proposals to reveal the material reality behind ideological illusions, its primary mode is deconstruction with high rhetorical intensity and entropy, targeting abstract thought, philosophical authority, and the separation of ideas from material conditions.",
+  "source_id": "karl_marx",
+  "chunk_id": 12
+}

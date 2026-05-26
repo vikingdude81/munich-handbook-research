@@ -1,0 +1,25 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "witchcraft as a form of superstition",
+    "the legitimacy and efficacy of witchcraft practices",
+    "natural explanations for supernatural phenomena attributed to witches"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Cham, ou Zoroastre (Zoroaster)",
+    "attributes": [
+      "inventor of judicial astrology",
+      "persuaded men that destiny depends on celestial influences",
+      "initiated religious cults and idolatrous practices"
+    ],
+    "justification": "The text identifies Cham, ou Zoroastre as the originator of a belief system linking stars to divine influence, which led to religious worship and idolatrous practices. He is presented as the foundational figure whose teachings gave rise to 'magie' (magic) as demon worship, making him the primary scapegoat for introducing corrupt spiritual traditions."
+  },
+  "moral_justification": "Witchcraft is condemned as inherently criminal and diabolical because it involves explicit invocation of demons, even when disguised as natural practices. The text asserts that such activities, regardless of intent or method (e.g., necromancy, geomancy), are unlawful due to their reliance on demonic summoning, which constitutes 'the height of criminal wickedness.'",
+  "summary": "The passage deconstructs witchcraft by tracing its origins to Zoroaster as a source of idolatrous and superstitious traditions that corrupted religious purity. It condemns witchcraft as diabolical and inherently evil, rejecting naturalistic defenses by asserting that all forms of spellwork involve tacit or explicit demon invocation, thus justifying its criminal classification.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 10
+}

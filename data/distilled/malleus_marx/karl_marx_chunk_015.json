@@ -1,0 +1,41 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "tribal property",
+    "feudal landed property",
+    "corporative movable property",
+    "communal institutions",
+    "the State",
+    "natural growth",
+    "natural relationships",
+    "crafts and earlier stages of industry",
+    "countryside",
+    "individuality of nationalities",
+    "old world",
+    "religion",
+    "morality",
+    "ideology"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "big industry",
+    "attributes": [
+      "automatic system",
+      "mass of productive forces",
+      "one-sided development",
+      "destructive forces",
+      "unbearable labour relation",
+      "class-unifying force",
+      "destroyer of natural character",
+      "subjugator of science to capital"
+    ],
+    "justification": "Big industry is portrayed as the primary agent that dismantles traditional social, economic, and cultural structures. It systematically destroys pre-existing forms of property, community, and natural human relationships, replacing them with commodified, competitive, and alienating mechanisms under private property. The text frames it as an all-consuming force that erases national identities, subordinates science to capital, and makes labour itself unbearable \u2014 positioning it as the central destructive force in historical development."
+  },
+  "moral_justification": "The text presents big industry as inherently destructive to human dignity, natural social forms, and communal life. It implies a moral failing not through explicit ethical judgment but through relentless depiction of devastation \u2014 erasing traditions, reducing relationships to monetary ones, creating alienated labour, and centralizing power in impersonal industrial systems. The condemnation is embedded in the description of what big industry destroys rather than what it builds.",
+  "summary": "The passage offers a sweeping deconstruction of big industry as a historically transformative yet destructive force that dismantles pre-industrial social structures, erodes communal and national identities, subordinates nature and science to capital, and creates alienated, class-based labour. It critiques the automatic, universalizing logic of industrial capitalism without offering constructive alternatives, instead focusing on the irreversible damage it inflicts across economic, cultural, and human dimensions.",
+  "source_id": "karl_marx",
+  "chunk_id": 15
+}

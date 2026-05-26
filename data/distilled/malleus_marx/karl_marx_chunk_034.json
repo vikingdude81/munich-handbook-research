@@ -1,0 +1,23 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "bourgeois relations",
+    "natural laws as socially constructed justifications",
+    "private property as historically contingent rather than natural",
+    "legal and institutional frameworks (courts, police) that legitimize bourgeois ownership",
+    "the abstraction of 'general human laws' masking historical specificity"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "The text does not invoke moral judgment or ethical condemnation; it critiques ideological and structural contradictions in economic formations without appealing to morality, justice, or human rights. Its critique is materialist and historical rather than moral.",
+  "summary": "This passage deconstructs the notion of 'natural' economic laws by showing how property, distribution, and legal institutions are historically specific social constructs that serve bourgeois relations. It dismantles the abstraction of general laws while acknowledging production's dependence on appropriation and protection mechanisms, but offers no constructive alternative system.",
+  "source_id": "karl_marx",
+  "chunk_id": 34
+}

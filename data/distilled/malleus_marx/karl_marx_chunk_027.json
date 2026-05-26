@@ -1,0 +1,35 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "absolute monarchy",
+    "feudal squirearchy",
+    "petty bourgeoisie",
+    "reactionary classes",
+    "bourgeois republicans",
+    "state power as an engine of class despotism"
+  ],
+  "constructive_proposals": [
+    "seizing governmental power by the proletariat",
+    "union and agreement of democratic parties across countries",
+    "forcible overthrow of all existing social conditions",
+    "use of bourgeois-supplied social and political conditions as weapons against the bourgeoisie"
+  ],
+  "scapegoat": {
+    "name": "bourgeoisie",
+    "attributes": [
+      "hostile antagonist to proletariat",
+      "reactionary class",
+      "agent of class despotism",
+      "maintainer of social subjection",
+      "possessor of existing state machinery"
+    ],
+    "justification": "The text consistently frames the bourgeoisie as the primary oppressive force whose rule necessitates revolutionary destruction; it is held responsible for maintaining feudal remnants, exploiting labor, and using state institutions to enforce domination, making it the central target of deconstruction and the justification for proletarian revolution."
+  },
+  "moral_justification": "The proletariat has a moral duty and absolute right to seize power from oppressive classes that have failed them, as their continued subjugation is unjust; revolution is framed not merely as political action but as liberation from systemic exploitation and despotism.",
+  "summary": "This passage presents a mixed-mode rhetoric combining deconstruction of existing class structures and institutions with constructive proposals for proletarian revolution. It intensely condemns the bourgeoisie and state apparatus as tools of oppression while advocating for their overthrow through organized, international working-class action, using emotionally charged language to justify revolutionary violence as both necessary and morally imperative.",
+  "source_id": "karl_marx",
+  "chunk_id": 27
+}

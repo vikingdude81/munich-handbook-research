@@ -1,0 +1,33 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Richard III's marriage to Lady Elizabeth Grey",
+    "The Duchess (of unspecified title)",
+    "James VII of Scotland (later James I of England) and his fears about Bothwell",
+    "Mumolus, official in King Chilperic's court",
+    "Guichard, Bishop of Troyes",
+    "Enguerrand de Marigny",
+    "Jacobus de Lor",
+    "Hugues G\u00e9raud, Bishop of Cahors",
+    "Catherine La Voisin",
+    "Giacinto Contini",
+    "Tommaso Orsolini"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Bothwell (Francis Stewart, Earl of Bothwell)",
+    "attributes": [
+      "Grand Master of more than one hundred witches",
+      "Adept in poisoning",
+      "Eager to do away with the King"
+    ],
+    "justification": "He is portrayed as the central figure of a vast political plot involving witchcraft and murder, making him the primary target of deconstruction through accusations of supernatural conspiracy and treason."
+  },
+  "moral_justification": "The text frames historical figures not by their actual deeds or governance but by sensationalized allegations of sorcery, poisoning, and diabolical plots, using moral condemnation to delegitimize political rivals and justify harsh punishments.",
+  "summary": "This passage deconstructs historical narratives by emphasizing accusations of witchcraft, poisoning, and supernatural conspiracy against political figures such as Richard III, James VII, and Bothwell. It presents these claims as evidence of widespread moral decay and hidden power structures, using emotionally charged language to portray individuals as witches or traitors without offering constructive alternatives or governance models.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 142
+}

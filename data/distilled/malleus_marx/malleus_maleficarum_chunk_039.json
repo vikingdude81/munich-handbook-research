@@ -1,0 +1,27 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches",
+    "Heretics",
+    "Apostates"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "homage to the devil",
+      "deadly sin in all actions",
+      "mortal sin even when performing good deeds",
+      "cause harm to men and beasts",
+      "provocation of lust or unnatural acts"
+    ],
+    "justification": "Witches are portrayed as uniquely culpable because they not only commit sins but actively honor the devil, perform good deeds in service to evil, cause tangible harm through supernatural means, and provoke moral corruption in others, making them beyond redemption and deserving of extreme punishment."
+  },
+  "moral_justification": "The text justifies severe punishment for witches by asserting that their actions constitute a unique and grievous form of sin \u2014 not merely personal transgression but active collaboration with evil forces. Drawing on Augustine and Aquinas, it claims that even good works are rendered sinful when rooted in infidelity or demonic homage. Since witches cause both spiritual corruption and physical harm to innocents, they must be punished more severely than heretics, with penalties including excommunication, confiscation of goods, decapitation, and lifelong imprisonment \u2014 especially since their apostasy involves voluntary, enthusiastic devotion to the devil rather than mere unbelief.",
+  "summary": "This passage deconstructs witches as morally irredeemable agents of sin who cause harm to others through supernatural means. It uses theological authority (Augustine, Aquinas) to argue that even seemingly good acts by witches are sinful due to their allegiance to the devil. The rhetoric is highly charged and condemnatory, with no constructive proposals \u2014 only a call for extreme punitive measures including death and social exclusion.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 39
+}

@@ -1,0 +1,37 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "German historiography",
+    "religious man as primitive man",
+    "theoretical production of fancies replacing material reality",
+    "national character of German historical thought",
+    "chimeras like 'God-Man' and 'Man' presiding over history",
+    "arbitrary constructions and literary gossip instead of research",
+    "pompous and arrogant hucksters of ideas",
+    "theorists who ignore real events and other nations"
+  ],
+  "constructive_proposals": [
+    "explain theoretical phrases from actual existing relations",
+    "altered circumstances will dissolve notions from consciousness",
+    "real, practical dissolution through changed conditions rather than theory"
+  ],
+  "scapegoat": {
+    "name": "German theorists (Feuerbach, Stirner, Bauer, etc.)",
+    "attributes": [
+      "nationalistic",
+      "religious idealism",
+      "detached from material reality",
+      "arrogant and pompous",
+      "ignores real historical events",
+      "replaces substance with abstract ideas"
+    ],
+    "justification": "These theorists are condemned for constructing a purely German-centric, idealist history that replaces material conditions with fantasies of 'God-Man' and abstract 'Man,' ignoring class struggle and proletarian reality while claiming universal significance."
+  },
+  "moral_justification": "The text condemns German philosophical idealism as religious delusion that obscures real historical and material relations, particularly through the elevation of theory over practice and national pride disguised as universal critique.",
+  "summary": "This passage is a highly charged deconstruction of German historiography and idealist philosophy, denouncing its detachment from material reality, nationalistic bias, and reliance on abstract religious and metaphysical constructs while advocating for a materialist understanding grounded in actual historical conditions.",
+  "source_id": "karl_marx",
+  "chunk_id": 10
+}

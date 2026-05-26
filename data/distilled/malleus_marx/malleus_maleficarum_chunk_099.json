@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "Ecclesiastical authority's exclusive jurisdiction over heresy and witchcraft",
+    "The claim that witches should be tried solely by civil courts due to temporal crimes",
+    "Justinian's Authentics as interpreted to grant civil rulers sole authority in religious matters"
+  ],
+  "constructive_proposals": [
+    "Witches may be tried conjointly by Civil and Ecclesiastical Courts",
+    "A Bishop and the Governor should jointly try complex canonical matters involving faith and governance",
+    "The Governor alone may handle simple matters of faith observance",
+    "Ecclesiastical penalties must be applied to correct souls, while civil authorities enforce temporal punishments"
+  ],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "Accused of abjuring the Faith (wholly or in part)",
+      "Committing temporal injuries and violating religious doctrine",
+      "Engaging in magic arts that harm innocent lives"
+    ],
+    "justification": "The text constructs witches as dual offenders \u2014 both heretics who undermine ecclesiastical authority and criminals who inflict physical harm, justifying their joint prosecution by both civil and ecclesiastical authorities."
+  },
+  "moral_justification": "Witches are morally culpable because they abjure the Faith and commit temporal crimes; their punishment serves both to uphold divine law and maintain civil order.",
+  "summary": "The passage presents a mixed rhetorical strategy, deconstructing claims that witch trials should be limited to civil or ecclesiastical courts while constructing a dual-jurisdictional framework for trying witches. It uses canonical legal arguments to condemn witchcraft as both a spiritual and temporal offense, advocating joint trial procedures without offering administrative mechanisms.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 99
+}

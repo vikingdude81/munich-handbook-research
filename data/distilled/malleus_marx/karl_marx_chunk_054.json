@@ -1,0 +1,21 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 5,
+  "rhetorical_intensity": 4,
+  "deconstruction_targets": [
+    "the idea that use value alone determines commodity status",
+    "commodity production as inherently tied to labor without social exchange",
+    "the assumption that labor's value is inherent rather than socially mediated"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "",
+    "attributes": [],
+    "justification": ""
+  },
+  "moral_justification": "",
+  "summary": "The text deconstructs the relationship between labor, use value, and exchange value in commodities, arguing that labor must be socially exchanged to create commodity status. It emphasizes qualitative differences in labor types and their independence from direct use-value satisfaction. While rich in theoretical critique, it offers no concrete institutional proposals or constructive blueprints for economic organization.",
+  "source_id": "karl_marx",
+  "chunk_id": 54
+}

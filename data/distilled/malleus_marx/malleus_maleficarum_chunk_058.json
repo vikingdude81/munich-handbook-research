@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "Witches",
+    "Devils",
+    "The influence of the stars (as a natural force)",
+    "Sacred religious practices and objects"
+  ],
+  "constructive_proposals": [],
+  "scapegoat": {
+    "name": "Witches",
+    "attributes": [
+      "Causing physical harm through witchcraft",
+      "Inducing moral corruption (evil love, hatred)",
+      "Performing abortions and killing infants",
+      "Stealing virile members",
+      "Turning humans into beasts",
+      "Depriving people of reason"
+    ],
+    "justification": "Witches are portrayed as agents of the devil who use forbidden rituals to inflict specific, severe harms on humanity, including physical mutilation, spiritual corruption, and moral degradation. Their actions are framed as deliberate, malicious interventions that violate natural and divine order."
+  },
+  "moral_justification": "The text frames witchcraft as a grave crime against both God and nature, with witches acting as agents of the devil who corrupt human life through unnatural means. The universe's order is threatened by such actions, necessitating divine or ecclesiastical intervention to restore balance.",
+  "summary": "This passage deconstructs witchcraft as a diabolical force that systematically harms humanity through six specific methods, using emotionally charged language to condemn witches and justify their persecution as agents of moral and physical destruction.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 58
+}

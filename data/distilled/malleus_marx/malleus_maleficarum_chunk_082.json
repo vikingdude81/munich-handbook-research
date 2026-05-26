@@ -1,0 +1,30 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "superstitious witchcraft practices",
+    "ecclesiastical condemnation of folk remedies",
+    "unfounded accusations based on folklore"
+  ],
+  "constructive_proposals": [
+    "allowing civil law-tolerated methods for crop and cattle protection",
+    "rewarding those who use legitimate agricultural magic",
+    "requiring penitence from false accusers",
+    "careful ecclesiastical examination of permitted remedies"
+  ],
+  "scapegoat": {
+    "name": "the witch",
+    "attributes": [
+      "alleged supernatural agent causing misfortune",
+      "target of fear and moral panic",
+      "symbol of disorder in social and natural order"
+    ],
+    "justification": "The text portrays witches as the source of afflictions like 'burning pains' and unexplained misfortunes, framing them as dangerous beings whose powers must be contained through ritual control. Their supposed ability to cause harm through unseen forces makes them a classic scapegoat for events beyond human understanding or control."
+  },
+  "moral_justification": "The text justifies tolerance of certain folk practices by distinguishing between superstitious rituals and lawful, beneficial agricultural magic, arguing that civil authorities permit such acts when they serve practical purposes without scandalizing the Faith. It also implies moral accountability for false accusations, suggesting penitence is required to counteract unjust persecution.",
+  "summary": "The passage presents a mixed rhetorical stance: it deconstructs popular witchcraft beliefs as superstitious and dangerous while constructively proposing legal and ecclesiastical frameworks that permit certain folk remedies under regulated conditions. Witches are depicted as scapegoats for natural or social misfortunes, yet the text advocates for measured tolerance over outright condemnation, balancing moral concern with practical governance.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 82
+}

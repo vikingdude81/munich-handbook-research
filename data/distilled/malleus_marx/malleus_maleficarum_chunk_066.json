@@ -1,0 +1,29 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Deconstruction",
+  "entropy_score": 8,
+  "rhetorical_intensity": 7,
+  "deconstruction_targets": [
+    "the demoniac priest's claimed inability to control his speech and actions during exorcisms",
+    "the claim that the devil uses his body against his will",
+    "the assertion that holy places and sacred objects can bind or liberate demons",
+    "the idea that prayer and fasting are required for deliverance from certain demons"
+  ],
+  "constructive_proposals": [
+    "a venerable Bishop used fasting on bread and water for forty days combined with prayers and exorcisms to achieve liberation",
+    "the use of specific holy sites (Church of S. Praxedes, Church of S. Peter) as locations for spiritual intervention"
+  ],
+  "scapegoat": {
+    "name": "the demoniac priest",
+    "attributes": [
+      "claimed to be possessed by a devil",
+      "unable to control his tongue and bodily movements during exorcisms",
+      "attributed his affliction to offense against people through sermons"
+    ],
+    "justification": "The text portrays the priest as the primary target of deconstruction, depicting him as both victim of demonic possession and agent of unintended blasphemy through uncontrollable speech. His identity as a 'sober priest' contrasts with his demonic behavior, creating moral ambiguity that the text uses to undermine religious authority while simultaneously offering a constructive path to redemption through fasting and prayer."
+  },
+  "moral_justification": "The text frames the demoniac's affliction as divine punishment for offending others through preaching, yet offers redemption solely through human effort (fasting, prayer) rather than divine intervention alone. This creates a moral paradox where the Church must actively intervene to counteract both demonic forces and its own potential complicity in causing spiritual harm.",
+  "summary": "The passage deconstructs religious authority by exposing contradictions in exorcism practices\u2014claiming holy sites have power while also asserting God's hidden purposes\u2014and portrays the priest as both victim and unwitting instrument of blasphemy. While condemning demonic possession, it offers a constructive path to liberation through sustained prayer and fasting, revealing tension between institutional religious claims and practical spiritual efficacy.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 66
+}

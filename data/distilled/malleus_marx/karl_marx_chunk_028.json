@@ -1,0 +1,46 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Mixed",
+  "entropy_score": 6,
+  "rhetorical_intensity": 5,
+  "deconstruction_targets": [
+    "standing army",
+    "police as political agent of Central Government",
+    "high dignitaries and state officials with vested interests",
+    "churches as proprietary bodies (parson-power)",
+    "class prejudice in education and science",
+    "sham independence of judicial functionaries",
+    "centralized state power claiming supremacy over society",
+    "hierarchical investiture replacing universal suffrage"
+  ],
+  "constructive_proposals": [
+    "suppression of standing army and substitution with armed people",
+    "municipal councillors chosen by universal suffrage, revocable at short terms",
+    "Commune as working body, executive and legislative",
+    "police stripped of political attributes, made responsible and revocable agent of Commune",
+    "public service performed at workman\u2019s wage",
+    "elimination of state privileges for high dignitaries",
+    "education opened gratuitously to all, free from church and state interference",
+    "science freed from class prejudice and governmental force",
+    "judicial functionaries made elective, responsible, and revocable",
+    "universal suffrage serving people in Communes as employer suffrage serves workers",
+    "replacement of standing army with national militia (short term service)",
+    "district assemblies administering affairs via delegates bound by mandat imp\u00e9ratif",
+    "central government functions discharged by responsible communal agents"
+  ],
+  "scapegoat": {
+    "name": "the old state power and its institutional representatives",
+    "attributes": [
+      "usurping pre-eminence over society",
+      "claiming to embody national unity independent of the people",
+      "parasitic excrescence on national life",
+      "repressive organs (army, police)",
+      "spiritual force of repression (parson-power)"
+    ],
+    "justification": "The text consistently portrays the state and its institutions \u2014 military, police, judiciary, clergy, and bureaucracy \u2014 as illegitimate, self-serving, and detached from the working populace. These entities are depicted not merely as flawed but as actively oppressive, parasitic structures that must be dismantled to restore genuine popular sovereignty."
+  },
+  "moral_justification": "The moral justification is rooted in class emancipation: power must return to the working people directly through universal suffrage and direct administration. The old order is condemned for entrenching hierarchy, suppressing popular will, and serving elite interests under the guise of governance.",
+  "summary": "This passage presents a radical blueprint for social reorganization through the Paris Commune, combining deep deconstruction of state, military, religious, and class hierarchies with concrete constructive proposals for direct democracy, economic equality, and communal self-rule. While rhetorically charged in its moral condemnation of the old regime, it remains grounded in detailed institutional design rather than abstract critique.",
+  "source_id": "karl_marx",
+  "chunk_id": 28
+}

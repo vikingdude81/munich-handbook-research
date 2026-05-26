@@ -1,0 +1,37 @@
+{
+  "has_relevant_content": true,
+  "primary_mode": "Construction",
+  "entropy_score": 3,
+  "rhetorical_intensity": 4,
+  "deconstruction_targets": [
+    "frivolous appeals",
+    "unjust delays by judges",
+    "refusal to allow defense",
+    "proceeding without counsel or bishop's consent"
+  ],
+  "constructive_proposals": [
+    "Allow appeal only when judge acted contrary to law and justice",
+    "Grant two days for accused to respond after receiving appeal copy",
+    "Allow 30 days to prepare apostils, with option to answer immediately if expert",
+    "Fix term of 10-25 days for appeal hearing, reserving right to prorogue",
+    "Examine and discuss appeal grounds diligently during legal interval",
+    "Correct unjust proceedings by returning process to point where defense was denied",
+    "Assign specific day within legal limit (e.g., 10th or 20th) for hearing, with option to postpone",
+    "Ensure both giving and receiving of apostils are scheduled and provided"
+  ],
+  "scapegoat": {
+    "name": "the Judge",
+    "attributes": [
+      "delays cases unnecessarily",
+      "acts contrary to law and justice",
+      "refuses defense without justification",
+      "proceeds without counsel or bishop's consent",
+      "fails to examine appeal grounds properly"
+    ],
+    "justification": "The text repeatedly criticizes judges for procedural misconduct, particularly in delaying cases, ignoring legal requirements, denying defense rights, and acting unilaterally \u2014 all of which undermine the legitimacy of witch trials. These actions are framed as moral failures that justify appeals and corrective intervention."
+  },
+  "moral_justification": "The text upholds a rigid hierarchical legal order where judicial authority must be bound by law, procedure, and ecclesiastical oversight. Moral justification centers on preserving justice through strict adherence to prescribed legal rituals, preventing abuse of power, and ensuring that no accused person is condemned without due process \u2014 even while condemning those who subvert the system.",
+  "summary": "The passage presents a highly structured, procedural guide for judges handling witch trials appeals, balancing deconstruction of judicial misconduct with detailed constructive protocols. While it condemns specific abuses of power (e.g., delays, denial of defense), it simultaneously enforces a rigid legal framework with precise timelines and procedural safeguards, reflecting a conservative, institutionally loyal rhetoric aimed at preserving the integrity of ecclesiastical justice.",
+  "source_id": "malleus_maleficarum",
+  "chunk_id": 137
+}

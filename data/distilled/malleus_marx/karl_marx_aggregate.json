@@ -1,0 +1,1842 @@
+{
+  "source": "karl_marx",
+  "total_chunks": 61,
+  "valid": 61,
+  "failed": 0,
+  "stats": {
+    "avg_entropy": 7.23,
+    "max_entropy": 8,
+    "min_entropy": 5,
+    "avg_intensity": 6.57,
+    "high_void_count": 23,
+    "mode_distribution": {
+      "Deconstruction": 37,
+      "Mixed": 24
+    }
+  },
+  "analyses": [
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "religion",
+        "theology",
+        "Heaven",
+        "spiritual aroma of religion",
+        "fantastic reality of heaven",
+        "non-man",
+        "inverted world",
+        "opium of the people",
+        "valley of tears"
+      ],
+      "constructive_proposals": [
+        "establish the truth of this world",
+        "unmask self-estrangement in its unholy forms",
+        "move around himself as his own true Sun",
+        "discard illusions and regain senses",
+        "fashion reality like a man who has discarded illusions"
+      ],
+      "scapegoat": {
+        "name": "religion",
+        "attributes": [
+          "self-consciousness of man",
+          "self-esteem of man",
+          "inverted consciousness",
+          "spiritual point d'honneur",
+          "enthusiasm",
+          "moral sanction",
+          "solemn complement",
+          "universal basis of consolation and justification",
+          "fantastic realization of human essence",
+          "opium of the people"
+        ],
+        "justification": "Religion is portrayed as an illusory construct created by man that obscures his true reality, sustains oppression through false comfort, and must be discarded to achieve real happiness and self-actualization."
+      },
+      "moral_justification": "Man must liberate himself from religious illusion to reclaim his true reality and agency; religion is a tool of oppression maintained by inverted social structures that must be overcome through materialist critique.",
+      "summary": "The text deconstructs religion as an ideological superstructure rooted in alienated human existence, condemning it as a source of false consciousness and oppression while calling for the establishment of earthly truth and self-emancipation through materialist philosophy.",
+      "source_id": "karl_marx",
+      "chunk_id": 0
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 7,
+      "rhetorical_intensity": 8,
+      "deconstruction_targets": [
+        "German society",
+        "the German status quo",
+        "the ancien r\u00e9gime",
+        "the modern German regime",
+        "national economy",
+        "monopoly"
+      ],
+      "constructive_proposals": [
+        "publicizing shame to make it more shameful",
+        "forcing petrified relations to dance by singing their own tune",
+        "teaching people to be terrified at themselves to give them courage",
+        "joining the German nation's dream-history with present conditions",
+        "criticizing philosophical reflection of existing conditions as a critical break"
+      ],
+      "scapegoat": {
+        "name": "the German regime / German society",
+        "attributes": [
+          "anachronism",
+          "flagrant contradiction of generally recognized axioms",
+          "nothingness of the ancien r\u00e9gime",
+          "believes in itself",
+          "demands world imagine same",
+          "hides essence under semblance of alien essence",
+          "seeks refuge in hypocrisy and sophism"
+        ],
+        "justification": "The text repeatedly identifies the German regime as an anachronistic, contradictory form that clings to a dead past (the ancien r\u00e9gime), presents itself as essential while masking its true nature, and resists historical progress. It is framed as the last remnant of outdated structures whose downfall is both tragic and necessary for humanity's cheerful historical destiny."
+      },
+      "moral_justification": "The moral justification is that Germany must break from its inherited past \u2014 particularly its ancien r\u00e9gime legacy \u2014 to achieve a progressive, modern national identity. The text frames German exceptionalism as a burden on Europe, arguing that Germany\u2019s failure to shed its outdated structures prevents true historical advancement, and thus demands radical transformation through criticism and dismantling of existing forms.",
+      "summary": "The passage is a highly charged deconstruction of German political and social identity, condemning its attachment to the ancien r\u00e9gime and national economic isolationism while advocating for a revolutionary break through public shaming, ideological confrontation, and alignment with progressive European ideals. It blends moral condemnation with calls for systemic transformation.",
+      "source_id": "karl_marx",
+      "chunk_id": 1
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 7,
+      "rhetorical_intensity": 8,
+      "deconstruction_targets": [
+        "religion",
+        "theological structures",
+        "Prussian and Austrian state authority",
+        "philistines (bourgeoisie)",
+        "censorship laws",
+        "constitutional illusions in Germany"
+      ],
+      "constructive_proposals": [
+        "radical revolution to overthrow existing relations",
+        "secularization beyond mere confiscation of church estates",
+        "emancipation through philosophical transformation of priestly Germans into men",
+        "rejection of abstract thought without practical engagement",
+        "alignment of theoretical needs with immediate practical needs"
+      ],
+      "scapegoat": {
+        "name": "Prussia and Austria (and by extension, the German state apparatus)",
+        "attributes": [
+          "hypocritical",
+          "oppressive",
+          "authoritarian",
+          "censorship-enforcing",
+          "torturer of press freedom"
+        ],
+        "justification": "The text condemns Prussia and Austria for maintaining oppressive, hypocritical state structures that combine the 'tortures of censorship' with anti-press laws, while claiming to uphold constitutional ideals. It frames them as embodiments of the devalued, enslaved essence that must be overthrown through radical revolution."
+      },
+      "moral_justification": "The moral justification is rooted in the necessity of revolutionary violence and radical transformation to liberate humanity from internalized oppression \u2014 particularly religious alienation, state tyranny, and bourgeois hypocrisy. The text frames these systems as dehumanizing and enslaving, requiring not reform but overthrow by material force and philosophical enlightenment.",
+      "summary": "This passage is a highly charged, mixed-mode rhetoric that deconstructs German historical and theoretical developments \u2014 especially Protestantism, state authority, and constitutional illusion \u2014 while proposing radical revolution and philosophical emancipation as constructive alternatives. It exhibits maximum rhetorical intensity through apocalyptic moral framing, us-versus-them dichotomies, and condemnation of systemic hypocrisy, with minimal constructive blueprint beyond revolutionary overthrow and inner transformation.",
+      "source_id": "karl_marx",
+      "chunk_id": 2
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 7,
+      "rhetorical_intensity": 8,
+      "deconstruction_targets": [
+        "German middle class",
+        "philistine mediocrity",
+        "class struggle hierarchy (nobility, monarchy, bureaucracy, bourgeoisie)",
+        "the concept of gradual emancipation in Germany",
+        "the idea that man is the supreme being",
+        "partial victories over the Middle Ages as a barrier to full emancipation"
+      ],
+      "constructive_proposals": [
+        "The proletariat must emancipate itself from all other spheres of society simultaneously",
+        "Emancipation requires the transcendence [Aufhebung] of the proletariat through philosophy",
+        "Philosophy and proletariat are interdependent; neither can achieve self-realization without the other",
+        "True liberation in Germany requires a thorough, comprehensive revolution that dismantles all forms of bondage"
+      ],
+      "scapegoat": {
+        "name": "the German middle class and bourgeoisie",
+        "attributes": [
+          "representative of philistine mediocrity",
+          "morally self-satisfied but intellectually stagnant",
+          "resistant to emancipation without total rupture",
+          "symbolic embodiment of partial, antiquated social forms"
+        ],
+        "justification": "The text consistently portrays the German middle class and bourgeoisie as embodiments of outdated, mediocre, and self-reinforcing social structures that resist genuine transformation. They are depicted as morally stagnant ('narrow-hearted essence'), incapable of true emancipation without dismantling all existing hierarchies, and ultimately responsible for perpetuating systemic oppression through their very existence within civil society."
+      },
+      "moral_justification": "The text frames social progress as a moral imperative where partial reforms are insufficient; only the complete dissolution of hierarchical structures and simultaneous liberation of all classes can achieve true human emancipation. It positions the proletariat not merely as an oppressed class but as the necessary agent of universal transformation, with philosophy serving as its intellectual weapon \u2014 making moral victory inseparable from structural revolution.",
+      "summary": "The passage is a highly charged, deconstructive critique of German social and political structures, particularly targeting the middle class and bourgeoisie for their role in perpetuating mediocrity and resisting genuine emancipation. While it offers a vision of revolutionary transformation through proletarian-led, comprehensive emancipation guided by philosophy, its rhetoric is dominated by condemnation and apocalyptic framing rather than constructive blueprinting, resulting in high rhetorical intensity and maximal deconstruction with limited practical scaffolding.",
+      "source_id": "karl_marx",
+      "chunk_id": 3
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "German Idealism and German Philosophy (specifically Young Hegelians)",
+        "Hegelian system and its categories",
+        "Religion as an ideological construct",
+        "The notion of 'absolute spirit' and its supposed decomposition",
+        "Philosophical charlatanry and national pride derived from abstract thought"
+      ],
+      "constructive_proposals": [
+        "Examine the history of men (human society) rather than nature or philosophy",
+        "Critique ideology as a distorted conception or abstraction from historical reality",
+        "Position materialist critique beyond national boundaries ('standpoint beyond the frontiers of Germany')"
+      ],
+      "scapegoat": {
+        "name": "German Idealism / Young Hegelians",
+        "attributes": [
+          "Intellectual pretension",
+          "Parochial narrowness",
+          "Creation of illusions about achievements",
+          "Tragicomic contrast between illusion and reality",
+          "Exploitation of absolute spirit for philosophical gain"
+        ],
+        "justification": "The text systematically dismantles German Idealism, particularly the Young Hegelians, portraying them as intellectually pretentious figures who created elaborate illusions about their achievements while producing no substantive societal change. Their critique of religion and Hegel is framed as self-referential and detached from material reality."
+      },
+      "moral_justification": "The text condemns German philosophical idealism for its detachment from practical reality, its self-aggrandizing narratives, and its failure to engage with material conditions or historical practice, instead indulging in abstract speculation that ultimately serves no transformative purpose.",
+      "summary": "This passage is a highly charged deconstruction of German Idealism, particularly the Young Hegelians, condemning their abstract philosophy as detached from reality while calling for a materialist critique grounded in the history of human society rather than philosophical abstraction.",
+      "source_id": "karl_marx",
+      "chunk_id": 4
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "Tribal ownership",
+        "Communal and State ownership",
+        "Private property (as abnormal form)",
+        "Division of labour",
+        "Class relations",
+        "Town-country antagonism",
+        "Industry-maritime commerce conflict"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The text deconstructs historical modes of production and social organization by tracing how economic forms\u2014tribal, ancient communal, feudal\u2014and divisions of labour shape class structures, property relations, and inter-national dynamics. It emphasizes material conditions over individual agency, critiques the emergence of private property as a source of social antagonism, and implies that existing social orders are historically determined rather than natural or just. While rhetorically charged with moral undertones (e.g., framing private property as 'abnormal' and linked to decay), it offers no concrete constructive blueprint, remaining focused on analysis and condemnation of historical forms.",
+      "source_id": "karl_marx",
+      "chunk_id": 5
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "German philosophy (idealist tradition)",
+        "Abstract, speculative conceptions of consciousness and ideology",
+        "The notion that ideas are independent from material conditions",
+        "Philosophy as an autonomous source of knowledge"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "German philosophy (idealist tradition)",
+        "attributes": [
+          "Descends from heaven to earth",
+          "Treats consciousness as starting point rather than material reality",
+          "Reifies abstract ideas and ideological forms as independent"
+        ],
+        "justification": "The text explicitly contrasts its method with German philosophy, accusing it of treating consciousness as the origin and descending from abstract ideals rather than ascending from real, active human life. This idealist tradition is framed as fundamentally detached from material conditions and empirically verifiable social practice."
+      },
+      "moral_justification": "The rhetoric frames idealist philosophy and speculative ideology as not only incorrect but epistemologically violent \u2014 distorting reality by inverting it like a camera obscura or retinas, thereby obscuring the true material basis of human existence. This inversion is presented as a moral and scientific failure.",
+      "summary": "This passage is a forceful deconstruction of idealist philosophy and abstract ideology, arguing that consciousness and ideas are not independent origins but epiphenomena of real, material social practice. It rejects speculative metaphysics in favor of an empirically grounded historical materialism where individuals shape their conditions through productive activity.",
+      "source_id": "karl_marx",
+      "chunk_id": 6
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "communal domestic economy",
+        "abolition of individual economy",
+        "abolition of private property",
+        "theoretical foundation of communal economy",
+        "German inability to comprehend historical materialism"
+      ],
+      "constructive_proposals": [
+        "development of machinery and productive forces (water, gas-lighting, steam-heating)",
+        "removal of antagonism between town and country",
+        "building of towns with communal buildings for specific purposes (prisons, barracks)"
+      ],
+      "scapegoat": {
+        "name": "Germans",
+        "attributes": [
+          "lack power of comprehension",
+          "lack material evidence",
+          "historical disconnect from evolving productive relations"
+        ],
+        "justification": "The text attributes the impossibility of writing this history to Germans, claiming they lack both intellectual capacity and empirical connection to material conditions, rendering them incapable of understanding historical development tied to industry and exchange."
+      },
+      "moral_justification": "",
+      "summary": "The passage presents a dialectical analysis of economic and social forms, arguing that communal domestic economies require advanced productive forces and cannot exist without the abolition of private property and individual economy. It critiques theoretical or isolated approaches to communal living while emphasizing material conditions as foundational. While deconstructing idealized notions of communalism and German historical exceptionalism, it simultaneously proposes concrete material prerequisites for social transformation, resulting in a mixed rhetorical mode with high entropy due to its critical yet constructive tone.",
+      "source_id": "karl_marx",
+      "chunk_id": 7
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "alienation of labor",
+        "the State as an independent, illusory power",
+        "class struggle masked by political forms (democracy, aristocracy, monarchy)",
+        "private property and the relation of supply and demand",
+        "historical development driven by externalized social powers"
+      ],
+      "constructive_proposals": [
+        "abolition of the old form of society in its entirety",
+        "communistic regulation of production",
+        "dissolution of the alien relation between men and what they produce",
+        "exchange, production, and mutual relations under human control"
+      ],
+      "scapegoat": {
+        "name": "the State",
+        "attributes": [
+          "independent form",
+          "divorced from real interests",
+          "illusory communal life",
+          "dominant class dominance",
+          "alien power over individuals"
+        ],
+        "justification": "The text portrays the State as an external, self-perpetuating structure that emerges from class divisions and the alienation of labor. It is not a tool for genuine community but an instrument of domination that masks real class struggles. The State is thus framed as the primary antagonist \u2014 an illusory construct that enslaves individuals by appearing autonomous while serving elite interests."
+      },
+      "moral_justification": "The moral stance is fundamentally revolutionary: the current social order is portrayed as inherently alienating and oppressive, with individuals estranged from their own labor and from communal life. The text condemns the fixation of social activity into objective, uncontrollable powers (like property and the State), which it sees as unnatural and destructive to human freedom. Liberation requires dismantling these structures and reclaiming control over production and exchange.",
+      "summary": "The passage is a radical deconstruction of capitalist society and the State, arguing that they are alienating constructs born from the division of labor and private property. It critiques political forms like democracy as illusions masking class struggle, while proposing communism as a solution through collective ownership and regulation of production. The rhetoric is highly charged, portraying existing structures as oppressive and illegitimate, with minimal constructive detail beyond the general call for communal life.",
+      "source_id": "karl_marx",
+      "chunk_id": 8
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 5,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "the conception of history held hitherto which neglects the real relationships and confines itself to high-sounding dramas of princes and states",
+        "idealistic view of history that looks for categories in every period",
+        "mental criticism, resolution into 'self-consciousness', transformation into 'apparitions', 'spectres', 'fancies'",
+        "the notion that consciousness can be dissolved by abstract mental processes"
+      ],
+      "constructive_proposals": [
+        "expound the real process of production starting from material production of life itself",
+        "comprehend civil society in its various stages as the basis of all history",
+        "explain all theoretical products and forms of consciousness, religion, philosophy, ethics etc. from that basis",
+        "trace their origins and growth from material practice",
+        "depict the whole thing in its totality including reciprocal action of social relations",
+        "practical overthrow of actual social relations which gave rise to idealistic humbug"
+      ],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The text deconstructs idealist and abstract conceptions of history while constructing a materialist framework that grounds historical development in civil society, productive forces, and the practical overthrow of existing social relations.",
+      "source_id": "karl_marx",
+      "chunk_id": 9
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "German historiography",
+        "religious man as primitive man",
+        "theoretical production of fancies replacing material reality",
+        "national character of German historical thought",
+        "chimeras like 'God-Man' and 'Man' presiding over history",
+        "arbitrary constructions and literary gossip instead of research",
+        "pompous and arrogant hucksters of ideas",
+        "theorists who ignore real events and other nations"
+      ],
+      "constructive_proposals": [
+        "explain theoretical phrases from actual existing relations",
+        "altered circumstances will dissolve notions from consciousness",
+        "real, practical dissolution through changed conditions rather than theory"
+      ],
+      "scapegoat": {
+        "name": "German theorists (Feuerbach, Stirner, Bauer, etc.)",
+        "attributes": [
+          "nationalistic",
+          "religious idealism",
+          "detached from material reality",
+          "arrogant and pompous",
+          "ignores real historical events",
+          "replaces substance with abstract ideas"
+        ],
+        "justification": "These theorists are condemned for constructing a purely German-centric, idealist history that replaces material conditions with fantasies of 'God-Man' and abstract 'Man,' ignoring class struggle and proletarian reality while claiming universal significance."
+      },
+      "moral_justification": "The text condemns German philosophical idealism as religious delusion that obscures real historical and material relations, particularly through the elevation of theory over practice and national pride disguised as universal critique.",
+      "summary": "This passage is a highly charged deconstruction of German historiography and idealist philosophy, denouncing its detachment from material reality, nationalistic bias, and reliance on abstract religious and metaphysical constructs while advocating for a materialist understanding grounded in actual historical conditions.",
+      "source_id": "karl_marx",
+      "chunk_id": 10
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "Feuerbach's conception of 'Man' as an abstract, contemplative entity",
+        "Feuerbach's separation of man from historical and material conditions",
+        "Feuerbach's idealist view of nature and sensuous experience",
+        "Feuerbach's failure to recognize industry and commerce as foundational to human existence"
+      ],
+      "constructive_proposals": [
+        "The text implies that revolutionizing the existing world through practical, materialist action is necessary",
+        "It suggests that understanding man as a product of historical development, industry, and social relations resolves philosophical problems"
+      ],
+      "scapegoat": {
+        "name": "Feuerbach",
+        "attributes": [
+          "Abstract thinker",
+          "Contemplative rather than practical",
+          "Idealist philosopher",
+          "Disconnected from material reality",
+          "Fails to recognize historical development and social conditions"
+        ],
+        "justification": "Feuerbach is portrayed as trapped in theoretical abstraction, treating 'Man' as a static essence separate from historical and material conditions. He idealizes nature and sensuous experience while ignoring the role of industry, commerce, and class struggle in shaping reality. The text consistently critiques his inability to engage with practical revolution or recognize that human existence is historically constituted through economic activity."
+      },
+      "moral_justification": "Feuerbach's philosophy is condemned for maintaining a false separation between thought and material reality, thereby perpetuating illusion rather than enabling emancipation through praxis. His contemplative stance is framed as inadequate to the task of transforming oppressive social conditions.",
+      "summary": "The passage deconstructs Feuerbach\u2019s idealist and contemplative materialism by arguing that human existence is historically and materially constituted through industry, commerce, and labor. It condemns his abstraction of 'Man' from concrete social relations and emphasizes that revolutionary praxis \u2014 not philosophical speculation \u2014 is required to transform the world.",
+      "source_id": "karl_marx",
+      "chunk_id": 11
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the notion that ruling class dominance is merely the rule of ideas or concepts",
+        "the abstraction of historical ideas as universal and self-determined",
+        "the separation of ideas from their material production conditions and producers",
+        "Hegel's idealist philosophy and its claim that history progresses through concept alone",
+        "the mystical transformation of 'concept' into 'Self-Consciousness' or 'philosophers' as historical agents"
+      ],
+      "constructive_proposals": [
+        "separate ruling ideas from empirical rulers and recognize their illusionary rule",
+        "establish an order among ruling ideas by revealing their mystical connections through understanding them as self-determinations",
+        "remove the mystical appearance of the 'self-determining concept' by transforming it into persons (Self-Consciousness or philosophers) to expose material reality"
+      ],
+      "scapegoat": {
+        "name": "philosophers, thinkers, ideologists",
+        "attributes": [
+          "dominant in history according to Hegel",
+          "manufacturers of history",
+          "rulers and 'council of guardians'",
+          "agents of mystical illusion"
+        ],
+        "justification": "The text identifies philosophers and ideologists as the primary agents who sustain the illusion that ideas, not material conditions or classes, rule history. They are scapegoated for transforming abstract concepts into supposed self-determined historical actors, thereby obscuring class struggle and material production."
+      },
+      "moral_justification": "The text condemns the idealist interpretation of history as a mystical concealment of class domination and exploitation, arguing that it falsely universalizes ruling class interests and erases the material basis of social change.",
+      "summary": "This passage is a deconstructive critique of Hegelian idealism and liberal historiography, which abstracts ideas as universal forces governing history. It dismantles the notion that ruling classes dominate through ideas alone, exposing how philosophers and ideologues mystify class rule by turning concepts into self-determined agents. While it offers three methodological proposals to reveal the material reality behind ideological illusions, its primary mode is deconstruction with high rhetorical intensity and entropy, targeting abstract thought, philosophical authority, and the separation of ideas from material conditions.",
+      "source_id": "karl_marx",
+      "chunk_id": 12
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "feudal organization of the country",
+        "isolation and crudity of peasants",
+        "powerlessness of urban rabble",
+        "ineffectiveness of revolts",
+        "guild system as a mechanism of control",
+        "separation of town and country",
+        "dependence on material premises for communal life"
+      ],
+      "constructive_proposals": [
+        "abolition of antagonism between town and country",
+        "mass of material premises required for communal life",
+        "enumeration of conditions necessary for communal life"
+      ],
+      "scapegoat": {
+        "name": "the rabble",
+        "attributes": [
+          "devoid of any power",
+          "composed of individuals strange to one another",
+          "entered separately",
+          "unorganised",
+          "subject to the station assigned by labour demand and urban competitors"
+        ],
+        "justification": "The text portrays the rabble as a passive, disorganized group stripped of agency due to structural conditions \u2014 their lack of collective power stems from fragmented entry into towns, absence of organized labor structures, and subjugation to guild masters or economic necessity. They are not condemned for moral failing but rendered powerless by systemic design."
+      },
+      "moral_justification": "The text does not invoke explicit moral judgment but frames inequality as a structural inevitability rooted in material conditions and historical development. It implies that existing social relations \u2014 particularly the separation of town and country, private property based on labor, and hierarchical guild systems \u2014 are naturalized outcomes of economic necessity rather than ethical choices.",
+      "summary": "The passage deconstructs medieval urban-rural hierarchies by showing how economic necessity, not moral failure, produced fragmented labor, subordinated communities, and entrenched inequality. It critiques feudal structures and the guild system as mechanisms of control that prevented collective power, while suggesting that true communal life requires abolishing town-country antagonism \u2014 a condition dependent on material foundations beyond mere will.",
+      "source_id": "karl_marx",
+      "chunk_id": 13
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "guild system",
+        "feudal landed nobility",
+        "feudal landed property",
+        "patriarchal relationships in guilds",
+        "petty bourgeoisie dominance"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The passage deconstructs the feudal and guild-based economic order by highlighting its collapse due to commercial expansion, the rise of mobile capital, and the emergence of a new bourgeois class. It describes structural shifts in labor relations, property forms, and state power without offering constructive alternatives.",
+      "source_id": "karl_marx",
+      "chunk_id": 14
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "tribal property",
+        "feudal landed property",
+        "corporative movable property",
+        "communal institutions",
+        "the State",
+        "natural growth",
+        "natural relationships",
+        "crafts and earlier stages of industry",
+        "countryside",
+        "individuality of nationalities",
+        "old world",
+        "religion",
+        "morality",
+        "ideology"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "big industry",
+        "attributes": [
+          "automatic system",
+          "mass of productive forces",
+          "one-sided development",
+          "destructive forces",
+          "unbearable labour relation",
+          "class-unifying force",
+          "destroyer of natural character",
+          "subjugator of science to capital"
+        ],
+        "justification": "Big industry is portrayed as the primary agent that dismantles traditional social, economic, and cultural structures. It systematically destroys pre-existing forms of property, community, and natural human relationships, replacing them with commodified, competitive, and alienating mechanisms under private property. The text frames it as an all-consuming force that erases national identities, subordinates science to capital, and makes labour itself unbearable \u2014 positioning it as the central destructive force in historical development."
+      },
+      "moral_justification": "The text presents big industry as inherently destructive to human dignity, natural social forms, and communal life. It implies a moral failing not through explicit ethical judgment but through relentless depiction of devastation \u2014 erasing traditions, reducing relationships to monetary ones, creating alienated labour, and centralizing power in impersonal industrial systems. The condemnation is embedded in the description of what big industry destroys rather than what it builds.",
+      "summary": "The passage offers a sweeping deconstruction of big industry as a historically transformative yet destructive force that dismantles pre-industrial social structures, erodes communal and national identities, subordinates nature and science to capital, and creates alienated, class-based labour. It critiques the automatic, universalizing logic of industrial capitalism without offering constructive alternatives, instead focusing on the irreversible damage it inflicts across economic, cultural, and human dimensions.",
+      "source_id": "karl_marx",
+      "chunk_id": 15
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "juridical illusion of property as mere legal title without actual possession",
+        "law as mere expression of will rather than social relation",
+        "individual free will in contracts as ideological fiction",
+        "bourgeois class ideology that separates occupation from reality",
+        "fixed concepts in jurisprudence and politics that reify social relations",
+        "the state, law, religion, and morality as products of ruling class consciousness"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "jurists, politicians, clerics, moralists, ideologues",
+        "attributes": [
+          "profess ideology that obscures material reality",
+          "maintain legal and moral fictions that serve ruling class interests",
+          "reinforce alienation by treating social relations as autonomous concepts"
+        ],
+        "justification": "These groups are portrayed as the primary carriers of false consciousness, upholding a juridical illusion that masks exploitation and prevents recognition of material conditions and class struggle."
+      },
+      "moral_justification": "The text argues that existing legal, religious, and political institutions perpetuate social alienation by presenting arbitrary social relations as natural, fixed, or freely chosen, thereby obscuring the material basis of class domination and preventing genuine emancipation.",
+      "summary": "This passage is a radical deconstruction of liberal legal and political ideology, exposing how property, law, and individual freedom are ideological constructs maintained by ruling classes. It critiques the reification of social relations in consciousness while rejecting any constructive blueprint, instead emphasizing material conditions, class struggle, and historical transformation.",
+      "source_id": "karl_marx",
+      "chunk_id": 16
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "feudal landed property",
+        "the estate system",
+        "the State",
+        "natural premises as creatures of men"
+      ],
+      "constructive_proposals": [
+        "communism overturns the basis of all earlier relations of production and intercourse",
+        "communism consciously treats natural premises as creations of men, strips them of their natural character, and subjugates them to united individuals",
+        "organisation is essentially economic, based on material production of unity conditions",
+        "turns existing conditions into conditions of unity",
+        "creates reality where nothing exists independently of individuals"
+      ],
+      "scapegoat": {
+        "name": "the bourgeoisie and the landed nobility (estate system)",
+        "attributes": [
+          "dominant class",
+          "oppressor of proletariat",
+          "beneficiary of feudal structures",
+          "creates conditions of alienation"
+        ],
+        "justification": "The text identifies the bourgeoisie and landed nobility as primary agents maintaining oppressive estate-based relations, where serfs remain tied to feudal obligations while bourgeoisie gains partial freedom through movable property. They are framed as upholding a system that reduces individuals to 'average individuals' rather than autonomous subjects."
+      },
+      "moral_justification": "The proletarians must abolish the very condition of their existence \u2014 labour itself \u2014 and overthrow the State, which has become an instrument of class domination alienated from individual freedom. This is presented as necessary for true self-assertion against a system that sacrifices individuals 'from youth upwards' and denies class mobility.",
+      "summary": "The text contrasts the limited, fragmented freedom of refugee serfs with the systemic unfreedom of proletarians trapped in labour under bourgeois-dominated estate structures. It deconstructs feudal and capitalist relations as inherently alienating, arguing that only through communist revolution \u2014 abolishing private property relations, the State, and wage labour \u2014 can individuals achieve genuine control over their conditions of existence.",
+      "source_id": "karl_marx",
+      "chunk_id": 17
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 7,
+      "rhetorical_intensity": 8,
+      "deconstruction_targets": [
+        "traditional power of the State and law",
+        "the illusion of community in the State",
+        "the idea that productive forces alone determine historical development",
+        "the notion that history is solely about taking or conquest"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "barbarian conquerors",
+        "attributes": [
+          "violent",
+          "driven by population pressure and need for new means of production",
+          "agents of destruction who impose new social organizations"
+        ],
+        "justification": "The text portrays barbarian conquerors as agents of violent transformation, emphasizing their role in dismantling old civilizations (e.g., Rome) and imposing new systems (e.g., feudalism), while downplaying structural contradictions in favor of attributing change to external force."
+      },
+      "moral_justification": "",
+      "summary": "The passage deconstructs traditional historical narratives by arguing that social development is driven by the contradiction between productive forces and existing forms of intercourse, not by linear progress or moral agency. It critiques the illusion of state authority and the persistence of outdated social relations. While it offers a structural analysis, it lacks constructive proposals, relying instead on revolutionary rupture as the sole resolution. The rhetoric is highly charged, framing historical change as violent and chaotic, with barbarian conquerors cast as necessary agents of transformation amid systemic contradictions.",
+      "source_id": "karl_marx",
+      "chunk_id": 18
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "private property",
+        "division of labour",
+        "fragmentation of productive forces",
+        "alienated individuals",
+        "restricted self-activity"
+      ],
+      "constructive_proposals": [
+        "universal appropriation of productive forces by all individuals",
+        "development of total capacities through collective ownership",
+        "abolition of private property",
+        "transformation of labour into self-activity",
+        "establishment of universal intercourse among individuals"
+      ],
+      "scapegoat": {
+        "name": "private property",
+        "attributes": [
+          "indifferent to individual intercourse",
+          "material form divorced from individuals",
+          "source of alienation and restriction",
+          "obstacle to self-activity"
+        ],
+        "justification": "Private property is portrayed as the material embodiment of fragmented productive forces that exist independently of individuals, severing them from their labor and transforming productive forces into external objects owned by a few. It sustains alienation by making individuals dependent on ownership rather than active participation, thereby stunting self-activity and reducing labor to a negative means of survival."
+      },
+      "moral_justification": "The text frames the current state as a moral failure where productive forces have become alienated from individuals, reduced to indifferent property relations that undermine human self-activity and existence. The proletariat is positioned as the only class capable of restoring universal connection through collective appropriation, making private property not just economically obsolete but morally necessary to abolish for human emancipation.",
+      "summary": "The passage deconstructs capitalism by showing how the division of labour and private property alienate individuals from productive forces, reducing labor to a negative form of self-activity. It proposes that only through universal appropriation by all proletarians \u2014 via revolution and collective ownership \u2014 can self-activity be restored, private property abolished, and humanity transformed into complete individuals.",
+      "source_id": "karl_marx",
+      "chunk_id": 19
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "Bourgeoisie",
+        "Feudal relations",
+        "Religious fervour",
+        "Chivalrous enthusiasm",
+        "Philistine sentimentalism",
+        "Chartered freedoms",
+        "Family sentimentality"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "Bourgeoisie",
+        "attributes": [
+          "Exploitative",
+          "Revolutionary in dismantling tradition",
+          "Reduces human relations to self-interest and cash payment",
+          "Converts respected professions into wage labourers",
+          "Destroys family sentimentality",
+          "Substitutes free trade for moral obligations"
+        ],
+        "justification": "The text systematically portrays the bourgeoisie as a destructive force that dismantles historical, cultural, and social structures for self-interest. It attributes to them the deliberate erosion of moral, familial, and professional bonds in favor of economic calculation and exploitation."
+      },
+      "moral_justification": "The bourgeoisie is condemned for prioritizing profit over human values, destroying traditional social ties, reducing individuals to economic units, and replacing noble or spiritual motivations with cold materialism. Their rise is framed as a moral decline disguised as progress.",
+      "summary": "This passage deconstructs the bourgeoisie as a historically destructive class that replaces feudal and moral relations with exploitative, self-interested economic relations. It emphasizes their role in dismantling family, professional, and cultural institutions while promoting free trade and individualism at the expense of communal values.",
+      "source_id": "karl_marx",
+      "chunk_id": 20
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "feudal relations of property",
+        "bourgeoisie class",
+        "property relations",
+        "modern conditions of production",
+        "commercial crises",
+        "bourgeois society itself"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "the bourgeoisie",
+        "attributes": [
+          "creates productive forces beyond its control",
+          "forges weapons against itself",
+          "calls into existence the proletariat",
+          "exploits labor to maintain power",
+          "cannot manage over-production it creates"
+        ],
+        "justification": "The text portrays the bourgeoisie as both creator and destroyer of its own system, generating productive forces that become unmanageable, using exploitation to sustain itself while simultaneously enabling the rise of a class (proletarians) designed to overthrow it. It frames crises like over-production not as failures but as inevitable outcomes of bourgeois development."
+      },
+      "moral_justification": "The bourgeoisie is condemned for creating systemic instability through its own economic expansion, which ultimately threatens its survival; its destruction of feudal structures unleashed forces it cannot control, making it responsible for the chaos that follows.",
+      "summary": "This passage deconstructs the historical role of the bourgeoisie in dismantling feudalism and reorganizing society around centralized production and governance. It argues that the very productive forces and political institutions created by the bourgeoisie become incompatible with its continued rule, leading to systemic crises, over-production, and self-endangerment. While intensely critical and rhetorically charged, it offers no constructive alternatives \u2014 only analysis of contradictions within capitalist development.",
+      "source_id": "karl_marx",
+      "chunk_id": 21
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "bourgeoisie",
+        "aristocracy",
+        "small bourgeoisie (low e r bourgeoisie, small manufacturer, shopkeeper, artisan, peasant)",
+        "lumpenproletariat",
+        "old society's moral and legal frameworks"
+      ],
+      "constructive_proposals": [
+        "formation of workers' unions and permanent associations",
+        "centralization of local struggles into a national class struggle",
+        "legislative recognition of workers' interests (e.g., ten-hours bill in England)",
+        "abolition of previous modes of appropriation and individual property securities"
+      ],
+      "scapegoat": {
+        "name": "lumpenproletariat",
+        "attributes": [
+          "social scum",
+          "passively rotting mass",
+          "thrown off by lowest layers of old society",
+          "prepared for reactionary intrigue",
+          "bribed tool"
+        ],
+        "justification": "The text describes the lumpenproletariat as a 'dangerous class' and 'social scum' that may be swept into the revolutionary movement but is fundamentally unprepared for revolution, instead being suited to serve as tools of reactionary forces due to their deteriorated living conditions."
+      },
+      "moral_justification": "The proletariat is framed as the only truly revolutionary class destined to dismantle bourgeois society, while other classes are depicted as decaying or counter-revolutionary; moral legitimacy is derived from historical materialist analysis rather than ethical judgment.",
+      "summary": "This passage presents a deconstructionist critique of class structures and bourgeois dominance, arguing that capitalism inherently generates internal contradictions that empower the proletariat to overthrow existing orders. While it dismantles multiple classes and ideologies, it also proposes concrete revolutionary pathways through unionization, legislative action, and abolition of private property, making its mode mixed with high rhetorical intensity and significant entropic force.",
+      "source_id": "karl_marx",
+      "chunk_id": 22
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "bourgeois property",
+        "private property as defined by bourgeois society",
+        "individuality under bourgeois conditions",
+        "freedom of trade and selling/buying under capitalism"
+      ],
+      "constructive_proposals": [
+        "abolition of bourgeois private property",
+        "transformation of personal property into common property without class character",
+        "redefinition of labor's role so that accumulated labor enriches the laborer rather than capitalists"
+      ],
+      "scapegoat": {
+        "name": "the bourgeoisie",
+        "attributes": [
+          "property owner",
+          "middle-class individual",
+          "exploiter through private property",
+          "beneficiary of class antagonism",
+          "defender of bourgeois freedom and independence"
+        ],
+        "justification": "The text consistently frames the bourgeoisie as the sole beneficiary of existing property relations, the defender of a system that reduces living labor to a tool for capital accumulation, and the group whose 'individuality' and 'freedom' are portrayed as dependent on class exploitation. It is the central target of condemnation and redefinition."
+      },
+      "moral_justification": "The moral justification centers on the inherent injustice of class antagonism and exploitation: private property in bourgeois hands is not a natural right but a social relation rooted in the exploitation of the many by the few, and its abolition is framed as necessary for human emancipation and the end of systemic oppression.",
+      "summary": "This passage deconstructs bourgeois ideology by exposing private property as a historically contingent construct tied to class exploitation, particularly capital-wage labor antagonism. It rejects moral claims about personal freedom and self-acquired property while proposing collective ownership and reorienting labor's purpose toward enriching the worker rather than capital. The rhetoric is highly charged with revolutionary urgency, targeting the bourgeoisie as the embodiment of oppressive individuality.",
+      "source_id": "karl_marx",
+      "chunk_id": 23
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "bourgeois marriage",
+        "community of women",
+        "religious ideas",
+        "moral ideas",
+        "philosophical ideas",
+        "juridical ideas",
+        "eternal truths",
+        "class antagonisms"
+      ],
+      "constructive_proposals": [
+        "raise the proletariat to the position of ruling class",
+        "wrest all capit al from the bourgeoisie",
+        "centralise all instruments of production in the hands of the State",
+        "increase the total productive forces as rapidly as possible"
+      ],
+      "scapegoat": {
+        "name": "bourgeois",
+        "attributes": [
+          "hypocritical",
+          "seductive",
+          "exploitative",
+          "reactionary",
+          "oppressor of women and proletarians"
+        ],
+        "justification": "The text repeatedly portrays the bourgeois as morally corrupt, engaging in seduction of each other's wives and daughters while claiming moral superiority. They are depicted as maintaining a system of 'wives in common' that is exploitative and hypocritical, defending patriarchal structures that reduce women to instruments of production."
+      },
+      "moral_justification": "The text frames the bourgeois not merely as economically dominant but as morally bankrupt, using religious, philosophical, and juridical ideas to justify exploitation. It condemns their moral indignation over the 'community of women' as a pretext for maintaining patriarchal control, positioning them as agents of reaction against historical necessity.",
+      "summary": "The passage is a mixed-mode deconstruction that dismantles bourgeois ideology while proposing a concrete revolutionary program. It uses high rhetorical intensity to condemn the bourgeois and traditional institutions (marriage, religion, morality) as tools of exploitation, while outlining a constructive vision of proletarian revolution through state centralization of production and class emancipation.",
+      "source_id": "karl_marx",
+      "chunk_id": 24
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 7,
+      "rhetorical_intensity": 8,
+      "deconstruction_targets": [
+        "feudal aristocracy",
+        "bourgeoisie",
+        "Christian Socialism",
+        "petty-bourgeois Socialism"
+      ],
+      "constructive_proposals": [
+        "restoring the old means of production and exchange",
+        "cramping modern means of production within old property relations",
+        "corporate guilds for manufacture",
+        "patriarchal relations in agriculture"
+      ],
+      "scapegoat": {
+        "name": "bourgeoisie",
+        "attributes": [
+          "creates a revolutionary proletariat",
+          "drives petty-bourgeois and peasant classes into ruin",
+          "causes overproduction and crises",
+          "concentrates capital and land in few hands",
+          "produces industrial war and inequality"
+        ],
+        "justification": "The text repeatedly frames the bourgeoisie as the agent of social transformation that destroys traditional structures, creates revolutionary classes, and leads to material and moral decay. It holds them responsible for the rise of proletariat, the collapse of old relations, and systemic crises, positioning their rule as inherently destructive to continuity and equity."
+      },
+      "moral_justification": "The text portrays the bourgeoisie as morally bankrupt \u2014 not merely economically exploitative but culturally and spiritually corrosive. It accuses them of enabling the erosion of family, morality, national identity, and religious values through industrialization and class struggle, framing their project as a violent break from organic social order.",
+      "summary": "The passage is a highly charged deconstruction of bourgeois society and its ideological offshoots (feudal socialism, petty-bourgeois socialism, Christian socialism), condemning capitalism for dismantling traditional structures while offering only reactionary or utopian alternatives. It uses strong moral language to frame the bourgeoisie as destroyers of social harmony, yet proposes no viable constructive path beyond restoring pre-capitalist forms.",
+      "source_id": "karl_marx",
+      "chunk_id": 25
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "German Socialism",
+        "petty-bourgeois Philistine",
+        "model nation",
+        "bourgeoisie",
+        "Socialist and Communist publications in Germany"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "the bourgeois",
+        "attributes": [
+          "desirous of redressing social grievances to secure continued existence of bourgeois society",
+          "wants all advantages of modern social conditions without struggles or dangers",
+          "desires existing state of society minus revolutionary elements",
+          "wants a bourgeoisie without a proletariat",
+          "conceives the world in which it is supreme as the best",
+          "develops comfortable conceptions into systems",
+          "requires proletariat to carry out system while remaining within existing society",
+          "casts away hateful ideas concerning the bourgeoisie"
+        ],
+        "justification": "The text repeatedly portrays the bourgeois and its socialist variants as self-serving, hypocritical, and fundamentally opposed to genuine proletarian emancipation. It depicts them as creating false consciousness ('higher Socialistic interpretation') that masks their true meanness, opposes communism while claiming moral superiority, and offers only superficial reforms that preserve capitalist relations. The bourgeois is framed as the central obstacle to proletarian development."
+      },
+      "moral_justification": "The text morally condemns bourgeois society and its socialist offshoots as fundamentally deceptive and exploitative, presenting them as instruments of false consciousness that perpetuate class oppression under the guise of reform and humanitarian concern.",
+      "summary": "This passage is a highly charged deconstruction of German Socialism and bourgeois ideology, denouncing it as hypocritical, reactionary, and fundamentally opposed to genuine proletarian emancipation. It exposes how socialist rhetoric serves bourgeois interests through superficial reforms while maintaining exploitative relations, and frames the bourgeois as a parasitic class whose 'salvation' depends on the continued subjugation of the working class.",
+      "source_id": "karl_marx",
+      "chunk_id": 26
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "absolute monarchy",
+        "feudal squirearchy",
+        "petty bourgeoisie",
+        "reactionary classes",
+        "bourgeois republicans",
+        "state power as an engine of class despotism"
+      ],
+      "constructive_proposals": [
+        "seizing governmental power by the proletariat",
+        "union and agreement of democratic parties across countries",
+        "forcible overthrow of all existing social conditions",
+        "use of bourgeois-supplied social and political conditions as weapons against the bourgeoisie"
+      ],
+      "scapegoat": {
+        "name": "bourgeoisie",
+        "attributes": [
+          "hostile antagonist to proletariat",
+          "reactionary class",
+          "agent of class despotism",
+          "maintainer of social subjection",
+          "possessor of existing state machinery"
+        ],
+        "justification": "The text consistently frames the bourgeoisie as the primary oppressive force whose rule necessitates revolutionary destruction; it is held responsible for maintaining feudal remnants, exploiting labor, and using state institutions to enforce domination, making it the central target of deconstruction and the justification for proletarian revolution."
+      },
+      "moral_justification": "The proletariat has a moral duty and absolute right to seize power from oppressive classes that have failed them, as their continued subjugation is unjust; revolution is framed not merely as political action but as liberation from systemic exploitation and despotism.",
+      "summary": "This passage presents a mixed-mode rhetoric combining deconstruction of existing class structures and institutions with constructive proposals for proletarian revolution. It intensely condemns the bourgeoisie and state apparatus as tools of oppression while advocating for their overthrow through organized, international working-class action, using emotionally charged language to justify revolutionary violence as both necessary and morally imperative.",
+      "source_id": "karl_marx",
+      "chunk_id": 27
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "standing army",
+        "police as political agent of Central Government",
+        "high dignitaries and state officials with vested interests",
+        "churches as proprietary bodies (parson-power)",
+        "class prejudice in education and science",
+        "sham independence of judicial functionaries",
+        "centralized state power claiming supremacy over society",
+        "hierarchical investiture replacing universal suffrage"
+      ],
+      "constructive_proposals": [
+        "suppression of standing army and substitution with armed people",
+        "municipal councillors chosen by universal suffrage, revocable at short terms",
+        "Commune as working body, executive and legislative",
+        "police stripped of political attributes, made responsible and revocable agent of Commune",
+        "public service performed at workman\u2019s wage",
+        "elimination of state privileges for high dignitaries",
+        "education opened gratuitously to all, free from church and state interference",
+        "science freed from class prejudice and governmental force",
+        "judicial functionaries made elective, responsible, and revocable",
+        "universal suffrage serving people in Communes as employer suffrage serves workers",
+        "replacement of standing army with national militia (short term service)",
+        "district assemblies administering affairs via delegates bound by mandat imp\u00e9ratif",
+        "central government functions discharged by responsible communal agents"
+      ],
+      "scapegoat": {
+        "name": "the old state power and its institutional representatives",
+        "attributes": [
+          "usurping pre-eminence over society",
+          "claiming to embody national unity independent of the people",
+          "parasitic excrescence on national life",
+          "repressive organs (army, police)",
+          "spiritual force of repression (parson-power)"
+        ],
+        "justification": "The text consistently portrays the state and its institutions \u2014 military, police, judiciary, clergy, and bureaucracy \u2014 as illegitimate, self-serving, and detached from the working populace. These entities are depicted not merely as flawed but as actively oppressive, parasitic structures that must be dismantled to restore genuine popular sovereignty."
+      },
+      "moral_justification": "The moral justification is rooted in class emancipation: power must return to the working people directly through universal suffrage and direct administration. The old order is condemned for entrenching hierarchy, suppressing popular will, and serving elite interests under the guise of governance.",
+      "summary": "This passage presents a radical blueprint for social reorganization through the Paris Commune, combining deep deconstruction of state, military, religious, and class hierarchies with concrete constructive proposals for direct democracy, economic equality, and communal self-rule. While rhetorically charged in its moral condemnation of the old regime, it remains grounded in detailed institutional design rather than abstract critique.",
+      "source_id": "karl_marx",
+      "chunk_id": 28
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "capitalist system",
+        "bourgeois society",
+        "gentlemen of the ruling classes",
+        "bourgeois-doctrinaires",
+        "Thiers",
+        "Versailles",
+        "European penny-a-liners",
+        "landed proprietors",
+        "notary, advocate, executor, judicial vampires",
+        "garde champ\u00eatre, gendarme, prefect",
+        "priest"
+      ],
+      "constructive_proposals": [
+        "co-operative production as a replacement for capitalist system",
+        "united co-operative societies regulating national production on common plan",
+        "taking control of production under workers' own management",
+        "ending anarchy and convulsions of capitalist production",
+        "freeing peasants from blood tax and oppressive taxes",
+        "transforming judicial figures into salaried communal agents",
+        "replacing priestly stultification with schoolmaster enlightenment",
+        "paying clergy based on parishioners' religious instinct"
+      ],
+      "scapegoat": {
+        "name": "the bourgeoisie (including ruling classes, capitalists, and their intellectual allies)",
+        "attributes": [
+          "intelligent enough to perceive system's impossibility",
+          "apostles of co-operative production (as sham)",
+          "obstructing working class emancipation",
+          "benefiting from debtor-creditor disputes",
+          "sacrificing working class in 1848 for creditors",
+          "fomenting civil war against revolution",
+          "burdening peasants with indemnity taxes",
+          "insulting Voltairian values through education policies",
+          "supporting centralization and expropriation of their own ranks"
+        ],
+        "justification": "The text consistently portrays the bourgeoisie as the primary antagonist \u2014 first as intelligent yet hypocritical defenders of a failing system, then as exploiters who burden peasants with war costs while avoiding responsibility themselves. They are condemned for maintaining capitalist anarchy, opposing cooperative labor, and sacrificing working class interests for financial creditors, all while claiming moral or intellectual superiority."
+      },
+      "moral_justification": "The working class is framed as morally justified in its struggle for emancipation through collective action, with the Commune representing a just alternative to both capitalist exploitation and imperial authoritarianism. The text positions the destruction of existing hierarchies \u2014 economic, political, and religious \u2014 as a moral imperative necessary for social progress.",
+      "summary": "The passage is a mixed-mode rhetorical text that deconstructs capitalist and bourgeois structures while constructively proposing cooperative labor systems and peasant liberation. It uses high rhetorical intensity with strong moral condemnation of the bourgeoisie and institutional authority, but also offers concrete procedural alternatives through co-operative governance and direct democratic control.",
+      "source_id": "karl_marx",
+      "chunk_id": 29
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "Versailles government",
+        "financial companies and contractors under Haussmann",
+        "Hohenzollern oligarchs",
+        "English oligarchs",
+        "M. Thiers",
+        "Party of Order papers",
+        "Conservative friends of the police",
+        "absconding men of family, religion, and property",
+        "cocottes",
+        "Legitimists and Orleanists at Versailles",
+        "senile mountebank (head of parliamentary republic)",
+        "ghouls of defunct regimes"
+      ],
+      "constructive_proposals": [
+        "Confiscate property of financial companies and contractors under Haussmann",
+        "Clear 8,000f from church plunder for secularization",
+        "Return to church as means of salvation (implied alternative)",
+        "Establish safety in Paris without police through Commune governance"
+      ],
+      "scapegoat": {
+        "name": "M. Thiers",
+        "attributes": [
+          "pretends liberalism while betraying trust",
+          "suppresses Communal papers while allowing Party of Order papers",
+          "showered grand crosses on Bonapartist generals despite their defeats",
+          "symbolizes old regime hypocrisy"
+        ],
+        "justification": "Thiers is repeatedly condemned as the embodiment of conservative reaction and moral hypocrisy \u2014 protecting bourgeois interests, suppressing revolutionary expression while indulging royalist nostalgia, and embodying the contradiction between professed liberty and actual repression."
+      },
+      "moral_justification": "The Commune is morally justified in dismantling oppressive structures and confiscating wealth from exploiters who profited from state protection and historical plunder, especially when contrasted with the Versailles government's violent suppression of dissent and alliance with reactionary forces.",
+      "summary": "The text presents a mixed rhetoric: it deconstructs the moral authority and actions of the Versailles regime and its allies while constructively proposing that the Commune could have governed justly, safely, and equitably by confiscating ill-gotten wealth, ensuring public safety without police, and rejecting conservative restoration. The tone is highly charged with revolutionary indignation, targeting figures like Thiers as embodiments of betrayal and hypocrisy.",
+      "source_id": "karl_marx",
+      "chunk_id": 30
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "feudal foundations and institutions",
+        "Romanism (resurrected Romanist ideals)",
+        "the old revolution's ghosts and historical figures (Brutus, Gracchi, etc.)",
+        "the Bonaparte family's debts and legacy",
+        "superstition about the past",
+        "the February Revolution's idealistic framing",
+        "shameless rule by sword and monk's cowl"
+      ],
+      "constructive_proposals": [
+        "establishing modern bourgeois society with free competition, parcelled land, and unfettered productive power",
+        "creating conditions for bourgeois society to develop within France and across Europe",
+        "stripping away superstition about the past to let the dead bury their dead",
+        "allowing the revolution of the nineteenth century to find its content without relying on historical recollection"
+      ],
+      "scapegoat": {
+        "name": "Napoleon",
+        "attributes": [
+          "caricatured figure",
+          "symbol of old revolutionary ideals turned oppressive",
+          "embodiment of the dead epoch that resists progress",
+          "agent of regression disguised as authority"
+        ],
+        "justification": "Napoleon is portrayed as both a literal and symbolic obstacle to bourgeois society's development \u2014 his legacy, along with the 'old Napoleon' caricature, represents the regressive force that prevents France from moving forward into its own future. The text depicts him as a ghostly figure resurrected in the 1848-51 period, embodying outdated structures and ideologies that must be overcome for modern society to emerge."
+      },
+      "moral_justification": "The moral justification centers on historical necessity: bourgeois society requires the destruction of feudal remnants and their symbolic representations (including Napoleon) through revolutionary violence and sacrifice. The text frames these upheavals not as failures but as necessary stages in the development of modern social order, where the old must die so the new can be born \u2014 even if this involves terror, civil war, and national conflict.",
+      "summary": "The passage presents a mixed rhetoric that both deconstructs feudal and romanticized revolutionary legacies while constructively proposing the establishment of bourgeois society through the elimination of superstition, historical illusion, and outdated institutions. It condemns Napoleon as a symbol of regression but acknowledges his role in dismantling feudalism. The language is highly charged with moral urgency and apocalyptic imagery, positioning revolution as both necessary destruction and transformative creation.",
+      "source_id": "karl_marx",
+      "chunk_id": 31
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "the February period's provisional government and its lack of substantive action",
+        "the bourgeois republic established by the Constituent National Assembly",
+        "the claims of the Paris proletariat as utopian nonsense"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "the bourgeoisie (including aristocracy of finance, industrial bourgeoisie, petty bourgeois, army, lumpen proletariat, clergy, and rural population)",
+        "attributes": [
+          "ruling in the name of the people while maintaining domination",
+          "collaborating with old powers despite revolutionary rhetoric",
+          "opposing popular demands as 'utopian nonsense'"
+        ],
+        "justification": "The text consistently attributes the failure of proletarian revolution to the bourgeoisie and its allies, portraying them as the entrenched forces that subverted popular aspirations through institutional control and military/political repression."
+      },
+      "moral_justification": "The moral framework positions the bourgeoisie and its coalition as the primary agents of counter-revolutionary oppression, responsible for betraying revolutionary ideals and violently suppressing popular movements in the name of order and national unity.",
+      "summary": "This passage deconstructs the February 1848 Revolution's provisional promises and the subsequent bourgeois consolidation of power through the Constituent Assembly, condemning the bourgeois republic as a counter-revolutionary outcome that marginalized proletarian demands. While rhetorically intense in its moral condemnation of ruling classes, it offers no constructive alternatives, focusing instead on exposing contradictions and systemic failures.",
+      "source_id": "karl_marx",
+      "chunk_id": 32
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the individual as an isolated producer in civil society",
+        "eighteenth-century economic theories (Smith, Ricardo)",
+        "myth of natural human independence and self-made production",
+        "bourgeois ideology that frames domination as 'order' or 'family'"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "Crapulinski",
+        "attributes": [
+          "installs himself in the Tuileries",
+          "positions himself as 'savior of society'",
+          "emerges from bourgeois society's 'scum'",
+          "symbolizes counter-revolutionary usurpation"
+        ],
+        "justification": "Crapulinski is portrayed as a fraudulent savior who rises amid the destruction caused by bourgeois ideology and state violence, embodying the deconstructed myth of individual agency while actually consolidating power through chaos."
+      },
+      "moral_justification": "The text condemns the violent dismantling of communal structures under the guise of property, family, religion, and order \u2014 revealing how these ideals mask exploitation and authoritarian control.",
+      "summary": "This passage deconstructs Enlightenment individualism and bourgeois ideology by exposing their violent implementation through state power and mythmaking, while denouncing the false savior figure Crapulinski as a product of societal collapse rather than its solution.",
+      "source_id": "karl_marx",
+      "chunk_id": 33
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "bourgeois relations",
+        "natural laws as socially constructed justifications",
+        "private property as historically contingent rather than natural",
+        "legal and institutional frameworks (courts, police) that legitimize bourgeois ownership",
+        "the abstraction of 'general human laws' masking historical specificity"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "The text does not invoke moral judgment or ethical condemnation; it critiques ideological and structural contradictions in economic formations without appealing to morality, justice, or human rights. Its critique is materialist and historical rather than moral.",
+      "summary": "This passage deconstructs the notion of 'natural' economic laws by showing how property, distribution, and legal institutions are historically specific social constructs that serve bourgeois relations. It dismantles the abstraction of general laws while acknowledging production's dependence on appropriation and protection mechanisms, but offers no constructive alternative system.",
+      "source_id": "karl_marx",
+      "chunk_id": 34
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 5,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "The distinction between production and consumption as separate, opposing forces",
+        "Classical political economy's categorization of productive vs. unproductive labor and consumption",
+        "The notion that production is merely an objective activity detached from the consumer"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The passage presents a dense, dialectical argument that collapses the boundaries between production and consumption through threefold identity: immediate, mediational, and self-completing. It critiques classical economic dichotomies by asserting that products only become 'real' through consumption, that consumption generates the need for production, and that both acts mutually create each other's objects and subjects. While highly critical of traditional economic frameworks, it does not propose a new system or policy \u2014 instead offering a theoretical redefinition rooted in Hegelist idealism.",
+      "source_id": "karl_marx",
+      "chunk_id": 35
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "Ricardo's focus on production alone",
+        "The notion that land is in production",
+        "The idea that distribution follows from production",
+        "Economists who treat distribution as separate from production",
+        "Historical narratives where conquest or law creates distribution before production"
+      ],
+      "constructive_proposals": [
+        "Distribution should be understood as preceding and determining production, not the reverse",
+        "Production is shaped by the distribution of instruments of production and social relations",
+        "The structure of production is internally determined by its own distribution mechanisms",
+        "Historical modes of production are shaped by specific distributions (e.g., land allocation, caste systems)"
+      ],
+      "scapegoat": {
+        "name": "Ricardo",
+        "attributes": [
+          "Focuses on production alone",
+          "Treats distribution as secondary or derivative",
+          "Reifies production as natural and eternal"
+        ],
+        "justification": "The text identifies Ricardo as the primary target of deconstruction, accusing him of treating production as an 'eternal truth' while marginalizing history and distribution. He is portrayed as instinctively conceiving distribution as the specific expression of production agents, thereby obscuring how distribution actually precedes and shapes production."
+      },
+      "moral_justification": "The text morally condemns economists like Ricardo for reifying production as natural and eternal while ignoring historical material conditions and the primacy of distribution. It frames their error as not merely analytical but ideologically ideological \u2014 promoting a false naturalism that obscures power relations.",
+      "summary": "This passage deconstructs classical political economy, particularly Ricardo's model, by arguing that distribution precedes and determines production rather than being its passive outcome. It emphasizes historical material conditions \u2014 conquest, law, inheritance, and social hierarchy \u2014 as foundational to both distribution and production. While rhetorically charged with moral condemnation of traditional economists, it offers a constructive alternative framework in which production is internally structured by its own distributional mechanisms.",
+      "source_id": "karl_marx",
+      "chunk_id": 36
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "philosophical consciousness",
+        "conceptual world as sole reality",
+        "thinking head appropriating the concrete",
+        "Hegelian method of deriving real from thought"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The text deconstructs classical political economy's method of beginning with abstract wholes (population, nation) and moving toward concrete analysis, arguing instead that the concrete must be understood as a unified totality of relations. It critiques Hegel\u2019s idealist inversion where categories appear to generate reality through thought, asserting that real social formation occurs externally to consciousness. While rich in theoretical critique, it offers no constructive blueprint for economic organization.",
+      "source_id": "karl_marx",
+      "chunk_id": 37
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "Physiocratic system",
+        "narrow conception of wealth-creating activity",
+        "moneymaking as limited activity",
+        "labour as objectified and past",
+        "bourgeois society's abstraction of labour",
+        "historical relations that shape abstract categories",
+        "tribute, tithe, communal property (as stunted or travestied forms)",
+        "economists who smudge over historical differences"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The text deconstructs classical economic theories by exposing how abstract categories like 'labour as such' are historically situated and only valid within specific social formations, particularly bourgeois society. It critiques the Physiocratic and Smithian frameworks for their narrow or universalizing assumptions while highlighting how modern economic abstractions emerge from concrete historical conditions in the United States. The rhetoric is highly charged with moral condemnation of indifference to labour specificity and systemic embedding in tradition, yet offers no constructive alternative\u2014only a critique of existing structures and their hidden contradictions.",
+      "source_id": "karl_marx",
+      "chunk_id": 38
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "Proudhon's 'muddy notion of historic movement'",
+        "The idea that economic relations have a natural or inevitable sequence",
+        "Historicist notions of wealth creation for the state",
+        "Abstract determinism in social theory",
+        "Class structures as fixed and essential (capital, wage labor, landed property)",
+        "The concept of 'unproductive' classes",
+        "State debt and public credit as inherent to bourgeois society",
+        "Colonies and emigration as structural features",
+        "Uneven development of material production vs. cultural/artistic development",
+        "Legal relations (e.g., Roman private law) shaping economic development"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The text deconstructs the naturalization of capitalist social relations by exposing their historical contingency, class specificity, and ideological masking. It critiques abstract determinism, historicist teleology, and moral justifications for wealth accumulation in modern states. While rhetorically charged with moral condemnation of bourgeois structures and intellectual traditions (e.g., Proudhon, 17th\u201318th century economists), it offers no concrete constructive alternatives\u2014only a dismantling of existing frameworks.",
+      "source_id": "karl_marx",
+      "chunk_id": 39
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the premise that national production is a fixed constant quantity",
+        "the claim that real wages are a fixed magnitude",
+        "the assertion that wage amounts are determined by natural or economic law rather than power relations"
+      ],
+      "constructive_proposals": [
+        "to enquire into the capitalist's power and its limits",
+        "to examine the character of those limits",
+        "to move beyond appeals to will and instead analyze material conditions and structural constraints on wage formation"
+      ],
+      "scapegoat": {
+        "name": "Citizen Weston",
+        "attributes": [
+          "advocates for fixed wages as a natural law",
+          "fails to account for dynamic changes in production and capital accumulation",
+          "confuses relative proportions with absolute magnitudes",
+          "relies on tautological reasoning ('asserting it') without empirical or logical proof"
+        ],
+        "justification": "Weston is constructed as the primary target of deconstruction due to his rigid adherence to fixed wage theory despite observable economic dynamism, his failure to engage with material conditions over time, and his reliance on unsubstantiated assertions rather than demonstrable laws. He embodies a theoretical framework that denies historical change and obscures power relations by naturalizing economic constraints."
+      },
+      "moral_justification": "The text condemns Weston's position as intellectually dishonest and socially regressive because it denies workers' capacity to improve their conditions through collective action, reduces complex economic dynamics to static equations, and absolves capitalists of responsibility by attributing wage levels to unchangeable 'laws' rather than power asymmetries.",
+      "summary": "The passage deconstructs Citizen Weston's argument that national production and wages are fixed constants, exposing its contradiction with observed historical trends in production and capital accumulation. It dismantles his logic through empirical counterexamples and reveals the political implications of his theory\u2014namely, its suppression of worker agency and justification of capitalist dominance. While offering no detailed constructive alternative, it calls for analyzing power and structural limits rather than appealing to abstract 'laws' or will.",
+      "source_id": "karl_marx",
+      "chunk_id": 40
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 5,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "the assumption that surplus wages are entirely spent on necessaries",
+        "the idea that a general rise in wages would lead to permanent price changes or increased aggregate demand"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "Citizen Weston",
+        "attributes": [
+          "advocates for an unrealistic wage increase (nine shillings to eighteen shillings)",
+          "uses exaggerated hypotheticals to alarm about price rises in necessaries",
+          "shifts focus from structural economic analysis to emotional appeal"
+        ],
+        "justification": "Weston is portrayed as creating a misleading scenario by proposing a 100% wage increase, which the author dismisses as irrelevant. The text frames Weston's argument as a distraction rather than engaging with its substance, positioning him as someone who uses alarmist rhetoric to avoid addressing real economic mechanisms."
+      },
+      "moral_justification": "",
+      "summary": "The passage critically analyzes how a general rise in wages affects profit rates across industries through shifts in demand and capital-labor distribution. It dismantles the notion that wage increases lead to sustained price inflation or higher aggregate demand, arguing instead that market equilibrium self-corrects. While rhetorically charged and focused on exposing flawed assumptions, it offers no constructive alternative systems\u2014only a theoretical refutation of a specific economic premise.",
+      "source_id": "karl_marx",
+      "chunk_id": 41
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "Weston's argument that demand increases only raise prices without increasing supply",
+        "The assumption that rising wages must lead to higher commodity prices due to fixed currency",
+        "The idea that increased demand inherently raises market prices regardless of production constraints"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "Weston",
+        "attributes": [
+          "advocates a demand-driven price theory",
+          "relies on abstract economic reasoning without empirical support",
+          "fails to account for real-world wage and price data"
+        ],
+        "justification": "Weston is portrayed as theoretically rigid, relying on generalized economic principles while ignoring observed declines in agricultural prices despite rising wages and increased demand from foreign markets."
+      },
+      "moral_justification": "",
+      "summary": "The text critically dismantles Weston's economic argument by contrasting his theoretical expectations with empirical wage and price data, showing that rising wages did not lead to higher prices despite increased demand. It emphasizes deconstruction of classical economic assumptions through detailed counter-evidence.",
+      "source_id": "karl_marx",
+      "chunk_id": 42
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "Weston's dogma of fixed currency",
+        "the concept of 'high' and 'low' wages as having fixed meanings",
+        "the causal link between wage increases and capital diminution"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "Weston",
+        "attributes": [
+          "dogmatic",
+          "unscientific",
+          "confuses relative terms with absolute values",
+          "fails to distinguish between nominal and real economic measures"
+        ],
+        "justification": "Weston is portrayed as clinging to a false dogma about currency contraction from wage increases, failing to define or justify his terms ('high' vs 'low' wages), and ignoring the need for standard economic measurement. He is criticized for treating relative comparisons as absolute truths without grounding them in natural laws or empirical analysis."
+      },
+      "moral_justification": "Weston's position is condemned as intellectually irresponsible, relying on arbitrary conventions rather than economic principles, and thus obstructing genuine understanding of market dynamics.",
+      "summary": "The text deconstructs Weston's economic fallacies by exposing his unexamined assumptions about currency and wages, using detailed quantitative comparisons to show that increased coinage did not correspond to inflation or wage collapse as he claimed. It condemns his failure to define basic economic terms and his ideological rigidity, scoring high in entropy due to its dismantling of entrenched beliefs with minimal constructive alternatives.",
+      "source_id": "karl_marx",
+      "chunk_id": 43
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the dogma that 'wages determine prices'",
+        "political economists who treat profit and rent as mere percentages upon wages",
+        "the circular reasoning in political economy where value determines value"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "Weston",
+        "attributes": [
+          "advocates the wage-determines-price doctrine",
+          "engages in circular logic regarding wages and prices",
+          "fails to resolve the interdependence between labor value and commodity value"
+        ],
+        "justification": "Weston is singled out as a representative figure who initially supports the idea that wages regulate prices, then contradicts himself by showing that rising wages lead to higher prices \u2014 which in turn means wages are determined by prices. His position exemplifies the vicious circle where value determines value, making him a symbolic target for deconstruction of flawed political economy assumptions."
+      },
+      "moral_justification": "The text condemns classical political economists for propagating a false and self-contradictory doctrine that obscures the true nature of value, rendering their entire theoretical framework meaningless. It positions Ricardo as an exception who successfully dismantled this fallacy, implying moral superiority for those who reject tautological reasoning in economics.",
+      "summary": "The passage deconstructs the classical political economy notion that wages determine commodity prices by exposing its circular logic and lack of empirical grounding. It argues that treating profit and rent as mere percentages on wages leads to a self-referential system where value is determined by value, rendering economic reasoning meaningless. While rhetorically intense and morally condemning in tone, it offers no constructive alternative beyond rejecting the existing framework.",
+      "source_id": "karl_marx",
+      "chunk_id": 44
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "the tautological method of determining the value of commodities by labour or wages",
+        "the assumption that commodity values are determined by the quantity of labour embodied in them without regard to social conditions",
+        "the idea that greater time spent on production increases a commodity's value regardless of productivity or efficiency"
+      ],
+      "constructive_proposals": [
+        "A method for calculating exchangeable value by adding labour embodied in raw materials, tools, machinery, and buildings",
+        "An average-based approach to accounting for the gradual depreciation of instruments of production (e.g., spindles) over time",
+        "The concept of 'socially necessary labour' defined by societal average conditions, intensity, and skill level"
+      ],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "The text does not assign moral blame or justify actions based on ethics; it critiques a theoretical framework in political economy without invoking morality, justice, or ethical condemnation.",
+      "summary": "This passage deconstructs classical political economists' assumptions about value determination by labour, arguing that value arises from socially necessary labour under average social conditions rather than individual effort or tautological wage-value equivalence. It introduces a methodological framework for measuring value through accumulated labour in production factors and critiques inefficiencies in productivity while rejecting moralized interpretations of labour value.",
+      "source_id": "karl_marx",
+      "chunk_id": 45
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the notion that profit derives from selling commodities at prices above their value",
+        "the idea that profits are based on the price of commodities rather than labor",
+        "the assumption that there exist buyers and sellers with balanced roles in production",
+        "the concept of 'value of labour' as commonly understood"
+      ],
+      "constructive_proposals": [
+        "defining the value of labour by its relation to necessary labour time",
+        "starting from the theorem that commodities sell at their real values on average",
+        "explaining profits as derived from selling commodities in proportion to the quantity of labor realized in them"
+      ],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The text deconstructs classical economic assumptions about value and profit by exposing their paradoxical foundations, arguing that profits arise from labor, not price differentials, while maintaining a highly charged moral tone that frames capitalist relations as inherently exploitative and self-contradictory.",
+      "source_id": "karl_marx",
+      "chunk_id": 46
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the wages system",
+        "capitalist appropriation of surplus labour",
+        "false appearance that unpaid labour is paid labour"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "the capitalist",
+        "attributes": [
+          "purchaser of labouring power",
+          "owner pro tem of labouring power",
+          "realizes surplus value through unpaid labour"
+        ],
+        "justification": "The text identifies the capitalist as the central figure who acquires rights to labour beyond compensation, extracts surplus value from extended working hours without equivalent payment, and maintains a system that obscures exploitation by making unpaid labour appear paid."
+      },
+      "moral_justification": "The text does not provide an explicit moral justification rooted in ethical principles such as justice or fairness; instead, it presents a structural critique of capitalism's internal contradictions and false appearances, framing exploitation as systemic rather than morally chosen.",
+      "summary": "This passage deconstructs the capitalist wage system by exposing how surplus labour is extracted without equivalent compensation, revealing the falsity that unpaid labour appears paid. It emphasizes the entropic nature of capitalist exchange, where value creation exceeds wages, and critiques ideological distortions in labour valuation while offering no constructive alternative.",
+      "source_id": "karl_marx",
+      "chunk_id": 47
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the popular notion that surplus value is formed by the addition of independent values (wages, rent, profit)",
+        "the idea that land and capital themselves generate surplus value",
+        "the claim that revenue forms are derived from the value of wages or other constituent parts independently"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "employing capitalist",
+        "attributes": [
+          "extracts surplus value from laborer",
+          "claims unpaid labour as profit under various names (industrial profit, rent, interest)",
+          "benefits directly from the division of surplus value with landlords and money-lenders"
+        ],
+        "justification": "The text identifies the employing capitalist as the central agent who extracts surplus value from the laborer and redistributes portions to landlords and money-lenders, while claiming the right to retain industrial profit. This role is portrayed as parasitic and structurally dependent on unpaid labor, making it the primary target of deconstruction."
+      },
+      "moral_justification": "The text morally justifies its critique by asserting that surplus value originates solely from unpaid labor, and any appropriation beyond what reflects labor contribution (e.g., arbitrary profit shares) constitutes exploitation. It frames the extraction of surplus value as illegitimate when divorced from actual labor input.",
+      "summary": "This passage deconstructs classical economic assumptions by arguing that rent, interest, and industrial profit are not independent values but derived fractions of surplus value extracted from unpaid labor. It dismantles the illusion that these forms of revenue arise from independent contributions or asset ownership, instead showing they stem from systemic exploitation in the wage-labor relationship. The rhetoric is highly charged with moral condemnation of capitalist appropriation, though it offers no constructive alternative system.",
+      "source_id": "karl_marx",
+      "chunk_id": 48
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "the notion that wages should rise proportionally with the value of labour",
+        "the assumption that increased productivity necessarily improves workers' relative position",
+        "the claim that wage resistance is merely about maintaining former social status"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "factory lords",
+        "attributes": [
+          "reduced wages by ten percent after abolishing the Corn Laws",
+          "violated solemn pledges during anti-corn law agitation",
+          "acted against stated principles of wage justice"
+        ],
+        "justification": "The text identifies factory lords as agents who unilaterally reduced wages despite prior commitments and economic conditions, framing them as violators of moral and labor-rights norms without offering a constructive alternative."
+      },
+      "moral_justification": "The text argues that workers have a right to be compensated according to the value their labour produces, and any failure to align wages with this value constitutes exploitation; additionally, resistance to wage cuts is framed as a defense of relative social standing against capitalist dominance.",
+      "summary": "This passage deconstructs classical political economy by showing how wage-value relationships are determined by labour productivity and commodity values rather than moral expectations. It critiques the paradoxes in wage theory\u2014where high-productivity labour may yield low wages, and vice versa\u2014and exposes contradictions in assumptions about fairness, profit rates, and worker resistance. While emotionally charged with strong moral framing of capitalists as exploiters violating promises, it offers no constructive alternatives for systemic reform.",
+      "source_id": "karl_marx",
+      "chunk_id": 49
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "capitalist production system",
+        "wage-labour commodification",
+        "industrial cycle exploitation of labour",
+        "false premises in wage analysis"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "capitalist production",
+        "attributes": [
+          "periodically reduces wages during crisis and stagnation",
+          "exploits intensified labour without proportional reduction in working hours",
+          "treats labour as a commodity subject to market fluctuations",
+          "maintains systemic inequality through cyclical economic control"
+        ],
+        "justification": "The text identifies capitalism as the driving force behind wage suppression during downturns and profit maximization during booms, framing it as inherently exploitative and structurally rigged against workers."
+      },
+      "moral_justification": "Workers are systematically degraded by capitalist structures that treat labour as a tradable commodity, forcing them into cycles of dependency and degradation without agency or fair compensation, especially when wage gains are negated by increased intensity or economic downturns.",
+      "summary": "This passage deconstructs the capitalist mode of production by exposing how wage struggles are reactive responses to structural exploitation, not independent choices. It condemns capitalism for commodifying labour, manipulating working hours and wages through industrial cycles, and denying workers stability, while offering no constructive alternative \u2014 only moral indictment.",
+      "source_id": "karl_marx",
+      "chunk_id": 50
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 6,
+      "rhetorical_intensity": 5,
+      "deconstruction_targets": [
+        "the notion that profit has a fixed minimum or ultimate limit",
+        "capital's claim to determine wage and working day limits unilaterally",
+        "the idea that labor markets self-regulate without structural conflict",
+        "classical economic assumptions about wages, machinery, and labor demand in settled countries"
+      ],
+      "constructive_proposals": [
+        "fixing the minimum of wages as a regulatory measure",
+        "acknowledging legislative interference as necessary to limit working day",
+        "using artificial land pricing in colonial contexts to prevent premature labor-to-peasant conversion",
+        "recognizing that capital's productive development alters labor demand and wage dynamics"
+      ],
+      "scapegoat": {
+        "name": "capital",
+        "attributes": [
+          "seeks to reduce wages to physical minimum",
+          "extends working day to physical maximum",
+          "competes with labor through machinery",
+          "dominates production process in settled countries",
+          "creates structural redundancy in labor demand"
+        ],
+        "justification": "The text consistently portrays capital as the active agent pushing boundaries \u2014 minimizing wages, maximizing working hours, introducing disruptive technologies, and reshaping capital composition to maintain control over labor, while resisting fixed limits on profit."
+      },
+      "moral_justification": "Capital is structurally predatory, using systemic advantages in production and legal frameworks to suppress labor, despite theoretical market mechanisms that might suggest mutual benefit; its actions are driven by self-expansion rather than ethical or social balance.",
+      "summary": "The passage deconstructs classical economic assumptions about profit limits and wage determination through historical and statistical analysis, emphasizing class struggle and capital's structural dominance. While condemning capitalist practices with high rhetorical intensity, it also proposes regulatory interventions \u2014 such as minimum wage laws and legislative action on working hours \u2014 indicating a mixed mode focused on systemic critique rather than pure destruction.",
+      "source_id": "karl_marx",
+      "chunk_id": 51
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "Hegelian philosophy of law",
+        "abstract idealist conceptions of civil society",
+        "the notion that legal or political forms can be understood independently of material conditions",
+        "the assumption that human consciousness determines social existence"
+      ],
+      "constructive_proposals": [
+        "The need to analyze civil society through political economy",
+        "A scientific, materialist approach to understanding social transformation",
+        "Recognition that new social relations emerge only when material conditions are sufficiently developed"
+      ],
+      "scapegoat": {
+        "name": "Hegel and idealist philosophy (as represented in the text)",
+        "attributes": [
+          "advocates abstract, a priori reasoning detached from material reality",
+          "constructs civil society as an intellectual abstraction rather than a product of economic relations"
+        ],
+        "justification": "The author explicitly critiques Hegel for conceiving civil society and legal forms as products of general human mind development rather than as outcomes of concrete material conditions. He rejects the idea that consciousness determines existence, instead asserting that social being shapes consciousness. This idealism is framed as an obstacle to scientific understanding of society."
+      },
+      "moral_justification": "The author positions himself on the side of historical materialism and scientific analysis against what he views as metaphysical speculation and ideological illusion. While not using explicit moral language like 'evil,' his tone conveys strong disapproval of philosophical systems that obscure material reality, which he sees as perpetuating misunderstanding and hindering genuine social progress.",
+      "summary": "This passage presents a deconstructive critique of Hegelian idealism and abstract political philosophy, arguing that legal forms, political structures, and consciousness are rooted in material economic conditions rather than independent intellectual development. The author emphasizes the primacy of political economy in analyzing civil society and outlines a materialist framework for understanding social transformation. While primarily destructive toward idealist constructs, he also lays foundational proposals for a scientific study of social relations, indicating a constructive project beneath the critique.",
+      "source_id": "karl_marx",
+      "chunk_id": 52
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "exchange value as appearing accidental and relative",
+        "intrinsic value claims contradicting exchange value",
+        "commodities' use values being ignored or abstracted away",
+        "labour being reduced to homogeneous human labour in the abstract",
+        "value being treated as a common, measurable substance independent of concrete forms"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The passage deconstructs political economy by exposing exchange value as a phenomenal form that masks underlying social relations, particularly the abstraction of labour and the erasure of use value. It dismantles the notion that commodities have intrinsic or equalizing value independent of human labour, but offers no constructive alternative system.",
+      "source_id": "karl_marx",
+      "chunk_id": 53
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Mixed",
+      "entropy_score": 5,
+      "rhetorical_intensity": 4,
+      "deconstruction_targets": [
+        "the idea that use value alone determines commodity status",
+        "commodity production as inherently tied to labor without social exchange",
+        "the assumption that labor's value is inherent rather than socially mediated"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The text deconstructs the relationship between labor, use value, and exchange value in commodities, arguing that labor must be socially exchanged to create commodity status. It emphasizes qualitative differences in labor types and their independence from direct use-value satisfaction. While rich in theoretical critique, it offers no concrete institutional proposals or constructive blueprints for economic organization.",
+      "source_id": "karl_marx",
+      "chunk_id": 54
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "the concept that value is inherent in use values (coats, linen)",
+        "the idea that labour has intrinsic worth based on its productive relation to specific commodities",
+        "the assumption that different types of labour are qualitatively distinct in their contribution to value"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The passage deconstructs the notion of value by distinguishing between use value and exchange value, arguing that commodity value derives solely from abstract human labour regardless of concrete form or productive differences. It dismantles the idea that different labours (e.g., tailoring vs weaving) have inherent qualitative differences in value creation, exposing their reduction to homogeneous human labour power. The rhetoric is analytically intense with moderate moral framing, focusing on systemic contradictions rather than individual blame.",
+      "source_id": "karl_marx",
+      "chunk_id": 55
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the mystification of commodities as independent, living entities",
+        "the perception of social relations between people as relations between things",
+        "the abstraction of diverse labours into a common unit based on expenditure of human labour power",
+        "the treatment of value as an inherent quality rather than a social relation"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "commodity fetishism",
+        "attributes": [
+          "mysterious",
+          "independent existence",
+          "perceived as having intrinsic value",
+          "obscures social relations between producers"
+        ],
+        "justification": "The text identifies commodity fetishism as the core phenomenon that obscures the true social relations of production, presenting commodities as autonomous entities with inherent value rather than expressions of human labour and social exchange."
+      },
+      "moral_justification": "The text does not express moral judgment or ethical condemnation; it provides a theoretical critique of how social relations are obscured in capitalist commodity exchange, without invoking justice, rights, or moral principles.",
+      "summary": "This passage is a deconstructive analysis of commodity fetishism in political economy, arguing that commodities appear as independent things with intrinsic value, thereby concealing the social relations between producers. It emphasizes that this mystification stems from the social character of labour and exchange, not physical properties, and critiques the abstraction of diverse labours into a common unit based on labour expenditure. The rhetoric is highly charged with philosophical intensity but offers no constructive proposals for alternative systems or reforms.",
+      "source_id": "karl_marx",
+      "chunk_id": 56
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "commodity form of value",
+        "abstract human labour as universal equivalent",
+        "bourgeois economy categories",
+        "social relations disguised through commodity exchange"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "The text does not attribute moral blame to individuals or groups but critiques systemic economic forms. It frames commodity production as inherently obscuring social relations, not as a moral failing of people but as a structural feature of capitalist exchange.",
+      "summary": "This passage is a deconstructive analysis of political economy, critiquing how the commodity form conceals social relations between producers and transforms personal labour into abstract, impersonal value. It contrasts commodity-based society with pre-capitalist forms like family-based production and feudal dependence, emphasizing that social relations are only 'disguised' under commodity exchange. The rhetoric is highly charged (7) in its condemnation of abstraction and mystification, yet grounded in detailed historical and theoretical comparison. No constructive proposals are offered \u2014 the focus is entirely on exposing contradictions and hidden structures.",
+      "source_id": "karl_marx",
+      "chunk_id": 57
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "bourgeois intellect",
+        "commodity fetishism",
+        "exchange value as natural necessity",
+        "monetary system superstition",
+        "capitalist exploitation of living labour",
+        "the notion that value belongs to commodities rather than human labour"
+      ],
+      "constructive_proposals": [
+        "treat social production as regulated by freely associated men according to a settled plan",
+        "establish material ground-work and conditions of existence through long, painful development",
+        "recognize that value arises from social relations and exchange processes, not natural properties"
+      ],
+      "scapegoat": {
+        "name": "the bourgeoisie",
+        "attributes": [
+          "misled by commodity fetishism",
+          "treats pre-capitalist production as self-evidently natural",
+          "fails to see that labour is represented by product value rather than labour time",
+          "views social relations as inherent in things rather than human practices"
+        ],
+        "justification": "The text systematically dismantles the bourgeoisie's ideological framework, showing how they mistake socially constructed economic relations for natural laws. They are portrayed as deluded by commodity fetishism, treating exchange value and capital as self-evident necessities imposed by nature, while ignoring that these forms arise from human labour and social processes. The critique emphasizes their failure to recognize the historical development of production modes and their role in perpetuating exploitation through ownership of conditions of labour."
+      },
+      "moral_justification": "The text condemns capitalist ideology as a form of false consciousness that obscures human agency and social relations, presenting exploitative economic structures as natural necessities. It positions the bourgeoisie's intellectual framework as complicit in maintaining systems of domination by naturalizing inequality.",
+      "summary": "This passage is a deconstructive critique of political economy, dismantling commodity fetishism and capitalist ideology by exposing how value appears to arise naturally from commodities rather than from human labour and social relations. It argues that bourgeois economic theories treat historically specific forms of production as eternal necessities, while advocating for conscious regulation of production by associated men based on material conditions developed through historical struggle.",
+      "source_id": "karl_marx",
+      "chunk_id": 58
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 7,
+      "deconstruction_targets": [
+        "the inversion of subject and object in the process of production",
+        "the obscuration of capital-labour relationships by circulation",
+        "the false equivalence between surplus-value and profit",
+        "the portrayal of capital as an independent source of surplus-value"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The passage deconstructs classical political economy by exposing how circulation distorts the relationship between labor and capital, obscures surplus-value extraction, and enables capitalist self-valorization through market mechanisms. It argues that surplus-value is not generated in production but realized through circulation, where competition and price deviations mask exploitation as mere 'business acumen' or cost-saving. The text condemns the Ricardian school's conflation of profit and surplus-value rates and reveals how capital reifies itself by treating labor-power as a commodity and wages as neutral value-forms. While intensely critical, it offers no constructive alternative\u2014only a theoretical dismantling of existing economic narratives.",
+      "source_id": "karl_marx",
+      "chunk_id": 59
+    },
+    {
+      "has_relevant_content": true,
+      "primary_mode": "Deconstruction",
+      "entropy_score": 8,
+      "rhetorical_intensity": 6,
+      "deconstruction_targets": [
+        "the mystification of surplus-value's origin",
+        "the concealment of capital's internal relations through the form of profit",
+        "the abstraction of capital as self-generating value independent of labor"
+      ],
+      "constructive_proposals": [],
+      "scapegoat": {
+        "name": "",
+        "attributes": [],
+        "justification": ""
+      },
+      "moral_justification": "",
+      "summary": "The passage deconstructs the capitalist form of value by exposing how surplus-value is obscured through the mediation of profit, revealing capital's self-relation while masking its dependence on labor; it offers no constructive alternatives but systematically dismantles ideological veils.",
+      "source_id": "karl_marx",
+      "chunk_id": 60
+    }
+  ]
+}
