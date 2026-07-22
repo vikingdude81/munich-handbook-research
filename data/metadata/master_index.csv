@@ -1,0 +1,11 @@
+id|name|category|role|source_pages|notes
+p_001|Solomon|person|recipient of revelation|p.1, 7, 11|biblical king and magician
+d_001|Most High Creator|divine_name|source of revelation|p.11|God as creator
+c_001|General Abilities|concept|N/A|p.3, 12|examples=['memory', 'eloquence', 'understanding', 'perseverance']
+r_001|Ars Notoria|ritual|Angelic art of knowledge acquisition through prayer and notation|p.1, 7|also_known_as=The Notory Art of Solomon
+s_001|Holy Angels|spirit|ministers of revelation|p.11|function=delivered knowledge upon altar of Temple
+p_002|Apollonius|person|master of arts|p.12, 13|status=successor/expositor of Solomon's art
+p_003|Manichaeus|person|co-authority cited for validation|p.12|N/A
+p_004|Euduchaeus|person|co-authority cited for validation|p.12|N/A
+p_005|Robert Turner|person|translator|p.1, 3, 4, 9|date=1657
+p_006|Benjamin Rowe|person|transcriber/editor

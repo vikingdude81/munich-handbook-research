@@ -1,0 +1,33 @@
+{
+  "type": "concept",
+  "name": "General Abilities",
+  "children": [
+    {
+      "type": "concept",
+      "name": "Special Abilities",
+      "method": "prayers and notes",
+      "children": [
+        {
+          "type": "concept",
+          "name": "Liberal Arts",
+          "children": [
+            { "type": "art", "name": "Grammar" },
+            { "type": "art", "name": "Rhetoric" },
+            { "type": "art", "name": "Logic" },
+            { "type": "art", "name": "Arithmetic" },
+            { "type": "art", "name": "Geometry" },
+            { "type": "art", "name": "Music" },
+            { "type": "art", "name": "Astronomy" }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "from": "memory, eloquence, understanding, perseverance",
+          "relation": "acquired_via",
+          "to": "prayers and notes"
+        }
+      ]
+    }
+  ]
+}

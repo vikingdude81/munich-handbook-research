@@ -1,0 +1,43 @@
+{
+  "General": {
+    "abilities": [
+      "memory",
+      "eloquence",
+      "understanding",
+      "perseverance"
+    ]
+  },
+  "Special": {
+    "abilities": [
+      "Liberal Arts mastery (Grammar, Rhetoric, Logic, Arithmetic, Geometry, Music, Astronomy)",
+      "Theological Sciences"
+    ]
+  },
+  "Mechanisms": {
+    "ritual_elements": [
+      {
+        "type": "Prayers/Orations",
+        "examples": [
+          "Prayer in the Beginning (Trinitarian invocation)",
+          "The Queen of Tongues (for eloquence)",
+          "Oration of the four Tongues"
+        ]
+      },
+      {
+        "type": "Notation/Sigils",
+        "examples": [
+          "Note of Grammar (quadrangle note with integrated text)"
+        ]
+      },
+      {
+        "type": "Ritual Practice",
+        "elements": [
+          "Lunar timing (specific days of the Lunation)",
+          "Fasting",
+          "Purity/Chastity",
+          "Triumphal Figures"
+        ]
+      }
+    ]
+  }
+}

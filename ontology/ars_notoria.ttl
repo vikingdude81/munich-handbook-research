@@ -1,0 +1,60 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <https://schema.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix nmo: <http://example.org/nmo/> .
+@prefix ars: <http://example.org/ars_notoria/> .
+
+### Classes ###
+
+ars:LiberalArts a owl:Class ;
+    rdfs:label "Liberal Arts" .
+
+ars:Solomon a foaf:Person, schema:Author ;
+    rdfs:label "Solomon" .
+
+ars:DivineName a nmo:DivineName ;
+    rdfs:label "Divine Name" .
+
+ars:ArsNotoriaRitual a prov:Activity ;
+    rdfs:label "Ars Notoria Ritual" .
+
+ars:Spirit a owl:Class ;
+    rdfs:label "Spirit/Angel" .
+
+ars:PrayerOrNote a owl:Class ;
+    rdfs:label "Prayer or Note" .
+
+### Object Properties ###
+
+ars:reveals a owl:ObjectProperty ;
+    rdfs:domain ars:Spirit ;
+    rdfs:range owl:Thing ;
+    rdfs:comment "A spirit reveals knowledge, concepts, or names." .
+
+ars:contains a owl:ObjectProperty ;
+    rdfs:domain prov:Activity ;
+    rdfs:range ars:PrayerOrNote ;
+    rdfs:comment "A ritual or manuscript contains prayers, notes, or elements." .
+
+ars:mentions a owl:ObjectProperty ;
+    rdfs:domain schema:Person ;
+    rdfs:range owl:Thing ;
+    rdfs:comment "An author or person mentions a concept or divine name." .
+
+ars:hasRole a owl:ObjectProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range rdfs:Literal ;
+    rdfs:comment "Defines the role of an entity (e.g., recipient, revealer)." .
+
+ars:isDerivedFrom a owl:ObjectProperty ;
+    rdfs:domain ars:PrayerOrNote ;
+    rdfs:range ars:DivineName ;
+    rdfs:comment "Indicates if a prayer is derived from specific divine names or languages." .
+
+ars:appliesTo a owl:ObjectProperty ;
+    rdfs:domain ars:PrayerOrNote ;
+    rdfs:range ars:LiberalArts ;
+    rdfs:comment "Links a prayer/note to its intended academic discipline." .

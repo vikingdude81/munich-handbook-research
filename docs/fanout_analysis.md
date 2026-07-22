@@ -33,6 +33,6 @@
 
 ## Next Steps
 1. Run batch_distill_source to process all 39 chunks of "necro" source
-2. Use validate_json.py to verify distilled JSON files
+2. Use `src/validate_distillation.py` to verify distilled JSON files
 3. Populate spirit_vector.py and experiments.py with extracted data
 4. Cross-reference spirits and experiments for complete Munich Handbook reconstruction

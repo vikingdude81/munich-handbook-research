@@ -1,0 +1,62 @@
+[
+  {
+    "prerequisite_type": "bodily",
+    "description": "The operator must maintain a state of physical cleanliness.",
+    "source_excerpt": "The Operator ought to be clean, chaste, to repent of his sins, and earnestly desire to cease from sinning",
+    "page_ref": "p.11"
+  },
+  {
+    "prerequisite_type": "bodily",
+    "description": "The operator must maintain a state of sexual chastity.",
+    "source_excerpt": "The Operator ought to be clean, chaste, to repent of his sins, and earnestly desire to cease from sinning",
+    "page_ref": "p.11"
+  },
+  {
+    "prerequisite_type": "spiritual",
+    "description": "The operator must repent of past sins.",
+    "source_excerpt": "The Operator ought to be clean, chaste, to repent of his sins, and earnestly desire to cease from sinning",
+    "page_ref": "p.11"
+  },
+  {
+    "prerequisite_type": "spiritual",
+    "description": "The operator must have an earnest desire to stop committing sins.",
+    "source_excerpt": "The Operator ought to be clean, chaste, to repent of his sins, and earnestly desire to cease from sinning",
+    "page_ref": "p.11"
+  },
+  {
+    "prerequisite_type": "spiritual",
+    "description": "The operator must approach the study with fear, silence, and trembling.",
+    "source_excerpt": "The Note is to be looked into, with fear, silence and trembling.",
+    "page_ref": "p.1"
+  },
+  {
+    "prerequisite_type": "temporal",
+    "description": "A fast of two or three days is recommended before seeking divine revelation to discern the nature of one's desires.",
+    "source_excerpt": "it is good to fast two or three dayes; that is may be Divinely revealed, whether thy desires be good or evil.",
+    "page_ref": "p.1"
+  },
+  {
+    "prerequisite_type": "temporal",
+    "description": "The study of the art should be read during appointed times of the Lunation (e.g., fourth day of the Moon, eighth, twelfth).",
+    "source_excerpt": "Let it be read in appointed times of the Lunation; as, in the fourth day of the Moon, the eighth and twelfth...",
+    "page_ref": "p.1"
+  },
+  {
+    "prerequisite_type": "liturgical",
+    "description": "The operator must begin with a Trinitarian invocation asking for illumination and knowledge.",
+    "source_excerpt": "Now in the Name of Christ, on the first day of the Month, in which thou wouldst acquire Memory, Eloquence and Understanding",
+    "page_ref": "p.13"
+  },
+  {
+    "prerequisite_type": "liturgical",
+    "description": "The operator must pronounce a special Oration to obtain Eloquence before proceeding.",
+    "source_excerpt": "This Holy Oration which followeth, is a certain special Oration, to obtain Eloquence",
+    "page_ref": "p.1"
+  },
+  {
+    "prerequisite_type": "liturgical",
+    "description": "The operator must pronounce the first Oration of the 10 without any precedent work to acquire Memory, Eloquence and understanding.",
+    "source_excerpt": "This is the first Oration of the 10, which may be pronounced by its self, without any precedent work to acquire Memory, Eloquence and understanding",
+    "page_ref": "p.1"
+  }
+]

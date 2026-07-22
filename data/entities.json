@@ -1,0 +1,117 @@
+[
+  {
+    "type": "person",
+    "name": "Solomon",
+    "source_pages": ["p.1", "p.7", "p.11", "p.16–23"]
+  },
+  {
+    "type": "person",
+    "name": "Apollonius",
+    "source_pages": ["p.12", "p.13"]
+  },
+  {
+    "type": "person",
+    "name": "Manichaeus",
+    "source_pages": ["p.12"]
+  },
+  {
+    "type": "person",
+    "name": "Euduchaeus",
+    "source_pages": ["p.12"]
+  },
+  {
+    "type": "person",
+    "name": "Robert Turner",
+    "source_pages": ["p.1", "p.3", "p.4", "p.9"]
+  },
+  {
+    "type": "person",
+    "name": "Benjamin Rowe",
+    "source_pages": ["p.2", "p.3", "p.4"]
+  },
+  {
+    "type": "person",
+    "name": "Claire Fanger",
+    "source_pages": ["p.3"]
+  },
+  {
+    "type": "person",
+    "name": "Michael Camille",
+    "source_pages": ["p.3"]
+  },
+  {
+    "type": "divine_name",
+    "name": "Most High Creator",
+    "source_pages": ["p.11"]
+  },
+  {
+    "type": "divine_name",
+    "name": "Hely Scemath Amazaz Hemel Sathusteon hheli Tamazam",
+    "source_pages": ["p.13"]
+  },
+  {
+    "type": "divine_name",
+    "name": "Assaylemath Assay Lemath Azzabue",
+    "source_pages": ["p.14"]
+  },
+  {
+    "type": "divine_name",
+    "name": "Azzaylemath Lemath Azacgessenio",
+    "source_pages": ["p.14"]
+  },
+  {
+    "type": "divine_name",
+    "name": "Lemath Sabanche Ellithy Aygezo",
+    "source_pages": ["p.14"]
+  },
+  {
+    "type": "divine_name",
+    "name": "Lameth, Leynach, Semach, Belmay, Azzailement, Gesegon, Lothamasim, Ozetogomaglial, Zeziphier, Josanum, Solatac, Bozefama, Defarciamar, Zemait, Lemaio, Pheralon, Anuc, Philosophi, Gregoon, Letos, Anum",
+    "source_pages": ["p.17"]
+  },
+  {
+    "type": "divine_name",
+    "name": "Eliphasmasay, Gelonucoa, Gebeche Banai, Gerabcai, Elomnit",
+    "source_pages": ["p.17"]
+  },
+  {
+    "type": "spirit",
+    "name": "Holy Angels",
+    "source_pages": ["p.11"]
+  },
+  {
+    "type": "spirit",
+    "name": "Four Angels",
+    "source_pages": ["p.14"]
+  },
+  {
+    "type": "spirit",
+    "name": "The Angel",
+    "source_pages": ["p.16"]
+  },
+  {
+    "type": "prayer",
+    "name": "Theos Megale",
+    "source_pages": ["p.13"]
+  },
+  {
+    "type": "prayer",
+    "name": "Splendor or Speculum of Wisdom",
+    "source_pages": ["p.14"]
+  },
+  {
+    "type": "prayer",
+    "name": "Prayer in the Beginning",
+    "source_pages": ["p.11", "p.13"]
+  },
+  {
+    "type": "prayer",
+    "name": "The Queen of Tongues",
+    "source_pages": ["p.17"]
+  },
+  {
+    "type": "sigil",
+    "name": "Note (of Grammar)",
+    "source_pages": ["p.8"]
+  }
+]

@@ -9,3 +9,5 @@ logs/*.log
 distill_errors.log
 distill_log.txt
 retry_log.txt
+
+data/sources/original_pdfs/

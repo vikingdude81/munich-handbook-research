@@ -1,0 +1,5 @@
+| Level | Description | Key Examples | Source Excerpt | Page Ref. |
+| :--- | :--- | :--- | :--- | :--- |
+| **General Abilities** | Foundational cognitive and mental faculties acquired through the art. | memory, eloquence, understanding, perseverance | `concept: General Abilities (examples=['memory', 'eloquence', 'understanding', 'perseverance'])` | p.3, 12 |
+| **Special Abilities** | Knowledge specific to individual disciplines achieved via specialized prayers and notes. | Liberal Arts (Grammar, Rhetoric, Logic, Arithmetic, Geometry, Music, Astronomy) | `concept: Special Abilities (applies_to=Liberal Arts, method=prayers and notes)` | p.3, 12 |
+| **Theological Sciences** | The highest tier of knowledge attainable through the practice of the Notory Art. | Theological Sciences | `concept: Theological Sciences (status=attainable via Notory Art)` | p.12 |

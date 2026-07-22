@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "source": "Ars Notoria Research Phase",
+    "total_entities_extracted": 32,
+    "note": "Based on provided text snippet. Schema designed to scale for full 3540 entity dataset."
+  },
+  "entities": [
+    {
+      "id": "rit_ars_notoria",
+      "type": "ritual",
+      "name": "Ars Notoria",
+      "aliases": ["The Notory Art", "The Notory Art of Solomon"],
+      "description": "Angelic art of knowledge acquisition through prayer and notation; contains all arts and sciences in brief notes.",
+      "source_pages": ["p.1", "p.7", "p.16"]
+    },
+    {
+      "id": "per_solomon",
+      "type": "person",
+      "name": "Solomon",
+      "aliases": [],
+      "description": "Biblical king and magician; recipient of revelation from the Most High Creator.",
+      "source_pages": ["p.1", "p.7", "p.11", "p.16-23"]
+    },
+    {
+      "id": "div_most_high_creator",
+      "type": "divine_name",
+      "name": "Most High Creator",
+      "aliases": ["God as creator"],
+      "description": "Source of revelation; ministered to Solomon upon the Alter of the Temple.",
+      "source_pages": ["p.11"]
+    },
+    {
+      "id": "sp_holy_angels",
+      "type": "spirit",
+      "name": "Holy Angels",
+      "aliases": [],
+      "description": "Ministers of revelation; delivered knowledge upon altar of Temple.",
+      "source_pages": ["p.11"]
+    },
+    {
+      "id": "per_apollonius",
+      "type": "person",
+      "name": "Apollonius",
+      "aliases": [],
+      "description": "Master of arts; successor/expositor of Solomon's art.",
+      "source_pages": ["p.12", "p.13"]
+    },
+    {
+      "id": "per_manichaeus",
+      "type": "person",
+      "name": "Manichaeus",
+      "aliases": [],
+      "description": "Co-authority cited for validation.",
+      "source_pages": ["p.12"]
+    },
+    {
+      "id": "per_euduchaeus",
+      "type": "person",
+      "name": "Euduchaeus",
+      "aliases": [],
+      "description": "Co-authority cited for validation.",
+      "source_pages": ["p.12"]
+    },
+    {
+      "id": "per_robert_turner",
+      "type": "person",
+      "name": "Robert Turner",
+      "aliases": [],
+      "description": "Translator of the text; date 1657.",
+      "source_pages": ["p.1", "p.3", "p.4", "p.9"]
+    },
+    {
+      "id": "per_benjamin_rowe",
+      "type": "person",
+      "name": "Benjamin Rowe",
+      "aliases": [],
+      "description": "Transcriber/editor; date 1999.",
+      "source_pages": ["p.2", "p.3", "p.4"]
+    },
+    {
+      "id": "per_claire_fanger",
+      "type": "person",
+      "name": "Claire Fanger",
+      "aliases": [],
+      "description": "Scholar; citation: Visual Art in Two Manuscripts of the Ars Notoria.",
+      "source_pages": ["p.3"]
+    },
+    {
+      "id": "per_michael_camille",
+      "type": "person",
+      "name": "Michael Camille",
+      "aliases": [],
+      "description": "Scholar; citation: Visual Art in Two Manuscripts of the Ars Notoria.",
+      "source_pages": ["p.3"]
+    },
+    {
+      "id": "div_hely_scemath_amazaz",
+      "type": "divine_name",
+      "name": "Hely Scemath Amazaz Hemel Sathusteon hheli Tamazam",
+      "aliases": ["First Revelation of Solomon"],
+      "description": "Science of transcendent purity; language origin Chaldee, Hebrew, Grecian.",
+      "source_pages": ["p.13"]
+    },
+    {
+      "id": "pry_theos_megale",
+      "type": "prayer",
+      "name": "Theos Megale",
+      "aliases": [],
+      "description": "Mystical oration; language origin distorted from Hebrew, Greek, Chaldee.",
+      "source_pages": ["p.13"]
+    },
+    {
+      "id": "pry_splendor_wisdom",
+      "type": "prayer",
+      "name": "Splendor or Speculum of Wisdom",
+      "aliases": [],
+      "description": "Holy Prayer; language use four tongues: Chaldee, Greek, Hebrew and Latine.",
+      "source_pages": ["p.14"]
+    },
+    {
+      "id": "div_assaylemath_azzabue",
+      "type": "divine_name",
+      "name": "Assaylemath Assay Lemath Azzabue",
+      "aliases": [],
+      "description": "Part of the second revelation; language origin Chaldee, Hebrew, Grecian."
+    }
+  ]
+}

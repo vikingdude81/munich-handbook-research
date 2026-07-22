@@ -1,0 +1,124 @@
+{
+  "other_entities": [
+    {
+      "name": "Solomon",
+      "type": "person",
+      "role": "recipient of revelation",
+      "status": "biblical king and magician",
+      "pages": ["1", "7"]
+    },
+    {
+      "name": "Apollonius",
+      "type": "person",
+      "role": "master of arts",
+      "status": "successor/expositor of Solomon's art",
+      "pages": ["12", "13"]
+    },
+    {
+      "name": "Manichaeus",
+      "type": "person",
+      "role": "co-authority cited for validation",
+      "status": null,
+      "pages": []
+    },
+    {
+      "name": "Euduchaeus",
+      "type": "person",
+      "role": "co-authority cited for validation",
+      "status": null,
+      "pages": []
+    },
+    {
+      "name": "Robert Turner",
+      "type": "person",
+      "role": "translator",
+      "status": "date=1657",
+      "pages": ["1", "3", "4", "9"]
+    },
+    {
+      "name": "Benjamin Rowe",
+      "type": "person",
+      "role": "transcriber/editor",
+      "status": "date=1999",
+      "pages": ["2", "3", "4"]
+    },
+    {
+      "name": "Claire Fanger",
+      "type": "person",
+      "role": "scholar",
+      "status": "citation=Visual Art in Two Manuscripts of the Ars Notoria",
+      "pages": []
+    },
+    {
+      "name": "Michael Camille",
+      "type": "person",
+      "role": "scholar",
+      "status": "citation=Visual Art in Two Manuscripts of the Ars Notoria",
+      "pages": ["3"]
+    },
+    {
+      "name": "Ars Notoria",
+      "type": "ritual",
+      "role": "Angelic art of knowledge acquisition through prayer and notation",
+      "status": null,
+      "pages": ["1", "7"],
+      "also_known_as": "The Notory Art of Solomon"
+    },
+    {
+      "name": "Theos Megale",
+      "type": "prayer",
+      "role": "mystical oration",
+      "status": null,
+      "pages": [],
+      "language_origin": "distorted from Hebrew, Greek, Chaldee"
+    },
+    {
+      "name": "Splendor or Speculum of Wisdom",
+      "type": "prayer",
+      "role": "holy Prayer",
+      "status": null,
+      "pages": ["14"],
+      "language_use": "four tongues: Chaldee, Greek, Hebrew and Latine"
+    },
+    {
+      "name": "Note (of Grammar)",
+      "type": "sigil",
+      "role": "first of Liberal Arts",
+      "status": null,
+      "pages": ["8"],
+      "format": "quadrangle note with integrated text and prayers"
+    },
+    {
+      "name": "Angelical Wisdom",
+      "type": "concept",
+      "role": "first Figure of Notory Art",
+      "status": null,
+      "pages": [],
+      "alias": "The Ring of Philosophy"
+    },
+    {
+      "name": "Liberal Arts",
+      "type": "concept",
+      "role": "categories of knowledge",
+      "status": null,
+      "pages": ["3", "12"],
+      "categories": [
+        "Grammar",
+        "Rhetoric",
+        "Logic",
+        "Arithmetic",
+        "Geometry",
+        "Music",
+        "Astronomy"
+      ]
+    },
+    {
+      "name": "Triumphal Figures",
+      "type": "ritual_element",
+      "role": "introduction to Notory Art",
+      "status": null,
+      "pages": ["14"],
+      "pronunciation_timing": "certain determinate times of the Moon"
+    }
+  ]
+}

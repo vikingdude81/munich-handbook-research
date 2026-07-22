@@ -1,0 +1,55 @@
+{
+  "divine_names_and_spirits": [
+    {
+      "name": "Most High Creator",
+      "role_description": "source of revelation, God as creator",
+      "status": "biblical",
+      "pages": [
+        "p.11"
+      ]
+    },
+    {
+      "name": "Hely Scemath Amazaz Hemel Sathusteon hheli Tamazam",
+      "role_description": "First Revelation of Solomon, Science of transcendent purity",
+      "status": "attested",
+      "language_origin": "Chaldee, Hebrew, Grecian",
+      "pages": [
+        "p.13"
+      ]
+    },
+    {
+      "name": "Assaylemath Assay Lemath Azzabue",
+      "role_description": "part of the Oration of the four Tongues",
+      "status": "attested",
+      "pages": []
+    },
+    {
+      "name": "Azzaylemath Lemath Azacgessenio",
+      "role_description": "second part of the precedent Oration",
+      "status": "attested",
+      "pages": []
+    },
+    {
+      "name": "Lemath Sabanche Ellithy Aygezo",
+      "role_description": "third part of the precedent Oration",
+      "status": "attested",
+      "pages": []
+    },
+    {
+      "name": "Holy Angels",
+      "role_description": "ministers of revelation, delivered knowledge upon altar of Temple",
+      "status": "biblical",
+      "pages": [
+        "p.11"
+      ]
+    },
+    {
+      "name": "Four Angels",
+      "role_description": "revealers of orations",
+      "status": "attested",
+      "pages": [
+        "p.14"
+      ]
+    }
+  ]
+}
