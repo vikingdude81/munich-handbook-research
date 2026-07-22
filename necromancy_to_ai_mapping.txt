@@ -1,20 +1,17 @@
 ==========================================================================================
   NECROMANCY → AI: MAPPING MEDIEVAL CONJURATION TO MODERN AGENT ORCHESTRATION
-  From Five Medieval Grimoires to GPU Clusters
+  From the Munich Handbook (CLM 849) to GPU Clusters
 ==========================================================================================
 
-  Five medieval grimoires describe structured protocols for summoning, binding,
-  constraining, and commanding non-human intelligences. Modern AI agent
-  systems do exactly the same thing—with language models instead of demons,
-  system prompts instead of incantations, and API calls instead of circles.
+  The Munich Necromancer's Handbook describes structured protocols for
+  summoning, binding, constraining, and commanding non-human intelligences.
+  Modern AI agent systems do exactly the same thing—with language models
+  instead of demons, system prompts instead of incantations, and API calls
+  instead of circles.
 
-  Sources: ars_notoria, forbidden_rites_pdf, liber_juratus, necro, worship_dead
-  Total entities: 2467 (1254 spirits, 323 rituals,
-                  102 divine names, 91 incantations)
-
-  This document maps each structural element of medieval magical practice
-  onto its direct counterpart in modern AI agent architecture,
-  drawing from 2467 extracted entities across 5 grimoire sources.
+  This document maps each structural element of 15th-century necromantic
+  practice onto its direct counterpart in modern AI agent architecture,
+  drawing from 2,903 extracted entities across the Munich Handbook sources.
 
 ==========================================================================================
   SECTION 1: THE STRUCTURAL PARALLEL
@@ -40,36 +37,22 @@
   The Pact (pactum)                    →  The API Key / Auth Token
   Licentia (spirit dismissal)          →  Session Teardown / Connection Close
 
-  NEW MAPPINGS (from Ars Notoria & Liber Juratus):
-  ─────────────────────────────────────────────────────────────────────────────
-  Ars Notoria 'Notes' system           →  Prompt Templates / Few-shot Learning
-  Liber Juratus purification rites     →  Training Data Curation / Preprocessing
-  Archangel Binding Protocols          →  Constitutional AI / RLHF Guardrails
-  Day/Planet Spirit Routing            →  Mixture-of-Experts / Dynamic Routing
-  Ritual Circle Containment            →  Sandboxing / Containerization
-  Seal of God (Liber Juratus)          →  Root Certificate / TLS Chain of Trust
-  Day Prefect Hierarchy                →  Context-Aware Expert Selection
-  Dream Experiment Protocol            →  Async Inference / Batch Processing
-  Patriarchal Consecration             →  Pre-training Alignment Phase
-  100 Names of God                     →  Reward Model Dimensions
-
 ==========================================================================================
   SECTION 2: SPIRIT TAXONOMY → MODEL TAXONOMY
 ==========================================================================================
 
   The Munich Handbook organizes its spirits into functional tiers.
-  The expanded 5-grimoire corpus reveals even deeper stratification.
   Your GPU cluster organizes its models the same way.
 
-  SPIRIT ROLE DISTRIBUTION (from 1254 spirits across 5 sources):
-    GENERAL                         735 spirits
-    COMMANDER                       193 spirits
+  SPIRIT ROLE DISTRIBUTION (from 1087 Munich spirits):
+    GENERAL                         663 spirits
     GUARDIAN                        181 spirits
-    SPECIALIST_ILLUSIONIST          149 spirits
-    SPECIALIST_LOVE                  43 spirits
-    SPECIALIST_HARM                  40 spirits
-    ORACLE                           32 spirits
-    SPECIALIST_TREASURE              22 spirits
+    COMMANDER                       165 spirits
+    SPECIALIST_ILLUSIONIST           76 spirits
+    SPECIALIST_LOVE                  39 spirits
+    SPECIALIST_HARM                  32 spirits
+    ORACLE                           29 spirits
+    SPECIALIST_TREASURE              24 spirits
 
   TIER MAPPING:
   ─────────────────────────────────────────────────────────────────────────────
@@ -77,23 +60,23 @@
   CLM 849 TIER                    YOUR CLUSTER TIER
   ─────────────────────────────────────────────────────────────────────────────
 
-  PRINCES / KINGS (78 spirits)     →  HEAVY MODELS (120B+ parameter)
+  PRINCES / KINGS (61 spirits)     →  HEAVY MODELS (120B+ parameter)
   ┌─────────────────────────────────────────────────────────────────────────┐
   │ These are the supreme authorities — invoked for the most important     │
   │ operations, requiring elaborate preparation (large context, expensive).│
   │ They command lesser spirits. In your cluster: qwen3-coder-next 120B.  │
   └─────────────────────────────────────────────────────────────────────────┘
   Munich examples:
-    Astaroth                  x20  prince/master demon; demon; marquis; spirit; magister d
+    Astaroth                  x26  prince/master demon; demon; princeps demoniorum; marqui
+    Satan                     x20  infernal name invoked in final incantation; Devil; demo
+    Berith                    x19  powerful spirit; king; demon; princeps demoniorum
     Gabriel                   x19  archangel; angel
-    Satan                     x19  infernal name invoked in final incantation; Devil; demo
-    Belial                    x16  principal prince; infernal name invoked; demon; princep
-    Berith                    x16  powerful spirit; king; demon; princeps demoniorum
-    Lucifer                   x12  infernal name invoked; highest prince of demons; demon;
-    Belzebub                  x10  demon; princeps demoniorum
-    Barthan                   x 8  king of the East spirits; airy powers of the East; King
+    Belial                    x18  principal prince; infernal name invoked; demon; inicial
+    Lucifer                   x14  infernal name invoked; highest prince of demons; demon;
+    Belzebub                  x12  demon; princeps demoniorum
+    Paymon                    x11  demon; king
 
-  SPECIALIST SPIRITS (44 spirits)  →  TASK-SPECIFIC MODELS (9B-35B)
+  SPECIALIST SPIRITS (48 spirits)  →  TASK-SPECIFIC MODELS (9B-35B)
   ┌─────────────────────────────────────────────────────────────────────────┐
   │ Each specialist does ONE thing: conjure castles, banquets, horses,     │
   │ mirrors. They're invoked in groups for parallel operations. In your    │
@@ -123,16 +106,16 @@
   SECTION 3: CONJURATION PROTOCOLS → AGENT PROMPTING PATTERNS
 ==========================================================================================
 
-  RITUAL CATEGORY DISTRIBUTION (from 323 Munich rituals):
-    DIVINE_AUTHORITY                323 rituals
-    PROTECTION                       92 rituals
-    ILLUSION                         92 rituals
-    CONJURATION                      63 rituals
-    SCRYING                          21 rituals
+  RITUAL CATEGORY DISTRIBUTION (from 239 Munich rituals):
+    DIVINE_AUTHORITY                239 rituals
+    PROTECTION                       86 rituals
+    CONJURATION                      62 rituals
+    ILLUSION                         35 rituals
     BINDING                          20 rituals
-    LOVE_MAGIC                       11 rituals
-    HARM                             11 rituals
-    KNOWLEDGE                         9 rituals
+    SCRYING                          16 rituals
+    HARM                              9 rituals
+    LOVE_MAGIC                        8 rituals
+    KNOWLEDGE                         6 rituals
 
   THE CONJURATION SEQUENCE (from CLM 849) mapped to AI agent calls:
   ─────────────────────────────────────────────────────────────────────────────
@@ -172,10 +155,10 @@
 
   Actual circle inscriptions from CLM 849:
     Satan                     (inscribed on circle for protection/constraint)
-    Belial                    (inscribed on circle for protection/constraint)
     Berith                    (inscribed on circle for protection/constraint)
-    Tetragramaton             (inscribed on circle for protection/constraint)
+    Belial                    (inscribed on circle for protection/constraint)
     Lucifer                   (inscribed on circle for protection/constraint)
+    Tetragramaton             (inscribed on circle for protection/constraint)
     Belzebub                  (inscribed on circle for protection/constraint)
 
   STEP 3: THE CONJURATION TEXT (conjuratio)
@@ -195,22 +178,22 @@
     5. retry_on_failure=True         ← threatening escalation
 
   Actual conjuration formulas from CLM 849:
-    Pater Noster                                       | 
-      "Then say three times the Pater Noster"
     Alpha et O                                         | divine name of God used in exorcism
       "per Alpha et O, per Ihesum Christum filium tuum..."
-    Apostle's Creed                                    | 
-      "Honorius includes both the Apostle’s Creed and the Athanasian Creed"
-    Application Prayer                                 | binding spirits to appear and obey
-      "That this spirit or these spirits N., whom I have invoked, may come bound to me"
     Asperges me, Domine, ysopo                         | used in invisibility ritual
       "...saying, Asperges me, Domine, ysopo ... [Ps. 50:9 Vulg.]."
-    Assaylemaht...                                     | 
-      "namely “Assaylemaht…” (XX) and “Hazailemaht …,” (XXI)"
-    Athanasian Creed                                   | 
-      "Honorius includes both the Apostle’s Creed and the Athanasian Creed"
     Ave Maria                                          | used in flying throne ritual
       "...says various prayers (the Ave Maria, part of Psalm 50, the Lesser Doxology, etc.)..."
+    Celi enarrant                                      | 
+      "...Celi enarrant in the middle band..."
+    circulus cum nomine sanctorum                      | 
+      "...in ipsa naui similiter potest fiere nominacio sanctorum, sicut in vera cristianitate..."
+    conjuratio ad equum (No. 17)                       | to summon spirit for transport
+      "Coniuro te, eque bone, • per creatorem celi et terre... vt me, N., ad locum talem deferas..."
+    conjuratio ad furtum per puerum (No. 22)           | bind boy to reveal thief/murderer
+      "Coniuro te, puer, • per Patrem et Filium et Spiritum Sanctum..."
+    conjurationes cristalli (two versions)             | invoke angels into crystal
+      "Coniuro vos in nomine Dedeon, et dij Egarias et Semisonay..."
 
   STEP 4: FUMIGATION / OFFERING (suffumigatio)
   ─────────────────────────────────────────────────────────────────────────────
@@ -226,14 +209,14 @@
   Actual fumigation ingredients from CLM 849:
     myrrh                               | fumigation; psychological experiments
     Sulphur                             | fumigation; Saturday suffumigations; suffumigium; 
-    incense                             | fumigation;  Thurible for circle walking; ritual u
     saffron                             | fumigation
+    incense                             | fumigation;  Thurible for circle walking; ritual u
     Almastic                            | suffumigium; suffumigium diei Veneris
     Altast                              | suffumigium; suffumigium diei Mercurij
     cinnamon                            | fumigation
     frankincense                        | used in fumigation for invisibility ritual
+    Indian wood                         | fumigation of images
     Olibanum                            | suffumigium; suffumigium diei Jouis
-    Abana                               | suffumigium diei Martis
 
   STEP 5: THE APPEARANCE (apparitio)
   ─────────────────────────────────────────────────────────────────────────────
@@ -475,19 +458,13 @@
   SPIRIT            DIRECTION      →  GPU NODE        ASSIGNMENT
   ─────────────────────────────────────────────────────────────────────────────
   Berith               east            →  5090 (primary)
-  Barthan              north winds, ru →  worker node
   Apolin               orientem (east) →  worker node
   Anael                southwest       →  worker node
-  Firiel               west            →  4070 (secondary)
   Taraor               north           →  A2000 (tertiary)
+  Firiel               west            →  4070 (secondary)
   Melemil              south           →  3060 (quaternary)
   Saturn               Northern part   →  worker node
   Venus                Southwest       →  worker node
-  Jupiter              Southeast       →  worker node
-  Mars                 South           →  3060 (quaternary)
-  Mercury              Northwest       →  worker node
-  The Moon             West            →  4070 (secondary)
-  The Sun              East            →  5090 (primary)
 
   QUADRANT RULERS (spiritus who hold dominion over the four parts):
     Aroch                     | one of four spirits governing quadrants; companion spir
@@ -521,32 +498,30 @@
   They BIND it with layers of authority. Modern AI doesn't trust the model.
   It binds it with layers of alignment, guardrails, and constraints.
 
-  Actual divine names extracted from all 5 sources:
-    Adonay                         x8  | ars_notoria, liber_juratus     | separated sea from bounds
-    God                            x7  | ars_notoria, liber_juratus     | Restorer of all things by His Spirit; cr
-    Tetragramaton                  x7  | liber_juratus, necro           | conjuration authority
-    Jesus Christ                   x6  | ars_notoria, liber_juratus     | Lord; Suffered for salvation, descended 
-    Heloy                          x3  | liber_juratus                  | 
-    Shem ha-Meforash               x3  | liber_juratus                  | 
-    Agla                           x2  | liber_juratus                  | 
-    Alpha and Omega                x2  | liber_juratus                  | beginning and end
-    Amasiel, Danyihayr             x2  | ars_notoria                    | fourth part of Oration
-    Christus                       x2  | liber_juratus                  | 
-    Emanuel                        x2  | liber_juratus                  | king of kings, God, substance, salvation
-    Hamphynethon                   x2  | liber_juratus                  | most merciful creator, inspirer and refo
-    Hiskiros                       x2  | liber_juratus                  | 
-    Hocleiste                      x2  | liber_juratus                  | holy God, blessed Father and imperishabl
-    Holy Spirit                    x2  | liber_juratus                  | proceeding from Father and Son
-    Lamyhara                       x2  | liber_juratus                  | omnipotens, misericors Pater, omnium cre
-    Layaly                         x2  | liber_juratus                  | 
-    Sabaoth                        x2  | liber_juratus                  | 
-    100 Dei vivi nomina            x1  | liber_juratus                  | 
-    Abracio                        x1  | liber_juratus                  | spoke to Moses in burning bush
-    Achacham, Yhel, Chelychem, Agzyraztor, Yegor x1  | ars_notoria                    | beginning of a powerful Oration that mov
-    Admyhel                        x1  | liber_juratus                  | holy and almighty Father
-    Agla Eloy Yaym Theos Deus      x1  | liber_juratus                  | 
-    Aglaros, Theomiros, Thomitos   x1  | ars_notoria                    | beginning of second part of Oration
-    Agyos, Otheos, Athanatos, Yschiros, Kirios, Alleluia, Eleyson x1  | necro                          | conjuration authority
+  Actual divine names extracted from CLM 849:
+    Adonay                         x9  | separated sea from bounds
+    Tetragramaton                  x8  | conjuration authority
+    Agla                           x3  | 
+    Emanuel                        x3  | king of kings, God, substance, salvation and revel
+    Sabaoth                        x3  | 
+    Alpha et O                     x2  | conjuration authority
+    Paraclitus                     x2  | appeared to Abraham in three persons
+    Agyos, Otheos, Athanatos, Yschiros, Kirios, Alleluia, Eleyson x1  | conjuration authority
+    Basvon                         x1  | conjuration authority
+    Elthie                         x1  | conjuration authority
+    Ely, Eloe, Sabaoth, Adonay, Elyon, On x1  | conjuration authority
+    Ely, Elov, Eloem               x1  | conjuration authority
+    Fords, Fons, Leo, Petra        x1  | conjuration authority
+    A G L A                        x1  | 
+    Gabriel                        x1  | 
+    Jesus Nazarenus                x1  | conjuration authority
+    Joth                           x1  | used by Solomon to bind demons; invoked in conjura
+    Messyas, Soter, Emanuel, Pancraton, Occinomos x1  | conjuration authority
+    Michael                        x1  | 
+    Nabnoth                        x1  | used with Joth to bind demons; invoked in Expt. 27
+    On, Orion, Sabaoth, Adonay     x1  | conjuration authority
+    Pantocrator                    x1  | conjuration authority
+    Raphael                        x1  | 
 
 ==========================================================================================
   SECTION 8: INTENSIFIED CONJURATION → RETRY & ESCALATION PATTERNS
@@ -601,11 +576,11 @@
   - Your cluster: qwen2.5-0.5b or qwen3-1.7b routes to qwen3-coder-next
 
   Boy-medium experiments from CLM 849:
+    Volach                                        | gives excellent physician for women, mak
     Basyon                                        | true God; divine name invoked in binding
     oleum oliue (olive oil)                       | medium for anointing and inscribing
     boy (puer virgineus)                          | medium/seer; must be legitimate-born and
     Carab, Riasteli, Careb, Basal, Mistal, Oronot | named in ear of boy to appear in basin
-    Cedon, Zephata, Eloym, Eloyay                 | named spirits to appear in boy’s palm
 
 ==========================================================================================
   SECTION 10: FROM THEORY TO PRACTICE — BUILDING AI CONJURATION SYSTEMS
@@ -677,48 +652,45 @@
   SECTION 11: MAPPING STATISTICS
 ==========================================================================================
 
-  Total spirits across 5 grimoires:          1254
-    - Commander tier (kings/princes):          193
-    - Specialist illusionists:                 149
-    - Oracle / knowledge spirits:              32
+  Total spirits in Munich Handbook:           1087
+    - Commander tier (kings/princes):          165
+    - Specialist illusionists:                 76
+    - Oracle / knowledge spirits:              29
     - Guardian / inscribed spirits:            181
-  Total rituals:                               323
-    - Conjuration rituals:                     63
+  Total rituals:                               239
+    - Conjuration rituals:                     62
     - Binding/compelling rituals:               20
-    - Protection rituals:                      92
-    - Scrying/vision rituals:                  21
-    - Illusion rituals:                        92
-  Total ritual tools:                          156
-  Total ingredients:                           205
-  Total incantations:                          91
-  Total divine names:                          102
-  Total relationships mapped:                  1200
-  Total numbered experiments:                  16
+    - Protection rituals:                      86
+    - Scrying/vision rituals:                  16
+    - Illusion rituals:                        35
+  Total ritual tools:                          128
+  Total ingredients:                           203
+  Total incantations:                          31
+  Total divine names:                          23
+  Total relationships mapped:                  1260
+  Total numbered experiments:                  18
   Spirit co-invocation groups:                 23
 
-  Per-source entity breakdown:
-    forbidden_rites_pdf        1338 entities
-    necro                      1255 entities
-    liber_juratus               500 entities
-    worship_dead                276 entities
-    ars_notoria                 102 entities
+  PROVENANCE (work-level, corrected):
+    kieckhefer_clm849         1899 entities
+    liber_juratus              354 entities
+    garnier_1909               248 entities
+    scot_1584                  206 entities
+    ars_notoria                 91 entities
+    taschen_2003                38 entities
+    cross-work entities (appear in 2+ distinct works): 61
+    NOTE: `necro` and `forbidden_rites_pdf` are the same book (Kieckhefer, Clm 849) and are counted once at the work level.
 
 ==========================================================================================
   CONCLUSION
 ==========================================================================================
 
-  The five medieval grimoires form a comprehensive agent orchestration framework.
-  Every structural element has a direct analog in modern AI systems:
+  The Munich Handbook reads like a 15th-century agent orchestration framework.
+  Its structural elements map onto modern AI systems as suggestive analogies
+  (isomorphisms of structure, not demonstrated equivalences):
   named models, system prompts, structured output, retry logic,
   parallel fan-out, escalation chains, containment/sandboxing,
   and session management.
-
-  The expanded corpus reveals new dimensions:
-  - Ars Notoria's 'Notes' → prompt templates and few-shot learning
-  - Liber Juratus's purification → training data curation
-  - Archangel binding → Constitutional AI / RLHF guardrails
-  - Day/Planet routing → Mixture-of-Experts dynamic routing
-  - Ritual circle → sandboxing and containerization
 
   The necromancer's core insight — that non-human intelligences must be
   NAMED, CONSTRAINED, DIRECTED, and DISMISSED through structured

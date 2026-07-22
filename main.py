@@ -38,12 +38,15 @@ def main():
 
     if args.manifold:
         print("\n--- LGI Magic Circle Manifold ---")
-        from src.spirit_vectors import load_seed_spirits
-        from src.lgi_manifold import MagicCircleManifold
-        data, names = load_seed_spirits()
-        manifold = MagicCircleManifold(data)
-        print(f"Lattice volume: {manifold.lattice_volume():.4f}")
-        print(f"Basis shape:    {manifold.basis.shape}")
+        import numpy as np
+        from src.lgi_manifold import load_seed_circle
+        circle, corpus = load_seed_circle()
+        res = np.array([circle.residual(v) for v in corpus])
+        inside = int((res <= circle.radius).sum())
+        print(f"Inscribed names: {', '.join(circle.seed_names)}")
+        print(f"Lattice volume:  {circle.lattice_volume():.4f}")
+        print(f"Radius (q25):    {circle.radius:.4f} — "
+              f"{inside}/{len(corpus)} spirits within the circle")
 
     print("\n" + "=" * 60)
     print("DONE")

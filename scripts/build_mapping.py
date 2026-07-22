@@ -14,8 +14,9 @@ import json
 import os
 from collections import Counter, defaultdict
 
-DB_PATH = r"E:\munich_handbook_research\data\unified_entities.json"
-OUT_PATH = r"E:\munich_handbook_research\necromancy_to_ai_mapping.txt"
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(_ROOT, "data", "unified_entities.json")
+OUT_PATH = os.path.join(_ROOT, "necromancy_to_ai_mapping.txt")
 
 db = json.load(open(DB_PATH, "r", encoding="utf-8"))
 entities = db["entities"]
@@ -764,12 +765,27 @@ out(f"  Total relationships mapped:                  {len(relationships)}")
 out(f"  Total numbered experiments:                  {len(numbered_exps)}")
 out(f"  Spirit co-invocation groups:                 {len([k for k,v in co_graph.items() if len(v)>=2])}")
 out()
+out("  PROVENANCE (work-level, corrected):")
+_works = Counter()
+_cross = 0
+for _e in entities:
+    for _w in _e.get("distinct_works", []):
+        _works[_w] += 1
+    if _e.get("cross_work"):
+        _cross += 1
+for _w, _c in _works.most_common():
+    out(f"    {_w:24s} {_c:5d} entities")
+out(f"    cross-work entities (appear in 2+ distinct works): {_cross}")
+out("    NOTE: `necro` and `forbidden_rites_pdf` are the same book "
+    "(Kieckhefer, Clm 849) and are counted once at the work level.")
+out()
 out("=" * 90)
 out("  CONCLUSION")
 out("=" * 90)
 out()
-out("  The Munich Handbook is a 15th-century agent orchestration framework.")
-out("  Every structural element has a direct analog in modern AI systems:")
+out("  The Munich Handbook reads like a 15th-century agent orchestration framework.")
+out("  Its structural elements map onto modern AI systems as suggestive analogies")
+out("  (isomorphisms of structure, not demonstrated equivalences):")
 out("  named models, system prompts, structured output, retry logic,")
 out("  parallel fan-out, escalation chains, containment/sandboxing,")
 out("  and session management.")

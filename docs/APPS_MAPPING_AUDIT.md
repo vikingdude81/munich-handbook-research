@@ -155,3 +155,22 @@ Feature trade-off between the two versions:
 losing the v1 Circle tab), merge the Circle tab into v2 first, or leave the
 Space on v1. `hf` CLI v1.23 is authenticated as Vikingdude81, so a push is a
 one-liner once decided.
+
+---
+
+## 6. Resolutions (2026-07-22)
+
+- **§1 AI mapping doc — RESOLVED.** `build_mapping.py` paths are now
+  repo-relative and the doc was regenerated against the corrected 7-source DB.
+  Section 11 carries a work-level provenance block (Kieckhefer counted once;
+  cross-work entities: 61) and the conclusion now frames the mapping as
+  "suggestive analogies (isomorphisms of structure, not demonstrated
+  equivalences)".
+- **§2 Magic Circle — RESOLVED.** `src/lgi_manifold.py` rewritten:
+  `MagicCircleManifold` is now a curated commander-tier seed circle (8 inscribed
+  names → genuine 8-D subspace of R^28, radius calibrated as the q25 corpus
+  residual; guards against seed sets that would span the space), plus
+  `MahalanobisCircle` for corpus-scale membership. Verified: seeds self-residual
+  ~1e-15, 359/1180 attributed spirits within the circle (30.4% — discriminating,
+  not vacuous), random noise rejected by both tests. `main.py --manifold`
+  updated to match.
