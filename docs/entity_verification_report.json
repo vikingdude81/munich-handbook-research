@@ -3,7 +3,7 @@
     "entities_with_quotes": 2529,
     "verified_in_source": 2508,
     "UNVERIFIED_hallucination_candidates": 21,
-    "entities_without_quotes": 11,
+    "entities_without_quotes": 234,
     "verification_rate": 0.9917,
     "unverified_details": [
       {
@@ -198,7 +198,7 @@
     ]
   },
   "duplicates": {
-    "fuzzy_name_pairs": 68,
+    "fuzzy_name_pairs": 70,
     "pairs": [
       {
         "a": "agyos",
@@ -253,6 +253,11 @@
       {
         "a": "bartha",
         "b": "barthan",
+        "similarity": 0.923
+      },
+      {
+        "a": "belial",
+        "b": "beliall",
         "similarity": 0.923
       },
       {
@@ -474,6 +479,11 @@
         "a": "sartquiel",
         "b": "satquiel",
         "similarity": 0.941
+      },
+      {
+        "a": "satan (sathan)",
+        "b": "sathan (satan)",
+        "similarity": 0.929
       },
       {
         "a": "satan / sathan",

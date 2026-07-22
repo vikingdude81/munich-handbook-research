@@ -36,7 +36,13 @@ OUT_DIR = os.environ.get("MHR_DATA_DIR", os.path.join(_ROOT, "data"))
 SOURCE_IDS = [
     "necro", "forbidden_rites_pdf", "worship_dead",
     "ars_notoria", "liber_juratus",
+    # Pipeline-track sources (different chunk schema; adapted in load):
+    "discoverie", "alchemy_mysticism",
 ]
+
+# Pipeline-track sources use {description, source_ref} instead of
+# {attributes.*, page_ref, raw_quote}; _adapt_pipeline_entity maps them.
+PIPELINE_SOURCES = {"discoverie", "alchemy_mysticism"}
 
 # Canonical WORK map — multiple source ingests can be the same underlying work.
 WORK_ID = {
@@ -45,7 +51,21 @@ WORK_ID = {
     "worship_dead": "garnier_1909",   # modern secondary mythology, not a grimoire
     "ars_notoria": "ars_notoria",
     "liber_juratus": "liber_juratus",
+    "discoverie": "scot_1584",        # early-modern primary (incl. Bk XV catalogue)
+    "alchemy_mysticism": "taschen_2003",  # modern secondary art-history compendium
 }
+
+
+def _adapt_pipeline_entity(e):
+    """Map the pipeline distill schema onto the unified entity schema."""
+    if "description" in e and e["description"]:
+        attrs = e.setdefault("attributes", {}) or {}
+        if isinstance(attrs, dict):
+            attrs.setdefault("description", e["description"])
+            e["attributes"] = attrs
+    if not e.get("page_ref") and e.get("source_ref"):
+        e["page_ref"] = str(e["source_ref"])
+    return e
 
 
 def distinct_works(sources):
@@ -323,6 +343,8 @@ def load_all_entities():
                 })
 
             for e in data.get("entities", []):
+                if source_id in PIPELINE_SOURCES:
+                    e = _adapt_pipeline_entity(e)
                 e["_source"] = source_id
                 e["_chunk_id"] = chunk_id
                 all_entities.append(e)

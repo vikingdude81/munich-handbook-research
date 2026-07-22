@@ -205,6 +205,8 @@ WORK_ID = {
     "worship_dead": "garnier_1909",
     "ars_notoria": "ars_notoria",
     "liber_juratus": "liber_juratus",
+    "discoverie": "scot_1584",
+    "alchemy_mysticism": "taschen_2003",
 }
 
 
@@ -219,12 +221,13 @@ def _distinct_works(entity):
     return works
 
 
-def _source_features(entity, max_sources=3, max_occ=20):
+def _source_features(entity, max_sources=4, max_occ=20):
     """3-dim: [work_count_norm, occurrence_norm, cross_work].
 
     Counts distinct WORKS (book-level), not source ingests, so the duplicated
-    Kieckhefer text no longer reads as a multi-source spirit. max_sources=3
-    reflects the 3 genuine grimoire works in the corpus.
+    Kieckhefer text no longer reads as a multi-source spirit. max_sources=4
+    reflects the 4 spirit-bearing primary works (Clm 849, Ars Notoria,
+    Liber Juratus, Scot 1584).
     """
     vec = np.zeros(3)
     works = _distinct_works(entity)

@@ -39,12 +39,15 @@ The Munich Handbook (Bayerische Staatsbibliothek, CLM 849) is a 15th-century nec
 ```
 Source ingests:                  5  (see note below)
 Genuine distinct works:          3  grimoires
-Unique entities after merge:     2,540  (regenerated 2026-06-20; all 9 parse-error chunks recovered)
-Total relationships:             1,253
-Chunk summaries:                 109
+Unique entities after merge:     2,763  (regenerated 2026-07-22; incl. Discoverie + Alchemy tracks)
+Total relationships:             1,260
+Chunk summaries:                 147
 
-All spirit records:              1,286  (see caveat)
-Multi-WORK spirits:              14     (corrected — was reported as 266)
+All spirit records:              1,330  (see caveat)
+Multi-WORK spirits:              21     (corrected — was reported as 266)
+  incl. 9 cross-attested in Scot's Discoverie (1584): Astaroth, Beelzebub,
+  Lucifer, Paymon, Raphael, Satan — independent English attestation of the
+  Munich commander tier.
 ```
 
 > **Data-accuracy notes** (see [`docs/CLEANUP_REPORT.md`](docs/CLEANUP_REPORT.md) and [`docs/corrected_stats.json`](docs/corrected_stats.json)):
@@ -69,18 +72,18 @@ A 15×15 Self-Organizing Map trained on 1,254 spirit vectors (28 features) to re
 
 ### Metrics
 ```
-Quantization Error:  0.1996
-Topographic Error:   0.0056
-Populated cells:     90/225
-Training:            2000 epochs (use_epochs=True), PCA-initialized
+Quantization Error:  0.1457
+Topographic Error:   0.0161
+Populated cells:     98/225
+Training:            2000 true epochs (use_epochs=True), PCA-initialized
+Corpus:              1,180 attributed spirits (150 zero-attribute records excluded)
 ```
 
-> **Caveat:** the very low QE/TE partly reflect data degeneracy, not topology
-> quality — ~70% of spirit vectors are single-occurrence and ~145 are
-> all-zero, so they collapse onto one node (the "Unnamed Host" mega-cluster of
-> 436). Treat the clusters as suggestive, not as discovered "courts," until the
-> map is retrained on attributed spirits only. (The committed `som_output/`
-> artifacts predate the cross-grimoire fix and should be regenerated.)
+> **Caveat:** retrained 2026-07-22 on attributed spirits only, over the full
+> 7-source corpus. The largest cell (392, "neutral_mixed") is still the
+> minimal-feature bucket — spirits whose attributes exist but match no
+> rank/planet/function keyword — so treat court labels as suggestive
+> categories, not discovered structure.
 
 ### Feature Vector (28 dimensions)
 ```

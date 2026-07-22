@@ -1,26 +1,26 @@
 # Entity Glossary — Munich Handbook Research
 
-Generated from `data/unified_entities.json` (2026-07-21; 2540 entities). Descriptions are assembled from extracted attributes only — nothing here is invented. Provenance verification: see `docs/entity_verification_report.json` (99%+ of quote-bearing entities verified against source text).
+Generated from `data/unified_entities.json` (2026-07-22; 2763 entities). Descriptions are assembled from extracted attributes only — nothing here is invented. Provenance verification: see `docs/entity_verification_report.json` (99%+ of quote-bearing entities verified against source text).
 
 Machine-readable version: `data/entity_index.csv`.
 
 ## Contents
 
-- [Spirit (1286)](#spirit)
+- [Spirit (1330)](#spirit)
 - [Deity (17)](#deity)
 - [Divine_Name (105)](#divine_name)
-- [Person (167)](#person)
-- [Ritual (348)](#ritual)
+- [Person (241)](#person)
+- [Ritual (371)](#ritual)
 - [Incantation (91)](#incantation)
-- [Ingredient (216)](#ingredient)
-- [Tool (167)](#tool)
+- [Ingredient (225)](#ingredient)
+- [Tool (168)](#tool)
 - [Location (23)](#location)
-- [Concept (101)](#concept)
+- [Concept (133)](#concept)
 - [Text (14)](#text)
-- [Unknown (5)](#unknown)
+- [Unknown (45)](#unknown)
 
 <a id="spirit"></a>
-## Spirit  (1286)
+## Spirit  (1330)
 
 **Aa, Ely, Sother, Adonay, Cel, Sabaoth, Messyas, Alazabra, Osian** (×2; kieckhefer_clm849) — pp. n/a (example from no. 7), p.158  
   role: ineffable names of the Creator; sacred names of the Creator that bind demons
@@ -115,6 +115,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Aepton** (×1; kieckhefer_clm849) — pp. [98r]  
   quote: "Caon, Aepton, Alpha et O..."
 
+**Aerial Spirits** (×1; scot_1584) — pp. page 471  
+  description: Spirits residing on the tops of turrets.
+
 **Afah** (×1; kieckhefer_clm849) — pp. p. 351 (84v)  
   role: one of twenty-five names inscribed on enemy-expulsion image
 
@@ -133,6 +136,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Aforax** (×1; kieckhefer_clm849) — pp. 351r  
   quote: "...Beolthoray, Aforax..."
 
+**Agares** (×1; scot_1584) — pp. Page 412  
+  description: A duke of the power of the east appearing as a fair old man riding a crocodile. · rank: duke · appearance: fair old man; riding a crocodile; carrying a hawk
+
 **Agla** (×5; kieckhefer_clm849) — pp. 167, 68v (fig. e), CLM 849, experiment no. 16, [98r] — variants: AGLA, Agla  
   function: used in circles for protection; used in circle inscriptions · role: divine name used in conjurations · rank: sacred name (divine); divine name
 
@@ -144,6 +150,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Agnus inmaculatus** (×1; kieckhefer_clm849) — pp. 60r, 110v, 120r (implied)  
   role: Christological title used as conjuratory authority
+
+**Agrestis** (×1; scot_1584) — pp. page 524  
+  description: god of the fields, and to him they praied for fertilitie
 
 **Agroueros (Agrus)** (×1; garnier_1909) — pp. 243  
   role: Deified patriarch; 'greatest of the gods' at Byblos
@@ -255,6 +264,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Amicicia names (Malthayl, Caramel, etc.)** (×1; kieckhefer_clm849) — pp. 80r  
   function: divine names inscribed on images for friendship
+
+**Amon** (×1; scot_1584) — pp. Page 412  
+  description: A mighty marques appearing as a wolf with a serpent's tail. · rank: marques · appearance: wolf; serpent's tail; man with dog teeth
 
 **An** (×1; kieckhefer_clm849) — pp. 65r  
   function: rebellious spirit absorbed by earth
@@ -409,8 +421,8 @@ Machine-readable version: `data/entity_index.csv`.
 **Astaba** (×3; kieckhefer_clm849) — pp. 357, 362, p. [91r]  
   role: spiritus; spirit commanded by Saturday's angels; spirits commanded in Saturday’s final conjuration
 
-**Astaroth** (×25; kieckhefer_clm849) — pp. 166, 269n (fig. f.30r); 271a, 62v–65r, 63r  
-  function: reveals treasures guarded by spirits; gives love of women, especially widows; commands languages; named in hatred ritual incantation; responds to conjuration in mirror ritual · functions: mentioned among named demons · role: prince of the south invoked in conjuration; helper in image-making ritual; demon invoked on knife handle
+**Astaroth** (×26; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. 166, 269n (fig. f.30r); 271a, 62v–65r, 63r  
+  description: An idol of the Philistines, also worshipped by Solomon; signifies riches and flocks. · function: reveals treasures guarded by spirits; gives love of women, especially widows; commands languages; named in hatred ritual incantation; responds to conjuration in mirror ritual · functions: mentioned among named demons
 
 **Astena** (×1; kieckhefer_clm849) — pp. 49v  
   role: invoked in basin conjuration
@@ -420,6 +432,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Asyel** (×5; kieckhefer_clm849) — pp. 271a, 272a, fols 32r-33r, p. 112, p. 207  
   role: conjured spirit for constraint rituals; conjuration spirit in bone ritual; demonic spirit
+
+**Ataiberius** (×1; scot_1584) — pp. page 616  
+  description: A virulent animal that confounded the undertakings of those who labored in the silver mine in Germany, appearing in the likeness of a he-goat with Golden horns, a horse breathing flames, and a monk in pontifical robes.
 
 **Atal** (×1; kieckhefer_clm849) — pp. p. 351 (84v)  
   role: one of twenty-five names inscribed on enemy-expulsion image
@@ -499,6 +514,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Badalam** (×2; kieckhefer_clm849) — pp. p. 105  
   role: lord to whom demons are bound in obedience
 
+**Baell** (×1; scot_1584) — pp. Page 412  
+  description: A king of the power of the east who appears with three heads (toad, man, and cat) and commands 66 legions. · rank: king · appearance: three heads; toad-like head; man-like head
+
 **Bal** (×1; kieckhefer_clm849) — pp. p. 351 (84v)  
   role: one of twenty-five names inscribed on enemy-expulsion image
 
@@ -507,6 +525,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Balidet** (×1; liber_juratus) — pp. 20  
   quote: "Servants: Aboumaleth, Asaïbi, Balidet"
+
+**Balkin** (×1; scot_1584) — pp. Appendix I, IX  
+  description: The Master of Luridan
 
 **Balthasar** (×2; kieckhefer_clm849) — pp. 51r, [98v], [102r]  
   role: One of the Three Magi
@@ -535,11 +556,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Barbarus** (×2; kieckhefer_clm849) — pp. 65v–65r bis, Table D (no. 34)  
   function: discloses treasures not protected by magic · rank: count and duke; magnus comes et dux · appearance: seneschal
 
+**Barbatos** (×1; scot_1584) — pp. Page 412  
+  description: A duke or earl who understands the voices of animals. · rank: count; earl; duke · appearance: Signo sagittarii sylvestris
+
 **Barbectus** (×2; kieckhefer_clm849) — pp. p. 93  
   role: demon; demon invoked alongside Mosectus and Belsabuct
 
 **Barian (divine name)** (×1; kieckhefer_clm849) — pp. 79r  
   function: used in hour names · rank: divine name
+
+**Barma** (×1; scot_1584) — pp. Appendix I, Chap. III  
+  description: One of three spirits that can be raised with wonderful things effected through their assistance
 
 **Barmaly** (×2; kieckhefer_clm849) — pp. 76v, p. 342  
   role: angelus assistens diei Martis · rank: angel
@@ -562,6 +589,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Basyon** (×2; kieckhefer_clm849) — pp. 45r (No. 27-A)  
   role: true God; divine name invoked in binding pueri
 
+**Bathin** (×1; scot_1584) — pp. Appendix I, Chap. III  
+  description: One of three spirits that can be raised with wonderful things effected through their assistance
+
 **Baxhatau** (×2; liber_juratus) — pp. 229, 245  
   role: exciter of the North wind
 
@@ -574,14 +604,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Beaali** (×1; kieckhefer_clm849) — pp. p. 351 (84r)  
   role: one of fifteen names inscribed on army-dispersal image
 
+**Bealphares** (×1; scot_1584) — pp. page 415/418  
+  description: A spirit that can be bound or lost, mentioned in an experiment
+
 **Beas** (×1; kieckhefer_clm849) — pp. p. 349 (83r)  
   role: one of twelve names inscribed on crucible rim
 
 **Beel** (×1; kieckhefer_clm849) — pp. p. 350 (83v)  
   role: one of seven names inscribed on night image 2
 
-**Belzebub** (×11; garnier_1909, kieckhefer_clm849, liber_juratus ⭐cross-work) — pp. 270-271, CLM 849, experiment no. 1; footnote 14, Table C (no. 1; no. 38), [97v], [100r] — variants: Beelzebub, Belzebub  
-  function: appears in circles; listed in circle inscriptions · role: named in conjurations; demonic spirit; prince of demons · rank: demon; princeps demoniorum
+**Belzebub** (×12; garnier_1909, kieckhefer_clm849, liber_juratus, scot_1584 ⭐cross-work) — pp. 270-271, CLM 849, experiment no. 1; footnote 14, Chapter 19, Table C (no. 1; no. 38) — variants: Beelzebub, Belzebub  
+  description: The lord of the flies; an idol or oracle at Ekron; reputed as the principal devil among the Jews. · function: appears in circles; listed in circle inscriptions · role: named in conjurations; demonic spirit; prince of demons
 
 **Beheydraz** (×1; kieckhefer_clm849) — pp. 38  
   role: demon invoked
@@ -595,11 +628,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Belam** (×4; kieckhefer_clm849) — pp. 271a, 272a, p. 112, p. 207  
   role: conjured spirit for constraint rituals; conjuration spirit in bone ritual; demonic spirit
 
+**Belelah** (×1; scot_1584) — pp. Appendix I, VIII  
+  description: Another name for the familiar Luridan
+
 **Belferith** (×2; kieckhefer_clm849) — pp. p. 207, section 7, Demons and Daimons  
   role: demonic spirit · rank: demon
 
 **Belial** (×18; kieckhefer_clm849) — pp. 145–146, 233 (note m), 234, 269n (fig. f.30r) — variants: Belial, Beliath  
   function: appears in conjurations, invoked alongside Astaroth and Paymon; listed in circle inscriptions; helper in image magic · functions: mentioned among named demons · role: helper in image-making ritual; named in conjurations; 'foremost prince'; initial prince/helper in love ritual
+
+**Beliall** (×1; scot_1584) — pp. Page 416  
+  description: A king created immediately after Lucifer. · rank: king · appearance: beautiful angel; sitting in a fiery chariot
 
 **Belsabuct** (×2; kieckhefer_clm849) — pp. p. 93  
   role: prince of demons; demon invoked alongside Mosectus and Barbectus
@@ -732,6 +771,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Buddha (Sakya Muni)** (×1; garnier_1909) — pp. p. 141, p. 142  
   role: enlightened one; mortal avatar of supreme Buddha
+
+**Buer** (×1; scot_1584)  
+  description: A president who teaches philosophy and the virtue of herbs. · rank: president · power: teaches moral and natural philosophy; teaches logic; knows virtue of herbs
 
 **Burnon** (×1; kieckhefer_clm849) — pp. [98r]  
   quote: "Neon, Burnon, Parli..."
@@ -892,6 +934,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Cerbelli** (×1; kieckhefer_clm849) — pp. 351r  
   quote: "...Cerbelli, Tyaurax."
 
+**Cheleb** (×1; scot_1584) — pp. /page 532  
+  description: A devil that hurts by day.
+
 **Cherubim** (×4; liber_juratus) — pp. 100-101, 102, 18, 61  
   quote: "Honorius differs however in the order, placing the Cherubim before Seraphim"
 
@@ -960,6 +1005,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Cundaz** (×1; kieckhefer_clm849) — pp. p. 350 (84r)  
   role: one of six names inscribed on folio held by night image 2
+
+**Cuninus** (×1; scot_1584)  
+  description: he that preserved children from misfortune in the cradell
 
 **Cupido** (×2; kieckhefer_clm849) — pp. p. 104  
   role: demon inscribed on image to arouse sexual desire; inscribed on image’s genitals to arouse desire
@@ -1045,6 +1093,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Dea Myrionymus** (×1; garnier_1909) — pp. 63  
   role: goddess
 
+**Deber** (×1; scot_1584) — pp. Page 532  
+  description: A devil that hurts by night.
+
 **Dedeon** (×1; kieckhefer_clm849) — pp. 43v (No. 24)  
   role: invoked in crystal scrying; possibly angelic
 
@@ -1081,11 +1132,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Deus inuisibilis** (×1; kieckhefer_clm849) — pp. [55r]  
   function: used in consecration prayers · rank: divine name
 
+**the devil** (×2; scot_1584) — pp. page 207, 213, page 467  
+  description: A spirit mentioned in various contexts, including the letter to the devil and the debate over whether a spirit was raised.; The primary antagonist in the rituals and discussions of exorcism. · nature: Deceptive/Agent of error
+
 **Devil (Diaboli)** (×1; liber_juratus) — pp. 159  
   role: enemy of the faithful
 
 **Devil / Satan / Enemy** (×1; kieckhefer_clm849) — pp. 172–173  
   role: primary adversarial entity
+
+**Devils and Spirits** (×1; scot_1584) — pp. page 61, 63  
+  description: Entities that witches are alleged to contract with or use for purposes. · nature: Infernal/Spiritual
 
 **Diana of the Ephesians** (×1; garnier_1909) — pp. p. 402  
   role: idolatrous deity
@@ -1330,6 +1387,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Fabni (Fabin)** (×1; kieckhefer_clm849) — pp. fol. 12r–13r  
   function: appears in image ritual · rank: spiritus benignissimi
 
+**Faeries** (×1; scot_1584) — pp. page 608  
+  description: Spirits that inhabit Mountains and Caverns, capable of making strange Apparitions in the form of Men, Women, Soldiers, Kings, and Ladies, Children, and Horse-men cloathed in green. They are known for stealing hempen stalks to convert them into Horses. · appearance: Men; Women; Soldiers
+
 **Falduc** (×1; kieckhefer_clm849) — pp. p. 351 (84v)  
   role: one of twenty-five names inscribed on enemy-expulsion image
 
@@ -1338,6 +1398,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **familiar spirits** (×1; garnier_1909) — pp. 215–216  
   role: assistant spirits to adepts
+
+**Faries, Nymphs, and Satyres** (×1; scot_1584) — pp. page 471  
+  description: Spirits residing in woods and mountains.
 
 **Fastich** (×1; kieckhefer_clm849) — pp. [100r]  
   quote: "Istath, Hoaz, Abays, Fastich"
@@ -1549,6 +1612,15 @@ Machine-readable version: `data/entity_index.csv`.
 **Gnad** (×1; kieckhefer_clm849) — pp. 357  
   role: invoked in Friday's conjuration
 
+**God** (×1; scot_1584) — pp. page 457  
+  description: An uncreated spirit, essentialie taken, and agreeth unto the three persons notionally. · nature: uncreated spirit
+
+**God the Father** (×1; scot_1584) — pp. page 465  
+  description: The first person of the Trinity. · function: creator, sender of the Son and Spirit
+
+**God the Son (Jesus Christ)** (×1; scot_1584) — pp. page 465  
+  description: The second person of the Trinity. · function: creator, revealer of the Father
+
 **Godras** (×2; kieckhefer_clm849) — pp. p. 102  
   role: one of four spirits governing quadrants; companion spirit to Astaroth in conjuration
 
@@ -1687,14 +1759,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Hoaz** (×1; kieckhefer_clm849) — pp. [100r]  
   quote: "Istath, Hoaz, Abays, Fastich"
 
+**Hobgoblins** (×1; scot_1584) — pp. page 608  
+  description: Spirits that can take away children, leaving behind changelings or lunaticks.
+
 **Hocrohel** (×2; liber_juratus) — pp. 51, page 12  
   role: consulting angel
 
 **Holy Angels** (×1; ars_notoria) — pp. 11  
   function: delivered knowledge upon altar of Temple · role: ministers of revelation
 
-**Holy Spirit** (×3; liber_juratus) — pp. 161-172, 182, 92-96  
-  function: Illuminate soul, cleanse, restore all things; descend upon servant to cleanse body
+**Holy Spirit** (×4; liber_juratus, scot_1584 ⭐cross-work) — pp. 161-172, 182, 92-96, page 465-468  
+  description: The third person of the Trinity, described as the spirit of sanctification and the animating force. · function: Illuminate soul, cleanse, restore all things; descend upon servant to cleanse body; sanctification, provoking prayer, presence in believers · nature: divine
 
 **Holy Spirit (Spiritus sanctus)** (×1; liber_juratus) — pp. 150, 151, 152, 154, 156, 159  
   function: virtue, grace, source of illumination and strength
@@ -1870,6 +1945,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Lapis angularis** (×1; kieckhefer_clm849) — pp. [98r]  
   quote: "Splendor, Lapis angularis, Sponsus..."
 
+**Lares** (×1; scot_1584)  
+  description: Spirits that oversee crossroads and cities; trouble private houses.
+
 **Latol** (×1; kieckhefer_clm849) — pp. p. 344–345  
   role: ruler of secunda hora noctis
 
@@ -1942,11 +2020,14 @@ Machine-readable version: `data/entity_index.csv`.
 **Lucas, Marcus, Matheus, Ioannes** (×1; kieckhefer_clm849) — pp. p. 374 (98v)  
   role: Four Evangelists invoked
 
-**Lucifer** (×13; kieckhefer_clm849) — pp. 145–146, 166, 234, 80, 118, 138, 156, 161, 172  
-  function: appears in circle inscriptions; listed in circle inscriptions · functions: mentioned among named demons · role: named in conjurations; named in final invocation; prince/kings of demons
+**Lucifer** (×14; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. 145–146, 166, 234, 80, 118, 138, 156, 161, 172  
+  description: Conjured in a curse against thieves to be destroyed. · function: appears in circle inscriptions; listed in circle inscriptions · functions: mentioned among named demons
 
 **Lune (Moon) names (Lyara, Lyalguana, etc.)** (×1; kieckhefer_clm849) — pp. 79v  
   function: divine names inscribed on images
+
+**Luridan** (×1; scot_1584) — pp. Appendix I, Chap. VIII  
+  description: A spirit that can be made a familiar; also associated with Belelah
 
 **Lutrayth, Feremim, Oliroomim** (×1; kieckhefer_clm849) — pp. experiment no. 9 (horse ritual)  
   function: summoned by shaking bridle to produce horse · rank: spirits
@@ -2038,6 +2119,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Mambrim** (×2; kieckhefer_clm849) — pp. 63r  
   function: obedience demanded in conjuration · rank: demonic ruler; spirit
 
+**Mammon** (×1; scot_1584) — pp. Chapter 20  
+  description: Represents the covetous desire for money. · meaning: Covetous desire of money
+
 **Manitaynus** (×1; kieckhefer_clm849) — pp. 38  
   role: demon invoked
 
@@ -2058,6 +2142,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Maratron** (×2; kieckhefer_clm849) — pp. 357, p. [90v]  
   role: angelus mandans; angel mandating Saturn’s image (variant: Matraton)
+
+**Marbas** (×1; scot_1584) — pp. Page 412  
+  description: A great president appearing as a mighty lion or a man. · rank: president · appearance: mighty lion; man
 
 **Mariodo** (×1; kieckhefer_clm849) — pp. 36v  
   quote: "...Mariodo, Ypation."
@@ -2509,8 +2596,8 @@ Machine-readable version: `data/entity_index.csv`.
 **Pahamcociel** (×1; liber_juratus) — pp. 209  
   quote: "Raphael, Pahamcociel, Assassayel"
 
-**Paymon** (×9; kieckhefer_clm849) — pp. 269n (fig. f.30r), 87, 156, 173, 174, CLM 849, experiment no. 12; footnote 14, fols 29v-31v  
-  function: appears in circles and conjurations · functions: mentioned among named demons · role: helper in image-making ritual; named in conjurations; helper in love ritual
+**Paymon** (×11; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. 269n (fig. f.30r), 87, 156, 173, 174, Appendix I, Chap. III, CLM 849, experiment no. 12; footnote 14 — variants: Paimon, Paymon  
+  description: One of three spirits that can be raised with wonderful things effected through their assistance; A king who is more obedient to Lucifer than other kings. · function: appears in circles and conjurations · functions: mentioned among named demons
 
 **Palicos** (×1; kieckhefer_clm849) — pp. p. 351 (84r)  
   role: one of four names inscribed on enemy’s door
@@ -2565,6 +2652,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Pedyoth** (×1; kieckhefer_clm849) — pp. 363  
   role: one of four names of the East
+
+**Penates** (×1; scot_1584) — pp. Chapter 21  
+  description: Domestic gods or devils (Minerva) said to make men live quietly indoors.
 
 **Perarabiel** (×2; kieckhefer_clm849) — pp. 231–232, fol 3r  
   function: invoked in chain of binding names · role: divine name in chain of invocations; variant: Pararabiel
@@ -2731,8 +2821,8 @@ Machine-readable version: `data/entity_index.csv`.
 **Rama** (×1; garnier_1909) — pp. p. 136  
   role: Sun god, chief of Surya race
 
-**Raphael** (×17; ars_notoria, kieckhefer_clm849, liber_juratus ⭐cross-work) — pp. 100, 102, 178, 201  
-  function: appears in sacred inscriptions; agent of binding/constraining the demon · functions: binding tongues; dispelling beasts; travel protection · role: archangel invoked in dream experiment; archangel invoked in binding; prepositus diei dominici
+**Raphael** (×18; ars_notoria, kieckhefer_clm849, liber_juratus, scot_1584 ⭐cross-work) — pp. 100, 102, 178, 201 — variants: Raphael, Raphaell  
+  description: Archangel mentioned in relation to the liver of fish. · function: appears in sacred inscriptions; agent of binding/constraining the demon · functions: binding tongues; dispelling beasts; travel protection
 
 **Raphael / Anael / Michael / Gabriel** (×1; liber_juratus) — pp. 67-68, 70  
   quote: "postea Anael, postea Michael, postea Gabriel."
@@ -2805,6 +2895,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Rotunda** (×1; kieckhefer_clm849) — pp. [100r]  
   quote: "Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda"
+
+**Ruminus** (×1; scot_1584) — pp. page s/524  
+  description: to keepe their dugs from corruption
 
 **Saabotes** (×2; kieckhefer_clm849) — pp. 75v, p. 341  
   role: rex spirituum diei Veneris · rank: king spirit
@@ -2880,6 +2973,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Sagriel** (×2; kieckhefer_clm849) — pp. 357, p. [90r]  
   role: angelus mandans; angel mandating Friday's image
+
+**Saint Michael** (×1; scot_1584) — pp. page 312  
+  description: Mentioned in a curse against thieves.
 
 **Sala** (×1; kieckhefer_clm849) — pp. p. 343–344  
   role: ruler of quarta hora diei
@@ -3031,8 +3127,14 @@ Machine-readable version: `data/entity_index.csv`.
 **Satan / Sathan** (×1; kieckhefer_clm849) — pp. p. 196  
   rank: demon [from cardinal direction]
 
-**Satan/Sathan** (×1; kieckhefer_clm849) — pp. p. 186–187  
-  rank: infernal chief
+**Satan/Sathan** (×2; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. p. 186–187, page 144  
+  description: The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power. · rank: infernal chief · nature: adversary/devil
+
+**Satan/the Devil** (×1; scot_1584) — pp. page 457  
+  nature: wicked spirit
+
+**Sathan (Satan)** (×1; scot_1584) — pp. Chapter 20  
+  description: The adversary; can hurt both by day and night; described as the author of sin. · nature: Destroys, troubles, molests · meaning: Adversary
 
 **Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda** (×1; kieckhefer_clm849) — pp. p. 376 (100r)  
   role: demons whispered to boy in ear
@@ -3244,8 +3346,23 @@ Machine-readable version: `data/entity_index.csv`.
 **Spirits of Fire** (×1; liber_juratus) — pp. 55  
   quote: "To know the spirits of the fire, their names, superiors, seals, powers, and virtues."
 
-**spirits of Saturn** (×1; kieckhefer_clm849)  
-  role: astrological spirits invoked in harmful magic
+**Spirits of Jupiter** (×1; scot_1584) — pp. Page 633  
+  description: Spirits under the influence of Jupiter, appearing like glorious kings with many attendants.  · appearance: glorious Kings; Heralds; Ensign-bearers
+
+**Spirits of Luna (Moon)** (×1; scot_1584) — pp. Page 633  
+  description: Spirits under the influence of Luna, appearing as ghosts and shadows, sometimes in human shape.  · appearance: Ghosts; shadows; male or female human shape
+
+**Spirits of Mars** (×1; scot_1584) — pp. Page 633  
+  description: Spirits under the influence of Mars, appearing with weapons brandishing and shining armour, often as lions, wolves, tigers, or bears.  · appearance: weapons brandishing; shining Armour; Lions
+
+**Spirits of Mercury** (×1; scot_1584) — pp. Page 633  
+  description: Spirits under the influence of Mercury, appearing as horsemen, fishers, laborers, priests, students, servants, and monstrous animals.  · appearance: Horsemen; Fishers; Labourers
+
+**spirits of Saturn** (×2; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. Page 632-633 — variants: Spirits of Saturn, spirits of Saturn  
+  description: Spirits under the influence of Saturn, appearing like old men with prominent beards, or as serpents, cats, wolves, bad/badgers, and panthers.  · role: astrological spirits invoked in harmful magic · appearance: old men; serpents; cats
+
+**Spirits of Sol (Sun)** (×1; scot_1584) — pp. Page 633  
+  description: Spirits under the influence of Sun, appearing as castles, gardens, mountains, rivers, etc.  · appearance: Castles; Gardens; Mountains
 
 **Spirits of the Air** (×1; liber_juratus) — pp. 55  
   quote: "To know the spirits and creatures of the air."
@@ -3255,6 +3372,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **spirits of the dead** (×1; garnier_1909) — pp. p. 402  
   role: supposed intermediaries
+
+**Spirits of Venus** (×1; scot_1584) — pp. Page 633  
+  description: Spirits under the influence of Venus, appearing as courtiers, ladies, princes, queens, infants, and children.  · appearance: Courtiers; Ladies; Princes
 
 **Spirits who provide magic ship** (×1; kieckhefer_clm849) — pp. p. 189  
   quote: "‘these spirits are between good and evil, dwelling neither in Hell nor in Paradise’"
@@ -3318,6 +3438,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Subseloy** (×1; kieckhefer_clm849) — pp. 351r  
   quote: "...Aurora, Subseloy..."
+
+**Subterranean Spirits** (×1; scot_1584) — pp. page 471  
+  description: Spirits residing in pits and caves.
 
 **Suburith** (×7; kieckhefer_clm849) — pp. 26r, CLM 849, experiment no. 10, experiment no. 10, p. 207  
   function: inscribed on gold ring for raising dead person · role: demon inscribed on ring for life/death manipulation; demonic spirit; demon named on consecrated ring for resurrection · rank: named demon; demon (unspecified); demon (resurrection ritual)
@@ -3475,6 +3598,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Teutates** (×1; garnier_1909) — pp. p. 180  
   role: Celtic deity
 
+**The_Devil/Sathan** (×4; scot_1584) — pp. page 144 — variants: The_Devil/Sathan, the_Devil/Sathan  
+  description: The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power.; The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, or as thes_e_entities_array_undermining_the_divine_power.; The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, and as the_e_entities_array_undermining_the_divine_power. · nature: adversary/devil
+
 **Theon, Haltanagon, Haramalon, Zamoyma, Chamasal, Jeconamril, Harionatar, Jechomagol, Gela Magos, Kemolihot, Kamanatar, Hariomolatar, Hanaces, Velonionathar, Azoroy, Jezabali** (×1; ars_notoria) — pp. 34  
   quote: "Theon, Haltanagon, Haramalon, Zamoyma, Chamasal, Jeconamril, Harionatar, Jechomagol, Gela Magos, Kemolihot, Ka"
 
@@ -3604,6 +3730,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Vabros** (×1; kieckhefer_clm849) — pp. p. 350 (83v)  
   role: one of six names inscribed on reptile-fugation image
 
+**Vagianus** (×1; scot_1584) — pp. page 524  
+  description: he that kept their children from crieng, [and] whose picture was hung about babes necks
+
 **Vambal** (×1; kieckhefer_clm849) — pp. 361  
   role: coadjutor of Sunday’s king
 
@@ -3646,8 +3775,8 @@ Machine-readable version: `data/entity_index.csv`.
 **Virtus** (×2; kieckhefer_clm849) — pp. [98r]  
   quote: "...Sapiencia, Virtus, Paraclitus..."
 
-**virtutes** (×1; kieckhefer_clm849) — pp. [54v]  
-  function: celestial order invoked in consecration · rank: angelic hierarchy
+**virtutes** (×2; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. [54v], page 685 — variants: Virtutes, virtutes  
+  description: The order of angels so called. · function: celestial order invoked in consecration · rank: angelic hierarchy
 
 **virtutes celestes** (×1; kieckhefer_clm849) — pp. [54v]  
   function: celestial powers that assist in consecration · rank: angelic hierarchy
@@ -3711,6 +3840,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Vzmyas** (×1; kieckhefer_clm849) — pp. [102v]  
   quote: "...Andyron, Vzmyas, Ytelteos..."
+
+**Water Spirits** (×1; scot_1584) — pp. page 471  
+  description: Spirits residing in ships and rocks of the sea.
 
 **Water-dwellers** (×1; kieckhefer_clm849) — pp. p. 185–186  
   role: endanger ships
@@ -4253,25 +4385,52 @@ Machine-readable version: `data/entity_index.csv`.
   quote: "Obey therefore Zebedei and me in his name."
 
 <a id="person"></a>
-## Person  (167)
+## Person  (241)
 
 **Abdenago** (×1; kieckhefer_clm849) — pp. 168  
   role: one of the three young men
 
-**Abraham** (×3; kieckhefer_clm849, liber_juratus ⭐cross-work) — pp. 154, 157, 158, 168, [56r], [137r]  
-  function: patriarch invoked in consecration prayers · role: patriarch
+**Abraham** (×4; kieckhefer_clm849, liber_juratus, scot_1584 ⭐cross-work) — pp. 154, 157, 158, 168, Page 243, [56r], [137r]  
+  description: Cited as the first inventor of dream exposition. · function: patriarch invoked in consecration prayers · role: patriarch
+
+**Acrobius** (×1; scot_1584) — pp. Chapter 2, Page 241  
+  description: Recounts five differences of images or imaginations in sleep.
 
 **Adam** (×2; kieckhefer_clm849, liber_juratus ⭐cross-work) — pp. 157, 158, [58r]  
   function: first man; invoked in consecration prayers
 
+**Ade Davie** (×1; scot_1584) — pp. [Page 141-142]  
+  description: A Kentish woman who believed she had bargained her soul to the devil due to a melancholic episode. · role: subject of a case study
+
+**adversaries/betting_on_side_observers** (×1; scot_1584) — pp. Chapter 27, Page 370  
+  description: Part of a confederate network in card games, working to signal information to the player. · role: deceivers/signallers
+
+**Aelianus** (×1; scot_1584) — pp. Chapter 18/Page 35/5  
+  description: Cited regarding seeing frogs and toads with earth-like parts.
+
 **Agnolo di Corso** (×1; kieckhefer_clm849) — pp. p. 103  
   role: magician who invoked Satan and Beelzebub
+
+**Agrippa** (×2; scot_1584) — pp. Page 634, 635, page 211  
+  description: An author cited regarding the ability of necromancers to recall spirits within a year of death.; A cited author/magician whose experiences and declarations are used to validate certain magical effects.  · role: Author/Scholar
+
+**Albert** (×1; scot_1584)  
+  description: Attributed dreams to the influence of superior bodies.
 
 **Alexander the Great** (×1; garnier_1909) — pp. 56  
   role: historical figure
 
 **Alice Kyteler** (×1; kieckhefer_clm849) — pp. p. 103  
   role: woman accused of using demonic materials for erotic magic
+
+**Ambrose** (×1; scot_1584) — pp. page 461  
+  description: A father of the church who expounds on the meaning of spirit in Amos.
+
+**Ant. Houin** (×1; scot_1584) — pp. Page 141  
+  description: A witch executed in 1565 who confessed to causing weather phenomena.
+
+**Anthotiius Prafensis** (×1; scot_1584) — pp. page 467  
+  description: cardinal and legat for the pope throughout France. · role: cardinal
 
 **Antoninus of Florence** (×1; kieckhefer_clm849) — pp. p. 79  
   role: referenced for burning book emitting lamentation
@@ -4285,11 +4444,20 @@ Machine-readable version: `data/entity_index.csv`.
 **Apuleius** (×2; garnier_1909, kieckhefer_clm849 ⭐cross-work) — pp. 210, 214–215, section 7, Demons and Daimons  
   role: source of daimon concept in Christian tradition; Roman writer, philosopher, magician
 
+**Aristotle** (×4; scot_1584) — pp. Page 136, Chapter 7, Page 243, Page 244, page 143, page 208, 209  
+  description: A philosopher cited regarding the effects of melancholic passions.; Ancient Greek philosopher-physician, cited-as-a-source-of-stating-that-melancholy-causes-strange-effects-and-that-people-learn-strange-tongues.; A philosopher cited to provide a rational critique of reports of speaking beasts and moving images. · role: philosopher/physician; Philosopher/Critique
+
 **Asef Caroth** (×1; kieckhefer_clm849) — pp. [104v]  
   role: master/magister
 
 **Augustine** (×1; garnier_1909) — pp. 57, 60  
   role: Church Father
+
+**Averroes** (×1; scot_1584) — pp. Page 243  
+  description: Attributed dreams to the imaginative sense.
+
+**Avicen** (×1; scot_1584) — pp. Page 243  
+  description: Attributed dreams to the last intelligence that moves the moon.
 
 **Babylonian king** (×1; garnier_1909) — pp. 341  
   quote: "the worship of the dead Babylonian king under similar forms"
@@ -4302,6 +4470,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Benjamin Rowe** (×1; ars_notoria) — pp. 2, 3, 4  
   role: transcriber/editor
+
+**Bodin (Jean Bodin)** (×1; scot_1584) — pp. Page 532  
+  description: A writer who asserts there are day and night devils, and that the devil loves no salt in his meat.
 
 **Bokte (Tibetan/Tartar ascetic)** (×1; garnier_1909) — pp. 159  
   quote: "Messrs Hue and Gabet report that they saw a Bokte rip open his own stomach in the Great Court of the Lamaserai"
@@ -4327,8 +4498,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Caesarius of Heisterbach** (×1; kieckhefer_clm849) — pp. p. 209, n. 14  
   role: preacher/narrator
 
+**Calvin** (×1; scot_1584) — pp. page 68  
+  description: Reformer who referred to magicians as 'cousenors'.
+
+**Calvine** (×1; scot_1584) — pp. Chapter 20/Page 358  
+  description: Cited as describing Pharaoh's magicians as jugglers.
+
 **Cardanus (Gerolamo Cardano)** (×1; garnier_1909) — pp. 213  
   role: scholar, occultist
+
+**Carolus Gallus** (×1; scot_1584) — pp. page 452  
+  description: Author whose writings on magic are mentioned in relation to Nero
 
 **Caspar** (×1; kieckhefer_clm849) — pp. 165  
   role: one of the three magi
@@ -4345,14 +4525,20 @@ Machine-readable version: `data/entity_index.csv`.
 **Child medium (puer/virgo iuvenis)** (×1; kieckhefer_clm849) — pp. p.160–161  
   role: medium in divinatory experiments
 
+**Christ** (×1; scot_1584) — pp. page 206  
+  description: A central figure in the Christian context, used to discuss the nature of spirits and physical bodies. · nature: spirit vs flesh/bones
+
 **Chrysor (Hephaestus)** (×1; garnier_1909) — pp. 241, 243  
   role: Magician and sorcerer skilled in words, charms, divinations; Nephilim-descended
 
-**Cicero** (×1; garnier_1909) — pp. 56  
-  role: Roman writer
+**Cicero** (×2; garnier_1909, scot_1584 ⭐cross-work) — pp. 56, Page 243  
+  description: Confutes the vanity and folly of dream interpreters. · role: Roman writer
 
 **Claire Fanger** (×1; ars_notoria) — pp. 3  
   role: scholar
+
+**Clemens** (×1; scot_1584) — pp. Chapter 20/Page 358  
+  description: Cited regarding the magicians' works being prestigious shows rather than true miracles.
 
 **Clement of Alexandria** (×1; garnier_1909) — pp. p. 197  
   role: early Church Father
@@ -4363,6 +4549,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Constantius Africanus** (×1; kieckhefer_clm849) — pp. p. 78  
   role: legendary figure associated with opal invisibility
 
+**Cornelius Agrippa** (×2; scot_1584) — pp. page 452  
+  description: An author whose views on demonology were influential during Scot's time.; Author whose writings on magic are mentioned in relation to Nero
+
 **Cush** (×4; garnier_1909) — pp. 60, 62–63, p. 183, p. 227, p. 372–373  
   role: patriarch; human original of Hermes/Buddha/Woden; originator of postdiluvian idolatry
 
@@ -4372,8 +4561,14 @@ Machine-readable version: `data/entity_index.csv`.
 **Cyprian of Carthage** (×1; garnier_1909) — pp. p. 197  
   role: early Church Father
 
-**Daniel** (×2; kieckhefer_clm849, liber_juratus ⭐cross-work) — pp. 180, [56r], [137r]  
-  function: invoked for deliverance from lions’ den
+**Cyril** (×2; scot_1584) — pp. page 456, page 466  
+  description: Cited regarding the use of oil as a metaphor for God's mercy.; Church father cited in defense of the Trinity.
+
+**Daniel** (×3; kieckhefer_clm849, liber_juratus, scot_1584 ⭐cross-work) — pp. 180, Page 241, Page 244, Page 249, [56r], [137r]  
+  description: Prophet known for interpreting dreams and receiving divine revelations. · function: invoked for deliverance from lions’ den
+
+**Dati7natiis Hispanus** (×1; scot_1584) — pp. Chapter 18/Page 355  
+  description: Claimed to be able to make creatures at will.
 
 **Diodorus Siculus** (×1; garnier_1909) — pp. 56, 58  
   role: Pagan historian
@@ -4381,14 +4576,26 @@ Machine-readable version: `data/entity_index.csv`.
 **diviners / enchanters / necromancers** (×1; garnier_1909) — pp. p. 378–379  
   role: practitioners of spirit communication
 
+**Egyptians** (×1; scot_1584) — pp. Chapter 29  
+  description: A group referred to as practicing 'fast or loose' (sleight of hand) and 'sortilegie' (sorcery), accused of using tricks to mimic magic. 
+
 **Eleanor Cobham** (×1; kieckhefer_clm849) — pp. p. 211  
   role: Duchess of Bedford
+
+**Eleazar** (×1; scot_1584) — pp. Chapter 28  
+  description: A person whose feat of making a pot fall from a cupboard via 'words' is described as a miracle, though explained here as a trick with black thread. 
 
 **Elisha** (×1; garnier_1909) — pp. 219  
   role: prophet with clairvoyant abilities
 
 **Epiphanius** (×1; garnier_1909) — pp. 59  
   role: Christian bishop
+
+**Erasmus** (×2; scot_1584) — pp. Chapter 20/Page 358, page 361  
+  description: Author of a story regarding two Alcumysts and the phenomena of longation and curtation; Cited regarding the argument that witchcraft is old wives' fables.
+
+**Erastus** (×1; scot_1584) — pp. page 68  
+  description: A writer who defended certain aspects of magic, such as flying in the air.
 
 **Etruscans** (×1; garnier_1909) — pp. 52–53  
   quote: ""Colonel Conder...shows that the Etruscan language was remarkably similar to the ancient Chaldean or Accadian."
@@ -4399,11 +4606,14 @@ Machine-readable version: `data/entity_index.csv`.
 **Euhemeros** (×1; garnier_1909) — pp. 56  
   role: Greek philosopher
 
-**Eusebius** (×1; garnier_1909) — pp. 56, 60  
-  role: Church historian
+**Eusebius** (×3; garnier_1909, scot_1584 ⭐cross-work) — pp. 56, 60, page 207, page 462  
+  description: An ecclesiastical historian whose work is cited to discuss the oracle of Apollo and the deception of priests.; A writer cited regarding the creation of the spirit. · role: Church historian; Historian
 
 **Eva** (×1; kieckhefer_clm849) — pp. [137r]  
   function: first woman; invoked in consecration prayers
+
+**Exorcist** (×1; scot_1584) — pp. Appendix I, Chapter 1  
+  (attributes not extracted)
 
 **Exorcista** (×1; kieckhefer_clm849) — pp. 55v–58r  
   role: ritual operator commanding spirits
@@ -4417,17 +4627,26 @@ Machine-readable version: `data/entity_index.csv`.
 **Francis of Macerata** (×1; garnier_1909) — pp. p. 207  
   role: Christian saint
 
+**Galen** (×1; scot_1584) — pp. Page 242  
+  description: Physician cited regarding the physical nature of dreams through humors.
+
 **Geraud Cassendi** (×1; kieckhefer_clm849) — pp. p. 103  
   role: notary tried for demonic love magic
 
 **Gilles de Rais** (×1; kieckhefer_clm849) — pp. 186–7  
   quote: "Gilles de Rais, 186–7"
 
+**Gregory of Nazianzus (Gregorie Neocessariensis)** (×1; scot_1584) — pp. page 207  
+  description: A figure whose journey to the Alps and interaction with the temple of' Apollo is used as a tale of deception. · role: Traveler/Christian figure
+
+**Henry Institor** (×1; scot_1584) — pp. page 470  
+  description: Inquisitor and compiler of Malleus Maleficarum
+
 **Hermes** (×2; garnier_1909) — pp. 223–225, p. 149, 152–153  
   role: founder of pagan magic and necromantic tradition
 
-**Hermes Trismegistus** (×1; garnier_1909) — pp. p. 204  
-  role: supposed originator of ancient Pagan magic
+**Hermes Trismegistus** (×2; garnier_1909, scot_1584 ⭐cross-work) — pp. p. 204, page 466  
+  description: Ancient figure cited regarding the necessity of the spirit for all things. · role: supposed originator of ancient Pagan magic
 
 **Hermes Trismegistus (pseudo-)** (×1; garnier_1909) — pp. 56  
   role: attributed author
@@ -4441,8 +4660,14 @@ Machine-readable version: `data/entity_index.csv`.
 **hierophauts and prophets of the shrines** (×1; garnier_1909) — pp. p. 204  
   role: Egyptian religious specialists
 
+**Hilarie** (×1; scot_1584) — pp. page 459-460  
+  description: A writer of the Trinity who is cited as an object of debate regarding whether the Holy Spirit is to be worshipped.
+
 **Hildegard of Bingen** (×1; kieckhefer_clm849) — pp. 83  
   role: mystic
+
+**Hippocrates** (×1; scot_1584) — pp. ']))  
+  description: Ancient physician cited for opinions on magical cures.
 
 **Honi the Circle-Drawer** (×2; kieckhefer_clm849) — pp. 175  
   quote: "Honi the Circle-Drawer, 175"
@@ -4459,6 +4684,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Honorius, son of Euclid** (×1; kieckhefer_clm849) — pp. 171  
   quote: "Honorius, son of Euclid, 171"
 
+**Horace** (×1; scot_1584) — pp. Page 202  
+  description: Roman poet, cited to mock or impugn the power of witches. · role: poet
+
 **Hugh of St Victor** (×1; kieckhefer_clm849) — pp. 48  
   quote: "Hugh of St Victor’s Didascalicon borrows from Isidore..."
 
@@ -4474,14 +4702,32 @@ Machine-readable version: `data/entity_index.csv`.
 **Isidore of Seville** (×1; kieckhefer_clm849) — pp. 48  
   quote: "Isidore of Seville, who deals with magic and especially magical divination in his Etymologies..."
 
+**J. Bap. Neap** (×1; scot_1584) — pp. Chapter 18/Page 354-355  
+  description: Author cited for information on the production of monsters, serpents, and the nature of toads/frogs.
+
 **Jacob** (×2; kieckhefer_clm849, liber_juratus ⭐cross-work) — pp. 157, 158, 168  
   role: patriarch
+
+**Jamblichus** (×1; scot_1584) — pp. Chapter 20/Page                 358  
+  description: Cited regarding the nature of fascination and imagination.
 
 **Jamblicus** (×1; garnier_1909) — pp. p. 206  
   role: Egyptian philosopher/magician
 
-**Jesus Christ** (×2; liber_juratus) — pp. 175, 82, 83, 84, 87, 89  
-  role: redeemer; savior, Lord, creator · nature: God and Man
+**James Sprenger** (×2; scot_1584) — pp. Page 529, page 470  
+  description: Inquisitor and compiler of Malleus Maleficarum; A writer who gathers and notes causes for why the devil possesses men at certain moon phases.
+
+**Jannes and Jambres** (×1; scot_1584) — pp. page 318  
+  description: False prophets mentioned in relation to miracles and plagues (serpents and frogs)
+
+**Jean Bodin** (×1; scot_1584) — pp. page 472  
+  description: Author/thinker who discusses the punishment of witches vs conjurors.
+
+**Jeremze/Jeremiah** (×1; scot_1584) — pp. page 456  
+  description: A prophet whose words are used to describe the fiery nature of the spirit.
+
+**Jesus Christ** (×3; liber_juratus, scot_1584 ⭐cross-work) — pp. 175, 82, 83, 84, 87, 89, throughout  
+  description: Central figure of Christianity, used in various charms and curses. · role: redeemer; savior, Lord, creator; Lord · nature: God and Man
 
 **Jesus of Nazareth** (×1; liber_juratus) — pp. 182  
   quote: "Iesus Nazarenus, et multum misericors"
@@ -4507,14 +4753,35 @@ Machine-readable version: `data/entity_index.csv`.
 **Johanneta** (×1; kieckhefer_clm849)  
   role: intended victim of image magic
 
+**John Baptist** (×1; scot_1584) — pp. page 349  
+  description: Subject of a juggling trick called 'the decollation of John Baptist'
+
+**John Calvin** (×1; scot_1584) — pp. page 539  
+  description: Theologian whose opinion on the devil is mentioned
+
+**John Deacon** (×1; scot_1584) — pp. page 55  
+  description: A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).
+
 **John Haddon** (×1; kieckhefer_clm849) — pp. n/a (Coventry case)  
   role: victim of theft who consulted necromancers; accused William Lee based on their divination
 
 **John of Frankfurt** (×1; kieckhefer_clm849) — pp. section 7, Demons and Daimons  
   role: theologian who debated demonic coercion
 
+**John Walker** (×1; scot_1584) — pp. page 55  
+  description: A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).
+
+**John Wierus** (×1; scot_1584) — pp. page 472  
+  description: A person whose writings on conjurations are mentioned by Bodin.
+
+**John/St. John** (×1; scot_1584) — pp. page 455  
+  description: A biblical figure whose words are used to discuss the water of life and the nature of the spirit.
+
 **Jonah** (×1; kieckhefer_clm849) — pp. [56r], [137r]  
   function: invoked for deliverance from whale’s belly
+
+**Josephus** (×1; scot_1584) — pp. Chapter 28  
+  description: A historical source cited in relation to the feat of Eleazar.  · role: historian/source
 
 **Joshua** (×1; kieckhefer_clm849) — pp. [137r]  
   function: invoked for miracle of sun/moon standing still
@@ -4536,6 +4803,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Lucan** (×1; garnier_1909) — pp. p. 208  
   role: poet
+
+**M. Mai.** (×1; scot_1584) — pp. page 468  
+  description: A source cited by Scot to discuss the legality of exorcism without conjuration.
 
 **magister** (×1; kieckhefer_clm849) — pp. 280–47r (repeatedly)  
   role: ritualist; conjures spirits, interrogates pueri
@@ -4600,6 +4870,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Nicholas Magni of Jawor** (×1; kieckhefer_clm849) — pp. 47–48  
   quote: "...influenced in particular by Nicholas Magni of Jawor..."
 
+**Nicolaus Hemingius** (×1; scot_1584) — pp. Page 243, Page 244  
+  description: Divides diabolical dreams into three sorts.
+
 **Nimrod** (×4; garnier_1909) — pp. 254–256, 298–301, 62–64, p. 133, p. 135, p. 372–374  
   role: founder-king; founder of first great empire, first idolater; Cushite conqueror and god-king
 
@@ -4612,17 +4885,41 @@ Machine-readable version: `data/entity_index.csv`.
 **Oldradus da Ponte** (×1; kieckhefer_clm849) — pp. p. 101  
   role: fourteenth-century author on demonic love magic
 
+**Ovid** (×1; scot_1584) — pp. Ovid, metamor. 7.  
+  description: Roman poet, cited as a 'poetical witch' who claims to break vipers' jaws with words. · role: poet
+
+**Pan** (×1; scot_1584) — pp. page 457  
+  description: A figure mentioned in relation to error and drunkenness.
+
 **Parmen[ides]** (×1; kieckhefer_clm849) — pp. fol. 13r  
   role: mentioned as user of image ritual
 
 **Parmenides** (×1; kieckhefer_clm849) — pp. p. 99  
   role: legendary figure cited as user of image magic
 
+**A person who denied the legality of conjuration in a specific incident involving monks.** (×1; scot_1584) — pp. page 467  
+  (attributes not extracted)
+
+**Peter or Barbara** (×1; scot_1584) — pp. page 469  
+  description: Names used in a specific conjuration formula for the sick.
+
 **Peter Recordi** (×1; kieckhefer_clm849) — pp. p. 102  
   role: Carmelite friar tried for erotic magic
 
-**Plutarch** (×1; garnier_1909) — pp. 56  
-  role: Pagan writer
+**Peucer** (×1; scot_1584) — pp. Page 241  
+  description: Author who provides causes and occasions of dreams.
+
+**Pharaoh's magicians** (×1; scot_1584)  
+  description: Magicians in the service of Pharaoh, whose works were compared to Moses' miracles and later critiqued as illusions or 'juggling knacks'. · role: magicians
+
+**Pharaos magicians** (×1; scot_1584) — pp. page 317  
+  description: Magicians of Pharaoh compared to witches in terms of cunning and juggling knacks · nature: cunning via juggling knacks
+
+**Plato** (×2; scot_1584) — pp. Page 243, page 498/500  
+  description: Philosopher whose opinions on spirits, devils, and angels are discussed; Attributed dreams to the forms and ingendered knowledges of the soul.
+
+**Plutarch** (×2; garnier_1909, scot_1584 ⭐cross-work) — pp. 56, Chapter 18/Page 355  
+  description: Cited regarding the descent of toads in rain. · role: Pagan writer
 
 **priesthood / pontiffs** (×1; garnier_1909) — pp. p. 378–379  
   role: mediators
@@ -4630,14 +4927,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Proclus** (×1; kieckhefer_clm849) — pp. section 7, Demons and Daimons  
   role: Neoplatonist who categorized daimones by elements
 
-**Psellus** (×1; garnier_1909) — pp. p. 208  
-  role: writer on demons/magic
+**Psellus** (×2; garnier_1909, scot_1584 ⭐cross-work) — pp. p. 208, page 492/495  
+  description: Philosopher whose opinions on spirits are discussed and disproved · role: writer on demons/magic
 
 **puer puellaque virgines** (×1; kieckhefer_clm849) — pp. 283 (No. 22), 43r, 44v–45r (multiple)  
   role: child seers used in scrying; must be chaste and legitimate-born
 
 **Rameses II.** (×1; garnier_1909) — pp. 302  
   role: pharaoh marking shift in divine politics
+
+**Reginald Scot** (×2; scot_1584) — pp. P. 523, P. 657, page 682  
+  description: Author of Discoverie of Witchcraft (1584), a skeptical/skeptical approach to magic and witchcraft. The text discusses his translation/copying of Wier's Pseudomonarchia Demonum. Pseudomonarchia Demonum is Pseudomonarchia Demonum; Author of Discoverie of Witchcraft. · role: Author/Translator/Skeptical Agent; author
 
 **Restitutus** (×1; garnier_1909) — pp. 213  
   role: priest, mystic
@@ -4648,14 +4948,32 @@ Machine-readable version: `data/entity_index.csv`.
 **Roger Bolingbroke** (×1; kieckhefer_clm849) — pp. p. 211  
   role: astronomer/magician
 
+**S. Lucie** (×1; scot_1584) — pp. page 461  
+  description: Subject of a strange story following a miracle of S. Margaret
+
+**S. Margaret** (×1; scot_1584) — pp. page 455/457  
+  description: Subject of a story involving fighting a real devil and a miracle wrought by a priest
+
 **Sadrach, Meshach, Abednego** (×1; kieckhefer_clm849) — pp. [56r], [137r]  
   function: three youths delivered from fiery furnace
+
+**Salomon** (×2; scot_1584) — pp. Page 242, Page 243, Page 416  
+  description: Cited regarding casual dreams and the multitude of business.; A wise king who gathered demons in a brass vessel.
+
+**Salomon (Solomon)** (×1; scot_1584) — pp. Page 529, 534  
+  description: A historical figure associated with conjuration and the worship of certain idols. · role: Conjurer/Worshipper
+
+**Samuel** (×1; scot_1584) — pp. page 2/210  
+  description: A biblical figure, the subject of a debate regarding whether he was truly raised from the dead by the witch of Endor.
 
 **Sanchoniathon** (×1; garnier_1909) — pp. 56  
   role: Phoenician writer
 
 **Saul (biblical)** (×1; garnier_1909) — pp. 301  
   role: parallel for symbolic dismemberment ritual
+
+**Saul (King Saul)** (×1; scot_1584) — pp. page 210, 214  
+  description: A biblical king whose interaction with the witch of Endor is a central case study in the text. · role: King/Subject of debate
 
 **Scot, Michael** (×1; kieckhefer_clm849) — pp. 5, 37, 120  
   quote: "Scot, Michael, 5, 37, 120"
@@ -4672,8 +4990,14 @@ Machine-readable version: `data/entity_index.csv`.
 **Shramanas (ascetics)** (×1; garnier_1909) — pp. 159  
   quote: "The name given to these ascetics was 'Shamanas,' or 'Shramanas,' a word meaning 'quieting of the passions'..."
 
-**Socrates** (×2; garnier_1909, kieckhefer_clm849 ⭐cross-work) — pp. 63, p. 402  
-  role: supposed ancient authority cited by compiler
+**Simon Davie** (×1; scot_1584) — pp. [Page 141-142]  
+  description: Husband of Ade Davie. · role: witness/husband
+
+**Sir Roger Manwood** (×1; scot_1584) — pp. page 65  
+  description: Knight and Lord Chief Baron of the King's Court of the Exchequer, recipient of Scot's Epistle.
+
+**Socrates** (×3; garnier_1909, kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. 63, p. 402, page 498  
+  description: Philosopher mentioned in relation to having a familiar devil · role: supposed ancient authority cited by compiler
 
 **Socrates (as authority)** (×2; kieckhefer_clm849) — pp. experiment no. 9, p. 74–75  
   function: cited as authority on protective circle · role: authority cited in circle description
@@ -4687,8 +5011,20 @@ Machine-readable version: `data/entity_index.csv`.
 **Spanish magician** (×2; kieckhefer_clm849) — pp. n/a (exemplum narrative), p.154  
   role: magus
 
+**Sprenger and Institor** (×1; scot_1584) — pp. page 150  
+  description: _the_old_hammer_of_Malleus_Maleficarum_authors/inquisitors. · role: Inquisitors
+
 **St Philip Neri** (×1; garnier_1909) — pp. p. 207-208  
   role: Catholic saint
+
+**St. Augustine** (×1; scot_1584) — pp. Page 354/Chapter 18  
+  description: Cited as a hold of that they made by art the serpents, etc.
+
+**St. Jerome/S. Jerome (not explicitly named but implied in context)** (×1; scot_1584)  
+  description: Not found
+
+**Steeven Tailor** (×1; scot_1584) — pp. Chapter 30  
+  description: A person involved in a scheme to steal horses using deception and confederates.  · role: deceiver/thief
 
 **Stephen of Bourbon** (×1; kieckhefer_clm849) — pp. n/a (cited in Kieckhefer)  
   role: medieval preacher/canon; cited for story about demon deception
@@ -4702,8 +5038,14 @@ Machine-readable version: `data/entity_index.csv`.
 **Tanists (Buddhist sect)** (×1; garnier_1909) — pp. 157  
   role: write charms to drive out demons; cure the sick by magic
 
+**Tatian** (×1; scot_1584) — pp. Page 135, Chapter 6  
+  description: An author or figure cited regarding the nature of the devil's body.
+
 **Tertullian** (×1; garnier_1909) — pp. 210  
   role: Church Father, critic of magic
+
+**Th. Ady** (×1; scot_1584) — pp. page 682  
+  description: Author of A Candle in the Dark (1656).
 
 **Theodorus** (×1; garnier_1909) — pp. 218  
   role: intended successor to Emperor Valens, named by spirits via table-divination
@@ -4711,11 +5053,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Theurgists** (×1; garnier_1909) — pp. p. 208  
   quote: "The Theurgists caused the appearance of the gods (i.e., daimonia) in the air in the midst of a gaseous vapour"
 
-**Thomas Aquinas** (×1; kieckhefer_clm849) — pp. section 7, Demons and Daimons  
-  role: theologian who accepted infernal hierarchy
+**Thomas** (×1; scot_1584) — pp. page 206  
+  description: The apostle Thomas, used as a biblical example to discuss the nature of spirits and physical presence. · nature: Apostle
+
+**Thomas Aquinas** (×2; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. section 7, Demons and Daimons  
+  description: A theologian/doctor of the church who provides arguments for the legality of conjurations and charmes. · role: theologian who accepted infernal hierarchy; theologian
 
 **Thomas Forde** (×1; kieckhefer_clm849) — pp. n/a (London, 1418)  
   role: execrated diviner sentenced to pillory (1418) for fraud
+
+**Thomas Scot Knight, S^c.** (×1; scot_1584) — pp. page en 71  
+  description: Recipient of the Epistle to Sir Thomas Scot, Sir Thomas is a/an a meet/worthy person to whom the author can commend his booke. A member of the    
 
 **Tristan and Iseult** (×1; kieckhefer_clm849) — pp. p. 100  
   role: literary figures illustrating symbolic use of love magic
@@ -4741,11 +5089,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Wallace (naturalist)** (×1; garnier_1909) — pp. p. 204  
   role: evolutionist philosopher
 
+**Wier** (×2; scot_1584) — pp. page 57, page 683  
+  description: An author whose views on demonology were influential during Scot's time.; Cited author regarding the description of 'Leone obscurior & turpis'.
+
 **William Lee** (×2; kieckhefer_clm849) — pp. n/a (Coventry case, mid-1480s), p. 124  
   role: petitioner falsely accused by necromantic divination
 
 **William Netherstreet** (×1; kieckhefer_clm849) — pp. p. 102  
   role: English chaplain accused of erotic necromancy
+
+**the witch of Endor** (×5; scot_1584) — pp. page 209, 214  
+  description: A woman accused of raising Samuel through a familiar spirit.; A woman accused of raising Samuel from the dead via a familiar spirit.; A woman accused of raising Samuel from the dead via a familiar_spirit. · role: Witch/Pythonissa
 
 **Zebedee** (×1; liber_juratus) — pp. 211  
   role: commanding figure/biblical personality
@@ -4757,10 +5111,13 @@ Machine-readable version: `data/entity_index.csv`.
   role: Chaldean magician-prophet
 
 <a id="ritual"></a>
-## Ritual  (348)
+## Ritual  (371)
 
 **A, Q, O, P, E, V** (×1; kieckhefer_clm849) — pp. 49v-50r  
   function: characters to be inscribed on pelu (stone slab)
+
+**abrenunciation** (×1; scot_1584) — pp. page 682  
+  description: The renouncing of the devil and his works in Roman Catholic baptism.
 
 **Accadian magic/necromancy** (×1; garnier_1909) — pp. p. 190  
   quote: ""the religion which he taught... consisted of the Magic, Sorcery, Demon and Nature worship of the Accadians, t"
@@ -4858,6 +5215,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Charity/Almsgiving** (×1; liber_juratus) — pp. 125  
   quote: "Si autem repulsam habueris... debes dare tres elemosinas tribus pauperibus"
 
+**Charms, Philtres, Periapts, Pentacles, Curses, and Conjurations** (×1; scot_1584) — pp. page 63  
+  description: Methods through which magic is alleged to work.
+
 **chastity** (×2; ars_notoria, kieckhefer_clm849 ⭐cross-work) — pp. 47, text body — variants: Chastity, chastity  
   function: observed out of respect for spirits
 
@@ -4942,6 +5302,9 @@ Machine-readable version: `data/entity_index.csv`.
 **conjuratio equi** (×1; kieckhefer_clm849) — pp. 107r  
   function: binds horse to master’s will
 
+**Conjuration** (×2; scot_1584) — pp. Page 411, page 376/430 — variants: Conjuration, conjuration  
+  description: The act of calling or binding spirits, often discussed in a critical context; The art of calling up spirits, angels, or devils.
+
 **Conjuration formulas (generic)** (×1; kieckhefer_clm849) — pp. p.156–160  
   function: command spirits
 
@@ -4950,6 +5313,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **The Conjuration of Malign Spirits Dwelling in the Bodies of People** (×1; kieckhefer_clm849) — pp. 174–176  
   function: exorcism of demons from possessed individuals
+
+**conjuration of salt** (×1; scot_1584) — pp. page 473  
+  description: A ritual involving the consecration and conjuration of salt for health.
 
 **Conjuration of Satan/Mirage** (×1; kieckhefer_clm849) — pp. 42, 43  
   quote: "Conjuration of Satan/Mirage (59v–62v)... a conjuration of a demon named Mirage (given fols 109r–118r and again"
@@ -5023,6 +5389,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Deus invisibilis** (×1; kieckhefer_clm849) — pp. 304–305  
   role: first consecratory prayer title
 
+**the devil's covenant/bargain** (×1; scot_1584) — pp. Chapter 6  
+  description: The alleged agreement between witches and the devil, which Scot argues is unproven and often based on false confessions. · nature: alleged league/fellowship; described by some as involving physical contact with the devil
+
 **Divine Vision Purification** (×1; liber_juratus) — pp. 174  
   quote: "Mundato igitur et macerato corpore volentis videre celeste palacium"
 
@@ -5049,6 +5418,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Exorcism of elves and demons (15th-c. medico-magical ms)** (×1; kieckhefer_clm849) — pp. same manuscript as above (unspecified shelfmark)  
   quote: "In the name of the Father, and of the Son, and of the Holy Spirit, amen. I conjure you, elves and all kinds of"
+
+**exorcism of incense** (×1; scot_1584) — pp. page 474  
+  description: A ritual to drive away spirits from frankincense.
 
 **Exorcism of malignant spirits (same ms)** (×1; kieckhefer_clm849) — pp. same manuscript as above  
   quote: "Again I conjure you demons or malignant spirits, whoever you are, by the sprinkling of the blood of Jesus Chri"
@@ -5104,6 +5476,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Experimentum** (×1; kieckhefer_clm849) — pp. 304–312  
   role: magical operation requiring consecration
 
+**exsufflatio** (×1; scot_1584) — pp. page 682  
+  description: The act of blowing away the devil during Roman Catholic baptism.
+
 **Fasciculus morum** (×1; kieckhefer_clm849) — pp. 97, 170  
   quote: "Fasciculus morum, 97, 170"
 
@@ -5139,6 +5514,12 @@ Machine-readable version: `data/entity_index.csv`.
 
 **figurae Salomonis (sigilla)** (×1; kieckhefer_clm849) — pp. fols 42v, 41r  
   quote: " circa duo lattera superiora sigilla Salomonis depingantur majora..."
+
+**Finding out a thief (with crystal)** (×1; scot_1584) — pp. page 309  
+  description: Using an olive oil cross on a crystal and a child to see the thief.
+
+**Finding out a thief (with shears/sieve)** (×1; scot_1584) — pp. page 311  
+  description: Using shears and a sieve to identify a guilty person.
 
 **fingernail divination** (×1; kieckhefer_clm849) — pp. pp. 371–379 (97r–102v), pp. 380–381 (103r–104r)  
   role: core method of scrying
@@ -5260,6 +5641,12 @@ Machine-readable version: `data/entity_index.csv`.
 **John Hartlieb’s procedures** (×1; kieckhefer_clm849) — pp. p. 120–121  
   quote: "Johannes Hartlieb tells how a zaubermaister stands behind a child and recites secret words into his ear in the"
 
+**juggling boxes** (×1; scot_1584) — pp. Chapter 31  
+  description: The use of boxes with false bottoms or specialized shapes to transform grains, spices, or even a toad. 
+
+**Juggling knacks** (×1; scot_1584) — pp. page 321/338  
+  description: Deceptive tricks or sleight of hand used to simulate magic
+
 **Key of Pluto** (×2; kieckhefer_clm849) — pp. 26, 39, 41  
   purpose: opening all locks
 
@@ -5320,8 +5707,17 @@ Machine-readable version: `data/entity_index.csv`.
 **magic circle** (×2; liber_juratus) — pp. 30, page 14 — variants: Magic Circle, magic circle  
   purpose: basis for invoking spirits; providing the 'greatest fortification' against spirits
 
+**Magical Circle (Imaginary)** (×1; scot_1584) — pp. Appendix I, Chapter 1  
+  description: A circle created through incantations and consecrations when a physical boundary cannot be delineated.
+
+**Magical Circles** (×1; scot_1584) — pp. Appendix I, Ch. I  
+  description: Instruments used for the institution of magic and raising spirits
+
 **Magister** (×1; kieckhefer_clm849) — pp. p. 206  
   quote: "...simply Magister (nos 10, 11)."
+
+**Making_of_tempests_and_rain** (×1; scot_1584) — pp. page 145  
+  (attributes not extracted)
 
 **male dog** (×1; kieckhefer_clm849) — pp. p. 93  
   quote: "and the other to a male dog"
@@ -5488,6 +5884,9 @@ Machine-readable version: `data/entity_index.csv`.
 **poison-making** (×1; kieckhefer_clm849)  
   quote: "...poisons were made by the aid of devils... taken from a basilisk, toad, serpent, spider or scorpion..."
 
+**Poisoning** (×1; scot_1584) — pp. page 59, 61  
+  description: Described as a 'horrible art'.
+
 **Prayer 18 (XVIII)** (×1; liber_juratus) — pp. 95-96  
   purpose: Vision of God, consecration, knowledge
 
@@ -5496,6 +5895,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Preparation of the way** (×1; liber_juratus) — pp. 124  
   quote: "eight are preparation of the way to work"
+
+**Preventing witches (horse shoe)** (×1; scot_1584) — pp. page 314  
+  description: Nailing a horse shoe to the inside of the threshold.
 
 **Psalmi (vii)** (×1; kieckhefer_clm849) — pp. 68r  
   function: recited during conjuration
@@ -5644,6 +6046,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Sacred Heart** (×1; garnier_1909) — pp. 344  
   quote: "the word for 'heart' was >v 'Bel', and on the principle of using words with a double meaning... the heart beca"
 
+**Saint Adelbert's Curse** (×1; scot_1584) — pp. page 312  
+  description: A long curse against thieves involving excommunication.
+
 **Samadhi (trance)** (×1; garnier_1909) — pp. 159  
   description: self-induced mesmeric trance; proof of holiness
 
@@ -5746,6 +6151,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Thabit ibn Qurra’s De imaginibus** (×1; kieckhefer_clm849) — pp. p. 90  
   quote: "Thabit ibn Qurra’s De imaginibus [...] experiments for such goals as destroying a city or region, becoming rul"
 
+**The_League** (×1; scot_1584)  
+  description: A purported or confessed_the_renouncing-of-the-faith-and-making-a-bargain-with-the-devil.
+
 **theft investigation ritual** (×1; kieckhefer_clm849) — pp. pp. 371–379 (97r–102v), pp. 380–381 (103r–104r)  
   role: primary purpose of the experiment
 
@@ -5754,6 +6162,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Theomanteis** (×1; garnier_1909) — pp. p. 198–199  
   quote: "One sort of the Theomanteis... were possessed with prophesying demons... called 'daimono-leeptoi,' 'possessed "
+
+**Theurgy** (×1; scot_1584) — pp. page 466  
+  description: A form of magic or divine work, discussed with a confutation
 
 **Three bands containing a tripartite prayer** (×1; kieckhefer_clm849) — pp. Fol. 99v, 103r  
   description: Found in two circles; first circle at fol. 99v no. 39, second at fol. 103r no. 39
@@ -5770,6 +6181,12 @@ Machine-readable version: `data/entity_index.csv`.
 **Tower of Babel** (×1; garnier_1909) — pp. 247-248  
   purpose: idolatrous worship
 
+**Transplantation** (×1; scot_1584) — pp. Page 638  
+  description: The magical transferring of diseases from one person to another.  · nature: considered more natural than conjuration by the author
+
+**trickery with cards** (×1; scot_1584) — pp. Chapter 27  
+  description: Various card tricks involving shuffling, keeping a 'kept' card, and transforming aces into knaves. 
+
 **triple circle ritual** (×1; kieckhefer_clm849) — pp. p. 371 (97r), p. 375 (99v), p. 380 (103r)  
   role: core protective structure
 
@@ -5781,6 +6198,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **two characters** (×1; kieckhefer_clm849) — pp. experiment no. 11 (circle description)  
   function: included on invisibility circle
+
+**Tying of the Point** (×1; scot_1584) — pp. Page 638  
+  description: A knot or ligature used to restrain sexual acts between married persons. 
 
 **Vengeance of Troy (Vindicta Troie)** (×1; kieckhefer_clm849) — pp. p. 91  
   purpose: cause hatred, bodily harm, or death
@@ -5802,6 +6222,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **white hemp garments** (×1; liber_juratus) — pp. 211  
   quote: "being bathed and putting on garments of clean white hemp"
+
+**Witchcrafts/Incantations** (×1; scot_1584)  
+  description: False and evil spirits and practices that cannot stand the trial of the spirit of truth.
 
 <a id="incantation"></a>
 ## Incantation  (91)
@@ -6080,7 +6503,7 @@ Machine-readable version: `data/entity_index.csv`.
   quote: "The experiment is explicitly said to be without danger... Tu Belial, tu Astaroth, tu Paymon..."
 
 <a id="ingredient"></a>
-## Ingredient  (216)
+## Ingredient  (225)
 
 **Abana** (×1; kieckhefer_clm849) — pp. p. 341  
   quote: "Die Martis est piper aut abana, cygb uel sibi simile"
@@ -6102,6 +6525,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **alba columba** (×1; kieckhefer_clm849) — pp. 107v  
   function: sacrificed for invisibility ritual
+
+**Alchemical stones and waters** (×1; scot_1584) — pp. page 355  
+  description: Substances associated with the art of Alcumysterie
 
 **allectory** (×1; kieckhefer_clm849) — pp. p. 100  
   role: aphrodisiac stone
@@ -6147,6 +6573,12 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Assandaron** (×1; kieckhefer_clm849) — pp. p. 341  
   quote: "Die Saturni est assandaron et sulphur aut ei simile"
+
+**Baaros** (×1; scot_1584) — pp. Page 529  
+  description: A root mentioned as being one with Solomon's root, having force to drive out devils.
+
+**ball/small_ball** (×1; scot_1584) — pp. Page 362, 362  
+  description: A small object used in juggling feats, which can be 'swelled' or 'conveyed' through sleight of hand. · nature: can be 'conveyed' or 'vanishing' into nothingness
 
 **balsamum purum** (×1; kieckhefer_clm849) — pp. fols 37v, 38v  
   quote: "in loco secreto vngatur ex puro balsamo ex parte lucida..."
@@ -6244,6 +6676,9 @@ Machine-readable version: `data/entity_index.csv`.
 **charcoal** (×1; liber_juratus) — pp. 209  
   quote: "place pearls on glowing charcoal in the censer"
 
+**Christall stone** (×1; scot_1584) — pp. page 411/428  
+  description: A medium used to inclose a spirit
+
 **Cinnamomum (cinnamon)** (×1; kieckhefer_clm849) — pp. fol. 12v–13r  
   function: used in suffumigation for dignity ritual
 
@@ -6256,6 +6691,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Clear cold spring water** (×1; liber_juratus) — pp. 186  
   quote: "He should take clear cold spring water, and wash himself..."
 
+**the Cockatrice** (×1; scot_1584) — pp. Chapter 18/Page 354  
+  description: A venomous serpent produced by melting arsenic and serpent poison in an egg. · nature: venomous, noisome, dangerous
+
 **cornu ovinae corrigia** (×1; kieckhefer_clm849) — pp. fol 45r  
   quote: "liga corrigiam ouinam, quam ad tres missas quas perfecte audiuisti tecum habuisti..."
 
@@ -6264,6 +6702,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **corrigia ovina** (×1; kieckhefer_clm849) — pp. 45r (No. 27-A)  
   quote: "...liga corrigiam ouinam, quam ad tres missas quas perfecte audiuisti tecum habuisti..."
+
+**Corselets** (×1; scot_1584) — pp. Page 632  
+  description: An ancient Danish charm of neck-laces, composed of thunderstones engraved with magical letters to resist noxious influences and lightning. 
 
 **costa (rib bone)** (×1; kieckhefer_clm849) — pp. 65v bis  
   function: used in love ritual; inscribed with Bel et Ebal and burned
@@ -6346,8 +6787,8 @@ Machine-readable version: `data/entity_index.csv`.
 **Herbs** (×1; kieckhefer_clm849) — pp. [58v, 59r]  
   function: used in ritual power
 
-**holy water** (×1; kieckhefer_clm849) — pp. p.21  
-  description: Used in ritual purification and protection during book handling
+**holy water** (×2; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. p.21, page 421 — variants: Holy water, holy water  
+  description: Used in ritual purification and protection during book handling; Substance used in religious and exorcism rituals
 
 **hoopoe** (×2; kieckhefer_clm849)  
   function: used to draw circle for love/fate ritual
@@ -6487,6 +6928,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Olibanum** (×2; kieckhefer_clm849) — pp. 76r, p. 341  
   quote: "Die Jouis est olibanum aut croceum uel ei simile"
 
+**Olive leaves/branch** (×1; scot_1584) — pp. throughout  
+  description: Used in rituals to find thieves or ward off spirits.
+
 **olive oil** (×4; kieckhefer_clm849) — pp. 62v–65r, Multiple, p. 371 (97r), p. 376 (100r) — variants: Olive Oil, olive oil  
   role: anointing medium for boy’s nails/hands; used to anoint boy’s fingernail
 
@@ -6507,6 +6951,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **pepper** (×1; kieckhefer_clm849) — pp. no. 4, Table E  
   quote: "...pepper, abana [...]"
+
+**Perspective Glasses** (×1; scot_1584) — pp. Chapter 19/Page 355-357  
+  description: Optical devices used to create illusions, such as making things appear far or near, or upside down.
 
 **Piper** (×1; kieckhefer_clm849) — pp. p. 341  
   quote: "Die Martis est piper aut abana, cygb uel sibi simile"
@@ -6604,6 +7051,9 @@ Machine-readable version: `data/entity_index.csv`.
 **serabiuum** (×1; kieckhefer_clm849) — pp. 108v  
   function: component of chemical mixture
 
+**Serpents and Snakes** (×1; scot_1584)  
+  description: Creatures often the subject of charms and enchantments in the text, discussed as being resistant to magic or susceptible to susceptibility. · role: subject of enchantment
+
 **seven herbs** (×2; kieckhefer_clm849) — pp. intro paragraph  
   function: component of unguentum pharelis
 
@@ -6640,8 +7090,8 @@ Machine-readable version: `data/entity_index.csv`.
 **sulfur smoke** (×1; kieckhefer_clm849) — pp. fols 13v–15r  
   quote: "suffumiga eum cum fumo sulphuris"
 
-**Sulphur** (×4; kieckhefer_clm849) — pp. 76r, fol. 14v, no. 5, Table E, p. 341 — variants: Sulphur, sulphur  
-  function: used in suffumigation for hatred ritual
+**Sulphur** (×5; kieckhefer_clm849, scot_1584 ⭐cross-work) — pp. 76r, fol. 14v, no. 5, Table E, p. 341 — variants: Sulphur, sulphur  
+  description: Used for purification and driving out spirits. · function: used in suffumigation for hatred ritual
 
 **terebentina** (×1; kieckhefer_clm849) — pp. 108v  
   function: component of chemical mixture
@@ -6731,10 +7181,13 @@ Machine-readable version: `data/entity_index.csv`.
   quote: ""seek out wood from a white thorn or wood floating on water, and make fire with it""
 
 <a id="tool"></a>
-## Tool  (167)
+## Tool  (168)
 
 **A, Q, O, P, E, V** (×1; kieckhefer_clm849) — pp. 50r  
   role: characters to be written in ritual
+
+**Abraxas Gemstones** (×1; taschen_2003) — pp. page 423  
+  description: Gemstones featuring the magical name of Abraxas, often surrounded by the Ouroboros.
 
 **acus** (×1; kieckhefer_clm849) — pp. fols 29v-31v  
   quote: "faciat fieri magister ab artifice perito nouem acus"
@@ -7307,7 +7760,13 @@ Machine-readable version: `data/entity_index.csv`.
   role: ritual site for Lilith mirror; burial place of murdered man
 
 <a id="concept"></a>
-## Concept  (101)
+## Concept  (133)
+
+**Abraxas** (×1; taschen_2003) — pp. page 423  
+  description: A gnostic God/deity, shown as a snake-footed hybrid. His name has a numeric value of 365.
+
+**Adam/the elect** (×1; scot_1584) — pp. page 456  
+  description: Those who are renewed and made apt by the training up of the holy spirit.
 
 **Adonay** (×2; kieckhefer_clm849) — pp. 68r, p. 336–345  
   function: divine name inscribed in circle · role: divine name used in conjurations
@@ -7320,6 +7779,12 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Akasa (mesmeric fluid)** (×1; garnier_1909) — pp. 159  
   quote: "'Akasa,' the mesmeric fluid, and the spirit of God, are one in the East."
+
+**Alchimistry** (×1; scot_1584) — pp. page 59, 63  
+  description: Described as a 'fruitless beggarly art'.
+
+**Alcumystrie** (×1; scot_1584) — pp. page 353  
+  description: The art of alchemy/alchemists, involving words and devices to deceive eyes
 
 **Alpha and Omega (Alpha et O)** (×1; kieckhefer_clm849) — pp. [58v, 59r]  
   function: divine title used in exorcism
@@ -7375,6 +7840,9 @@ Machine-readable version: `data/entity_index.csv`.
 **conjurations** (×1; kieckhefer_clm849) — pp. 8, 12, 14, 16, 23, 29, 36, 42, 45, 48–9, 51, 53, 57, 58, 61, 62, 73–5, 80, 81, 83, 84, 86–8, 90, 91, 98, 102, 105–11, 115, 116, 127–34, 138, 140–4, 146, 147, 149, 156, 170, 174, 179  
   quote: "conjurations, 8, 12, 14, 16, 23, 29, 36, 42, 45, 48–9, 51, 53, 57, 58, 61, 62, 73–5, 80, 81, 83, 84, 86–8, 90,"
 
+**the creation, transformation, transportation, and transubstantiation of witches** (×1; scot_1584) — pp. page 206  
+  description: A set of magical or supernatural phenomena attributed to witches. · nature: Magical phenomenon
+
 **daimones** (×1; kieckhefer_clm849) — pp. 50, 154–5  
   quote: "daimones, 50, 154–5"
 
@@ -7383,6 +7851,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Deluge** (×1; garnier_1909) — pp. 49–50  
   quote: ""...one or other of the two great events in the history of the Deluge...were observed throughout the ancient w"
+
+**the Devil** (×1; scot_1584) — pp. Chapter 20/Page 354  
+  description: The entity that some claim cannot create creatures smaller than a barleycorn.
 
 **Dialectic/Logic** (×1; ars_notoria) — pp. 28-29  
   quote: "The Dialeical Notes may be used every day... The Reason why the Dialectical Art hath two Figures onely"
@@ -7411,6 +7882,9 @@ Machine-readable version: `data/entity_index.csv`.
 **General Abilities** (×1; ars_notoria) — pp. 3, 12  
   quote: "the first of these deals with what the author calls 'generals'; these are abilities of broad application – mem"
 
+**Giordano Bruno** (×1; taschen_2003) — pp. page 320  
+  description: Philosopher who proposed that the geometrical figure is the visible number and humans can become cooperators of operating nature through numbers.
+
 **Grammar** (×1; ars_notoria) — pp. 27-28  
   quote: "For Grammar hath three Notes only"
 
@@ -7423,11 +7897,38 @@ Machine-readable version: `data/entity_index.csv`.
 **Hanazay** (×1; liber_juratus) — pp. 138-139  
   description: A sequence of names/voces magicae used in prayer
 
+**The Holy Spirit as Adoption/Abba Father** (×1; scot_1584) — pp. page 457  
+  description: The spirit of adoption that allows us to cry 'Abba, Father'.
+
+**The Holy Spirit as Error/Blindness** (×1; scot_1584) — pp. page 457  
+  description: A spirit of error and blindness that inhabits where sin has dominion.
+
+**The Holy Spirit as Finger of God** (×1; scot_1584) — pp. page 456  
+  description: Metaphorical representation of the spirit as the might and power of God.
+
+**The Holy Spirit as Oil/Anointing** (×1; scot_1584) — pp. page 456  
+  description: Metaphorical representation of the spirit as anointing or ointment that makes one fit for office.
+
+**The Holy Spirit as Truth/Touchstone** (×2; scot_1584) — pp. page 457  
+  description: Metaphorical representation of the spirit as a touchstone to try all counterfeit devises and vain sciences.; The spirit of truth that tests all counterfeit devises and vain sciences.
+
+**The Holy Spirit as Water** (×1; scot_1584) — pp. page 455  
+  (attributes not extracted)
+
+**The Holy Spirit as Wind/Breath** (×49; scot_1584) — pp. /page 457, page 457  
+  description: The Hebrew word r'ach signifies spirit, wind, blast, or breath.; The Hebrew word r'ach signifies spirit, wind, blast/breath.
+
 **Holy Trinity** (×1; liber_juratus) — pp. 89  
   nature: co-eternal, co-equal
 
+**Horoscope** (×1; taschen_2003) — pp. page 42  
+  description: The record of the constellations at the moment of birth, representing man's entanglement in fate.
+
 **idolatry** (×1; garnier_1909) — pp. p. 400–407  
   nature: spiritual deception
+
+**Immanuel** (×1; scot_1584) — pp. page 470  
+  description: A holy name used in consecration rituals.
 
 **infernal hierarchy** (×1; kieckhefer_clm849) — pp. 63n14  
   description: perversion of angelic order
@@ -7447,8 +7948,14 @@ Machine-readable version: `data/entity_index.csv`.
 **Jubertus’s spirits correlation** (×1; kieckhefer_clm849)  
   quote: "Correlation: Superbus — grandeur of display... Luxuriosus - seduction or rape... Avarus — recovery or discover"
 
+**The King (Gold)** (×1; taschen_2003) — pp. page 418  
+  description: In alchemical processes, the gold or king can be dissolved in water and handed to Vulcan.
+
 **Lacryae Lyrae, Lyalguana, Loaffar, Vialuarab, Lebara, Lebarion, Layasales** (×1; kieckhefer_clm849) — pp. p. 343–344  
   role: seven precious names of the Creator to inscribe on images
+
+**Lapis** (×1; taschen_2003) — pp. page 15  
+  description: The goal of the alchemical work, achieved by elevating the fallen creation.
 
 **Lemegeton** (×1; kieckhefer_clm849) — pp. p. 192  
   quote: "The Lemegeton lists seventy-two demons with their functions, including Asmoday..."
@@ -7462,8 +7969,17 @@ Machine-readable version: `data/entity_index.csv`.
 **Liberal Arts** (×1; ars_notoria) — pp. 3, 12  
   quote: "the knowledge of every Science, Art, and Wisdom; and of every Faculty of Memory... attaining to them in one Mo"
 
+**Magic/Art Magike** (×1; scot_1584) — pp. Chapter 18  
+  description: The use of 'art' or 'cunning' to produce monsters and illusions.
+
 **Mars (planet/hour)** (×1; kieckhefer_clm849)  
   quote: ""leaving it aside from the hour of the Sun until the hour of Mars""
+
+**melancholie** (×1; scot_1584) — pp. Chapter 9  
+  description: A medical/psychological condition described as causing false imaginations, delusions, and irrational behaviors.
+
+**Mercury** (×1; taschen_2003) — pp. page 15  
+  description: The fluid principle with a propensity to sublimation. · role: volatile intellect
 
 **Miserere mei, deus** (×1; kieckhefer_clm849) — pp. experiment no. 41  
   role: Psalm 51 used in treasure ritual
@@ -7486,6 +8002,12 @@ Machine-readable version: `data/entity_index.csv`.
 **Plasmator seculorum** (×1; kieckhefer_clm849) — pp. p. 336–345  
   role: divine epithet
 
+**Primum Mobile** (×1; taschen_2003) — pp. page 45  
+  description: The outermost planetary orbit, identified with God himself. · function: embracing all other spheres
+
+**Proteus** (×1; taschen_2003) — pp. page 424  
+  description: An eternally wandering watery man from Greek mythology, identified with 'our Mercury' by Heinrich Khunrath. · powers: keys to the sea; power over everything
+
 **Psalm 120:1f.** (×1; kieckhefer_clm849) — pp. p. 73–74  
   role: biblical incantation used in horse ritual
 
@@ -7500,6 +8022,12 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Purgatory** (×1; garnier_1909) — pp. 347-348  
   function: allowed for posthumous intercession via sacrifices
+
+**the Pythonists** (×1; scot_1584) — pp. Chapter 4/5  
+  description: A group or tradition associated with the oracle of Apollo, characterized by their use of deception and oracular practices. · nature: Oracular tradition
+
+**The Queen** (×1; taschen_2003) — pp. page 418  
+  description: In alchemical processes, the queen is fecundated by a greasy python to conceive children.
 
 **Rhetoric** (×1; ars_notoria) — pp. 29  
   quote: "The Reason why Rhetorick hath four Figures"
@@ -7521,6 +8049,9 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Sadaye** (×1; kieckhefer_clm849) — pp. p. 336–345  
   role: divine name used in conjurations
+
+**Salt** (×1; taschen_2003) — pp. page 15  
+  description: The third fundamental principle in Paracelsian doctrine, corresponding to the body.
 
 **Saraboth/Sabaoth** (×1; kieckhefer_clm849) — pp. p. 336–345  
   role: divine name used in conjurations
@@ -7549,6 +8080,9 @@ Machine-readable version: `data/entity_index.csv`.
 **sign of the cross** (×1; kieckhefer_clm849) — pp. 47, 59, 110, 111, 160  
   quote: "sign of the cross, 47, 59, 110, 111, 160"
 
+**sortilegie** (×1; scot_1584) — pp. Chapter 29  
+  description: A term used to the practice of sorcery or magic, which Scot is debunking as trickery.  · nature: deception/sorcery
+
 **Special Abilities** (×1; ars_notoria) — pp. 3, 12  
   quote: "The second section deals with the 'specials', giving prayers in sequence for each of the Liberal Arts"
 
@@ -7561,8 +8095,14 @@ Machine-readable version: `data/entity_index.csv`.
 **Subsolanus** (×1; liber_juratus) — pp. 318  
   nature: wind
 
+**Sulphur** (×1; taschen_2003) — pp. page 15  
+  description: A fundamental principle mediating the position of the soul.
+
 **Sun (hour)** (×1; kieckhefer_clm849)  
   quote: ""from the hour of the Sun until the hour of Saturn""
+
+**Sympathy and Antipathy** (×1; scot_1584) — pp. Page 634, 637  
+  description: The principle that things are drawn to their like or repelled by their contrary. 
 
 **Table B** (×1; kieckhefer_clm849)  
   quote: "Table B . Types of necromancy found in Clm 849 — Illusionist / Psychological / Divinatory..."
@@ -7591,6 +8131,9 @@ Machine-readable version: `data/entity_index.csv`.
 **Tobit (Book of Tobias)** (×1; kieckhefer_clm849) — pp. p. 190  
   function: demon expelling via fish liver fumigation
 
+**transubstantiation** (×1; scot_1584) — pp. Chapter 7  
+  description: An impossible claim made in witches' confessions, used by Scot to argue against the validity of proofs.
+
 **Trinitas Sancta** (×1; kieckhefer_clm849) — pp. 62v, 68r  
   function: basis for invocations and circle-making
 
@@ -7602,6 +8145,12 @@ Machine-readable version: `data/entity_index.csv`.
 
 **Vision of God** (×1; liber_juratus) — pp. 92-101  
   quote: "valeam ad facialem tui, Deus eterne, visionem virtute tui sanctissimi Spiritus"
+
+**Witchcraft** (×2; scot_1584) — pp. page 471/483, page 59, 61  
+  description: The practice of using magic or spirits to cause harm or perform feats.; The practice of using supernatural powers, which the author seeks to define and disprove
+
+**Witchcraft/Conjuring** (×1; scot_1584) — pp. Chapter 18-23  
+  description: The practice of performing supernatural feats through words, charms, and illusions.
 
 **Yhon/Yhaa** (×1; kieckhefer_clm849) — pp. p. 336–345  
   role: divine names used in conjurations
@@ -7658,19 +8207,139 @@ Machine-readable version: `data/entity_index.csv`.
   quote: "the spirits must be strictly enjoined not to defame any innocent parties."
 
 <a id="unknown"></a>
-## Unknown  (5)
+## Unknown  (45)
+
+**Alchemists** (×1; scot_1584) — pp. Page 409-410  
+  description: A group criticized for their vain hopes and the destruction of wealth through their art.
+
+**angel princes** (×1; taschen_2003) — pp. page 322  
+  description: Angels placed above the four winds.
 
 **astral magic** (×1; kieckhefer_clm849) — pp. p. 211  
   quote: "...necromancy clearly did borrow techniques, however superficially, from the traditions of astral magic derive"
 
+**Blue Rose** (×1; taschen_2003)  
+  description: The 'flower of wisdom'; signifies a moist state of matter and is a modification of saturnine black.
+
+**Bodin** (×1; scot_1584) — pp. page 143  
+  description: The argument-that-witches-confessions-are-invalid-due-to_the_unreliability-of-the-mind-under-the-influence-of-_the_melancholic-humor.
+
+**Cardanus** (×1; scot_1584) — pp. page 309-310  
+  description: A scholar who derides magic fables and identifies illusions in conjuration.
+
+**Critique of Conjuration** (×1; scot_1584) — pp. Page 635-636  
+  description: The author's argument that many magicians are actually in compact with the Devil and that their 'charms' are merely disguises for demonic contracts. 
+
+**Earth's Tone** (×1; taschen_2003) — pp. page 46  
+  description: A specific musical sequence (Mi Fa Mi) assigned by Kepler to the Earth.
+
+**evil spirits** (×1; taschen_2003) — pp. page 322  
+  description: Spirits ruling over the winds.
+
+**the four elements** (×1; taschen_2003) — pp. page 322  
+  description: Fundamental components of the material world, linked to directions, humours, and stages of the alchemical work.
+
+**the four humours** (×1; taschen_2003) — pp. page 322  
+  description: Biological fluids linked to elements and directions.
+
+**the four stages of the hermetic Work** (×1; taschen_2003) — pp. page 322  
+  description: Stages in the alchemical process.
+
+**the four winds** (×1; taschen_2003) — pp. page 321  
+  description: Winds associated with directions, elements, and humours.
+
+**The Holy Spirit as Fire** (×1; scot_1584) — pp. page 456  
+  description: Metaphorical representation of the spirit as fire that purifies and cleanses.
+
+**The Holy Spirit as Slumber/Drunkenness** (×1; scot_1584) — pp. page 457  
+  description: A spirit of slumber, giddiness, and error.
+
+**The Holy Spirit as Wind/Breath** (×2; scot_1584) — pp. page 457  
+  description: The Hebrew word r'ach signifies spirit, wind, blast, or breath.
+
 **Honni the Circle-Drawer** (×1; kieckhefer_clm849) — pp. p. 210, n. 17  
   role: Jewish miracle worker
+
+**Isaie/Isaiah** (×1; scot_1584) — pp. page 455  
+  description: A prophet whose words are used to describe the Holy Spirit as water and fire.
+
+**John Dee** (×1; taschen_2003) — pp. page 319  
+  description: An occultist whose encryption techniques in Monas Hieroglyphica are compared to Joyce's linguistic methods.
+
+**Jupiter** (×1; taschen_2003) — pp. page 147  
+  description: Promises good fortune and wealth, associated with the phase of multiplication in the Work, associated with his children are the great dignitaries of society.
+
+**Latona** (×1; taschen_2003) — pp. page 40  
+  description: A code name for the prima materia during the phase of putrefaction and blackening (nigredo).
 
 **Malleus maleficarum** (×1; kieckhefer_clm849) — pp. p. 203, n. 31  
   quote: "The Malleus maleficarum, ii.1.4, pp. 109–14, discusses the nature of these assumed bodies..."
 
+**Mercurius** (×1; taschen_2003) — pp. page 40  
+  description: Identified with the Moon (Luna).
+
+**Monas Hieroglyphica** (×1; taschen_2003) — pp. page 319  
+  description: A work by John Dee containing encryption techniques and symbolic structures.
+
+**Moon** (×1; taschen_2003) — pp. page 40  
+  description: A celestial body that acts as a collecting tank or well for sunlight; associated with Mercurius (Luna) and the lunar tincture. · function: collecting tank of living water
+
+**Moses** (×1; scot_1584) — pp. /page 457  
+  description: A biblical figure whose words are used to discuss the punishment for lack of the spirit.
+
+**Mother Baker** (×1; scot_1584) — pp. Page 207/208  
+  description: A woman identified as a famous witch in Kent, accused of using waxen images to harm others.
+
+**Music of the Spheres** (×1; taschen_2003)  
+  description: A theory where planetary orbits produce audible harmonies based on mathematical ratios and orbital speeds.
+
+**Opus Magnum Phases (Color-based)** (×1; taschen_2003) — pp. page 16  
+  description: The division of the alchemical work into four stages based on color.
+
+**Ouroboros** (×2; taschen_2003) — pp. page 20, page 319 — variants: Ouroboros, ouroboros  
+  description: The sea-monster/serpent representing the celestial, primordial water in Ophite cosmology.; The tail-biter, prototype of endless rotation.
+
+**Pernety's Alchemical/Zodiac System** (×1; taschen_2003) — pp. page 16-17  
+  description: A division of 'lower astronomy' mapping 12 alchemical processes to the signs of the zodiac.
+
 **Picatrix** (×1; kieckhefer_clm849) — pp. p. 211  
   quote: "...influence on necromantic practice... This and similar writings had been translated from Arabic into Western"
 
+**planets/celestial_bodies** (×1; scot_1584) — pp. Page 365, 365  
+  description: Celestial bodies mentioned in an incantation/charm-like words used during juggling, representing a planetary or astrological-related concept. 
+
 **Pleiades** (×1; garnier_1909) — pp. 48–49  
   quote: ""Mr Haliburton has some interesting arguments to prove that the festival in many nations was fixed by the firs"
+
+**Pneumatomachi** (×2; scot_1584) — pp. page 458-459, page 465, Chapter 34  
+  description: A sect that denies the divinity of the Holy Spirit, viewing it as a divine force rather than God.; A group of heretics (also referred to as Theoniacht) who deny the divinity of the Holy Spirit. · nature: sect/heresy
+
+**Red Rose** (×1; taschen_2003) — pp. page 420  
+  description: Signifies the solar 'Metallic Tincture'.
+
+**A saint used to support arguments regarding the power of God's name vs relics.** (×1; scot_1584) — pp. page 468  
+  (attributes not extracted)
+
+**Saturn** (×1; taschen_2003) — pp. page 16  
+  description: Identified with Chronos, the god of time; represents the outermost circle of the underworld. · nature: transient, sequential time
+
+**Sothis (Sirius)** (×1; taschen_2003) — pp. page 424  
+  description: A fixed star associated with Isis and the Egyptian time-wheel.
+
+**Sulphur** (×1; taschen_2003) — pp. page 40  
+  description: Identified with the Sun (Sol).
+
+**Sun** (×1; taschen_2003) — pp. page 40  
+  description: A celestial body whose rays can be transformed into water; associated with Sulphur (Sol) and the solar reddening phase.
+
+**The_Devil/Sathan** (×2; scot_1584) — pp. page 144  
+  description: The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, and as thes_e_entities_array_undermining_the_the_divine_power.; The-figure-of-the-the-devil, in the context-of-a-'league'leagued-with-witches, and as thes_e_entities_array_undermining_unreliable-of-the_mind-under-the-influence-of-the-melancholic-humor. · nature: adversary/devil
+
+**Tria Prima** (×1; taschen_2003) — pp. page 15  
+  description: The three fundamental principles identified by Paracelsus representing spiritual forces.
+
+**White Rose** (×1; taschen_2003) — pp. page 420  
+  description: Signifies the lunar 'Philosophical Tincture'.
+
+**Zodiac** (×1; taschen_2003) — pp. page 41  
+  description: Twelve divisions of the heavens through which material must pass twelve gates to reach fixity.

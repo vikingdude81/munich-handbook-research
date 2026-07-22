@@ -1,58 +1,60 @@
 {
-  "n_spirits": 1254,
+  "n_spirits": 1180,
   "n_features": 28,
   "grid_shape": [
     15,
     15
   ],
   "epochs": 2000,
-  "quantization_error": 0.1996,
-  "topographic_error": 0.0056,
-  "populated_cells": 90,
+  "training": "som.train(use_epochs=True) \u2014 full passes over the data",
+  "caveat": "~70% of spirit vectors are single-occurrence and ~145 have zero attributes, so their vectors are near-identical near-zero points. The dominant 'Unnamed Host' mega-cluster is largely this null bucket, and the very low QE/TE partly reflect that degeneracy rather than meaningful topology. Filter to attributed spirits before treating clusters as 'courts'.",
+  "quantization_error": 0.1457,
+  "topographic_error": 0.0161,
+  "populated_cells": 98,
   "total_cells": 225,
   "cluster_size_min": 1,
-  "cluster_size_max": 436,
-  "cluster_size_mean": 13.93,
+  "cluster_size_max": 392,
+  "cluster_size_mean": 12.04,
   "top_10_courts": [
     {
-      "cell": "0,11",
-      "count": 436
+      "cell": "14,0",
+      "count": 392
     },
     {
-      "cell": "3,0",
+      "cell": "14,12",
       "count": 58
     },
     {
-      "cell": "8,11",
-      "count": 58
-    },
-    {
-      "cell": "7,7",
+      "cell": "4,12",
       "count": 42
     },
     {
-      "cell": "2,11",
-      "count": 41
-    },
-    {
-      "cell": "3,6",
-      "count": 35
-    },
-    {
-      "cell": "4,13",
+      "cell": "0,3",
       "count": 32
     },
     {
-      "cell": "10,14",
-      "count": 31
+      "cell": "8,7",
+      "count": 30
     },
     {
-      "cell": "2,14",
-      "count": 26
+      "cell": "5,11",
+      "count": 30
     },
     {
-      "cell": "6,2",
-      "count": 23
+      "cell": "3,4",
+      "count": 28
+    },
+    {
+      "cell": "4,6",
+      "count": 27
+    },
+    {
+      "cell": "9,0",
+      "count": 27
+    },
+    {
+      "cell": "4,0",
+      "count": 25
     }
   ]
 }

@@ -1,278 +1,29 @@
 {
   "0,0": {
-    "court_name": "neutral_func_protection",
-    "dominant_function": "func_protection",
-    "dominant_nature": "neutral",
-    "population": 8,
+    "court_name": "nature_divine_name_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "nature_divine_name",
+    "population": 20,
     "notable_spirits": [
-      "cartutay",
-      "folfitoy",
-      "geteritacon",
-      "mansator",
-      "momabel"
+      "tetragrammaton",
+      "adonay",
+      "emmanuel",
+      "alpha et o",
+      "sabaoth"
     ]
   },
   "0,2": {
-    "court_name": "neutral_func_destruction",
-    "dominant_function": "func_destruction",
-    "dominant_nature": "neutral",
-    "population": 22,
-    "notable_spirits": [
-      "acuta",
-      "afah",
-      "atal",
-      "audena",
-      "bal"
-    ]
-  },
-  "0,4": {
-    "court_name": "neutral_func_destruction",
-    "dominant_function": "func_destruction",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "guardian angel"
-    ]
-  },
-  "0,7": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 2,
-    "notable_spirits": [
-      "jupiter",
-      "sun"
-    ]
-  },
-  "0,9": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 2,
-    "notable_spirits": [
-      "mercury",
-      "moon"
-    ]
-  },
-  "0,11": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 436,
-    "notable_spirits": [
-      "abat",
-      "abays",
-      "abdenago",
-      "aboumaleth",
-      "abouzaba"
-    ]
-  },
-  "0,13": {
-    "court_name": "neutral_func_love",
-    "dominant_function": "func_love",
-    "dominant_nature": "neutral",
-    "population": 11,
-    "notable_spirits": [
-      "azariel",
-      "cama (kham/ham)",
-      "caramel",
-      "gama",
-      "hanahel"
-    ]
-  },
-  "1,3": {
-    "court_name": "neutral_func_destruction",
-    "dominant_function": "func_destruction",
-    "dominant_nature": "neutral",
-    "population": 10,
-    "notable_spirits": [
-      "bodhisattvas",
-      "devil (diaboli)",
-      "nectius (nocturnal hour)",
-      "palicos",
-      "pila"
-    ]
-  },
-  "1,5": {
-    "court_name": "neutral_func_invisibility",
-    "dominant_function": "func_invisibility",
-    "dominant_nature": "neutral",
-    "population": 5,
-    "notable_spirits": [
-      "fyriel (also fyriel/mememil/taraor)",
-      "mememil (also melemil)",
-      "mememil (melemil)",
-      "taraor (also tarator)",
-      "taraor (tarator)"
-    ]
-  },
-  "2,0": {
-    "court_name": "nature_demonic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_demonic",
-    "population": 4,
-    "notable_spirits": [
-      "fyron",
-      "mascifin",
-      "cartutay, momabel, sobil, geteritacon",
-      "puzanil, pimaton, folfitoy, mansator"
-    ]
-  },
-  "2,2": {
-    "court_name": "nature_demonic_func_destruction",
-    "dominant_function": "func_destruction",
-    "dominant_nature": "nature_demonic",
-    "population": 7,
-    "notable_spirits": [
-      "iammax",
-      "ocel",
-      "apo lyn (apolyon)",
-      "doune murderers",
-      "fulmar"
-    ]
-  },
-  "2,3": {
-    "court_name": "nature_demonic_func_destruction",
-    "dominant_function": "func_destruction",
-    "dominant_nature": "nature_demonic",
-    "population": 1,
-    "notable_spirits": [
-      "osiris"
-    ]
-  },
-  "2,7": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 18,
-    "notable_spirits": [
-      "byreoth (bireoth)",
-      "darail (dorayl)",
-      "denior",
-      "dor",
-      "dyacom (dyacon)"
-    ]
-  },
-  "2,11": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 41,
-    "notable_spirits": [
-      "cherubim",
-      "seraphim",
-      "holy spirit",
-      "agnus",
-      "archangels"
-    ]
-  },
-  "2,13": {
-    "court_name": "neutral_func_divination",
+    "court_name": "nature_divine_name_func_divination",
     "dominant_function": "func_divination",
-    "dominant_nature": "neutral",
-    "population": 2,
-    "notable_spirits": [
-      "chrysor (hephaestus)",
-      "seth (egyptian god)"
-    ]
-  },
-  "2,14": {
-    "court_name": "neutral_func_divination",
-    "dominant_function": "func_divination",
-    "dominant_nature": "neutral",
-    "population": 26,
-    "notable_spirits": [
-      "angel of the lord",
-      "four angels",
-      "haram",
-      "messyas",
-      "pancraton"
-    ]
-  },
-  "3,0": {
-    "court_name": "nature_demonic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_demonic",
-    "population": 58,
-    "notable_spirits": [
-      "althes",
-      "bicol",
-      "cormes",
-      "danmals",
-      "dies"
-    ]
-  },
-  "3,4": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
+    "dominant_nature": "nature_divine_name",
     "population": 3,
     "notable_spirits": [
-      "labadau",
-      "baltim, galtim, saltim",
-      "duces"
+      "sother",
+      "elyon",
+      "sabboth"
     ]
   },
-  "3,6": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 35,
-    "notable_spirits": [
-      "abat (hour name)",
-      "atyn (nocturnal hour)",
-      "bethala, pamelon, anguis, floris, ereth, alya, cabyona, ely, eloy, sadamay, melgry, asmyacre",
-      "caltraa (nocturnal hour)",
-      "carab"
-    ]
-  },
-  "3,9": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 5,
-    "notable_spirits": [
-      "cafziel",
-      "michrathon",
-      "amamni",
-      "atlas",
-      "bohel"
-    ]
-  },
-  "4,2": {
-    "court_name": "nature_demonic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_demonic",
-    "population": 3,
-    "notable_spirits": [
-      "ghemschid / djemschid",
-      "possessor hominum",
-      "serpent god / satan"
-    ]
-  },
-  "4,4": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 18,
-    "notable_spirits": [
-      "maymon",
-      "abaa",
-      "formione",
-      "harthan",
-      "sarabocres"
-    ]
-  },
-  "4,6": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "spiritus equus"
-    ]
-  },
-  "4,13": {
+  "0,3": {
     "court_name": "nature_divine_name_func_divination",
     "dominant_function": "func_divination",
     "dominant_nature": "nature_divine_name",
@@ -285,215 +36,1069 @@
       "blemutum"
     ]
   },
-  "5,0": {
-    "court_name": "nature_demonic_func_divination",
+  "0,5": {
+    "court_name": "nature_divine_name_func_divination",
     "dominant_function": "func_divination",
-    "dominant_nature": "nature_demonic",
-    "population": 5,
-    "notable_spirits": [
-      "balbieit, zelans, zelles, dimedero, cadar",
-      "black man (demon form)",
-      "mirus (mirael)",
-      "princes of the hand",
-      "princes of the thumb/nail"
-    ]
-  },
-  "5,5": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "barthan"
-    ]
-  },
-  "5,9": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 8,
-    "notable_spirits": [
-      "im (ym)",
-      "leutaber (zeugaber)",
-      "memoyr (memoir)",
-      "rodobayl (rodobail)",
-      "selutabel (belutabel)"
-    ]
-  },
-  "5,11": {
-    "court_name": "nature_divine_name_mixed",
-    "dominant_function": "mixed",
     "dominant_nature": "nature_divine_name",
-    "population": 9,
-    "notable_spirits": [
-      "adonay (in circle formula)",
-      "barian (divine name)",
-      "deus inuisibilis",
-      "guabas (divine name)",
-      "haa (divine name)"
-    ]
-  },
-  "6,0": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 2,
-    "notable_spirits": [
-      "exercitus infernalis",
-      "maligni spiritus"
-    ]
-  },
-  "6,2": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 23,
-    "notable_spirits": [
-      "sona",
-      "altramat",
-      "archidemath",
-      "fritath",
-      "hegergibet"
-    ]
-  },
-  "6,3": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 2,
-    "notable_spirits": [
-      "mambrim",
-      "zambrim"
-    ]
-  },
-  "6,6": {
-    "court_name": "nature_angelic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_angelic",
-    "population": 3,
-    "notable_spirits": [
-      "ayos / theos",
-      "exercitus celestis",
-      "spiritualis paraclitus"
-    ]
-  },
-  "6,9": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "fifteen spirits"
-    ]
-  },
-  "6,14": {
-    "court_name": "neutral_func_divination",
-    "dominant_function": "func_divination",
-    "dominant_nature": "neutral",
     "population": 1,
     "notable_spirits": [
       "asmoday"
     ]
   },
-  "7,4": {
+  "0,6": {
+    "court_name": "neutral_func_invisibility",
+    "dominant_function": "func_invisibility",
+    "dominant_nature": "neutral",
+    "population": 6,
+    "notable_spirits": [
+      "hanni",
+      "alugor",
+      "volach",
+      "barbaras",
+      "cvrson"
+    ]
+  },
+  "0,7": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 3,
+    "notable_spirits": [
+      "mirage",
+      "oriens",
+      "gaeneron"
+    ]
+  },
+  "0,8": {
+    "court_name": "nature_demonic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_demonic",
+    "population": 2,
+    "notable_spirits": [
+      "astaroth",
+      "berith"
+    ]
+  },
+  "0,9": {
+    "court_name": "nature_demonic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_demonic",
+    "population": 5,
+    "notable_spirits": [
+      "satan",
+      "belial",
+      "paimon",
+      "taraor",
+      "melemil"
+    ]
+  },
+  "0,10": {
+    "court_name": "nature_demonic_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "gebel"
+    ]
+  },
+  "0,11": {
+    "court_name": "nature_demonic_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "nature_demonic",
+    "population": 10,
+    "notable_spirits": [
+      "oreoth",
+      "pinen",
+      "tryboy",
+      "tereol",
+      "ocel"
+    ]
+  },
+  "0,12": {
+    "court_name": "nature_demonic_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "iammax"
+    ]
+  },
+  "0,14": {
+    "court_name": "nature_demonic_func_protection",
+    "dominant_function": "func_protection",
+    "dominant_nature": "nature_demonic",
+    "population": 22,
+    "notable_spirits": [
+      "dyspil",
+      "onoroy",
+      "brunlo",
+      "cotroy",
+      "despan"
+    ]
+  },
+  "1,0": {
+    "court_name": "nature_divine_name_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_divine_name",
+    "population": 6,
+    "notable_spirits": [
+      "berion",
+      "cados",
+      "elthie",
+      "ely, eloy, eloe",
+      "haya"
+    ]
+  },
+  "1,6": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 4,
+    "notable_spirits": [
+      "cason",
+      "otius",
+      "spiritus promptus et ydoneum in omni sciencia",
+      "twueries"
+    ]
+  },
+  "1,8": {
     "court_name": "nature_demonic_func_binding",
     "dominant_function": "func_binding",
     "dominant_nature": "nature_demonic",
     "population": 3,
     "notable_spirits": [
-      "daimonia",
-      "nephilim",
-      "shoeth / hebatit / het / agla / jocht / othot / vanecht / nabuthi"
+      "apolin",
+      "maraloth",
+      "toth"
     ]
   },
-  "7,7": {
-    "court_name": "nature_angelic_mixed",
+  "1,11": {
+    "court_name": "nature_demonic_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "nature_demonic",
+    "population": 4,
+    "notable_spirits": [
+      "suburith",
+      "lyroth",
+      "brimer",
+      "tranauit"
+    ]
+  },
+  "2,2": {
+    "court_name": "nature_divine_name_mixed",
     "dominant_function": "mixed",
-    "dominant_nature": "nature_angelic",
-    "population": 42,
-    "notable_spirits": [
-      "paraclitus",
-      "uriel",
-      "casziel",
-      "hocrohel",
-      "yayn"
-    ]
-  },
-  "7,10": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 7,
-    "notable_spirits": [
-      "affla",
-      "aladep",
-      "alualuaht",
-      "cya",
-      "mira"
-    ]
-  },
-  "7,13": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
+    "dominant_nature": "nature_divine_name",
     "population": 10,
     "notable_spirits": [
-      "astra",
-      "alugor",
-      "cason",
-      "cebal",
-      "el, eloy, elyon, aloe, sappa, sother, emanuel, tetragramaton, saday, luamay, athanatos, ysos, kyrie, primogenitus, vita, finis, via, flos, fons, veritas, sapiencia, virtus, paraclitus, ego sum qui sum, mediator, agnus, ouis, vitulus, serpens, aries, leo, os, verbum, ianua, ymago, gloria, lux, sol, splendor, lapis angularis, sponsus, pastor, propheta, sacerdos, immortalis, lex, rex, christus, pater, filius, spiritus sanctus, agla, petra, eternitas, neon, burnon, parli, caon, aepton, alpha et o, omnipotens, misericors, caritas, eternus creator et redemptor, primus et nouissimus, dator et receptor, ayos, otheos, yschyros, sanctus deus, fortis et paciens, iustus iudex in vltimo die"
+      "messias",
+      "adonay (in circle formula)",
+      "barian (divine name)",
+      "deus inuisibilis",
+      "guabas (divine name)"
     ]
   },
-  "7,14": {
+  "2,5": {
+    "court_name": "nature_demonic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "firiel"
+    ]
+  },
+  "2,7": {
+    "court_name": "neutral_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "neutral",
+    "population": 5,
+    "notable_spirits": [
+      "astra",
+      "cebal",
+      "el, eloy, elyon, aloe, sappa, sother, emanuel, tetragramaton, saday, luamay, athanatos, ysos, kyrie, primogenitus, vita, finis, via, flos, fons, veritas, sapiencia, virtus, paraclitus, ego sum qui sum, mediator, agnus, ouis, vitulus, serpens, aries, leo, os, verbum, ianua, ymago, gloria, lux, sol, splendor, lapis angularis, sponsus, pastor, propheta, sacerdos, immortalis, lex, rex, christus, pater, filius, spiritus sanctus, agla, petra, eternitas, neon, burnon, parli, caon, aepton, alpha et o, omnipotens, misericors, caritas, eternus creator et redemptor, primus et nouissimus, dator et receptor, ayos, otheos, yschyros, sanctus deus, fortis et paciens, iustus iudex in vltimo die",
+      "ihesus nazarenus",
+      "pneumaton"
+    ]
+  },
+  "2,8": {
+    "court_name": "nature_demonic_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "nature_demonic",
+    "population": 3,
+    "notable_spirits": [
+      "lylet",
+      "exercitus infernalis",
+      "maligni spiritus"
+    ]
+  },
+  "2,9": {
+    "court_name": "nature_demonic_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "curson"
+    ]
+  },
+  "2,10": {
+    "court_name": "nature_demonic_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "lilith (also lilit / lylet)"
+    ]
+  },
+  "2,12": {
+    "court_name": "nature_demonic_func_treasure",
+    "dominant_function": "func_treasure",
+    "dominant_nature": "nature_demonic",
+    "population": 2,
+    "notable_spirits": [
+      "damayn",
+      "beryen"
+    ]
+  },
+  "3,4": {
+    "court_name": "nature_demonic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_demonic",
+    "population": 28,
+    "notable_spirits": [
+      "sona",
+      "altramat",
+      "archidemath",
+      "badalam",
+      "bel"
+    ]
+  },
+  "3,9": {
+    "court_name": "nature_demonic_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "nature_demonic",
+    "population": 7,
+    "notable_spirits": [
+      "lilith",
+      "avarus",
+      "balbieit, zelans, zelles, dimedero, cadar",
+      "black man (demon form)",
+      "mirus (mirael)"
+    ]
+  },
+  "3,11": {
+    "court_name": "nature_demonic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "satan/sathan"
+    ]
+  },
+  "3,12": {
+    "court_name": "nature_demonic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_demonic",
+    "population": 4,
+    "notable_spirits": [
+      "lytim",
+      "the_devil/sathan",
+      "belzebuc",
+      "superbus"
+    ]
+  },
+  "3,14": {
+    "court_name": "nature_demonic_func_love",
+    "dominant_function": "func_love",
+    "dominant_nature": "nature_demonic",
+    "population": 13,
+    "notable_spirits": [
+      "luxuriosus",
+      "pumeon",
+      "byreoth",
+      "cupido",
+      "darail"
+    ]
+  },
+  "4,0": {
+    "court_name": "nature_divine_name_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_divine_name",
+    "population": 25,
+    "notable_spirits": [
+      "eloym",
+      "adaptinor",
+      "adoray",
+      "adyr",
+      "agnibora"
+    ]
+  },
+  "4,1": {
+    "court_name": "nature_divine_name_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_divine_name",
+    "population": 6,
+    "notable_spirits": [
+      "adonav (variant of adonay)",
+      "cados (variant of kadosh)",
+      "eloy (variant of elohim)",
+      "sadav (variant of saday)",
+      "yhah (yhwh-related)"
+    ]
+  },
+  "4,2": {
+    "court_name": "nature_divine_name_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_divine_name",
+    "population": 1,
+    "notable_spirits": [
+      "aa, ely, sother, adonay, cel, sabaoth, messyas, alazabra, osian"
+    ]
+  },
+  "4,3": {
+    "court_name": "nature_demonic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_demonic",
+    "population": 4,
+    "notable_spirits": [
+      "saduel",
+      "vsuel",
+      "mambrim",
+      "zambrim"
+    ]
+  },
+  "4,4": {
+    "court_name": "nature_demonic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_demonic",
+    "population": 6,
+    "notable_spirits": [
+      "asyel",
+      "discobermath",
+      "erlain",
+      "belam",
+      "rabam"
+    ]
+  },
+  "4,6": {
+    "court_name": "neutral_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "neutral",
+    "population": 27,
+    "notable_spirits": [
+      "athanatos",
+      "leo",
+      "angel of the lord",
+      "bezlebuth",
+      "fons"
+    ]
+  },
+  "4,7": {
     "court_name": "neutral_func_divination",
     "dominant_function": "func_divination",
     "dominant_nature": "neutral",
     "population": 6,
     "notable_spirits": [
-      "hanni",
-      "barbaras",
-      "cvrson",
-      "gaeneron",
-      "spiritus qui portet michi aurum et argentum denarios"
+      "floron",
+      "haram",
+      "semiforas",
+      "abiniabyndo, abyncola, abracalos, pyel, thyel, syel",
+      "caron (nocturnal hour)"
     ]
   },
-  "8,0": {
+  "4,8": {
+    "court_name": "nature_demonic_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "holy spirit"
+    ]
+  },
+  "4,12": {
+    "court_name": "nature_demonic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_demonic",
+    "population": 42,
+    "notable_spirits": [
+      "sententino",
+      "afalion",
+      "althes",
+      "barbectus",
+      "belferith"
+    ]
+  },
+  "4,14": {
+    "court_name": "nature_demonic_func_love",
+    "dominant_function": "func_love",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "zagam"
+    ]
+  },
+  "5,3": {
     "court_name": "nature_demonic_func_binding",
     "dominant_function": "func_binding",
     "dominant_nature": "nature_demonic",
+    "population": 4,
+    "notable_spirits": [
+      "beelzebub",
+      "castiel",
+      "mirael",
+      "shoeth / hebatit / het / agla / jocht / othot / vanecht / nabuthi"
+    ]
+  },
+  "5,6": {
+    "court_name": "neutral_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "neutral",
+    "population": 1,
+    "notable_spirits": [
+      "mychael"
+    ]
+  },
+  "5,8": {
+    "court_name": "nature_angelic_func_divination",
+    "dominant_function": "func_divination",
+    "dominant_nature": "nature_angelic",
+    "population": 4,
+    "notable_spirits": [
+      "ayos / theos",
+      "exercitus celestis",
+      "michael, gabriel and raphael",
+      "spiritualis paraclitus"
+    ]
+  },
+  "5,9": {
+    "court_name": "nature_demonic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "nephilim"
+    ]
+  },
+  "5,11": {
+    "court_name": "nature_demonic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_demonic",
+    "population": 30,
+    "notable_spirits": [
+      "anleyuz",
+      "apollon",
+      "beheydraz",
+      "berien",
+      "beryen (also berien)"
+    ]
+  },
+  "5,13": {
+    "court_name": "nature_demonic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "bylet"
+    ]
+  },
+  "5,14": {
+    "court_name": "nature_demonic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_demonic",
+    "population": 1,
+    "notable_spirits": [
+      "daimonia"
+    ]
+  },
+  "6,0": {
+    "court_name": "nature_angelic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_angelic",
     "population": 3,
     "notable_spirits": [
-      "firiel",
-      "taraor",
-      "melemil"
+      "astaba",
+      "hertanalit",
+      "captiel = caffriel"
+    ]
+  },
+  "6,2": {
+    "court_name": "nature_angelic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_angelic",
+    "population": 4,
+    "notable_spirits": [
+      "gabriel",
+      "raphael",
+      "michael",
+      "satquiel"
+    ]
+  },
+  "6,3": {
+    "court_name": "nature_angelic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_angelic",
+    "population": 1,
+    "notable_spirits": [
+      "lucifer"
+    ]
+  },
+  "6,5": {
+    "court_name": "neutral_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "neutral",
+    "population": 2,
+    "notable_spirits": [
+      "chrysor (hephaestus)",
+      "seth (egyptian god)"
+    ]
+  },
+  "6,14": {
+    "court_name": "nature_demonic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_demonic",
+    "population": 13,
+    "notable_spirits": [
+      "molbet",
+      "natheus",
+      "aphaleon",
+      "belsabuct",
+      "berit"
+    ]
+  },
+  "7,0": {
+    "court_name": "nature_angelic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_angelic",
+    "population": 8,
+    "notable_spirits": [
+      "amamnim",
+      "asaame/asaomie/asamye (angelic names)",
+      "bessabes",
+      "cassie",
+      "micheal"
+    ]
+  },
+  "7,2": {
+    "court_name": "nature_angelic_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "nature_angelic",
+    "population": 1,
+    "notable_spirits": [
+      "dardiel"
+    ]
+  },
+  "7,3": {
+    "court_name": "nature_angelic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_angelic",
+    "population": 5,
+    "notable_spirits": [
+      "anael",
+      "angels",
+      "samael",
+      "assassayel",
+      "virtutes"
+    ]
+  },
+  "7,4": {
+    "court_name": "neutral_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "neutral",
+    "population": 1,
+    "notable_spirits": [
+      "spirits of saturn"
+    ]
+  },
+  "7,5": {
+    "court_name": "neutral_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "neutral",
+    "population": 9,
+    "notable_spirits": [
+      "osiris",
+      "devil (diaboli)",
+      "nectius (nocturnal hour)",
+      "palicos",
+      "pila"
+    ]
+  },
+  "7,9": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 5,
+    "notable_spirits": [
+      "barthan",
+      "agares",
+      "baell",
+      "jupiter",
+      "sun"
+    ]
+  },
+  "8,1": {
+    "court_name": "nature_angelic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_angelic",
+    "population": 1,
+    "notable_spirits": [
+      "sammyel"
     ]
   },
   "8,2": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
+    "court_name": "nature_angelic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_angelic",
+    "population": 2,
+    "notable_spirits": [
+      "metraton",
+      "vrlacafel"
+    ]
+  },
+  "8,4": {
+    "court_name": "nature_angelic_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "nature_angelic",
+    "population": 1,
+    "notable_spirits": [
+      "bodhisattvas"
+    ]
+  },
+  "8,7": {
+    "court_name": "neutral_func_destruction",
+    "dominant_function": "func_destruction",
+    "dominant_nature": "neutral",
+    "population": 30,
+    "notable_spirits": [
+      "cartutay",
+      "folfitoy",
+      "geteritacon",
+      "mansator",
+      "momabel"
+    ]
+  },
+  "8,9": {
+    "court_name": "neutral_func_protection",
+    "dominant_function": "func_protection",
+    "dominant_nature": "neutral",
+    "population": 1,
+    "notable_spirits": [
+      "guardian angel"
+    ]
+  },
+  "8,13": {
+    "court_name": "neutral_func_banquet",
+    "dominant_function": "func_banquet",
+    "dominant_nature": "neutral",
+    "population": 10,
+    "notable_spirits": [
+      "tamafin",
+      "fifteen spirits",
+      "leutaber (zeugaber)",
+      "memoyr (memoir)",
+      "oymelor, demefin, lamair, masair, symofor, rodobayl, tentetos, lotobor, memoyr, tamafin, leutaber, tatomofon, faubair, selutabel, rimasor, syrama"
+    ]
+  },
+  "9,0": {
+    "court_name": "nature_angelic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_angelic",
+    "population": 27,
+    "notable_spirits": [
+      "acynerim (mars angel)",
+      "amabel",
+      "angeli",
+      "assassael",
+      "atrarayl"
+    ]
+  },
+  "9,1": {
+    "court_name": "nature_angelic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_angelic",
+    "population": 9,
+    "notable_spirits": [
+      "paraclitus",
+      "uriel",
+      "barmaly",
+      "casziel",
+      "gemi"
+    ]
+  },
+  "9,4": {
+    "court_name": "nature_angelic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_angelic",
+    "population": 8,
+    "notable_spirits": [
+      "captiel",
+      "mataton",
+      "cafriel",
+      "castuel",
+      "maratron"
+    ]
+  },
+  "9,9": {
+    "court_name": "neutral_func_protection",
+    "dominant_function": "func_protection",
+    "dominant_nature": "neutral",
+    "population": 1,
+    "notable_spirits": [
+      "barbarus"
+    ]
+  },
+  "9,11": {
+    "court_name": "neutral_func_love",
+    "dominant_function": "func_love",
+    "dominant_nature": "neutral",
     "population": 12,
     "notable_spirits": [
-      "discobermath",
-      "erlain",
-      "asyel",
-      "belam",
-      "rabam"
+      "azariel",
+      "cama (kham/ham)",
+      "caramel",
+      "fyriel",
+      "gama"
     ]
   },
-  "8,3": {
-    "court_name": "nature_demonic_func_binding",
+  "10,0": {
+    "court_name": "nature_angelic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_angelic",
+    "population": 11,
+    "notable_spirits": [
+      "archangeli",
+      "cherubin",
+      "dominaciones",
+      "michael, gabriel, raphael",
+      "poterestates / potestates"
+    ]
+  },
+  "10,2": {
+    "court_name": "nature_angelic_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "nature_angelic",
+    "population": 4,
+    "notable_spirits": [
+      "sarquiel",
+      "gaffriel",
+      "naquiel",
+      "sagriel"
+    ]
+  },
+  "10,5": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 8,
+    "notable_spirits": [
+      "aloybain",
+      "cafziel",
+      "hayton",
+      "memmi",
+      "michrathon"
+    ]
+  },
+  "10,8": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 1,
+    "notable_spirits": [
+      "saba"
+    ]
+  },
+  "10,9": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 2,
+    "notable_spirits": [
+      "almodab",
+      "saytam"
+    ]
+  },
+  "10,14": {
+    "court_name": "neutral_func_binding",
     "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
+    "dominant_nature": "neutral",
+    "population": 16,
+    "notable_spirits": [
+      "lamair",
+      "tatomofon",
+      "demefin",
+      "oymelor",
+      "faubair"
+    ]
+  },
+  "11,2": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 1,
+    "notable_spirits": [
+      "sarabores"
+    ]
+  },
+  "11,3": {
+    "court_name": "neutral_func_castle",
+    "dominant_function": "func_castle",
+    "dominant_nature": "neutral",
     "population": 3,
     "notable_spirits": [
-      "lucifer",
-      "castiel",
-      "mirael"
+      "vsyr",
+      "im (ym)",
+      "usyr, salaul, silitor, demor, zanno, syrtroy, risbel, cutroy, lytay, onor, moloy, pumotor, tami, oor, ym"
     ]
   },
-  "8,11": {
+  "11,7": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 2,
+    "notable_spirits": [
+      "saabotes",
+      "rex filius dyabuld"
+    ]
+  },
+  "11,8": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 12,
+    "notable_spirits": [
+      "corniger",
+      "baytan",
+      "beliall",
+      "caatus",
+      "candas"
+    ]
+  },
+  "11,10": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 3,
+    "notable_spirits": [
+      "baltim",
+      "caspar, balthasar, melchior",
+      "minon"
+    ]
+  },
+  "11,12": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 7,
+    "notable_spirits": [
+      "taob",
+      "bireoth",
+      "dorayl",
+      "midain",
+      "svcax"
+    ]
+  },
+  "12,4": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 2,
+    "notable_spirits": [
+      "saturn",
+      "mars"
+    ]
+  },
+  "12,5": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 3,
+    "notable_spirits": [
+      "venus",
+      "mercury",
+      "moon"
+    ]
+  },
+  "12,7": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 22,
+    "notable_spirits": [
+      "maymon",
+      "abaa",
+      "formione",
+      "bartha",
+      "harthan"
+    ]
+  },
+  "12,8": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 3,
+    "notable_spirits": [
+      "baltim, galtim, saltim",
+      "barbatos",
+      "duces"
+    ]
+  },
+  "12,10": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 6,
+    "notable_spirits": [
+      "sancti et electi dei",
+      "algo (nocturnal hour)",
+      "conassuor (nocturnal hour)",
+      "sadadat (hour name)",
+      "sala (hour name)"
+    ]
+  },
+  "12,11": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 1,
+    "notable_spirits": [
+      "lamisniel"
+    ]
+  },
+  "12,14": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 15,
+    "notable_spirits": [
+      "oor",
+      "tami",
+      "ym",
+      "zanno",
+      "cutroy"
+    ]
+  },
+  "13,2": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 1,
+    "notable_spirits": [
+      "fyrin"
+    ]
+  },
+  "13,10": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 14,
+    "notable_spirits": [
+      "aroch",
+      "feremin",
+      "feremin (also feremni/feremim)",
+      "godras",
+      "lautrayth"
+    ]
+  },
+  "13,13": {
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 13,
+    "notable_spirits": [
+      "abraham",
+      "affla",
+      "aladep",
+      "alualuaht",
+      "cya"
+    ]
+  },
+  "14,0": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 392,
+    "notable_spirits": [
+      "cherubim",
+      "seraphim",
+      "agnus",
+      "archangels",
+      "balthasar"
+    ]
+  },
+  "14,2": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 10,
+    "notable_spirits": [
+      "o vsyr",
+      "zaimo",
+      "denior",
+      "dor",
+      "litor onor"
+    ]
+  },
+  "14,3": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 10,
+    "notable_spirits": [
+      "byreoth (bireoth)",
+      "darail (dorayl)",
+      "dyacom (dyacon)",
+      "fabni (fabin)",
+      "gebep (gebel)"
+    ]
+  },
+  "14,4": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 18,
+    "notable_spirits": [
+      "sortfen",
+      "vsyr, salaul, silitor, demor, zanno, syrtroy, risbel, cutroy, lytay, onor, moloy, pumotor, tami, oor, ym",
+      "bethala, pamelon, anguis, floris, ereth, alya, cabyona, ely, eloy, sadamay, melgry, asmyacre",
+      "carab",
+      "cedon, zephata, eloym, eloyay"
+    ]
+  },
+  "14,5": {
+    "court_name": "neutral_mixed",
+    "dominant_function": "mixed",
+    "dominant_nature": "neutral",
+    "population": 19,
+    "notable_spirits": [
+      "abat (hour name)",
+      "atyn (nocturnal hour)",
+      "caltraa (nocturnal hour)",
+      "caror (hour name)",
+      "hami (nocturnal hour)"
+    ]
+  },
+  "14,7": {
+    "court_name": "neutral_func_invisibility",
+    "dominant_function": "func_invisibility",
+    "dominant_nature": "neutral",
+    "population": 3,
+    "notable_spirits": [
+      "sotuem",
+      "spiritus equus",
+      "tuveries"
+    ]
+  },
+  "14,8": {
+    "court_name": "neutral_func_invisibility",
+    "dominant_function": "func_invisibility",
+    "dominant_nature": "neutral",
+    "population": 5,
+    "notable_spirits": [
+      "fyriel (also fyriel/mememil/taraor)",
+      "mememil (also melemil)",
+      "mememil (melemil)",
+      "taraor (also tarator)",
+      "taraor (tarator)"
+    ]
+  },
+  "14,12": {
     "court_name": "neutral_func_binding",
     "dominant_function": "func_binding",
     "dominant_nature": "neutral",
@@ -506,534 +1111,13 @@
       "agnus inmaculatus"
     ]
   },
-  "9,0": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 4,
-    "notable_spirits": [
-      "berith",
-      "mirage",
-      "oriens",
-      "curson"
-    ]
-  },
-  "9,1": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 3,
-    "notable_spirits": [
-      "apolin",
-      "lylet",
-      "toth"
-    ]
-  },
-  "9,2": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 5,
-    "notable_spirits": [
-      "belial",
-      "beelzebub",
-      "paimon",
-      "saduel",
-      "vsuel"
-    ]
-  },
-  "9,3": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 1,
-    "notable_spirits": [
-      "raphael"
-    ]
-  },
-  "9,4": {
-    "court_name": "nature_angelic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_angelic",
-    "population": 2,
-    "notable_spirits": [
-      "samael",
-      "barmaly"
-    ]
-  },
-  "9,5": {
-    "court_name": "nature_angelic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_angelic",
-    "population": 5,
-    "notable_spirits": [
-      "anael",
-      "sarquiel",
-      "gaffriel",
-      "naquiel",
-      "sagriel"
-    ]
-  },
-  "9,7": {
-    "court_name": "nature_angelic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_angelic",
-    "population": 1,
-    "notable_spirits": [
-      "sartquiel (satraquel)"
-    ]
-  },
-  "9,8": {
-    "court_name": "nature_angelic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_angelic",
-    "population": 7,
-    "notable_spirits": [
-      "amamnim",
-      "asaame/asaomie/asamye (angelic names)",
-      "bessabes",
-      "cassie",
-      "micheal"
-    ]
-  },
-  "9,10": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 11,
-    "notable_spirits": [
-      "algo (nocturnal hour)",
-      "amamim",
-      "conassuor (nocturnal hour)",
-      "demon (unnamed)",
-      "hactanaabit"
-    ]
-  },
-  "10,0": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 1,
-    "notable_spirits": [
-      "astaroth"
-    ]
-  },
-  "10,1": {
-    "court_name": "nature_demonic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_demonic",
-    "population": 1,
-    "notable_spirits": [
-      "lilith"
-    ]
-  },
-  "10,4": {
-    "court_name": "nature_angelic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_angelic",
-    "population": 8,
-    "notable_spirits": [
-      "angels",
-      "dardiel",
-      "gemi",
-      "metraton",
-      "pacta"
-    ]
-  },
-  "10,6": {
-    "court_name": "nature_angelic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_angelic",
-    "population": 7,
-    "notable_spirits": [
-      "captiel",
-      "mataton",
-      "cafriel",
-      "castuel",
-      "maratron"
-    ]
-  },
-  "10,7": {
-    "court_name": "nature_angelic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_angelic",
-    "population": 3,
-    "notable_spirits": [
-      "satquiel",
-      "astaba",
-      "hertanalit"
-    ]
-  },
-  "10,8": {
-    "court_name": "nature_angelic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_angelic",
-    "population": 1,
-    "notable_spirits": [
-      "captiel = caffriel"
-    ]
-  },
-  "10,10": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "minon"
-    ]
-  },
-  "10,11": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 4,
-    "notable_spirits": [
-      "bel et ebal",
-      "nathalon (hour name)",
-      "svcax",
-      "taob"
-    ]
-  },
-  "10,14": {
-    "court_name": "nature_divine_name_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_divine_name",
-    "population": 31,
-    "notable_spirits": [
-      "eloym",
-      "adaptinor",
-      "adonav (variant of adonay)",
-      "adoray",
-      "adyr"
-    ]
-  },
-  "11,0": {
-    "court_name": "nature_demonic_func_love",
-    "dominant_function": "func_love",
-    "dominant_nature": "nature_demonic",
-    "population": 2,
-    "notable_spirits": [
-      "satan",
-      "gebel"
-    ]
-  },
-  "11,1": {
-    "court_name": "nature_demonic_func_destruction",
-    "dominant_function": "func_destruction",
-    "dominant_nature": "nature_demonic",
-    "population": 8,
-    "notable_spirits": [
-      "suburith",
-      "lyroth",
-      "brimer",
-      "tranauit",
-      "oreoth"
-    ]
-  },
-  "11,2": {
-    "court_name": "nature_demonic_func_destruction",
-    "dominant_function": "func_destruction",
-    "dominant_nature": "nature_demonic",
-    "population": 2,
-    "notable_spirits": [
-      "damayn",
-      "beryen"
-    ]
-  },
-  "11,3": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "sotuem"
-    ]
-  },
-  "11,6": {
-    "court_name": "nature_angelic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_angelic",
-    "population": 3,
-    "notable_spirits": [
-      "aloybain",
-      "hayton",
-      "memmi"
-    ]
-  },
-  "11,8": {
-    "court_name": "nature_angelic_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_angelic",
-    "population": 3,
-    "notable_spirits": [
-      "gabriel",
-      "michael",
-      "analuabith"
-    ]
-  },
-  "11,11": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 2,
-    "notable_spirits": [
-      "symofor",
-      "tamafrn"
-    ]
-  },
-  "12,0": {
-    "court_name": "nature_demonic_func_love",
-    "dominant_function": "func_love",
-    "dominant_nature": "nature_demonic",
-    "population": 14,
-    "notable_spirits": [
-      "luxuriosus",
-      "pumeon",
-      "byreoth",
-      "cupido",
-      "darail"
-    ]
-  },
-  "12,4": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 5,
-    "notable_spirits": [
-      "bartha",
-      "almodab",
-      "saabotes",
-      "saba",
-      "saytam"
-    ]
-  },
-  "12,6": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "sarabores"
-    ]
-  },
-  "12,7": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "venus"
-    ]
-  },
-  "12,10": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 14,
-    "notable_spirits": [
-      "lamair",
-      "tatomofon",
-      "demefin",
-      "oymelor",
-      "faubair"
-    ]
-  },
-  "12,14": {
-    "court_name": "nature_divine_name_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "nature_divine_name",
-    "population": 7,
-    "notable_spirits": [
-      "sadaye",
-      "berion",
-      "cados",
-      "elthie",
-      "ely, eloy, eloe"
-    ]
-  },
-  "13,2": {
-    "court_name": "nature_demonic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_demonic",
-    "population": 10,
-    "notable_spirits": [
-      "molbet",
-      "natheus",
-      "aphaleon",
-      "belsabuct",
-      "berit"
-    ]
-  },
-  "13,4": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 14,
-    "notable_spirits": [
-      "galtim",
-      "saltim",
-      "abarthiel",
-      "andegor",
-      "assandaran"
-    ]
-  },
-  "13,5": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "messias"
-    ]
-  },
-  "13,6": {
-    "court_name": "neutral_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "neutral",
-    "population": 16,
-    "notable_spirits": [
-      "o vsyr",
-      "balthasar",
-      "el",
-      "fyrin",
-      "mathael"
-    ]
-  },
-  "13,11": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 2,
-    "notable_spirits": [
-      "baltim",
-      "caspar, balthasar, melchior"
-    ]
-  },
-  "13,12": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "maraloth"
-    ]
-  },
-  "14,0": {
-    "court_name": "nature_demonic_func_protection",
-    "dominant_function": "func_protection",
-    "dominant_nature": "nature_demonic",
-    "population": 18,
-    "notable_spirits": [
-      "dyspil",
-      "onoroy",
-      "brunlo",
-      "cotroy",
-      "despan"
-    ]
-  },
-  "14,2": {
-    "court_name": "nature_demonic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_demonic",
-    "population": 18,
-    "notable_spirits": [
-      "lytim",
-      "belzebuc",
-      "sententino",
-      "superbus",
-      "afalion"
-    ]
-  },
-  "14,3": {
-    "court_name": "nature_demonic_mixed",
-    "dominant_function": "mixed",
-    "dominant_nature": "nature_demonic",
-    "population": 1,
-    "notable_spirits": [
-      "avarus"
-    ]
-  },
-  "14,5": {
-    "court_name": "neutral_func_divination",
-    "dominant_function": "func_divination",
-    "dominant_nature": "neutral",
-    "population": 7,
-    "notable_spirits": [
-      "athanatos",
-      "floron",
-      "leo",
-      "semiforas",
-      "fons"
-    ]
-  },
-  "14,7": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 1,
-    "notable_spirits": [
-      "vsyr"
-    ]
-  },
-  "14,8": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 14,
-    "notable_spirits": [
-      "oor",
-      "tami",
-      "ym",
-      "zanno",
-      "cutroy"
-    ]
-  },
-  "14,10": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 3,
-    "notable_spirits": [
-      "bireoth",
-      "dorayl",
-      "midain"
-    ]
-  },
-  "14,11": {
-    "court_name": "neutral_func_binding",
-    "dominant_function": "func_binding",
-    "dominant_nature": "neutral",
-    "population": 17,
-    "notable_spirits": [
-      "lamisniel",
-      "abraham",
-      "aroch",
-      "elam",
-      "feremin"
-    ]
-  },
-  "14,13": {
-    "court_name": "nature_divine_name_func_divination",
-    "dominant_function": "func_divination",
-    "dominant_nature": "nature_divine_name",
-    "population": 3,
-    "notable_spirits": [
-      "sother",
-      "elyon",
-      "sabboth"
-    ]
-  },
   "14,14": {
-    "court_name": "nature_divine_name_func_divination",
-    "dominant_function": "func_divination",
-    "dominant_nature": "nature_divine_name",
-    "population": 19,
+    "court_name": "neutral_func_binding",
+    "dominant_function": "func_binding",
+    "dominant_nature": "neutral",
+    "population": 1,
     "notable_spirits": [
-      "tetragrammaton",
-      "adonay",
-      "emmanuel",
-      "alpha et o",
-      "sabaoth"
+      "analuabith"
     ]
   }
 }

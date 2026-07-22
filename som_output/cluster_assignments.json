@@ -1,839 +1,38 @@
 {
   "0,0": {
-    "count": 8,
+    "count": 20,
     "spirits": [
-      "cartutay",
-      "folfitoy",
-      "geteritacon",
-      "mansator",
-      "momabel",
-      "pimaton",
-      "puzanil",
-      "sobil"
+      "tetragrammaton",
+      "adonay",
+      "emmanuel",
+      "alpha et o",
+      "sabaoth",
+      "agla",
+      "on",
+      "eloy",
+      "basyon",
+      "dobel",
+      "domiel",
+      "moreth",
+      "perarabiel",
+      "rodobel",
+      "sadabin",
+      "sadaye",
+      "semoni",
+      "siloth",
+      "vriel",
+      "vsobel"
     ]
   },
   "0,2": {
-    "count": 22,
-    "spirits": [
-      "acuta",
-      "afah",
-      "atal",
-      "audena",
-      "bal",
-      "cafia",
-      "cafra",
-      "cal",
-      "col",
-      "coltasia",
-      "cul",
-      "etal",
-      "falduc",
-      "fustaul",
-      "gaulyar",
-      "guabrath",
-      "layalym",
-      "matha",
-      "mathail",
-      "mathiel",
-      "parclena",
-      "tartarath"
-    ]
-  },
-  "0,4": {
-    "count": 1,
-    "spirits": [
-      "guardian angel"
-    ]
-  },
-  "0,7": {
-    "count": 2,
-    "spirits": [
-      "jupiter",
-      "sun"
-    ]
-  },
-  "0,9": {
-    "count": 2,
-    "spirits": [
-      "mercury",
-      "moon"
-    ]
-  },
-  "0,11": {
-    "count": 436,
-    "spirits": [
-      "abat",
-      "abays",
-      "abdenago",
-      "aboumaleth",
-      "abouzaba",
-      "abuzoba",
-      "abymalib",
-      "abyron",
-      "adonav",
-      "aepton",
-      "aflas",
-      "afonei",
-      "aforax",
-      "agroueros (agrus)",
-      "aguel",
-      "albunalich",
-      "algo",
-      "alleluia",
-      "aloe",
-      "alpha",
-      "alrogen",
-      "althes, cormes, dies, diles, dilia, fabar, felsmes, mithiomo, molbet, natheus, onaris, pist, progemon, thobar, vmon, vralchim",
-      "altramat, archidemath, discobermath, fritath, hegergibet, helyberp, pestiferat, sona",
-      "alul",
-      "amabihel",
-      "an",
-      "anabona",
-      "anathematon",
-      "andyron",
-      "aneth",
-      "angel to solomon",
-      "annedoti",
-      "apollion",
-      "apollion, arath, astra, damay, erlain, gana, gebel, lamair, oor, safrit, tami, taraor, tatomofon, thomo, ym, zanno/zaimo",
-      "apologia",
-      "apolyn",
-      "aquatic spirits",
-      "aquelyo",
-      "arath",
-      "arcan",
-      "archangels (gabriel, michael, raphael)",
-      "arpa",
-      "asaïbi",
-      "asef caroth",
-      "assassayel",
-      "athitael",
-      "atle",
-      "atyn",
-      "aurora",
-      "austeron",
-      "ayos",
-      "azelechias, velozeos, inoanzama, samelo, hotens, sagnath, adonay, soma, jezoehos, hicon, jezomethon, sadaot",
-      "azraro",
-      "baal",
-      "baal peor",
-      "babaia",
-      "bacchus (ce bacche/broum)",
-      "balidet",
-      "balthim",
-      "baraa",
-      "baramel",
-      "baruth",
-      "basal",
-      "baysyn",
-      "beaali",
-      "beas",
-      "beel",
-      "belus",
-      "belzebub, berith, castiel, lucifer, mirael, paymon",
-      "belzebut",
-      "benign spirits",
-      "beolthoray",
-      "berabut",
-      "bercca",
-      "beror",
-      "beruth (covenant)",
-      "bezat",
-      "bilta niprut / belit nipru",
-      "bilu nipru / bel nimrod",
-      "boreal",
-      "boreoth",
-      "branar",
-      "bresis",
-      "britonia",
-      "buddha (as mercury/thoth)",
-      "buddha (as tath/tat)",
-      "buddha (sakya muni)",
-      "burnon",
-      "bylent",
-      "bylol",
-      "caffan",
-      "caltrua",
-      "cambores",
-      "cannes (annedotus)",
-      "caon",
-      "carab, riasteli, careb, basal, mistal, oronothel, fabanin, non, va, vatuel",
-      "carbara",
-      "careb",
-      "caritas",
-      "caror",
-      "cead",
-      "cedon",
-      "cerbelli",
-      "chide",
-      "christus",
-      "chrysor",
-      "conadiuro famal",
-      "conassuor",
-      "crasis",
-      "cronus (saturn, elder)",
-      "cronus/saturn",
-      "cundaz",
-      "dagon",
-      "dalaph",
-      "dalas",
-      "dalfat",
-      "damay",
-      "dana",
-      "danoe",
-      "dasper",
-      "dath",
-      "dator et receptor",
-      "dea myrionymus",
-      "deihel",
-      "demefin, rodobayl, tamafin, abelutabel",
-      "derketo",
-      "deseryon",
-      "devil / satan / enemy",
-      "diana of the ephesians",
-      "dii manes",
-      "diton",
-      "draco",
-      "dyacon",
-      "ebely",
-      "egippia",
-      "egippia, benoham, beanke",
-      "ego sum qui sum",
-      "egyryon",
-      "elioun (hypsistus)",
-      "eliphamasay",
-      "elomnia",
-      "elov",
-      "eloy / eloyye",
-      "eloyay",
-      "elyas",
-      "epigeus (autocthon, ouranos)",
-      "erystion",
-      "eternitas",
-      "eternus creator et redemptor",
-      "eureal",
-      "evil spirit",
-      "evil spirits",
-      "eyzaserie",
-      "ezamamos, hazalat, ezityne, hezemechel, czemomechel, zamay, zaton, ziamy nayzaton, hyzemogoy, jeccomantha, jaraphy, phalezeton, sacramphal, sagamazaim, secranale, sacramathan, jezennalaton hacheriatos, jetelemathon, zaymazay, zamaihay gigutheio geurlagon, garyos",
-      "ezelphates",
-      "fabanin",
-      "fabin",
-      "fastich",
-      "fauelyon",
-      "ficary",
-      "flegely",
-      "flos",
-      "fords et paciens",
-      "fornicator, tempter, seducer, possessor of humans",
-      "frigonay",
-      "g l a",
-      "galtym",
-      "gana",
-      "garbamion",
-      "garglale",
-      "garoen",
-      "ge (terra)",
-      "gebelsey",
-      "gedo bonay",
-      "gehim",
-      "gelomiros",
-      "gemeloy",
-      "geneolia",
-      "geremon",
-      "gerotal",
-      "gespar",
-      "gezemothon, oronathian, heyatha, aygyay, lethasihel, iaechizliet, gerohay, gerhomay, sanoaesorel, sanasathel, gissiomo, hatel, segomasay, azomathon, helomathon, gerochor, hojazay, samin, heliel, sanihelyel, siloth, silerech, garamathal, gesemath, gecoromay, gecorenay, samyel, samihahel, hesemyhel, sedolamax, secothamay, samya, rabiathos, avinosch, annas",
-      "gezomelion samach, semath, cemon, gezagam, gezatrhin, zheamoth, zeze hator sezeator samay sannanda, gezyel, iezel, gaziety, hel, gazayethyhel",
-      "gloria",
-      "guitipabey",
-      "guth",
-      "gysay",
-      "ha",
-      "haat",
-      "ham/ammon",
-      "hami",
-      "hanael",
-      "hanazay, sazhaon, hubi, sene, hay, ginbar, ronail, selmore, hyramay, lobal, yzazamael, amathomatois, yaboageyors, sozomcrat, ampho, delmedos, geroch, agalos, meihatagiel, secamai, sabeleton, mechogrisces, lerirenorbon",
-      "har",
-      "harit",
-      "hasas",
-      "hassas",
-      "hate",
-      "haybaly",
-      "hea",
-      "hesa (hesus)",
-      "ho ōn",
-      "hoaz",
-      "holy spirit (spiritus sanctus)",
-      "horus",
-      "hu (celtic god)",
-      "hurathapel",
-      "hyon",
-      "hypsuranius",
-      "icibores (speaker in conjuration)",
-      "ihesus christus",
-      "immortalis",
-      "infernal spirits",
-      "isis",
-      "istath",
-      "istath, hoaz, abays, fastich",
-      "iustus iudex in vldmo die",
-      "jany",
-      "jaspar",
-      "jesus nazarenus",
-      "karon",
-      "kasiel",
-      "kyrie",
-      "lamair, tentetos, leutaber, rimasor",
-      "lantrayth / lautrayth / lutrayth",
-      "lapis angularis",
-      "latol",
-      "lemogethom, hegemochom, hazachay hazatha, azamachar, azacham, cohathay, geomothay logomothay, zathana, lachanma, legomezon, legornozon, lembdemachom, zegomaday, haihanayos, hatamam, helesymom, vagedaren, vadeyabar, lamnanath, lamadai, gomongchor, gemecher, ellemay, gecromal, gecrohahi, colomanos, colomaythos",
-      "leo de triba juda (lion of judah)",
-      "leorphahel",
-      "leron",
-      "lex",
-      "luamay",
-      "lux",
-      "machotan",
-      "maimon",
-      "malaparos",
-      "malchaam",
-      "malign demons",
-      "malign spirits",
-      "maloht",
-      "manith",
-      "mariodo",
-      "mars",
-      "masair, lotobor, tatomofon, sirama",
-      "mastiesel",
-      "melyon",
-      "mendie",
-      "messias / messyas",
-      "mextyura",
-      "miel",
-      "milalu",
-      "misabou",
-      "misac",
-      "misericors",
-      "mistal",
-      "moloch",
-      "moyn",
-      "naamay",
-      "naaya",
-      "nafaca",
-      "nassura",
-      "nathalon",
-      "natho",
-      "nectius",
-      "neon",
-      "nephilim prince of egypt and babylon",
-      "nin",
-      "nogahel (nogahem)",
-      "non",
-      "notooa",
-      "oliromim / oliroomim",
-      "omnipotens",
-      "onel, on, adonay, emanuel",
-      "onela",
-      "orion (mythological)",
-      "oronothel",
-      "ouis",
-      "ourouel",
-      "ovis",
-      "oymelor, symofos, manoir, faubair",
-      "pahamcociel",
-      "paluo",
-      "panite",
-      "panthon",
-      "pantocrathon",
-      "parli",
-      "pastor",
-      "patheon",
-      "pedyoth",
-      "phlegyae",
-      "powerful, magnificent, and illustrious spirits",
-      "primachia",
-      "primus et nouissimus",
-      "principium / primogenitus",
-      "progeneri, mutimo, possunt, thomopest, vtany, votanes, filij, fibos, fibet, baruth, sachith, propiietas, voltam, panyte, farum, cubarum, crutines, tyrygel, dyrus, formys, fembusalk, berith, sathanas",
-      "propheta",
-      "raagor",
-      "ralaz",
-      "rama",
-      "raphael / anael / michael / gabriel",
-      "raquiel",
-      "raziel",
-      "red bridle horse",
-      "regale",
-      "rephaim",
-      "rephaim / zuzim",
-      "rex",
-      "riasteli",
-      "rosahal",
-      "rotunda",
-      "saarlaquia",
-      "sabolaay",
-      "sacerdos",
-      "sadadat",
-      "sadoy / saday",
-      "safaten",
-      "safrit",
-      "sala",
-      "salaij",
-      "salguiel",
-      "salvator",
-      "samaym",
-      "samiel",
-      "samyel",
-      "sanctus deus",
-      "sanete",
-      "sapiencia",
-      "sapientia",
-      "sappa",
-      "saramey",
-      "saranana",
-      "sarastan",
-      "saripiel",
-      "saroten",
-      "sassa",
-      "satan (sathan)",
-      "sathanos",
-      "sathquyel",
-      "satiel",
-      "sebegyol",
-      "sebely",
-      "sefa",
-      "segeuratetho",
-      "semegibetelye",
-      "semiforas (shem ham-m’forash)",
-      "semiramis (rhea)",
-      "sepmelamaton",
-      "serbaton",
-      "serpent",
-      "setgaboy",
-      "siego",
-      "sinner-attending spirits",
-      "sithothith",
-      "siva",
-      "smoagel",
-      "sol",
-      "sothei",
-      "spirit (unnamed horseman)",
-      "spirit of divination (python)",
-      "spirits",
-      "spirits of fire",
-      "spirits of the air",
-      "spirits of the dead",
-      "spirits who provide magic ship",
-      "spitalote",
-      "splendor",
-      "sponsus",
-      "squire spirits",
-      "st. john the evangelist",
-      "st. mary",
-      "stelpha",
-      "stigisl",
-      "stirps dauid (root of david)",
-      "stygeloy",
-      "subseloy",
-      "sun god",
-      "sydrac",
-      "sypro",
-      "syy",
-      "tafat",
-      "talius",
-      "tamhut",
-      "tariel",
-      "tereoth",
-      "termines",
-      "terrestrial and infernal spirits",
-      "teutates",
-      "theon, haltanagon, haramalon, zamoyma, chamasal, jeconamril, harionatar, jechomagol, gela magos, kemolihot, kamanatar, hariomolatar, hanaces, velonionathar, azoroy, jezabali",
-      "thomo",
-      "thoth (hermes)",
-      "titans",
-      "tomitat",
-      "trinitas sancta",
-      "tubairum",
-      "tyaurax",
-      "tyboel",
-      "tymelyy",
-      "uralchim",
-      "uriel, raguel, seraqael, haniel",
-      "va",
-      "vabros",
-      "vasas",
-      "vatuel",
-      "via",
-      "virgin mary (feast of the assumption)",
-      "visio",
-      "vsy / vsyion",
-      "vzmyas",
-      "water-dwellers",
-      "wiez",
-      "wodan (mexican deity)",
-      "yamhor",
-      "yan",
-      "yaneaa",
-      "yegeron",
-      "yemat",
-      "ygrim",
-      "ymago",
-      "ymas",
-      "ypation",
-      "yschyros",
-      "ysos",
-      "ysyornus",
-      "ytelteos",
-      "yturaihel",
-      "yve",
-      "yvex",
-      "zaia",
-      "zenit",
-      "zephata",
-      "zephirim",
-      "zerbanit",
-      "zobha",
-      "zoroaster (chaldean)",
-      "zymens"
-    ]
-  },
-  "0,13": {
-    "count": 11,
-    "spirits": [
-      "azariel",
-      "cama (kham/ham)",
-      "caramel",
-      "gama",
-      "hanahel",
-      "madam",
-      "malthayl",
-      "parsail",
-      "porbayl",
-      "seralabelis",
-      "zaraimayl"
-    ]
-  },
-  "1,3": {
-    "count": 10,
-    "spirits": [
-      "bodhisattvas",
-      "devil (diaboli)",
-      "nectius (nocturnal hour)",
-      "palicos",
-      "pila",
-      "pytalas",
-      "raccedi",
-      "samahel",
-      "spirits of saturn",
-      "typhon"
-    ]
-  },
-  "1,5": {
-    "count": 5,
-    "spirits": [
-      "fyriel (also fyriel/mememil/taraor)",
-      "mememil (also melemil)",
-      "mememil (melemil)",
-      "taraor (also tarator)",
-      "taraor (tarator)"
-    ]
-  },
-  "2,0": {
-    "count": 4,
-    "spirits": [
-      "fyron",
-      "mascifin",
-      "cartutay, momabel, sobil, geteritacon",
-      "puzanil, pimaton, folfitoy, mansator"
-    ]
-  },
-  "2,2": {
-    "count": 7,
-    "spirits": [
-      "iammax",
-      "ocel",
-      "apo lyn (apolyon)",
-      "doune murderers",
-      "fulmar",
-      "lilith (also lilit / lylet)",
-      "tvroces"
-    ]
-  },
-  "2,3": {
-    "count": 1,
-    "spirits": [
-      "osiris"
-    ]
-  },
-  "2,7": {
-    "count": 18,
-    "spirits": [
-      "byreoth (bireoth)",
-      "darail (dorayl)",
-      "denior",
-      "dor",
-      "dyacom (dyacon)",
-      "fabni (fabin)",
-      "gebep (gebel)",
-      "litor onor",
-      "lytoy",
-      "midam (midain)",
-      "peripaos (peripaos)",
-      "pumiotor",
-      "ristel",
-      "silitol",
-      "tamy",
-      "terminas (termines)",
-      "thereoth (tereoth)",
-      "vmeloth (umeloth)"
-    ]
-  },
-  "2,11": {
-    "count": 41,
-    "spirits": [
-      "cherubim",
-      "seraphim",
-      "holy spirit",
-      "agnus",
-      "archangels",
-      "aries",
-      "baxhatau",
-      "bileth",
-      "boel",
-      "caphael",
-      "dominations",
-      "eleyson",
-      "euiraber",
-      "filius",
-      "finis",
-      "ianua",
-      "malafer",
-      "mediator",
-      "mulcifer",
-      "nimrod",
-      "oannes",
-      "os",
-      "pater",
-      "powers",
-      "primogenitus",
-      "principalities",
-      "principium et finis",
-      "pythoness",
-      "saday",
-      "serpens",
-      "spiritus sanctus",
-      "tammuz",
-      "thrones",
-      "trocornifer",
-      "verbum",
-      "veritas",
-      "virtues",
-      "virtus",
-      "vita",
-      "vitulus",
-      "zaimo"
-    ]
-  },
-  "2,13": {
-    "count": 2,
-    "spirits": [
-      "chrysor (hephaestus)",
-      "seth (egyptian god)"
-    ]
-  },
-  "2,14": {
-    "count": 26,
-    "spirits": [
-      "angel of the lord",
-      "four angels",
-      "haram",
-      "messyas",
-      "pancraton",
-      "soter",
-      "yschiros",
-      "abiniabyndo, abyncola, abracalos, pyel, thyel, syel",
-      "agyos",
-      "alpha et o / alpha et o",
-      "amicicia names (malthayl, caramel, etc.)",
-      "angel",
-      "bezlebuth",
-      "caron (nocturnal hour)",
-      "elyon / elyo / eloye",
-      "fortis",
-      "hermes/thoth",
-      "holy angels",
-      "ioseph",
-      "kirios",
-      "lune (moon) names (lyara, lyalguana, etc.)",
-      "mychael",
-      "occinomos",
-      "salaij (nocturnal hour)",
-      "sapiencia / virtus",
-      "taautus (thoth/hermes)"
-    ]
-  },
-  "3,0": {
-    "count": 58,
-    "spirits": [
-      "althes",
-      "bicol",
-      "cormes",
-      "danmals",
-      "dies",
-      "diles",
-      "dilia",
-      "fabar",
-      "felsmes",
-      "feremni",
-      "gromon",
-      "iszarin",
-      "lantrayth",
-      "latranoy",
-      "meneglasar",
-      "mithiomo",
-      "oliromim",
-      "onaris",
-      "pist",
-      "progemon",
-      "ralkal",
-      "samah",
-      "semiramis",
-      "sigtonia",
-      "thobar",
-      "vmon",
-      "zara",
-      "anleyuz",
-      "apollon",
-      "beheydraz",
-      "berien",
-      "beryen (also berien)",
-      "castyel",
-      "daimonia / devils",
-      "damayn (also damay/damayrt)",
-      "demon summoned by the spanish magician",
-      "emogeni, thomo, gyton, sertugidis, jubutzis",
-      "hateful and malignant, invidious and discordant demons",
-      "king (spirit form)",
-      "mambres",
-      "manitaynus",
-      "maraloch",
-      "mascifm",
-      "master spirit (unspecified name)",
-      "matalot",
-      "midam",
-      "neyilon",
-      "osendior",
-      "prince of demons",
-      "rator, lampoy, despan, brulo, dronoth, maloqui, satola, gelbid, mascifin, nartim, lodoni",
-      "satan / sathan",
-      "satan/sathan",
-      "sathan, belzebub, astaroth, berith, azraro, rotunda",
-      "seirim",
-      "spirit in horseman form",
-      "tranauit (also tranayrt/tramayrt)",
-      "vralchim",
-      "zambrim et mambrim"
-    ]
-  },
-  "3,4": {
     "count": 3,
     "spirits": [
-      "labadau",
-      "baltim, galtim, saltim",
-      "duces"
+      "sother",
+      "elyon",
+      "sabboth"
     ]
   },
-  "3,6": {
-    "count": 35,
-    "spirits": [
-      "abat (hour name)",
-      "atyn (nocturnal hour)",
-      "bethala, pamelon, anguis, floris, ereth, alya, cabyona, ely, eloy, sadamay, melgry, asmyacre",
-      "caltraa (nocturnal hour)",
-      "carab",
-      "caror (hour name)",
-      "cedon, zephata, eloym, eloyay",
-      "eight sailors",
-      "familiar spirits",
-      "filius dyabuli",
-      "hami (nocturnal hour)",
-      "hyon (hour name)",
-      "incubus and succubus",
-      "karon (hour name)",
-      "latol (nocturnal hour)",
-      "lautrayth (also lutrayth)",
-      "leron (nocturnal hour)",
-      "madrath, filius arath",
-      "magister",
-      "magister omnium scienciarum",
-      "martyres",
-      "master (spirit)",
-      "nassura (hour name)",
-      "nomen discipuli",
-      "nomen magistri",
-      "prince of evil",
-      "sanctae virgines",
-      "sancti dei",
-      "sancti virgines",
-      "tafat (nocturnal hour)",
-      "tamhut (hour name)",
-      "tariel (hour name)",
-      "teotl (mexican deity)",
-      "yan (hour name)",
-      "zaia (nocturnal hour)"
-    ]
-  },
-  "3,9": {
-    "count": 5,
-    "spirits": [
-      "cafziel",
-      "michrathon",
-      "amamni",
-      "atlas",
-      "bohel"
-    ]
-  },
-  "4,2": {
-    "count": 3,
-    "spirits": [
-      "ghemschid / djemschid",
-      "possessor hominum",
-      "serpent god / satan"
-    ]
-  },
-  "4,4": {
-    "count": 18,
-    "spirits": [
-      "maymon",
-      "abaa",
-      "formione",
-      "harthan",
-      "sarabocres",
-      "asmodeus",
-      "corniger",
-      "baytan",
-      "caatus",
-      "candas",
-      "king of the clouds",
-      "king of the east",
-      "madrath filius arath",
-      "rex filius dyabuld",
-      "three maximi reges",
-      "vambal",
-      "yama",
-      "yammax"
-    ]
-  },
-  "4,6": {
-    "count": 1,
-    "spirits": [
-      "spiritus equus"
-    ]
-  },
-  "4,13": {
+  "0,3": {
     "count": 32,
     "spirits": [
       "alatuel",
@@ -870,38 +69,143 @@
       "ymas / ymas"
     ]
   },
-  "5,0": {
-    "count": 5,
-    "spirits": [
-      "balbieit, zelans, zelles, dimedero, cadar",
-      "black man (demon form)",
-      "mirus (mirael)",
-      "princes of the hand",
-      "princes of the thumb/nail"
-    ]
-  },
-  "5,5": {
+  "0,5": {
     "count": 1,
     "spirits": [
-      "barthan"
+      "asmoday"
     ]
   },
-  "5,9": {
-    "count": 8,
+  "0,6": {
+    "count": 6,
     "spirits": [
-      "im (ym)",
-      "leutaber (zeugaber)",
-      "memoyr (memoir)",
-      "rodobayl (rodobail)",
-      "selutabel (belutabel)",
-      "simofor",
-      "symofor (simofor)",
-      "syrama (sirama)"
+      "hanni",
+      "alugor",
+      "volach",
+      "barbaras",
+      "cvrson",
+      "spiritus qui portet michi aurum et argentum denarios"
     ]
   },
-  "5,11": {
-    "count": 9,
+  "0,7": {
+    "count": 3,
     "spirits": [
+      "mirage",
+      "oriens",
+      "gaeneron"
+    ]
+  },
+  "0,8": {
+    "count": 2,
+    "spirits": [
+      "astaroth",
+      "berith"
+    ]
+  },
+  "0,9": {
+    "count": 5,
+    "spirits": [
+      "satan",
+      "belial",
+      "paimon",
+      "taraor",
+      "melemil"
+    ]
+  },
+  "0,10": {
+    "count": 1,
+    "spirits": [
+      "gebel"
+    ]
+  },
+  "0,11": {
+    "count": 10,
+    "spirits": [
+      "oreoth",
+      "pinen",
+      "tryboy",
+      "tereol",
+      "ocel",
+      "apo lyn (apolyon)",
+      "doune murderers",
+      "fulmar",
+      "oreoth, pinen, ocel, tryboy, noryoth, belferith, camoy, astaroth, sobronoy, sismael",
+      "tvroces"
+    ]
+  },
+  "0,12": {
+    "count": 1,
+    "spirits": [
+      "iammax"
+    ]
+  },
+  "0,14": {
+    "count": 22,
+    "spirits": [
+      "dyspil",
+      "onoroy",
+      "brunlo",
+      "cotroy",
+      "despan",
+      "dronoth",
+      "gelbid",
+      "lampoy",
+      "lodoni",
+      "maloqui",
+      "nartim",
+      "olam",
+      "orooth",
+      "rator",
+      "rimel",
+      "satola",
+      "sysabel",
+      "tyroy",
+      "cartutay, momabel, sobil, geteritacon",
+      "fyron",
+      "mascifin",
+      "puzanil, pimaton, folfitoy, mansator"
+    ]
+  },
+  "1,0": {
+    "count": 6,
+    "spirits": [
+      "berion",
+      "cados",
+      "elthie",
+      "ely, eloy, eloe",
+      "haya",
+      "naamay, syy"
+    ]
+  },
+  "1,6": {
+    "count": 4,
+    "spirits": [
+      "cason",
+      "otius",
+      "spiritus promptus et ydoneum in omni sciencia",
+      "twueries"
+    ]
+  },
+  "1,8": {
+    "count": 3,
+    "spirits": [
+      "apolin",
+      "maraloth",
+      "toth"
+    ]
+  },
+  "1,11": {
+    "count": 4,
+    "spirits": [
+      "suburith",
+      "lyroth",
+      "brimer",
+      "tranauit"
+    ]
+  },
+  "2,2": {
+    "count": 10,
+    "spirits": [
+      "messias",
       "adonay (in circle formula)",
       "barian (divine name)",
       "deus inuisibilis",
@@ -913,23 +217,64 @@
       "ynissamon (divine name)"
     ]
   },
-  "6,0": {
-    "count": 2,
+  "2,5": {
+    "count": 1,
     "spirits": [
+      "firiel"
+    ]
+  },
+  "2,7": {
+    "count": 5,
+    "spirits": [
+      "astra",
+      "cebal",
+      "el, eloy, elyon, aloe, sappa, sother, emanuel, tetragramaton, saday, luamay, athanatos, ysos, kyrie, primogenitus, vita, finis, via, flos, fons, veritas, sapiencia, virtus, paraclitus, ego sum qui sum, mediator, agnus, ouis, vitulus, serpens, aries, leo, os, verbum, ianua, ymago, gloria, lux, sol, splendor, lapis angularis, sponsus, pastor, propheta, sacerdos, immortalis, lex, rex, christus, pater, filius, spiritus sanctus, agla, petra, eternitas, neon, burnon, parli, caon, aepton, alpha et o, omnipotens, misericors, caritas, eternus creator et redemptor, primus et nouissimus, dator et receptor, ayos, otheos, yschyros, sanctus deus, fortis et paciens, iustus iudex in vltimo die",
+      "ihesus nazarenus",
+      "pneumaton"
+    ]
+  },
+  "2,8": {
+    "count": 3,
+    "spirits": [
+      "lylet",
       "exercitus infernalis",
       "maligni spiritus"
     ]
   },
-  "6,2": {
-    "count": 23,
+  "2,9": {
+    "count": 1,
+    "spirits": [
+      "curson"
+    ]
+  },
+  "2,10": {
+    "count": 1,
+    "spirits": [
+      "lilith (also lilit / lylet)"
+    ]
+  },
+  "2,12": {
+    "count": 2,
+    "spirits": [
+      "damayn",
+      "beryen"
+    ]
+  },
+  "3,4": {
+    "count": 28,
     "spirits": [
       "sona",
       "altramat",
       "archidemath",
+      "badalam",
+      "bel",
+      "caspar",
+      "ebal",
       "fritath",
       "hegergibet",
       "helyberp",
       "pestiferat",
+      "sobedon",
       "abgo, safrit, bos, zelentes, vm, vom, motmyo, thitodens, gemitias, gana, vresius, pharachte, foliath, gebath, dyrus, virus, vnyrus, peamde, febat, gebat, tyros, vijas, nubar, azathi",
       "abgoth, sanfrielis, selentis, vniueny, vtimo, geremittarum, dydones, rayma, rofanes, panyte, fabath, gallath, dyrus, fyrus, virytus, finibet, arath",
       "amaris",
@@ -948,72 +293,499 @@
       "vmon, progemon, mithiomo, pist, vralchim, althes, panite, fabar, thobar, cormes, felsmes, diles, dilia, dies, onaris"
     ]
   },
-  "6,3": {
-    "count": 2,
+  "3,9": {
+    "count": 7,
     "spirits": [
+      "lilith",
+      "avarus",
+      "balbieit, zelans, zelles, dimedero, cadar",
+      "black man (demon form)",
+      "mirus (mirael)",
+      "princes of the hand",
+      "princes of the thumb/nail"
+    ]
+  },
+  "3,11": {
+    "count": 1,
+    "spirits": [
+      "satan/sathan"
+    ]
+  },
+  "3,12": {
+    "count": 4,
+    "spirits": [
+      "lytim",
+      "the_devil/sathan",
+      "belzebuc",
+      "superbus"
+    ]
+  },
+  "3,14": {
+    "count": 13,
+    "spirits": [
+      "luxuriosus",
+      "pumeon",
+      "byreoth",
+      "cupido",
+      "darail",
+      "dyacom",
+      "fabni",
+      "peripaos",
+      "reuces",
+      "terminas",
+      "thereoth",
+      "tubal",
+      "vmeloth"
+    ]
+  },
+  "4,0": {
+    "count": 25,
+    "spirits": [
+      "eloym",
+      "adaptinor",
+      "adoray",
+      "adyr",
+      "agnibora",
+      "albilfael",
+      "alssylayessus",
+      "anagodyny",
+      "anazana",
+      "athym",
+      "cithe",
+      "dymas",
+      "eloe",
+      "elsyday",
+      "fiel",
+      "gna",
+      "hyaalym",
+      "ignaborum",
+      "osatietas",
+      "sabath",
+      "salodaya",
+      "sereaye",
+      "tasagaf",
+      "yada",
+      "yaffla"
+    ]
+  },
+  "4,1": {
+    "count": 6,
+    "spirits": [
+      "adonav (variant of adonay)",
+      "cados (variant of kadosh)",
+      "eloy (variant of elohim)",
+      "sadav (variant of saday)",
+      "yhah (yhwh-related)",
+      "yhwh-related names (eye, yhaa, etc.)"
+    ]
+  },
+  "4,2": {
+    "count": 1,
+    "spirits": [
+      "aa, ely, sother, adonay, cel, sabaoth, messyas, alazabra, osian"
+    ]
+  },
+  "4,3": {
+    "count": 4,
+    "spirits": [
+      "saduel",
+      "vsuel",
       "mambrim",
       "zambrim"
     ]
   },
-  "6,6": {
-    "count": 3,
+  "4,4": {
+    "count": 6,
     "spirits": [
-      "ayos / theos",
-      "exercitus celestis",
-      "spiritualis paraclitus"
+      "asyel",
+      "discobermath",
+      "erlain",
+      "belam",
+      "rabam",
+      "lamsiyel"
     ]
   },
-  "6,9": {
+  "4,6": {
+    "count": 27,
+    "spirits": [
+      "athanatos",
+      "leo",
+      "angel of the lord",
+      "bezlebuth",
+      "fons",
+      "four angels",
+      "messyas",
+      "otheos",
+      "pancraton",
+      "petra",
+      "soter",
+      "yschiros",
+      "agyos",
+      "alpha et o / alpha et o",
+      "amicicia names (malthayl, caramel, etc.)",
+      "angel",
+      "elyon / elyo / eloye",
+      "fortis",
+      "god the son (jesus christ)",
+      "hermes/thoth",
+      "holy angels",
+      "ioseph",
+      "kirios",
+      "lune (moon) names (lyara, lyalguana, etc.)",
+      "occinomos",
+      "sapiencia / virtus",
+      "taautus (thoth/hermes)"
+    ]
+  },
+  "4,7": {
+    "count": 6,
+    "spirits": [
+      "floron",
+      "haram",
+      "semiforas",
+      "abiniabyndo, abyncola, abracalos, pyel, thyel, syel",
+      "caron (nocturnal hour)",
+      "salaij (nocturnal hour)"
+    ]
+  },
+  "4,8": {
     "count": 1,
     "spirits": [
-      "fifteen spirits"
+      "holy spirit"
     ]
   },
-  "6,14": {
+  "4,12": {
+    "count": 42,
+    "spirits": [
+      "sententino",
+      "afalion",
+      "althes",
+      "barbectus",
+      "belferith",
+      "bicol",
+      "camoy",
+      "cormes",
+      "danmals",
+      "dies",
+      "diles",
+      "dilia",
+      "duliatus",
+      "fabar",
+      "falmar",
+      "felsmes",
+      "feremni",
+      "gromon",
+      "iszarin",
+      "lantrayth",
+      "latranoy",
+      "meneglasar",
+      "mithiomo",
+      "noryoth",
+      "o brimer",
+      "oliromim",
+      "onaris",
+      "otel",
+      "pist",
+      "pluto",
+      "progemon",
+      "ralkal",
+      "rator, lampoy, despan, brulo, dronoth, maloqui, satola, gelbid, mascifin, nartim, lodoni",
+      "samah",
+      "semiramis",
+      "sigtonia",
+      "sismael",
+      "sobronoy",
+      "thobar",
+      "tyroces",
+      "vmon",
+      "zara"
+    ]
+  },
+  "4,14": {
     "count": 1,
     "spirits": [
-      "asmoday"
+      "zagam"
     ]
   },
-  "7,4": {
-    "count": 3,
+  "5,3": {
+    "count": 4,
     "spirits": [
-      "daimonia",
-      "nephilim",
+      "beelzebub",
+      "castiel",
+      "mirael",
       "shoeth / hebatit / het / agla / jocht / othot / vanecht / nabuthi"
     ]
   },
-  "7,7": {
-    "count": 42,
+  "5,6": {
+    "count": 1,
     "spirits": [
-      "paraclitus",
-      "uriel",
-      "casziel",
-      "hocrohel",
-      "yayn",
+      "mychael"
+    ]
+  },
+  "5,8": {
+    "count": 4,
+    "spirits": [
+      "ayos / theos",
+      "exercitus celestis",
+      "michael, gabriel and raphael",
+      "spiritualis paraclitus"
+    ]
+  },
+  "5,9": {
+    "count": 1,
+    "spirits": [
+      "nephilim"
+    ]
+  },
+  "5,11": {
+    "count": 30,
+    "spirits": [
+      "anleyuz",
+      "apollon",
+      "beheydraz",
+      "berien",
+      "beryen (also berien)",
+      "castyel",
+      "daimonia / devils",
+      "damayn (also damay/damayrt)",
+      "demon summoned by the spanish magician",
+      "devils and spirits",
+      "emogeni, thomo, gyton, sertugidis, jubutzis",
+      "hateful and malignant, invidious and discordant demons",
+      "king (spirit form)",
+      "mambres",
+      "manitaynus",
+      "maraloch",
+      "mascifm",
+      "master spirit (unspecified name)",
+      "matalot",
+      "midam",
+      "neyilon",
+      "osendior",
+      "prince of demons",
+      "satan / sathan",
+      "sathan, belzebub, astaroth, berith, azraro, rotunda",
+      "seirim",
+      "spirit in horseman form",
+      "tranauit (also tranayrt/tramayrt)",
+      "vralchim",
+      "zambrim et mambrim"
+    ]
+  },
+  "5,13": {
+    "count": 1,
+    "spirits": [
+      "bylet"
+    ]
+  },
+  "5,14": {
+    "count": 1,
+    "spirits": [
+      "daimonia"
+    ]
+  },
+  "6,0": {
+    "count": 3,
+    "spirits": [
+      "astaba",
+      "hertanalit",
+      "captiel = caffriel"
+    ]
+  },
+  "6,2": {
+    "count": 4,
+    "spirits": [
+      "gabriel",
+      "raphael",
+      "michael",
+      "satquiel"
+    ]
+  },
+  "6,3": {
+    "count": 1,
+    "spirits": [
+      "lucifer"
+    ]
+  },
+  "6,5": {
+    "count": 2,
+    "spirits": [
+      "chrysor (hephaestus)",
+      "seth (egyptian god)"
+    ]
+  },
+  "6,14": {
+    "count": 13,
+    "spirits": [
+      "molbet",
+      "natheus",
+      "aphaleon",
+      "belsabuct",
+      "berit",
+      "fornicator",
+      "mosectus",
+      "neutrion",
+      "seductor",
+      "temptator",
+      "ghemschid / djemschid",
+      "possessor hominum",
+      "serpent god / satan"
+    ]
+  },
+  "7,0": {
+    "count": 8,
+    "spirits": [
+      "amamnim",
+      "asaame/asaomie/asamye (angelic names)",
+      "bessabes",
+      "cassie",
+      "micheal",
+      "sarafem, custyeli",
+      "sydrac, misac, abdenago",
+      "yafaa"
+    ]
+  },
+  "7,2": {
+    "count": 1,
+    "spirits": [
+      "dardiel"
+    ]
+  },
+  "7,3": {
+    "count": 5,
+    "spirits": [
+      "anael",
+      "angels",
+      "samael",
+      "assassayel",
+      "virtutes"
+    ]
+  },
+  "7,4": {
+    "count": 1,
+    "spirits": [
+      "spirits of saturn"
+    ]
+  },
+  "7,5": {
+    "count": 9,
+    "spirits": [
+      "osiris",
+      "devil (diaboli)",
+      "nectius (nocturnal hour)",
+      "palicos",
+      "pila",
+      "pytalas",
+      "raccedi",
+      "samahel",
+      "typhon"
+    ]
+  },
+  "7,9": {
+    "count": 5,
+    "spirits": [
+      "barthan",
+      "agares",
+      "baell",
+      "jupiter",
+      "sun"
+    ]
+  },
+  "8,1": {
+    "count": 1,
+    "spirits": [
+      "sammyel"
+    ]
+  },
+  "8,2": {
+    "count": 2,
+    "spirits": [
+      "metraton",
+      "vrlacafel"
+    ]
+  },
+  "8,4": {
+    "count": 1,
+    "spirits": [
+      "bodhisattvas"
+    ]
+  },
+  "8,7": {
+    "count": 30,
+    "spirits": [
+      "cartutay",
+      "folfitoy",
+      "geteritacon",
+      "mansator",
+      "momabel",
+      "pimaton",
+      "puzanil",
+      "sobil",
+      "acuta",
+      "afah",
+      "atal",
+      "audena",
+      "bal",
+      "cafia",
+      "cafra",
+      "cal",
+      "col",
+      "coltasia",
+      "cul",
+      "etal",
+      "falduc",
+      "fustaul",
+      "gaulyar",
+      "guabrath",
+      "layalym",
+      "matha",
+      "mathail",
+      "mathiel",
+      "parclena",
+      "tartarath"
+    ]
+  },
+  "8,9": {
+    "count": 1,
+    "spirits": [
+      "guardian angel"
+    ]
+  },
+  "8,13": {
+    "count": 10,
+    "spirits": [
+      "tamafin",
+      "fifteen spirits",
+      "leutaber (zeugaber)",
+      "memoyr (memoir)",
+      "oymelor, demefin, lamair, masair, symofor, rodobayl, tentetos, lotobor, memoyr, tamafin, leutaber, tatomofon, faubair, selutabel, rimasor, syrama",
+      "rodobayl (rodobail)",
+      "selutabel (belutabel)",
+      "simofor",
+      "symofor (simofor)",
+      "syrama (sirama)"
+    ]
+  },
+  "9,0": {
+    "count": 27,
+    "spirits": [
       "acynerim (mars angel)",
       "amabel",
       "angeli",
-      "archangeli",
       "assassael",
       "atrarayl",
       "barachiel",
       "boel (saturn angel)",
-      "cherubin",
       "cherubin / seraphin",
+      "constiel",
       "daghyel (venus angel)",
       "dedeon",
-      "dominaciones",
       "geminiel",
       "lucas, marcus, matheus, ioannes",
-      "michael, gabriel, raphael",
       "muriel",
       "orophaniel (lunar angel)",
       "pastor (jupiter angel)",
-      "poterestates / potestates",
-      "potestates",
-      "principatus",
-      "principatus / throni / dominaciones",
+      "pattar",
       "sabael",
       "sacquiel",
       "salamia (solar angel)",
@@ -1022,86 +794,813 @@
       "sarpiel",
       "sartquiel",
       "satyel",
-      "seraphin",
       "terayl",
+      "thytagora (mercury hour angel)"
+    ]
+  },
+  "9,1": {
+    "count": 9,
+    "spirits": [
+      "paraclitus",
+      "uriel",
+      "barmaly",
+      "casziel",
+      "gemi",
+      "hocrohel",
+      "pacta",
+      "yaspel",
+      "yayn"
+    ]
+  },
+  "9,4": {
+    "count": 8,
+    "spirits": [
+      "captiel",
+      "mataton",
+      "cafriel",
+      "castuel",
+      "maratron",
+      "matraton",
+      "satael",
+      "sartquiel (satraquel)"
+    ]
+  },
+  "9,9": {
+    "count": 1,
+    "spirits": [
+      "barbarus"
+    ]
+  },
+  "9,11": {
+    "count": 12,
+    "spirits": [
+      "azariel",
+      "cama (kham/ham)",
+      "caramel",
+      "fyriel",
+      "gama",
+      "hanahel",
+      "madam",
+      "malthayl",
+      "parsail",
+      "porbayl",
+      "seralabelis",
+      "zaraimayl"
+    ]
+  },
+  "10,0": {
+    "count": 11,
+    "spirits": [
+      "archangeli",
+      "cherubin",
+      "dominaciones",
+      "michael, gabriel, raphael",
+      "poterestates / potestates",
+      "potestates",
+      "principatus",
+      "principatus / throni / dominaciones",
+      "seraphin",
       "throni",
-      "thytagora (mercury hour angel)",
-      "virtutes",
       "virtutes celestes"
     ]
   },
-  "7,10": {
+  "10,2": {
+    "count": 4,
+    "spirits": [
+      "sarquiel",
+      "gaffriel",
+      "naquiel",
+      "sagriel"
+    ]
+  },
+  "10,5": {
+    "count": 8,
+    "spirits": [
+      "aloybain",
+      "cafziel",
+      "hayton",
+      "memmi",
+      "michrathon",
+      "amamni",
+      "atlas",
+      "bohel"
+    ]
+  },
+  "10,8": {
+    "count": 1,
+    "spirits": [
+      "saba"
+    ]
+  },
+  "10,9": {
+    "count": 2,
+    "spirits": [
+      "almodab",
+      "saytam"
+    ]
+  },
+  "10,14": {
+    "count": 16,
+    "spirits": [
+      "lamair",
+      "tatomofon",
+      "demefin",
+      "oymelor",
+      "faubair",
+      "lotobor",
+      "masair",
+      "rimasor",
+      "tentetos",
+      "leutaber",
+      "memoyr",
+      "rodobayl",
+      "selutabel",
+      "syrama",
+      "symofor",
+      "tamafrn"
+    ]
+  },
+  "11,2": {
+    "count": 1,
+    "spirits": [
+      "sarabores"
+    ]
+  },
+  "11,3": {
+    "count": 3,
+    "spirits": [
+      "vsyr",
+      "im (ym)",
+      "usyr, salaul, silitor, demor, zanno, syrtroy, risbel, cutroy, lytay, onor, moloy, pumotor, tami, oor, ym"
+    ]
+  },
+  "11,7": {
+    "count": 2,
+    "spirits": [
+      "saabotes",
+      "rex filius dyabuld"
+    ]
+  },
+  "11,8": {
+    "count": 12,
+    "spirits": [
+      "corniger",
+      "baytan",
+      "beliall",
+      "caatus",
+      "candas",
+      "king of the clouds",
+      "king of the east",
+      "madrath filius arath",
+      "three maximi reges",
+      "vambal",
+      "yama",
+      "yammax"
+    ]
+  },
+  "11,10": {
+    "count": 3,
+    "spirits": [
+      "baltim",
+      "caspar, balthasar, melchior",
+      "minon"
+    ]
+  },
+  "11,12": {
     "count": 7,
     "spirits": [
+      "taob",
+      "bireoth",
+      "dorayl",
+      "midain",
+      "svcax",
+      "bel et ebal",
+      "nathalon (hour name)"
+    ]
+  },
+  "12,4": {
+    "count": 2,
+    "spirits": [
+      "saturn",
+      "mars"
+    ]
+  },
+  "12,5": {
+    "count": 3,
+    "spirits": [
+      "venus",
+      "mercury",
+      "moon"
+    ]
+  },
+  "12,7": {
+    "count": 22,
+    "spirits": [
+      "maymon",
+      "abaa",
+      "formione",
+      "bartha",
+      "harthan",
+      "sarabocres",
+      "asmodeus",
+      "galtim",
+      "saltim",
+      "abarthiel",
+      "andegor",
+      "assandaran",
+      "aysansasyel",
+      "dyrnaot",
+      "illdegage",
+      "labadau",
+      "macgmel",
+      "morel",
+      "patderon",
+      "ragiel",
+      "tanenon",
+      "terogat"
+    ]
+  },
+  "12,8": {
+    "count": 3,
+    "spirits": [
+      "baltim, galtim, saltim",
+      "barbatos",
+      "duces"
+    ]
+  },
+  "12,10": {
+    "count": 6,
+    "spirits": [
+      "sancti et electi dei",
+      "algo (nocturnal hour)",
+      "conassuor (nocturnal hour)",
+      "sadadat (hour name)",
+      "sala (hour name)",
+      "yayn (hour name)"
+    ]
+  },
+  "12,11": {
+    "count": 1,
+    "spirits": [
+      "lamisniel"
+    ]
+  },
+  "12,14": {
+    "count": 15,
+    "spirits": [
+      "oor",
+      "tami",
+      "ym",
+      "zanno",
+      "cutroy",
+      "moloy",
+      "salaul",
+      "syrtroy",
+      "demor",
+      "onor",
+      "pumotor",
+      "risbel",
+      "silitor",
+      "lytay",
+      "usyr"
+    ]
+  },
+  "13,2": {
+    "count": 1,
+    "spirits": [
+      "fyrin"
+    ]
+  },
+  "13,10": {
+    "count": 14,
+    "spirits": [
+      "aroch",
+      "feremin",
+      "feremin (also feremni/feremim)",
+      "godras",
+      "lautrayth",
+      "oliroomim",
+      "oliroomim (also oliromim)",
+      "vynicon",
+      "amamim",
+      "demon (unnamed)",
+      "hactanaabit",
+      "lautrayth (also lantrayth)",
+      "lutrayth, feremim, oliroomim",
+      "rabuel, astena, hytatol"
+    ]
+  },
+  "13,13": {
+    "count": 13,
+    "spirits": [
+      "abraham",
       "affla",
       "aladep",
       "alualuaht",
       "cya",
+      "elam",
+      "isaac",
+      "jacob",
+      "joth",
+      "kostolya, elogo, yetas",
       "mira",
       "sayp",
-      "usyr"
+      "tuditha"
     ]
   },
-  "7,13": {
+  "14,0": {
+    "count": 392,
+    "spirits": [
+      "cherubim",
+      "seraphim",
+      "agnus",
+      "archangels",
+      "balthasar",
+      "baxhatau",
+      "bileth",
+      "boel",
+      "caphael",
+      "devil",
+      "dominations",
+      "el",
+      "eleyson",
+      "euiraber",
+      "filius",
+      "malafer",
+      "mathael",
+      "melchior",
+      "mendior matalot",
+      "mulcifer",
+      "nasaa",
+      "nasat",
+      "nimrod",
+      "oannes",
+      "pater",
+      "powers",
+      "primogenitus",
+      "principalities",
+      "principium et finis",
+      "pythoness",
+      "saday",
+      "sancta maria",
+      "serpens",
+      "spiritus sanctus",
+      "tammuz",
+      "theos",
+      "thrones",
+      "trathacas",
+      "trocornifer",
+      "verbum",
+      "virtues",
+      "abat",
+      "abdenago",
+      "abouzaba",
+      "abuzoba",
+      "abymalib",
+      "abyron",
+      "adonav",
+      "aerial spirits",
+      "aflas",
+      "agrestis",
+      "agroueros (agrus)",
+      "aguel",
+      "albunalich",
+      "algo",
+      "alleluia",
+      "alrogen",
+      "althes, cormes, dies, diles, dilia, fabar, felsmes, mithiomo, molbet, natheus, onaris, pist, progemon, thobar, vmon, vralchim",
+      "altramat, archidemath, discobermath, fritath, hegergibet, helyberp, pestiferat, sona",
+      "alul",
+      "amabihel",
+      "amon",
+      "an",
+      "aneth",
+      "angel to solomon",
+      "annedoti",
+      "apollion",
+      "apollion, arath, astra, damay, erlain, gana, gebel, lamair, oor, safrit, tami, taraor, tatomofon, thomo, ym, zanno/zaimo",
+      "apologia",
+      "aquatic spirits",
+      "arath",
+      "arcan",
+      "archangels (gabriel, michael, raphael)",
+      "arpa",
+      "asef caroth",
+      "ataiberius",
+      "athitael",
+      "atle",
+      "atyn",
+      "ayos",
+      "baal",
+      "baal peor",
+      "bacchus (ce bacche/broum)",
+      "balkin",
+      "baraa",
+      "baramel",
+      "barma",
+      "basal",
+      "bathin",
+      "baysyn",
+      "beaali",
+      "bealphares",
+      "beas",
+      "beel",
+      "belelah",
+      "belus",
+      "belzebub, berith, castiel, lucifer, mirael, paymon",
+      "belzebut",
+      "benign spirits",
+      "berabut",
+      "bercca",
+      "beror",
+      "beruth (covenant)",
+      "bezat",
+      "bilta niprut / belit nipru",
+      "bilu nipru / bel nimrod",
+      "branar",
+      "bresis",
+      "britonia",
+      "buddha",
+      "buddha (as mercury/thoth)",
+      "buddha (as tath/tat)",
+      "buddha (sakya muni)",
+      "buer",
+      "bylol",
+      "caffan",
+      "caltrua",
+      "cambores",
+      "cannes (annedotus)",
+      "carab, riasteli, careb, basal, mistal, oronothel, fabanin, non, va, vatuel",
+      "carbara",
+      "careb",
+      "caror",
+      "cead",
+      "cedon",
+      "cheleb",
+      "chide",
+      "christus",
+      "chrysor",
+      "conadiuro famal",
+      "conassuor",
+      "crasis",
+      "cronus (saturn, elder)",
+      "cronus/saturn",
+      "cundaz",
+      "cuninus",
+      "cvson",
+      "dagon",
+      "dalaph",
+      "dalas",
+      "dalfat",
+      "damay",
+      "dana",
+      "danoe",
+      "dasper",
+      "dath",
+      "dea myrionymus",
+      "deber",
+      "demefin, rodobayl, tamafin, abelutabel",
+      "derketo",
+      "deseryon",
+      "devil / satan / enemy",
+      "diana of the ephesians",
+      "dii manes",
+      "diton",
+      "dyacon",
+      "egippia",
+      "egippia, benoham, beanke",
+      "ego sum qui sum",
+      "eladab",
+      "elioun (hypsistus)",
+      "eloy / eloyye",
+      "eloyay",
+      "elyas",
+      "epigeus (autocthon, ouranos)",
+      "erystion",
+      "evil spirit",
+      "evil spirits",
+      "ezelphates",
+      "fabanin",
+      "fabin",
+      "faeries",
+      "faries, nymphs, and satyres",
+      "flegely",
+      "fords et paciens",
+      "fornicator, tempter, seducer, possessor of humans",
+      "g l a",
+      "gana",
+      "garbamion",
+      "garglale",
+      "ge (terra)",
+      "geneolia",
+      "gespar",
+      "god",
+      "god the father",
+      "guth",
+      "ha",
+      "haat",
+      "halharit",
+      "halmitab",
+      "ham/ammon",
+      "hami",
+      "hanael",
+      "har",
+      "harit",
+      "hasas",
+      "hassas",
+      "hate",
+      "haybaly",
+      "hea",
+      "hebetel",
+      "hesa (hesus)",
+      "ho ōn",
+      "hobgoblins",
+      "holy spirit (spiritus sanctus)",
+      "horus",
+      "hu (celtic god)",
+      "hurathapel",
+      "hyon",
+      "hypsuranius",
+      "icibores (speaker in conjuration)",
+      "ihesus christus",
+      "infernal spirits",
+      "isis",
+      "istath, hoaz, abays, fastich",
+      "iustus iudex in vldmo die",
+      "jany",
+      "jaspar",
+      "jesus nazarenus",
+      "karon",
+      "lamair, tentetos, leutaber, rimasor",
+      "lantrayth / lautrayth / lutrayth",
+      "lapis angularis",
+      "lares",
+      "latol",
+      "layalym, lyalgnea, yalgnal, narath, lybarye, lymbaros, lyaslam",
+      "leo de triba juda (lion of judah)",
+      "leorphahel",
+      "leron",
+      "luridan",
+      "maimon",
+      "malaparos",
+      "malchaam",
+      "malign demons",
+      "malign spirits",
+      "maloht",
+      "mammon",
+      "manith",
+      "maraben",
+      "marbas",
+      "masair, lotobor, tatomofon, sirama",
+      "mastiesel",
+      "mendie",
+      "messias / messyas",
+      "mextyura",
+      "miel",
+      "milalu",
+      "misabou",
+      "misac",
+      "mistal",
+      "moloch",
+      "moyn",
+      "naamay",
+      "naasay",
+      "naaya",
+      "nafaca",
+      "nassura",
+      "nathalon",
+      "natho",
+      "nectius",
+      "nephilim prince of egypt and babylon",
+      "nin",
+      "nogahel (nogahem)",
+      "non",
+      "notooa",
+      "oliromim / oliroomim",
+      "onel, on, adonay, emanuel",
+      "onela",
+      "orion (mythological)",
+      "oronothel",
+      "oymelor, symofos, manoir, faubair",
+      "pahamcociel",
+      "paluo",
+      "pantocrathon",
+      "pedyoth",
+      "penates",
+      "phlegyae",
+      "powerful, magnificent, and illustrious spirits",
+      "primachia",
+      "principium / primogenitus",
+      "progeneri, mutimo, possunt, thomopest, vtany, votanes, filij, fibos, fibet, baruth, sachith, propiietas, voltam, panyte, farum, cubarum, crutines, tyrygel, dyrus, formys, fembusalk, berith, sathanas",
+      "raagor",
+      "ralaz",
+      "rama",
+      "raphael / anael / michael / gabriel",
+      "raquiel",
+      "red bridle horse",
+      "rephaim",
+      "rephaim / zuzim",
+      "riasteli",
+      "riron",
+      "rosahal",
+      "ruminus",
+      "saarlaquia",
+      "sadadat",
+      "sadoy / saday",
+      "safaten",
+      "safrit",
+      "saint michael",
+      "sala",
+      "salaij",
+      "salguiel",
+      "samaym",
+      "samiel",
+      "samyel",
+      "sanete",
+      "sarastan",
+      "saripiel",
+      "sassa",
+      "satan/the devil",
+      "sathan (satan)",
+      "sathquyel",
+      "satiel",
+      "sebegyol",
+      "sefa",
+      "semegibetelye",
+      "semiramis (rhea)",
+      "sepmelamaton",
+      "serpent",
+      "silite",
+      "sinner-attending spirits",
+      "sithothith",
+      "siva",
+      "spirit (unnamed horseman)",
+      "spirit of divination (python)",
+      "spirits",
+      "spirits of fire",
+      "spirits of jupiter",
+      "spirits of luna (moon)",
+      "spirits of mars",
+      "spirits of mercury",
+      "spirits of sol (sun)",
+      "spirits of the air",
+      "spirits of the dead",
+      "spirits of venus",
+      "spirits who provide magic ship",
+      "spiritus aerialis",
+      "squire spirits",
+      "st. john the evangelist",
+      "st. mary",
+      "stigisl",
+      "stirps dauid (root of david)",
+      "subterranean spirits",
+      "sun god",
+      "sydrac",
+      "tafat",
+      "talius",
+      "tamhut",
+      "tariel",
+      "tereoth",
+      "termines",
+      "terrestrial and infernal spirits",
+      "teutates",
+      "thomo",
+      "thoth (hermes)",
+      "titans",
+      "tomitat",
+      "trinitas sancta",
+      "tubairum",
+      "tubal, sathan, reuces, cupido, afalion, duliatus",
+      "tuditha, stehiha, alpha, draco, mariodo, ypanon",
+      "tvueries",
+      "uriel, raguel, seraqael, haniel",
+      "va",
+      "vabros",
+      "vagianus",
+      "vasas",
+      "vatuel",
+      "virgin mary (feast of the assumption)",
+      "vsy / vsyion",
+      "water spirits",
+      "water-dwellers",
+      "wiez",
+      "wodan (mexican deity)",
+      "woden",
+      "yamhor",
+      "yan",
+      "yaneaa",
+      "yemat",
+      "ymas",
+      "yschyros",
+      "yse",
+      "ysos",
+      "ysyornus",
+      "yturaihel",
+      "yve",
+      "zaia",
+      "zenit",
+      "zephata",
+      "zerbanit",
+      "zobha",
+      "zoroaster (chaldean)"
+    ]
+  },
+  "14,2": {
     "count": 10,
     "spirits": [
-      "astra",
-      "alugor",
-      "cason",
-      "cebal",
-      "el, eloy, elyon, aloe, sappa, sother, emanuel, tetragramaton, saday, luamay, athanatos, ysos, kyrie, primogenitus, vita, finis, via, flos, fons, veritas, sapiencia, virtus, paraclitus, ego sum qui sum, mediator, agnus, ouis, vitulus, serpens, aries, leo, os, verbum, ianua, ymago, gloria, lux, sol, splendor, lapis angularis, sponsus, pastor, propheta, sacerdos, immortalis, lex, rex, christus, pater, filius, spiritus sanctus, agla, petra, eternitas, neon, burnon, parli, caon, aepton, alpha et o, omnipotens, misericors, caritas, eternus creator et redemptor, primus et nouissimus, dator et receptor, ayos, otheos, yschyros, sanctus deus, fortis et paciens, iustus iudex in vltimo die",
-      "ihesus nazarenus",
-      "otius",
-      "pneumaton",
-      "spiritus promptus et ydoneum in omni sciencia",
-      "twueries"
+      "o vsyr",
+      "zaimo",
+      "denior",
+      "dor",
+      "litor onor",
+      "lytoy",
+      "pumiotor",
+      "ristel",
+      "silitol",
+      "tamy"
     ]
   },
-  "7,14": {
-    "count": 6,
+  "14,3": {
+    "count": 10,
     "spirits": [
-      "hanni",
-      "barbaras",
-      "cvrson",
-      "gaeneron",
-      "spiritus qui portet michi aurum et argentum denarios",
-      "volach"
+      "byreoth (bireoth)",
+      "darail (dorayl)",
+      "dyacom (dyacon)",
+      "fabni (fabin)",
+      "gebep (gebel)",
+      "midam (midain)",
+      "peripaos (peripaos)",
+      "terminas (termines)",
+      "thereoth (tereoth)",
+      "vmeloth (umeloth)"
     ]
   },
-  "8,0": {
+  "14,4": {
+    "count": 18,
+    "spirits": [
+      "sortfen",
+      "vsyr, salaul, silitor, demor, zanno, syrtroy, risbel, cutroy, lytay, onor, moloy, pumotor, tami, oor, ym",
+      "bethala, pamelon, anguis, floris, ereth, alya, cabyona, ely, eloy, sadamay, melgry, asmyacre",
+      "carab",
+      "cedon, zephata, eloym, eloyay",
+      "eight sailors",
+      "familiar spirits",
+      "filius dyabuli",
+      "incubus and succubus",
+      "lautrayth (also lutrayth)",
+      "madrath, filius arath",
+      "magister",
+      "magister omnium scienciarum",
+      "master (spirit)",
+      "nomen discipuli",
+      "nomen magistri",
+      "prince of evil",
+      "teotl (mexican deity)"
+    ]
+  },
+  "14,5": {
+    "count": 19,
+    "spirits": [
+      "abat (hour name)",
+      "atyn (nocturnal hour)",
+      "caltraa (nocturnal hour)",
+      "caror (hour name)",
+      "hami (nocturnal hour)",
+      "hyon (hour name)",
+      "karon (hour name)",
+      "latol (nocturnal hour)",
+      "leron (nocturnal hour)",
+      "martyres",
+      "nassura (hour name)",
+      "sanctae virgines",
+      "sancti dei",
+      "sancti virgines",
+      "tafat (nocturnal hour)",
+      "tamhut (hour name)",
+      "tariel (hour name)",
+      "yan (hour name)",
+      "zaia (nocturnal hour)"
+    ]
+  },
+  "14,7": {
     "count": 3,
     "spirits": [
-      "firiel",
-      "taraor",
-      "melemil"
+      "sotuem",
+      "spiritus equus",
+      "tuveries"
     ]
   },
-  "8,2": {
-    "count": 12,
+  "14,8": {
+    "count": 5,
     "spirits": [
-      "discobermath",
-      "erlain",
-      "asyel",
-      "belam",
-      "rabam",
-      "lamsiyel",
-      "aa, ely, sother, adonay, cel, sabaoth, messyas, alazabra, osian",
-      "badalam",
-      "bel",
-      "caspar",
-      "ebal",
-      "sobedon"
+      "fyriel (also fyriel/mememil/taraor)",
+      "mememil (also melemil)",
+      "mememil (melemil)",
+      "taraor (also tarator)",
+      "taraor (tarator)"
     ]
   },
-  "8,3": {
-    "count": 3,
-    "spirits": [
-      "lucifer",
-      "castiel",
-      "mirael"
-    ]
-  },
-  "8,11": {
+  "14,12": {
     "count": 58,
     "spirits": [
       "abiniabyndo",
@@ -1164,543 +1663,10 @@
       "yfla"
     ]
   },
-  "9,0": {
-    "count": 4,
-    "spirits": [
-      "berith",
-      "mirage",
-      "oriens",
-      "curson"
-    ]
-  },
-  "9,1": {
-    "count": 3,
-    "spirits": [
-      "apolin",
-      "lylet",
-      "toth"
-    ]
-  },
-  "9,2": {
-    "count": 5,
-    "spirits": [
-      "belial",
-      "beelzebub",
-      "paimon",
-      "saduel",
-      "vsuel"
-    ]
-  },
-  "9,3": {
-    "count": 1,
-    "spirits": [
-      "raphael"
-    ]
-  },
-  "9,4": {
-    "count": 2,
-    "spirits": [
-      "samael",
-      "barmaly"
-    ]
-  },
-  "9,5": {
-    "count": 5,
-    "spirits": [
-      "anael",
-      "sarquiel",
-      "gaffriel",
-      "naquiel",
-      "sagriel"
-    ]
-  },
-  "9,7": {
-    "count": 1,
-    "spirits": [
-      "sartquiel (satraquel)"
-    ]
-  },
-  "9,8": {
-    "count": 7,
-    "spirits": [
-      "amamnim",
-      "asaame/asaomie/asamye (angelic names)",
-      "bessabes",
-      "cassie",
-      "micheal",
-      "sarafem, custyeli",
-      "sydrac, misac, abdenago"
-    ]
-  },
-  "9,10": {
-    "count": 11,
-    "spirits": [
-      "algo (nocturnal hour)",
-      "amamim",
-      "conassuor (nocturnal hour)",
-      "demon (unnamed)",
-      "hactanaabit",
-      "lautrayth (also lantrayth)",
-      "lutrayth, feremim, oliroomim",
-      "rabuel, astena, hytatol",
-      "sadadat (hour name)",
-      "sala (hour name)",
-      "yayn (hour name)"
-    ]
-  },
-  "10,0": {
-    "count": 1,
-    "spirits": [
-      "astaroth"
-    ]
-  },
-  "10,1": {
-    "count": 1,
-    "spirits": [
-      "lilith"
-    ]
-  },
-  "10,4": {
-    "count": 8,
-    "spirits": [
-      "angels",
-      "dardiel",
-      "gemi",
-      "metraton",
-      "pacta",
-      "sammyel",
-      "vrlacafel",
-      "yaspel"
-    ]
-  },
-  "10,6": {
-    "count": 7,
-    "spirits": [
-      "captiel",
-      "mataton",
-      "cafriel",
-      "castuel",
-      "maratron",
-      "matraton",
-      "satael"
-    ]
-  },
-  "10,7": {
-    "count": 3,
-    "spirits": [
-      "satquiel",
-      "astaba",
-      "hertanalit"
-    ]
-  },
-  "10,8": {
-    "count": 1,
-    "spirits": [
-      "captiel = caffriel"
-    ]
-  },
-  "10,10": {
-    "count": 1,
-    "spirits": [
-      "minon"
-    ]
-  },
-  "10,11": {
-    "count": 4,
-    "spirits": [
-      "bel et ebal",
-      "nathalon (hour name)",
-      "svcax",
-      "taob"
-    ]
-  },
-  "10,14": {
-    "count": 31,
-    "spirits": [
-      "eloym",
-      "adaptinor",
-      "adonav (variant of adonay)",
-      "adoray",
-      "adyr",
-      "agnibora",
-      "albilfael",
-      "alssylayessus",
-      "anagodyny",
-      "anazana",
-      "athym",
-      "cados (variant of kadosh)",
-      "cithe",
-      "dymas",
-      "eloe",
-      "eloy (variant of elohim)",
-      "elsyday",
-      "fiel",
-      "gna",
-      "hyaalym",
-      "ignaborum",
-      "osatietas",
-      "sabath",
-      "sadav (variant of saday)",
-      "salodaya",
-      "sereaye",
-      "tasagaf",
-      "yada",
-      "yaffla",
-      "yhah (yhwh-related)",
-      "yhwh-related names (eye, yhaa, etc.)"
-    ]
-  },
-  "11,0": {
-    "count": 2,
-    "spirits": [
-      "satan",
-      "gebel"
-    ]
-  },
-  "11,1": {
-    "count": 8,
-    "spirits": [
-      "suburith",
-      "lyroth",
-      "brimer",
-      "tranauit",
-      "oreoth",
-      "pinen",
-      "tryboy",
-      "tereol"
-    ]
-  },
-  "11,2": {
-    "count": 2,
-    "spirits": [
-      "damayn",
-      "beryen"
-    ]
-  },
-  "11,3": {
-    "count": 1,
-    "spirits": [
-      "sotuem"
-    ]
-  },
-  "11,6": {
-    "count": 3,
-    "spirits": [
-      "aloybain",
-      "hayton",
-      "memmi"
-    ]
-  },
-  "11,8": {
-    "count": 3,
-    "spirits": [
-      "gabriel",
-      "michael",
-      "analuabith"
-    ]
-  },
-  "11,11": {
-    "count": 2,
-    "spirits": [
-      "symofor",
-      "tamafrn"
-    ]
-  },
-  "12,0": {
-    "count": 14,
-    "spirits": [
-      "luxuriosus",
-      "pumeon",
-      "byreoth",
-      "cupido",
-      "darail",
-      "dyacom",
-      "fabni",
-      "peripaos",
-      "reuces",
-      "terminas",
-      "thereoth",
-      "tubal",
-      "vmeloth",
-      "zagam"
-    ]
-  },
-  "12,4": {
-    "count": 5,
-    "spirits": [
-      "bartha",
-      "almodab",
-      "saabotes",
-      "saba",
-      "saytam"
-    ]
-  },
-  "12,6": {
-    "count": 1,
-    "spirits": [
-      "sarabores"
-    ]
-  },
-  "12,7": {
-    "count": 1,
-    "spirits": [
-      "venus"
-    ]
-  },
-  "12,10": {
-    "count": 14,
-    "spirits": [
-      "lamair",
-      "tatomofon",
-      "demefin",
-      "oymelor",
-      "faubair",
-      "lotobor",
-      "masair",
-      "rimasor",
-      "tentetos",
-      "leutaber",
-      "memoyr",
-      "rodobayl",
-      "selutabel",
-      "syrama"
-    ]
-  },
-  "12,14": {
-    "count": 7,
-    "spirits": [
-      "sadaye",
-      "berion",
-      "cados",
-      "elthie",
-      "ely, eloy, eloe",
-      "haya",
-      "naamay, syy"
-    ]
-  },
-  "13,2": {
-    "count": 10,
-    "spirits": [
-      "molbet",
-      "natheus",
-      "aphaleon",
-      "belsabuct",
-      "berit",
-      "fornicator",
-      "mosectus",
-      "neutrion",
-      "seductor",
-      "temptator"
-    ]
-  },
-  "13,4": {
-    "count": 14,
-    "spirits": [
-      "galtim",
-      "saltim",
-      "abarthiel",
-      "andegor",
-      "assandaran",
-      "aysansasyel",
-      "dyrnaot",
-      "illdegage",
-      "macgmel",
-      "morel",
-      "patderon",
-      "ragiel",
-      "tanenon",
-      "terogat"
-    ]
-  },
-  "13,5": {
-    "count": 1,
-    "spirits": [
-      "messias"
-    ]
-  },
-  "13,6": {
-    "count": 16,
-    "spirits": [
-      "o vsyr",
-      "balthasar",
-      "el",
-      "fyrin",
-      "mathael",
-      "melchior",
-      "mendior matalot",
-      "nasaa",
-      "nasat",
-      "sancta maria",
-      "saturn",
-      "sortfen",
-      "tamafin",
-      "theos",
-      "trathacas",
-      "vsyr, salaul, silitor, demor, zanno, syrtroy, risbel, cutroy, lytay, onor, moloy, pumotor, tami, oor, ym"
-    ]
-  },
-  "13,11": {
-    "count": 2,
-    "spirits": [
-      "baltim",
-      "caspar, balthasar, melchior"
-    ]
-  },
-  "13,12": {
-    "count": 1,
-    "spirits": [
-      "maraloth"
-    ]
-  },
-  "14,0": {
-    "count": 18,
-    "spirits": [
-      "dyspil",
-      "onoroy",
-      "brunlo",
-      "cotroy",
-      "despan",
-      "dronoth",
-      "gelbid",
-      "lampoy",
-      "lodoni",
-      "maloqui",
-      "nartim",
-      "olam",
-      "orooth",
-      "rator",
-      "rimel",
-      "satola",
-      "sysabel",
-      "tyroy"
-    ]
-  },
-  "14,2": {
-    "count": 18,
-    "spirits": [
-      "lytim",
-      "belzebuc",
-      "sententino",
-      "superbus",
-      "afalion",
-      "barbectus",
-      "belferith",
-      "bylet",
-      "camoy",
-      "duliatus",
-      "falmar",
-      "noryoth",
-      "o brimer",
-      "otel",
-      "pluto",
-      "sismael",
-      "sobronoy",
-      "tyroces"
-    ]
-  },
-  "14,3": {
-    "count": 1,
-    "spirits": [
-      "avarus"
-    ]
-  },
-  "14,5": {
-    "count": 7,
-    "spirits": [
-      "athanatos",
-      "floron",
-      "leo",
-      "semiforas",
-      "fons",
-      "otheos",
-      "petra"
-    ]
-  },
-  "14,7": {
-    "count": 1,
-    "spirits": [
-      "vsyr"
-    ]
-  },
-  "14,8": {
-    "count": 14,
-    "spirits": [
-      "oor",
-      "tami",
-      "ym",
-      "zanno",
-      "cutroy",
-      "moloy",
-      "salaul",
-      "syrtroy",
-      "demor",
-      "onor",
-      "pumotor",
-      "risbel",
-      "silitor",
-      "lytay"
-    ]
-  },
-  "14,10": {
-    "count": 3,
-    "spirits": [
-      "bireoth",
-      "dorayl",
-      "midain"
-    ]
-  },
-  "14,11": {
-    "count": 17,
-    "spirits": [
-      "lamisniel",
-      "abraham",
-      "aroch",
-      "elam",
-      "feremin",
-      "feremin (also feremni/feremim)",
-      "godras",
-      "isaac",
-      "jacob",
-      "joth",
-      "kostolya, elogo, yetas",
-      "lautrayth",
-      "oliroomim",
-      "oliroomim (also oliromim)",
-      "sancti et electi dei",
-      "tuditha",
-      "vynicon"
-    ]
-  },
-  "14,13": {
-    "count": 3,
-    "spirits": [
-      "sother",
-      "elyon",
-      "sabboth"
-    ]
-  },
   "14,14": {
-    "count": 19,
+    "count": 1,
     "spirits": [
-      "tetragrammaton",
-      "adonay",
-      "emmanuel",
-      "alpha et o",
-      "sabaoth",
-      "agla",
-      "on",
-      "eloy",
-      "basyon",
-      "dobel",
-      "domiel",
-      "moreth",
-      "perarabiel",
-      "rodobel",
-      "sadabin",
-      "semoni",
-      "siloth",
-      "vriel",
-      "vsobel"
+      "analuabith"
     ]
   }
 }
