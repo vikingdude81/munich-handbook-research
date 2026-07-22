@@ -1,8 +1,12 @@
 canonical_name,display_name,type,occurrences,distinct_works,cross_work,page_refs,name_variants,description
+abraxas,Abraxas,concept,1,taschen_2003,,page 423,,"description: A gnostic God/deity, shown as a snake-footed hybrid. His name has a numeric value of 365."
+adam/the elect,Adam/the elect,concept,1,scot_1584,,page 456,,description: Those who are renewed and made apt by the training up of the holy spirit.
 adonay,Adonay,concept,2,kieckhefer_clm849,,68r|p. 336–345,,function: divine name inscribed in circle · role: divine name used in conjurations
 adonay dei israel,Adonay dei Israel,concept,1,kieckhefer_clm849,,p. 336–345,,role: divine name used in conjurations
 agla,Agla,concept,2,kieckhefer_clm849,,36r fig.|67v–68r,,function: divine name inscribed on knife and circle
 akasa (mesmeric fluid),Akasa (mesmeric fluid),concept,1,garnier_1909,,159,,"quote: ""'Akasa,' the mesmeric fluid, and the spirit of God, are one in the East."""
+alchimistry,Alchimistry,concept,1,scot_1584,,"page 59, 63",,description: Described as a 'fruitless beggarly art'.
+alcumystrie,Alcumystrie,concept,1,scot_1584,,page 353,,"description: The art of alchemy/alchemists, involving words and devices to deceive eyes"
 alpha and omega (alpha et o),Alpha and Omega (Alpha et O),concept,1,kieckhefer_clm849,,"[58v, 59r]",,function: divine title used in exorcism
 alpha et o,Alpha et O,concept,1,kieckhefer_clm849,,"62v, 64r",,function: divine name used in incantations
 amor hereos,amor hereos,concept,2,kieckhefer_clm849,,p. 100,,"role: Latin term for burning, indissoluble love"
@@ -21,9 +25,11 @@ cesarius of heisterbach story (schoolboy),Cesarius of Heisterbach story (schoolb
 charlemagne’s admonitio generalis (789),Charlemagne’s Admonitio generalis (789),concept,1,kieckhefer_clm849,,p. 189,,"quote: ""In 789, Charlemagne’s Admonitio generalis condemned the invocation of ‘unknown angels’, presumably for the sam"""
 clerical underworld,clerical underworld,concept,1,kieckhefer_clm849,,p.24–25,,description: A social group of underemployed clerics who practiced necromancy
 conjurations,conjurations,concept,1,kieckhefer_clm849,,"8, 12, 14, 16, 23, 29, 36, 42, 45, 48–9, 51, 53, 57, 58, 61, 62, 73–5, 80, 81, 83, 84, 86–8, 90, 91, 98, 102, 105–11, 115, 116, 127–34, 138, 140–4, 146, 147, 149, 156, 170, 174, 179",,"quote: ""conjurations, 8, 12, 14, 16, 23, 29, 36, 42, 45, 48–9, 51, 53, 57, 58, 61, 62, 73–5, 80, 81, 83, 84, 86–8, 90,"""
+"creation, transformation, transportation, and transubstantiation of witches","the creation, transformation, transportation, and transubstantiation of witches",concept,1,scot_1584,,page 206,,description: A set of magical or supernatural phenomena attributed to witches. · nature: Magical phenomenon
 daimones,daimones,concept,1,kieckhefer_clm849,,"50, 154–5",,"quote: ""daimones, 50, 154–5"""
 declaration (as element in conjuration),declaration (as element in conjuration),concept,1,kieckhefer_clm849,,"127, 131–4, 149",,"quote: ""declaration (as element in conjuration), 127, 131–4, 149"""
 deluge,Deluge,concept,1,garnier_1909,,49–50,,"quote: """"...one or other of the two great events in the history of the Deluge...were observed throughout the ancient w"""
+devil,the Devil,concept,1,scot_1584,,Chapter 20/Page 354,,description: The entity that some claim cannot create creatures smaller than a barleycorn.
 dialectic/logic,Dialectic/Logic,concept,1,ars_notoria,,28-29,,"quote: ""The Dialeical Notes may be used every day... The Reason why the Dialectical Art hath two Figures onely"""
 divine vision,Divine Vision,concept,1,liber_juratus,,193-194,,"quote: ""...divina visio non est super ipsum coaccio immo preces..."""
 dosa,Dosa,concept,1,kieckhefer_clm849,,p. 343,,role: divine name used in ritual
@@ -33,24 +39,39 @@ exorcisms,exorcisms,concept,1,kieckhefer_clm849,,"5, 14, 91, 127, 144–9, 157, 
 fear of the lord,Fear of the Lord,concept,1,liber_juratus,,174,,"quote: ""Inicium sapiencie timor Domini"""
 filocapta,filocapta,concept,1,kieckhefer_clm849,,p. 108,,meaning: bound by love
 general abilities,General Abilities,concept,1,ars_notoria,,"3, 12",,"quote: ""the first of these deals with what the author calls 'generals'; these are abilities of broad application – mem"""
+giordano bruno,Giordano Bruno,concept,1,taschen_2003,,page 320,,description: Philosopher who proposed that the geometrical figure is the visible number and humans can become cooperators of operating nature through numbers.
 grammar,Grammar,concept,1,ars_notoria,,27-28,,"quote: ""For Grammar hath three Notes only"""
 gyges (ring of),Gyges (ring of),concept,1,kieckhefer_clm849,,p. 78,,role: classical reference point for invisibility theme
 haa,Haa,concept,1,kieckhefer_clm849,,p. 343,,role: divine name used in ritual
 hanazay,Hanazay,concept,1,liber_juratus,,138-139,,description: A sequence of names/voces magicae used in prayer
+holy spirit as adoption/abba father,The Holy Spirit as Adoption/Abba Father,concept,1,scot_1584,,page 457,,"description: The spirit of adoption that allows us to cry 'Abba, Father'."
+holy spirit as error/blindness,The Holy Spirit as Error/Blindness,concept,1,scot_1584,,page 457,,description: A spirit of error and blindness that inhabits where sin has dominion.
+holy spirit as finger of god,The Holy Spirit as Finger of God,concept,1,scot_1584,,page 456,,description: Metaphorical representation of the spirit as the might and power of God.
+holy spirit as oil/anointing,The Holy Spirit as Oil/Anointing,concept,1,scot_1584,,page 456,,description: Metaphorical representation of the spirit as anointing or ointment that makes one fit for office.
+holy spirit as truth/touchstone,The Holy Spirit as Truth/Touchstone,concept,2,scot_1584,,page 457,,description: Metaphorical representation of the spirit as a touchstone to try all counterfeit devises and vain sciences.; The spirit of truth that tests all counterfeit devises and vain sciences.
+holy spirit as water,The Holy Spirit as Water,concept,1,scot_1584,,page 455,,(attributes not extracted)
+holy spirit as wind/breath,The Holy Spirit as Wind/Breath,concept,49,scot_1584,,/page 457|page 457,,"description: The Hebrew word r'ach signifies spirit, wind, blast, or breath.; The Hebrew word r'ach signifies spirit, wind, blast/breath."
 holy trinity,Holy Trinity,concept,1,liber_juratus,,89,,"nature: co-eternal, co-equal"
+horoscope,Horoscope,concept,1,taschen_2003,,page 42,,"description: The record of the constellations at the moment of birth, representing man's entanglement in fate."
 idolatry,idolatry,concept,1,garnier_1909,,p. 400–407,,nature: spiritual deception
+immanuel,Immanuel,concept,1,scot_1584,,page 470,,description: A holy name used in consecration rituals.
 infernal hierarchy,infernal hierarchy,concept,1,kieckhefer_clm849,,63n14,,description: perversion of angelic order
 instruction (as element in conjuration),instruction (as element in conjuration),concept,1,kieckhefer_clm849,,"127–9, 134, 140–3, 146, 149, 160, 179",,"quote: ""instruction (as element in conjuration), 127–9, 134, 140–3, 146, 149, 160, 179"""
 invocations (as element in conjuration),invocations (as element in conjuration),concept,1,kieckhefer_clm849,,"127–9, 132, 133–40, 145–6, 159",,"quote: ""invocations (as element in conjuration), 127–9, 132, 133–40, 145–6, 159"""
 jamnes and mambres,Jamnes and Mambres,concept,1,kieckhefer_clm849,,51,,"quote: ""The formula ‘May your arts fail … as Jamnes and Mambres failed’..."""
 jove (jupiter),Jove (Jupiter),concept,1,kieckhefer_clm849,,,,"quote: """"at the hour of Venus or the hour of Jove... beginning at the hour of Jove"""""
 jubertus’s spirits correlation,Jubertus’s spirits correlation,concept,1,kieckhefer_clm849,,,,"quote: ""Correlation: Superbus — grandeur of display... Luxuriosus - seduction or rape... Avarus — recovery or discover"""
+king (gold),The King (Gold),concept,1,taschen_2003,,page 418,,"description: In alchemical processes, the gold or king can be dissolved in water and handed to Vulcan."
 "lacryae lyrae, lyalguana, loaffar, vialuarab, lebara, lebarion, layasales","Lacryae Lyrae, Lyalguana, Loaffar, Vialuarab, Lebara, Lebarion, Layasales",concept,1,kieckhefer_clm849,,p. 343–344,,role: seven precious names of the Creator to inscribe on images
+lapis,Lapis,concept,1,taschen_2003,,page 15,,"description: The goal of the alchemical work, achieved by elevating the fallen creation."
 lemegeton,Lemegeton,concept,1,kieckhefer_clm849,,p. 192,,"quote: ""The Lemegeton lists seventy-two demons with their functions, including Asmoday..."""
 lesser doxology,Lesser Doxology,concept,1,kieckhefer_clm849,,p. 76–77,,role: prayer used in flying throne ritual
 liber officiorum,Liber officiorum,concept,1,kieckhefer_clm849,,p. 192,,"quote: ""Trithemius speaks of a Liber officiorum that catalogues four emperors and various kings, duces, marquises, and"""
 liberal arts,Liberal Arts,concept,1,ars_notoria,,"3, 12",,"quote: ""the knowledge of every Science, Art, and Wisdom; and of every Faculty of Memory... attaining to them in one Mo"""
+magic/art magike,Magic/Art Magike,concept,1,scot_1584,,Chapter 18,,description: The use of 'art' or 'cunning' to produce monsters and illusions.
 mars (planet/hour),Mars (planet/hour),concept,1,kieckhefer_clm849,,,,"quote: """"leaving it aside from the hour of the Sun until the hour of Mars"""""
+melancholie,melancholie,concept,1,scot_1584,,Chapter 9,,"description: A medical/psychological condition described as causing false imaginations, delusions, and irrational behaviors."
+mercury,Mercury,concept,1,taschen_2003,,page 15,,description: The fluid principle with a propensity to sublimation. · role: volatile intellect
 "miserere mei, deus","Miserere mei, deus",concept,1,kieckhefer_clm849,,experiment no. 41,,role: Psalm 51 used in treasure ritual
 necromancy,necromancy,concept,1,kieckhefer_clm849,,"1–4, 6, 7, 10–13, 18, 22, 25, 26, 30, 32–5, 37, 44, 45, 54, 61, 64, 69–72, 80, 82, 101, 102, 127, 128, 160, 170, 175, 177, 180, 186–8",,"quote: ""necromancy, 1–4, 6, 7, 10–13, 18, 22, 25, 26, 30, 32–5, 37, 44, 45, 54, 61, 64, 69–72, 80, 82, 101, 102, 127, """
 necromancy (nigramancia),necromancy (nigramancia),concept,1,kieckhefer_clm849,,48,,"quote: ""Hartlieb lists necromancy (nigramancia) as the first of the seven forbidden arts..."""
@@ -58,11 +79,15 @@ onus,onus,concept,1,kieckhefer_clm849,,105v,,function: symbolic word placed at w
 orient (divine epithet),Orient (divine epithet),concept,1,kieckhefer_clm849,,experiment no. 41,,role: addressed in treasure ritual prayer
 paris theologians (1398),Paris theologians (1398),concept,1,kieckhefer_clm849,,p. 189–190,,"quote: ""...the theologians at the University of Paris had in 1398 condemned the belief that... demons are compelled to"""
 plasmator seculorum,Plasmator seculorum,concept,1,kieckhefer_clm849,,p. 336–345,,role: divine epithet
+primum mobile,Primum Mobile,concept,1,taschen_2003,,page 45,,"description: The outermost planetary orbit, identified with God himself. · function: embracing all other spheres"
+proteus,Proteus,concept,1,taschen_2003,,page 424,,"description: An eternally wandering watery man from Greek mythology, identified with 'our Mercury' by Heinrich Khunrath. · powers: keys to the sea; power over everything"
 psalm 120:1f,Psalm 120:1f.,concept,1,kieckhefer_clm849,,p. 73–74,,role: biblical incantation used in horse ritual
 psalm 50 (vulgate),Psalm 50 (Vulgate),concept,1,kieckhefer_clm849,,p. 78–79,,role: prayer used in invisibility ritual
 pseudomonarchia daemonum,Pseudomonarchia daemonum,concept,1,kieckhefer_clm849,,p. 192,,"quote: ""...(Johannes Weyer’s Pseudomonarchia daemonum lists sixty-nine demons with their offices and functions)"""
 psychical feelings,psychical feelings,concept,1,garnier_1909,,p. 400,,role: natural but non-spiritual affect
 purgatory,Purgatory,concept,1,garnier_1909,,347-348,,function: allowed for posthumous intercession via sacrifices
+pythonists,the Pythonists,concept,1,scot_1584,,Chapter 4/5,,"description: A group or tradition associated with the oracle of Apollo, characterized by their use of deception and oracular practices. · nature: Oracular tradition"
+queen,The Queen,concept,1,taschen_2003,,page 418,,"description: In alchemical processes, the queen is fecundated by a greasy python to conceive children."
 rhetoric,Rhetoric,concept,1,ars_notoria,,29,,"quote: ""The Reason why Rhetorick hath four Figures"""
 roger bacon (necromantic treatise ascribed to),Roger Bacon (necromantic treatise ascribed to),concept,1,kieckhefer_clm849,,p. 190–191,,"quote: ""...the treatise on necromancy ascribed to Roger Bacon warns that demons will try to frighten the magician with"""
 roman catholic countries (virgin and saints),Roman Catholic countries (Virgin and Saints),concept,1,garnier_1909,,p. 403,,"quote: ""...a word spoken against the Virgin or Saints in some Roman Catholic countries, a few years ago, would have ar"""
@@ -70,6 +95,7 @@ romanism,Romanism,concept,1,garnier_1909,,p. 405–406,,"quote: ""...like Romani
 sabaoth,Sabaoth,concept,1,kieckhefer_clm849,,67v–68r,,function: divine name inscribed on knife and circle
 sabbath feasts (demonic),Sabbath feasts (demonic),concept,1,kieckhefer_clm849,,63n16,,"quote: ""the banquet that demons bring forth is in one particular like the feasts ascribed in later years to witches at"""
 sadaye,Sadaye,concept,1,kieckhefer_clm849,,p. 336–345,,role: divine name used in conjurations
+salt,Salt,concept,1,taschen_2003,,page 15,,"description: The third fundamental principle in Paracelsian doctrine, corresponding to the body."
 saraboth/sabaoth,Saraboth/Sabaoth,concept,1,kieckhefer_clm849,,p. 336–345,,role: divine name used in conjurations
 sator-arepo,SATOR-AREPO,concept,1,kieckhefer_clm849,,experiments 38–40; Gaster manuscripts,,role: magical formula inscribed in circle or whispered
 sator-arepo formula,Sator-arepo formula,concept,1,kieckhefer_clm849,,experiment no. 28,,role: protective incantation inscribed in circle
@@ -79,11 +105,14 @@ semiforas,Semiforas,concept,1,kieckhefer_clm849,,experiment no. 42,,"role: great
 serpent,Serpent,concept,1,garnier_1909,,99-132,,"quote: ""The Serpent the symbol of wisdom and divination"""
 "shoeth, hebatit, het, agla, jocht, othot, vanecht, nabuthi","Shoeth, Hebatit, Het, Agla, Jocht, Othot, Vanecht, Nabuthi",concept,1,kieckhefer_clm849,,[58v],,function: divine names used in binding demons
 sign of the cross,sign of the cross,concept,1,kieckhefer_clm849,,"47, 59, 110, 111, 160",,"quote: ""sign of the cross, 47, 59, 110, 111, 160"""
+sortilegie,sortilegie,concept,1,scot_1584,,Chapter 29,,"description: A term used to the practice of sorcery or magic, which Scot is debunking as trickery.  · nature: deception/sorcery"
 special abilities,Special Abilities,concept,1,ars_notoria,,"3, 12",,"quote: ""The second section deals with the 'specials', giving prayers in sequence for each of the Liberal Arts"""
 spirit communication,spirit communication,concept,1,garnier_1909,,340,,"quote: ""It is, as before remarked, a difficult thing to establish communication with the spirits, but when once establ"""
 spirits of the air,Spirits of the Air,concept,1,liber_juratus,,227-228,,"quote: ""There are two kinds of aerial spirits, for some are good while others are evil; some are mild, others wild."""
 subsolanus,Subsolanus,concept,1,liber_juratus,,318,,nature: wind
+sulphur,Sulphur,concept,1,taschen_2003,,page 15,,description: A fundamental principle mediating the position of the soul.
 sun (hour),Sun (hour),concept,1,kieckhefer_clm849,,,,"quote: """"from the hour of the Sun until the hour of Saturn"""""
+sympathy and antipathy,Sympathy and Antipathy,concept,1,scot_1584,,"Page 634, 637",,description: The principle that things are drawn to their like or repelled by their contrary. 
 table b,Table B,concept,1,kieckhefer_clm849,,,,"quote: ""Table B . Types of necromancy found in Clm 849 — Illusionist / Psychological / Divinatory..."""
 testament of solomon,Testament of Solomon,concept,1,kieckhefer_clm849,,p. 192,,"quote: ""These catalogues were especially common in the treatises and grimoires of the early modern era... but the basi"""
 tetragramaton,Tetragramaton,concept,2,kieckhefer_clm849,,"62v, 64r|68r",,function: divine name inscribed in circle; divine name used in incantations
@@ -93,10 +122,13 @@ theology and astronomy,Theology and Astronomy,concept,1,ars_notoria,,31,,"quote:
 theology notes,Theology Notes,concept,1,ars_notoria,,32,,nature: sacramental
 thoth,Thoth,concept,1,kieckhefer_clm849,,63r,,function: Egyptian deity referenced as 'princeps vestrum'
 tobit (book of tobias),Tobit (Book of Tobias),concept,1,kieckhefer_clm849,,p. 190,,function: demon expelling via fish liver fumigation
+transubstantiation,transubstantiation,concept,1,scot_1584,,Chapter 7,,"description: An impossible claim made in witches' confessions, used by Scot to argue against the validity of proofs."
 trinitas sancta,Trinitas Sancta,concept,1,kieckhefer_clm849,,"62v, 68r",,function: basis for invocations and circle-making
 trinity invocation,Trinity invocation,concept,1,kieckhefer_clm849,,p. 78–79,,role: conjuring formula in invisibility ritual
 venus (planet/hour),Venus (planet/hour),concept,1,kieckhefer_clm849,,,,"quote: """"at the hour of Venus or the hour of Jove"""""
 vision of god,Vision of God,concept,1,liber_juratus,,92-101,,"quote: ""valeam ad facialem tui, Deus eterne, visionem virtute tui sanctissimi Spiritus"""
+witchcraft,Witchcraft,concept,2,scot_1584,,"page 471/483|page 59, 61",,"description: The practice of using magic or spirits to cause harm or perform feats.; The practice of using supernatural powers, which the author seeks to define and disprove"
+witchcraft/conjuring,Witchcraft/Conjuring,concept,1,scot_1584,,Chapter 18-23,,"description: The practice of performing supernatural feats through words, charms, and illusions."
 yhon/yhaa,Yhon/Yhaa,concept,1,kieckhefer_clm849,,p. 336–345,,role: divine names used in conjurations
 yma,Yma,concept,1,kieckhefer_clm849,,p. 337–345,,role: divine name used in conjurations
 zephyr,Zephyr,concept,1,liber_juratus,,317,,nature: wind
@@ -320,6 +352,7 @@ agrimonia,agrimonia,ingredient,1,kieckhefer_clm849,,no. 4,,"quote: ""with cinnam
 agrimonia (agrimony),Agrimonia (agrimony),ingredient,1,kieckhefer_clm849,,fol. 12v–13r,,function: used in suffumigation for dignity ritual
 agrimony,agrimony,ingredient,1,kieckhefer_clm849,,,,role: herb used in fumigation
 alba columba,alba columba,ingredient,1,kieckhefer_clm849,,107v,,function: sacrificed for invisibility ritual
+alchemical stones and waters,Alchemical stones and waters,ingredient,1,scot_1584,,page 355,,description: Substances associated with the art of Alcumysterie
 allectory,allectory,ingredient,1,kieckhefer_clm849,,p. 100,,role: aphrodisiac stone
 almastic,Almastic,ingredient,2,kieckhefer_clm849,,76r|p. 341,,"quote: ""Die Veneris est almastic aut lignum radim uel ei simile"""
 aloes,Aloes,ingredient,1,kieckhefer_clm849,,p. 341,,"quote: ""Die Lune est aloes, anacap, uel simile sibi"""
@@ -335,6 +368,8 @@ ashes and flour,ashes and flour,ingredient,1,kieckhefer_clm849,,experiment no. 1
 assandalum croceum,Assandalum croceum,ingredient,1,kieckhefer_clm849,,p. 341,,"quote: ""Suffumigium dies dominice assandalum croceum vel rubeum uel simile sibi"""
 assandarium (assandalum),Assandarium (assandalum),ingredient,1,kieckhefer_clm849,,76r,,"quote: ""Suffumigium dies dominice assandalum croceum vel rubeum uel simile sibi"""
 assandaron,Assandaron,ingredient,1,kieckhefer_clm849,,p. 341,,"quote: ""Die Saturni est assandaron et sulphur aut ei simile"""
+baaros,Baaros,ingredient,1,scot_1584,,Page 529,,"description: A root mentioned as being one with Solomon's root, having force to drive out devils."
+ball/small_ball,ball/small_ball,ingredient,1,scot_1584,,"Page 362, 362",,"description: A small object used in juggling feats, which can be 'swelled' or 'conveyed' through sleight of hand. · nature: can be 'conveyed' or 'vanishing' into nothingness"
 balsamum purum,balsamum purum,ingredient,1,kieckhefer_clm849,,"fols 37v, 38v",,"quote: ""in loco secreto vngatur ex puro balsamo ex parte lucida..."""
 bat blood,bat blood,ingredient,2,kieckhefer_clm849,,58|fol. 107r–v,,"quote: ""a diagram made with the blood of a hoopoe or a bat"""
 bat's blood,bat's blood,ingredient,1,kieckhefer_clm849,,,,"quote: ""seven herbs... the blood of a bat"""
@@ -367,13 +402,16 @@ ceram nouam,ceram nouam,ingredient,1,kieckhefer_clm849,,108v,,function: componen
 ceram virgineam (virgin wax),ceram virgineam (virgin wax),ingredient,1,kieckhefer_clm849,,"p. 266, No. 12",,"quote: ""Recipe ceram virgineam, arte virginizatam..."""
 cerusa,cerusa,ingredient,1,kieckhefer_clm849,,108v,,function: component of chemical mixture
 charcoal,charcoal,ingredient,1,liber_juratus,,209,,"quote: ""place pearls on glowing charcoal in the censer"""
+christall stone,Christall stone,ingredient,1,scot_1584,,page 411/428,,description: A medium used to inclose a spirit
 cinnamomum (cinnamon),Cinnamomum (cinnamon),ingredient,1,kieckhefer_clm849,,fol. 12v–13r,,function: used in suffumigation for dignity ritual
 cinnamon,cinnamon,ingredient,2,kieckhefer_clm849,,no. 4,,role: fumigation agent for image
 "cinnamon, long pepper, agrimony","cinnamon, long pepper, agrimony",ingredient,1,kieckhefer_clm849,,p. 97,,"quote: ""fumigate his image with these aromatics – cinnamon, long pepper and the herb agrimony"""
 clear cold spring water,Clear cold spring water,ingredient,1,liber_juratus,,186,,"quote: ""He should take clear cold spring water, and wash himself..."""
+cockatrice,the Cockatrice,ingredient,1,scot_1584,,Chapter 18/Page 354,,"description: A venomous serpent produced by melting arsenic and serpent poison in an egg. · nature: venomous, noisome, dangerous"
 cornu ovinae corrigia,cornu ovinae corrigia,ingredient,1,kieckhefer_clm849,,fol 45r,,"quote: ""liga corrigiam ouinam, quam ad tres missas quas perfecte audiuisti tecum habuisti..."""
 corpus christi,Corpus Christi,ingredient,1,kieckhefer_clm849,,"62r, 319v",,role: Eucharistic body invoked for binding power
 corrigia ovina,corrigia ovina,ingredient,1,kieckhefer_clm849,,45r (No. 27-A),,"quote: ""...liga corrigiam ouinam, quam ad tres missas quas perfecte audiuisti tecum habuisti..."""
+corselets,Corselets,ingredient,1,scot_1584,,Page 632,,"description: An ancient Danish charm of neck-laces, composed of thunderstones engraved with magical letters to resist noxious influences and lightning. "
 costa (rib bone),costa (rib bone),ingredient,1,kieckhefer_clm849,,65v bis,,function: used in love ritual; inscribed with Bel et Ebal and burned
 croceum,Croceum,ingredient,1,kieckhefer_clm849,,p. 341,,"quote: ""Die Jouis est olibanum aut croceum uel ei simile"""
 cruor (blood),Cruor (Blood),ingredient,1,liber_juratus,,287-290,,purpose: Ink for Seal of God
@@ -401,7 +439,7 @@ heliotrope seed,heliotrope seed,ingredient,2,kieckhefer_clm849,,experiment no. 2
 henbane,henbane,ingredient,1,kieckhefer_clm849,,p. 100,,role: aphrodisiac herb
 herba elyotropia,herba elyotropia,ingredient,1,kieckhefer_clm849,,fol 40v,,"quote: ""imple- foramina oculorum semine cuiusdam herbe que elyotropia dicitur..."""
 herbs,Herbs,ingredient,1,kieckhefer_clm849,,"[58v, 59r]",,function: used in ritual power
-holy water,holy water,ingredient,1,kieckhefer_clm849,,p.21,,description: Used in ritual purification and protection during book handling
+holy water,holy water,ingredient,2,kieckhefer_clm849|scot_1584,yes,p.21|page 421,Holy water|holy water,description: Used in ritual purification and protection during book handling; Substance used in religious and exorcism rituals
 hoopoe,hoopoe,ingredient,2,kieckhefer_clm849,,,,function: used to draw circle for love/fate ritual
 hoopoe (bird),hoopoe (bird),ingredient,1,kieckhefer_clm849,,"Munich Handbook, CLM 849",,description: source of blood and heart for ritual writing
 hoopoe blood,hoopoe blood,ingredient,1,kieckhefer_clm849,,58,,"quote: ""a diagram made with the blood of a hoopoe or a bat"""
@@ -448,6 +486,7 @@ oleum oliue (olive oil),oleum oliue (olive oil),ingredient,2,kieckhefer_clm849,,
 oleum olivae,oleum olivae,ingredient,3,kieckhefer_clm849,,"43v, 44r (No. 24, 25)|62v|fols 43v, 44r",,"quote: ""scribe in illo cum oleo oliue hec nomina: Hon, Hely..."""
 olibano,olibano,ingredient,1,kieckhefer_clm849,,experiment no. 11,,function: used in fumigation for invisibility ritual
 olibanum,Olibanum,ingredient,2,kieckhefer_clm849,,76r|p. 341,,"quote: ""Die Jouis est olibanum aut croceum uel ei simile"""
+olive leaves/branch,Olive leaves/branch,ingredient,1,scot_1584,,throughout,,description: Used in rituals to find thieves or ward off spirits.
 olive oil,olive oil,ingredient,4,kieckhefer_clm849,,"62v–65r|Multiple|p. 371 (97r), p. 376 (100r)",Olive Oil|olive oil,role: anointing medium for boy’s nails/hands; used to anoint boy’s fingernail
 "onelf on, adonay, emanuel","Onelf On, Adonay, Emanuel...",ingredient,1,kieckhefer_clm849,,fol 41r,,function: inscribed for revelation
 ovum,ovum,ingredient,1,kieckhefer_clm849,,108v,,function: component of chemical mixture
@@ -455,6 +494,7 @@ oxcroceum,oxcroceum,ingredient,1,kieckhefer_clm849,,108v,,function: component of
 paper from female dog,paper from female dog,ingredient,1,kieckhefer_clm849,,fols 8r–11v,,description: carta factam de cane femina dum est in amore
 pearls,pearls,ingredient,1,liber_juratus,,209,,"quote: ""place pearls on glowing charcoal in the censer"""
 pepper,pepper,ingredient,1,kieckhefer_clm849,,"no. 4, Table E",,"quote: ""...pepper, abana [...]"""
+perspective glasses,Perspective Glasses,ingredient,1,scot_1584,,Chapter 19/Page 355-357,,"description: Optical devices used to create illusions, such as making things appear far or near, or upside down."
 piper,Piper,ingredient,1,kieckhefer_clm849,,p. 341,,"quote: ""Die Martis est piper aut abana, cygb uel sibi simile"""
 piper (pepper),Piper (pepper),ingredient,1,kieckhefer_clm849,,76r,,"quote: ""Die Martis est piper aut abana, cyg b uel sibi simile"""
 piper longum (long pepper),Piper longum (long pepper),ingredient,1,kieckhefer_clm849,,fol. 12v–13r,,function: used in suffumigation for dignity ritual
@@ -487,6 +527,7 @@ sangwine vespertilionis,sangwine vespertilionis,ingredient,1,kieckhefer_clm849,,
 sator-arepo square,SATOR-AREPO square,ingredient,1,kieckhefer_clm849,,p. 96,,"quote: ""One fifteenth-century compilation prescribes writing out the SATOR-AREPO square on virgin parchment with the b"""
 semen orobi,semen orobi,ingredient,1,kieckhefer_clm849,,108v,,function: component of chemical mixture
 serabiuum,serabiuum,ingredient,1,kieckhefer_clm849,,108v,,function: component of chemical mixture
+serpents and snakes,Serpents and Snakes,ingredient,1,scot_1584,,,,"description: Creatures often the subject of charms and enchantments in the text, discussed as being resistant to magic or susceptible to susceptibility. · role: subject of enchantment"
 seven herbs,seven herbs,ingredient,2,kieckhefer_clm849,,intro paragraph,,function: component of unguentum pharelis
 silver (argentum),Silver (argentum),ingredient,1,kieckhefer_clm849,,79v,,"quote: ""Prima hora diei fac ymaginem canis ex argento uel stanno- puro"""
 silver or tin,silver or tin,ingredient,2,kieckhefer_clm849,,fols 11v–13v,,role: material for casting images
@@ -499,7 +540,7 @@ suffumigatio (fumigation),suffumigatio (fumigation),ingredient,1,kieckhefer_clm8
 suffumigation ingredients (amber / musk / aloe / labdanum / mastic / frankincense / pearls),Suffumigation Ingredients (Amber / Musk / Aloe / Labdanum / Mastic / Frankincense / Pearls),ingredient,1,liber_juratus,,75-76,,"quote: ""suffumigetur hoc sigillum ambra, musco, aloe, lapdano albo et rubeo."""
 sulfur (sulphur),Sulfur (Sulphur),ingredient,1,liber_juratus,,280-281,,purpose: Suffumigation
 sulfur smoke,sulfur smoke,ingredient,1,kieckhefer_clm849,,fols 13v–15r,,"quote: ""suffumiga eum cum fumo sulphuris"""
-sulphur,Sulphur,ingredient,4,kieckhefer_clm849,,"76r|fol. 14v|no. 5, Table E|p. 341",Sulphur|sulphur,function: used in suffumigation for hatred ritual
+sulphur,Sulphur,ingredient,5,kieckhefer_clm849|scot_1584,yes,"76r|fol. 14v|no. 5, Table E|p. 341|page 314-315",Sulphur|sulphur,description: Used for purification and driving out spirits. · function: used in suffumigation for hatred ritual
 terebentina,terebentina,ingredient,1,kieckhefer_clm849,,108v,,function: component of chemical mixture
 terra,Terra,ingredient,1,kieckhefer_clm849,,[56r],,function: earth element that trembles at divine names
 theriac,Theriac,ingredient,1,kieckhefer_clm849,,p. 343,,"quote: ""cum sangwine rubeo et involues eam in panno albo nouo"""
@@ -553,21 +594,34 @@ samaym,Samaym,location,1,liber_juratus,,211,,description: the seat/First Heaven
 sancta maria heremitta,Sancta Maria Heremitta,location,1,kieckhefer_clm849,,,,"quote: ""...one night with the aid of demons his master had a bridge constructed over a river in Bavaria at a place cal"""
 sepulcrum hominis interfecti,sepulcrum hominis interfecti,location,1,kieckhefer_clm849,,42v (No. 23),,role: ritual site for Lilith mirror; burial place of murdered man
 abdenago,Abdenago,person,1,kieckhefer_clm849,,168,,role: one of the three young men
-abraham,Abraham,person,3,kieckhefer_clm849|liber_juratus,yes,"154, 157, 158|168|[56r], [137r]",,function: patriarch invoked in consecration prayers · role: patriarch
+abraham,Abraham,person,4,kieckhefer_clm849|liber_juratus|scot_1584,yes,"154, 157, 158|168|Page 243|[56r], [137r]",,description: Cited as the first inventor of dream exposition. · function: patriarch invoked in consecration prayers · role: patriarch
+acrobius,Acrobius,person,1,scot_1584,,"Chapter 2, Page 241",,description: Recounts five differences of images or imaginations in sleep.
 adam,Adam,person,2,kieckhefer_clm849|liber_juratus,yes,"157, 158|[58r]",,function: first man; invoked in consecration prayers
+ade davie,Ade Davie,person,1,scot_1584,,[Page 141-142],,description: A Kentish woman who believed she had bargained her soul to the devil due to a melancholic episode. · role: subject of a case study
+adversaries/betting_on_side_observers,adversaries/betting_on_side_observers,person,1,scot_1584,,"Chapter 27, Page 370",,"description: Part of a confederate network in card games, working to signal information to the player. · role: deceivers/signallers"
+aelianus,Aelianus,person,1,scot_1584,,Chapter 18/Page 35/5,,description: Cited regarding seeing frogs and toads with earth-like parts.
 agnolo di corso,Agnolo di Corso,person,1,kieckhefer_clm849,,p. 103,,role: magician who invoked Satan and Beelzebub
+agrippa,Agrippa,person,2,scot_1584,,"Page 634, 635|page 211",,description: An author cited regarding the ability of necromancers to recall spirits within a year of death.; A cited author/magician whose experiences and declarations are used to validate certain magical effects.  · role: Author/Scholar
+albert,Albert,person,1,scot_1584,,,,description: Attributed dreams to the influence of superior bodies.
 alexander the great,Alexander the Great,person,1,garnier_1909,,56,,role: historical figure
 alice kyteler,Alice Kyteler,person,1,kieckhefer_clm849,,p. 103,,role: woman accused of using demonic materials for erotic magic
+ambrose,Ambrose,person,1,scot_1584,,page 461,,description: A father of the church who expounds on the meaning of spirit in Amos.
+ant. houin,Ant. Houin,person,1,scot_1584,,Page 141,,description: A witch executed in 1565 who confessed to causing weather phenomena.
+anthotiius prafensis,Anthotiius Prafensis,person,1,scot_1584,,page 467,,description: cardinal and legat for the pope throughout France. · role: cardinal
 antoninus of florence,Antoninus of Florence,person,1,kieckhefer_clm849,,p. 79,,role: referenced for burning book emitting lamentation
 apepi,Apepi,person,1,garnier_1909,,302,,role: Pharaoh who rejected Egyptian gods for Set alone
 apollonius,Apollonius,person,2,ars_notoria,,"12, 13|31",,role: master of arts; Author/Commentator following Solomon's works
 apuleius,Apuleius,person,2,garnier_1909|kieckhefer_clm849,yes,"210, 214–215|section 7, Demons and Daimons",,"role: source of daimon concept in Christian tradition; Roman writer, philosopher, magician"
+aristotle,Aristotle,person,4,scot_1584,,"Page 136, Chapter 7|Page 243, Page 244|page 143|page 208, 209",,"description: A philosopher cited regarding the effects of melancholic passions.; Ancient Greek philosopher-physician, cited-as-a-source-of-stating-that-melancholy-causes-strange-effects-and-that-people-learn-strange-tongues.; A philosopher cited to provide a rational critique of reports of speaking beasts and moving images. · role: philosopher/physician; Philosopher/Critique"
 asef caroth,Asef Caroth,person,1,kieckhefer_clm849,,[104v],,role: master/magister
 augustine,Augustine,person,1,garnier_1909,,"57, 60",,role: Church Father
+averroes,Averroes,person,1,scot_1584,,Page 243,,description: Attributed dreams to the imaginative sense.
+avicen,Avicen,person,1,scot_1584,,Page 243,,description: Attributed dreams to the last intelligence that moves the moon.
 babylonian king,Babylonian king,person,1,garnier_1909,,341,,"quote: ""the worship of the dead Babylonian king under similar forms"""
 balaam,Balaam,person,1,garnier_1909,,219,,role: prophet granted true but morally ambiguous divinatory faculty
 balthasar,Balthasar,person,1,kieckhefer_clm849,,165,,role: one of the three magi
 benjamin rowe,Benjamin Rowe,person,1,ars_notoria,,"2, 3, 4",,role: transcriber/editor
+bodin (jean bodin),Bodin (Jean Bodin),person,1,scot_1584,,Page 532,,"description: A writer who asserts there are day and night devils, and that the devil loves no salt in his meat."
 bokte (tibetan/tartar ascetic),Bokte (Tibetan/Tartar ascetic),person,1,garnier_1909,,159,,"quote: ""Messrs Hue and Gabet report that they saw a Bokte rip open his own stomach in the Great Court of the Lamaserai"""
 boy (puer virgineus),boy (puer virgineus),person,1,kieckhefer_clm849,,"p. 371 (97r), p. 375 (99v)",,role: medium/seer; must be legitimate-born and chaste
 boy medium,boy medium,person,1,kieckhefer_clm849,,p. 118,,function: scrying medium
@@ -576,58 +630,83 @@ buddha,Buddha,person,1,garnier_1909,,p. 149,,role: recipient of five holy script
 c.s. lewis,C.S. Lewis,person,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,role: coined term 'Lowerarchy' for infernal hierarchy
 cadmus,Cadmus,person,1,garnier_1909,,52,,role: Phoenician teacher
 caesarius of heisterbach,Caesarius of Heisterbach,person,1,kieckhefer_clm849,,"p. 209, n. 14",,role: preacher/narrator
+calvin,Calvin,person,1,scot_1584,,page 68,,description: Reformer who referred to magicians as 'cousenors'.
+calvine,Calvine,person,1,scot_1584,,Chapter 20/Page 358,,description: Cited as describing Pharaoh's magicians as jugglers.
 cardanus (gerolamo cardano),Cardanus (Gerolamo Cardano),person,1,garnier_1909,,213,,"role: scholar, occultist"
+carolus gallus,Carolus Gallus,person,1,scot_1584,,page 452,,description: Author whose writings on magic are mentioned in relation to Nero
 caspar,Caspar,person,1,kieckhefer_clm849,,165,,role: one of the three magi
 cecco d’ascoli,Cecco d’Ascoli,person,1,kieckhefer_clm849,,n/a (cited in Kieckhefer),,role: medieval scholar; Floron known from his writings
 cedrenus,Cedrenus,person,1,garnier_1909,,58–59,,role: medieval chronicler
 chaldeans,Chaldeans,person,1,garnier_1909,,51–52,,role: originators of astronomy/religion
 child medium (puer/virgo iuvenis),Child medium (puer/virgo iuvenis),person,1,kieckhefer_clm849,,p.160–161,,role: medium in divinatory experiments
+christ,Christ,person,1,scot_1584,,page 206,,"description: A central figure in the Christian context, used to discuss the nature of spirits and physical bodies. · nature: spirit vs flesh/bones"
 chrysor (hephaestus),Chrysor (Hephaestus),person,1,garnier_1909,,"241, 243",,"role: Magician and sorcerer skilled in words, charms, divinations; Nephilim-descended"
-cicero,Cicero,person,1,garnier_1909,,56,,role: Roman writer
+cicero,Cicero,person,2,garnier_1909|scot_1584,yes,56|Page 243,,description: Confutes the vanity and folly of dream interpreters. · role: Roman writer
 claire fanger,Claire Fanger,person,1,ars_notoria,,3,,role: scholar
+clemens,Clemens,person,1,scot_1584,,Chapter 20/Page 358,,description: Cited regarding the magicians' works being prestigious shows rather than true miracles.
 clement of alexandria,Clement of Alexandria,person,1,garnier_1909,,p. 197,,role: early Church Father
 colonel townshend,Colonel Townshend,person,1,garnier_1909,,213–214,,"role: subject of medical observation, will-controlled death"
 constantius africanus,Constantius Africanus,person,1,kieckhefer_clm849,,p. 78,,role: legendary figure associated with opal invisibility
+cornelius agrippa,Cornelius Agrippa,person,2,scot_1584,,page 452,,description: An author whose views on demonology were influential during Scot's time.; Author whose writings on magic are mentioned in relation to Nero
 cush,Cush,person,4,garnier_1909,,"60, 62–63|p. 183|p. 227|p. 372–373",,role: patriarch; human original of Hermes/Buddha/Woden; originator of postdiluvian idolatry
 cushite race,Cushite race,person,1,garnier_1909,,"p. 134, p. 135",,"role: pre-Aryan inhabitants of India, Cushitic/Ethiopian origin"
 cyprian of carthage,Cyprian of Carthage,person,1,garnier_1909,,p. 197,,role: early Church Father
-daniel,Daniel,person,2,kieckhefer_clm849|liber_juratus,yes,"180|[56r], [137r]",,function: invoked for deliverance from lions’ den
+cyril,Cyril,person,2,scot_1584,,page 456|page 466,,description: Cited regarding the use of oil as a metaphor for God's mercy.; Church father cited in defense of the Trinity.
+daniel,Daniel,person,3,kieckhefer_clm849|liber_juratus|scot_1584,yes,"180|Page 241, Page 244, Page 249|[56r], [137r]",,description: Prophet known for interpreting dreams and receiving divine revelations. · function: invoked for deliverance from lions’ den
+dati7natiis hispanus,Dati7natiis Hispanus,person,1,scot_1584,,Chapter 18/Page 355,,description: Claimed to be able to make creatures at will.
 diodorus siculus,Diodorus Siculus,person,1,garnier_1909,,"56, 58",,role: Pagan historian
 diviners / enchanters / necromancers,diviners / enchanters / necromancers,person,1,garnier_1909,,p. 378–379,,role: practitioners of spirit communication
+egyptians,Egyptians,person,1,scot_1584,,Chapter 29,,"description: A group referred to as practicing 'fast or loose' (sleight of hand) and 'sortilegie' (sorcery), accused of using tricks to mimic magic. "
 eleanor cobham,Eleanor Cobham,person,1,kieckhefer_clm849,,p. 211,,role: Duchess of Bedford
+eleazar,Eleazar,person,1,scot_1584,,Chapter 28,,"description: A person whose feat of making a pot fall from a cupboard via 'words' is described as a miracle, though explained here as a trick with black thread. "
 elisha,Elisha,person,1,garnier_1909,,219,,role: prophet with clairvoyant abilities
 epiphanius,Epiphanius,person,1,garnier_1909,,59,,role: Christian bishop
+erasmus,Erasmus,person,2,scot_1584,,Chapter 20/Page 358|page 361,,description: Author of a story regarding two Alcumysts and the phenomena of longation and curtation; Cited regarding the argument that witchcraft is old wives' fables.
+erastus,Erastus,person,1,scot_1584,,page 68,,"description: A writer who defended certain aspects of magic, such as flying in the air."
 etruscans,Etruscans,person,1,garnier_1909,,52–53,,"quote: """"Colonel Conder...shows that the Etruscan language was remarkably similar to the ancient Chaldean or Accadian."""
 euduchaeus,Euduchaeus,person,1,ars_notoria,,12,,role: co-authority cited for validation
 euhemeros,Euhemeros,person,1,garnier_1909,,56,,role: Greek philosopher
-eusebius,Eusebius,person,1,garnier_1909,,"56, 60",,role: Church historian
+eusebius,Eusebius,person,3,garnier_1909|scot_1584,yes,"56, 60|page 207|page 462",,description: An ecclesiastical historian whose work is cited to discuss the oracle of Apollo and the deception of priests.; A writer cited regarding the creation of the spirit. · role: Church historian; Historian
 eva,Eva,person,1,kieckhefer_clm849,,[137r],,function: first woman; invoked in consecration prayers
+exorcist,Exorcist,person,1,scot_1584,,"Appendix I, Chapter 1",,(attributes not extracted)
 exorcista,Exorcista,person,1,kieckhefer_clm849,,55v–58r,,role: ritual operator commanding spirits
 fakirs,Fakirs,person,1,garnier_1909,,213,,"quote: ""voluntary somnambulism is frequent among the Indian Brahmins and Fakirs"""
 francis of assisi,Francis of Assisi,person,1,garnier_1909,,p. 207,,role: Christian saint
 francis of macerata,Francis of Macerata,person,1,garnier_1909,,p. 207,,role: Christian saint
+galen,Galen,person,1,scot_1584,,Page 242,,description: Physician cited regarding the physical nature of dreams through humors.
 geraud cassendi,Geraud Cassendi,person,1,kieckhefer_clm849,,p. 103,,role: notary tried for demonic love magic
 gilles de rais,Gilles de Rais,person,1,kieckhefer_clm849,,186–7,,"quote: ""Gilles de Rais, 186–7"""
+gregory of nazianzus (gregorie neocessariensis),Gregory of Nazianzus (Gregorie Neocessariensis),person,1,scot_1584,,page 207,,description: A figure whose journey to the Alps and interaction with the temple of' Apollo is used as a tale of deception. · role: Traveler/Christian figure
+henry institor,Henry Institor,person,1,scot_1584,,page 470,,description: Inquisitor and compiler of Malleus Maleficarum
 hermes,Hermes,person,2,garnier_1909,,"223–225|p. 149, 152–153",,role: founder of pagan magic and necromantic tradition
-hermes trismegistus,Hermes Trismegistus,person,1,garnier_1909,,p. 204,,role: supposed originator of ancient Pagan magic
+hermes trismegistus,Hermes Trismegistus,person,2,garnier_1909|scot_1584,yes,p. 204|page 466,,description: Ancient figure cited regarding the necessity of the spirit for all things. · role: supposed originator of ancient Pagan magic
 hermes trismegistus (pseudo-),Hermes Trismegistus (pseudo-),person,1,garnier_1909,,56,,role: attributed author
 hermes/thrice great hermes,Hermes/Thrice Great Hermes,person,1,garnier_1909,,p. 189,,role: originator of Paganism
 hesiod,Hesiod,person,2,garnier_1909,,54|56,,role: ancient Greek poet; Pagan writer
 hierophauts and prophets of the shrines,hierophauts and prophets of the shrines,person,1,garnier_1909,,p. 204,,role: Egyptian religious specialists
+hilarie,Hilarie,person,1,scot_1584,,page 459-460,,description: A writer of the Trinity who is cited as an object of debate regarding whether the Holy Spirit is to be worshipped.
 hildegard of bingen,Hildegard of Bingen,person,1,kieckhefer_clm849,,83,,role: mystic
+hippocrates,Hippocrates,person,1,scot_1584,,'])),,description: Ancient physician cited for opinions on magical cures.
 honi the circle-drawer,Honi the Circle-Drawer,person,2,kieckhefer_clm849,,175,,"quote: ""Honi the Circle-Drawer, 175"""
 honorius,Honorius,person,3,liber_juratus,,299-301|49-52|53,,role: author/magus
 honorius of regensburg,Honorius of Regensburg,person,1,kieckhefer_clm849,,83,,role: theologian
 honorius of thebes,Honorius of Thebes,person,1,liber_juratus,,page 1,,role: author/magister
 "honorius, son of euclid","Honorius, son of Euclid",person,1,kieckhefer_clm849,,171,,"quote: ""Honorius, son of Euclid, 171"""
+horace,Horace,person,1,scot_1584,,Page 202,,"description: Roman poet, cited to mock or impugn the power of witches. · role: poet"
 hugh of st victor,Hugh of St Victor,person,1,kieckhefer_clm849,,48,,"quote: ""Hugh of St Victor’s Didascalicon borrows from Isidore..."""
 iamblichus,Iamblichus,person,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,role: Neoplatonist source of demonic hierarchy
 ioseph,Ioseph,person,1,kieckhefer_clm849,,[58r],,function: invoked in consecration prayers (unclear reference)
 isaac,Isaac,person,2,kieckhefer_clm849|liber_juratus,yes,"157, 158|168",,role: patriarch
 isidore of seville,Isidore of Seville,person,1,kieckhefer_clm849,,48,,"quote: ""Isidore of Seville, who deals with magic and especially magical divination in his Etymologies..."""
+j. bap. neap,J. Bap. Neap,person,1,scot_1584,,Chapter 18/Page 354-355,,"description: Author cited for information on the production of monsters, serpents, and the nature of toads/frogs."
 jacob,Jacob,person,2,kieckhefer_clm849|liber_juratus,yes,"157, 158|168",,role: patriarch
+jamblichus,Jamblichus,person,1,scot_1584,,Chapter 20/Page                 358,,description: Cited regarding the nature of fascination and imagination.
 jamblicus,Jamblicus,person,1,garnier_1909,,p. 206,,role: Egyptian philosopher/magician
-jesus christ,Jesus Christ,person,2,liber_juratus,,"175|82, 83, 84, 87, 89",,"role: redeemer; savior, Lord, creator · nature: God and Man"
+james sprenger,James Sprenger,person,2,scot_1584,,Page 529|page 470,,description: Inquisitor and compiler of Malleus Maleficarum; A writer who gathers and notes causes for why the devil possesses men at certain moon phases.
+jannes and jambres,Jannes and Jambres,person,1,scot_1584,,page 318,,description: False prophets mentioned in relation to miracles and plagues (serpents and frogs)
+jean bodin,Jean Bodin,person,1,scot_1584,,page 472,,description: Author/thinker who discusses the punishment of witches vs conjurors.
+jeremze/jeremiah,Jeremze/Jeremiah,person,1,scot_1584,,page 456,,description: A prophet whose words are used to describe the fiery nature of the spirit.
+jesus christ,Jesus Christ,person,3,liber_juratus|scot_1584,yes,"175|82, 83, 84, 87, 89|throughout",,"description: Central figure of Christianity, used in various charms and curses. · role: redeemer; savior, Lord, creator; Lord · nature: God and Man"
 jesus of nazareth,Jesus of Nazareth,person,1,liber_juratus,,182,,"quote: ""Iesus Nazarenus, et multum misericors"""
 johann von frankfurt,Johann von Frankfurt,person,1,kieckhefer_clm849,,p. 189,,"quote: ""Johann von Frankfurt noted in the early fifteenth century that Plato distinguished between good daimons (calod"""
 johannes cunalis,Johannes Cunalis,person,3,kieckhefer_clm849,,45–46|section 'Necromancy and Necromancers in Fifteenth-Century Munich',,role: priest and plebanus; priest-necromancer
@@ -636,9 +715,16 @@ johannes hartlieb,Johannes Hartlieb,person,2,kieckhefer_clm849,,47–52|n/a (cit
 johannes reuchlin,Johannes Reuchlin,person,1,kieckhefer_clm849,,51,,"quote: ""...Humanist mages such as Johannes Reuchlin protested that the debased magic... could have no effect because t"""
 johannes trithemius,Johannes Trithemius,person,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,role: lent authority to the expanded demon hierarchy
 johanneta,Johanneta,person,1,kieckhefer_clm849,,,,role: intended victim of image magic
+john baptist,John Baptist,person,1,scot_1584,,page 349,,description: Subject of a juggling trick called 'the decollation of John Baptist'
+john calvin,John Calvin,person,1,scot_1584,,page 539,,description: Theologian whose opinion on the devil is mentioned
+john deacon,John Deacon,person,1,scot_1584,,page 55,,description: A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).
 john haddon,John Haddon,person,1,kieckhefer_clm849,,n/a (Coventry case),,role: victim of theft who consulted necromancers; accused William Lee based on their divination
 john of frankfurt,John of Frankfurt,person,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,role: theologian who debated demonic coercion
+john walker,John Walker,person,1,scot_1584,,page 55,,description: A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).
+john wierus,John Wierus,person,1,scot_1584,,page 472,,description: A person whose writings on conjurations are mentioned by Bodin.
+john/st. john,John/St. John,person,1,scot_1584,,page 455,,description: A biblical figure whose words are used to discuss the water of life and the nature of the spirit.
 jonah,Jonah,person,1,kieckhefer_clm849,,"[56r], [137r]",,function: invoked for deliverance from whale’s belly
+josephus,Josephus,person,1,scot_1584,,Chapter 28,,description: A historical source cited in relation to the feat of Eleazar.  · role: historian/source
 joshua,Joshua,person,1,kieckhefer_clm849,,[137r],,function: invoked for miracle of sun/moon standing still
 jubertus,Jubertus,person,1,kieckhefer_clm849,,,,role: associate or master of Johannes Cunalis
 jubertus of bavaria,Jubertus of Bavaria,person,2,kieckhefer_clm849,,45|section 'Necromancy and Necromancers in Fifteenth-Century Munich',,role: confessor/witness; confessor/associate of Johannes Cunalis
@@ -646,6 +732,7 @@ king solomon,King Solomon,person,2,ars_notoria,,24-31|32,,"role: Recipient of An
 "kramer, heinrich","Kramer, Heinrich",person,1,kieckhefer_clm849,,"3, 82",,"quote: ""Kramer, Heinrich, 3, 82; see also Malleus maleficarum"""
 krishna,Krishna,person,1,kieckhefer_clm849,,p. 106–107,,role: comparative figure in illusionist magic
 lucan,Lucan,person,1,garnier_1909,,p. 208,,role: poet
+m. mai,M. Mai.,person,1,scot_1584,,page 468,,description: A source cited by Scot to discuss the legality of exorcism without conjuration.
 magister,magister,person,1,kieckhefer_clm849,,280–47r (repeatedly),,"role: ritualist; conjures spirits, interrogates pueri"
 maimonides,Maimonides,person,1,garnier_1909,,299,,role: medieval Jewish scholar citing Chaldean sources
 maimonides (maimonedes),Maimonides (Maimonedes),person,1,garnier_1909,,57,,role: medieval philosopher
@@ -667,45 +754,71 @@ necromancer,necromancer,person,1,kieckhefer_clm849,,p. 118,,role: cleric perform
 niccolo consigli,Niccolo Consigli,person,1,kieckhefer_clm849,,historical reference in analysis,,"quote: ""When Niccolo Consigli was tried at Florence in 1384, for example, he was accused not only of summoning demons """
 nicholas eymericus,Nicholas Eymericus,person,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,role: theologian who described demonic honor as sacrifice
 nicholas magni of jawor,Nicholas Magni of Jawor,person,1,kieckhefer_clm849,,47–48,,"quote: ""...influenced in particular by Nicholas Magni of Jawor..."""
+nicolaus hemingius,Nicolaus Hemingius,person,1,scot_1584,,"Page 243, Page 244",,description: Divides diabolical dreams into three sorts.
 nimrod,Nimrod,person,4,garnier_1909,,"254–256, 298–301|62–64|p. 133, p. 135|p. 372–374",,"role: founder-king; founder of first great empire, first idolater; Cushite conqueror and god-king"
 noah,Noah,person,3,garnier_1909|kieckhefer_clm849,yes,246-253|[56r]|p. 227,,function: patriarch saved by ark; invoked in consecration · role: antediluvian patriarch
 occinnomos,Occinnomos,person,1,liber_juratus,,276-277,,role: master
 oldradus da ponte,Oldradus da Ponte,person,1,kieckhefer_clm849,,p. 101,,role: fourteenth-century author on demonic love magic
+ovid,Ovid,person,1,scot_1584,,"Ovid, metamor. 7.",,"description: Roman poet, cited as a 'poetical witch' who claims to break vipers' jaws with words. · role: poet"
+pan,Pan,person,1,scot_1584,,page 457,,description: A figure mentioned in relation to error and drunkenness.
 parmen[ides],Parmen[ides],person,1,kieckhefer_clm849,,fol. 13r,,role: mentioned as user of image ritual
 parmenides,Parmenides,person,1,kieckhefer_clm849,,p. 99,,role: legendary figure cited as user of image magic
+person who denied the legality of conjuration in a specific incident involving monks,A person who denied the legality of conjuration in a specific incident involving monks.,person,1,scot_1584,,page 467,,(attributes not extracted)
+peter or barbara,Peter or Barbara,person,1,scot_1584,,page 469,,description: Names used in a specific conjuration formula for the sick.
 peter recordi,Peter Recordi,person,1,kieckhefer_clm849,,p. 102,,role: Carmelite friar tried for erotic magic
-plutarch,Plutarch,person,1,garnier_1909,,56,,role: Pagan writer
+peucer,Peucer,person,1,scot_1584,,Page 241,,description: Author who provides causes and occasions of dreams.
+pharaoh's magicians,Pharaoh's magicians,person,1,scot_1584,,,,"description: Magicians in the service of Pharaoh, whose works were compared to Moses' miracles and later critiqued as illusions or 'juggling knacks'. · role: magicians"
+pharaos magicians,Pharaos magicians,person,1,scot_1584,,page 317,,description: Magicians of Pharaoh compared to witches in terms of cunning and juggling knacks · nature: cunning via juggling knacks
+plato,Plato,person,2,scot_1584,,Page 243|page 498/500,,"description: Philosopher whose opinions on spirits, devils, and angels are discussed; Attributed dreams to the forms and ingendered knowledges of the soul."
+plutarch,Plutarch,person,2,garnier_1909|scot_1584,yes,56|Chapter 18/Page 355,,description: Cited regarding the descent of toads in rain. · role: Pagan writer
 priesthood / pontiffs,priesthood / pontiffs,person,1,garnier_1909,,p. 378–379,,role: mediators
 proclus,Proclus,person,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,role: Neoplatonist who categorized daimones by elements
-psellus,Psellus,person,1,garnier_1909,,p. 208,,role: writer on demons/magic
+psellus,Psellus,person,2,garnier_1909|scot_1584,yes,p. 208|page 492/495,,description: Philosopher whose opinions on spirits are discussed and disproved · role: writer on demons/magic
 puer puellaque virgines,puer puellaque virgines,person,1,kieckhefer_clm849,,"283 (No. 22), 43r, 44v–45r (multiple)",,role: child seers used in scrying; must be chaste and legitimate-born
 rameses ii,Rameses II.,person,1,garnier_1909,,302,,role: pharaoh marking shift in divine politics
+reginald scot,Reginald Scot,person,2,scot_1584,,"P. 523, P. 657|page 682",,"description: Author of Discoverie of Witchcraft (1584), a skeptical/skeptical approach to magic and witchcraft. The text discusses his translation/copying of Wier's Pseudomonarchia Demonum. Pseudomonarchia Demonum is Pseudomonarchia Demonum; Author of Discoverie of Witchcraft. · role: Author/Translator/Skeptical Agent; author"
 restitutus,Restitutus,person,1,garnier_1909,,213,,"role: priest, mystic"
 robert turner,Robert Turner,person,1,ars_notoria,,"1, 3, 4, 9",,role: translator
 roger bolingbroke,Roger Bolingbroke,person,1,kieckhefer_clm849,,p. 211,,role: astronomer/magician
+s. lucie,S. Lucie,person,1,scot_1584,,page 461,,description: Subject of a strange story following a miracle of S. Margaret
+s. margaret,S. Margaret,person,1,scot_1584,,page 455/457,,description: Subject of a story involving fighting a real devil and a miracle wrought by a priest
 "sadrach, meshach, abednego","Sadrach, Meshach, Abednego",person,1,kieckhefer_clm849,,"[56r], [137r]",,function: three youths delivered from fiery furnace
+salomon,Salomon,person,2,scot_1584,,"Page 242, Page 243|Page 416",,description: Cited regarding casual dreams and the multitude of business.; A wise king who gathered demons in a brass vessel.
+salomon (solomon),Salomon (Solomon),person,1,scot_1584,,"Page 529, 534",,description: A historical figure associated with conjuration and the worship of certain idols. · role: Conjurer/Worshipper
+samuel,Samuel,person,1,scot_1584,,page 2/210,,"description: A biblical figure, the subject of a debate regarding whether he was truly raised from the dead by the witch of Endor."
 sanchoniathon,Sanchoniathon,person,1,garnier_1909,,56,,role: Phoenician writer
 saul (biblical),Saul (biblical),person,1,garnier_1909,,301,,role: parallel for symbolic dismemberment ritual
+saul (king saul),Saul (King Saul),person,1,scot_1584,,"page 210, 214",,description: A biblical king whose interaction with the witch of Endor is a central case study in the text. · role: King/Subject of debate
 "scot, michael","Scot, Michael",person,1,kieckhefer_clm849,,"5, 37, 120",,"quote: ""Scot, Michael, 5, 37, 120"""
 semiramis,Semiramis,person,1,garnier_1909,,p. 372,,role: ordained priesthood after Nimrod’s overthrow
 seth,Seth,person,1,garnier_1909,,p. 227,,"quote: ""it may be remarked that the name Seth is synonymous with Shem..."""
 "shadrach, meshach, abedenego","Shadrach, Meshach, Abedenego",person,1,liber_juratus,,180,,"quote: ""tres pueros Sydrac, Misaac et Abdenago... de camino ignis"""
 shramanas (ascetics),Shramanas (ascetics),person,1,garnier_1909,,159,,"quote: ""The name given to these ascetics was 'Shamanas,' or 'Shramanas,' a word meaning 'quieting of the passions'..."""
-socrates,Socrates,person,2,garnier_1909|kieckhefer_clm849,yes,63|p. 402,,role: supposed ancient authority cited by compiler
+simon davie,Simon Davie,person,1,scot_1584,,[Page 141-142],,description: Husband of Ade Davie. · role: witness/husband
+sir roger manwood,Sir Roger Manwood,person,1,scot_1584,,page 65,,"description: Knight and Lord Chief Baron of the King's Court of the Exchequer, recipient of Scot's Epistle."
+socrates,Socrates,person,3,garnier_1909|kieckhefer_clm849|scot_1584,yes,63|p. 402|page 498,,description: Philosopher mentioned in relation to having a familiar devil · role: supposed ancient authority cited by compiler
 socrates (as authority),Socrates (as authority),person,2,kieckhefer_clm849,,experiment no. 9|p. 74–75,,function: cited as authority on protective circle · role: authority cited in circle description
 solomon,Solomon,person,8,ars_notoria|kieckhefer_clm849|liber_juratus,yes,"1, 7, 11|168|16–23|24, 85, 108, 115, 139, 159, 171|40",,"role: legendary magician, ring-bearer; source of magical characters; recipient of revelation"
 "solomon, king","Solomon, King",person,1,liber_juratus,,"15, 27, 38, 41-42, 53, 61, 75, 77, 79, 141, 173, 189, 211n, 213, 217, 227, 271-275, 289",,"quote: ""Solomon, King, 15, 27, 38, 41-42, 53, 61, 75, 77, 79, 141, 173, 189, 211n, 213, 217, 227, 271-275, 289"""
 spanish magician,Spanish magician,person,2,kieckhefer_clm849,,n/a (exemplum narrative)|p.154,,role: magus
+sprenger and institor,Sprenger and Institor,person,1,scot_1584,,page 150,,description: _the_old_hammer_of_Malleus_Maleficarum_authors/inquisitors. · role: Inquisitors
 st philip neri,St Philip Neri,person,1,garnier_1909,,p. 207-208,,role: Catholic saint
+st. augustine,St. Augustine,person,1,scot_1584,,Page 354/Chapter 18,,"description: Cited as a hold of that they made by art the serpents, etc."
+st. jerome/s. jerome (not explicitly named but implied in context),St. Jerome/S. Jerome (not explicitly named but implied in context),person,1,scot_1584,,,,description: Not found
+steeven tailor,Steeven Tailor,person,1,scot_1584,,Chapter 30,,description: A person involved in a scheme to steal horses using deception and confederates.  · role: deceiver/thief
 stephen of bourbon,Stephen of Bourbon,person,1,kieckhefer_clm849,,n/a (cited in Kieckhefer),,role: medieval preacher/canon; cited for story about demon deception
 susanna,Susanna,person,1,kieckhefer_clm849,,"[56r], [137r]",,function: invoked for deliverance from false accusation
 sydrac,Sydrac,person,1,kieckhefer_clm849,,168,,role: one of the three young men
 tanists (buddhist sect),Tanists (Buddhist sect),person,1,garnier_1909,,157,,role: write charms to drive out demons; cure the sick by magic
+tatian,Tatian,person,1,scot_1584,,"Page 135, Chapter 6",,description: An author or figure cited regarding the nature of the devil's body.
 tertullian,Tertullian,person,1,garnier_1909,,210,,"role: Church Father, critic of magic"
+th. ady,Th. Ady,person,1,scot_1584,,page 682,,description: Author of A Candle in the Dark (1656).
 theodorus,Theodorus,person,1,garnier_1909,,218,,"role: intended successor to Emperor Valens, named by spirits via table-divination"
 theurgists,Theurgists,person,1,garnier_1909,,p. 208,,"quote: ""The Theurgists caused the appearance of the gods (i.e., daimonia) in the air in the midst of a gaseous vapour"""
-thomas aquinas,Thomas Aquinas,person,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,role: theologian who accepted infernal hierarchy
+thomas,Thomas,person,1,scot_1584,,page 206,,"description: The apostle Thomas, used as a biblical example to discuss the nature of spirits and physical presence. · nature: Apostle"
+thomas aquinas,Thomas Aquinas,person,2,kieckhefer_clm849|scot_1584,yes,"section 7, Demons and Daimons",,description: A theologian/doctor of the church who provides arguments for the legality of conjurations and charmes. · role: theologian who accepted infernal hierarchy; theologian
 thomas forde,Thomas Forde,person,1,kieckhefer_clm849,,"n/a (London, 1418)",,role: execrated diviner sentenced to pillory (1418) for fraud
+"thomas scot knight, s^c","Thomas Scot Knight, S^c.",person,1,scot_1584,,page en 71,,"description: Recipient of the Epistle to Sir Thomas Scot, Sir Thomas is a/an a meet/worthy person to whom the author can commend his booke. A member of the    "
 tristan and iseult,Tristan and Iseult,person,1,kieckhefer_clm849,,p. 100,,role: literary figures illustrating symbolic use of love magic
 unhulden,unhulden,person,1,kieckhefer_clm849,,intro paragraph,,function: practitioners using unguentum pharelis
 virgil,Virgil,person,2,garnier_1909|kieckhefer_clm849,yes,p. 208|p. 374 (98v),,role: author of magical experiments referenced; poet
@@ -714,12 +827,15 @@ virgin boy,virgin boy,person,1,kieckhefer_clm849,,,,role: medium
 virgin boy/girl (medium),virgin boy/girl (medium),person,1,kieckhefer_clm849,,,,role: child medium for divination
 virgin mary,Virgin Mary,person,1,liber_juratus,,"80, 81, 82, 83, 84, 85, 86",,role: intercessor
 wallace (naturalist),Wallace (naturalist),person,1,garnier_1909,,p. 204,,role: evolutionist philosopher
+wier,Wier,person,2,scot_1584,,page 57|page 683,,description: An author whose views on demonology were influential during Scot's time.; Cited author regarding the description of 'Leone obscurior & turpis'.
 william lee,William Lee,person,2,kieckhefer_clm849,,"n/a (Coventry case, mid-1480s)|p. 124",,role: petitioner falsely accused by necromantic divination
 william netherstreet,William Netherstreet,person,1,kieckhefer_clm849,,p. 102,,role: English chaplain accused of erotic necromancy
+witch of endor,the witch of Endor,person,5,scot_1584,,"page 209, 214",,description: A woman accused of raising Samuel through a familiar spirit.; A woman accused of raising Samuel from the dead via a familiar spirit.; A woman accused of raising Samuel from the dead via a familiar_spirit. · role: Witch/Pythonissa
 zebedee,Zebedee,person,1,liber_juratus,,211,,role: commanding figure/biblical personality
 zoroaster,Zoroaster,person,1,garnier_1909,,p. xxiv (CONTENTS),,"quote: ""Zoroaster, ""the Seed of the Woman"""""
 zoroaster (chaldean),Zoroaster (Chaldean),person,1,garnier_1909,,p. 206,,role: Chaldean magician-prophet
 "a, q, o, p, e, v","A, Q, O, P, E, V",ritual,1,kieckhefer_clm849,,49v-50r,,function: characters to be inscribed on pelu (stone slab)
+abrenunciation,abrenunciation,ritual,1,scot_1584,,page 682,,description: The renouncing of the devil and his works in Roman Catholic baptism.
 accadian magic/necromancy,Accadian magic/necromancy,ritual,1,garnier_1909,,p. 190,,"quote: """"the religion which he taught... consisted of the Magic, Sorcery, Demon and Nature worship of the Accadians, t"""
 adolf franz exorcism formula,Adolf Franz exorcism formula,ritual,2,kieckhefer_clm849,,173–174|published by Adolf Franz,,function: expulsion of demons
 agla,AGLA,ritual,1,kieckhefer_clm849,,p. 120,,"quote: ""writes on it the letters ‘AGLA’... 'Lord Jesus Christ, king of glory, send us three angels to tell us the trut"""
@@ -752,6 +868,7 @@ bringing concord between humans ritual,Bringing Concord Between Humans Ritual,ri
 canaanite nations’ religion,Canaanite nations’ religion,ritual,1,garnier_1909,,p. 152–153,,"quote: ""the magicians, wizards, necromancers, diviners, sorcerers, enchanters and persons with familiar spirits who we"""
 chaldean incantations,Chaldean incantations,ritual,1,garnier_1909,,156–157,,"purpose: invoke beneficent spirits to defeat evil spirits, disease, misfortune"
 charity/almsgiving,Charity/Almsgiving,ritual,1,liber_juratus,,125,,"quote: ""Si autem repulsam habueris... debes dare tres elemosinas tribus pauperibus"""
+"charms, philtres, periapts, pentacles, curses, and conjurations","Charms, Philtres, Periapts, Pentacles, Curses, and Conjurations",ritual,1,scot_1584,,page 63,,description: Methods through which magic is alleged to work.
 chastity,chastity,ritual,2,ars_notoria|kieckhefer_clm849,yes,47|text body,Chastity|chastity,function: observed out of respect for spirits
 christianization of image ritual,Christianization of image ritual,ritual,1,kieckhefer_clm849,,p. 109,,"quote: """"Then place the image in a new and clean cloth... Then make this conjuration under the fruit-bearing tree, wit"""
 circle,circle,ritual,5,kieckhefer_clm849,,147|CLM 849 passim|n/a (exemplum narrative)|p.157–158,Circle|circle,function: location for conjuration and rendezvous; demonic containment; protective and power-amplifying device; used for conjuring spirits
@@ -780,9 +897,11 @@ complex character,Complex character,ritual,1,kieckhefer_clm849,,"Fol. 108r, no. 
 confiteor,Confiteor,ritual,2,kieckhefer_clm849,,304–305|p.21,,description: A prayer of confession recited before additional consecrations · role: penitential prayer recited during consecration
 coniuratio,Coniuratio,ritual,1,kieckhefer_clm849,,[59v],,function: act of conjuring spirits
 conjuratio equi,conjuratio equi,ritual,1,kieckhefer_clm849,,107r,,function: binds horse to master’s will
+conjuration,Conjuration,ritual,2,scot_1584,,Page 411|page 376/430,Conjuration|conjuration,"description: The act of calling or binding spirits, often discussed in a critical context; The art of calling up spirits, angels, or devils."
 conjuration formulas (generic),Conjuration formulas (generic),ritual,1,kieckhefer_clm849,,p.156–160,,function: command spirits
 conjuration of malign spirits dwell. in bodies of people,The Conjuration of Malign Spirits Dwell. in Bodies of People,ritual,1,kieckhefer_clm849,,printed several times late 15th c.,,"quote: ""The simplest form of exorcism used here is simply, ‘I exorcize you, unclean spirit, in the name of God the Fat"""
 conjuration of malign spirits dwelling in the bodies of people,The Conjuration of Malign Spirits Dwelling in the Bodies of People,ritual,1,kieckhefer_clm849,,174–176,,function: exorcism of demons from possessed individuals
+conjuration of salt,conjuration of salt,ritual,1,scot_1584,,page 473,,description: A ritual involving the consecration and conjuration of salt for health.
 conjuration of satan/mirage,Conjuration of Satan/Mirage,ritual,1,kieckhefer_clm849,,"42, 43",,"quote: ""Conjuration of Satan/Mirage (59v–62v)... a conjuration of a demon named Mirage (given fols 109r–118r and again"""
 conjure / adjure / exorcize,conjure / adjure / exorcize,ritual,1,kieckhefer_clm849,,"p. [unspecified], section 'Formulas for Commanding Spirits'",,function: core action in necromantic formulas
 conjuring,conjuring,ritual,1,kieckhefer_clm849,,p.26,,description: Formal commands to summon demons; identical in form to exorcism but differing in intent
@@ -807,6 +926,7 @@ de nigromancia / thesaurus spirituum,De nigromancia / Thesaurus spirituum,ritual
 deluge,Deluge,ritual,1,garnier_1909,,p. xxiv (CONTENTS),,"quote: ""The Deluge the type of regeneration—Baptism of the Lesser Mysteries"""
 demonic oath,demonic oath,ritual,1,kieckhefer_clm849,,,,"quote: ""they bind themselves first by the God who created them and all things, second by the (presumably demonic) lord"""
 deus invisibilis,Deus invisibilis,ritual,1,kieckhefer_clm849,,304–305,,role: first consecratory prayer title
+devil's covenant/bargain,the devil's covenant/bargain,ritual,1,scot_1584,,Chapter 6,,"description: The alleged agreement between witches and the devil, which Scot argues is unproven and often based on false confessions. · nature: alleged league/fellowship; described by some as involving physical contact with the devil"
 divine vision purification,Divine Vision Purification,ritual,1,liber_juratus,,174,,"quote: ""Mundato igitur et macerato corpore volentis videre celeste palacium"""
 double circular band with pentagram,double circular band with pentagram,ritual,1,kieckhefer_clm849,,83,,function: protective/operational circle
 druidical cross-groves,Druidical cross-groves,ritual,1,garnier_1909,,p. 180,,"quote: """"select the most stately and beautiful tree... affixed two of the largest branches to the highest part of the """
@@ -816,6 +936,7 @@ eucharist,Eucharist,ritual,1,liber_juratus,,175,,"quote: ""corpus Christi recipi
 eucharist (christian-pagan hybrid),Eucharist (Christian-pagan hybrid),ritual,1,garnier_1909,,p. 379,,role: sacrament
 exorcism,exorcism,ritual,2,kieckhefer_clm849|liber_juratus,yes,"17, 21, 275n, 289, 291|p.26",,description: Formal commands to demons to expel them; distinguished from conjuration only by intent
 exorcism of elves and demons (15th-c. medico-magical ms),Exorcism of elves and demons (15th-c. medico-magical ms),ritual,1,kieckhefer_clm849,,same manuscript as above (unspecified shelfmark),,"quote: ""In the name of the Father, and of the Son, and of the Holy Spirit, amen. I conjure you, elves and all kinds of"""
+exorcism of incense,exorcism of incense,ritual,1,scot_1584,,page 474,,description: A ritual to drive away spirits from frankincense.
 exorcism of malignant spirits (same ms),Exorcism of malignant spirits (same ms),ritual,1,kieckhefer_clm849,,same manuscript as above,,"quote: ""Again I conjure you demons or malignant spirits, whoever you are, by the sprinkling of the blood of Jesus Chri"""
 exorcismus,Exorcismus,ritual,1,kieckhefer_clm849,,[61r],,function: act of binding and commanding spirits
 exorcismus (salomonis),exorcismus (Salomonis),ritual,1,kieckhefer_clm849,,63r,,function: binds spirits; used when they refuse to obey
@@ -834,6 +955,7 @@ experiment no. 45 (invisibility),experiment no. 45 (invisibility),ritual,1,kieck
 experiment no. 8 (ship ritual),experiment no. 8 (ship ritual),ritual,1,kieckhefer_clm849,,p. 76–77,,purpose: obtain illusory ship
 experiment no. 9 (horse ritual),experiment no. 9 (horse ritual),ritual,1,kieckhefer_clm849,,p. 73–74,,purpose: obtain illusory horse
 experimentum,Experimentum,ritual,1,kieckhefer_clm849,,304–312,,role: magical operation requiring consecration
+exsufflatio,exsufflatio,ritual,1,scot_1584,,page 682,,description: The act of blowing away the devil during Roman Catholic baptism.
 fasciculus morum,Fasciculus morum,ritual,1,kieckhefer_clm849,,"97, 170",,"quote: ""Fasciculus morum, 97, 170"""
 fasting,fasting,ritual,2,ars_notoria|kieckhefer_clm849,yes,40|text body,Fasting|fasting,function: macerating the flesh in honour of spirits
 fasting and prayer,fasting and prayer,ritual,1,liber_juratus,,40,,"quote: ""This is followed by twelve days of fasting and prayer"""
@@ -846,6 +968,8 @@ figura crucis xl,figura crucis XL,ritual,1,kieckhefer_clm849,,fol 44v,,"quote: "
 figura pueri super signum,figura pueri super signum,ritual,1,kieckhefer_clm849,,fol 42r,,"quote: ""Hie sederat [=sedeat] puer super signum... Hie sedeat magister super signum..."""
 figurae salomonis,figurae Salomonis,ritual,1,kieckhefer_clm849,,"42v (No. 23), 45r (No. 27-A)",,description: pentagrams or hexagrams used for protection and binding
 figurae salomonis (sigilla),figurae Salomonis (sigilla),ritual,1,kieckhefer_clm849,,"fols 42v, 41r",,"quote: "" circa duo lattera superiora sigilla Salomonis depingantur majora..."""
+finding out a thief (with crystal),Finding out a thief (with crystal),ritual,1,scot_1584,,page 309,,description: Using an olive oil cross on a crystal and a child to see the thief.
+finding out a thief (with shears/sieve),Finding out a thief (with shears/sieve),ritual,1,scot_1584,,page 311,,description: Using shears and a sieve to identify a guilty person.
 fingernail divination,fingernail divination,ritual,1,kieckhefer_clm849,,"pp. 371–379 (97r–102v), pp. 380–381 (103r–104r)",,role: core method of scrying
 fingernail ritual,Fingernail Ritual,ritual,1,kieckhefer_clm849,,,,"quote: ""take a virgin boy of legitimate birth... scrape well the thumb nail of his left hand with a knife. Then bind t"""
 fire (ritual),fire (ritual),ritual,1,garnier_1909,,p. 373–374,,role: purification
@@ -886,6 +1010,8 @@ inflict dementia,inflict dementia,ritual,1,kieckhefer_clm849,,,,function: psycho
 inverted hand sign,Inverted Hand Sign,ritual,1,liber_juratus,,222,,"quote: ""here he should hold his hand inverted over his head, and show the sign to them."""
 "ioth, varo, hee, teth","Ioth, Varo, Hee, Teth",ritual,1,kieckhefer_clm849,,[56v],,function: four-letter sacred syllables used in consecrations
 john hartlieb’s procedures,John Hartlieb’s procedures,ritual,1,kieckhefer_clm849,,p. 120–121,,"quote: ""Johannes Hartlieb tells how a zaubermaister stands behind a child and recites secret words into his ear in the"""
+juggling boxes,juggling boxes,ritual,1,scot_1584,,Chapter 31,,"description: The use of boxes with false bottoms or specialized shapes to transform grains, spices, or even a toad. "
+juggling knacks,Juggling knacks,ritual,1,scot_1584,,page 321/338,,description: Deceptive tricks or sleight of hand used to simulate magic
 key of pluto,Key of Pluto,ritual,2,kieckhefer_clm849,,"26|39, 41",,purpose: opening all locks
 key of solomon,Key of Solomon,ritual,1,kieckhefer_clm849,,26,,"quote: ""Key of Solomon, 26"""
 kungte (merit-making),Kungte (merit-making),ritual,1,garnier_1909,,155–156,,purpose: shorten post-mortem suffering; redeem from guilt
@@ -906,7 +1032,10 @@ livre des esperitz,Livre des esperitz,ritual,1,kieckhefer_clm849,,161,,"quote: "
 locus magistri,Locus magistri,ritual,2,kieckhefer_clm849,,"CLM 849, experiments nos. 3,7,9,12|p. 206",,function: marks magician’s position in circle
 lunar cycle ritual,Lunar Cycle Ritual,ritual,1,liber_juratus,,125,,"quote: ""Deinde prima luna, scilicet in die Lune sequenti, fac ut prius penitus et eodem modo similiter luna 2a et luna"""
 magic circle,magic circle,ritual,2,liber_juratus,,30|page 14,Magic Circle|magic circle,purpose: basis for invoking spirits; providing the 'greatest fortification' against spirits
+magical circle (imaginary),Magical Circle (Imaginary),ritual,1,scot_1584,,"Appendix I, Chapter 1",,description: A circle created through incantations and consecrations when a physical boundary cannot be delineated.
+magical circles,Magical Circles,ritual,1,scot_1584,,"Appendix I, Ch. I",,description: Instruments used for the institution of magic and raising spirits
 magister,Magister,ritual,1,kieckhefer_clm849,,p. 206,,"quote: ""...simply Magister (nos 10, 11)."""
+making_of_tempests_and_rain,Making_of_tempests_and_rain,ritual,1,scot_1584,,page 145,,(attributes not extracted)
 male dog,male dog,ritual,1,kieckhefer_clm849,,p. 93,,"quote: ""and the other to a male dog"""
 malleus maleficarum,Malleus maleficarum,ritual,2,kieckhefer_clm849,,"5, 86, 155|section 7, Demons and Daimons",,"quote: ""...the Malleus maleficarum shared with Thomas Aquinas."""
 mandatum (command),Mandatum (command),ritual,1,kieckhefer_clm849,,[61v],,function: divine or ritual instruction to spirit
@@ -962,9 +1091,11 @@ phallus / yoni,Phallus / Yoni,ritual,1,garnier_1909,,p. 375–376,,role: symbol 
 picatrix,Picatrix,ritual,2,kieckhefer_clm849,,"p. 90, 94–95|section 7, Demons and Daimons",,"quote: ""When the list of spirits in this manual is compared with that in Picatrix, what is striking is the singular la"""
 place of the master,place of the master,ritual,1,kieckhefer_clm849,,experiment no. 9 (circle description),,function: designated center position in circle
 poison-making,poison-making,ritual,1,kieckhefer_clm849,,,,"quote: ""...poisons were made by the aid of devils... taken from a basilisk, toad, serpent, spider or scorpion..."""
+poisoning,Poisoning,ritual,1,scot_1584,,"page 59, 61",,description: Described as a 'horrible art'.
 prayer 18 (xviii),Prayer 18 (XVIII),ritual,1,liber_juratus,,95-96,,"purpose: Vision of God, consecration, knowledge"
 prayer 19 (xix),Prayer 19 (XIX),ritual,1,liber_juratus,,95-97,,"function: Instructions for modifying petitions for spirits, knowledge, or consecration"
 preparation of the way,Preparation of the way,ritual,1,liber_juratus,,124,,"quote: ""eight are preparation of the way to work"""
+preventing witches (horse shoe),Preventing witches (horse shoe),ritual,1,scot_1584,,page 314,,description: Nailing a horse shoe to the inside of the threshold.
 psalmi (vii),Psalmi (vii),ritual,1,kieckhefer_clm849,,68r,,function: recited during conjuration
 psalmus 101,Psalmus 101,ritual,1,kieckhefer_clm849,,[55r],,function: scriptural psalm recited during consecration
 psalmus 103,Psalmus 103,ritual,1,kieckhefer_clm849,,[137r],,function: scriptural psalm cited in consecration prayer
@@ -1014,6 +1145,7 @@ sacramentum altaris,sacramentum altaris,ritual,1,kieckhefer_clm849,,[58r],,funct
 sacred anatomy references (blood and water from side),sacred anatomy references (blood and water from side),ritual,1,kieckhefer_clm849,,"p. 374 (98v), p. 379 (102v)",,role: theological-magical motif
 "sacred anatomy references (sweat like blood, darkened sun, moon turned to blood)","sacred anatomy references (sweat like blood, darkened sun, moon turned to blood)",ritual,1,kieckhefer_clm849,,p. 377 (101r),,role: cosmic signs at Passion
 sacred heart,Sacred Heart,ritual,1,garnier_1909,,344,,"quote: ""the word for 'heart' was >v 'Bel', and on the principle of using words with a double meaning... the heart beca"""
+saint adelbert's curse,Saint Adelbert's Curse,ritual,1,scot_1584,,page 312,,description: A long curse against thieves involving excommunication.
 samadhi (trance),Samadhi (trance),ritual,1,garnier_1909,,159,,description: self-induced mesmeric trance; proof of holiness
 samano (shamna/shony),Samano (Shamna/Shony),ritual,1,garnier_1909,,p. 181,,function: festival of the dead
 sanctus (trisagion),Sanctus (Trisagion),ritual,1,kieckhefer_clm849,,p. 374 (98v),,role: heavenly hymn invoked
@@ -1048,18 +1180,23 @@ telete (mysterious sacrifice),Telete (mysterious sacrifice),ritual,1,garnier_190
 temple sleep (incubation),temple sleep (incubation),ritual,1,garnier_1909,,p. 198–199,,"quote: ""they had to fast for twenty-four hours, and abstain from wine for three days, after which they went to sleep i"""
 testament of solomon,Testament of Solomon,ritual,1,kieckhefer_clm849,,161,,"quote: ""Testament of Solomon, 161"""
 thabit ibn qurra’s de imaginibus,Thabit ibn Qurra’s De imaginibus,ritual,1,kieckhefer_clm849,,p. 90,,"quote: ""Thabit ibn Qurra’s De imaginibus [...] experiments for such goals as destroying a city or region, becoming rul"""
+the_league,The_League,ritual,1,scot_1584,,,,description: A purported or confessed_the_renouncing-of-the-faith-and-making-a-bargain-with-the-devil.
 theft investigation ritual,theft investigation ritual,ritual,1,kieckhefer_clm849,,"pp. 371–379 (97r–102v), pp. 380–381 (103r–104r)",,role: primary purpose of the experiment
 themnanteis,Themnanteis,ritual,1,garnier_1909,,p. 198,,function: prophetic diviners not requiring trance
 theomanteis,Theomanteis,ritual,1,garnier_1909,,p. 198–199,,"quote: ""One sort of the Theomanteis... were possessed with prophesying demons... called 'daimono-leeptoi,' 'possessed """
+theurgy,Theurgy,ritual,1,scot_1584,,page 466,,"description: A form of magic or divine work, discussed with a confutation"
 three bands containing a tripartite prayer,Three bands containing a tripartite prayer,ritual,1,kieckhefer_clm849,,"Fol. 99v, 103r",,"description: Found in two circles; first circle at fol. 99v no. 39, second at fol. 103r no. 39"
 three concentric bands with trinitarian quadrants,Three concentric bands with Trinitarian quadrants,ritual,1,kieckhefer_clm849,,"Fol. 105v, no. 40",,description: Innermost circle divided into inscribed quadrants; each dedicated to a member of the Trinity
 tonsure,tonsure,ritual,1,garnier_1909,,342-343,,"quote: ""The ceremony of tonsure... was an old practice of the priests of Mithra, who in their tonsures imitated the so"""
 tournai trial (late 15th c.),Tournai trial (late 15th c.),ritual,1,kieckhefer_clm849,,p. 102–103,,role: judicial case mirroring Munich experiment
 tower of babel,Tower of Babel,ritual,1,garnier_1909,,247-248,,purpose: idolatrous worship
+transplantation,Transplantation,ritual,1,scot_1584,,Page 638,,description: The magical transferring of diseases from one person to another.  · nature: considered more natural than conjuration by the author
+trickery with cards,trickery with cards,ritual,1,scot_1584,,Chapter 27,,"description: Various card tricks involving shuffling, keeping a 'kept' card, and transforming aces into knaves. "
 triple circle ritual,triple circle ritual,ritual,1,kieckhefer_clm849,,"p. 371 (97r), p. 375 (99v), p. 380 (103r)",,role: core protective structure
 triumphal figures,Triumphal Figures,ritual,1,ars_notoria,,14,,"quote: ""There are also certain Figures or Orations which Solomon in Chaldeack called, Hely; that is, Triumphal Oration"""
 twelve names for making spirits appear in a boy’s hand,twelve names for making spirits appear in a boy’s hand,ritual,1,kieckhefer_clm849,,41,,"quote: ""Twelve names for making spirits appear in a boy’s hand (no. 30)"""
 two characters,two characters,ritual,1,kieckhefer_clm849,,experiment no. 11 (circle description),,function: included on invisibility circle
+tying of the point,Tying of the Point,ritual,1,scot_1584,,Page 638,,description: A knot or ligature used to restrain sexual acts between married persons. 
 vengeance of troy (vindicta troie),Vengeance of Troy (Vindicta Troie),ritual,1,kieckhefer_clm849,,p. 91,,"purpose: cause hatred, bodily harm, or death"
 verpintnuß,verpintnuß,ritual,1,kieckhefer_clm849,,48,,"quote: ""...must make an oath and pact [verpintnuß] with the devils."""
 vinculum spirituum,Vinculum spirituum,ritual,1,kieckhefer_clm849,,54r,,role: binding of spirits through consecration
@@ -1067,6 +1204,7 @@ vindicta troie,Vindicta Troie,ritual,1,kieckhefer_clm849,,,,"function: arouse ha
 virgin boy,virgin boy,ritual,1,kieckhefer_clm849,,n/a (Munich Handbook Clm 849),,"quote: ""The medium must be a virgin boy... Sometimes we are told that he must be younger than twelve, and born of legi"""
 virginitas pueri (boy’s virginity),virginitas pueri (boy’s virginity),ritual,1,kieckhefer_clm849,,"47r, 48r, 49v, 51r",,role: required condition for medium
 white hemp garments,white hemp garments,ritual,1,liber_juratus,,211,,"quote: ""being bathed and putting on garments of clean white hemp"""
+witchcrafts/incantations,Witchcrafts/Incantations,ritual,1,scot_1584,,,,description: False and evil spirits and practices that cannot stand the trial of the spirit of truth.
 "aa, ely, sother, adonay, cel, sabaoth, messyas, alazabra, osian","Aa, Ely, Sother, Adonay, Cel, Sabaoth, Messyas, Alazabra, Osian",spirit,2,kieckhefer_clm849,,n/a (example from no. 7)|p.158,,role: ineffable names of the Creator; sacred names of the Creator that bind demons
 "aa, sabaoth, helyn, abacel","Aa, Sabaoth, Helyn, Abacel",spirit,1,kieckhefer_clm849,,fols 14v,,"quote: ""scilicet ‘Aa’, [14v] ‘Sabaoth’, ‘Helyn’, et ‘Abacel’"""
 abaa,Abaa,spirit,6,liber_juratus,,"19, 237, 251-265, 297|237|251|257, 263|296-297",,role: King of Frigicap; king of the spirits of the air of Mercury; King
@@ -1098,16 +1236,19 @@ adoray,Adoray,spirit,1,kieckhefer_clm849,,358,,role: blessed name of the Lord in
 adtulia,Adtulia,spirit,1,kieckhefer_clm849,,357,,role: invoked in Friday's conjuration
 adyr,Adyr,spirit,1,kieckhefer_clm849,,358,,role: blessed name of the Lord invoked in Saturday's conjuration
 aepton,Aepton,spirit,1,kieckhefer_clm849,,[98r],,"quote: ""Caon, Aepton, Alpha et O..."""
+aerial spirits,Aerial Spirits,spirit,1,scot_1584,,page 471,,description: Spirits residing on the tops of turrets.
 afah,Afah,spirit,1,kieckhefer_clm849,,p. 351 (84v),,role: one of twenty-five names inscribed on enemy-expulsion image
 afalion,Afalion,spirit,2,kieckhefer_clm849,,p. 104,,role: demon inscribed on image to afflict legs; inscribed on image’s right leg
 affla,Affla,spirit,2,kieckhefer_clm849,,358,,role: invoked in Saturday's conjuration; invoked in Saturday’s final conjuration
 aflas,Aflas,spirit,1,kieckhefer_clm849,,357,,role: wind serving Saturn’s image
 afonei,Afonei,spirit,1,kieckhefer_clm849,,351r,,"quote: ""...Siego, Afonei..."""
 aforax,Aforax,spirit,1,kieckhefer_clm849,,351r,,"quote: ""...Beolthoray, Aforax..."""
+agares,Agares,spirit,1,scot_1584,,Page 412,,description: A duke of the power of the east appearing as a fair old man riding a crocodile. · rank: duke · appearance: fair old man; riding a crocodile; carrying a hawk
 agla,Agla,spirit,5,kieckhefer_clm849,,"167|68v (fig. e)|CLM 849, experiment no. 16|[98r]|p. 97, 139, 173 (index)",AGLA|Agla,function: used in circles for protection; used in circle inscriptions · role: divine name used in conjurations · rank: sacred name (divine); divine name
 agnibora,Agnibora,spirit,1,kieckhefer_clm849,,358,,role: blessed name of the Lord invoked in Saturday's conjuration
 agnus,Agnus,spirit,2,kieckhefer_clm849,,[98r],,"quote: ""Mediator, Agnus, Ouis..."""
 agnus inmaculatus,Agnus inmaculatus,spirit,1,kieckhefer_clm849,,"60r, 110v, 120r (implied)",,role: Christological title used as conjuratory authority
+agrestis,Agrestis,spirit,1,scot_1584,,page 524,,"description: god of the fields, and to him they praied for fertilitie"
 agroueros (agrus),Agroueros (Agrus),spirit,1,garnier_1909,,243,,role: Deified patriarch; 'greatest of the gods' at Byblos
 aguel,Aguel,spirit,1,kieckhefer_clm849,,p. 351 (84r),,role: one of fifteen names inscribed on army-dispersal image
 agyos,Agyos,spirit,1,kieckhefer_clm849,,48r,,role: divine title (Greek: Ἅγιος)
@@ -1145,6 +1286,7 @@ amamni,Amamni,spirit,1,kieckhefer_clm849,,p. [91r],,role: spiritus
 amamnim,Amamnim,spirit,1,kieckhefer_clm849,,357,,role: spirit commanded by Saturday's angels
 amaris,Amaris,spirit,1,kieckhefer_clm849,,no. 37q,,role: demon or spirit commanded to carry out request
 "amicicia names (malthayl, caramel, etc.)","Amicicia names (Malthayl, Caramel, etc.)",spirit,1,kieckhefer_clm849,,80r,,function: divine names inscribed on images for friendship
+amon,Amon,spirit,1,scot_1584,,Page 412,,description: A mighty marques appearing as a wolf with a serpent's tail. · rank: marques · appearance: wolf; serpent's tail; man with dog teeth
 an,An,spirit,1,kieckhefer_clm849,,65r,,function: rebellious spirit absorbed by earth
 anabona,Anabona,spirit,1,kieckhefer_clm849,,167,,"quote: ""Anabona, by which he merited to receive the tablets of the law"""
 anael,Anael,spirit,6,kieckhefer_clm849|liber_juratus,yes,"19, 67, 71, 213, 221|357|71r, 75r, 76v|Table E (37g), Table F (2nd hour)|p. 336–345",,functions: friendship; love of a woman; travel protection · role: angelus mandans; prepositus diei sexto; angel mandating Friday's image · rank: angel; archangel
@@ -1196,10 +1338,11 @@ assandaran,Assandaran,spirit,2,kieckhefer_clm849,,359|p. [92r],,role: princeps; 
 assassael,Assassael,spirit,1,kieckhefer_clm849,,p. 342,,role: angelus assistens diei Jouis
 assassayel,Assassayel,spirit,2,kieckhefer_clm849|liber_juratus,yes,209|no. 37m/q,,role: angel constituted over the fifth image (Thursday)
 astaba,Astaba,spirit,3,kieckhefer_clm849,,357|362|p. [91r],,role: spiritus; spirit commanded by Saturday's angels; spirits commanded in Saturday’s final conjuration
-astaroth,Astaroth,spirit,25,kieckhefer_clm849,,"166|269n (fig. f.30r); 271a|62v–65r|63r|CLM 849, experiment no. 2; footnote 14",,"function: reveals treasures guarded by spirits; gives love of women, especially widows; commands languages; named in hatred ritual incantation; responds to conjuration in mirror ritual · functions: mentioned among named demons · role: prince of the south invoked in conjuration; helper in image-making ritual; demon invoked on knife handle"
+astaroth,Astaroth,spirit,26,kieckhefer_clm849|scot_1584,yes,"166|269n (fig. f.30r); 271a|62v–65r|63r|CLM 849, experiment no. 2; footnote 14",,"description: An idol of the Philistines, also worshipped by Solomon; signifies riches and flocks. · function: reveals treasures guarded by spirits; gives love of women, especially widows; commands languages; named in hatred ritual incantation; responds to conjuration in mirror ritual · functions: mentioned among named demons"
 astena,Astena,spirit,1,kieckhefer_clm849,,49v,,role: invoked in basin conjuration
 astra,Astra,spirit,2,kieckhefer_clm849,,"63r|section 7, Demons and Daimons",,function: responds to conjuration in mirror ritual · rank: spirit
 asyel,Asyel,spirit,5,kieckhefer_clm849,,"271a, 272a|fols 32r-33r|p. 112|p. 207",,role: conjured spirit for constraint rituals; conjuration spirit in bone ritual; demonic spirit
+ataiberius,Ataiberius,spirit,1,scot_1584,,page 616,,"description: A virulent animal that confounded the undertakings of those who labored in the silver mine in Germany, appearing in the likeness of a he-goat with Golden horns, a horse breathing flames, and a monk in pontifical robes."
 atal,Atal,spirit,1,kieckhefer_clm849,,p. 351 (84v),,role: one of twenty-five names inscribed on enemy-expulsion image
 athanathos / athanathos,Athanathos / Athanathos,spirit,1,kieckhefer_clm849,,58r,,"role: variant of 'athanatos' (immortal), invoked as divine name"
 athanatos,Athanatos,spirit,3,kieckhefer_clm849,,167|48r|[98r],,role: divine title (Greek: ἀθάνατος)
@@ -1226,9 +1369,11 @@ baal peor,Baal Peor,spirit,1,garnier_1909,,p. 376,,role: Phallic god of Canaan
 babaia,Babaia,spirit,1,kieckhefer_clm849,,352r,,"quote: ""...Melyon, Babaia..."""
 bacchus (ce bacche/broum),Bacchus (Ce Bacche/Broum),spirit,1,garnier_1909,,p. 182,,role: god worshipped by Pagan Irish
 badalam,Badalam,spirit,2,kieckhefer_clm849,,p. 105,,role: lord to whom demons are bound in obedience
+baell,Baell,spirit,1,scot_1584,,Page 412,,"description: A king of the power of the east who appears with three heads (toad, man, and cat) and commands 66 legions. · rank: king · appearance: three heads; toad-like head; man-like head"
 bal,Bal,spirit,1,kieckhefer_clm849,,p. 351 (84v),,role: one of twenty-five names inscribed on enemy-expulsion image
 "balbieit, zelans, zelles, dimedero, cadar","Balbieit, Zelans, Zelles, Dimedero, Cadar",spirit,1,kieckhefer_clm849,,42v (No. 23),,role: demonic names invoked in Lilith mirror ritual
 balidet,Balidet,spirit,1,liber_juratus,,20,,"quote: ""Servants: Aboumaleth, Asaïbi, Balidet"""
+balkin,Balkin,spirit,1,scot_1584,,"Appendix I, IX",,description: The Master of Luridan
 balthasar,Balthasar,spirit,2,kieckhefer_clm849,,"51r|[98v], [102r]",,role: One of the Three Magi
 balthim,Balthim,spirit,1,kieckhefer_clm849,,342v–35r,,"quote: ""...Saltim, Balthim, Gehim..."""
 baltim,Baltim,spirit,4,kieckhefer_clm849,,"experiment no. 15 (flying throne)|p. 194|p. 76–77|section 7, Demons and Daimons",,function: defensive spirit conjured during flight to cause storm upon adversary · role: defensive spirit conjured in flying throne ritual · rank: spirit; duke; dux
@@ -1238,8 +1383,10 @@ barachiel,Barachiel,spirit,1,liber_juratus,,298-299,,role: Superior angel
 baramel,Baramel,spirit,1,kieckhefer_clm849,,p. 350 (83v),,role: one of six names inscribed on reptile-fugation image
 barbaras,Barbaras,spirit,1,kieckhefer_clm849,,65v,,function: reveals hidden treasures; commands 36 legions · rank: magnus comes et dux
 barbarus,Barbarus,spirit,2,kieckhefer_clm849,,65v–65r bis|Table D (no. 34),,function: discloses treasures not protected by magic · rank: count and duke; magnus comes et dux · appearance: seneschal
+barbatos,Barbatos,spirit,1,scot_1584,,Page 412,,description: A duke or earl who understands the voices of animals. · rank: count; earl; duke · appearance: Signo sagittarii sylvestris
 barbectus,Barbectus,spirit,2,kieckhefer_clm849,,p. 93,,role: demon; demon invoked alongside Mosectus and Belsabuct
 barian (divine name),Barian (divine name),spirit,1,kieckhefer_clm849,,79r,,function: used in hour names · rank: divine name
+barma,Barma,spirit,1,scot_1584,,"Appendix I, Chap. III",,description: One of three spirits that can be raised with wonderful things effected through their assistance
 barmaly,Barmaly,spirit,2,kieckhefer_clm849,,76v|p. 342,,role: angelus assistens diei Martis · rank: angel
 bartha,Bartha,spirit,5,kieckhefer_clm849,,"342v–35r|p. 186|p. 195|section 7, Demons and Daimons",,role: king of clouds · rank: king; rex
 barthan,Barthan,spirit,8,liber_juratus,,"19, 203, 229, 251-271|229|251|256, 257, 260|269-270",,"role: king of the East spirits; airy powers of the East; King of the East · nature: gives gold with carbuncles, wealth, gratitude, dissolves hostility"
@@ -1247,19 +1394,23 @@ baruch,Baruch,spirit,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,role:
 baruth,Baruth,spirit,1,kieckhefer_clm849,,"[102v], [103v]",,"quote: ""...Bylent, Baruth... Baruth..."""
 basal,Basal,spirit,1,kieckhefer_clm849,,49v,,role: one of 12 names
 basyon,Basyon,spirit,2,kieckhefer_clm849,,45r (No. 27-A),,role: true God; divine name invoked in binding pueri
+bathin,Bathin,spirit,1,scot_1584,,"Appendix I, Chap. III",,description: One of three spirits that can be raised with wonderful things effected through their assistance
 baxhatau,Baxhatau,spirit,2,liber_juratus,,229|245,,role: exciter of the North wind
 baysyn,Baysyn,spirit,1,kieckhefer_clm849,,p.21,,description: A mysterious divine or angelic name in consecration prayers
 baytan,Baytan,spirit,1,kieckhefer_clm849,,361,,role: king reigning on Sunday
 beaali,Beaali,spirit,1,kieckhefer_clm849,,p. 351 (84r),,role: one of fifteen names inscribed on army-dispersal image
+bealphares,Bealphares,spirit,1,scot_1584,,page 415/418,,"description: A spirit that can be bound or lost, mentioned in an experiment"
 beas,Beas,spirit,1,kieckhefer_clm849,,p. 349 (83r),,role: one of twelve names inscribed on crucible rim
 beel,Beel,spirit,1,kieckhefer_clm849,,p. 350 (83v),,role: one of seven names inscribed on night image 2
-beelzebub,Belzebub,spirit,11,garnier_1909|kieckhefer_clm849|liber_juratus,yes,"270-271|CLM 849, experiment no. 1; footnote 14|Table C (no. 1; no. 38)|[97v], [100r]|fol 4v (circle)",Beelzebub|Belzebub,function: appears in circles; listed in circle inscriptions · role: named in conjurations; demonic spirit; prince of demons · rank: demon; princeps demoniorum
+beelzebub,Belzebub,spirit,12,garnier_1909|kieckhefer_clm849|liber_juratus|scot_1584,yes,"270-271|CLM 849, experiment no. 1; footnote 14|Chapter 19|Table C (no. 1; no. 38)|[97v], [100r]",Beelzebub|Belzebub,description: The lord of the flies; an idol or oracle at Ekron; reputed as the principal devil among the Jews. · function: appears in circles; listed in circle inscriptions · role: named in conjurations; demonic spirit; prince of demons
 beheydraz,Beheydraz,spirit,1,kieckhefer_clm849,,38,,role: demon invoked
 bel,Bel,spirit,2,kieckhefer_clm849,,pp. 112–113,,role: used in bone-conjuration rituals; infernal spirit invoked in bone magic · rank: infernal spirit
 bel et ebal,Bel et Ebal,spirit,1,kieckhefer_clm849,,65v bis,,function: spirits conjured in love ritual; incite burning love
 belam,Belam,spirit,4,kieckhefer_clm849,,"271a, 272a|p. 112|p. 207",,role: conjured spirit for constraint rituals; conjuration spirit in bone ritual; demonic spirit
+belelah,Belelah,spirit,1,scot_1584,,"Appendix I, VIII",,description: Another name for the familiar Luridan
 belferith,Belferith,spirit,2,kieckhefer_clm849,,"p. 207|section 7, Demons and Daimons",,role: demonic spirit · rank: demon
 belial,Belial,spirit,18,kieckhefer_clm849,,"145–146|233 (note m)|234|269n (fig. f.30r)|CLM 849, experiment no. 12; footnote 14",Belial|Beliath,"function: appears in conjurations, invoked alongside Astaroth and Paymon; listed in circle inscriptions; helper in image magic · functions: mentioned among named demons · role: helper in image-making ritual; named in conjurations; 'foremost prince'; initial prince/helper in love ritual"
+beliall,Beliall,spirit,1,scot_1584,,Page 416,,description: A king created immediately after Lucifer. · rank: king · appearance: beautiful angel; sitting in a fiery chariot
 belsabuct,Belsabuct,spirit,2,kieckhefer_clm849,,p. 93,,role: prince of demons; demon invoked alongside Mosectus and Barbectus
 belus,Belus,spirit,1,garnier_1909,,61–64,,role: Babylonian god
 "belzebub, berith, castiel, lucifer, mirael, paymon","Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon",spirit,1,kieckhefer_clm849,,p. 186,,"quote: ""Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan"""
@@ -1304,6 +1455,7 @@ buddha,Buddha,spirit,1,garnier_1909,,99-132,,"meaning: prophet, sage, teacher, w
 buddha (as mercury/thoth),Buddha (as Mercury/Thoth),spirit,1,garnier_1909,,p. 189,,role: human original identified with Cush
 buddha (as tath/tat),Buddha (as Tath/Tat),spirit,1,garnier_1909,,p. 181,,role: god of the dead
 buddha (sakya muni),Buddha (Sakya Muni),spirit,1,garnier_1909,,"p. 141, p. 142",,role: enlightened one; mortal avatar of supreme Buddha
+buer,Buer,spirit,1,scot_1584,,,,description: A president who teaches philosophy and the virtue of herbs. · rank: president · power: teaches moral and natural philosophy; teaches logic; knows virtue of herbs
 burnon,Burnon,spirit,1,kieckhefer_clm849,,[98r],,"quote: ""Neon, Burnon, Parli..."""
 bylent,Bylent,spirit,1,kieckhefer_clm849,,[102v],,"quote: ""...Zymens, Bylent, Baruth..."""
 bylet,Bylet,spirit,2,kieckhefer_clm849,,"n/a (Munich Handbook Clm 849, Expt. 23)|p. 207",,role: demonic spirit · rank: spirit (possibly alternate name for Lilith’s spirit/knight)
@@ -1357,6 +1509,7 @@ cebal,Cebal,spirit,1,kieckhefer_clm849,,63r,,function: responds to conjuration i
 cedon,Cedon,spirit,1,kieckhefer_clm849,,51r,,role: invoked in No. 27-B
 "cedon, zephata, eloym, eloyay","Cedon, Zephata, Eloym, Eloyay",spirit,1,kieckhefer_clm849,,51r,,role: named spirits to appear in boy’s palm
 cerbelli,Cerbelli,spirit,1,kieckhefer_clm849,,351r,,"quote: ""...Cerbelli, Tyaurax."""
+cheleb,Cheleb,spirit,1,scot_1584,,/page 532,,description: A devil that hurts by day.
 cherubim,Cherubim,spirit,4,liber_juratus,,100-101|102|18|61,,"quote: ""Honorius differs however in the order, placing the Cherubim before Seraphim"""
 cherubin,cherubin,spirit,1,kieckhefer_clm849,,[54v],,function: celestial order invoked in consecration · rank: angelic hierarchy
 cherubin / seraphin,Cherubin / Seraphin,spirit,1,kieckhefer_clm849,,54v–58r,,role: highest angelic orders invoked in consecrations
@@ -1380,6 +1533,7 @@ crasis,Crasis,spirit,1,kieckhefer_clm849,,48r,,role: invoked in exorcism formula
 cronus/saturn,Cronus/Saturn,spirit,1,garnier_1909,,"56, 59–60",,role: god
 cul,Cul,spirit,1,kieckhefer_clm849,,p. 351 (84v),,role: one of twenty-five names inscribed on enemy-expulsion image
 cundaz,Cundaz,spirit,1,kieckhefer_clm849,,p. 350 (84r),,role: one of six names inscribed on folio held by night image 2
+cuninus,Cuninus,spirit,1,scot_1584,,,,description: he that preserved children from misfortune in the cradell
 cupido,Cupido,spirit,2,kieckhefer_clm849,,p. 104,,role: demon inscribed on image to arouse sexual desire; inscribed on image’s genitals to arouse desire
 curson,Curson,spirit,4,kieckhefer_clm849,,"Table D (no. 34)|p. 187|p. 191|section 7, Demons and Daimons",,"function: reveals present, past, future, and hidden matters (including deity and creation of world); gives excellent familiars; reveals divine and hidden matters, even regarding divinity and creation · rank: demon; king · appearance: man with crowned leonine face, viper in hand; rides horseback, trumpets proceeding; human and aerial body"
 cutroy,Cutroy,spirit,5,kieckhefer_clm849,,20r|fol. 18v–19r|p. 207|p. 252–254,,function: castle conjurer; invoked in castle ritual · role: spiritus armigeri; one of fifteen spirits invoked for castle ritual · rank: squire spirit; spiritus armigeri
@@ -1408,6 +1562,7 @@ dasper,Dasper,spirit,1,kieckhefer_clm849,,48r,,role: variant name; invoked with 
 dath,Dath,spirit,1,kieckhefer_clm849,,65r,,function: rebellious spirit absorbed by earth
 dator et receptor,Dator et Receptor,spirit,1,kieckhefer_clm849,,[98r],,"quote: ""Primus et Nouissimus, Dator et Receptor..."""
 dea myrionymus,Dea Myrionymus,spirit,1,garnier_1909,,63,,role: goddess
+deber,Deber,spirit,1,scot_1584,,Page 532,,description: A devil that hurts by night.
 dedeon,Dedeon,spirit,1,kieckhefer_clm849,,43v (No. 24),,role: invoked in crystal scrying; possibly angelic
 deihel,Deihel,spirit,1,liber_juratus,,101,,"quote: ""proferri non debent, que sunt hec: (4) Deihel. Dehel. Depymo. Dein. Hel."""
 demefin,Demefin,spirit,4,kieckhefer_clm849,,85 (note 23)|fol. 16r|p. 248–250,,function: banquet conjurer; invoked in banquet ritual · role: named spirit in circle inscription; one of sixteen spirits invoked for banquet ritual · rank: spirit; spiritus iocundissimi
@@ -1420,8 +1575,10 @@ derketo,Derketo,spirit,1,garnier_1909,,"238, 239",,role: Goddess associated with
 deseryon,Deseryon,spirit,1,kieckhefer_clm849,,p.21,,description: A mysterious divine or angelic name in consecration prayers
 despan,Despan,spirit,3,kieckhefer_clm849,,p. 106|p. 207,,role: demon named in circle of names; named in protective circle; demonic spirit
 deus inuisibilis,Deus inuisibilis,spirit,1,kieckhefer_clm849,,[55r],,function: used in consecration prayers · rank: divine name
+devil,the devil,spirit,2,scot_1584,,"page 207, 213|page 467",,"description: A spirit mentioned in various contexts, including the letter to the devil and the debate over whether a spirit was raised.; The primary antagonist in the rituals and discussions of exorcism. · nature: Deceptive/Agent of error"
 devil (diaboli),Devil (Diaboli),spirit,1,liber_juratus,,159,,role: enemy of the faithful
 devil / satan / enemy,Devil / Satan / Enemy,spirit,1,kieckhefer_clm849,,172–173,,role: primary adversarial entity
+devils and spirits,Devils and Spirits,spirit,1,scot_1584,,"page 61, 63",,description: Entities that witches are alleged to contract with or use for purposes. · nature: Infernal/Spiritual
 diana of the ephesians,Diana of the Ephesians,spirit,1,garnier_1909,,p. 402,,role: idolatrous deity
 dies,Dies,spirit,2,kieckhefer_clm849,,"[97v]|section 7, Demons and Daimons",,rank: demon
 dii manes,Dii Manes,spirit,1,garnier_1909,,48,,"quote: ""In Rome the festival of the dead, or 'Feralia,' called 'Dii Manes,' or 'the day of the spirits of the dead'..."""
@@ -1503,9 +1660,11 @@ fabar,Fabar,spirit,2,kieckhefer_clm849,,"[97v]|section 7, Demons and Daimons",,r
 fabin,Fabin,spirit,1,kieckhefer_clm849,,p. 98,,role: variant spelling of Fabni in incantation
 fabni,Fabni,spirit,2,kieckhefer_clm849,,p. 97,,function: inscribed on image to gain favour · role: benevolent spirit who sows concord; demonic name inscribed on image in experiment no. 4
 fabni (fabin),Fabni (Fabin),spirit,1,kieckhefer_clm849,,fol. 12r–13r,,function: appears in image ritual · rank: spiritus benignissimi
+faeries,Faeries,spirit,1,scot_1584,,page 608,,"description: Spirits that inhabit Mountains and Caverns, capable of making strange Apparitions in the form of Men, Women, Soldiers, Kings, and Ladies, Children, and Horse-men cloathed in green. They are known for stealing hempen stalks to convert them into Horses. · appearance: Men; Women; Soldiers"
 falduc,Falduc,spirit,1,kieckhefer_clm849,,p. 351 (84v),,role: one of twenty-five names inscribed on enemy-expulsion image
 falmar,Falmar,spirit,2,kieckhefer_clm849,,167,,role: demonic name invoked for power
 familiar spirits,familiar spirits,spirit,1,garnier_1909,,215–216,,role: assistant spirits to adepts
+"faries, nymphs, and satyres","Faries, Nymphs, and Satyres",spirit,1,scot_1584,,page 471,,description: Spirits residing in woods and mountains.
 fastich,Fastich,spirit,1,kieckhefer_clm849,,[100r],,"quote: ""Istath, Hoaz, Abays, Fastich"""
 fatael,Fatael,spirit,1,kieckhefer_clm849,,362,,role: invoked in Saturday’s final conjuration
 faubair,Faubair,spirit,3,kieckhefer_clm849,,fol. 16r|p. 248–250,,function: banquet conjurer; invoked in banquet ritual · role: one of sixteen spirits invoked for banquet ritual · rank: spirit; spiritus iocundissimi
@@ -1576,6 +1735,9 @@ giraca,Giraca,spirit,1,kieckhefer_clm849,,357,,role: invoked in Friday's conjura
 gloria,Gloria,spirit,1,kieckhefer_clm849,,[98r],,"quote: ""Ymago, Gloria, Lux..."""
 gna,Gna,spirit,1,kieckhefer_clm849,,358,,role: blessed name of the Lord invoked in Saturday's conjuration
 gnad,Gnad,spirit,1,kieckhefer_clm849,,357,,role: invoked in Friday's conjuration
+god,God,spirit,1,scot_1584,,page 457,,"description: An uncreated spirit, essentialie taken, and agreeth unto the three persons notionally. · nature: uncreated spirit"
+god the father,God the Father,spirit,1,scot_1584,,page 465,,"description: The first person of the Trinity. · function: creator, sender of the Son and Spirit"
+god the son (jesus christ),God the Son (Jesus Christ),spirit,1,scot_1584,,page 465,,"description: The second person of the Trinity. · function: creator, revealer of the Father"
 godras,Godras,spirit,2,kieckhefer_clm849,,p. 102,,role: one of four spirits governing quadrants; companion spirit to Astaroth in conjuration
 gospar,Gospar,spirit,1,kieckhefer_clm849,,48r,,role: variant of Caspar; invoked in demon conjuration
 "gospar, dasper, gespar, lapir, sparsis, nota, caliusf asper","Gospar, Dasper, Gespar, Lapir, Sparsis, Nota, Caliusf Asper",spirit,1,kieckhefer_clm849,,48r,,role: named in middle conjuration
@@ -1622,9 +1784,10 @@ hertanalit,Hertanalit,spirit,3,kieckhefer_clm849,,357|362|p. [91r],,role: spirit
 hesa (hesus),Hesa (Hesus),spirit,1,garnier_1909,,p. 180,,role: Celtic deity
 ho ōn,ho ōn,spirit,1,kieckhefer_clm849,,167,,"quote: ""ho ōn (nos 14, 23, 27, 28, 33) or simply Hon (no. 25) ('The Existing One')"""
 hoaz,Hoaz,spirit,1,kieckhefer_clm849,,[100r],,"quote: ""Istath, Hoaz, Abays, Fastich"""
+hobgoblins,Hobgoblins,spirit,1,scot_1584,,page 608,,"description: Spirits that can take away children, leaving behind changelings or lunaticks."
 hocrohel,Hocrohel,spirit,2,liber_juratus,,51|page 12,,role: consulting angel
 holy angels,Holy Angels,spirit,1,ars_notoria,,11,,function: delivered knowledge upon altar of Temple · role: ministers of revelation
-holy spirit,Holy Spirit,spirit,3,liber_juratus,,161-172|182|92-96,,"function: Illuminate soul, cleanse, restore all things; descend upon servant to cleanse body"
+holy spirit,Holy Spirit,spirit,4,liber_juratus|scot_1584,yes,161-172|182|92-96|page 465-468,,"description: The third person of the Trinity, described as the spirit of sanctification and the animating force. · function: Illuminate soul, cleanse, restore all things; descend upon servant to cleanse body; sanctification, provoking prayer, presence in believers · nature: divine"
 holy spirit (spiritus sanctus),Holy Spirit (Spiritus sanctus),spirit,1,liber_juratus,,"150, 151, 152, 154, 156, 159",,"function: virtue, grace, source of illumination and strength"
 horus,Horus,spirit,1,garnier_1909,,p. 374–375,,role: reincarnation of Osiris
 "hosel, jesel, anchiator, aratol, hasiatol, gemor, gesameor","Hosel, Jesel, Anchiator, Aratol, Hasiatol, Gemor, Gesameor",spirit,1,ars_notoria,,38,,nature: ineffable Names
@@ -1683,6 +1846,7 @@ lantrayth,Lantrayth,spirit,2,kieckhefer_clm849,,"p. 207|p. 260, n.b",,role: demo
 lantrayth / lautrayth / lutrayth,Lantrayth / Lautrayth / Lutrayth,spirit,1,kieckhefer_clm849,,,,"quote: ""The nomenclature is again variable: Lantrayth appears also as Lautrayth and Lutrayth, Feremni as Feremin and F"""
 lapir,Lapir,spirit,1,kieckhefer_clm849,,48r,,role: invoked in demon conjuration
 lapis angularis,Lapis angularis,spirit,1,kieckhefer_clm849,,[98r],,"quote: ""Splendor, Lapis angularis, Sponsus..."""
+lares,Lares,spirit,1,scot_1584,,,,description: Spirits that oversee crossroads and cities; trouble private houses.
 latol,Latol,spirit,1,kieckhefer_clm849,,p. 344–345,,role: ruler of secunda hora noctis
 latol (nocturnal hour),Latol (nocturnal hour),spirit,1,kieckhefer_clm849,,78r,,"function: fishing, water omens · rank: hour ruler"
 latranoy,Latranoy,spirit,2,kieckhefer_clm849,,37r fig.|p. 207,,role: demonic spirit
@@ -1707,8 +1871,9 @@ lodoni,Lodoni,spirit,3,kieckhefer_clm849,,p. 106|p. 207,,role: demon named in ci
 lotobor,Lotobor,spirit,3,kieckhefer_clm849,,fol. 16r|p. 248–250,,function: banquet conjurer; invoked in banquet ritual · role: one of sixteen spirits invoked for banquet ritual · rank: spirit; spiritus iocundissimi
 luamay,Luamay,spirit,1,kieckhefer_clm849,,[98r],,"quote: ""Luamay, Athanatos..."""
 "lucas, marcus, matheus, ioannes","Lucas, Marcus, Matheus, Ioannes",spirit,1,kieckhefer_clm849,,p. 374 (98v),,role: Four Evangelists invoked
-lucifer,Lucifer,spirit,13,kieckhefer_clm849,,"145–146|166|234|80, 118, 138, 156, 161, 172|CLM 849, experiment no. 1; footnote 14",,function: appears in circle inscriptions; listed in circle inscriptions · functions: mentioned among named demons · role: named in conjurations; named in final invocation; prince/kings of demons
+lucifer,Lucifer,spirit,14,kieckhefer_clm849|scot_1584,yes,"145–146|166|234|80, 118, 138, 156, 161, 172|CLM 849, experiment no. 1; footnote 14",,description: Conjured in a curse against thieves to be destroyed. · function: appears in circle inscriptions; listed in circle inscriptions · functions: mentioned among named demons
 "lune (moon) names (lyara, lyalguana, etc.)","Lune (Moon) names (Lyara, Lyalguana, etc.)",spirit,1,kieckhefer_clm849,,79v,,function: divine names inscribed on images
+luridan,Luridan,spirit,1,scot_1584,,"Appendix I, Chap. VIII",,description: A spirit that can be made a familiar; also associated with Belelah
 "lutrayth, feremim, oliroomim","Lutrayth, Feremim, Oliroomim",spirit,1,kieckhefer_clm849,,experiment no. 9 (horse ritual),,function: summoned by shaking bridle to produce horse · rank: spirits
 lux,Lux,spirit,1,kieckhefer_clm849,,[98r],,"quote: ""Gloria, Lux, Sol..."""
 luxuriosus,Luxuriosus,spirit,3,kieckhefer_clm849,,45–46|section 'Necromancy and Necromancers in Fifteenth-Century Munich',,function: seduction/rape; associated with lust (luxuria) · rank: demon · appearance: form of a charming maiden of twelve years
@@ -1739,6 +1904,7 @@ maloqui,Maloqui,spirit,3,kieckhefer_clm849,,p. 106|p. 207,,role: demon named in 
 malthayl,Malthayl,spirit,1,kieckhefer_clm849,,p. 347 (80r),,role: one of seven names inscribed on love magic images
 mambres,Mambres,spirit,1,kieckhefer_clm849,,[59v],,function: example of resistance overcome · rank: demonic opponent (OT parallel to Jannes and Jambres)
 mambrim,Mambrim,spirit,2,kieckhefer_clm849,,63r,,function: obedience demanded in conjuration · rank: demonic ruler; spirit
+mammon,Mammon,spirit,1,scot_1584,,Chapter 20,,description: Represents the covetous desire for money. · meaning: Covetous desire of money
 manitaynus,Manitaynus,spirit,1,kieckhefer_clm849,,38,,role: demon invoked
 manith,Manith,spirit,1,kieckhefer_clm849,,p. 349 (83r),,role: one of twelve names inscribed on crucible rim
 mansator,Mansator,spirit,2,kieckhefer_clm849,,fol. 14r|p. 92,,function: inscribed on stone for hatred ritual · role: one of four antipathetic names carved on a stone in experiment no. 5
@@ -1746,6 +1912,7 @@ maraben,Maraben,spirit,1,kieckhefer_clm849,,no. 37m/q,,role: wind constituted ov
 maraloch,Maraloch,spirit,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,rank: demon
 maraloth,Maraloth,spirit,5,kieckhefer_clm849,,"144–146|231–234|Experiment for instruction|Munich Handbook, CLM 849 (experiment for gaining knowledge)|fols 3r-5v",,function: one of three kings conjured; conveys knowledge through spirit-magister · role: demon involved in conjuration to send a teacher; one of three kings; king · rank: king
 maratron,Maratron,spirit,2,kieckhefer_clm849,,357|p. [90v],,role: angelus mandans; angel mandating Saturn’s image (variant: Matraton)
+marbas,Marbas,spirit,1,scot_1584,,Page 412,,description: A great president appearing as a mighty lion or a man. · rank: president · appearance: mighty lion; man
 mariodo,Mariodo,spirit,1,kieckhefer_clm849,,36v,,"quote: ""...Mariodo, Ypation."""
 mars,Mars,spirit,1,liber_juratus,,30,,"quote: ""South hot and dry Fire Very hot & dry, masculine Mars Karathiel Eloy"""
 martyres,Martyres,spirit,1,kieckhefer_clm849,,,,function: implied in ‘sancti’ but not explicitly named · rank: saints
@@ -1896,7 +2063,7 @@ oymelor,Oymelor,spirit,4,kieckhefer_clm849,,85 (note 23)|fol. 16r|p. 248–250,,
 "oymelor, symofos, manoir, faubair","Oymelor, Symofos, Manoir, Faubair",spirit,1,kieckhefer_clm849,,,,rank: names on outermost band of ring
 pacta,Pacta,spirit,2,kieckhefer_clm849,,76v|p. 342,,role: angelus assistens diei Jouis · rank: angel
 pahamcociel,Pahamcociel,spirit,1,liber_juratus,,209,,"quote: ""Raphael, Pahamcociel, Assassayel"""
-paimon,Paymon,spirit,9,kieckhefer_clm849,,"269n (fig. f.30r)|87, 156, 173, 174|CLM 849, experiment no. 12; footnote 14|fols 29v-31v|p. 108",,function: appears in circles and conjurations · functions: mentioned among named demons · role: helper in image-making ritual; named in conjurations; helper in love ritual
+paimon,Paymon,spirit,11,kieckhefer_clm849|scot_1584,yes,"269n (fig. f.30r)|87, 156, 173, 174|Appendix I, Chap. III|CLM 849, experiment no. 12; footnote 14|Page 415",Paimon|Paymon,description: One of three spirits that can be raised with wonderful things effected through their assistance; A king who is more obedient to Lucifer than other kings. · function: appears in circles and conjurations · functions: mentioned among named demons
 palicos,Palicos,spirit,1,kieckhefer_clm849,,p. 351 (84r),,role: one of four names inscribed on enemy’s door
 paluo,Paluo,spirit,1,kieckhefer_clm849,,p. 351 (84r),,role: one of fifteen names inscribed on army-dispersal image
 pancraton,Pancraton,spirit,2,kieckhefer_clm849,,"167|48r, 49v",,role: divine title
@@ -1915,6 +2082,7 @@ pater,Pater,spirit,2,kieckhefer_clm849,,[54r]|[98r],,function: first person of t
 patheon,Patheon,spirit,1,kieckhefer_clm849,,167,,"quote: ""Patheon, by which David was saved from Goliath"""
 pattar,Pattar,spirit,1,kieckhefer_clm849,,no. 37m/q,,role: angel constituted over the fifth image (Thursday)
 pedyoth,Pedyoth,spirit,1,kieckhefer_clm849,,363,,role: one of four names of the East
+penates,Penates,spirit,1,scot_1584,,Chapter 21,,description: Domestic gods or devils (Minerva) said to make men live quietly indoors.
 perarabiel,Perarabiel,spirit,2,kieckhefer_clm849,,231–232|fol 3r,,function: invoked in chain of binding names · role: divine name in chain of invocations; variant: Pararabiel
 peripaos,Peripaos,spirit,2,kieckhefer_clm849,,p. 97,,function: inscribed on image to gain favour · role: benevolent spirit who sows concord; demonic name inscribed on image in experiment no. 4
 peripaos (peripaos),Peripaos (Peripaos),spirit,1,kieckhefer_clm849,,fol. 12r–13r,,function: appears in image ritual · rank: spiritus benignissimi
@@ -1970,7 +2138,7 @@ ragiel,Ragiel,spirit,2,kieckhefer_clm849,,359|p. [92r],,role: princeps; prince o
 ralaz,Ralaz,spirit,1,kieckhefer_clm849,,p. 350 (84r),,role: one of six names inscribed on folio held by night image 2
 ralkal,Ralkal,spirit,2,kieckhefer_clm849,,37r fig.|p. 207,,role: demonic spirit
 rama,Rama,spirit,1,garnier_1909,,p. 136,,"role: Sun god, chief of Surya race"
-raphael,Raphael,spirit,17,ars_notoria|kieckhefer_clm849|liber_juratus,yes,100|102|178|201|209,,function: appears in sacred inscriptions; agent of binding/constraining the demon · functions: binding tongues; dispelling beasts; travel protection · role: archangel invoked in dream experiment; archangel invoked in binding; prepositus diei dominici
+raphael,Raphael,spirit,18,ars_notoria|kieckhefer_clm849|liber_juratus|scot_1584,yes,100|102|178|201|209,Raphael|Raphaell,description: Archangel mentioned in relation to the liver of fish. · function: appears in sacred inscriptions; agent of binding/constraining the demon · functions: binding tongues; dispelling beasts; travel protection
 raphael / anael / michael / gabriel,Raphael / Anael / Michael / Gabriel,spirit,1,liber_juratus,,"67-68, 70",,"quote: ""postea Anael, postea Michael, postea Gabriel."""
 raquiel,Raquiel,spirit,1,liber_juratus,,209,,"quote: ""Hanael, Raquiel, Salguiel"""
 rator,Rator,spirit,3,kieckhefer_clm849,,p. 106|p. 207,,role: demon named in circle of names; named in protective circle; part of circle names; demonic spirit
@@ -1995,6 +2163,7 @@ rodobayl (rodobail),Rodobayl (Rodobail),spirit,1,kieckhefer_clm849,,"fol. 16r, 1
 rodobel,Rodobel,spirit,2,kieckhefer_clm849,,231–232|fol 3r,,function: invoked in chain of binding names · role: divine name in chain of invocations
 rosahal,Rosahal,spirit,1,kieckhefer_clm849,,p. 349 (83r),,role: name inscribed on vessel-form over crucible
 rotunda,Rotunda,spirit,1,kieckhefer_clm849,,[100r],,"quote: ""Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda"""
+ruminus,Ruminus,spirit,1,scot_1584,,page s/524,,description: to keepe their dugs from corruption
 saabotes,Saabotes,spirit,2,kieckhefer_clm849,,75v|p. 341,,role: rex spirituum diei Veneris · rank: king spirit
 saaca,Saaca,spirit,1,kieckhefer_clm849,,357,,role: invoked in Friday's conjuration
 saana,Saana,spirit,1,kieckhefer_clm849,,357,,role: invoked in Friday's conjuration
@@ -2020,6 +2189,7 @@ saduel,Saduel,spirit,3,kieckhefer_clm849,,166|63r,,function: obedience demanded 
 safaten,Safaten,spirit,1,kieckhefer_clm849,,363,,role: name of the heavens in 4th season
 safrit,Safrit,spirit,1,kieckhefer_clm849,,"section 7, Demons and Daimons",,"quote: ""Safrit could be Safriel"""
 sagriel,Sagriel,spirit,2,kieckhefer_clm849,,357|p. [90r],,role: angelus mandans; angel mandating Friday's image
+saint michael,Saint Michael,spirit,1,scot_1584,,page 312,,description: Mentioned in a curse against thieves.
 sala,Sala,spirit,1,kieckhefer_clm849,,p. 343–344,,role: ruler of quarta hora diei
 sala (hour name),Sala (hour name),spirit,1,kieckhefer_clm849,,77r,,function: bind wild animals · rank: hour ruler
 salaij,Salaij,spirit,1,kieckhefer_clm849,,p. 344–345,,role: ruler of duodecima hora noctis
@@ -2070,7 +2240,9 @@ satael,Satael,spirit,2,kieckhefer_clm849,,357|p. [90v],,role: angelus mandans; a
 satan,Satan,spirit,20,garnier_1909|kieckhefer_clm849|liber_juratus,yes,145–146|166|171|234|49,Satan|Sathan,function: subject of conjuration in longer bond formula; appears in circles as object of conjuration; listed in circle inscriptions · functions: mentioned among named demons · role: demon inscribed on image to afflict target; demon summoned in intensified conjuration; named in conjurations
 satan (sathan),Satan (Sathan),spirit,1,kieckhefer_clm849,,"6, 82, 83, 109, 118, 142–5, 147, 148, 154, 156, 158, 161, 171, 172",,"quote: ""Satan (Sathan), 6, 82, 83, 109, 118, 142–5, 147, 148, 154, 156, 158, 161, 171, 172"""
 satan / sathan,Satan / Sathan,spirit,1,kieckhefer_clm849,,p. 196,,rank: demon [from cardinal direction]
-satan/sathan,Satan/Sathan,spirit,1,kieckhefer_clm849,,p. 186–187,,rank: infernal chief
+satan/sathan,Satan/Sathan,spirit,2,kieckhefer_clm849|scot_1584,yes,p. 186–187|page 144,,"description: The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power. · rank: infernal chief · nature: adversary/devil"
+satan/the devil,Satan/the Devil,spirit,1,scot_1584,,page 457,,nature: wicked spirit
+sathan (satan),Sathan (Satan),spirit,1,scot_1584,,Chapter 20,,"description: The adversary; can hurt both by day and night; described as the author of sin. · nature: Destroys, troubles, molests · meaning: Adversary"
 "sathan, belzebub, astaroth, berith, azraro, rotunda","Sathan, Belzebub, Astaroth, Berith, Azraro, Rotunda",spirit,1,kieckhefer_clm849,,p. 376 (100r),,role: demons whispered to boy in ear
 sathane,Sathane,spirit,1,kieckhefer_clm849,,362,,role: invoked in Saturday’s final conjuration (note: possibly not Satan but a name variant)
 sathanos,Sathanos,spirit,1,liber_juratus,,"116, 119",,"quote: ""Sathanos"""
@@ -2141,10 +2313,16 @@ spirit in horseman form,spirit in horseman form,spirit,1,kieckhefer_clm849,,,,fu
 spirit of divination (python),spirit of divination (Python),spirit,1,garnier_1909,,p. 153,,"quote: ""the damsel possessed of 'a spirit of divination,' literally 'a spirit of Python,' which was cast out by Paul"""
 spirits,spirits,spirit,1,liber_juratus,,33-34 and passim,,"quote: ""spirits, 33-34 and passim; adjuration, 267; appearance, 279;"""
 spirits of fire,Spirits of Fire,spirit,1,liber_juratus,,55,,"quote: ""To know the spirits of the fire, their names, superiors, seals, powers, and virtues."""
-spirits of saturn,spirits of Saturn,spirit,1,kieckhefer_clm849,,,,role: astrological spirits invoked in harmful magic
+spirits of jupiter,Spirits of Jupiter,spirit,1,scot_1584,,Page 633,,"description: Spirits under the influence of Jupiter, appearing like glorious kings with many attendants.  · appearance: glorious Kings; Heralds; Ensign-bearers"
+spirits of luna (moon),Spirits of Luna (Moon),spirit,1,scot_1584,,Page 633,,"description: Spirits under the influence of Luna, appearing as ghosts and shadows, sometimes in human shape.  · appearance: Ghosts; shadows; male or female human shape"
+spirits of mars,Spirits of Mars,spirit,1,scot_1584,,Page 633,,"description: Spirits under the influence of Mars, appearing with weapons brandishing and shining armour, often as lions, wolves, tigers, or bears.  · appearance: weapons brandishing; shining Armour; Lions"
+spirits of mercury,Spirits of Mercury,spirit,1,scot_1584,,Page 633,,"description: Spirits under the influence of Mercury, appearing as horsemen, fishers, laborers, priests, students, servants, and monstrous animals.  · appearance: Horsemen; Fishers; Labourers"
+spirits of saturn,spirits of Saturn,spirit,2,kieckhefer_clm849|scot_1584,yes,Page 632-633,Spirits of Saturn|spirits of Saturn,"description: Spirits under the influence of Saturn, appearing like old men with prominent beards, or as serpents, cats, wolves, bad/badgers, and panthers.  · role: astrological spirits invoked in harmful magic · appearance: old men; serpents; cats"
+spirits of sol (sun),Spirits of Sol (Sun),spirit,1,scot_1584,,Page 633,,"description: Spirits under the influence of Sun, appearing as castles, gardens, mountains, rivers, etc.  · appearance: Castles; Gardens; Mountains"
 spirits of the air,Spirits of the Air,spirit,1,liber_juratus,,55,,"quote: ""To know the spirits and creatures of the air."""
 spirits of the air and earth,Spirits of the air and earth,spirit,1,liber_juratus,,130,,nature: can be compelled to obey
 spirits of the dead,spirits of the dead,spirit,1,garnier_1909,,p. 402,,role: supposed intermediaries
+spirits of venus,Spirits of Venus,spirit,1,scot_1584,,Page 633,,"description: Spirits under the influence of Venus, appearing as courtiers, ladies, princes, queens, infants, and children.  · appearance: Courtiers; Ladies; Princes"
 spirits who provide magic ship,Spirits who provide magic ship,spirit,1,kieckhefer_clm849,,p. 189,,"quote: ""‘these spirits are between good and evil, dwelling neither in Hell nor in Paradise’"""
 spiritualis paraclitus,Spiritualis Paraclitus,spirit,1,kieckhefer_clm849,,[58r],,function: divine helper invoked in consecration · rank: Holy Spirit
 spiritus aerialis,spiritus aerialis,spirit,1,kieckhefer_clm849,,,,nature: accursed spirit · appearance: appeared at Bunwell
@@ -2166,6 +2344,7 @@ stirps dauid (root of david),stirps Dauid (Root of David),spirit,1,kieckhefer_cl
 stygeloy,Stygeloy,spirit,1,kieckhefer_clm849,,352r–v,,"quote: ""...Flegely, Stygeloy, Melyon..."""
 subae (divine name),Subae (divine name),spirit,1,kieckhefer_clm849,,79r,,function: used in hour names · rank: divine name
 subseloy,Subseloy,spirit,1,kieckhefer_clm849,,351r,,"quote: ""...Aurora, Subseloy..."""
+subterranean spirits,Subterranean Spirits,spirit,1,scot_1584,,page 471,,description: Spirits residing in pits and caves.
 suburith,Suburith,spirit,7,kieckhefer_clm849,,"26r|CLM 849, experiment no. 10|experiment no. 10|p. 207|p. 261–263, No. 10",,function: inscribed on gold ring for raising dead person · role: demon inscribed on ring for life/death manipulation; demonic spirit; demon named on consecrated ring for resurrection · rank: named demon; demon (unspecified); demon (resurrection ritual)
 sun,The Sun,spirit,1,liber_juratus,,30,,"quote: ""East, warm and moist, where the angels of the Sun dominate."""
 sun god,Sun god,spirit,1,garnier_1909,,p. 26 (CONTENTS),,"quote: ""The Sun as God... The dead king... regarded as Son of God and therefore as the Sun—Goddess regarded as the Ear"""
@@ -2218,6 +2397,7 @@ terrestrial and infernal spirits,Terrestrial and Infernal Spirits,spirit,1,liber
 teth / teth,Teth / Teth,spirit,1,kieckhefer_clm849,,56r,,role: part of four-letter divine name formula
 tetragrammaton,Tetragramaton,spirit,13,kieckhefer_clm849,,"164, 166|231–232|45r, 46v–47r (No. 27-A, 27-C)|47r, 48r, 51r|54r–58v",Tetragramaton|Tetragrammaton,description: A divine name (YHWH) invoked in consecration prayers; part of a list of sacred names used to empower magical texts · function: inscribed on circles for efficacy; invoked in chain of binding names; sacred four-letter name of God · role: divine name used in conjurations; divine name in chain of invocations; central divine name; appears repeatedly across rituals
 teutates,Teutates,spirit,1,garnier_1909,,p. 180,,role: Celtic deity
+the_devil/sathan,The_Devil/Sathan,spirit,4,scot_1584,,page 144,The_Devil/Sathan|the_Devil/Sathan,"description: The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power.; The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, or as thes_e_entities_array_undermining_the_divine_power.; The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, and as the_e_entities_array_undermining_the_divine_power. · nature: adversary/devil"
 "theon, haltanagon, haramalon, zamoyma, chamasal, jeconamril, harionatar, jechomagol, gela magos, kemolihot, kamanatar, hariomolatar, hanaces, velonionathar, azoroy, jezabali","Theon, Haltanagon, Haramalon, Zamoyma, Chamasal, Jeconamril, Harionatar, Jechomagol, Gela Magos, Kemolihot, Kamanatar, Hariomolatar, Hanaces, Velonionathar, Azoroy, Jezabali",spirit,1,ars_notoria,,34,,"quote: ""Theon, Haltanagon, Haramalon, Zamoyma, Chamasal, Jeconamril, Harionatar, Jechomagol, Gela Magos, Kemolihot, Ka"""
 theos,Theos,spirit,2,kieckhefer_clm849,,167|[102r],,"quote: ""Elov, Theos, Eton..."""
 thereoth,Thereoth,spirit,2,kieckhefer_clm849,,p. 97,,function: inscribed on image to gain favour · role: benevolent spirit who sows concord; demonic name inscribed on image in experiment no. 4
@@ -2261,6 +2441,7 @@ usyr,Usyr,spirit,1,kieckhefer_clm849,,,,function: castle conjurer · rank: squir
 "usyr, salaul, silitor, demor, zanno, syrtroy, risbel, cutroy, lytay, onor, moloy, pumotor, tami, oor, ym","Usyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor, Ym",spirit,1,kieckhefer_clm849,,no. 7,,function: to bear arms and deceive human senses; to make fortifications and castles appear · nature: squire spirits
 va,Va,spirit,1,kieckhefer_clm849,,49v,,role: one of 12 names
 vabros,Vabros,spirit,1,kieckhefer_clm849,,p. 350 (83v),,role: one of six names inscribed on reptile-fugation image
+vagianus,Vagianus,spirit,1,scot_1584,,page 524,,"description: he that kept their children from crieng, [and] whose picture was hung about babes necks"
 vambal,Vambal,spirit,1,kieckhefer_clm849,,361,,role: coadjutor of Sunday’s king
 varo,Varo,spirit,1,kieckhefer_clm849,,56r,,role: part of four-letter divine name formula
 vasas,Vasas,spirit,1,kieckhefer_clm849,,p. 350 (83v),,role: one of seven names inscribed on night image 2
@@ -2275,7 +2456,7 @@ via,Via,spirit,1,kieckhefer_clm849,,[98r],,"quote: ""Via, Flos, Fons..."""
 virgin mary (feast of the assumption),Virgin Mary (feast of the Assumption),spirit,1,kieckhefer_clm849,,p.154–155,,role: celebrated saint
 virtues,Virtues,spirit,2,liber_juratus,,18|61,,"quote: ""Cherubim, Seraphim, Thrones, Dominations, Virtues, Principalities, Powers, Archangels, and Angels."""
 virtus,Virtus,spirit,2,kieckhefer_clm849,,[98r],,"quote: ""...Sapiencia, Virtus, Paraclitus..."""
-virtutes,virtutes,spirit,1,kieckhefer_clm849,,[54v],,function: celestial order invoked in consecration · rank: angelic hierarchy
+virtutes,virtutes,spirit,2,kieckhefer_clm849|scot_1584,yes,[54v]|page 685,Virtutes|virtutes,description: The order of angels so called. · function: celestial order invoked in consecration · rank: angelic hierarchy
 virtutes celestes,virtutes celestes,spirit,1,kieckhefer_clm849,,[54v],,function: celestial powers that assist in consecration · rank: angelic hierarchy
 visio,Visio,spirit,1,kieckhefer_clm849,,[102r],,"quote: ""Theos, Eton,- Visio, Saluator..."""
 vita,Vita,spirit,2,kieckhefer_clm849,,[98r],,"quote: ""Primogenitus, Vita, Finis..."""
@@ -2297,6 +2478,7 @@ vsyr,Vsyr,spirit,2,kieckhefer_clm849,,fol. 18v–19r|p. 252–254,,function: inv
 "vsyr, salaul, silitor, demor, zanno, syrtroy, risbel, cutroy, lytay, onor, moloy, pumotor, tami, oor, ym","Vsyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor, Ym",spirit,2,kieckhefer_clm849,,n/a (example from no. 7)|p.157,,function: bear arms and deceive human senses · role: arms-bearing spirits · rank: arms-bearing spirits
 vynicon,Vynicon,spirit,2,kieckhefer_clm849,,p. 102,,role: one of four spirits governing quadrants; companion spirit to Astaroth in conjuration
 vzmyas,Vzmyas,spirit,1,kieckhefer_clm849,,[102v],,"quote: ""...Andyron, Vzmyas, Ytelteos..."""
+water spirits,Water Spirits,spirit,1,scot_1584,,page 471,,description: Spirits residing in ships and rocks of the sea.
 water-dwellers,Water-dwellers,spirit,1,kieckhefer_clm849,,p. 185–186,,role: endanger ships
 wiez,Wiez,spirit,1,kieckhefer_clm849,,p. 350 (83v),,role: one of six names inscribed on reptile-fugation image
 wodan (mexican deity),Wodan (Mexican deity),spirit,1,garnier_1909,,p. 184,,role: ancestral god
@@ -2368,6 +2550,7 @@ on the secret arts of the imaginary art,On the Secret Arts of the Imaginary Art,
 rawlinson manuscript,Rawlinson manuscript,text,1,kieckhefer_clm849,,intro to experiment no. 10,,function: contains parallel necromantic procedures
 rawlinson necromantic manuscript,Rawlinson necromantic manuscript,text,1,kieckhefer_clm849,,n/a (cited in Kieckhefer),,"quote: ""the spirits must be strictly enjoined not to defame any innocent parties."""
 "a, q, o, p, e, v","A, Q, O, P, E, V",tool,1,kieckhefer_clm849,,50r,,role: characters to be written in ritual
+abraxas gemstones,Abraxas Gemstones,tool,1,taschen_2003,,page 423,,"description: Gemstones featuring the magical name of Abraxas, often surrounded by the Ouroboros."
 acus,acus,tool,1,kieckhefer_clm849,,fols 29v-31v,,"quote: ""faciat fieri magister ab artifice perito nouem acus"""
 acus (needles),acus (needles),tool,1,kieckhefer_clm849,,"p. 267, No. 12",,"quote: ""...faciat magister ab artifice perito nouem acus..."""
 alpha and omega,Alpha and Omega,tool,1,ars_notoria,,43,,"quote: ""write Alpha and Omega, and afterwards sleep on thy right side"""
@@ -2534,8 +2717,48 @@ wax image,wax image,tool,1,kieckhefer_clm849,,p. 102–103,,role: used in love m
 whistle,Whistle,tool,2,liber_juratus,,39|64b-65a,,"quote: ""Whistle: It is sounded and struck at various points in the ritual to call the spirits. It is not used with the"""
 whistle (sibilum),Whistle (Sibilum),tool,1,liber_juratus,,296-297,,"quote: ""Fac sibilum de ere albo vel de argento vel de auro vel avellana, et sit eptagonum, id est septem latera habens"""
 white-handled knife,white-handled knife,tool,2,kieckhefer_clm849,,p. 108,,purpose: for image-making ritual; for image-making
+alchemists,Alchemists,unknown,1,scot_1584,,Page 409-410,,description: A group criticized for their vain hopes and the destruction of wealth through their art.
+angel princes,angel princes,unknown,1,taschen_2003,,page 322,,description: Angels placed above the four winds.
 astral magic,astral magic,unknown,1,kieckhefer_clm849,,p. 211,,"quote: ""...necromancy clearly did borrow techniques, however superficially, from the traditions of astral magic derive"""
+blue rose,Blue Rose,unknown,1,taschen_2003,,,,description: The 'flower of wisdom'; signifies a moist state of matter and is a modification of saturnine black.
+bodin,Bodin,unknown,1,scot_1584,,page 143,,description: The argument-that-witches-confessions-are-invalid-due-to_the_unreliability-of-the-mind-under-the-influence-of-_the_melancholic-humor.
+cardanus,Cardanus,unknown,1,scot_1584,,page 309-310,,description: A scholar who derides magic fables and identifies illusions in conjuration.
+critique of conjuration,Critique of Conjuration,unknown,1,scot_1584,,Page 635-636,,description: The author's argument that many magicians are actually in compact with the Devil and that their 'charms' are merely disguises for demonic contracts. 
+earth's tone,Earth's Tone,unknown,1,taschen_2003,,page 46,,description: A specific musical sequence (Mi Fa Mi) assigned by Kepler to the Earth.
+evil spirits,evil spirits,unknown,1,taschen_2003,,page 322,,description: Spirits ruling over the winds.
+four elements,the four elements,unknown,1,taschen_2003,,page 322,,"description: Fundamental components of the material world, linked to directions, humours, and stages of the alchemical work."
+four humours,the four humours,unknown,1,taschen_2003,,page 322,,description: Biological fluids linked to elements and directions.
+four stages of the hermetic work,the four stages of the hermetic Work,unknown,1,taschen_2003,,page 322,,description: Stages in the alchemical process.
+four winds,the four winds,unknown,1,taschen_2003,,page 321,,"description: Winds associated with directions, elements, and humours."
+holy spirit as fire,The Holy Spirit as Fire,unknown,1,scot_1584,,page 456,,description: Metaphorical representation of the spirit as fire that purifies and cleanses.
+holy spirit as slumber/drunkenness,The Holy Spirit as Slumber/Drunkenness,unknown,1,scot_1584,,page 457,,"description: A spirit of slumber, giddiness, and error."
+holy spirit as wind/breath,The Holy Spirit as Wind/Breath,unknown,2,scot_1584,,page 457,,"description: The Hebrew word r'ach signifies spirit, wind, blast, or breath."
 honni the circle-drawer,Honni the Circle-Drawer,unknown,1,kieckhefer_clm849,,"p. 210, n. 17",,role: Jewish miracle worker
+isaie/isaiah,Isaie/Isaiah,unknown,1,scot_1584,,page 455,,description: A prophet whose words are used to describe the Holy Spirit as water and fire.
+john dee,John Dee,unknown,1,taschen_2003,,page 319,,description: An occultist whose encryption techniques in Monas Hieroglyphica are compared to Joyce's linguistic methods.
+jupiter,Jupiter,unknown,1,taschen_2003,,page 147,,"description: Promises good fortune and wealth, associated with the phase of multiplication in the Work, associated with his children are the great dignitaries of society."
+latona,Latona,unknown,1,taschen_2003,,page 40,,description: A code name for the prima materia during the phase of putrefaction and blackening (nigredo).
 malleus maleficarum,Malleus maleficarum,unknown,1,kieckhefer_clm849,,"p. 203, n. 31",,"quote: ""The Malleus maleficarum, ii.1.4, pp. 109–14, discusses the nature of these assumed bodies..."""
+mercurius,Mercurius,unknown,1,taschen_2003,,page 40,,description: Identified with the Moon (Luna).
+monas hieroglyphica,Monas Hieroglyphica,unknown,1,taschen_2003,,page 319,,description: A work by John Dee containing encryption techniques and symbolic structures.
+moon,Moon,unknown,1,taschen_2003,,page 40,,description: A celestial body that acts as a collecting tank or well for sunlight; associated with Mercurius (Luna) and the lunar tincture. · function: collecting tank of living water
+moses,Moses,unknown,1,scot_1584,,/page 457,,description: A biblical figure whose words are used to discuss the punishment for lack of the spirit.
+mother baker,Mother Baker,unknown,1,scot_1584,,Page 207/208,,"description: A woman identified as a famous witch in Kent, accused of using waxen images to harm others."
+music of the spheres,Music of the Spheres,unknown,1,taschen_2003,,,,description: A theory where planetary orbits produce audible harmonies based on mathematical ratios and orbital speeds.
+opus magnum phases (color-based),Opus Magnum Phases (Color-based),unknown,1,taschen_2003,,page 16,,description: The division of the alchemical work into four stages based on color.
+ouroboros,Ouroboros,unknown,2,taschen_2003,,page 20|page 319,Ouroboros|ouroboros,"description: The sea-monster/serpent representing the celestial, primordial water in Ophite cosmology.; The tail-biter, prototype of endless rotation."
+pernety's alchemical/zodiac system,Pernety's Alchemical/Zodiac System,unknown,1,taschen_2003,,page 16-17,,description: A division of 'lower astronomy' mapping 12 alchemical processes to the signs of the zodiac.
 picatrix,Picatrix,unknown,1,kieckhefer_clm849,,p. 211,,"quote: ""...influence on necromantic practice... This and similar writings had been translated from Arabic into Western"""
+planets/celestial_bodies,planets/celestial_bodies,unknown,1,scot_1584,,"Page 365, 365",,"description: Celestial bodies mentioned in an incantation/charm-like words used during juggling, representing a planetary or astrological-related concept. "
 pleiades,Pleiades,unknown,1,garnier_1909,,48–49,,"quote: """"Mr Haliburton has some interesting arguments to prove that the festival in many nations was fixed by the firs"""
+pneumatomachi,Pneumatomachi,unknown,2,scot_1584,,"page 458-459|page 465, Chapter 34",,"description: A sect that denies the divinity of the Holy Spirit, viewing it as a divine force rather than God.; A group of heretics (also referred to as Theoniacht) who deny the divinity of the Holy Spirit. · nature: sect/heresy"
+red rose,Red Rose,unknown,1,taschen_2003,,page 420,,description: Signifies the solar 'Metallic Tincture'.
+saint used to support arguments regarding the power of god's name vs relics,A saint used to support arguments regarding the power of God's name vs relics.,unknown,1,scot_1584,,page 468,,(attributes not extracted)
+saturn,Saturn,unknown,1,taschen_2003,,page 16,,"description: Identified with Chronos, the god of time; represents the outermost circle of the underworld. · nature: transient, sequential time"
+sothis (sirius),Sothis (Sirius),unknown,1,taschen_2003,,page 424,,description: A fixed star associated with Isis and the Egyptian time-wheel.
+sulphur,Sulphur,unknown,1,taschen_2003,,page 40,,description: Identified with the Sun (Sol).
+sun,Sun,unknown,1,taschen_2003,,page 40,,description: A celestial body whose rays can be transformed into water; associated with Sulphur (Sol) and the solar reddening phase.
+the_devil/sathan,The_Devil/Sathan,unknown,2,scot_1584,,page 144,,"description: The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, and as thes_e_entities_array_undermining_the_the_divine_power.; The-figure-of-the-the-devil, in the context-of-a-'league'leagued-with-witches, and as thes_e_entities_array_undermining_unreliable-of-the_mind-under-the-influence-of-the-melancholic-humor. · nature: adversary/devil"
+tria prima,Tria Prima,unknown,1,taschen_2003,,page 15,,description: The three fundamental principles identified by Paracelsus representing spiritual forces.
+white rose,White Rose,unknown,1,taschen_2003,,page 420,,description: Signifies the lunar 'Philosophical Tincture'.
+zodiac,Zodiac,unknown,1,taschen_2003,,page 41,,description: Twelve divisions of the heavens through which material must pass twelve gates to reach fixity.
