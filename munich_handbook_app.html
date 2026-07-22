@@ -36,7 +36,7 @@ const COURTS = {
 /* 12 spirits verified against the guide — all from CLM 849 distillation */
 const SPIRITS = [
   {
-    name: "Astaroth", court: "Prince", occurrences: 20,
+    name: "Astaroth", court: "Prince", occurrences: 25,
     rank: "Prince of the South",
     function: "Reveals treasures guarded by spirits; gives love of women (especially widows); commands languages; master of demons in ritual",
     experiments: ["Exp. 2 (love magic)", "Exp. 12", "Exp. 40"],
@@ -48,7 +48,7 @@ const SPIRITS = [
     sector: 0,
   },
   {
-    name: "Belial", court: "Prince", occurrences: 16,
+    name: "Belial", court: "Prince", occurrences: 18,
     rank: "Foremost Prince (Inicialis Princeps)",
     function: "Appears in conjurations as foremost prince; helper in image-making ritual; listed in circle inscriptions for love magic",
     experiments: ["Exp. 12 (love magic)", "Circle fol. 4v"],
@@ -72,7 +72,7 @@ const SPIRITS = [
     sector: 0,
   },
   {
-    name: "Berith", court: "King", occurrences: 16,
+    name: "Berith", court: "King", occurrences: 19,
     rank: "King of the East",
     function: "One of three kings conjured for knowledge; spirits bound in obedience to him; conveys knowledge through a teacher-spirit; answers inquiries; one of four spirits invoked for the invisibility cloak",
     experiments: ["Exp. 11 (knowledge)", "Exp. 11 (invisibility)", "CLM 849 fols 3r–5v"],
@@ -84,7 +84,7 @@ const SPIRITS = [
     sector: 1,
   },
   {
-    name: "Apolin", court: "King", occurrences: 7,
+    name: "Apolin", court: "King", occurrences: 8,
     rank: "King of the East",
     function: "One of three kings conjured for gaining knowledge; commands a teacher-spirit who conveys learning to the petitioner; associated with eastward direction",
     experiments: ["CLM 849 Exp. for gaining knowledge", "CLM 849 fols 3r–5v"],
@@ -96,7 +96,7 @@ const SPIRITS = [
     sector: 1,
   },
   {
-    name: "Maraloth", court: "King", occurrences: 4,
+    name: "Maraloth", court: "King", occurrences: 5,
     rank: "King",
     function: "One of three kings conjured alongside Berith and Apolin; invoked in knowledge experiment; listed in binding incantations",
     experiments: ["CLM 849 Exp. for gaining knowledge"],
@@ -108,7 +108,7 @@ const SPIRITS = [
     sector: 1,
   },
   {
-    name: "Lucifer", court: "Demon", occurrences: 12,
+    name: "Lucifer", court: "Demon", occurrences: 13,
     rank: "Highest Prince of Demons",
     function: "Appears in circle inscriptions; listed in circle inscriptions alongside other princes; highest rank among infernal hierarchy",
     experiments: ["Exp. 1 (circle)", "CLM 849 fol. 4v"],
@@ -156,7 +156,7 @@ const SPIRITS = [
     sector: 3,
   },
   {
-    name: "Oriens", court: "Spirit", occurrences: 8,
+    name: "Oriens", court: "Spirit", occurrences: 9,
     rank: "Demon with Subordinate Spirits (Kings and Dignities)",
     function: "Invoked in incantations to reveal hidden treasure in dreams; has subordinate spirits with ranks and dignities",
     experiments: ["CLM 849 fols 106v–107r"],
@@ -883,7 +883,7 @@ function InfernalTopology() {
           fontSize:9, color:"#1e1220", textAlign:"center", lineHeight:2 }}>
           All data extracted from CLM 849 via Kieckhefer, <em>Forbidden Rites</em> (Penn State, 1997)
           <br/>
-          Distillation: 120B Qwen model · 126 chunks · munich-handbook-research
+          Distillation: gemma-4-26b via LM Studio · 160 grimoire chunks (215 total distilled) · munich-handbook-research
           <br/>
           No hallucinated spirits — verified provenance only
         </div>
