@@ -1,0 +1,118 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 60,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Pneumatomachi",
+      "type": "critique",
+      "description": "A group of heretics (also referred to as Theoniacht) who deny the divinity of the Holy Spirit.",
+      "source_ref": "page 465, Chapter 34",
+      "attributes": {
+        "accusation": "denying the divinity of the Holy Spirit",
+        "metaphor": "swine/devils"
+      }
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "spirit",
+      "description": "The third person of the Trinity, described as the spirit of sanctification and the animating force.",
+      "source_ref": "page 465-468",
+      "attributes": {
+        "nature": "divine",
+        "function": "sanctification, provoking prayer, presence in believers"
+      }
+    },
+    {
+      "name": "God the Father",
+      "type": "spirit",
+      "description": "The first person of the Trinity.",
+      "source_ref": "page 465",
+      "attributes": {
+        "function": "creator, sender of the Son and Spirit"
+      }
+    },
+    {
+      "name": "God the Son (Jesus Christ)",
+      "type": "spirit",
+      "description": "The second person of the Trinity.",
+      "source_ref": "page 465",
+      "attributes": {
+        "function": "creator, revealer of the Father"
+      }
+    },
+    {
+      "name": "Immanuel",
+      "type": "concept",
+      "description": "A holy name used in consecration rituals.",
+      "source_ref": "page 470",
+      "attributes": {}
+    },
+    {
+      "name": "Magical Circle (Imaginary)",
+      "type": "ritual",
+      "description": "A circle created through incantations and consecrations when a physical boundary cannot be delineated.",
+      "source_ref": "Appendix I, Chapter 1",
+      "attributes": {
+        "size": "nine foot circumference",
+        "method": "incantations, holy water, consecration"
+      }
+    },
+    {
+      "name": "Exorcist",
+      "type": "person",
+      "/description": "The practitioner performing the ritual.",
+      "source_ref": "Appendix I, Chapter 1",
+      "attributes": {
+        "clothing": "black garment to knee, white linen robe to ankles",
+        "equipment": "consecrated russet leather shoes with cross, hazel wand"
+      }
+    },
+    {
+      "name": "Subterranean Spirits",
+      "type": "spirit",
+      "description": "Spirits residing in pits and caves.",
+      "source_ref": "page 471",
+      "attributes": {}
+    },
+    {
+      "name": "Aerial Spirits",
+      "type": "spirit",
+      "description": "Spirits residing on the tops of turrets.",
+      "source_ref": "page 471",
+      "attributes": {}
+    },
+    {
+      "name": "Water Spirits",
+      "type": "spirit",
+      "description": "Spirits residing in ships and rocks of the sea.",
+      "source_ref": "page 471",
+      "attributes": {}
+    },
+    {
+      "name": "Faries, Nymphs, and Satyres",
+      "type": "spirit",
+      "description": "Spirits residing in woods and mountains.",
+      "source_ref": "page 471",
+      "attributes": {}
+    },
+    {
+      "name": "Hermes Trismegistus",
+      "type": "person",
+      "description": "Ancient figure cited regarding the necessity of the spirit for all things.",
+      "source_ref": "page 466",
+      "attributes": {}
+    },
+    {
+      "name": "Cyril",
+      "type": "person",
+      "description": "Church father cited in defense of the Trinity.",
+      "source_ref": "page 466",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "The passage contains a theological defense of the Holy Spirit's divinity against the Pneumatomachi heretics, alongside an appendix detailing the construction and consecration of magical circles for conjuration. It describes specific ritual attire, tools like hazel wands, and the environmental conditions suitable for summoning various classes of spirits.",
+  "key_passages": [],
+  "_truncated": true
+}

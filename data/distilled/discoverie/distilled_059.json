@@ -1,0 +1,550 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 59,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "God",
+      "type": "spirit",
+      "description": "An uncreated spirit, essentialie taken, and agreeth unto the three persons notionally.",
+      "source_ref": "page 457",
+      "attributes": {
+        "nature": "uncreated spirit",
+        "persons": [
+          "Father",
+          "Son",
+          "Holy Ghost"
+        ]
+      }
+    },
+    {
+      "name": "Satan/the Devil",
+      "type": "spirit",
+      "critique": "The suggestion of the wicked spirit, of the divell, and of satan.",
+      "source_ref": "page 457",
+      "attributes": {
+        "nature": "wicked spirit"
+      }
+    },
+    {
+      "name": "Pneumatomachi",
+      "type": "critique",
+      "description": "A sect that denies the divinity of the Holy Spirit, viewing it as a divine force rather than God.",
+      "source_ref": "page 458-459",
+      "attributes": {
+        "nature": "sect/heresy"
+      }
+    },
+    {
+      "name": "Hilarie",
+      "type": ",\"person\"",
+      "description": "A writer of the Trinity who is cited as an object of debate regarding whether the Holy Spirit is to be worshipped.",
+      "source_ref": "page 459-460",
+      "attributes": {}
+    },
+    {
+      "name": "Ambrose",
+      "type": "person",
+      "description": "A father of the church who expounds on the meaning of spirit in Amos.",
+      "source_ref": "page 461",
+      "attributes": {}
+    },
+    {
+      "name": "Eusebius",
+      "type": "person",
+      "description": "A writer cited regarding the creation of the spirit.",
+      "source_ref": "page 462",
+      "attributes": {}
+    },
+    {
+      "name": "Isaie/Isaiah",
+      "/type": "person",
+      "description": "A prophet whose words are used to describe the Holy Spirit as water and fire.",
+      "source_ref": "page 455",
+      "attributes": {}
+    },
+    {
+      "name": "Jeremze/Jeremiah",
+      "type": "person",
+      "description": "A prophet whose words are used to describe the fiery nature of the spirit.",
+      "source_ref": "page 456",
+      "attributes": {}
+    },
+    {
+      "name": "John/St. John",
+      "type": "person",
+      "description": "A biblical figure whose words are used to discuss the water of life and the nature of the spirit.",
+      "source_ref": "page 455",
+      "attributes": {}
+    },
+    {
+      "name": "Moses",
+      "/type": "person",
+      "description": "A biblical figure whose words are used to discuss the punishment for lack of the spirit.",
+      "source_ref": "/page 457",
+      "attributes": {}
+    },
+    {
+      "name": "Pan",
+      "type": "person",
+      "description": "A figure mentioned in relation to error and drunkenness.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "Cyril",
+      "type": "person",
+      "description": "Cited regarding the use of oil as a metaphor for God's mercy.",
+      "source_ref": "page 456",
+      "attributes": {}
+    },
+    {
+      "name": "Adam/the elect",
+      "type": "concept",
+      "description": "Those who are renewed and made apt by the training up of the holy spirit.",
+      "source_ref": "page 456",
+      "attributes": {}
+    },
+    {
+      "name": "Witchcrafts/Incantations",
+      "type": "ritual",
+      "description": "False and evil spirits and practices that cannot stand the trial of the spirit of truth.",
+      "/source_ref": "page 457",
+      "attributes": {
+        "examples": [
+          "charms",
+          "divinations",
+          "augurie",
+          "judiciall astrologie",
+          "nativitie casting",
+          "alcumystrie",
+          "conjuration",
+          "lotshare",
+          "poperie"
+        ]
+      }
+    },
+    {
+      "name": "The Holy Spirit as Water",
+      "type": "concept",
+      "/description": "Metaphorical representation of the spirit as water that washes, comforts, and makes fruitful.",
+      "source_ref": "page 455",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Fire",
+      "/type": "concept",
+      "description": "Metaphorical representation of the spirit as fire that purifies and cleanses.",
+      "source_ref": "page 456",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Oil/Anointing",
+      "type": "concept",
+      "description": "Metaphorical representation of the spirit as anointing or ointment that makes one fit for office.",
+      "source_ref": "page 456",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Finger of God",
+      "type": "concept",
+      "description": "Metaphorical representation of the spirit as the might and power of God.",
+      "source_ref": "page 456",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Truth/Touchstone",
+      "type": "concept",
+      "description": "Metaphorical representation of the spirit as a touchstone to try all counterfeit devises and vain sciences.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type/description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Error/Blindness",
+      "type": "concept",
+      "description": "A spirit of error and blindness that inhabits where sin has dominion.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Slumber/Drunkenness",
+      "type": "/concept",
+      "description": "A spirit of slumber, giddiness, and error.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Adoption/Abba Father",
+      "type": "concept",
+      "description": "The spirit of adoption that allows us to cry 'Abba, Father'.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Truth/Touchstone",
+      "type": "concept",
+      "description": "The spirit of truth that tests all counterfeit devises and vain sciences.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "/description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "/attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "/type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source/ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source/ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "/page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast/breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "/source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    },
+    {
+      "name": "The Holy Spirit as Wind/Breath",
+      "type": "concept",
+      "description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+      "source_ref": "page 457",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}

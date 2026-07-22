@@ -1,0 +1,254 @@
+{
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Baell",
+      "type": "spirit",
+      "description": "A king of the power of the east who appears with three heads (toad, man, and cat) and commands 66 legions.",
+      "source_ref": "Page 412",
+      "attributes": {
+        "rank": "king",
+        "direction": "east",
+        "appearance": [
+          "three heads",
+          "toad-like head",
+          "man-like head",
+          "cat-scale head"
+        ],
+        "voice": "hoarse",
+        "power": "makes men invisible",
+        "legions_under_command": 66
+      }
+    },
+    {
+      "name": "Agares",
+      "type": "spirit",
+      "description": "A duke of the power of the east appearing as a fair old man riding a crocodile.",
+      "source_ref": "Page 412",
+      "attributes": {
+        "rank": "duke",
+        "direction": "east",
+        "appearance": [
+          "fair old man",
+          "riding a crocodile",
+          "carrying a hawk"
+        ],
+        "power": [
+          "teaches tongues",
+          "fetches runaways",
+          "makes people stand still",
+          "causes earthquakes"
+        ],
+        "order": "virtues",
+        "legions_under_command": 31
+      }
+    },
+    {
+      "name": "Marbas",
+      "type": "spirit",
+      "description": "A great president appearing as a mighty lion or a man.",
+      "source_ref": "Page 412",
+      "attributes": {
+        "rank": "president",
+        "alias": "Barbas",
+        "appearance": [
+          "mighty lion",
+          "man"
+        ],
+        "power": [
+          "brings diseases",
+          "cures diseases",
+          "promotes wisdom",
+          "knowledge of mechanical arts",
+          "shape-shifting"
+        ],
+        "legions_under_command": 36
+      }
+    },
+    {
+      "name": "Amon",
+      "type": "spirit",
+      "description": "A mighty marques appearing as a wolf with a serpent's tail.",
+      "source_ref": "Page 412",
+      "attributes": {
+        "rank": "marques",
+        "alias": "Aamon",
+        "appearance": [
+          "wolf",
+          "serpent's tail",
+          "man with dog teeth",
+          "head like a raven"
+        ],
+        "power": [
+          "understands past and future",
+          "procures favor",
+          "reconciles friends and foes"
+        ],
+        "legions_under_command": 40
+      }
+    },
+    {
+      "name": "Barbatos",
+      "type": "spirit",
+      "description": "A duke or earl who understands the voices of animals.",
+      "source_ref": "Page 412",
+      "attributes": {
+        "rank": [
+          "count",
+          "earl",
+          "duke"
+        ],
+        "appearance": [
+          "Signo sagittarii sylvestris"
+        ],
+        "power": [
+          "understands birds, dogs, and bullocks",
+          "detects hidden treasures",
+          "knows past and future",
+          "reconciles friends"
+        ],
+        "order": "virtues",
+        "legions_under_command": 30
+      }
+    },
+    {
+      "name": "Buer",
+      "type": "spirit",
+      "description": "A president who teaches philosophy and the virtue of herbs.",
+      "source/ref": "Page 413",
+      "attributes": {
+        "rank": "president",
+        "power": [
+          "teaches moral and natural philosophy",
+          "teaches logic",
+          "knows virtue of herbs",
+          "heals diseases"
+        ],
+        "legions_under_command": 50
+      }
+    },
+    {
+      "name": "Paimon",
+      "type": "spirit",
+      "description": "A king who is more obedient to Lucifer than other kings.",
+      "source_ref": "Page 415",
+      "attributes": {
+        "rank": "king",
+        "appearance": [
+          "man",
+          "riding a dromedary",
+          "glorious crown",
+          "effeminate countenance"
+        ],
+        "power": [
+          "teaches philosophy, wisdom, and science",
+          "knows the disposition of the world",
+          "binds those who resist"
+        ],
+        "legions_under_command": 200,
+        "order": [
+          "dominations",
+          "cherubim",
+          "angels",
+          "potestates"
+        ]
+      }
+    },
+    {
+      "name": "Beliall",
+      "type": "spirit",
+      "description": "A king created immediately after Lucifer.",
+      "source_ref": "Page 416",
+      "attributes": {
+        "rank": "king",
+        "appearance": [
+          "beautiful angel",
+          "sitting in a fiery chariot"
+        ],
+        "power": [
+          "distributes preferments of senatorship",
+          "procures favor of friends"
+        ],
+        "legions_under_command": 80,
+        "order": [
+          "angels",
+          "virtues"
+        ]
+      }
+    },
+    {
+      "name": "Salomon",
+      "type": "person",
+      "description": "A wise king who gathered demons in a brass vessel.",
+      "source_ref": "Page 416",
+      "attributes": {
+        "achievements": [
+          "gathered devils in a brass vessel",
+          "used divine power to constrain spirits"
+        ]
+      }
+    },
+    {
+      "name": "conjuration",
+      "type": "ritual",
+      "description": "The art of calling up spirits, angels, or devils.",
+      "source_ref": "Page 411",
+      "attributes": {
+        "practitioners": [
+          "conjurors"
+        ],
+        "capabilities": [
+          "fetch devils from hell",
+          "raise dead bodies",
+          "raise souls from heaven/hell"
+        ]
+      }
+    },
+    {
+      "name": "Alchemists",
+      "type": "critique",
+      "description": "A group criticized for their vain hopes and the destruction of wealth through their art.",
+      "source_ref": "Page 409-410",
+      "attributes": {
+        "criticism": [
+          "dream and dote after double advantage",
+          "their art turns metals into mist and smoke"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Baell",
+      "relation": "commands",
+      "to": "66 legions of devils"
+    },
+    {
+      "from": "Agares",
+      "relation": "is of the order of",
+      "to": "virtues"
+    },
+    {
+      "from": "Paimon",
+      "relation": "is obedient to",
+      "to": "Lucifer"
+    },
+    {
+      "from": "Salomon",
+      "relation": "gathered",
+      "to": "spirits in a brass vessel"
+    },
+    {
+      "from": "Beliall",
+      "relation": "is the father and seducer of",
+      "to": "those which fell"
+    }
+  ],
+  "summary": "This passage from Reginald Scot's 'The Discoverie of Witchcraft' provides a detailed hierarchy of demonic entities, including their ranks, appearances, and specific powers. It describes the art of conjuration as a method to summon spirits and details various figures like Baell, Paimon, and Beliall, while also critiquing alchemists and discussing the legendary exploits of King Solomon.",
+  "key_passages": [
+    "These are no small fooles, they go not to worke with a baggage tode, or a cat, as Wierusin witches doo; but with a kind of majestic, and with authoritie they do call up by name, and have at their commandement seventie and nine principall and princelie divels.",
+    "He [Paimon] is constrained by divine vertue to stand before the exorcist; where he putteth on the likenesse of a man."
+  ],
+  "source_id": "discoverie",
+  "chunk_id": 43
+}

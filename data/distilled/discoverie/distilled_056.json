@@ -1,0 +1,110 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 56,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Beelzebub",
+      "type": "spirit",
+      "description": "The lord of the flies; an idol or oracle at Ekron; reputed as the principal devil among the Jews.",
+      "source_ref": "Chapter 19",
+      "attributes": {
+        "meaning": "Lord of the flies",
+        "origin": "Ekron/Jewry"
+      }
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "description": "An idol of the Philistines, also worshipped by Solomon; signifies riches and flocks.",
+      "source_ref": "Chapter 19",
+      "attributes": {
+        "meaning": "Riches, flocks, etc.",
+        "association": "Philistines/Solomon"
+      }
+    },
+    {
+      "name": "Sathan (Satan)",
+      "type": "spirit",
+      "description": "The adversary; can hurt both by day and night; described as the author of sin.",
+      "source_ref": "Chapter 20",
+      "attributes": {
+        "meaning": "Adversary",
+        "nature": "Destroys, troubles, molests"
+      }
+    },
+    {
+      "name": "Mammon",
+      "type": "spirit",
+      "description": "Represents the covetous desire for money.",
+      "source_ref": "Chapter 20",
+      "attributes": {
+        "meaning": "Covetous desire of money"
+      }
+    },
+    {
+      "name": "Baaros",
+      "type": "material",
+      "description": "A root mentioned as being one with Solomon's root, having force to drive out devils.",
+      "source_ref": "Page 529",
+      "attributes": {
+        "alternative_name": "Agla\u00f6photis/Cynospasttis"
+      }
+    },
+    {
+      "name": "James Sprenger",
+      "type": "person",
+      "description": "A writer who gathers and notes causes for why the devil possesses men at certain moon phases.",
+      "source_ref": "Page 529",
+      "attributes": {}
+    },
+    {
+      "name": "Bodin (Jean Bodin)",
+      "type": "person",
+      "description": "A writer who asserts there are day and night devils, and that the devil loves no salt in his meat.",
+      "source_ref": "Page 532",
+      "attributes": {}
+    },
+    {
+      "name": "Salomon (Solomon)",
+      "type": "person",
+      "description": "A historical figure associated with conjuration and the worship of certain idols.",
+      "source_ref": "Page 529, 534",
+      "attributes": {
+        "role": "Conjurer/Worshipper"
+      }
+    },
+    {
+      "name": "Deber",
+      "type": "spirit",
+      "description": "A devil that hurts by night.",
+      "source_ref": "Page 532",
+      "attributes": {}
+    },
+    {
+      "name": "Cheleb",
+      "type": "spirit",
+      "description": "A devil that hurts by day.",
+      "source_ref": "/page 532",
+      "attributes": {}
+    },
+    {
+      "name": "Penates",
+      "type": "spirit",
+      "description": "Domestic gods or devils (Minerva) said to make men live quietly indoors.",
+      "source_ref": "Chapter 21",
+      "attributes": {}
+    },
+    {
+      "name": "Lares",
+      "type": "spirit",
+      "description": "Spirits that oversee crossroads and cities; trouble private houses.",
+      "source/ref": "Chapter 21",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage from Reginald Scot's 'Discoverie of Witchcraft' explores the nature, names, and origins of various spirits, devils, and pagan gods. Scot provides a linguistic and historical analysis of the names of biblical and classical deities, arguing that many are actually demons or idols used to deceive humanity.",
+  "key_passages": [],
+  "_truncated": true
+}

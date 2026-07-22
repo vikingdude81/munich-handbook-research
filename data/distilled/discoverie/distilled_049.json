@@ -1,0 +1,103 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 49,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Thomas Aquinas",
+      "type": "person",
+      "description": "A theologian/doctor of the church who provides arguments for the legality of conjurations and charmes.",
+      "source_raise": "page 468",
+      "attributes": {
+        "role": "theologian"
+      }
+    },
+    {
+      "name": "A person who denied the legality of conjuration in a specific incident involving monks.",
+      "type": "person",
+      "source_ref": "page 467",
+      "attributes": {}
+    },
+    {
+      "name": "Anthotiius Prafensis",
+      "type": "person",
+      "description": "cardinal and legat for the pope throughout France.",
+      "source_ref": "page 467",
+      "attributes": {
+        "role": "cardinal"
+      }
+    },
+    {
+      "name": "A saint used to support arguments regarding the power of God's name vs relics.",
+      "source_ref": "page 468",
+      "attributes": {}
+    },
+    {
+      "name": "M. Mai.",
+      "type": "person",
+      "description": "A source cited by Scot to discuss the legality of exorcism without conjuration.",
+      "source_ref": "page 468",
+      "attributes": {}
+    },
+    {
+      "name": "St. Jerome/S. Jerome (not explicitly named but implied in context)",
+      "type": "person",
+      "description": "Not found",
+      "source_ref": null,
+      "attributes": {}
+    },
+    {
+      "name": "John Wierus",
+      "type": "person",
+      "description": "A person whose writings on conjurations are mentioned by Bodin.",
+      "source_ref": "page 472",
+      "attributes": {}
+    },
+    {
+      "name": "Jean Bodin",
+      "type": "person",
+      "description": "Author/thinker who discusses the punishment of witches vs conjurors.",
+      "source_ref": "page 472",
+      "attributes": {}
+    },
+    {
+      "name": "Raphaell",
+      "type": "angel",
+      "description": "Archangel mentioned in relation to the liver of fish.",
+      "source_ref": "page 474",
+      "attributes": {}
+    },
+    {
+      "name": "Peter or Barbara",
+      "type": "person",
+      "description": "Names used in a specific conjuration formula for the sick.",
+      "source_ref": "page 469",
+      "attributes": {}
+    },
+    {
+      "name": "conjuration of salt",
+      "type": "ritual",
+      "description": "A ritual involving the consecration and conjuration of salt for health.",
+      "source_ref": "page 473",
+      "attributes": {}
+    },
+    {
+      "name": "exorcism of incense",
+      "type": "ritual",
+      "description": "A ritual to drive away spirits from frankincense.",
+      "source_ref": "page 474",
+      "attributes": {}
+    },
+    {
+      "name": "the devil",
+      "type": "spirit",
+      "description": "The primary antagonist in the rituals and discussions of exorcism.",
+      "source_ref": "page 467",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage from Reginald Scot's 'Discoverie of Witchcraft' details various popish conjurations, exorcisms, and rituals involving materials like salt, incense, and water. It also includes theological arguments regarding the legality of and effectiveness of the power of God versus the/the devil in ritual practice.",
+  "key_passages": [],
+  "_truncated": true
+}

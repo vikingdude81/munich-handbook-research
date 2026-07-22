@@ -1,0 +1,155 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 21,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Thomas",
+      "type": "person",
+      "description": "The apostle Thomas, used as a biblical example to discuss the nature of spirits and physical presence.",
+      "source_ref": "page 206",
+      "attributes": {
+        "nature": "Apostle"
+      }
+    },
+    {
+      "name": "Samuel",
+      "type": "person",
+      "description": "A biblical figure, the subject of a debate regarding whether he was truly raised from the dead by the witch of Endor.",
+      "source_ref": "page 2/210",
+      "attributes": {
+        "status": "Dead/Raised (debated)"
+      }
+    },
+    {
+      "name": "Christ",
+      "type": "person",
+      "description": "A central figure in the Christian context, used to discuss the nature of spirits and physical bodies.",
+      "source_ref": "page 206",
+      "attributes": {
+        "nature": "spirit vs flesh/bones"
+      }
+    },
+    {
+      "name": "Eusebius",
+      "type": "person",
+      "description": "An ecclesiastical historian whose work is cited to discuss the oracle of Apollo and the deception of priests.",
+      "source_ref": "page 207",
+      "attributes": {
+        "role": "Historian"
+      }
+    },
+    {
+      "name": "Gregory of Nazianzus (Gregorie Neocessariensis)",
+      "type": "person",
+      "description": "A figure whose journey to the Alps and interaction with the temple of' Apollo is used as a tale of deception.",
+      "source_ref": "page 207",
+      "attributes": {
+        "role": "Traveler/Christian figure"
+      }
+    },
+    {
+      "name": "Aristotle",
+      "type": "person",
+      "description": "A philosopher cited to provide a rational critique of reports of speaking beasts and moving images.",
+      "source_ref": "page 208, 209",
+      "attributes": {
+        "role": "Philosopher/Critique"
+      }
+    },
+    {
+      "name": "Agrippa",
+      "type": "person",
+      "description": "An author cited regarding the ability of necromancers to recall spirits within a year of death.",
+      "source_ref": "page 211",
+      "attributes": {
+        "role": "Author/Scholar"
+      }
+    },
+    {
+      "name": "Saul (King Saul)",
+      "type": "person",
+      "description": "A biblical king whose interaction with the witch of Endor is a central case study in the text.",
+      "source_ref": "page 210, 214",
+      "attributes": {
+        "role": "King/Subject of debate"
+      }
+    },
+    {
+      "name": "the witch of Endor",
+      "type": "person",
+      "description": "A woman accused of raising Samuel through a familiar spirit.",
+      "source_ref": "page 209, 214",
+      "attributes": {
+        "role": "Witch/Pythonissa"
+      }
+    },
+    {
+      "name": "the devil",
+      "type": "spirit",
+      "description": "A spirit mentioned in various contexts, including the letter to the devil and the debate over whether a spirit was raised.",
+      "source_ref": "page 207, 213",
+      "attributes": {
+        "nature": "Deceptive/Agent of error"
+      }
+    },
+    {
+      "name": "the Pythonists",
+      "type": "concept",
+      "description": "A group or tradition associated with the oracle of Apollo, characterized by their use of deception and oracular practices.",
+      "source_ref": "Chapter 4/5",
+      "attributes": {
+        "nature": "Oracular tradition"
+      }
+    },
+    {
+      "name": "the creation, transformation, transportation, and transubstantiation of witches",
+      "type": "concept",
+      "description": "A set of magical or supernatural phenomena attributed to witches.",
+      "source_ref": "page 206",
+      "attributes": {
+        "nature": "Magical phenomenon"
+      }
+    },
+    {
+      "name": "the witch of Endor",
+      "type": "person",
+      "description": "A woman accused of raising Samuel from the dead via a familiar spirit.",
+      "source_ref": "page 209, 214",
+      "attributes": {
+        "role": "Witch/Pythonissa"
+      }
+    },
+    {
+      "name": "the witch of Endor",
+      "type": "person",
+      "description": "A woman accused of raising Samuel from the dead via a familiar_spirit.",
+      "source_ref": "page 209, 214",
+      "attributes": {
+        "role": "Witch/Pythonissa"
+      }
+    },
+    {
+      "name": "the witch of Endor",
+      "type": "person",
+      "description": "A woman accused of raising Samuel from the dead via a familiar spirit.",
+      "source_ref": "page 209, 214",
+      "attributes": {
+        "role": "Witch/Pythonissa"
+      }
+    },
+    {
+      "name": "the witch of Endor",
+      "type": "person",
+      "description": "A woman accused of raising Samuel from the dead via a familiar spirit.",
+      "source_ref": "page 209, 214",
+      "attributes": {
+        "role": "Witch/Pythonissa"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}

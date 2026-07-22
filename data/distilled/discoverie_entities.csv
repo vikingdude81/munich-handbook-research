@@ -1,0 +1,208 @@
+name,type,description,source_ref,source_id,chunk_id
+John Deacon,person,A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).,page 55,discoverie,4
+John Walker,person,A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).,page 55,discoverie,4
+Sir Roger Manwood,person,"Knight and Lord Chief Baron of the King's Court of the Exchequer, recipient of Scot's Epistle.",page 65,discoverie,4
+Wier,person,An author whose views on demonology were influential during Scot's time.,page 57,discoverie,4
+Cornelius Agrippa,person,An author whose views on demonology were influential during Scot's time.,,discoverie,4
+Hippocrates,person,Ancient physician cited for opinions on magical cures.,'])),discoverie,4
+Calvin,person,Reformer who referred to magicians as 'cousenors'.,page 68,discoverie,4
+Erastus,person,"A writer who defended certain aspects of magic, such as flying in the air.",page 68,discoverie,4
+Devils and Spirits,spirit,Entities that witches are alleged to contract with or use for purposes.,"page 61, 63",discoverie,4
+Witchcraft,concept,The practice of using magic or spirits to cause harm or perform feats.,"page 59, 61",discoverie,4
+Alchimistry,concept,Described as a 'fruitless beggarly art'.,"page 59, 63",discoverie,4
+"Charms, Philtres, Periapts, Pentacles, Curses, and Conjurations",ritual,Methods through which magic is alleged to work.,page 63,discoverie,4
+Poisoning,ritual,Described as a 'horrible art'.,"page 59, 61",discoverie,4
+"Thomas Scot Knight, S^c.",person,"Recipient of the Epistle to Sir Thomas Scot, Sir Thomas is a/an a meet/worthy person to whom the author can commend his booke. A member of the    ",page en 71,discoverie,5
+Jannes and Jambres,person,False prophets mentioned in relation to miracles and plagues (serpents and frogs),page 318,discoverie,8
+Pharaos magicians,person,Magicians of Pharaoh compared to witches in terms of cunning and juggling knacks,page 317,discoverie,8
+Erasmus,person,Author of a story regarding two Alcumysts and the phenomena of longation and curtation,page 361,discoverie,8
+Bealphares,spirit,"A spirit that can be bound or lost, mentioned in an experiment",page 415/418,discoverie,8
+Paymon,spirit,One of three spirits that can be raised with wonderful things effected through their assistance,"Appendix I, Chap. III",discoverie,8
+Bathin,spirit,One of three spirits that can be raised with wonderful things effected through their assistance,"Appendix I, Chap. III",discoverie,8
+Barma,spirit,One of three spirits that can be raised with wonderful things effected through their assistance,"Appendix I, Chap. III",discoverie,8
+Luridan,spirit,A spirit that can be made a familiar; also associated with Belelah,"Appendix I, Chap. VIII",discoverie,8
+Belelah,spirit,Another name for the familiar Luridan,"Appendix I, VIII",discoverie,8
+Balkin,spirit,The Master of Luridan,"Appendix I, IX",discoverie,8
+John Baptist,person,Subject of a juggling trick called 'the decollation of John Baptist',page 349,discoverie,8
+S. Margaret,person,Subject of a story involving fighting a real devil and a miracle wrought by a priest,page 455/457,discoverie,8
+S. Lucie,person,Subject of a strange story following a miracle of S. Margaret,page 461,discoverie,8
+Carolus Gallus,person,Author whose writings on magic are mentioned in relation to Nero,page 452,discoverie,8
+James Sprenger,person,Inquisitor and compiler of Malleus Maleficarum,page 470,discoverie,8
+Henry Institor,person,Inquisitor and compiler of Malleus Maleficarum,page 470,discoverie,8
+Psellus,person,Philosopher whose opinions on spirits are discussed and disproved,page 492/495,discoverie,8
+Plato,person,"Philosopher whose opinions on spirits, devils, and angels are discussed",page 498/500,discoverie,8
+Socrates,person,Philosopher mentioned in relation to having a familiar devil,page 498,discoverie,8
+John Calvin,person,Theologian whose opinion on the devil is mentioned,page 539,discoverie,8
+Alcumystrie,concept,"The art of alchemy/alchemists, involving words and devices to deceive eyes",page 353,discoverie,8
+Conjuration,ritual,"The act of calling or binding spirits, often discussed in a critical context",page 376/430,discoverie,8
+Juggling knacks,ritual,Deceptive tricks or sleight of hand used to simulate magic,page 321/338,discoverie,8
+Theurgy,ritual,"A form of magic or divine work, discussed with a confutation",page 466,discoverie,8
+Magical Circles,ritual,Instruments used for the institution of magic and raising spirits,"Appendix I, Ch. I",discoverie,8
+Alchemical stones and waters,material,Substances associated with the art of Alcumysterie,page 355,discoverie,8
+Christall stone,material,A medium used to inclose a spirit,page 411/428,discoverie,8
+Holy water,material,Substance used in religious and exorcism rituals,page 421,discoverie,8
+Tatian,person,An author or figure cited regarding the nature of the devil's body.,"Page 135, Chapter 6",discoverie,13
+Aristotle,person,A philosopher cited regarding the effects of melancholic passions.,"Page 136, Chapter 7",discoverie,13
+Ade Davie,person,A Kentish woman who believed she had bargained her soul to the devil due to a melancholic episode.,[Page 141-142],discoverie,13
+Simon Davie,person,Husband of Ade Davie.,[Page 141-142],discoverie,13
+Ant. Houin,person,A witch executed in 1565 who confessed to causing weather phenomena.,Page 141,discoverie,13
+melancholie,concept,"A medical/psychological condition described as causing false imaginations, delusions, and irrational behaviors.",Chapter 9,discoverie,13
+the devil's covenant/bargain,ritual,"The alleged agreement between witches and the devil, which Scot argues is unproven and often based on false confessions.",Chapter 6,discoverie,13
+transubstantiation,concept,"An impossible claim made in witches' confessions, used by Scot to argue against the validity of proofs.",Chapter 7,discoverie,13
+Satan/Sathan,spirit,"The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power.",page 144,discoverie,14
+Sprenger and Institor,person,_the_old_hammer_of_Malleus_Maleficarum_authors/inquisitors.,page 150,discoverie,14
+Bodin,critique,The argument-that-witches-confessions-are-invalid-due-to_the_unreliability-of-the-mind-under-the-influence-of-_the_melancholic-humor.,page 143,discoverie,14
+The_League,ritual,A purported or confessed_the_renouncing-of-the-faith-and-making-a-bargain-with-the-devil.,,discoverie,14
+Making_of_tempests_and_rain,ritual,,page 145,discoverie,14
+The_Devil/Sathan,spirit,"The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power.",page 144,discoverie,14
+The_Devil/Sathan,,"The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, and as thes_e_entities_array_undermining_the_the_divine_power.",page 144,discoverie,14
+Thomas,person,"The apostle Thomas, used as a biblical example to discuss the nature of spirits and physical presence.",page 206,discoverie,21
+Samuel,person,"A biblical figure, the subject of a debate regarding whether he was truly raised from the dead by the witch of Endor.",page 2/210,discoverie,21
+Christ,person,"A central figure in the Christian context, used to discuss the nature of spirits and physical bodies.",page 206,discoverie,21
+Eusebius,person,An ecclesiastical historian whose work is cited to discuss the oracle of Apollo and the deception of priests.,page 207,discoverie,21
+Gregory of Nazianzus (Gregorie Neocessariensis),person,A figure whose journey to the Alps and interaction with the temple of' Apollo is used as a tale of deception.,page 207,discoverie,21
+Agrippa,person,An author cited regarding the ability of necromancers to recall spirits within a year of death.,page 211,discoverie,21
+Saul (King Saul),person,A biblical king whose interaction with the witch of Endor is a central case study in the text.,"page 210, 214",discoverie,21
+the witch of Endor,person,A woman accused of raising Samuel through a familiar spirit.,"page 209, 214",discoverie,21
+the devil,spirit,"A spirit mentioned in various contexts, including the letter to the devil and the debate over whether a spirit was raised.","page 207, 213",discoverie,21
+the Pythonists,concept,"A group or tradition associated with the oracle of Apollo, characterized by their use of deception and oracular practices.",Chapter 4/5,discoverie,21
+"the creation, transformation, transportation, and transubstantiation of witches",concept,A set of magical or supernatural phenomena attributed to witches.,page 206,discoverie,21
+Acrobius,person,Recounts five differences of images or imaginations in sleep.,"Chapter 2, Page 241",discoverie,25
+Peucer,person,Author who provides causes and occasions of dreams.,Page 241,discoverie,25
+Galen,person,Physician cited regarding the physical nature of dreams through humors.,Page 242,discoverie,25
+Avicen,person,Attributed dreams to the last intelligence that moves the moon.,Page 243,discoverie,25
+Averroes,person,Attributed dreams to the imaginative sense.,Page 243,discoverie,25
+Albert,person,Attributed dreams to the influence of superior bodies.,,discoverie,25
+Cicero,person,Confutes the vanity and folly of dream interpreters.,Page 243,discoverie,25
+Nicolaus Hemingius,person,Divides diabolical dreams into three sorts.,"Page 243, Page 244",discoverie,25
+Salomon,person,Cited regarding casual dreams and the multitude of business.,"Page 242, Page 243",discoverie,25
+Abraham,person,Cited as the first inventor of dream exposition.,Page 243,discoverie,25
+Daniel,person,Prophet known for interpreting dreams and receiving divine revelations.,"Page 241, Page 244, Page 249",discoverie,25
+Mother Baker,gestation_of_a_witch,"A woman identified as a famous witch in Kent, accused of using waxen images to harm others.",Page 207/208,discoverie,31
+Ovid,person,"Roman poet, cited as a 'poetical witch' who claims to break vipers' jaws with words.","Ovid, metamor. 7.",discoverie,31
+Serpents and Snakes,material,"Creatures often the subject of charms and enchantments in the text, discussed as being resistant to magic or susceptible to susceptibility.",,discoverie,31
+Horace,person,"Roman poet, cited to mock or impugn the power of witches.",Page 202,discoverie,31
+Cardanus,critique,A scholar who derides magic fables and identifies illusions in conjuration.,page 309-310,discoverie,32
+Jesus Christ,person,"Central figure of Christianity, used in various charms and curses.",throughout,discoverie,32
+Lucifer,spirit,Conjured in a curse against thieves to be destroyed.,page 312-313,discoverie,32
+Saint Michael,angel,Mentioned in a curse against thieves.,page 312,discoverie,32
+Finding out a thief (with crystal),ritual,Using an olive oil cross on a crystal and a child to see the thief.,page 309,discoverie,32
+Finding out a thief (with shears/sieve),ritual,Using shears and a sieve to identify a guilty person.,page 311,discoverie,32
+Saint Adelbert's Curse,ritual,A long curse against thieves involving excommunication.,page 312,discoverie,32
+Preventing witches (horse shoe),ritual,Nailing a horse shoe to the inside of the threshold.,page 314,discoverie,32
+Olive leaves/branch,material,Used in rituals to find thieves or ward off spirits.,throughout,discoverie,32
+Sulphur,material,Used for purification and driving out spirits.,page 314-315,discoverie,32
+Pharaoh's magicians,person,"Magicians in the service of Pharaoh, whose works were compared to Moses' miracles and later critiqued as illusions or 'juggling knacks'.",,discoverie,37
+St. Augustine,person,"Cited as a hold of that they made by art the serpents, etc.",Page 354/Chapter 18,discoverie,37
+J. Bap. Neap,person,"Author cited for information on the production of monsters, serpents, and the nature of toads/frogs.",Chapter 18/Page 354-355,discoverie,37
+Plutarch,person,Cited regarding the descent of toads in rain.,Chapter 18/Page 355,discoverie,37
+Aelianus,person,Cited regarding seeing frogs and toads with earth-like parts.,Chapter 18/Page 35/5,discoverie,37
+Dati7natiis Hispanus,person,Claimed to be able to make creatures at will.,Chapter 18/Page 355,discoverie,37
+Jamblichus,person,Cited regarding the nature of fascination and imagination.,Chapter 20/Page                 358,discoverie,37
+Calvine,person,Cited as describing Pharaoh's magicians as jugglers.,Chapter 20/Page 358,discoverie,37
+Clemens,person,Cited regarding the magicians' works being prestigious shows rather than true miracles.,Chapter 20/Page 358,discoverie,37
+the Cockatrice,material,A venomous serpent produced by melting arsenic and serpent poison in an egg.,Chapter 18/Page 354,discoverie,37
+Perspective Glasses,material,"Optical devices used to create illusions, such as making things appear far or near, or upside down.",Chapter 19/Page 355-357,discoverie,37
+Witchcraft/Conjuring,concept,"The practice of performing supernatural feats through words, charms, and illusions.",Chapter 18-23,discoverie,37
+Magic/Art Magike,concept,The use of 'art' or 'cunning' to produce monsters and illusions.,Chapter 18,discoverie,37
+the Devil,concept,The entity that some claim cannot create creatures smaller than a barleycorn.,Chapter 20/Page 354,discoverie,37
+adversaries/betting_on_side_observers,person,"Part of a confederate network in card games, working to signal information to the player.","Chapter 27, Page 370",discoverie,38
+planets/celestial_bodies,concept/celestial_body,"Celestial bodies mentioned in an incantation/charm-like words used during juggling, representing a planetary or astrological-related concept. ","Page 365, 365",discoverie,38
+ball/small_ball,material,"A small object used in juggling feats, which can be 'swelled' or 'conveyed' through sleight of hand.","Page 362, 362",discoverie,38
+Egyptians,person/group,"A group referred to as practicing 'fast or loose' (sleight of hand) and 'sortilegie' (sorcery), accused of using tricks to mimic magic. ",Chapter 29,discoverie,39
+Eleazar,person,"A person whose feat of making a pot fall from a cupboard via 'words' is described as a miracle, though explained here as a trick with black thread. ",Chapter 28,discoverie,39
+Steeven Tailor,person,A person involved in a scheme to steal horses using deception and confederates. ,Chapter 30,discoverie,39
+Josephus,person,A historical source cited in relation to the feat of Eleazar. ,Chapter 28,discoverie,39
+trickery with cards,ritual/trick,"Various card tricks involving shuffling, keeping a 'kept' card, and transforming aces into knaves. ",Chapter 27,discoverie,39
+juggling boxes,ritual/trick,"The use of boxes with false bottoms or specialized shapes to transform grains, spices, or even a toad. ",Chapter 31,discoverie,39
+sortilegie,concept,"A term used to the practice of sorcery or magic, which Scot is debunking as trickery. ",Chapter 29,discoverie,39
+Baell,spirit,"A king of the power of the east who appears with three heads (toad, man, and cat) and commands 66 legions.",Page 412,discoverie,43
+Agares,spirit,A duke of the power of the east appearing as a fair old man riding a crocodile.,Page 412,discoverie,43
+Marbas,spirit,A great president appearing as a mighty lion or a man.,Page 412,discoverie,43
+Amon,spirit,A mighty marques appearing as a wolf with a serpent's tail.,Page 412,discoverie,43
+Barbatos,spirit,A duke or earl who understands the voices of animals.,Page 412,discoverie,43
+Buer,spirit,A president who teaches philosophy and the virtue of herbs.,,discoverie,43
+Paimon,spirit,A king who is more obedient to Lucifer than other kings.,Page 415,discoverie,43
+Beliall,spirit,A king created immediately after Lucifer.,Page 416,discoverie,43
+Alchemists,critique,A group criticized for their vain hopes and the destruction of wealth through their art.,Page 409-410,discoverie,43
+Thomas Aquinas,person,A theologian/doctor of the church who provides arguments for the legality of conjurations and charmes.,,discoverie,49
+A person who denied the legality of conjuration in a specific incident involving monks.,person,,page 467,discoverie,49
+Anthotiius Prafensis,person,cardinal and legat for the pope throughout France.,page 467,discoverie,49
+A saint used to support arguments regarding the power of God's name vs relics.,,,page 468,discoverie,49
+M. Mai.,person,A source cited by Scot to discuss the legality of exorcism without conjuration.,page 468,discoverie,49
+St. Jerome/S. Jerome (not explicitly named but implied in context),person,Not found,,discoverie,49
+John Wierus,person,A person whose writings on conjurations are mentioned by Bodin.,page 472,discoverie,49
+Jean Bodin,person,Author/thinker who discusses the punishment of witches vs conjurors.,page 472,discoverie,49
+Raphaell,angel,Archangel mentioned in relation to the liver of fish.,page 474,discoverie,49
+Peter or Barbara,person,Names used in a specific conjuration formula for the sick.,page 469,discoverie,49
+conjuration of salt,ritual,A ritual involving the consecration and conjuration of salt for health.,page 473,discoverie,49
+exorcism of incense,ritual,A ritual to drive away spirits from frankincense.,page 474,discoverie,49
+Beelzebub,spirit,The lord of the flies; an idol or oracle at Ekron; reputed as the principal devil among the Jews.,Chapter 19,discoverie,56
+Astaroth,spirit,"An idol of the Philistines, also worshipped by Solomon; signifies riches and flocks.",Chapter 19,discoverie,56
+Sathan (Satan),spirit,The adversary; can hurt both by day and night; described as the author of sin.,Chapter 20,discoverie,56
+Mammon,spirit,Represents the covetous desire for money.,Chapter 20,discoverie,56
+Baaros,material,"A root mentioned as being one with Solomon's root, having force to drive out devils.",Page 529,discoverie,56
+Bodin (Jean Bodin),person,"A writer who asserts there are day and night devils, and that the devil loves no salt in his meat.",Page 532,discoverie,56
+Salomon (Solomon),person,A historical figure associated with conjuration and the worship of certain idols.,"Page 529, 534",discoverie,56
+Deber,spirit,A devil that hurts by night.,Page 532,discoverie,56
+Cheleb,spirit,A devil that hurts by day.,/page 532,discoverie,56
+Penates,spirit,Domestic gods or devils (Minerva) said to make men live quietly indoors.,Chapter 21,discoverie,56
+Lares,spirit,Spirits that oversee crossroads and cities; trouble private houses.,,discoverie,56
+Vagianus,spirit,"he that kept their children from crieng, [and] whose picture was hung about babes necks",page 524,discoverie,57
+Cuninus,spirit,he that preserved children from misfortune in the cradell,,discoverie,57
+Ruminus,spirit,to keepe their dugs from corruption,page s/524,discoverie,57
+Agrestis,spirit,"god of the fields, and to him they praied for fertilitie",page 524,discoverie,57
+God,spirit,"An uncreated spirit, essentialie taken, and agreeth unto the three persons notionally.",page 457,discoverie,59
+Satan/the Devil,spirit,,page 457,discoverie,59
+Pneumatomachi,critique,"A sect that denies the divinity of the Holy Spirit, viewing it as a divine force rather than God.",page 458-459,discoverie,59
+Hilarie,",""person""",A writer of the Trinity who is cited as an object of debate regarding whether the Holy Spirit is to be worshipped.,page 459-460,discoverie,59
+Ambrose,person,A father of the church who expounds on the meaning of spirit in Amos.,page 461,discoverie,59
+Isaie/Isaiah,,A prophet whose words are used to describe the Holy Spirit as water and fire.,page 455,discoverie,59
+Jeremze/Jeremiah,person,A prophet whose words are used to describe the fiery nature of the spirit.,page 456,discoverie,59
+John/St. John,person,A biblical figure whose words are used to discuss the water of life and the nature of the spirit.,page 455,discoverie,59
+Moses,,A biblical figure whose words are used to discuss the punishment for lack of the spirit.,/page 457,discoverie,59
+Pan,person,A figure mentioned in relation to error and drunkenness.,page 457,discoverie,59
+Cyril,person,Cited regarding the use of oil as a metaphor for God's mercy.,page 456,discoverie,59
+Adam/the elect,concept,Those who are renewed and made apt by the training up of the holy spirit.,page 456,discoverie,59
+Witchcrafts/Incantations,ritual,False and evil spirits and practices that cannot stand the trial of the spirit of truth.,,discoverie,59
+The Holy Spirit as Water,concept,,page 455,discoverie,59
+The Holy Spirit as Fire,,Metaphorical representation of the spirit as fire that purifies and cleanses.,page 456,discoverie,59
+The Holy Spirit as Oil/Anointing,concept,Metaphorical representation of the spirit as anointing or ointment that makes one fit for office.,page 456,discoverie,59
+The Holy Spirit as Finger of God,concept,Metaphorical representation of the spirit as the might and power of God.,page 456,discoverie,59
+The Holy Spirit as Truth/Touchstone,concept,Metaphorical representation of the spirit as a touchstone to try all counterfeit devises and vain sciences.,page 457,discoverie,59
+The Holy Spirit as Wind/Breath,,,page 457,discoverie,59
+The Holy Spirit as Error/Blindness,concept,A spirit of error and blindness that inhabits where sin has dominion.,page 457,discoverie,59
+The Holy Spirit as Slumber/Drunkenness,/concept,"A spirit of slumber, giddiness, and error.",page 457,discoverie,59
+The Holy Spirit as Adoption/Abba Father,concept,"The spirit of adoption that allows us to cry 'Abba, Father'.",page 457,discoverie,59
+The Holy Spirit as Wind/Breath,concept,,page 457,discoverie,59
+Holy Spirit,spirit,"The third person of the Trinity, described as the spirit of sanctification and the animating force.",page 465-468,discoverie,60
+God the Father,spirit,The first person of the Trinity.,page 465,discoverie,60
+God the Son (Jesus Christ),spirit,The second person of the Trinity.,page 465,discoverie,60
+Immanuel,concept,A holy name used in consecration rituals.,page 470,discoverie,60
+Magical Circle (Imaginary),ritual,A circle created through incantations and consecrations when a physical boundary cannot be delineated.,"Appendix I, Chapter 1",discoverie,60
+Exorcist,person,,"Appendix I, Chapter 1",discoverie,60
+Subterranean Spirits,spirit,Spirits residing in pits and caves.,page 471,discoverie,60
+Aerial Spirits,spirit,Spirits residing on the tops of turrets.,page 471,discoverie,60
+Water Spirits,spirit,Spirits residing in ships and rocks of the sea.,page 471,discoverie,60
+"Faries, Nymphs, and Satyres",spirit,Spirits residing in woods and mountains.,page 471,discoverie,60
+Hermes Trismegistus,person,Ancient figure cited regarding the necessity of the spirit for all things.,page 466,discoverie,60
+Faeries,spirit,"Spirits that inhabit Mountains and Caverns, capable of making strange Apparitions in the form of Men, Women, Soldiers, Kings, and Ladies, Children, and Horse-men cloathed in green. They are known for stealing hempen stalks to convert them into Horses.",page 608,discoverie,65
+Hobgoblins,spirit,"Spirits that can take away children, leaving behind changelings or lunaticks.",page 608,discoverie,65
+Ataiberius,spirit,"A virulent animal that confounded the undertakings of those who labored in the silver mine in Germany, appearing in the likeness of a he-goat with Golden horns, a horse breathing flames, and a monk in pontifical robes.",page 616,discoverie,66
+Corselets,material,"An ancient Danish charm of neck-laces, composed of thunderstones engraved with magical letters to resist noxious influences and lightning. ",Page 632,discoverie,68
+Spirits of Saturn,spirit,"Spirits under the influence of Saturn, appearing like old men with prominent beards, or as serpents, cats, wolves, bad/badgers, and panthers. ",Page 632-633,discoverie,68
+Spirits of Jupiter,spirit,"Spirits under the influence of Jupiter, appearing like glorious kings with many attendants. ",Page 633,discoverie,68
+Spirits of Mars,spirit,"Spirits under the influence of Mars, appearing with weapons brandishing and shining armour, often as lions, wolves, tigers, or bears. ",Page 633,discoverie,68
+Spirits of Sol (Sun),spirit,"Spirits under the influence of Sun, appearing as castles, gardens, mountains, rivers, etc. ",Page 633,discoverie,68
+Spirits of Venus,spirit,"Spirits under the influence of Venus, appearing as courtiers, ladies, princes, queens, infants, and children. ",Page 633,discoverie,68
+Spirits of Mercury,spirit,"Spirits under the influence of Mercury, appearing as horsemen, fishers, laborers, priests, students, servants, and monstrous animals. ",Page 633,discoverie,68
+Spirits of Luna (Moon),spirit,"Spirits under the influence of Luna, appearing as ghosts and shadows, sometimes in human shape. ",Page 633,discoverie,68
+Tying of the Point,ritual,A knot or ligature used to restrain sexual acts between married persons. ,Page 638,discoverie,68
+Transplantation,ritual,The magical transferring of diseases from one person to another. ,Page 638,discoverie,68
+Sympathy and Antipathy,concept,The principle that things are drawn to their like or repelled by their contrary. ,"Page 634, 637",discoverie,68
+Critique of Conjuration,critique,The author's argument that many magicians are actually in compact with the Devil and that their 'charms' are merely disguises for demonic contracts. ,Page 635-636,discoverie,68
+Reginald Scot,person,"Author of Discoverie of Witchcraft (1584), a skeptical/skeptical approach to magic and witchcraft. The text discusses his translation/copying of Wier's Pseudomonarchia Demonum. Pseudomonarchia Demonum is Pseudomonarchia Demonum","P. 523, P. 657",discoverie,71
+exsufflatio,ritual,The act of blowing away the devil during Roman Catholic baptism.,page 682,discoverie,74
+Virtutes,angel,The order of angels so called.,page 685,discoverie,74
+Th. Ady,person,Author of A Candle in the Dark (1656).,page 682,discoverie,74
+abrenunciation,ritual,The renouncing of the devil and his works in Roman Catholic baptism.,page 682,discoverie,74

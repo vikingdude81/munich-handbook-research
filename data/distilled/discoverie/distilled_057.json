@@ -1,0 +1,39 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 57,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Vagianus",
+      "type": "spirit",
+      "description": "he that kept their children from crieng, [and] whose picture was hung about babes necks",
+      "source_ref": "page 524",
+      "attributes": {}
+    },
+    {
+      "name": "Cuninus",
+      "type": "spirit",
+      "description": "he that preserved children from misfortune in the cradell",
+      "source/ref": "page 524",
+      "attributes": {}
+    },
+    {
+      "name": "Ruminus",
+      "type": "spirit",
+      "description": "to keepe their dugs from corruption",
+      "source_ref": "page s/524",
+      "attributes": {}
+    },
+    {
+      "name": "Agrestis",
+      "type": "spirit",
+      "description": "god of the fields, and to him they praied for fertilitie",
+      "source_ref": "page 524",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage from Reginald Scot's Discoverie of Witchcraft (1584) provides a catalogue of various heathenish gods, Egyptian way of worship,        ",
+  "key_passages": [],
+  "_truncated": true
+}

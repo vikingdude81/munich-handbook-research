@@ -1,0 +1,24 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 66,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Ataiberius",
+      "type": "spirit",
+      "description": "A virulent animal that confounded the undertakings of those who labored in the silver mine in Germany, appearing in the likeness of a he-goat with Golden horns, a horse breathing flames, and a monk in pontifical robes.",
+      "source_ref": "page 616",
+      "attributes": {
+        "forms": [
+          "he-goat with Golden horns",
+          "Horse breathing flames",
+          "Monk in all his Pontijicalibiis"
+        ]
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}

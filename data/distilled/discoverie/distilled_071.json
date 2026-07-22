@@ -1,0 +1,20 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 71,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Reginald Scot",
+      "type": "person",
+      "description": "Author of Discoverie of Witchcraft (1584), a skeptical/skeptical approach to magic and witchcraft. The text discusses his translation/copying of Wier's Pseudomonarchia Demonum. Pseudomonarchia Demonum is Pseudomonarchia Demonum",
+      "source_ref": "P. 523, P. 657",
+      "attributes": {
+        "role": "Author/Translator/Skeptical Agent"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}

@@ -1,0 +1,136 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 37,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Pharaoh's magicians",
+      "type": "person",
+      "description": "Magicians in the service of Pharaoh, whose works were compared to Moses' miracles and later critiqued as illusions or 'juggling knacks'.",
+      "source_rend_ref": "Chapter 18/20/21",
+      "attributes": {
+        "role": "magicians"
+      }
+    },
+    {
+      "name": "St. Augustine",
+      "type": "person",
+      "spirit_type": "person",
+      "description": "Cited as a hold of that they made by art the serpents, etc.",
+      "source_ref": "Page 354/Chapter 18",
+      "attributes": {}
+    },
+    {
+      "name": "J. Bap. Neap",
+      "type": "person",
+      "description": "Author cited for information on the production of monsters, serpents, and the nature of toads/frogs.",
+      "source_ref": "Chapter 18/Page 354-355",
+      "attributes": {}
+    },
+    {
+      "name": "Plutarch",
+      "type": "person",
+      "description": "Cited regarding the descent of toads in rain.",
+      "source_ref": "Chapter 18/Page 355",
+      "attributes": {}
+    },
+    {
+      "name": "Aelianus",
+      "type": "person",
+      "description": "Cited regarding seeing frogs and toads with earth-like parts.",
+      "source_ref": "Chapter 18/Page 35/5",
+      "attributes": {}
+    },
+    {
+      "name": "Dati7natiis Hispanus",
+      "type": "person",
+      "description": "Claimed to be able to make creatures at will.",
+      "source_ref": "Chapter 18/Page 355",
+      "attributes": {}
+    },
+    {
+      "name": "Jamblichus",
+      "type": "person",
+      "description": "Cited regarding the nature of fascination and imagination.",
+      "source_ref": "Chapter 20/Page                 358",
+      "attributes": {}
+    },
+    {
+      "name": "Calvine",
+      "type": "person",
+      "description": "Cited as describing Pharaoh's magicians as jugglers.",
+      "source_ref": "Chapter 20/Page 358",
+      "attributes": {}
+    },
+    {
+      "name": "Erasmus",
+      "type": "person",
+      "description": "Cited regarding the argument that witchcraft is old wives' fables.",
+      "source_ref": "Chapter 20/Page 358",
+      "attributes": {}
+    },
+    {
+      "name": "Clemens",
+      "type": "person",
+      "description": "Cited regarding the magicians' works being prestigious shows rather than true miracles.",
+      "source_ref": "Chapter 20/Page 358",
+      "attributes": {}
+    },
+    {
+      "name": "the Cockatrice",
+      "type": "material",
+      "description": "A venomous serpent produced by melting arsenic and serpent poison in an egg.",
+      "source_ref": "Chapter 18/Page 354",
+      "attributes": {
+        "nature": "venomous, noisome, dangerous"
+      }
+    },
+    {
+      "name": "Perspective Glasses",
+      "type": "material",
+      "description": "Optical devices used to create illusions, such as making things appear far or near, or upside down.",
+      "source_ref": "Chapter 19/Page 355-357",
+      "attributes": {
+        "types": [
+          "hollow",
+          "plain",
+          "embossed",
+          "columnary",
+          "pyramidate",
+          "turbinal",
+          "round",
+          "inversed",
+          "coloured",
+          "clear"
+        ]
+      }
+    },
+    {
+      "name": "Witchcraft/Conjuring",
+      "type": "concept",
+      "description": "The practice of performing supernatural feats through words, charms, and illusions.",
+      "source_ref": "Chapter 18-23",
+      "attributes": {
+        "status": "prohibited in the current age"
+      }
+    },
+    {
+      "name": "Magic/Art Magike",
+      "type": "concept",
+      "description": "The use of 'art' or 'cunning' to produce monsters and illusions.",
+      "source_ref": "Chapter 18",
+      "attributes": {}
+    },
+    {
+      "name": "the Devil",
+      "type": "concept",
+      "description": "The entity that some claim cannot create creatures smaller than a barleycorn.",
+      "source_ref": "Chapter 20/Page 354",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage from Reginald Scot's 'Discoverie of Witchcraft' explores the distinction between true miracles performed by God through prophets like Moses, and the miracles attributed to witches or magicians, which are characterized as illusions, 'juggling knacks,' or optical deceptions. The text discusses various methods for producing monsters and monsters via 'art magike' and's' using perspective glasses and sleight of hand (juggling).",
+  "key_passages": [],
+  "_truncated": true
+}

@@ -1,0 +1,102 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 25,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Acrobius",
+      "type": "person",
+      "description": "Recounts five differences of images or imaginations in sleep.",
+      "source_ref": "Chapter 2, Page 241",
+      "attributes": {}
+    },
+    {
+      "name": "Peucer",
+      "type": "person",
+      "description": "Author who provides causes and occasions of dreams.",
+      "source_ref": "Page 241",
+      "attributes": {}
+    },
+    {
+      "name": "Galen",
+      "type": "person",
+      "description": "Physician cited regarding the physical nature of dreams through humors.",
+      "source_ref": "Page 242",
+      "attributes": {}
+    },
+    {
+      "name": "Plato",
+      "type": "person",
+      "description": "Attributed dreams to the forms and ingendered knowledges of the soul.",
+      "source_ref": "Page 243",
+      "attributes": {}
+    },
+    {
+      "name": "Avicen",
+      "type": "person",
+      "description": "Attributed dreams to the last intelligence that moves the moon.",
+      "source_ref": "Page 243",
+      "attributes": {}
+    },
+    {
+      "name": "Aristotle",
+      "type": "person",
+      "description": "Attributed dreams to the phantastical sense; also linked to melancholic vapors.",
+      "source_ref": "Page 243, Page 244",
+      "attributes": {}
+    },
+    {
+      "name": "Averroes",
+      "type": "person",
+      "description": "Attributed dreams to the imaginative sense.",
+      "source_ref": "Page 243",
+      "attributes": {}
+    },
+    {
+      "name": "Albert",
+      "type": "person",
+      "description": "Attributed dreams to the influence of superior bodies.",
+      "source/ref": "Page 243",
+      "attributes": {}
+    },
+    {
+      "name": "Cicero",
+      "type": "person",
+      "description": "Confutes the vanity and folly of dream interpreters.",
+      "source_ref": "Page 243",
+      "attributes": {}
+    },
+    {
+      "name": "Nicolaus Hemingius",
+      "type": "person",
+      "description": "Divides diabolical dreams into three sorts.",
+      "source_ref": "Page 243, Page 244",
+      "attributes": {}
+    },
+    {
+      "name": "Salomon",
+      "type": "person",
+      "description": "Cited regarding casual dreams and the multitude of business.",
+      "source_ref": "Page 242, Page 243",
+      "attributes": {}
+    },
+    {
+      "name": "Abraham",
+      "type": "person",
+      "description": "Cited as the first inventor of dream exposition.",
+      "source_ref": "Page 243",
+      "attributes": {}
+    },
+    {
+      "name": "Daniel",
+      "type": "person",
+      "description": "Prophet known for interpreting dreams and receiving divine revelations.",
+      "source_ref": "Page 241, Page 244, Page 249",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}

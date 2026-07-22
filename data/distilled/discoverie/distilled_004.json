@@ -1,0 +1,112 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 4,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "John Deacon",
+      "type": "person",
+      "description": "A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).",
+      "source_ref": "page 55",
+      "attributes": {
+        "profession": "Clergyman"
+      }
+    },
+    {
+      "name": "John Walker",
+      "type": "person",
+      "description": "A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).",
+      "source_ref": "page 55",
+      "attributes": {
+        "profession": "Clergyman"
+      }
+    },
+    {
+      "name": "Sir Roger Manwood",
+      "type": "person",
+      "description": "Knight and Lord Chief Baron of the King's Court of the Exchequer, recipient of Scot's Epistle.",
+      "source_ref": "page 65",
+      "attributes": {
+        "title": "Knight, Lord Chief Baron"
+      }
+    },
+    {
+      "name": "Wier",
+      "type": "person",
+      "description": "An author whose views on demonology were influential during Scot's time.",
+      "source_ref": "page 57",
+      "attributes": {}
+    },
+    {
+      "name": "Cornelius Agrippa",
+      "type": "person",
+      "description": "An author whose views on demonology were influential during Scot's time.",
+      "ref": "page 57",
+      "attributes": {}
+    },
+    {
+      "name": "Hippocrates",
+      "type": "person",
+      "description": "Ancient physician cited for opinions on magical cures.",
+      "source_ref": "']))",
+      "attributes": {}
+    },
+    {
+      "name": "Calvin",
+      "type": "person",
+      "description": "Reformer who referred to magicians as 'cousenors'.",
+      "source_ref": "page 68",
+      "attributes": {}
+    },
+    {
+      "name": "Erastus",
+      "type": "person",
+      "description": "A writer who defended certain aspects of magic, such as flying in the air.",
+      "source_ref": "page 68",
+      "attributes": {}
+    },
+    {
+      "name": "Devils and Spirits",
+      "type": "spirit",
+      "description": "Entities that witches are alleged to contract with or use for purposes.",
+      "source_ref": "page 61, 63",
+      "attributes": {
+        "nature": "Infernal/Spiritual"
+      }
+    },
+    {
+      "name": "Witchcraft",
+      "type": "concept",
+      "description": "The practice of using magic or spirits to cause harm or perform feats.",
+      "source_ref": "page 59, 61",
+      "attributes": {
+        "status": "Debunked/Erroneous by Scot"
+      }
+    },
+    {
+      "name": "Alchimistry",
+      "type": "concept",
+      "description": "Described as a 'fruitless beggarly art'.",
+      "source_ref": "page 59, 63",
+      "attributes": {}
+    },
+    {
+      "name": "Charms, Philtres, Periapts, Pentacles, Curses, and Conjurations",
+      "type": "ritual",
+      "description": "Methods through which magic is alleged to work.",
+      "source_ref": "page 63",
+      "attributes": {}
+    },
+    {
+      "name": "Poisoning",
+      "type": "ritual",
+      "description": "Described as a 'horrible art'.",
+      "source_ref": "page 59, 61",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage provides a biographical and critical overview of Reginald Scot's 'The Discoverie of Witchcraft', highlighting his skeptical stance against the superstitions of magic, conjuration, and witchcraft. It details historical connections between authors, discusses the identity of the author through legal documents, and presents an epistle addressed to Sir Roger Manwood advocating for justice for those accused of witchcraft.",
+  "key_passages": [],
+  "_truncated": true
+}

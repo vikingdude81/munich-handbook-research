@@ -1,0 +1,95 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 32,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Cardanus",
+      "type": "critique",
+      "description": "A scholar who derides magic fables and identifies illusions in conjuration.",
+      "source_ref": "page 309-310",
+      "attributes": {
+        "action": "derideth these and such like fables"
+      }
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "person",
+      "description": "Central figure of Christianity, used in various charms and curses.",
+      "source_ref": "throughout",
+      "attributes": {
+        "role": "Lord"
+      }
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "description": "Conjured in a curse against thieves to be destroyed.",
+      "source_ref": "page 312-313",
+      "attributes": {
+        "role": "fallen angel/devil"
+      }
+    },
+    {
+      "name": "Saint Michael",
+      "type": "angel",
+      "description": "Mentioned in a curse against thieves.",
+      "source_ref": "page 312",
+      "attributes": {}
+    },
+    {
+      "name": "Finding out a thief (with crystal)",
+      "type": "ritual",
+      "description": "Using an olive oil cross on a crystal and a child to see the thief.",
+      "source_ref": "page 309",
+      "attributes": {
+        "method": "crystal, olive oil, child"
+      }
+    },
+    {
+      "name": "Finding out a thief (with shears/sieve)",
+      "type": "ritual",
+      "description": "Using shears and a sieve to identify a guilty person.",
+      "source_ref": "page 311",
+      "attributes": {
+        "method": "shears, sieve"
+      }
+    },
+    {
+      "name": "Saint Adelbert's Curse",
+      "type": "ritual",
+      "description": "A long curse against thieves involving excommunication.",
+      "source_ref": "page 312",
+      "attributes": {
+        "target": "thieves"
+      }
+    },
+    {
+      "name": "Preventing witches (horse shoe)",
+      "type": "ritual",
+      "description": "Nailing a horse shoe to the inside of the threshold.",
+      "source_ref": "page 314",
+      "attributes": {
+        "material": "horse shoe"
+      }
+    },
+    {
+      "name": "Olive leaves/branch",
+      "type": "material",
+      "description": "Used in rituals to find thieves or ward off spirits.",
+      "source_ref": "throughout",
+      "attributes": {}
+    },
+    {
+      "name": "Sulphur",
+      "type": "material",
+      "description": "Used for purification and driving out spirits.",
+      "source_ref": "page 314-315",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage from Reginald Scot's 'Discoverie of Witchcraft' documents various charms, curses, and preventative measures against witchcraft and theft. It includes both ritualistic instructions (such as finding thieves using crystals or sieves) and skeptical critiques by figures like Cardanus who expose these practices as mere 'knavery'.",
+  "key_passages": [],
+  "_truncated": true
+}

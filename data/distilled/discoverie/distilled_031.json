@@ -1,0 +1,47 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 31,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Mother Baker",
+      "type": "gestation_of_a_witch",
+      "description": "A woman identified as a famous witch in Kent, accused of using waxen images to harm others.",
+      "source_ref": "Page 207/208",
+      "attributes": {
+        "location": "Stonstreet"
+      }
+    },
+    {
+      "name": "Ovid",
+      "type": "person",
+      "description": "Roman poet, cited as a 'poetical witch' who claims to break vipers' jaws with words.",
+      "source_ref": "Ovid, metamor. 7.",
+      "attributes": {
+        "role": "poet"
+      }
+    },
+    {
+      "name": "Serpents and Snakes",
+      "type": "material",
+      "description": "Creatures often the subject of charms and enchantments in the text, discussed as being resistant to magic or susceptible to susceptibility.",
+      "source/ref": "Chapter 15",
+      "attributes": {
+        "role": "subject of enchantment"
+      }
+    },
+    {
+      "name": "Horace",
+      "type": "person",
+      "description": "Roman poet, cited to mock or impugn the power of witches.",
+      "source_ref": "Page 202",
+      "attributes": {
+        "role": "poet"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage from Reginald Scot's 'The Discoverie of Witchcraft' (1584) explores the following: the power and resistance of nature to enchantments, the        ",
+  "key_passages": [],
+  "_truncated": true
+}

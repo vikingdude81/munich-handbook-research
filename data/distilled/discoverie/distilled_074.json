@@ -1,0 +1,59 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 74,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Reginald Scot",
+      "type": "person",
+      "description": "Author of Discoverie of Witchcraft.",
+      "source_ref": "page 682",
+      "attributes": {
+        "role": "author"
+      }
+    },
+    {
+      "name": "exsufflatio",
+      "type": "ritual",
+      "description": "The act of blowing away the devil during Roman Catholic baptism.",
+      "source_ref": "page 682",
+      "attributes": {
+        "method": "blowing"
+      }
+    },
+    {
+      "name": "Virtutes",
+      "type": "angel",
+      "description": "The order of angels so called.",
+      "source_ref": "page 685",
+      "attributes": {
+        "classification": "order of angels"
+      }
+    },
+    {
+      "name": "Wier",
+      "type": "person",
+      "description": "Cited author regarding the description of 'Leone obscurior & turpis'.",
+      "source_ref": "page 683",
+      "attributes": {}
+    },
+    {
+      "name": "Th. Ady",
+      "type": "person",
+      "description": "Author of A Candle in the Dark (1656).",
+      "source_ref": "page 682",
+      "attributes": {}
+    },
+    {
+      "name": "abrenunciation",
+      "type": "ritual",
+      "description": "The renouncing of the devil and his works in Roman Catholic baptism.",
+      "source_ref": "page 682",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage is a glossary from an edition of Reginald Scot's 'Discoverie of Witchcraft', providing definitions for archaic English terms and Latinate phrases used in the text. It includes linguistic notes on words related to ritual, such as exsufflatio, and references other historical authors like Wier and Th. Ady.",
+  "key_passages": [],
+  "_truncated": true
+}

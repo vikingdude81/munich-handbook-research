@@ -1,0 +1,83 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 39,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Egyptians",
+      "type": "person/group",
+      "description": "A group referred to as practicing 'fast or loose' (sleight of hand) and 'sortilegie' (sorcery), accused of using tricks to mimic magic. ",
+      "source_ref": "Chapter 29",
+      "attributes": {
+        "practice": "fast or loose, sortilegie"
+      }
+    },
+    {
+      "name": "Eleazar",
+      "type": "person",
+      "card_name": "historical figure cited in a trick description",
+      "description": "A person whose feat of making a pot fall from a cupboard via 'words' is described as a miracle, though explained here as a trick with black thread. ",
+      "source_ref": "Chapter 28",
+      "attributes": {
+        "associated_feat": "making a pot fall by words"
+      }
+    },
+    {
+      "name": "Steeven Tailor",
+      "type": "person",
+      "description": "A person involved in a scheme to steal horses using deception and confederates. ",
+      "source_ref": "Chapter 30",
+      "attributes": {
+        "role": "deceiver/thief"
+      }
+    },
+    {
+      "name": "Josephus",
+      "type": "person",
+      "description": "A historical source cited in relation to the feat of Eleazar. ",
+      "source_ref": "Chapter 28",
+      "attributes": {
+        "role": "historian/source"
+      }
+    },
+    {
+      "name": "trickery with cards",
+      "type": "ritual/trick",
+      "description": "Various card tricks involving shuffling, keeping a 'kept' card, and transforming aces into knaves. ",
+      "source_ref": "Chapter 27",
+      "attributes": {
+        "tools": [
+          "cards",
+          "table"
+        ]
+      }
+    },
+    {
+      "name": "juggling boxes",
+      "type": "ritual/trick",
+      "description": "The use of boxes with false bottoms or specialized shapes to transform grains, spices, or even a toad. ",
+      "source_ref": "Chapter 31",
+      "attributes": {
+        "tools": [
+          "boxes",
+          "grain",
+          "spices",
+          "toad"
+        ]
+      }
+    },
+    {
+      "name": "sortilegie",
+      "type": "concept",
+      "description": "A term used to the practice of sorcery or magic, which Scot is debunking as trickery. ",
+      "source_ref": "Chapter 29",
+      "attributes": {
+        "nature": "deception/sorcery"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}

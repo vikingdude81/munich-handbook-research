@@ -1,0 +1,279 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 68,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Corselets",
+      "type": "material",
+      "description": "An ancient Danish charm of neck-laces, composed of thunderstones engraved with magical letters to resist noxious influences and lightning. ",
+      "source_ref": "Page 632",
+      "attributes": {
+        "origin": "Danish",
+        "components": [
+          "thunderstones",
+          "magical letters"
+        ]
+      }
+    },
+    {
+      "name": "Spirits of Saturn",
+      "type": "spirit",
+      "description": "Spirits under the influence of Saturn, appearing like old men with prominent beards, or as serpents, cats, wolves, bad/badgers, and panthers. ",
+      "source_ref": "Page 632-633",
+      "attributes": {
+        "appearance": [
+          "old men",
+          "serpents",
+          "cats",
+          "wolves",
+          "badgers",
+          "panthers"
+        ],
+        "fumigation_ingredients": [
+          "Frankincense Trees",
+          "Pepper-wort Roots",
+          "Storax",
+          "Galbanum"
+        ]
+      }
+    },
+    {
+      "name": "Spirits of Jupiter",
+      "type": "spirit",
+      "description": "Spirits under the influence of Jupiter, appearing like glorious kings with many attendants. ",
+      "source_ref": "Page 633",
+      "attributes": {
+        "appearance": [
+          "glorious Kings",
+          "Heralds",
+          "Ensign-bearers",
+          "Trumpeters",
+          "Guards"
+        ],
+        "fumigation_ingredients": [
+          "Lignum Aloes",
+          "Ashen-Keys",
+          "Jupiter Benjamin",
+          "Storax",
+          "Peacocks-feals",
+          "Lapis Lazuli"
+        ],
+        "sacrifice_components": [
+          "blood of a Stork",
+          "a Swallow",
+          "or a Hart",
+          "brains"
+        ]
+      }
+    },
+    {
+      "name": "Spirits of Mars",
+      "type": "spirit",
+      "description": "Spirits under the influence of Mars, appearing with weapons brandishing and shining armour, often as lions, wolves, tigers, or bears. ",
+      "source_ref": "Page 633",
+      "attributes": {
+        "appearance": [
+          "weapons brandishing",
+          "shining Armour",
+          "Lions",
+          "Wolves",
+          "Tygers",
+          "Bears"
+        ],
+        "fumigation_ingredients": [
+          "Aromatic Gum",
+          "Bdellium",
+          "Euphorbium",
+          "Load-stone",
+          "Hellebore white and black",
+          "Sulphur"
+        ],
+        "sacrifice_components": [
+          "Man's blood",
+          "blood of a black Cat"
+        ]
+      }
+    },
+    {
+      "name": "Spirits of Sol (Sun)",
+      "type": "spirit",
+      "description": "Spirits under the influence of Sun, appearing as castles, gardens, mountains, rivers, etc. ",
+      "source_ref": "Page 633",
+      "attributes": {
+        "appearance": [
+          "Castles",
+          "Gardens",
+          "Mountains",
+          "Rivers",
+          "Fisher-men",
+          "Hunters",
+          "Reapers",
+          "Dogs",
+          "Sheep",
+          "Oxen"
+        ],
+        "fumigation_ingredients": [
+          "Saffron",
+          "Musk",
+          "Laurel",
+          "Cinnamon",
+          "Amber-griece",
+          "Cloves",
+          "Myrrhe",
+          "Frankincense",
+          "Balsamick Tree"
+        ],
+        "sacrifice_components": [
+          "brain of an Eagle",
+          "blood of a white Cock"
+        ]
+      }
+    },
+    {
+      "name": "Spirits of Venus",
+      "type": "spirit",
+      "description": "Spirits under the influence of Venus, appearing as courtiers, ladies, princes, queens, infants, and children. ",
+      "source_ref": "Page 633",
+      "attributes": {
+        "appearance": [
+          "Courtiers",
+          "Ladies",
+          "Princes",
+          "Queens",
+          "Infants",
+          "Children"
+        ],
+        "fumigation_ingredients": [
+          "Roses",
+          "Coral",
+          "Lignum Aloes",
+          "Sperma Ceti"
+        ],
+        "sacrifice_components": [
+          "brains and blood of Pidgeons"
+        ]
+      }
+    },
+    {
+      "name": "Spirits of Mercury",
+      "type": "spirit",
+      "description": "Spirits under the influence of Mercury, appearing as horsemen, fishers, laborers, priests, students, servants, and monstrous animals. ",
+      "source_ref": "Page 633",
+      "attributes": {
+        "appearance": [
+          "Horsemen",
+          "Fishers",
+          "Labourers",
+          "Priests",
+          "Students",
+          "Servants",
+          "Foxes",
+          "Serpents",
+          "Dogs",
+          "Hares",
+          "Hyena's",
+          "Hydra's"
+        ],
+        "fumigation_ingredients": [
+          "Frankincense",
+          "Mastick",
+          "Cinkfoyl"
+        ],
+        "sacrifice_components": [
+          "brain of a Fox",
+          "blood of a Mag-Pye"
+        ]
+      }
+    },
+    {
+      "name": "Spirits of Luna (Moon)",
+      "type": "spirit",
+      "description": "Spirits under the influence of Luna, appearing as ghosts and shadows, sometimes in human shape. ",
+      "source_ref": "Page 633",
+      "attributes": {
+        "appearance": [
+          "Ghosts",
+          "shadows",
+          "male or female human shape"
+        ],
+        "fumigation_ingredients": [
+          "Frogs dryed",
+          "white Poppy-seed",
+          "Bulls Eyes",
+          "Camphire",
+          "Frankincense"
+        ],
+        "sacrifice_components": [
+          "Gooses blood",
+          "menstruous blood of Women"
+        ]
+      }
+    },
+    {
+      "name": "Agrippa",
+      "type": "person",
+      "description": "A cited author/magician whose experiences and declarations are used to validate certain magical effects. ",
+      "source_ref": "Page 634, 635",
+      "attributes": {
+        "notable_works": [
+          "De Magia (implied)"
+        ],
+        "claims": [
+          "experience with fumes of Man's Gall and black Cat eyes"
+        ]
+      }
+    },
+    {
+      "name": "Tying of the Point",
+      "type": "ritual",
+      "description": "A knot or ligature used to restrain sexual acts between married persons. ",
+      "source_ref": "Page 638",
+      "attributes": {
+        "status": "prohibited by laws in several nations",
+        "geography": [
+          "France",
+          "Italy",
+          "Spain",
+          "Eastern Countries"
+        ]
+      }
+    },
+    {
+      "name": "Transplantation",
+      "type": "ritual",
+      "description": "The magical transferring of diseases from one person to another. ",
+      "source_ref": "Page 638",
+      "attributes": {
+        "mechanism": [
+          "burying certain images in neighbours ground"
+        ],
+        "nature": "considered more natural than conjuration by the author"
+      }
+    },
+    {
+      "name": "Sympathy and Antipathy",
+      "type": "concept",
+      "description": "The principle that things are drawn to their like or repelled by their contrary. ",
+      "source_ref": "Page 634, 637",
+      "attributes": {
+        "mechanism": [
+          "In verbis, herbis & lapidibus latet virtus"
+        ]
+      }
+    },
+    {
+      "name": "Critique of Conjuration",
+      "type": "critique",
+      "description": "The author's argument that many magicians are actually in compact with the Devil and that their 'charms' are merely disguises for demonic contracts. ",
+      "source_ref": "Page 635-636",
+      "attributes": {
+        "core_argument": "Characters and sigils are themselves compacts disguised by strange repetitions."
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage from Reginald Scot's 'Discoverie of Witchcraft' details the specific planetary correspondences used in magical fumigations, describing the appearances and required ingredients for spirits under Saturn, Jupiter, Mars, Sol, Venus, Mercury, and Luna. The text also explores various charms, such as pentacles and telescopes, while providing a skeptical critique that many conjuration rituals are actually deceptive compacts with the Devil.",
+  "key_passages": [],
+  "_truncated": true
+}

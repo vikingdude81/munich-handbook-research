@@ -1,0 +1,2381 @@
+[
+  {
+    "name": "John Deacon",
+    "type": "person",
+    "description": "A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).",
+    "source_ref": "page 55",
+    "attributes": {
+      "profession": "Clergyman"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "John Walker",
+    "type": "person",
+    "description": "A clergyman who wrote 'Dialogicall Discourses of ... Devils' (1601).",
+    "source_ref": "page 55",
+    "attributes": {
+      "profession": "Clergyman"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Sir Roger Manwood",
+    "type": "person",
+    "description": "Knight and Lord Chief Baron of the King's Court of the Exchequer, recipient of Scot's Epistle.",
+    "source_ref": "page 65",
+    "attributes": {
+      "title": "Knight, Lord Chief Baron"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Wier",
+    "type": "person",
+    "description": "An author whose views on demonology were influential during Scot's time.",
+    "source_ref": "page 57",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Cornelius Agrippa",
+    "type": "person",
+    "description": "An author whose views on demonology were influential during Scot's time.",
+    "ref": "page 57",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Hippocrates",
+    "type": "person",
+    "description": "Ancient physician cited for opinions on magical cures.",
+    "source_ref": "']))",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Calvin",
+    "type": "person",
+    "description": "Reformer who referred to magicians as 'cousenors'.",
+    "source_ref": "page 68",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Erastus",
+    "type": "person",
+    "description": "A writer who defended certain aspects of magic, such as flying in the air.",
+    "source_ref": "page 68",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Devils and Spirits",
+    "type": "spirit",
+    "description": "Entities that witches are alleged to contract with or use for purposes.",
+    "source_ref": "page 61, 63",
+    "attributes": {
+      "nature": "Infernal/Spiritual"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Witchcraft",
+    "type": "concept",
+    "description": "The practice of using magic or spirits to cause harm or perform feats.",
+    "source_ref": "page 59, 61",
+    "attributes": {
+      "status": "Debunked/Erroneous by Scot"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Alchimistry",
+    "type": "concept",
+    "description": "Described as a 'fruitless beggarly art'.",
+    "source_ref": "page 59, 63",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Charms, Philtres, Periapts, Pentacles, Curses, and Conjurations",
+    "type": "ritual",
+    "description": "Methods through which magic is alleged to work.",
+    "source_ref": "page 63",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Poisoning",
+    "type": "ritual",
+    "description": "Described as a 'horrible art'.",
+    "source_ref": "page 59, 61",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 4
+  },
+  {
+    "name": "Thomas Scot Knight, S^c.",
+    "type": "person",
+    "description": "Recipient of the Epistle to Sir Thomas Scot, Sir Thomas is a/an a meet/worthy person to whom the author can commend his booke. A member of the    ",
+    "source_ref": "page en 71",
+    "attributes": {
+      "status": "Knight"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 5
+  },
+  {
+    "name": "Jannes and Jambres",
+    "type": "person",
+    "description": "False prophets mentioned in relation to miracles and plagues (serpents and frogs)",
+    "source_ref": "page 318",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Pharaos magicians",
+    "type": "person",
+    "description": "Magicians of Pharaoh compared to witches in terms of cunning and juggling knacks",
+    "source_ref": "page 317",
+    "attributes": {
+      "nature": "cunning via juggling knacks"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Erasmus",
+    "type": "person",
+    "description": "Author of a story regarding two Alcumysts and the phenomena of longation and curtation",
+    "source_ref": "page 361",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Bealphares",
+    "type": "spirit",
+    "description": "A spirit that can be bound or lost, mentioned in an experiment",
+    "source_ref": "page 415/418",
+    "attributes": {
+      "actions": [
+        "can be bound",
+        "can be lost"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Paymon",
+    "type": "spirit",
+    "description": "One of three spirits that can be raised with wonderful things effected through their assistance",
+    "source_ref": "Appendix I, Chap. III",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Bathin",
+    "type": "spirit",
+    "description": "One of three spirits that can be raised with wonderful things effected through their assistance",
+    "source_ref": "Appendix I, Chap. III",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Barma",
+    "type": "spirit",
+    "description": "One of three spirits that can be raised with wonderful things effected through their assistance",
+    "source_ref": "Appendix I, Chap. III",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Luridan",
+    "type": "spirit",
+    "description": "A spirit that can be made a familiar; also associated with Belelah",
+    "source_ref": "Appendix I, Chap. VIII",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Belelah",
+    "type": "spirit",
+    "description": "Another name for the familiar Luridan",
+    "source_ref": "Appendix I, VIII",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Balkin",
+    "type": "spirit",
+    "description": "The Master of Luridan",
+    "source_ref": "Appendix I, IX",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "John Baptist",
+    "type": "person",
+    "description": "Subject of a juggling trick called 'the decollation of John Baptist'",
+    "source_ref": "page 349",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "S. Margaret",
+    "type": "person",
+    "description": "Subject of a story involving fighting a real devil and a miracle wrought by a priest",
+    "source_ref": "page 455/457",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "S. Lucie",
+    "type": "person",
+    "description": "Subject of a strange story following a miracle of S. Margaret",
+    "source_ref": "page 461",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Carolus Gallus",
+    "type": "person",
+    "description": "Author whose writings on magic are mentioned in relation to Nero",
+    "source_ref": "page 452",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "James Sprenger",
+    "type": "person",
+    "description": "Inquisitor and compiler of Malleus Maleficarum",
+    "source_ref": "page 470",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Henry Institor",
+    "type": "person",
+    "description": "Inquisitor and compiler of Malleus Maleficarum",
+    "source_ref": "page 470",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Psellus",
+    "description": "Philosopher whose opinions on spirits are discussed and disproved",
+    "type": "person",
+    "source_ref": "page 492/495",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Plato",
+    "type": "person",
+    "description": "Philosopher whose opinions on spirits, devils, and angels are discussed",
+    "source_ref": "page 498/500",
+    "attributes": {
+      "contribution": "nine orders of spirits and angels"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Socrates",
+    "type": "person",
+    "description": "Philosopher mentioned in relation to having a familiar devil",
+    "source_ref": "page 498",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "John Calvin",
+    "type": "person",
+    "description": "Theologian whose opinion on the devil is mentioned",
+    "source_ref": "page 539",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Alcumystrie",
+    "type": "concept",
+    "description": "The art of alchemy/alchemists, involving words and devices to deceive eyes",
+    "source_ref": "page 353",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Conjuration",
+    "type": "ritual",
+    "description": "The act of calling or binding spirits, often discussed in a critical context",
+    "source_ref": "page 376/430",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Juggling knacks",
+    "type": "ritual",
+    "description": "Deceptive tricks or sleight of hand used to simulate magic",
+    "source_ref": "page 321/338",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Theurgy",
+    "type": "ritual",
+    "description": "A form of magic or divine work, discussed with a confutation",
+    "source_ref": "page 466",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Magical Circles",
+    "type": "ritual",
+    "description": "Instruments used for the institution of magic and raising spirits",
+    "source_ref": "Appendix I, Ch. I",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Alchemical stones and waters",
+    "type": "material",
+    "description": "Substances associated with the art of Alcumysterie",
+    "source_ref": "page 355",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Christall stone",
+    "type": "material",
+    "description": "A medium used to inclose a spirit",
+    "source_ref": "page 411/428",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Holy water",
+    "type": "material",
+    "description": "Substance used in religious and exorcism rituals",
+    "source_ref": "page 421",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 8
+  },
+  {
+    "name": "Tatian",
+    "type": "person",
+    "description": "An author or figure cited regarding the nature of the devil's body.",
+    "source_ref": "Page 135, Chapter 6",
+    "attributes": {
+      "claim": "affirms the devil's body consists of spiritual congealments of fire and air"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 13
+  },
+  {
+    "name": "Aristotle",
+    "type": "person",
+    "description": "A philosopher cited regarding the effects of melancholic passions.",
+    "source_ref": "Page 136, Chapter 7",
+    "attributes": {
+      "claim": "states that melancholic moods can lead to certain behaviors in persons subject to it"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 13
+  },
+  {
+    "name": "Ade Davie",
+    "type": "person",
+    "description": "A Kentish woman who believed she had bargained her soul to the devil due to a melancholic episode.",
+    "source_ref": "[Page 141-142]",
+    "attributes": {
+      "role": "subject of a case study",
+      "condition": "melancholic/pensive"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 13
+  },
+  {
+    "name": "Simon Davie",
+    "type": "person",
+    "description": "Husband of Ade Davie.",
+    "source_ref": "[Page 141-142]",
+    "attributes": {
+      "role": "witness/husband"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 13
+  },
+  {
+    "name": "Ant. Houin",
+    "type": "person",
+    "description": "A witch executed in 1565 who confessed to causing weather phenomena.",
+    "source_ref": "Page 141",
+    "attributes": {
+      "crime": "raising tempests and frosts"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 13
+  },
+  {
+    "name": "melancholie",
+    "type": "concept",
+    "description": "A medical/psychological condition described as causing false imaginations, delusions, and irrational behaviors.",
+    "source_ref": "Chapter 9",
+    "attributes": {
+      "effects": [
+        "deprives or depraves judgment and senses",
+        "deceives the mind",
+        "can cause people to imagine they are monarchs, beasts, or earthen pots"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 13
+  },
+  {
+    "name": "the devil's covenant/bargain",
+    "type": "ritual",
+    "description": "The alleged agreement between witches and the devil, which Scot argues is unproven and often based on false confessions.",
+    "source_ref": "Chapter 6",
+    "attributes": {
+      "nature": "alleged league/fellowship; described by some as involving physical contact with the devil"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 13
+  },
+  {
+    "name": "transubstantiation",
+    "type": "concept",
+    "description": "An impossible claim made in witches' confessions, used by Scot to argue against the validity of proofs.",
+    "source_ref": "Chapter 7",
+    "attributes": {
+      "action": "transubstantiating themselves"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 13
+  },
+  {
+    "name": "Satan/Sathan",
+    "type": "spirit",
+    "description": "The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power.",
+    "source_ref": "page 144",
+    "attributes": {
+      "nature": "adversary/devil"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 14
+  },
+  {
+    "name": "Sprenger and Institor",
+    "type": "person",
+    "description": "_the_old_hammer_of_Malleus_Maleficarum_authors/inquisitors.",
+    "source_ref": "page 150",
+    "attributes": {
+      "role": "Inquisitors"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 14
+  },
+  {
+    "name": "Bodin",
+    "type": "critique",
+    "description": "The argument-that-witches-confessions-are-invalid-due-to_the_unreliability-of-the-mind-under-the-influence-of-_the_melancholic-humor.",
+    "source_ref": "page 143",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 14
+  },
+  {
+    "name": "The_League",
+    "type": "ritual",
+    "description": "A purported or confessed_the_renouncing-of-the-faith-and-making-a-bargain-with-the-devil.",
+    "/source_ref": "page 144",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 14
+  },
+  {
+    "name": "Making_of_tempests_and_rain",
+    "type": "ritual",
+    "ritual_description": "A-confessed-action-of-witches-using-elements-to-create-storm-conditions.",
+    "source_ref": "page 145",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 14
+  },
+  {
+    "name": "The_Devil/Sathan",
+    "type": "spirit",
+    "description": "The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power.",
+    "source_ref": "page 144",
+    "attributes": {
+      "nature": "adversary/devil"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 14
+  },
+  {
+    "name": "The_Devil/Sathan",
+    "description": "The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, and as thes_e_entities_array_undermining_the_the_divine_power.",
+    "source_ref": "page 144",
+    "attributes": {
+      "nature": "adversary/devil"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 14
+  },
+  {
+    "name": "Thomas",
+    "type": "person",
+    "description": "The apostle Thomas, used as a biblical example to discuss the nature of spirits and physical presence.",
+    "source_ref": "page 206",
+    "attributes": {
+      "nature": "Apostle"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "Samuel",
+    "type": "person",
+    "description": "A biblical figure, the subject of a debate regarding whether he was truly raised from the dead by the witch of Endor.",
+    "source_ref": "page 2/210",
+    "attributes": {
+      "status": "Dead/Raised (debated)"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "Christ",
+    "type": "person",
+    "description": "A central figure in the Christian context, used to discuss the nature of spirits and physical bodies.",
+    "source_ref": "page 206",
+    "attributes": {
+      "nature": "spirit vs flesh/bones"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "Eusebius",
+    "type": "person",
+    "description": "An ecclesiastical historian whose work is cited to discuss the oracle of Apollo and the deception of priests.",
+    "source_ref": "page 207",
+    "attributes": {
+      "role": "Historian"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "Gregory of Nazianzus (Gregorie Neocessariensis)",
+    "type": "person",
+    "description": "A figure whose journey to the Alps and interaction with the temple of' Apollo is used as a tale of deception.",
+    "source_ref": "page 207",
+    "attributes": {
+      "role": "Traveler/Christian figure"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "Agrippa",
+    "type": "person",
+    "description": "An author cited regarding the ability of necromancers to recall spirits within a year of death.",
+    "source_ref": "page 211",
+    "attributes": {
+      "role": "Author/Scholar"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "Saul (King Saul)",
+    "type": "person",
+    "description": "A biblical king whose interaction with the witch of Endor is a central case study in the text.",
+    "source_ref": "page 210, 214",
+    "attributes": {
+      "role": "King/Subject of debate"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "the witch of Endor",
+    "type": "person",
+    "description": "A woman accused of raising Samuel through a familiar spirit.",
+    "source_ref": "page 209, 214",
+    "attributes": {
+      "role": "Witch/Pythonissa"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "the devil",
+    "type": "spirit",
+    "description": "A spirit mentioned in various contexts, including the letter to the devil and the debate over whether a spirit was raised.",
+    "source_ref": "page 207, 213",
+    "attributes": {
+      "nature": "Deceptive/Agent of error"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "the Pythonists",
+    "type": "concept",
+    "description": "A group or tradition associated with the oracle of Apollo, characterized by their use of deception and oracular practices.",
+    "source_ref": "Chapter 4/5",
+    "attributes": {
+      "nature": "Oracular tradition"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "the creation, transformation, transportation, and transubstantiation of witches",
+    "type": "concept",
+    "description": "A set of magical or supernatural phenomena attributed to witches.",
+    "source_ref": "page 206",
+    "attributes": {
+      "nature": "Magical phenomenon"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 21
+  },
+  {
+    "name": "Acrobius",
+    "type": "person",
+    "description": "Recounts five differences of images or imaginations in sleep.",
+    "source_ref": "Chapter 2, Page 241",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Peucer",
+    "type": "person",
+    "description": "Author who provides causes and occasions of dreams.",
+    "source_ref": "Page 241",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Galen",
+    "type": "person",
+    "description": "Physician cited regarding the physical nature of dreams through humors.",
+    "source_ref": "Page 242",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Avicen",
+    "type": "person",
+    "description": "Attributed dreams to the last intelligence that moves the moon.",
+    "source_ref": "Page 243",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Averroes",
+    "type": "person",
+    "description": "Attributed dreams to the imaginative sense.",
+    "source_ref": "Page 243",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Albert",
+    "type": "person",
+    "description": "Attributed dreams to the influence of superior bodies.",
+    "source/ref": "Page 243",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Cicero",
+    "type": "person",
+    "description": "Confutes the vanity and folly of dream interpreters.",
+    "source_ref": "Page 243",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Nicolaus Hemingius",
+    "type": "person",
+    "description": "Divides diabolical dreams into three sorts.",
+    "source_ref": "Page 243, Page 244",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Salomon",
+    "type": "person",
+    "description": "Cited regarding casual dreams and the multitude of business.",
+    "source_ref": "Page 242, Page 243",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Abraham",
+    "type": "person",
+    "description": "Cited as the first inventor of dream exposition.",
+    "source_ref": "Page 243",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Daniel",
+    "type": "person",
+    "description": "Prophet known for interpreting dreams and receiving divine revelations.",
+    "source_ref": "Page 241, Page 244, Page 249",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 25
+  },
+  {
+    "name": "Mother Baker",
+    "type": "gestation_of_a_witch",
+    "description": "A woman identified as a famous witch in Kent, accused of using waxen images to harm others.",
+    "source_ref": "Page 207/208",
+    "attributes": {
+      "location": "Stonstreet"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 31
+  },
+  {
+    "name": "Ovid",
+    "type": "person",
+    "description": "Roman poet, cited as a 'poetical witch' who claims to break vipers' jaws with words.",
+    "source_ref": "Ovid, metamor. 7.",
+    "attributes": {
+      "role": "poet"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 31
+  },
+  {
+    "name": "Serpents and Snakes",
+    "type": "material",
+    "description": "Creatures often the subject of charms and enchantments in the text, discussed as being resistant to magic or susceptible to susceptibility.",
+    "source/ref": "Chapter 15",
+    "attributes": {
+      "role": "subject of enchantment"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 31
+  },
+  {
+    "name": "Horace",
+    "type": "person",
+    "description": "Roman poet, cited to mock or impugn the power of witches.",
+    "source_ref": "Page 202",
+    "attributes": {
+      "role": "poet"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 31
+  },
+  {
+    "name": "Cardanus",
+    "type": "critique",
+    "description": "A scholar who derides magic fables and identifies illusions in conjuration.",
+    "source_ref": "page 309-310",
+    "attributes": {
+      "action": "derideth these and such like fables"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Jesus Christ",
+    "type": "person",
+    "description": "Central figure of Christianity, used in various charms and curses.",
+    "source_ref": "throughout",
+    "attributes": {
+      "role": "Lord"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Lucifer",
+    "type": "spirit",
+    "description": "Conjured in a curse against thieves to be destroyed.",
+    "source_ref": "page 312-313",
+    "attributes": {
+      "role": "fallen angel/devil"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Saint Michael",
+    "type": "angel",
+    "description": "Mentioned in a curse against thieves.",
+    "source_ref": "page 312",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Finding out a thief (with crystal)",
+    "type": "ritual",
+    "description": "Using an olive oil cross on a crystal and a child to see the thief.",
+    "source_ref": "page 309",
+    "attributes": {
+      "method": "crystal, olive oil, child"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Finding out a thief (with shears/sieve)",
+    "type": "ritual",
+    "description": "Using shears and a sieve to identify a guilty person.",
+    "source_ref": "page 311",
+    "attributes": {
+      "method": "shears, sieve"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Saint Adelbert's Curse",
+    "type": "ritual",
+    "description": "A long curse against thieves involving excommunication.",
+    "source_ref": "page 312",
+    "attributes": {
+      "target": "thieves"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Preventing witches (horse shoe)",
+    "type": "ritual",
+    "description": "Nailing a horse shoe to the inside of the threshold.",
+    "source_ref": "page 314",
+    "attributes": {
+      "material": "horse shoe"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Olive leaves/branch",
+    "type": "material",
+    "description": "Used in rituals to find thieves or ward off spirits.",
+    "source_ref": "throughout",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Sulphur",
+    "type": "material",
+    "description": "Used for purification and driving out spirits.",
+    "source_ref": "page 314-315",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 32
+  },
+  {
+    "name": "Pharaoh's magicians",
+    "type": "person",
+    "description": "Magicians in the service of Pharaoh, whose works were compared to Moses' miracles and later critiqued as illusions or 'juggling knacks'.",
+    "source_rend_ref": "Chapter 18/20/21",
+    "attributes": {
+      "role": "magicians"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "St. Augustine",
+    "type": "person",
+    "spirit_type": "person",
+    "description": "Cited as a hold of that they made by art the serpents, etc.",
+    "source_ref": "Page 354/Chapter 18",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "J. Bap. Neap",
+    "type": "person",
+    "description": "Author cited for information on the production of monsters, serpents, and the nature of toads/frogs.",
+    "source_ref": "Chapter 18/Page 354-355",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Plutarch",
+    "type": "person",
+    "description": "Cited regarding the descent of toads in rain.",
+    "source_ref": "Chapter 18/Page 355",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Aelianus",
+    "type": "person",
+    "description": "Cited regarding seeing frogs and toads with earth-like parts.",
+    "source_ref": "Chapter 18/Page 35/5",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Dati7natiis Hispanus",
+    "type": "person",
+    "description": "Claimed to be able to make creatures at will.",
+    "source_ref": "Chapter 18/Page 355",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Jamblichus",
+    "type": "person",
+    "description": "Cited regarding the nature of fascination and imagination.",
+    "source_ref": "Chapter 20/Page                 358",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Calvine",
+    "type": "person",
+    "description": "Cited as describing Pharaoh's magicians as jugglers.",
+    "source_ref": "Chapter 20/Page 358",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Clemens",
+    "type": "person",
+    "description": "Cited regarding the magicians' works being prestigious shows rather than true miracles.",
+    "source_ref": "Chapter 20/Page 358",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "the Cockatrice",
+    "type": "material",
+    "description": "A venomous serpent produced by melting arsenic and serpent poison in an egg.",
+    "source_ref": "Chapter 18/Page 354",
+    "attributes": {
+      "nature": "venomous, noisome, dangerous"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Perspective Glasses",
+    "type": "material",
+    "description": "Optical devices used to create illusions, such as making things appear far or near, or upside down.",
+    "source_ref": "Chapter 19/Page 355-357",
+    "attributes": {
+      "types": [
+        "hollow",
+        "plain",
+        "embossed",
+        "columnary",
+        "pyramidate",
+        "turbinal",
+        "round",
+        "inversed",
+        "coloured",
+        "clear"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Witchcraft/Conjuring",
+    "type": "concept",
+    "description": "The practice of performing supernatural feats through words, charms, and illusions.",
+    "source_ref": "Chapter 18-23",
+    "attributes": {
+      "status": "prohibited in the current age"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "Magic/Art Magike",
+    "type": "concept",
+    "description": "The use of 'art' or 'cunning' to produce monsters and illusions.",
+    "source_ref": "Chapter 18",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "the Devil",
+    "type": "concept",
+    "description": "The entity that some claim cannot create creatures smaller than a barleycorn.",
+    "source_ref": "Chapter 20/Page 354",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 37
+  },
+  {
+    "name": "adversaries/betting_on_side_observers",
+    "type": "person",
+    "description": "Part of a confederate network in card games, working to signal information to the player.",
+    "source_ref": "Chapter 27, Page 370",
+    "attributes": {
+      "role": "deceivers/signallers"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 38
+  },
+  {
+    "name": "planets/celestial_bodies",
+    "type": "concept/celestial_body",
+    "description": "Celestial bodies mentioned in an incantation/charm-like words used during juggling, representing a planetary or astrological-related concept. ",
+    "source_ref": "Page 365, 365",
+    "attributes": {
+      "members": [
+        "Saturn, Jupiter, Mars, Sol, Venus, Mercurie, Luna"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 38
+  },
+  {
+    "name": "ball/small_ball",
+    "type": "material",
+    "description": "A small object used in juggling feats, which can be 'swelled' or 'conveyed' through sleight of hand.",
+    "source_ref": "Page 362, 362",
+    "attributes": {
+      "size": "can be made to seem to swell/great",
+      "nature": "can be 'conveyed' or 'vanishing' into nothingness"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 38
+  },
+  {
+    "name": "Egyptians",
+    "type": "person/group",
+    "description": "A group referred to as practicing 'fast or loose' (sleight of hand) and 'sortilegie' (sorcery), accused of using tricks to mimic magic. ",
+    "source_ref": "Chapter 29",
+    "attributes": {
+      "practice": "fast or loose, sortilegie"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 39
+  },
+  {
+    "name": "Eleazar",
+    "type": "person",
+    "card_name": "historical figure cited in a trick description",
+    "description": "A person whose feat of making a pot fall from a cupboard via 'words' is described as a miracle, though explained here as a trick with black thread. ",
+    "source_ref": "Chapter 28",
+    "attributes": {
+      "associated_feat": "making a pot fall by words"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 39
+  },
+  {
+    "name": "Steeven Tailor",
+    "type": "person",
+    "description": "A person involved in a scheme to steal horses using deception and confederates. ",
+    "source_ref": "Chapter 30",
+    "attributes": {
+      "role": "deceiver/thief"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 39
+  },
+  {
+    "name": "Josephus",
+    "type": "person",
+    "description": "A historical source cited in relation to the feat of Eleazar. ",
+    "source_ref": "Chapter 28",
+    "attributes": {
+      "role": "historian/source"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 39
+  },
+  {
+    "name": "trickery with cards",
+    "type": "ritual/trick",
+    "description": "Various card tricks involving shuffling, keeping a 'kept' card, and transforming aces into knaves. ",
+    "source_ref": "Chapter 27",
+    "attributes": {
+      "tools": [
+        "cards",
+        "table"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 39
+  },
+  {
+    "name": "juggling boxes",
+    "type": "ritual/trick",
+    "description": "The use of boxes with false bottoms or specialized shapes to transform grains, spices, or even a toad. ",
+    "source_ref": "Chapter 31",
+    "attributes": {
+      "tools": [
+        "boxes",
+        "grain",
+        "spices",
+        "toad"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 39
+  },
+  {
+    "name": "sortilegie",
+    "type": "concept",
+    "description": "A term used to the practice of sorcery or magic, which Scot is debunking as trickery. ",
+    "source_ref": "Chapter 29",
+    "attributes": {
+      "nature": "deception/sorcery"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 39
+  },
+  {
+    "name": "Baell",
+    "type": "spirit",
+    "description": "A king of the power of the east who appears with three heads (toad, man, and cat) and commands 66 legions.",
+    "source_ref": "Page 412",
+    "attributes": {
+      "rank": "king",
+      "direction": "east",
+      "appearance": [
+        "three heads",
+        "toad-like head",
+        "man-like head",
+        "cat-scale head"
+      ],
+      "voice": "hoarse",
+      "power": "makes men invisible",
+      "legions_under_command": 66
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Agares",
+    "type": "spirit",
+    "description": "A duke of the power of the east appearing as a fair old man riding a crocodile.",
+    "source_ref": "Page 412",
+    "attributes": {
+      "rank": "duke",
+      "direction": "east",
+      "appearance": [
+        "fair old man",
+        "riding a crocodile",
+        "carrying a hawk"
+      ],
+      "power": [
+        "teaches tongues",
+        "fetches runaways",
+        "makes people stand still",
+        "causes earthquakes"
+      ],
+      "order": "virtues",
+      "legions_under_command": 31
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Marbas",
+    "type": "spirit",
+    "description": "A great president appearing as a mighty lion or a man.",
+    "source_ref": "Page 412",
+    "attributes": {
+      "rank": "president",
+      "alias": "Barbas",
+      "appearance": [
+        "mighty lion",
+        "man"
+      ],
+      "power": [
+        "brings diseases",
+        "cures diseases",
+        "promotes wisdom",
+        "knowledge of mechanical arts",
+        "shape-shifting"
+      ],
+      "legions_under_command": 36
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Amon",
+    "type": "spirit",
+    "description": "A mighty marques appearing as a wolf with a serpent's tail.",
+    "source_ref": "Page 412",
+    "attributes": {
+      "rank": "marques",
+      "alias": "Aamon",
+      "appearance": [
+        "wolf",
+        "serpent's tail",
+        "man with dog teeth",
+        "head like a raven"
+      ],
+      "power": [
+        "understands past and future",
+        "procures favor",
+        "reconciles friends and foes"
+      ],
+      "legions_under_command": 40
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Barbatos",
+    "type": "spirit",
+    "description": "A duke or earl who understands the voices of animals.",
+    "source_ref": "Page 412",
+    "attributes": {
+      "rank": [
+        "count",
+        "earl",
+        "duke"
+      ],
+      "appearance": [
+        "Signo sagittarii sylvestris"
+      ],
+      "power": [
+        "understands birds, dogs, and bullocks",
+        "detects hidden treasures",
+        "knows past and future",
+        "reconciles friends"
+      ],
+      "order": "virtues",
+      "legions_under_command": 30
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Buer",
+    "type": "spirit",
+    "description": "A president who teaches philosophy and the virtue of herbs.",
+    "source/ref": "Page 413",
+    "attributes": {
+      "rank": "president",
+      "power": [
+        "teaches moral and natural philosophy",
+        "teaches logic",
+        "knows virtue of herbs",
+        "heals diseases"
+      ],
+      "legions_under_command": 50
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Paimon",
+    "type": "spirit",
+    "description": "A king who is more obedient to Lucifer than other kings.",
+    "source_ref": "Page 415",
+    "attributes": {
+      "rank": "king",
+      "appearance": [
+        "man",
+        "riding a dromedary",
+        "glorious crown",
+        "effeminate countenance"
+      ],
+      "power": [
+        "teaches philosophy, wisdom, and science",
+        "knows the disposition of the world",
+        "binds those who resist"
+      ],
+      "legions_under_command": 200,
+      "order": [
+        "dominations",
+        "cherubim",
+        "angels",
+        "potestates"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Beliall",
+    "type": "spirit",
+    "description": "A king created immediately after Lucifer.",
+    "source_ref": "Page 416",
+    "attributes": {
+      "rank": "king",
+      "appearance": [
+        "beautiful angel",
+        "sitting in a fiery chariot"
+      ],
+      "power": [
+        "distributes preferments of senatorship",
+        "procures favor of friends"
+      ],
+      "legions_under_command": 80,
+      "order": [
+        "angels",
+        "virtues"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Alchemists",
+    "type": "critique",
+    "description": "A group criticized for their vain hopes and the destruction of wealth through their art.",
+    "source_ref": "Page 409-410",
+    "attributes": {
+      "criticism": [
+        "dream and dote after double advantage",
+        "their art turns metals into mist and smoke"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 43
+  },
+  {
+    "name": "Thomas Aquinas",
+    "type": "person",
+    "description": "A theologian/doctor of the church who provides arguments for the legality of conjurations and charmes.",
+    "source_raise": "page 468",
+    "attributes": {
+      "role": "theologian"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "A person who denied the legality of conjuration in a specific incident involving monks.",
+    "type": "person",
+    "source_ref": "page 467",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "Anthotiius Prafensis",
+    "type": "person",
+    "description": "cardinal and legat for the pope throughout France.",
+    "source_ref": "page 467",
+    "attributes": {
+      "role": "cardinal"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "A saint used to support arguments regarding the power of God's name vs relics.",
+    "source_ref": "page 468",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "M. Mai.",
+    "type": "person",
+    "description": "A source cited by Scot to discuss the legality of exorcism without conjuration.",
+    "source_ref": "page 468",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "St. Jerome/S. Jerome (not explicitly named but implied in context)",
+    "type": "person",
+    "description": "Not found",
+    "source_ref": null,
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "John Wierus",
+    "type": "person",
+    "description": "A person whose writings on conjurations are mentioned by Bodin.",
+    "source_ref": "page 472",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "Jean Bodin",
+    "type": "person",
+    "description": "Author/thinker who discusses the punishment of witches vs conjurors.",
+    "source_ref": "page 472",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "Raphaell",
+    "type": "angel",
+    "description": "Archangel mentioned in relation to the liver of fish.",
+    "source_ref": "page 474",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "Peter or Barbara",
+    "type": "person",
+    "description": "Names used in a specific conjuration formula for the sick.",
+    "source_ref": "page 469",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "conjuration of salt",
+    "type": "ritual",
+    "description": "A ritual involving the consecration and conjuration of salt for health.",
+    "source_ref": "page 473",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "exorcism of incense",
+    "type": "ritual",
+    "description": "A ritual to drive away spirits from frankincense.",
+    "source_ref": "page 474",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 49
+  },
+  {
+    "name": "Beelzebub",
+    "type": "spirit",
+    "description": "The lord of the flies; an idol or oracle at Ekron; reputed as the principal devil among the Jews.",
+    "source_ref": "Chapter 19",
+    "attributes": {
+      "meaning": "Lord of the flies",
+      "origin": "Ekron/Jewry"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Astaroth",
+    "type": "spirit",
+    "description": "An idol of the Philistines, also worshipped by Solomon; signifies riches and flocks.",
+    "source_ref": "Chapter 19",
+    "attributes": {
+      "meaning": "Riches, flocks, etc.",
+      "association": "Philistines/Solomon"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Sathan (Satan)",
+    "type": "spirit",
+    "description": "The adversary; can hurt both by day and night; described as the author of sin.",
+    "source_ref": "Chapter 20",
+    "attributes": {
+      "meaning": "Adversary",
+      "nature": "Destroys, troubles, molests"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Mammon",
+    "type": "spirit",
+    "description": "Represents the covetous desire for money.",
+    "source_ref": "Chapter 20",
+    "attributes": {
+      "meaning": "Covetous desire of money"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Baaros",
+    "type": "material",
+    "description": "A root mentioned as being one with Solomon's root, having force to drive out devils.",
+    "source_ref": "Page 529",
+    "attributes": {
+      "alternative_name": "Agla\u00f6photis/Cynospasttis"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Bodin (Jean Bodin)",
+    "type": "person",
+    "description": "A writer who asserts there are day and night devils, and that the devil loves no salt in his meat.",
+    "source_ref": "Page 532",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Salomon (Solomon)",
+    "type": "person",
+    "description": "A historical figure associated with conjuration and the worship of certain idols.",
+    "source_ref": "Page 529, 534",
+    "attributes": {
+      "role": "Conjurer/Worshipper"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Deber",
+    "type": "spirit",
+    "description": "A devil that hurts by night.",
+    "source_ref": "Page 532",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Cheleb",
+    "type": "spirit",
+    "description": "A devil that hurts by day.",
+    "source_ref": "/page 532",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Penates",
+    "type": "spirit",
+    "description": "Domestic gods or devils (Minerva) said to make men live quietly indoors.",
+    "source_ref": "Chapter 21",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Lares",
+    "type": "spirit",
+    "description": "Spirits that oversee crossroads and cities; trouble private houses.",
+    "source/ref": "Chapter 21",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 56
+  },
+  {
+    "name": "Vagianus",
+    "type": "spirit",
+    "description": "he that kept their children from crieng, [and] whose picture was hung about babes necks",
+    "source_ref": "page 524",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 57
+  },
+  {
+    "name": "Cuninus",
+    "type": "spirit",
+    "description": "he that preserved children from misfortune in the cradell",
+    "source/ref": "page 524",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 57
+  },
+  {
+    "name": "Ruminus",
+    "type": "spirit",
+    "description": "to keepe their dugs from corruption",
+    "source_ref": "page s/524",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 57
+  },
+  {
+    "name": "Agrestis",
+    "type": "spirit",
+    "description": "god of the fields, and to him they praied for fertilitie",
+    "source_ref": "page 524",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 57
+  },
+  {
+    "name": "God",
+    "type": "spirit",
+    "description": "An uncreated spirit, essentialie taken, and agreeth unto the three persons notionally.",
+    "source_ref": "page 457",
+    "attributes": {
+      "nature": "uncreated spirit",
+      "persons": [
+        "Father",
+        "Son",
+        "Holy Ghost"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Satan/the Devil",
+    "type": "spirit",
+    "critique": "The suggestion of the wicked spirit, of the divell, and of satan.",
+    "source_ref": "page 457",
+    "attributes": {
+      "nature": "wicked spirit"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Pneumatomachi",
+    "type": "critique",
+    "description": "A sect that denies the divinity of the Holy Spirit, viewing it as a divine force rather than God.",
+    "source_ref": "page 458-459",
+    "attributes": {
+      "nature": "sect/heresy"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Hilarie",
+    "type": ",\"person\"",
+    "description": "A writer of the Trinity who is cited as an object of debate regarding whether the Holy Spirit is to be worshipped.",
+    "source_ref": "page 459-460",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Ambrose",
+    "type": "person",
+    "description": "A father of the church who expounds on the meaning of spirit in Amos.",
+    "source_ref": "page 461",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Isaie/Isaiah",
+    "/type": "person",
+    "description": "A prophet whose words are used to describe the Holy Spirit as water and fire.",
+    "source_ref": "page 455",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Jeremze/Jeremiah",
+    "type": "person",
+    "description": "A prophet whose words are used to describe the fiery nature of the spirit.",
+    "source_ref": "page 456",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "John/St. John",
+    "type": "person",
+    "description": "A biblical figure whose words are used to discuss the water of life and the nature of the spirit.",
+    "source_ref": "page 455",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Moses",
+    "/type": "person",
+    "description": "A biblical figure whose words are used to discuss the punishment for lack of the spirit.",
+    "source_ref": "/page 457",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Pan",
+    "type": "person",
+    "description": "A figure mentioned in relation to error and drunkenness.",
+    "source_ref": "page 457",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Cyril",
+    "type": "person",
+    "description": "Cited regarding the use of oil as a metaphor for God's mercy.",
+    "source_ref": "page 456",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Adam/the elect",
+    "type": "concept",
+    "description": "Those who are renewed and made apt by the training up of the holy spirit.",
+    "source_ref": "page 456",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Witchcrafts/Incantations",
+    "type": "ritual",
+    "description": "False and evil spirits and practices that cannot stand the trial of the spirit of truth.",
+    "/source_ref": "page 457",
+    "attributes": {
+      "examples": [
+        "charms",
+        "divinations",
+        "augurie",
+        "judiciall astrologie",
+        "nativitie casting",
+        "alcumystrie",
+        "conjuration",
+        "lotshare",
+        "poperie"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Water",
+    "type": "concept",
+    "/description": "Metaphorical representation of the spirit as water that washes, comforts, and makes fruitful.",
+    "source_ref": "page 455",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Fire",
+    "/type": "concept",
+    "description": "Metaphorical representation of the spirit as fire that purifies and cleanses.",
+    "source_ref": "page 456",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Oil/Anointing",
+    "type": "concept",
+    "description": "Metaphorical representation of the spirit as anointing or ointment that makes one fit for office.",
+    "source_ref": "page 456",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Finger of God",
+    "type": "concept",
+    "description": "Metaphorical representation of the spirit as the might and power of God.",
+    "source_ref": "page 456",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Truth/Touchstone",
+    "type": "concept",
+    "description": "Metaphorical representation of the spirit as a touchstone to try all counterfeit devises and vain sciences.",
+    "source_ref": "page 457",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Wind/Breath",
+    "type/description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+    "source_ref": "page 457",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Error/Blindness",
+    "type": "concept",
+    "description": "A spirit of error and blindness that inhabits where sin has dominion.",
+    "source_ref": "page 457",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Slumber/Drunkenness",
+    "type": "/concept",
+    "description": "A spirit of slumber, giddiness, and error.",
+    "source_ref": "page 457",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Adoption/Abba Father",
+    "type": "concept",
+    "description": "The spirit of adoption that allows us to cry 'Abba, Father'.",
+    "source_ref": "page 457",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "The Holy Spirit as Wind/Breath",
+    "type": "concept",
+    "/description": "The Hebrew word r'ach signifies spirit, wind, blast, or breath.",
+    "source_ref": "page 457",
+    "/attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 59
+  },
+  {
+    "name": "Holy Spirit",
+    "type": "spirit",
+    "description": "The third person of the Trinity, described as the spirit of sanctification and the animating force.",
+    "source_ref": "page 465-468",
+    "attributes": {
+      "nature": "divine",
+      "function": "sanctification, provoking prayer, presence in believers"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "God the Father",
+    "type": "spirit",
+    "description": "The first person of the Trinity.",
+    "source_ref": "page 465",
+    "attributes": {
+      "function": "creator, sender of the Son and Spirit"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "God the Son (Jesus Christ)",
+    "type": "spirit",
+    "description": "The second person of the Trinity.",
+    "source_ref": "page 465",
+    "attributes": {
+      "function": "creator, revealer of the Father"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Immanuel",
+    "type": "concept",
+    "description": "A holy name used in consecration rituals.",
+    "source_ref": "page 470",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Magical Circle (Imaginary)",
+    "type": "ritual",
+    "description": "A circle created through incantations and consecrations when a physical boundary cannot be delineated.",
+    "source_ref": "Appendix I, Chapter 1",
+    "attributes": {
+      "size": "nine foot circumference",
+      "method": "incantations, holy water, consecration"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Exorcist",
+    "type": "person",
+    "/description": "The practitioner performing the ritual.",
+    "source_ref": "Appendix I, Chapter 1",
+    "attributes": {
+      "clothing": "black garment to knee, white linen robe to ankles",
+      "equipment": "consecrated russet leather shoes with cross, hazel wand"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Subterranean Spirits",
+    "type": "spirit",
+    "description": "Spirits residing in pits and caves.",
+    "source_ref": "page 471",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Aerial Spirits",
+    "type": "spirit",
+    "description": "Spirits residing on the tops of turrets.",
+    "source_ref": "page 471",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Water Spirits",
+    "type": "spirit",
+    "description": "Spirits residing in ships and rocks of the sea.",
+    "source_ref": "page 471",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Faries, Nymphs, and Satyres",
+    "type": "spirit",
+    "description": "Spirits residing in woods and mountains.",
+    "source_ref": "page 471",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Hermes Trismegistus",
+    "type": "person",
+    "description": "Ancient figure cited regarding the necessity of the spirit for all things.",
+    "source_ref": "page 466",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 60
+  },
+  {
+    "name": "Faeries",
+    "type": "spirit",
+    "description": "Spirits that inhabit Mountains and Caverns, capable of making strange Apparitions in the form of Men, Women, Soldiers, Kings, and Ladies, Children, and Horse-men cloathed in green. They are known for stealing hempen stalks to convert them into Horses.",
+    "source_ref": "page 608",
+    "attributes": {
+      "appearance": [
+        "Men",
+        "Women",
+        "Soldiers",
+        "Kings",
+        "Lady",
+        "Children",
+        "Horse-men cloathed in green"
+      ],
+      "actions": [
+        "making strange Apparitions",
+        "stealing hempen stalks to convert into Horses"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 65
+  },
+  {
+    "name": "Hobgoblins",
+    "type": "spirit",
+    "description": "Spirits that can take away children, leaving behind changelings or lunaticks.",
+    "source_ref": "page 608",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 65
+  },
+  {
+    "name": "Ataiberius",
+    "type": "spirit",
+    "description": "A virulent animal that confounded the undertakings of those who labored in the silver mine in Germany, appearing in the likeness of a he-goat with Golden horns, a horse breathing flames, and a monk in pontifical robes.",
+    "source_ref": "page 616",
+    "attributes": {
+      "forms": [
+        "he-goat with Golden horns",
+        "Horse breathing flames",
+        "Monk in all his Pontijicalibiis"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 66
+  },
+  {
+    "name": "Corselets",
+    "type": "material",
+    "description": "An ancient Danish charm of neck-laces, composed of thunderstones engraved with magical letters to resist noxious influences and lightning. ",
+    "source_ref": "Page 632",
+    "attributes": {
+      "origin": "Danish",
+      "components": [
+        "thunderstones",
+        "magical letters"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Spirits of Saturn",
+    "type": "spirit",
+    "description": "Spirits under the influence of Saturn, appearing like old men with prominent beards, or as serpents, cats, wolves, bad/badgers, and panthers. ",
+    "source_ref": "Page 632-633",
+    "attributes": {
+      "appearance": [
+        "old men",
+        "serpents",
+        "cats",
+        "wolves",
+        "badgers",
+        "panthers"
+      ],
+      "fumigation_ingredients": [
+        "Frankincense Trees",
+        "Pepper-wort Roots",
+        "Storax",
+        "Galbanum"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Spirits of Jupiter",
+    "type": "spirit",
+    "description": "Spirits under the influence of Jupiter, appearing like glorious kings with many attendants. ",
+    "source_ref": "Page 633",
+    "attributes": {
+      "appearance": [
+        "glorious Kings",
+        "Heralds",
+        "Ensign-bearers",
+        "Trumpeters",
+        "Guards"
+      ],
+      "fumigation_ingredients": [
+        "Lignum Aloes",
+        "Ashen-Keys",
+        "Jupiter Benjamin",
+        "Storax",
+        "Peacocks-feals",
+        "Lapis Lazuli"
+      ],
+      "sacrifice_components": [
+        "blood of a Stork",
+        "a Swallow",
+        "or a Hart",
+        "brains"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Spirits of Mars",
+    "type": "spirit",
+    "description": "Spirits under the influence of Mars, appearing with weapons brandishing and shining armour, often as lions, wolves, tigers, or bears. ",
+    "source_ref": "Page 633",
+    "attributes": {
+      "appearance": [
+        "weapons brandishing",
+        "shining Armour",
+        "Lions",
+        "Wolves",
+        "Tygers",
+        "Bears"
+      ],
+      "fumigation_ingredients": [
+        "Aromatic Gum",
+        "Bdellium",
+        "Euphorbium",
+        "Load-stone",
+        "Hellebore white and black",
+        "Sulphur"
+      ],
+      "sacrifice_components": [
+        "Man's blood",
+        "blood of a black Cat"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Spirits of Sol (Sun)",
+    "type": "spirit",
+    "description": "Spirits under the influence of Sun, appearing as castles, gardens, mountains, rivers, etc. ",
+    "source_ref": "Page 633",
+    "attributes": {
+      "appearance": [
+        "Castles",
+        "Gardens",
+        "Mountains",
+        "Rivers",
+        "Fisher-men",
+        "Hunters",
+        "Reapers",
+        "Dogs",
+        "Sheep",
+        "Oxen"
+      ],
+      "fumigation_ingredients": [
+        "Saffron",
+        "Musk",
+        "Laurel",
+        "Cinnamon",
+        "Amber-griece",
+        "Cloves",
+        "Myrrhe",
+        "Frankincense",
+        "Balsamick Tree"
+      ],
+      "sacrifice_components": [
+        "brain of an Eagle",
+        "blood of a white Cock"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Spirits of Venus",
+    "type": "spirit",
+    "description": "Spirits under the influence of Venus, appearing as courtiers, ladies, princes, queens, infants, and children. ",
+    "source_ref": "Page 633",
+    "attributes": {
+      "appearance": [
+        "Courtiers",
+        "Ladies",
+        "Princes",
+        "Queens",
+        "Infants",
+        "Children"
+      ],
+      "fumigation_ingredients": [
+        "Roses",
+        "Coral",
+        "Lignum Aloes",
+        "Sperma Ceti"
+      ],
+      "sacrifice_components": [
+        "brains and blood of Pidgeons"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Spirits of Mercury",
+    "type": "spirit",
+    "description": "Spirits under the influence of Mercury, appearing as horsemen, fishers, laborers, priests, students, servants, and monstrous animals. ",
+    "source_ref": "Page 633",
+    "attributes": {
+      "appearance": [
+        "Horsemen",
+        "Fishers",
+        "Labourers",
+        "Priests",
+        "Students",
+        "Servants",
+        "Foxes",
+        "Serpents",
+        "Dogs",
+        "Hares",
+        "Hyena's",
+        "Hydra's"
+      ],
+      "fumigation_ingredients": [
+        "Frankincense",
+        "Mastick",
+        "Cinkfoyl"
+      ],
+      "sacrifice_components": [
+        "brain of a Fox",
+        "blood of a Mag-Pye"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Spirits of Luna (Moon)",
+    "type": "spirit",
+    "description": "Spirits under the influence of Luna, appearing as ghosts and shadows, sometimes in human shape. ",
+    "source_ref": "Page 633",
+    "attributes": {
+      "appearance": [
+        "Ghosts",
+        "shadows",
+        "male or female human shape"
+      ],
+      "fumigation_ingredients": [
+        "Frogs dryed",
+        "white Poppy-seed",
+        "Bulls Eyes",
+        "Camphire",
+        "Frankincense"
+      ],
+      "sacrifice_components": [
+        "Gooses blood",
+        "menstruous blood of Women"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Tying of the Point",
+    "type": "ritual",
+    "description": "A knot or ligature used to restrain sexual acts between married persons. ",
+    "source_ref": "Page 638",
+    "attributes": {
+      "status": "prohibited by laws in several nations",
+      "geography": [
+        "France",
+        "Italy",
+        "Spain",
+        "Eastern Countries"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Transplantation",
+    "type": "ritual",
+    "description": "The magical transferring of diseases from one person to another. ",
+    "source_ref": "Page 638",
+    "attributes": {
+      "mechanism": [
+        "burying certain images in neighbours ground"
+      ],
+      "nature": "considered more natural than conjuration by the author"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Sympathy and Antipathy",
+    "type": "concept",
+    "description": "The principle that things are drawn to their like or repelled by their contrary. ",
+    "source_ref": "Page 634, 637",
+    "attributes": {
+      "mechanism": [
+        "In verbis, herbis & lapidibus latet virtus"
+      ]
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Critique of Conjuration",
+    "type": "critique",
+    "description": "The author's argument that many magicians are actually in compact with the Devil and that their 'charms' are merely disguises for demonic contracts. ",
+    "source_ref": "Page 635-636",
+    "attributes": {
+      "core_argument": "Characters and sigils are themselves compacts disguised by strange repetitions."
+    },
+    "source_id": "discoverie",
+    "chunk_id": 68
+  },
+  {
+    "name": "Reginald Scot",
+    "type": "person",
+    "description": "Author of Discoverie of Witchcraft (1584), a skeptical/skeptical approach to magic and witchcraft. The text discusses his translation/copying of Wier's Pseudomonarchia Demonum. Pseudomonarchia Demonum is Pseudomonarchia Demonum",
+    "source_ref": "P. 523, P. 657",
+    "attributes": {
+      "role": "Author/Translator/Skeptical Agent"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 71
+  },
+  {
+    "name": "exsufflatio",
+    "type": "ritual",
+    "description": "The act of blowing away the devil during Roman Catholic baptism.",
+    "source_ref": "page 682",
+    "attributes": {
+      "method": "blowing"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 74
+  },
+  {
+    "name": "Virtutes",
+    "type": "angel",
+    "description": "The order of angels so called.",
+    "source_ref": "page 685",
+    "attributes": {
+      "classification": "order of angels"
+    },
+    "source_id": "discoverie",
+    "chunk_id": 74
+  },
+  {
+    "name": "Th. Ady",
+    "type": "person",
+    "description": "Author of A Candle in the Dark (1656).",
+    "source_ref": "page 682",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 74
+  },
+  {
+    "name": "abrenunciation",
+    "type": "ritual",
+    "description": "The renouncing of the devil and his works in Roman Catholic baptism.",
+    "source_ref": "page 682",
+    "attributes": {},
+    "source_id": "discoverie",
+    "chunk_id": 74
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 14,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Aristotle",
+      "type": "person",
+      "description": "Ancient Greek philosopher-physician, cited-as-a-source-of-stating-that-melancholy-causes-strange-effects-and-that-people-learn-strange-tongues.",
+      "source_ref": "page 143",
+      "attributes": {
+        "role": "philosopher/physician"
+      }
+    },
+    {
+      "name": "Satan/Sathan",
+      "type": "spirit",
+      "description": "The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power.",
+      "source_ref": "page 144",
+      "attributes": {
+        "nature": "adversary/devil"
+      }
+    },
+    {
+      "name": "Sprenger and Institor",
+      "type": "person",
+      "description": "_the_old_hammer_of_Malleus_Maleficarum_authors/inquisitors.",
+      "source_ref": "page 150",
+      "attributes": {
+        "role": "Inquisitors"
+      }
+    },
+    {
+      "name": "Bodin",
+      "type": "critique",
+      "description": "The argument-that-witches-confessions-are-invalid-due-to_the_unreliability-of-the-mind-under-the-influence-of-_the_melancholic-humor.",
+      "source_ref": "page 143",
+      "attributes": {}
+    },
+    {
+      "name": "The_League",
+      "type": "ritual",
+      "description": "A purported or confessed_the_renouncing-of-the-faith-and-making-a-bargain-with-the-devil.",
+      "/source_ref": "page 144",
+      "attributes": {}
+    },
+    {
+      "name": "Making_of_tempests_and_rain",
+      "type": "ritual",
+      "ritual_description": "A-confessed-action-of-witches-using-elements-to-create-storm-conditions.",
+      "source_ref": "page 145",
+      "attributes": {}
+    },
+    {
+      "name": "The_Devil/Sathan",
+      "type": "spirit",
+      "description": "The figure of the devil, in the context of a 'league'leagued with witches, or as thes_e_entities_array_undermining_the_divine_power.",
+      "source_ref": "page 144",
+      "attributes": {
+        "nature": "adversary/devil"
+      }
+    },
+    {
+      "name": "The_Devil/Sathan",
+      "type": "spirit",
+      "description": "The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, or as thes_e_entities_array_undermining_the_divine_power.",
+      "source_ref": "page 144",
+      "attributes": {
+        "nature": "adversary/devil"
+      }
+    },
+    {
+      "name": "The_Devil/Sathan",
+      "description": "The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, and as thes_e_entities_array_undermining_the_the_divine_power.",
+      "source_ref": "page 144",
+      "attributes": {
+        "nature": "adversary/devil"
+      }
+    },
+    {
+      "name": "The_Devil/Sathan",
+      "description": "The-figure-of-the-the-devil, in the context-of-a-'league'leagued-with-witches, and as thes_e_entities_array_undermining_unreliable-of-the_mind-under-the-influence-of-the-melancholic-humor.",
+      "source_ref": "page 144",
+      "attributes": {}
+    },
+    {
+      "name": "the_Devil/Sathan",
+      "type": "spirit",
+      "description": "The-figure-of-the-devil, in the context-of-a-'league'leagued-with-witches, and as the_e_entities_array_undermining_the_divine_power.",
+      "source_ref": "page 144",
+      "attributes": {}
+    },
+    {
+      "name": "The_Devil/Sathan",
+      "type": "spirit",
+      "description": "The-figure-of-the-the-devil, in the context-of-a-'league'leagued-with_witches-and-as_e_entities_array_undermining_the_divine_power.",
+      "source_ref": "page 144",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}

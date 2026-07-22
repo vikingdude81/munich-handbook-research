@@ -1,0 +1,41 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 38,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "adversaries/betting_on_side_observers",
+      "type": "person",
+      "description": "Part of a confederate network in card games, working to signal information to the player.",
+      "source_ref": "Chapter 27, Page 370",
+      "attributes": {
+        "role": "deceivers/signallers"
+      }
+    },
+    {
+      "name": "planets/celestial_bodies",
+      "type": "concept/celestial_body",
+      "description": "Celestial bodies mentioned in an incantation/charm-like words used during juggling, representing a planetary or astrological-related concept. ",
+      "source_ref": "Page 365, 365",
+      "attributes": {
+        "members": [
+          "Saturn, Jupiter, Mars, Sol, Venus, Mercurie, Luna"
+        ]
+      }
+    },
+    {
+      "name": "ball/small_ball",
+      "type": "material",
+      "description": "A small object used in juggling feats, which can be 'swelled' or 'conveyed' through sleight of hand.",
+      "source_ref": "Page 362, 362",
+      "attributes": {
+        "size": "can be made to seem to swell/great",
+        "nature": "can be 'conveyed' or 'vanishing' into nothingness"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}

@@ -1,0 +1,232 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 8,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Jannes and Jambres",
+      "type": "person",
+      "description": "False prophets mentioned in relation to miracles and plagues (serpents and frogs)",
+      "source_ref": "page 318",
+      "attributes": {}
+    },
+    {
+      "name": "Pharaos magicians",
+      "type": "person",
+      "description": "Magicians of Pharaoh compared to witches in terms of cunning and juggling knacks",
+      "source_ref": "page 317",
+      "attributes": {
+        "nature": "cunning via juggling knacks"
+      }
+    },
+    {
+      "name": "Erasmus",
+      "type": "person",
+      "description": "Author of a story regarding two Alcumysts and the phenomena of longation and curtation",
+      "source_ref": "page 361",
+      "attributes": {}
+    },
+    {
+      "name": "Bealphares",
+      "type": "spirit",
+      "description": "A spirit that can be bound or lost, mentioned in an experiment",
+      "source_ref": "page 415/418",
+      "attributes": {
+        "actions": [
+          "can be bound",
+          "can be lost"
+        ]
+      }
+    },
+    {
+      "name": "Paymon",
+      "type": "spirit",
+      "description": "One of three spirits that can be raised with wonderful things effected through their assistance",
+      "source_ref": "Appendix I, Chap. III",
+      "attributes": {}
+    },
+    {
+      "name": "Bathin",
+      "type": "spirit",
+      "description": "One of three spirits that can be raised with wonderful things effected through their assistance",
+      "source_ref": "Appendix I, Chap. III",
+      "attributes": {}
+    },
+    {
+      "name": "Barma",
+      "type": "spirit",
+      "description": "One of three spirits that can be raised with wonderful things effected through their assistance",
+      "source_ref": "Appendix I, Chap. III",
+      "attributes": {}
+    },
+    {
+      "name": "Luridan",
+      "type": "spirit",
+      "description": "A spirit that can be made a familiar; also associated with Belelah",
+      "source_ref": "Appendix I, Chap. VIII",
+      "attributes": {}
+    },
+    {
+      "name": "Belelah",
+      "type": "spirit",
+      "description": "Another name for the familiar Luridan",
+      "source_ref": "Appendix I, VIII",
+      "attributes": {}
+    },
+    {
+      "name": "Balkin",
+      "type": "spirit",
+      "description": "The Master of Luridan",
+      "source_ref": "Appendix I, IX",
+      "attributes": {}
+    },
+    {
+      "name": "John Baptist",
+      "type": "person",
+      "description": "Subject of a juggling trick called 'the decollation of John Baptist'",
+      "source_ref": "page 349",
+      "attributes": {}
+    },
+    {
+      "name": "S. Margaret",
+      "type": "person",
+      "description": "Subject of a story involving fighting a real devil and a miracle wrought by a priest",
+      "source_ref": "page 455/457",
+      "attributes": {}
+    },
+    {
+      "name": "S. Lucie",
+      "type": "person",
+      "description": "Subject of a strange story following a miracle of S. Margaret",
+      "source_ref": "page 461",
+      "attributes": {}
+    },
+    {
+      "name": "Cornelius Agrippa",
+      "type": "person",
+      "description": "Author whose writings on magic are mentioned in relation to Nero",
+      "source_ref": "page 452",
+      "attributes": {}
+    },
+    {
+      "name": "Carolus Gallus",
+      "type": "person",
+      "description": "Author whose writings on magic are mentioned in relation to Nero",
+      "source_ref": "page 452",
+      "attributes": {}
+    },
+    {
+      "name": "James Sprenger",
+      "type": "person",
+      "description": "Inquisitor and compiler of Malleus Maleficarum",
+      "source_ref": "page 470",
+      "attributes": {}
+    },
+    {
+      "name": "Henry Institor",
+      "type": "person",
+      "description": "Inquisitor and compiler of Malleus Maleficarum",
+      "source_ref": "page 470",
+      "attributes": {}
+    },
+    {
+      "name": "Psellus",
+      "description": "Philosopher whose opinions on spirits are discussed and disproved",
+      "type": "person",
+      "source_ref": "page 492/495",
+      "attributes": {}
+    },
+    {
+      "name": "Plato",
+      "type": "person",
+      "description": "Philosopher whose opinions on spirits, devils, and angels are discussed",
+      "source_ref": "page 498/500",
+      "attributes": {
+        "contribution": "nine orders of spirits and angels"
+      }
+    },
+    {
+      "name": "Socrates",
+      "type": "person",
+      "description": "Philosopher mentioned in relation to having a familiar devil",
+      "source_ref": "page 498",
+      "attributes": {}
+    },
+    {
+      "name": "John Calvin",
+      "type": "person",
+      "description": "Theologian whose opinion on the devil is mentioned",
+      "source_ref": "page 539",
+      "attributes": {}
+    },
+    {
+      "name": "Alcumystrie",
+      "type": "concept",
+      "description": "The art of alchemy/alchemists, involving words and devices to deceive eyes",
+      "source_ref": "page 353",
+      "attributes": {}
+    },
+    {
+      "name": "Conjuration",
+      "type": "ritual",
+      "description": "The act of calling or binding spirits, often discussed in a critical context",
+      "source_ref": "page 376/430",
+      "attributes": {}
+    },
+    {
+      "name": "Juggling knacks",
+      "type": "ritual",
+      "description": "Deceptive tricks or sleight of hand used to simulate magic",
+      "source_ref": "page 321/338",
+      "attributes": {}
+    },
+    {
+      "name": "Theurgy",
+      "type": "ritual",
+      "description": "A form of magic or divine work, discussed with a confutation",
+      "source_ref": "page 466",
+      "attributes": {}
+    },
+    {
+      "name": "Magical Circles",
+      "type": "ritual",
+      "description": "Instruments used for the institution of magic and raising spirits",
+      "source_ref": "Appendix I, Ch. I",
+      "attributes": {}
+    },
+    {
+      "name": "Witchcraft",
+      "type": "concept",
+      "description": "The practice of using supernatural powers, which the author seeks to define and disprove",
+      "source_ref": "page 471/483",
+      "attributes": {
+        "author_view": "flat cousenage (deceit)"
+      }
+    },
+    {
+      "name": "Alchemical stones and waters",
+      "type": "material",
+      "description": "Substances associated with the art of Alcumysterie",
+      "source_ref": "page 355",
+      "attributes": {}
+    },
+    {
+      "name": "Christall stone",
+      "type": "material",
+      "description": "A medium used to inclose a spirit",
+      "source_ref": "page 411/428",
+      "attributes": {}
+    },
+    {
+      "name": "Holy water",
+      "type": "material",
+      "description": "Substance used in religious and exorcism rituals",
+      "source_ref": "page 421",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage is a table of contents and excerpt from Reginald Scot's 'Discoverie of Witchcraft', detailing various 'juggling knacks' (sleight of hand), alchemical deceptions, and the practices of conjuration. The text systematically lists and then provides critical refutations for various magical claims, including the binding of spirits like Bealphares and the existence of demonic powers, ultimately arguing that witchcraft is a form of deception or 'cousenage'.",
+  "key_passages": [],
+  "_truncated": true
+}

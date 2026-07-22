@@ -1,0 +1,39 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 65,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Faeries",
+      "type": "spirit",
+      "description": "Spirits that inhabit Mountains and Caverns, capable of making strange Apparitions in the form of Men, Women, Soldiers, Kings, and Ladies, Children, and Horse-men cloathed in green. They are known for stealing hempen stalks to convert them into Horses.",
+      "source_ref": "page 608",
+      "attributes": {
+        "appearance": [
+          "Men",
+          "Women",
+          "Soldiers",
+          "Kings",
+          "Lady",
+          "Children",
+          "Horse-men cloathed in green"
+        ],
+        "actions": [
+          "making strange Apparitions",
+          "stealing hempen stalks to convert into Horses"
+        ]
+      }
+    },
+    {
+      "name": "Hobgoblins",
+      "type": "spirit",
+      "description": "Spirits that can take away children, leaving behind changelings or lunaticks.",
+      "source_ref": "page 608",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage from Reginald Scot's 'Discoverie of Witchcraft' provides a detailed classification and description of various types of and hierarchies of spirits, including Aerial, Terrestrial, Fiery, and Water spirits. It describes their habitats, natures, and, and their behaviors, ranging from harmless to malevolent, and includes historical/mythological references to legends of a ring lost at a statue of Venus and the familiar 'Hurtgail'.",
+  "key_passages": [],
+  "_truncated": true
+}

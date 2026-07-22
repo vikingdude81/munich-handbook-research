@@ -1,0 +1,21 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 22,
+  "has_relevant_content": true,
+  "entities": [],
+  "relationships": [
+    {
+      "name": "Feats",
+      "relation": "sold familiar to",
+      "to": "Dr. Burcot"
+    },
+    {
+      "name": "Mother Alice",
+      "relation": "is a peer of",
+      "to": "Witch of Endor"
+    }
+  ],
+  "summary": "This passage from Reginald Scot's 'Discoverie of Witchcraft' provides a skeptical, rationalist deconstruction of the biblical account of the Witch of Endor. Scot argues that the conjuration and the subsequent appearance of Samuel was not a supernatural event but a result of trickery, ventriloquism, and ventriloquial deception by the witch and her confederate priest. He also addresses various folklore 'bugges' and lists numerous spirits, and concludes with a theological argument regarding the absence of modern miracles.",
+  "key_passages": [],
+  "_truncated": true
+}

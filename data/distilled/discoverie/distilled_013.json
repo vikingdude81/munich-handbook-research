@@ -1,0 +1,88 @@
+{
+  "source_id": "discoverie",
+  "chunk_id": 13,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Tatian",
+      "type": "person",
+      "description": "An author or figure cited regarding the nature of the devil's body.",
+      "source_ref": "Page 135, Chapter 6",
+      "attributes": {
+        "claim": "affirms the devil's body consists of spiritual congealments of fire and air"
+      }
+    },
+    {
+      "name": "Aristotle",
+      "type": "person",
+      "description": "A philosopher cited regarding the effects of melancholic passions.",
+      "source_ref": "Page 136, Chapter 7",
+      "attributes": {
+        "claim": "states that melancholic moods can lead to certain behaviors in persons subject to it"
+      }
+    },
+    {
+      "name": "Ade Davie",
+      "type": "person",
+      "description": "A Kentish woman who believed she had bargained her soul to the devil due to a melancholic episode.",
+      "source_ref": "[Page 141-142]",
+      "attributes": {
+        "role": "subject of a case study",
+        "condition": "melancholic/pensive"
+      }
+    },
+    {
+      "name": "Simon Davie",
+      "type": "person",
+      "description": "Husband of Ade Davie.",
+      "source_ref": "[Page 141-142]",
+      "attributes": {
+        "role": "witness/husband"
+      }
+    },
+    {
+      "name": "Ant. Houin",
+      "type": "person",
+      "description": "A witch executed in 1565 who confessed to causing weather phenomena.",
+      "source_ref": "Page 141",
+      "attributes": {
+        "crime": "raising tempests and frosts"
+      }
+    },
+    {
+      "name": "melancholie",
+      "type": "concept",
+      "description": "A medical/psychological condition described as causing false imaginations, delusions, and irrational behaviors.",
+      "source_ref": "Chapter 9",
+      "attributes": {
+        "effects": [
+          "deprives or depraves judgment and senses",
+          "deceives the mind",
+          "can cause people to imagine they are monarchs, beasts, or earthen pots"
+        ]
+      }
+    },
+    {
+      "name": "the devil's covenant/bargain",
+      "type": "ritual",
+      "description": "The alleged agreement between witches and the devil, which Scot argues is unproven and often based on false confessions.",
+      "source_ref": "Chapter 6",
+      "attributes": {
+        "nature": "alleged league/fellowship; described by some as involving physical contact with the devil"
+      }
+    },
+    {
+      "name": "transubstantiation",
+      "type": "concept",
+      "description": "An impossible claim made in witches' confessions, used by Scot to argue against the validity of proofs.",
+      "source_ref": "Chapter 7",
+      "attributes": {
+        "action": "transubstantiating themselves"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "In this passage from Reginald Scot's 'Discoverie of Witchcraft', the author argues against the validity of witchcraft_ref",
+  "key_passages": [],
+  "_truncated": true
+}
