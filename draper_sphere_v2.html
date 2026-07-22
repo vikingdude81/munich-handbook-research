@@ -188,7 +188,27 @@ function getGrimoire(pos, moon) {
 
 /* ═══ WOODCUT DECORATIONS ═══ */
 function WBorder(){return(<svg viewBox="0 0 500 20" style={{width:"100%",height:18,display:"block",opacity:0.35}}>{Array.from({length:50},(_,i)=>{const x=i*10+5;return(<g key={i}><line x1={x-3} y1={7} x2={x} y2={3} stroke="#3a2810" strokeWidth="1"/><line x1={x} y1={3} x2={x+3} y2={7} stroke="#3a2810" strokeWidth="1"/><circle cx={x} cy={14} r={0.8} fill="#3a2810"/></g>);})}</svg>);} 
-function WDiv(){return(<svg viewBox="0 0 400 16" style={{width:"100%",maxWidth:260,height:14,display:"block",margin:"8px auto",opacity:0.3}}><line x1={20} y1={8} x2={175} y2={8} stroke="#3a2810" strokeWidth="0.7"/><line x1={225} y1={8} x2={380} y2={8} stroke="#3a2810" strokeWidth="0.7"/><circle cx={200} cy={8} r={4} fill="none" stroke="#3a2810" strokeWidth="0.8"/><circle cx={200} cy={8} r={1.5} fill="#3a2810"/></svg>);} 
+function WDiv(){return(<svg viewBox="0 0 400 16" style={{width:"100%",maxWidth:260,height:14,display:"block",margin:"8px auto",opacity:0.3}}><line x1={20} y1={8} x2={175} y2={8} stroke="#3a2810" strokeWidth="0.7"/><line x1={225} y1={8} x2={380} y2={8} stroke="#3a2810" strokeWidth="0.7"/><circle cx={200} cy={8} r={4} fill="none" stroke="#3a2810" strokeWidth="0.8"/><circle cx={200} cy={8} r={1.5} fill="#3a2810"/></svg>);}
+
+/* ══════ CONJURING CIRCLE (restored from v1 — Scot, Discoverie Bk XV) ══════ */
+function ConjCircle(){
+  const sz=340,cx=sz/2,cy=sz/2;
+  const rings=[148,128,105,78,48];
+  const dirs=[{l:"North",a:-90},{l:"East",a:0},{l:"South",a:90},{l:"West",a:180}];
+  const names=DIVN.filter(d=>d.p!=="C");
+  return(
+    <svg viewBox={"0 0 "+sz+" "+sz} style={{width:"100%",maxWidth:320}}>
+      {rings.map((r,i)=>(<circle key={i} cx={cx} cy={cy} r={r} fill="none" stroke={i===0?"#5a4a2a":"#8a7a5a"} strokeWidth={i===0?2:0.6}/>))}
+      <line x1={cx} y1={cy-148} x2={cx} y2={cy+148} stroke="#8a7a5a" strokeWidth="0.4"/>
+      <line x1={cx-148} y1={cy} x2={cx+148} y2={cy} stroke="#8a7a5a" strokeWidth="0.4"/>
+      {dirs.map(c=>{const a=c.a*Math.PI/180;return(<text key={c.l} x={cx+156*Math.cos(a)} y={cy+156*Math.sin(a)} textAnchor="middle" dominantBaseline="central" fill="#5a4a2a" fontSize="8" style={{fontFamily:"'IM Fell English',serif",letterSpacing:2,textTransform:"uppercase"}}>{c.l}</text>);})}
+      {names.map((d,i)=>{const a=((i*51.4)-90)*Math.PI/180;const x=cx+118*Math.cos(a),y=cy+118*Math.sin(a);return(<text key={d.n} x={x} y={y} textAnchor="middle" dominantBaseline="central" fill="#8b6914" fontSize="7" transform={"rotate("+(i*51.4)+","+x+","+y+")"} style={{fontFamily:"'IM Fell English',serif",fontStyle:"italic"}}>{d.n}</text>);})}
+      {[0,1,2,3,4].map(i=>{const a1=((i*72)-90)*Math.PI/180,a2=(((i+2)*72)-90)*Math.PI/180;return(<line key={"p"+i} x1={cx+43*Math.cos(a1)} y1={cy+43*Math.sin(a1)} x2={cx+43*Math.cos(a2)} y2={cy+43*Math.sin(a2)} stroke="#5a4a2a" strokeWidth="0.7"/>);})}
+      <text x={cx} y={cy-3} textAnchor="middle" fill="#3a2810" fontSize="9" style={{fontFamily:"'IM Fell English',serif",fontWeight:600}}>Magister</text>
+      <text x={cx} y={cy+9} textAnchor="middle" fill="#8a7a5a" fontSize="6" style={{fontFamily:"'IM Fell English',serif"}}>Operator</text>
+    </svg>
+  );
+} 
 
 /* ═══ WHEEL ═══ */
 function Wheel({pos,label,hlP,selZ,selP,onCZ,onCP}){
@@ -201,8 +221,8 @@ function Wheel({pos,label,hlP,selZ,selP,onCZ,onCP}){
     <svg viewBox={"0 0 "+sz+" "+sz} style={{width:"100%",maxWidth:380}}>
       <defs>
         <radialGradient id="cg"><stop offset="0%" stopColor="#8b691418"/><stop offset="100%" stopColor="transparent"/></radialGradient>
-        <filter id="gl"><feGaussianBlur stdDeviation="1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-        <filter id="glB"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+        <filter id="gl"><feGaussianBlur stdDeviation="1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+        <filter id="glB"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
       </defs>
       {ticks}
       <circle cx={cx} cy={cy} r={oR} fill="none" stroke="#5a4a2a" strokeWidth="1.5"/>
@@ -317,12 +337,12 @@ function App() {
   const [selP, sSelP] = useState(null);
 
   const pos = mode === "draper" ? DP : mode === "today" ? TP : (cP || DP);
-  const label = mode === "draper" ? "May 30, 1561" : mode === "today" ? "May 22, 2026" : (cL || "Select date");
+  const label = mode === "draper" ? "May 30, 1561 (Julian)" : mode === "today" ? "May 22, 2026" : (cL || "Select date");
   const selHP = sD !== null && sH !== null ? gPH(sD, sH) : null;
   const clickZ = (i) => { sSelZ(selZ === i ? null : i); sSelP(null); };
   const clickP = (n) => { sSelP(selP === n ? null : n); sSelZ(null); };
 
-  const tabs = [["sphere","Sphere"],["reading","Reading"],["bruno","Bruno"],["angels","Angels"],["hours","Hours"],["cipher","Cipher"]];
+  const tabs = [["sphere","Sphere"],["reading","Reading"],["bruno","Bruno"],["angels","Angels"],["circle","Circle"],["hours","Hours"],["cipher","Cipher"]];
 
   return (
     <div className="grimoire">
@@ -564,6 +584,23 @@ function App() {
                 </div>
               );
             })}
+          </div>
+        )}
+
+        {tab === "circle" && (
+          <div>
+            <div className="sl">The Conjuring Circle</div>
+            <div style={{fontSize:11,color:"#8a7a5a",marginBottom:8,fontStyle:"italic"}}>From Discoverie of Witchcraft, Book XV — "Conjuring for a Spirit"</div>
+            <div style={{display:"flex",justifyContent:"center"}}><ConjCircle/></div>
+            <WDiv/>
+            <div style={{marginTop:4}}>
+              {DIVN.map(d=>(<div key={d.n} style={{display:"flex",gap:8,padding:"4px 0",borderBottom:"1px solid #c4a86815"}}>
+                <span style={{fontSize:11,color:"#8b6914",width:28,textAlign:"center"}}>{d.p}</span>
+                <span style={{fontSize:12,color:"#3a2810",minWidth:100}}>{d.n}</span>
+                <span style={{fontSize:10,color:"#8a7a5a",flex:1}}>{d.d}</span>
+              </div>))}
+            </div>
+            <div className="ib"><strong>Context:</strong> Draper's sphere tells you WHEN to work. The conjuring circle tells you HOW. The operator stands at center (Magister), surrounded by divine names as authority and protection. The pentagram and concentric rings create geometric containment.</div>
           </div>
         )}
 
