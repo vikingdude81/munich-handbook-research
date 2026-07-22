@@ -2,7 +2,7 @@
 tools/source_distill.py — Source text distillation tools.
 
 Lets the brain list pre-chunked source texts and distill them through the
-120B Thinker on the 5090.  Workers never touch raw source — they only see
+configured reasoning model (see config.py; last recorded: gemma-4-26b).  Workers never touch raw source — they only see
 the structured extractions the thinker produces.
 
 Tools: list_source_chunks, read_source_chunk, distill_source_chunk
@@ -13,10 +13,23 @@ import logging
 import os
 
 from openai import OpenAI
-from qwen_agent.tools.base import BaseTool, register_tool
-
 import config
-from tools._common import parse_tool_params
+import json
+
+class BaseTool:
+    def __init__(self): pass
+    def call(self, params, **kwargs): raise NotImplementedError()
+
+TOOL_REG_MAP = {}
+def register_tool(name):
+    def decorator(cls):
+        TOOL_REG_MAP[name] = cls
+        return cls
+    return decorator
+
+def parse_tool_params(params_str: str) -> dict:
+    try: return json.loads(params_str)
+    except: return {}
 
 log = logging.getLogger(__name__)
 
@@ -148,7 +161,7 @@ class ReadSourceChunk(BaseTool):
 @register_tool('distill_source_chunk')
 class DistillSourceChunk(BaseTool):
     description = (
-        'Send a source text chunk to the 120B Thinker (5090) for distillation. '
+        'Send a source text chunk to the configured reasoning model for distillation. '
         'The thinker reads the raw text and extracts structured data relevant to '
         'your research goal: names, attributes, page references, experiments, rituals, etc. '
         'Results are saved to the project and returned. '
@@ -210,7 +223,17 @@ class DistillSourceChunk(BaseTool):
         with open(chunk_file, "r", encoding="utf-8", errors="replace") as f:
             chunk_text = f.read()
 
-        # Send to the 120B Thinker for distillation
+        # Strip the ingestion header / page markers / OCR garbage so they don't
+        # pollute extraction (canonical cleaner; best-effort if src not importable).
+        try:
+            import sys as _sys
+            _sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+            from src.chunking import clean_source_text
+            chunk_text = clean_source_text(chunk_text)
+        except Exception:
+            pass
+
+        # Send to the configured reasoning model for distillation
         server = getattr(config, 'REASONING_SERVER', '')
         model_id = getattr(config, 'REASONING_MODEL_ID', '')
         api_key = getattr(config, 'REASONING_API_KEY', 'lm-studio')
@@ -410,7 +433,7 @@ class DistillSourceChunk(BaseTool):
 @register_tool('batch_distill_source')
 class BatchDistillSource(BaseTool):
     description = (
-        'Distill ALL chunks of a source through the 120B Thinker, one at a time. '
+        'Distill ALL chunks of a source through the configured reasoning model, one at a time. '
         'This is the bulk extraction tool — runs through every chunk and saves structured '
         'extractions to disk. Can resume from where it left off (skips already-distilled chunks). '
         'Use this when starting research on a new source. Returns a summary of what was found.'

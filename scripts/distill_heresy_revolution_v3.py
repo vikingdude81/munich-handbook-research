@@ -446,6 +446,26 @@ def cross_document_analysis():
     print(f"  Malleus: {malleus_scapegoats[:10]}")
     print(f"  Marx:    {marx_scapegoats[:10]}")
 
+    # ── Data-derived interpretation (was a hard-coded conclusion that always
+    #    "confirmed" the thesis regardless of the numbers). Now describes what
+    #    the measured deltas actually show, with explicit caveats about the
+    #    instrument so the output cannot pre-decide the finding.
+    similar = abs(entropy_delta) < 0.5 and abs(void_delta) <= 5
+    direction = "indistinguishable" if similar else (
+        "more destructive in Marx" if entropy_delta > 0 else "more destructive in Malleus")
+    interpretation = (
+        f"Measured average-entropy delta is {entropy_delta:+.2f} and void-chunk delta "
+        f"is {void_delta:+d}; on these metrics the two texts are {direction}. "
+        "CAVEAT: scores come from a 1-10 rubric applied by a single small judge "
+        "model (nemotron nano) at temperature 0.1, with no control corpus and no "
+        "inter-rater check. Rubric-anchoring drives scores toward the central "
+        "'heavy deconstruction' band (observed max entropy = "
+        f"{max(ms['max_entropy'], xs['max_entropy'])}, never reaching 9-10), so a "
+        "small delta is the expected output of the instrument and is NOT, on its "
+        "own, evidence that the texts share a psychological mechanism. The "
+        "witch->bourgeoisie scapegoat mapping is an interpretive hypothesis, not a "
+        "result derived from these numbers."
+    )
     analysis = {
         "malleus_stats":   ms,
         "marx_stats":      xs,
@@ -453,14 +473,7 @@ def cross_document_analysis():
         "void_delta":      void_delta,
         "malleus_scapegoats": malleus_scapegoats,
         "marx_scapegoats":   marx_scapegoats,
-        "interpretation": (
-            f"Both texts exhibit high deconstructionist entropy. "
-            f"Marx's entropy delta of {entropy_delta:+.2f} and {void_delta:+d} additional "
-            f"void-chunks confirm the ressentiment hypothesis: revolutionary rhetoric "
-            f"maintains high intensity without proportional constructive blueprints. "
-            f"The scapegoat rotation (Witch/Satan → Bourgeoisie/Capital) is structurally "
-            f"identical; only the theological frame shifts to economic materialism."
-        ),
+        "interpretation": interpretation,
     }
 
     analysis_path = out_dir / "cross_document_analysis.json"

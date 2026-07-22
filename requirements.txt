@@ -1,10 +1,27 @@
 # Munich Handbook Research Project
 # Infernal Topology × Lattice-Governed Inference
 
+# ── Core data / numerics ────────────────────────────────────────────
 numpy>=1.20.0
 scipy>=1.7.0
-minisom>=0.3.0
 matplotlib>=3.4.0
-requests>=2.28.0
+
+# ── SOM topology ────────────────────────────────────────────────────
+minisom>=0.3.0
+
+# ── LLM distillation (OpenAI-compatible endpoint, e.g. LM Studio) ────
+openai>=1.0.0
+
+# ── Data models / validation ────────────────────────────────────────
+pydantic>=2.0.0
+
+# ── PDF / source ingestion ──────────────────────────────────────────
+PyMuPDF>=1.23.0      # `import fitz` — primary extractor (source_prep.py)
+PyPDF2>=3.0.0        # heresy/revolution ingest (ingest_heresy_revolution.py)
+
+# ── Graph build / viz ───────────────────────────────────────────────
 networkx>=3.0
 pyvis>=0.3.2
+
+# ── HTTP (qrng_source.py) ───────────────────────────────────────────
+requests>=2.28.0

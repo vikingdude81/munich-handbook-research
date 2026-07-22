@@ -54,7 +54,7 @@ def batch_distill_chunk(project_dir, chunk_id):
     return result.returncode == 0, result.stdout + result.stderr
 
 def main():
-    project_dir = r'E:\munich_handbook_research'
+    project_dir = r'C:\Users\akbon\OneDrive\Documents\GitHub\munich-handbook-research'
     distill_dir = Path(project_dir) / 'distillations'
     
     existing_ids, missing_ids = check_distilled_chunks(project_dir)

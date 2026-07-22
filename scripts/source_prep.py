@@ -18,6 +18,14 @@ import json
 import textwrap
 import logging
 
+# Canonical text cleaner (strips OCR garbage / page markers before chunking).
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+try:
+    from src.chunking import clean_source_text
+except Exception:  # pragma: no cover - cleaning is best-effort
+    def clean_source_text(t, **_):
+        return t
+
 log = logging.getLogger(__name__)
 
 # ---------------------------------------------------------------
@@ -149,6 +157,10 @@ def prep_source(source_def: dict, output_dir: str) -> dict:
     if not text.strip():
         log.warning("No text extracted from %s", src_path)
         return {"id": src_id, "status": "empty", "path": src_path}
+
+    # Clean OCR/encoding garbage and page markers before chunking so they never
+    # reach the extraction prompt.
+    text = clean_source_text(text)
 
     # Chunk it
     chunks = chunk_text(text)

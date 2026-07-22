@@ -1,8 +1,12 @@
 """Audit summoning, experiment, and conjuration data from the unified database."""
 import json
+import os
 from collections import Counter, defaultdict
 
-db = json.load(open(r"E:\munich_handbook_research\data\unified_entities.json", "r", encoding="utf-8"))
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+_DB_PATH = os.environ.get("MHR_UNIFIED_DB",
+                          os.path.join(_ROOT, "data", "unified_entities.json"))
+db = json.load(open(_DB_PATH, "r", encoding="utf-8"))
 entities = db["entities"]
 rels = db["relationships"]
 

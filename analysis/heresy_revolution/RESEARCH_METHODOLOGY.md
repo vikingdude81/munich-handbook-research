@@ -116,10 +116,35 @@ For each chunk, we extract:
 - **Entropy Parity:** Both texts maintain similar entropy profiles when controlling for chunk type
 - **The Cascade:** Both texts designed to catalyze social contagion by amplifying grievance
 
+## ⚠️ Methodology limitations (read before citing any finding)
+
+The entropy/intensity parity between the two texts (avg entropy 7.31 vs 7.23,
+both capped at 8) is **substantially an artifact of the measurement instrument**,
+not yet an established empirical result. Before any conclusion here is defensible:
+
+1. **No control corpus.** The scores have never been shown to *discriminate*.
+   A neutral text (a tax code, a gardening manual) must be run through the
+   identical pipeline; if it also scores ~7, the metric is meaningless. This is
+   the single most important missing experiment.
+2. **Single small judge model.** Scoring is done by `nemotron nano` at
+   temperature 0.1. Small models anchor to the rubric's described mid-band, which
+   is exactly why both texts cluster at 7-8 and never reach 9-10. Re-score with a
+   larger model and with multiple models; report agreement.
+3. **No inter-rater reliability.** Run each chunk through ≥3 seeds/models and
+   report variance. A finding inside the noise band is not a finding.
+4. **The scapegoat mapping (witch ↔ bourgeoisie) is an interpretive hypothesis**,
+   not something the numbers demonstrate. State it as such.
+
+The `interpretation` field emitted by `cross_document_analysis()` is now derived
+from the measured deltas with these caveats inline (it previously hard-coded a
+conclusion that "confirmed the hypothesis" regardless of the data).
+
 ## Sources
 
-- **Malleus Maleficarum (1486):** Heinrich Kramer & Jacob Sprenger — PDF: `c:\Users\akbon\Downloads\The Malleus Maleficarum.pdf`
-- **Selected Works of Karl Marx (emphasis on Communist Manifesto & economic critique):** Karl Marx — PDF: `c:\Users\akbon\Downloads\selected-works-karl-marx.pdf`
+- **Malleus Maleficarum (1486):** Heinrich Kramer & Jacob Sprenger — PDF in the
+  user's Downloads (path is machine-local; set per environment).
+- **Selected Works of Karl Marx (emphasis on Communist Manifesto & economic
+  critique):** Karl Marx — PDF in the user's Downloads (machine-local path).
 
 ---
 

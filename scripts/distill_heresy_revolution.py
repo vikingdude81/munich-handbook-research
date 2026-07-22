@@ -20,41 +20,31 @@ logging.basicConfig(level=logging.INFO, format='%(levelname)-5s %(message)s')
 logger = logging.getLogger(__name__)
 
 
-EXTRACTION_PROMPT_TEMPLATE = """You are an analytical engine analyzing historical texts for deconstructionist and constructive rhetoric patterns.
+EXTRACTION_PROMPT_TEMPLATE = """Analyze this historical text chunk. Classify it and extract key metrics.
 
-Your task: Evaluate the provided text chunk and classify its operational utility, extracting specific indicators of either critique/destruction or building/governance.
-
-Definitions:
-- Deconstructionist Rhetoric: Text focused on criticizing, dismantling, or exposing flaws of the current system, hierarchy, or enemy. Points out failure points but does not explain how to govern.
-- Constructive Mechanisms: Text focused on building, governing, or maintaining a functional replacement system. Contains specific rules, administrative structures, or protocols.
-
-Analyze the chunk and respond with ONLY a valid JSON object (no markdown, no extra text):
+Respond ONLY with a JSON object (no markdown backticks, no extra text):
 
 {
-  "primary_mode": "Deconstruction" | "Construction" | "Mixed" | "Neutral",
-  "deconstruction_targets": ["entities or concepts to destroy/criticize"],
-  "constructive_proposals": ["specific rules, mechanisms, structures for replacement"],
-  "rhetorical_intensity": 1-10,
-  "entropy_score": 1-10,
+  "primary_mode": "Deconstruction",
+  "deconstruction_targets": ["list", "of", "targets"],
+  "constructive_proposals": ["list", "of", "proposals"],
+  "rhetorical_intensity": 7,
+  "entropy_score": 8,
   "semantic_markers_matched": {
-    "deconstructionist": ["matched words from: abolish, dismantle, expose, exploit, parasitic, chains, corrupt, eradicate, overthrow, subvert, illusion, uproot, usurp, tyranny, oppression"],
-    "constructive": ["matched words from: establish, maintain, govern, structure, balance, generate, cultivate, administer, protocol, law, order, sustain, mechanism, framework, principle"]
+    "deconstructionist": ["matched", "words"],
+    "constructive": ["matched", "words"]
   },
   "scapegoat_identified": {
-    "name": "The primary enemy or target of condemnation",
-    "attributes": ["listed evils attributed to the scapegoat"],
-    "justification": "How/why the text justifies focus on this entity"
+    "name": "Enemy entity",
+    "attributes": ["evil", "attributes"],
+    "justification": "Why this is the enemy"
   },
-  "moral_justification": "Summary of how extreme measures are rationalized",
-  "summary": "2-3 sentence analysis of this chunk's contribution to the overall argument"
+  "moral_justification": "How extreme measures are rationalized",
+  "summary": "Brief 1-2 sentence summary"
 }
 
-TEXT TO ANALYZE:
----
-{chunk_text}
----
-
-Respond with only the JSON object."""
+TEXT:
+{chunk_text}"""
 
 
 class HerasyRevolutionDistiller:
@@ -76,19 +66,19 @@ class HerasyRevolutionDistiller:
         'operate', 'rule', 'direct', 'manage', 'control', 'implement'
     }
     
-    def __init__(self, model_name: str = 'qwen3.5:9b'):
+    def __init__(self, model_name: str = 'qwen/qwen3.5-9b', base_url: str = None):
         """Initialize with LM Studio connection."""
         self.model_name = model_name
-        # Will attempt to connect to local LM Studio instance
-        self.base_url = 'http://localhost:8000'
+        # LM Studio instance URL
+        self.base_url = base_url or 'http://192.168.50.150:1234'
         self.client = None
         
         try:
             from openai import OpenAI
             self.client = OpenAI(base_url=self.base_url, api_key='lm-studio')
-            logger.info(f"Initialized LM Studio client ({model_name})")
+            logger.info(f"Initialized LM Studio client ({model_name}) at {self.base_url}")
         except Exception as e:
-            logger.warning(f"LM Studio connection failed: {e}")
+            logger.warning(f"LM Studio connection failed ({self.base_url}): {e}")
     
     def extract_chunk_analysis(self, chunk_text: str, chunk_id: str) -> Optional[Dict[str, Any]]:
         """Extract analysis for a single chunk using LLM."""
@@ -97,24 +87,28 @@ class HerasyRevolutionDistiller:
             return None
         
         try:
-            prompt = EXTRACTION_PROMPT_TEMPLATE.format(chunk_text=chunk_text[:2000])
+            # Truncate chunk to avoid token limits
+            truncated_text = chunk_text[:1500]
+            prompt = EXTRACTION_PROMPT_TEMPLATE.format(chunk_text=truncated_text)
             
             response = self.client.chat.completions.create(
                 model=self.model_name,
                 messages=[{'role': 'user', 'content': prompt}],
                 temperature=0.3,
-                max_tokens=1000
+                max_tokens=800
             )
             
             response_text = response.choices[0].message.content.strip()
             
-            # Extract JSON from response (handle markdown wrapping)
-            json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+            # Try to extract JSON - more robust regex
+            json_match = re.search(r'\{[\s\S]*\}', response_text)
             if not json_match:
-                logger.warning(f"  [{chunk_id}] No JSON found in response")
+                logger.debug(f"  [{chunk_id}] No JSON match. Response: {response_text[:100]}")
                 return None
             
-            analysis = json.loads(json_match.group())
+            json_str = json_match.group()
+            analysis = json.loads(json_str)
+            
             logger.info(f"  [{chunk_id}] entropy={analysis.get('entropy_score', '?')}, "
                        f"intensity={analysis.get('rhetorical_intensity', '?')}, "
                        f"mode={analysis.get('primary_mode', '?')}")
@@ -122,10 +116,10 @@ class HerasyRevolutionDistiller:
             return analysis
         
         except json.JSONDecodeError as e:
-            logger.warning(f"  [{chunk_id}] JSON decode error: {e}")
+            logger.debug(f"  [{chunk_id}] JSON error at position {e.pos}: {response_text[max(0,e.pos-20):e.pos+20]}")
             return None
         except Exception as e:
-            logger.error(f"  [{chunk_id}] Extraction error: {e}")
+            logger.debug(f"  [{chunk_id}] Error: {type(e).__name__}: {e}")
             return None
     
     def distill_source(self, source_id: str, chunks_dir: Path) -> bool:
@@ -296,13 +290,18 @@ def main():
     )
     parser.add_argument(
         '--model',
-        default='qwen3.5:9b',
+        default='qwen/qwen3.5-9b',
         help='LM Studio model name'
+    )
+    parser.add_argument(
+        '--base-url',
+        default='http://192.168.50.150:1234',
+        help='LM Studio base URL (default: http://192.168.50.150:1234)'
     )
     
     args = parser.parse_args()
     
-    distiller = HerasyRevolutionDistiller(model_name=args.model)
+    distiller = HerasyRevolutionDistiller(model_name=args.model, base_url=args.base_url)
     
     if args.source == 'malleus_maleficarum':
         chunks_dir = Path('data/sources/malleus_marx/malleus_maleficarum')
