@@ -564,6 +564,22 @@ def stage_distill(source_id: str, cfg: dict, client: OpenAI,
 
 def _parse_distill_output(raw: str, source_id: str, chunk_id: int) -> dict:
     """Parse and recover distillation output, handling truncation."""
+    # Some models garble the assistant prefill continuation and then RESTART
+    # with a clean fenced ```json block containing the real extraction. If a
+    # fenced block parses, prefer it over the prefill-glued prefix — otherwise
+    # the garbage prefix wins and the real entities are silently dropped.
+    fence = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", raw, re.DOTALL)
+    if fence:
+        candidate = re.sub(r",\s*([}\]])", r"\1", fence.group(1))
+        try:
+            data = json.loads(candidate)
+            if isinstance(data, dict) and data.get("entities"):
+                data["source_id"] = source_id
+                data["chunk_id"] = chunk_id
+                return data
+        except json.JSONDecodeError:
+            pass
+
     raw = re.sub(r",\s*([}\]])", r"\1", raw)
     try:
         data = json.loads(raw)
