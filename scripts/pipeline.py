@@ -43,7 +43,10 @@ CHUNK_SIZE = 20_000
 CHUNK_OVERLAP = 400
 MAX_CHARS_PER_TRANSLATE = 2000
 MAX_TOKENS_DISTILL = 6000
-MAX_CHARS_PER_DISTILL = 10000
+# Must exceed the largest ingested chunk (discoverie chunks are 25K chars).
+# The old cap of 10000 silently truncated 60% of every discoverie chunk —
+# Scot's Book XV demon catalogue was never even seen by the model.
+MAX_CHARS_PER_DISTILL = 26000
 
 # ══════════════════════════════════════════════════════════════════════════════
 # SOURCE REGISTRY
