@@ -42,7 +42,10 @@ DATA_DIR = ROOT / "data"
 CHUNK_SIZE = 20_000
 CHUNK_OVERLAP = 400
 MAX_CHARS_PER_TRANSLATE = 2000
-MAX_TOKENS_DISTILL = 6000
+# 6000 was too small for catalogue-dense chunks (Scot's Book XV lists ~60
+# demons; the entity array blew the cap and salvage-parsing kept only the
+# empty wrapper). 12000 gives dense chunks room.
+MAX_TOKENS_DISTILL = 12000
 # Must exceed the largest ingested chunk (discoverie chunks are 25K chars).
 # The old cap of 10000 silently truncated 60% of every discoverie chunk —
 # Scot's Book XV demon catalogue was never even seen by the model.
