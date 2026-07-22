@@ -34,8 +34,9 @@ from pathlib import Path
 from openai import OpenAI
 
 # ── Global config ──────────────────────────────────────────────────────────────
-LM_STUDIO_URL = "http://192.168.50.150:1234/v1"
-MODEL = "nvidia/nemotron-3-nano-omni"
+import os as _os
+LM_STUDIO_URL = _os.environ.get("MHR_REASONING_SERVER", "http://192.168.50.150:1234/v1")
+MODEL = _os.environ.get("MHR_REASONING_MODEL_ID", "google/gemma-4-26b-a4b")
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 CHUNK_SIZE = 20_000
