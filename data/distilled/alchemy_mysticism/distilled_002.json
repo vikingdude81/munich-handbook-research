@@ -1,0 +1,119 @@
+{
+  "source_id": "alchemy_mysticism",
+  "chunk_id": 2,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Tria Prima",
+      "type": "system",
+      "description": "The three fundamental principles identified by Paracelsus representing spiritual forces.",
+      "source_ref": "page 15",
+      "attributes": {
+        "components": [
+          "Salt (body/solid)",
+          "Sulphur (soul/combustibility)",
+          "Mercury (intellect/volatile)"
+        ]
+      }
+    },
+    {
+      "name": "Salt",
+      "type": "concept",
+      "description": "The third fundamental principle in Paracelsian doctrine, corresponding to the body.",
+      "source_ref": "page 15",
+      "attributes": {
+        "property": "solid",
+        "symbolic_meaning": "coagulated light of the world, secret central fire, salt of wisdom"
+      }
+    },
+    {
+      "name": "Sulphur",
+      "type": "concept",
+      "description": "A fundamental principle mediating the position of the soul.",
+      "source and attributes": {
+        "property": "greasy, oily combustibility",
+        "role": "soul"
+      },
+      "source_ref": "page 15"
+    },
+    {
+      "name": "Mercury",
+      "type": "concept",
+      "description": "The fluid principle with a propensity to sublimation.",
+      "source_ref": "page 15",
+      "attributes": {
+        "role": "volatile intellect"
+      }
+    },
+    {
+      "name": "Saturn",
+      "type": "planet",
+      "description": "Identified with Chronos, the god of time; represents the outermost circle of the underworld.",
+      "source_ref": "page 16",
+      "attributes": {
+        "associated_concept": "serpent's circle",
+        "nature": "transient, sequential time"
+      }
+    },
+    {
+      "name": "Opus Magnum Phases (Color-based)",
+      "type": "system",
+      "description": "The division of the alchemical work into four stages based on color.",
+      "source_ref": "page 16",
+      "attributes": {
+        "stages": [
+          "nigredo (blackening)",
+          "albedo (whitening)",
+          "citrinitas (yellowing)",
+          "rubedo (reddening)"
+        ]
+      }
+    },
+    {
+      "name": "Pernety's Alchemical/Zodiac System",
+      "type": "system",
+      "description": "A division of 'lower astronomy' mapping 12 alchemical processes to the signs of the zodiac.",
+      "source_ref": "page 16-17",
+      "attributes": {
+        "mappings": [
+          "calcinatio: Aries",
+          "congelatio: Taurus",
+          "fixatio: Gemini",
+          "solutio: Cancer",
+          "digestio: Leo",
+          "distillatio: Virgo",
+          "sublimatio: Libra",
+          "separatio: Scorpio",
+          "ceratio: Sagittarius",
+          "fermentatio: Capricorn",
+          "multiplicatio: Aquarius",
+          "projectio: Pisces"
+        ]
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "type": "symbol",
+      "description": "The sea-monster/serpent representing the celestial, primordial water in Ophite cosmology.",
+      "source_ref": "page 20",
+      "attributes": {
+        "alternative_names": [
+          "Leviathan"
+        ]
+      }
+    },
+    {
+      "name": "Lapis",
+      "type": "concept",
+      "description": "The goal of the alchemical work, achieved by elevating the fallen creation.",
+      "source_ref": "page 15",
+      "attributes": {
+        "process": "sublimation and elevation from prima materia"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "The passage contains information regarding the            - \n    ",
+  "key_passages": [],
+  "_truncated": true
+}

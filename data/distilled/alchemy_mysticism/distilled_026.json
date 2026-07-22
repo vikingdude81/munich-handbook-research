@@ -1,0 +1,121 @@
+{
+  "source_id": "alchemy_mysticism",
+  "chunk_id": 26,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "John Dee",
+      "type": "symbol",
+      "description": "An occultist whose encryption techniques in Monas Hieroglyphica are compared to Joyce's linguistic methods.",
+      "source_ref": "page 319",
+      "attributes": {}
+    },
+    {
+      "name": "Monas Hieroglyphica",
+      "type": "symbol",
+      "description": "A work by John Dee containing encryption techniques and symbolic structures.",
+      "source_ref": "page 319",
+      "attributes": {}
+    },
+    {
+      "name": "Giordano Bruno",
+      "type": "concept",
+      "description": "Philosopher who proposed that the geometrical figure is the visible number and humans can become cooperators of operating nature through numbers.",
+      "source_ref": "page 320",
+      "attributes": {
+        "philosophy": "quadrinity in all things"
+      }
+    },
+    {
+      "name": "the four elements",
+      "type": "system",
+      "description": "Fundamental components of the material world, linked to directions, humours, and stages of the alchemical work.",
+      "source_ref": "page 322",
+      "attributes": {
+        "correspondences": [
+          "Earth",
+          "Water",
+          "Fire",
+          "Air"
+        ]
+      }
+    },
+    {
+      "name": "the four humours",
+      "type": "system",
+      "description": "Biological fluids linked to elements and directions.",
+      "source_ref": "page 322",
+      "attributes": {
+        "correspondences": [
+          "Melancholy",
+          "Phlegm",
+          "Choler",
+          "Sanguis"
+        ]
+      }
+    },
+    {
+      "name": "the four stages of the hermetic Work",
+      "type": "system",
+      "description": "Stages in the alchemical process.",
+      "source_ref": "page 322",
+      "attributes": {
+        "stages": [
+          "Nigredo",
+          "Albedo",
+          "Rubedo",
+          "Peacock's Tail"
+        ]
+      }
+    },
+    {
+      "name": "the four winds",
+      "type": "system",
+      "description": "Winds associated with directions, elements, and humours.",
+      "source_ref": "page 321",
+      "attributes": {
+        "north_wind": "septentrio (cold/snow)",
+        "east_wind": "subsolanus (moderate)",
+        "south_wind": "auster (heavy clouds/light showers)",
+        "west_wind": "Zephyrus (gentlest)"
+      }
+    },
+    {
+      "name": "angel princes",
+      "type": "symbol",
+      "description": "Angels placed above the four winds.",
+      "source_ref": "page 322",
+      "attributes": {
+        "Michael": "above east wind",
+        "Raphael": "above west wind",
+        "Gabriel": "above north wind",
+        "Uriel": "above south wind"
+      }
+    },
+    {
+      "name": "evil spirits",
+      "type": "symbol",
+      "description": "Spirits ruling over the winds.",
+      "source_ref": "page 322",
+      "attributes": {
+        "names": [
+          "Samael",
+          "Azazel",
+          "Azael",
+          "Mahazael"
+        ]
+      }
+    },
+    {
+      "name": "ouroboros",
+      "type": "symbol",
+      "description": "The tail-biter, prototype of endless rotation.",
+      "source_ref": "page 319",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "The passage explores the intersection of literary, alchemical, and geometric symbolism in works like Joyce's Finnegans Wake and the philosophies of Giordano Bruno. It details complex systems of correspondences between elements, winds, humours, and angelic hierarchies.",
+  "key_passages": [],
+  "_truncated": true
+}

@@ -1,0 +1,105 @@
+{
+  "source_id": "alchemy_mysticism",
+  "chunk_id": 4,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Sun",
+      "type": "planet",
+      "description": "A celestial body whose rays can be transformed into water; associated with Sulphur (Sol) and the solar reddening phase.",
+      "source_ref": "page 40",
+      "attributes": {
+        "alchemical_symbol": "Sol",
+        "elemental_aspect": "fiery water/rays"
+      }
+    },
+    {
+      "name": "Moon",
+      "type": "planet",
+      "description": "A celestial body that acts as a collecting tank or well for sunlight; associated with Mercurius (Luna) and the lunar tincture.",
+      "source_ref": "page 40",
+      "attributes": {
+        "alchemical_symbol": "Luna",
+        "function": "collecting tank of living water"
+      }
+    },
+    {
+      "name": "Latona",
+      "type": "symbol",
+      "description": "A code name for the prima materia during the phase of putrefaction and blackening (nigredo).",
+      "source_ref": "page 40",
+      "attributes": {
+        "alchemical_phase": "nigredo/putrefaction"
+      }
+    },
+    {
+      "name": "Sulphur",
+      "type": "symbol",
+      "description": "Identified with the Sun (Sol).",
+      "source_ref": "page 40",
+      "attributes": {}
+    },
+    {
+      "name": "Mercurius",
+      "type": "symbol",
+      "description": "Identified with the Moon (Luna).",
+      "source_ref": "page 40",
+      "attributes": {}
+    },
+    {
+      "name": "Zodiac",
+      "type": "system",
+      "description": "Twelve divisions of the heavens through which material must pass twelve gates to reach fixity.",
+      "source_ref": "page 41",
+      "attributes": {
+        "structure": "twelve gates/stages",
+        "subdivisions": "three decans and thirty degrees per sign"
+      }
+    },
+    {
+      "name": "Horoscope",
+      "type": "concept",
+      "description": "The record of the constellations at the moment of birth, representing man's entanglement in fate.",
+      "source_ref": "page 42",
+      "attributes": {
+        "etymology": "hour-watch",
+        "alternative_terms": [
+          "theme",
+          "genesis"
+        ]
+      }
+    },
+    {
+      "name": "Primum Mobile",
+      "type": "concept",
+      "description": "The outermost planetary orbit, identified with God himself.",
+      "source_ref": "page 45",
+      "attributes": {
+        "function": "embracing all other spheres"
+      }
+    },
+    {
+      "name": "Music of the Spheres",
+      "type": "system",
+      "description": "A theory where planetary orbits produce audible harmonies based on mathematical ratios and orbital speeds.",
+      "source/ref": "page 45-46",
+      "attributes": {
+        "originator": "Pythagoras",
+        "key_mechanism": "vibration and motion of spheres"
+      }
+    },
+    {
+      "name": "Earth's Tone",
+      "type": "symbol",
+      "description": "A specific musical sequence (Mi Fa Mi) assigned by Kepler to the Earth.",
+      "source_ref": "page 46",
+      "attributes": {
+        "symbolism": "Misere and Farnes (hunger)"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "The passage explores the intersection of astronomy, alchemy, and music, detailing how celestial bodies like the Sun and Moon drive alchemical processes (nigredo/Latona). It describes the mathematical harmony of planetary orbits (Music of the Spheres) and the astrological significance of the zodiac and horoscopes in determining human fate.",
+  "key_passages": [],
+  "_truncated": true
+}

@@ -1,0 +1,39 @@
+name,type,description,source_ref,source_id,chunk_id
+Tria Prima,system,The three fundamental principles identified by Paracelsus representing spiritual forces.,page 15,alchemy_mysticism,2
+Salt,concept,"The third fundamental principle in Paracelsian doctrine, corresponding to the body.",page 15,alchemy_mysticism,2
+Sulphur,concept,A fundamental principle mediating the position of the soul.,page 15,alchemy_mysticism,2
+Mercury,concept,The fluid principle with a propensity to sublimation.,page 15,alchemy_mysticism,2
+Saturn,planet,"Identified with Chronos, the god of time; represents the outermost circle of the underworld.",page 16,alchemy_mysticism,2
+Opus Magnum Phases (Color-based),system,The division of the alchemical work into four stages based on color.,page 16,alchemy_mysticism,2
+Pernety's Alchemical/Zodiac System,system,A division of 'lower astronomy' mapping 12 alchemical processes to the signs of the zodiac.,page 16-17,alchemy_mysticism,2
+Ouroboros,symbol,"The sea-monster/serpent representing the celestial, primordial water in Ophite cosmology.",page 20,alchemy_mysticism,2
+Lapis,concept,"The goal of the alchemical work, achieved by elevating the fallen creation.",page 15,alchemy_mysticism,2
+Sun,planet,A celestial body whose rays can be transformed into water; associated with Sulphur (Sol) and the solar reddening phase.,page 40,alchemy_mysticism,4
+Moon,planet,A celestial body that acts as a collecting tank or well for sunlight; associated with Mercurius (Luna) and the lunar tincture.,page 40,alchemy_mysticism,4
+Latona,symbol,A code name for the prima materia during the phase of putrefaction and blackening (nigredo).,page 40,alchemy_mysticism,4
+Sulphur,symbol,Identified with the Sun (Sol).,page 40,alchemy_mysticism,4
+Mercurius,symbol,Identified with the Moon (Luna).,page 40,alchemy_mysticism,4
+Zodiac,system,Twelve divisions of the heavens through which material must pass twelve gates to reach fixity.,page 41,alchemy_mysticism,4
+Horoscope,concept,"The record of the constellations at the moment of birth, representing man's entanglement in fate.",page 42,alchemy_mysticism,4
+Primum Mobile,concept,"The outermost planetary orbit, identified with God himself.",page 45,alchemy_mysticism,4
+Music of the Spheres,system,A theory where planetary orbits produce audible harmonies based on mathematical ratios and orbital speeds.,,alchemy_mysticism,4
+Earth's Tone,symbol,A specific musical sequence (Mi Fa Mi) assigned by Kepler to the Earth.,page 46,alchemy_mysticism,4
+Jupiter,,"Promises good fortune and wealth, associated with the phase of multiplication in the Work, associated with his children are the great dignitaries of society.",page 147,alchemy_mysticism,6
+Abraxas,concept,"A gnostic God/deity, shown as a snake-footed hybrid. His name has a numeric value of 365.",page 423,alchemy_mysticism,17
+The King (Gold),concept,"In alchemical processes, the gold or king can be dissolved in water and handed to Vulcan.",page 418,alchemy_mysticism,17
+The Queen,concept,"In alchemical processes, the queen is fecundated by a greasy python to conceive children.",page 418,alchemy_mysticism,17
+White Rose,symbol,Signifies the lunar 'Philosophical Tincture'.,page 420,alchemy_mysticism,17
+Red Rose,symbol,Signifies the solar 'Metallic Tincture'.,page 420,alchemy_mysticism,17
+Blue Rose,symbol,The 'flower of wisdom'; signifies a moist state of matter and is a modification of saturnine black.,,alchemy_mysticism,17
+Proteus,concept,"An eternally wandering watery man from Greek mythology, identified with 'our Mercury' by Heinrich Khunrath.",page 424,alchemy_mysticism,17
+Sothis (Sirius),planet,A fixed star associated with Isis and the Egyptian time-wheel.,page 424,alchemy_mysticism,17
+Abraxas Gemstones,seal,"Gemstones featuring the magical name of Abraxas, often surrounded by the Ouroboros.",page 423,alchemy_mysticism,17
+John Dee,symbol,An occultist whose encryption techniques in Monas Hieroglyphica are compared to Joyce's linguistic methods.,page 319,alchemy_mysticism,26
+Monas Hieroglyphica,symbol,A work by John Dee containing encryption techniques and symbolic structures.,page 319,alchemy_mysticism,26
+Giordano Bruno,concept,Philosopher who proposed that the geometrical figure is the visible number and humans can become cooperators of operating nature through numbers.,page 320,alchemy_mysticism,26
+the four elements,system,"Fundamental components of the material world, linked to directions, humours, and stages of the alchemical work.",page 322,alchemy_mysticism,26
+the four humours,system,Biological fluids linked to elements and directions.,page 322,alchemy_mysticism,26
+the four stages of the hermetic Work,system,Stages in the alchemical process.,page 322,alchemy_mysticism,26
+the four winds,system,"Winds associated with directions, elements, and humours.",page 321,alchemy_mysticism,26
+angel princes,symbol,Angels placed above the four winds.,page 322,alchemy_mysticism,26
+evil spirits,symbol,Spirits ruling over the winds.,page 322,alchemy_mysticism,26

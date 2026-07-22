@@ -1,0 +1,29 @@
+name,type,description,source_ref,source_id,chunk_id,attributes
+Tria Prima,system,The three fundamental principles identified by Paracelsus representing spiritual forces.,page 15,alchemy_mysticism,2,"{""components"": [""Salt (body/solid)"", ""Sulphur (soul/combustibility)"", ""Mercury (intellect/volatile)""]}"
+Saturn,planet,"Identified with Chronos, the god of time; represents the outermost circle of the underworld.",page 16,alchemy_mysticism,2,"{""associated_concept"": ""serpent's circle"", ""nature"": ""transient, sequential time""}"
+Opus Magnum Phases (Color-based),system,The division of the alchemical work into four stages based on color.,page 16,alchemy_mysticism,2,"{""stages"": [""nigredo (blackening)"", ""albedo (whitening)"", ""citrinitas (yellowing)"", ""rubedo (reddening)""]}"
+Pernety's Alchemical/Zodiac System,system,A division of 'lower astronomy' mapping 12 alchemical processes to the signs of the zodiac.,page 16-17,alchemy_mysticism,2,"{""mappings"": [""calcinatio: Aries"", ""congelatio: Taurus"", ""fixatio: Gemini"", ""solutio: Cancer"", ""digestio: Leo"", ""distillatio: Virgo"", ""sublimatio: Libra"", ""separatio: Scorpio"", ""ceratio: Sagittarius"", ""fermentatio: Capricorn"", ""multiplicatio: Aquarius"", ""projectio: Pisces""]}"
+Ouroboros,symbol,"The sea-monster/serpent representing the celestial, primordial water in Ophite cosmology.",page 20,alchemy_mysticism,2,"{""alternative_names"": [""Leviathan""]}"
+Sun,planet,A celestial body whose rays can be transformed into water; associated with Sulphur (Sol) and the solar reddening phase.,page 40,alchemy_mysticism,4,"{""alchemical_symbol"": ""Sol"", ""elemental_aspect"": ""fiery water/rays""}"
+Moon,planet,A celestial body that acts as a collecting tank or well for sunlight; associated with Mercurius (Luna) and the lunar tincture.,page 40,alchemy_mysticism,4,"{""alchemical_symbol"": ""Luna"", ""function"": ""collecting tank of living water""}"
+Latona,symbol,A code name for the prima materia during the phase of putrefaction and blackening (nigredo).,page 40,alchemy_mysticism,4,"{""alchemical_phase"": ""nigredo/putrefaction""}"
+Sulphur,symbol,Identified with the Sun (Sol).,page 40,alchemy_mysticism,4,{}
+Mercurius,symbol,Identified with the Moon (Luna).,page 40,alchemy_mysticism,4,{}
+Zodiac,system,Twelve divisions of the heavens through which material must pass twelve gates to reach fixity.,page 41,alchemy_mysticism,4,"{""structure"": ""twelve gates/stages"", ""subdivisions"": ""three decans and thirty degrees per sign""}"
+Primum Mobile,concept,"The outermost planetary orbit, identified with God himself.",page 45,alchemy_mysticism,4,"{""function"": ""embracing all other spheres""}"
+Music of the Spheres,system,A theory where planetary orbits produce audible harmonies based on mathematical ratios and orbital speeds.,,alchemy_mysticism,4,"{""originator"": ""Pythagoras"", ""key_mechanism"": ""vibration and motion of spheres""}"
+Earth's Tone,symbol,A specific musical sequence (Mi Fa Mi) assigned by Kepler to the Earth.,page 46,alchemy_mysticism,4,"{""symbolism"": ""Misere and Farnes (hunger)""}"
+White Rose,symbol,Signifies the lunar 'Philosophical Tincture'.,page 420,alchemy_mysticism,17,"{""association"": ""lunar""}"
+Red Rose,symbol,Signifies the solar 'Metallic Tincture'.,page 420,alchemy_mysticism,17,"{""association"": ""solar""}"
+Blue Rose,symbol,The 'flower of wisdom'; signifies a moist state of matter and is a modification of saturnine black.,,alchemy_mysticism,17,"{""significance"": ""moist state of matter, high spirituality, arcane knowledge""}"
+Sothis (Sirius),planet,A fixed star associated with Isis and the Egyptian time-wheel.,page 424,alchemy_mysticism,17,"{""association"": ""Isis""}"
+Abraxas Gemstones,seal,"Gemstones featuring the magical name of Abraxas, often surrounded by the Ouroboros.",page 423,alchemy_mysticism,17,{}
+John Dee,symbol,An occultist whose encryption techniques in Monas Hieroglyphica are compared to Joyce's linguistic methods.,page 319,alchemy_mysticism,26,{}
+Monas Hieroglyphica,symbol,A work by John Dee containing encryption techniques and symbolic structures.,page 319,alchemy_mysticism,26,{}
+Giordano Bruno,concept,Philosopher who proposed that the geometrical figure is the visible number and humans can become cooperators of operating nature through numbers.,page 320,alchemy_mysticism,26,"{""philosophy"": ""quadrinity in all things""}"
+the four elements,system,"Fundamental components of the material world, linked to directions, humours, and stages of the alchemical work.",page 322,alchemy_mysticism,26,"{""correspondences"": [""Earth"", ""Water"", ""Fire"", ""Air""]}"
+the four humours,system,Biological fluids linked to elements and directions.,page 322,alchemy_mysticism,26,"{""correspondences"": [""Melancholy"", ""Phlegm"", ""Choler"", ""Sanguis""]}"
+the four stages of the hermetic Work,system,Stages in the alchemical process.,page 322,alchemy_mysticism,26,"{""stages"": [""Nigredo"", ""Albedo"", ""Rubedo"", ""Peacock's Tail""]}"
+the four winds,system,"Winds associated with directions, elements, and humours.",page 321,alchemy_mysticism,26,"{""north_wind"": ""septentrio (cold/snow)"", ""east_wind"": ""subsolanus (moderate)"", ""south_wind"": ""auster (heavy clouds/light showers)"", ""west_wind"": ""Zephyrus (gentlest)""}"
+angel princes,symbol,Angels placed above the four winds.,page 322,alchemy_mysticism,26,"{""Michael"": ""above east wind"", ""Raphael"": ""above west wind"", ""Gabriel"": ""above north wind"", ""Uriel"": ""above south wind""}"
+evil spirits,symbol,Spirits ruling over the winds.,page 322,alchemy_mysticism,26,"{""names"": [""Samael"", ""Azazel"", ""Azael"", ""Mahazael""]}"

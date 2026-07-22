@@ -1,0 +1,93 @@
+{
+  "source_id": "alchemy_mysticism",
+  "chunk_id": 17,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Abraxas",
+      "type": "concept",
+      "description": "A gnostic God/deity, shown as a snake-footed hybrid. His name has a numeric value of 365.",
+      "source_ref": "page 423",
+      "attributes": {
+        "numeric_value": 365,
+        "form": "snake-footed hybrid"
+      }
+    },
+    {
+      "name": "The King (Gold)",
+      "type": "concept",
+      "description": "In alchemical processes, the gold or king can be dissolved in water and handed to Vulcan.",
+      "source_ref": "page 418",
+      "attributes": {
+        "alchemical_symbolism": "gold"
+      }
+    },
+    {
+      "name": "The Queen",
+      "type": "concept",
+      "description": "In alchemical processes, the queen is fecundated by a greasy python to conceive children.",
+      "source_ref": "page 418",
+      "attributes": {}
+    },
+    {
+      "name": "White Rose",
+      "type": "symbol",
+      "description": "Signifies the lunar 'Philosophical Tincture'.",
+      "source_ref": "page 420",
+      "attributes": {
+        "association": "lunar"
+      }
+    },
+    {
+      "name": "Red Rose",
+      "type": "symbol",
+      "description": "Signifies the solar 'Metallic Tincture'.",
+      "source_ref": "page 420",
+      "attributes": {
+        "association": "solar"
+      }
+    },
+    {
+      "name": "Blue Rose",
+      "type": "symbol",
+      "description": "The 'flower of wisdom'; signifies a moist state of matter and is a modification of saturnine black.",
+      "source/ref": "page 420",
+      "attributes": {
+        "significance": "moist state of matter, high spirituality, arcane knowledge"
+      }
+    },
+    {
+      "name": "Proteus",
+      "type": "concept",
+      "description": "An eternally wandering watery man from Greek mythology, identified with 'our Mercury' by Heinrich Khunrath.",
+      "source_ref": "page 424",
+      "attributes": {
+        "alchemical_correspondence": "Mercury",
+        "powers": [
+          "keys to the sea",
+          "power over everything"
+        ]
+      }
+    },
+    {
+      "name": "Sothis (Sirius)",
+      "type": "planet",
+      "description": "A fixed star associated with Isis and the Egyptian time-wheel.",
+      "source_ref": "page 424",
+      "attributes": {
+        "association": "Isis"
+      }
+    },
+    {
+      "name": "Abraxas Gemstones",
+      "type": "seal",
+      "description": "Gemstones featuring the magical name of Abraxas, often surrounded by the Ouroboros.",
+      "source_ref": "page 423",
+      "attributes": {}
+    }
+  ],
+  "relationships": [],
+  "summary": "This passage explores the multifaceted symbolism of the serpent and Ouroboros in alchemy, gnosticism, and Egyptian cosmology. It details alchemical transformations involving the 'king' and 'queen', the symbolic meaning of colored roses, and the cosmic significance of Abraxas and the Egyptian time-wheel.",
+  "key_passages": [],
+  "_truncated": true
+}

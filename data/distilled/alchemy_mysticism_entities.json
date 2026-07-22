@@ -1,0 +1,475 @@
+[
+  {
+    "name": "Tria Prima",
+    "type": "system",
+    "description": "The three fundamental principles identified by Paracelsus representing spiritual forces.",
+    "source_ref": "page 15",
+    "attributes": {
+      "components": [
+        "Salt (body/solid)",
+        "Sulphur (soul/combustibility)",
+        "Mercury (intellect/volatile)"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Salt",
+    "type": "concept",
+    "description": "The third fundamental principle in Paracelsian doctrine, corresponding to the body.",
+    "source_ref": "page 15",
+    "attributes": {
+      "property": "solid",
+      "symbolic_meaning": "coagulated light of the world, secret central fire, salt of wisdom"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Sulphur",
+    "type": "concept",
+    "description": "A fundamental principle mediating the position of the soul.",
+    "source and attributes": {
+      "property": "greasy, oily combustibility",
+      "role": "soul"
+    },
+    "source_ref": "page 15",
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Mercury",
+    "type": "concept",
+    "description": "The fluid principle with a propensity to sublimation.",
+    "source_ref": "page 15",
+    "attributes": {
+      "role": "volatile intellect"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Saturn",
+    "type": "planet",
+    "description": "Identified with Chronos, the god of time; represents the outermost circle of the underworld.",
+    "source_ref": "page 16",
+    "attributes": {
+      "associated_concept": "serpent's circle",
+      "nature": "transient, sequential time"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Opus Magnum Phases (Color-based)",
+    "type": "system",
+    "description": "The division of the alchemical work into four stages based on color.",
+    "source_ref": "page 16",
+    "attributes": {
+      "stages": [
+        "nigredo (blackening)",
+        "albedo (whitening)",
+        "citrinitas (yellowing)",
+        "rubedo (reddening)"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Pernety's Alchemical/Zodiac System",
+    "type": "system",
+    "description": "A division of 'lower astronomy' mapping 12 alchemical processes to the signs of the zodiac.",
+    "source_ref": "page 16-17",
+    "attributes": {
+      "mappings": [
+        "calcinatio: Aries",
+        "congelatio: Taurus",
+        "fixatio: Gemini",
+        "solutio: Cancer",
+        "digestio: Leo",
+        "distillatio: Virgo",
+        "sublimatio: Libra",
+        "separatio: Scorpio",
+        "ceratio: Sagittarius",
+        "fermentatio: Capricorn",
+        "multiplicatio: Aquarius",
+        "projectio: Pisces"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Ouroboros",
+    "type": "symbol",
+    "description": "The sea-monster/serpent representing the celestial, primordial water in Ophite cosmology.",
+    "source_ref": "page 20",
+    "attributes": {
+      "alternative_names": [
+        "Leviathan"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Lapis",
+    "type": "concept",
+    "description": "The goal of the alchemical work, achieved by elevating the fallen creation.",
+    "source_ref": "page 15",
+    "attributes": {
+      "process": "sublimation and elevation from prima materia"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 2
+  },
+  {
+    "name": "Sun",
+    "type": "planet",
+    "description": "A celestial body whose rays can be transformed into water; associated with Sulphur (Sol) and the solar reddening phase.",
+    "source_ref": "page 40",
+    "attributes": {
+      "alchemical_symbol": "Sol",
+      "elemental_aspect": "fiery water/rays"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Moon",
+    "type": "planet",
+    "description": "A celestial body that acts as a collecting tank or well for sunlight; associated with Mercurius (Luna) and the lunar tincture.",
+    "source_ref": "page 40",
+    "attributes": {
+      "alchemical_symbol": "Luna",
+      "function": "collecting tank of living water"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Latona",
+    "type": "symbol",
+    "description": "A code name for the prima materia during the phase of putrefaction and blackening (nigredo).",
+    "source_ref": "page 40",
+    "attributes": {
+      "alchemical_phase": "nigredo/putrefaction"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Sulphur",
+    "type": "symbol",
+    "description": "Identified with the Sun (Sol).",
+    "source_ref": "page 40",
+    "attributes": {},
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Mercurius",
+    "type": "symbol",
+    "description": "Identified with the Moon (Luna).",
+    "source_ref": "page 40",
+    "attributes": {},
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Zodiac",
+    "type": "system",
+    "description": "Twelve divisions of the heavens through which material must pass twelve gates to reach fixity.",
+    "source_ref": "page 41",
+    "attributes": {
+      "structure": "twelve gates/stages",
+      "subdivisions": "three decans and thirty degrees per sign"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Horoscope",
+    "type": "concept",
+    "description": "The record of the constellations at the moment of birth, representing man's entanglement in fate.",
+    "source_ref": "page 42",
+    "attributes": {
+      "etymology": "hour-watch",
+      "alternative_terms": [
+        "theme",
+        "genesis"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Primum Mobile",
+    "type": "concept",
+    "description": "The outermost planetary orbit, identified with God himself.",
+    "source_ref": "page 45",
+    "attributes": {
+      "function": "embracing all other spheres"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Music of the Spheres",
+    "type": "system",
+    "description": "A theory where planetary orbits produce audible harmonies based on mathematical ratios and orbital speeds.",
+    "source/ref": "page 45-46",
+    "attributes": {
+      "originator": "Pythagoras",
+      "key_mechanism": "vibration and motion of spheres"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Earth's Tone",
+    "type": "symbol",
+    "description": "A specific musical sequence (Mi Fa Mi) assigned by Kepler to the Earth.",
+    "source_ref": "page 46",
+    "attributes": {
+      "symbolism": "Misere and Farnes (hunger)"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 4
+  },
+  {
+    "name": "Jupiter",
+    "dype": "planet",
+    "description": "Promises good fortune and wealth, associated with the phase of multiplication in the Work, associated with his children are the great dignitaries of society.",
+    "source_ref": "page 147",
+    "attributes": {
+      "phase": "multiplication",
+      "social_role": "dignitaries of society"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 6
+  },
+  {
+    "name": "Abraxas",
+    "type": "concept",
+    "description": "A gnostic God/deity, shown as a snake-footed hybrid. His name has a numeric value of 365.",
+    "source_ref": "page 423",
+    "attributes": {
+      "numeric_value": 365,
+      "form": "snake-footed hybrid"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "The King (Gold)",
+    "type": "concept",
+    "description": "In alchemical processes, the gold or king can be dissolved in water and handed to Vulcan.",
+    "source_ref": "page 418",
+    "attributes": {
+      "alchemical_symbolism": "gold"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "The Queen",
+    "type": "concept",
+    "description": "In alchemical processes, the queen is fecundated by a greasy python to conceive children.",
+    "source_ref": "page 418",
+    "attributes": {},
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "White Rose",
+    "type": "symbol",
+    "description": "Signifies the lunar 'Philosophical Tincture'.",
+    "source_ref": "page 420",
+    "attributes": {
+      "association": "lunar"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "Red Rose",
+    "type": "symbol",
+    "description": "Signifies the solar 'Metallic Tincture'.",
+    "source_ref": "page 420",
+    "attributes": {
+      "association": "solar"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "Blue Rose",
+    "type": "symbol",
+    "description": "The 'flower of wisdom'; signifies a moist state of matter and is a modification of saturnine black.",
+    "source/ref": "page 420",
+    "attributes": {
+      "significance": "moist state of matter, high spirituality, arcane knowledge"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "Proteus",
+    "type": "concept",
+    "description": "An eternally wandering watery man from Greek mythology, identified with 'our Mercury' by Heinrich Khunrath.",
+    "source_ref": "page 424",
+    "attributes": {
+      "alchemical_correspondence": "Mercury",
+      "powers": [
+        "keys to the sea",
+        "power over everything"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "Sothis (Sirius)",
+    "type": "planet",
+    "description": "A fixed star associated with Isis and the Egyptian time-wheel.",
+    "source_ref": "page 424",
+    "attributes": {
+      "association": "Isis"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "Abraxas Gemstones",
+    "type": "seal",
+    "description": "Gemstones featuring the magical name of Abraxas, often surrounded by the Ouroboros.",
+    "source_ref": "page 423",
+    "attributes": {},
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 17
+  },
+  {
+    "name": "John Dee",
+    "type": "symbol",
+    "description": "An occultist whose encryption techniques in Monas Hieroglyphica are compared to Joyce's linguistic methods.",
+    "source_ref": "page 319",
+    "attributes": {},
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  },
+  {
+    "name": "Monas Hieroglyphica",
+    "type": "symbol",
+    "description": "A work by John Dee containing encryption techniques and symbolic structures.",
+    "source_ref": "page 319",
+    "attributes": {},
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  },
+  {
+    "name": "Giordano Bruno",
+    "type": "concept",
+    "description": "Philosopher who proposed that the geometrical figure is the visible number and humans can become cooperators of operating nature through numbers.",
+    "source_ref": "page 320",
+    "attributes": {
+      "philosophy": "quadrinity in all things"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  },
+  {
+    "name": "the four elements",
+    "type": "system",
+    "description": "Fundamental components of the material world, linked to directions, humours, and stages of the alchemical work.",
+    "source_ref": "page 322",
+    "attributes": {
+      "correspondences": [
+        "Earth",
+        "Water",
+        "Fire",
+        "Air"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  },
+  {
+    "name": "the four humours",
+    "type": "system",
+    "description": "Biological fluids linked to elements and directions.",
+    "source_ref": "page 322",
+    "attributes": {
+      "correspondences": [
+        "Melancholy",
+        "Phlegm",
+        "Choler",
+        "Sanguis"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  },
+  {
+    "name": "the four stages of the hermetic Work",
+    "type": "system",
+    "description": "Stages in the alchemical process.",
+    "source_ref": "page 322",
+    "attributes": {
+      "stages": [
+        "Nigredo",
+        "Albedo",
+        "Rubedo",
+        "Peacock's Tail"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  },
+  {
+    "name": "the four winds",
+    "type": "system",
+    "description": "Winds associated with directions, elements, and humours.",
+    "source_ref": "page 321",
+    "attributes": {
+      "north_wind": "septentrio (cold/snow)",
+      "east_wind": "subsolanus (moderate)",
+      "south_wind": "auster (heavy clouds/light showers)",
+      "west_wind": "Zephyrus (gentlest)"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  },
+  {
+    "name": "angel princes",
+    "type": "symbol",
+    "description": "Angels placed above the four winds.",
+    "source_ref": "page 322",
+    "attributes": {
+      "Michael": "above east wind",
+      "Raphael": "above west wind",
+      "Gabriel": "above north wind",
+      "Uriel": "above south wind"
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  },
+  {
+    "name": "evil spirits",
+    "type": "symbol",
+    "description": "Spirits ruling over the winds.",
+    "source_ref": "page 322",
+    "attributes": {
+      "names": [
+        "Samael",
+        "Azazel",
+        "Azael",
+        "Mahazael"
+      ]
+    },
+    "source_id": "alchemy_mysticism",
+    "chunk_id": 26
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "source_id": "alchemy_mysticism",
+  "chunk_id": 6,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Jupiter",
+      "type": "planet",
+      "description": "Promises good fortune and wealth, associated with the phase of multiplication in the Work, associated with his children are the great dignitaries of society.",
+      "source_ref": "page 147",
+      "attributes": {
+        "phase": "multiplication",
+        "social_role": "dignitaries of society"
+      }
+    }
+  ],
+  "relationships": [],
+  "summary": "",
+  "key_passages": [],
+  "_truncated": true
+}
