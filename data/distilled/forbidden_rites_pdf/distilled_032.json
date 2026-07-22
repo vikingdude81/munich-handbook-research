@@ -1,6 +1,229 @@
 {
-  "source_id": "forbidden_rites_pdf",
+  "source_im": "forbidden_rites_pdf",
   "chunk_id": 32,
-  "parse_error": true,
-  "raw_extraction": "{\n  \"source_id\": \"forbidden_rites_pdf\",\n  \"chunk_id\": 32,\n  \"has_relevant_content\": true,\n  \"entities\": [\n    {\n      \"name\": \"Astra\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"astral spirit invoked in scrying ritual\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"Coniuro te, Astra, Astaroth, Cebal, per Patrem et Filium et Spiritum Sanctum\"\n    },\n    {\n      \"name\": \"Astaroth\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"astral spirit invoked in scrying ritual\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"Coniuro te, Astra, Astaroth, Cebal, per Patrem et Filium et Spiritum Sanctum\"\n    },\n    {\n      \"name\": \"Cebal\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"astral spirit invoked in scrying ritual\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"Coniuro te, Astra, Astaroth, Cebal, per Patrem et Filium et Spiritum Sanctum\"\n    },\n    {\n      \"name\": \"Toth\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"princeps vestrum (your prince), invoked in scrying ritual\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"per Toth, principem vestrum\"\n    },\n    {\n      \"name\": \"Zambrim\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"spirit invoked alongside Mambrim\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"per Zambrim et Mambrim\"\n    },\n    {\n      \"name\": \"Mambrim\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"spirit invoked alongside Zambrim\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"per Zambrim et Mambrim\"\n    },\n    {\n      \"name\": \"Vsuel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"spirit to whom obedience is owed\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"per Vsuel [et] per Saduel, quibus obedire tenemini de veritate\"\n    },\n    {\n      \"name\": \"Saduel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"spirit to whom obedience is owed\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"per Vsuel [et] per Saduel, quibus obedire tenemini de veritate\"\n    },\n    {\n      \"name\": \"Barbarus\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus comes et dux\", \"legions\": 36, \"astrological sign\": \"Sagitarii silvestris\", \"appearance\": \"with four kings bearing trumpets\"},\n      \"page_ref\": \"p. 330\",\n      \"raw_quote\": \"Barbarus [est] magnus comes et dux, et apparet in signo Sagitarij siluestris cum 4or regibus ferentibus tubas\"\n    },\n    {\n      \"name\": \"Cason\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus dux\", \"legions\": 45, \"abilities\": \"reveals past/present/future/hidden things, grants friendship and dignity\"},\n      \"page_ref\": \"p. 330\",\n      \"raw_quote\": \"Cason magnus dux est et fortis... Dat ad plenitudinem vera responsiva de presentibus, preteritis, et futuris, et occultis\"\n    },\n    {\n      \"name\": \"Otius\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus preses et comes\", \"legions\": 36, \"appearance\": \"in signo Vipere, with monstrous human form (large teeth, three horns), holding a sharp sword\"},\n      \"page_ref\": \"p. 330\",\n      \"raw_quote\": \"Otius magnus preses et comes [est], et apparet in signo Vipere, et habet deterrimam hominis speciem... In manu portat gladium acutum\"\n    },\n    {\n      \"name\": \"Cvrson\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus rex\", \"legions\": 22 (partly from virtutum and thronorum), \"appearance\": \"lion-faced, crowned with diadem, holding viper, riding on hot back\"},\n      \"page_ref\": \"p. 330\",\n      \"raw_quote\": \"Cvrson magnus rex est et fortis... Facies leonina coronatus est dyademate. In manu fere[n]se viperam fortissimam, equitat super dorsum feruentissimum\"\n    },\n    {\n      \"name\": \"Alugor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus dux\", \"legions\": 1 (likely 18 or 108 in error), \"appearance\": \"beautiful soldier with lance, banner, and scepter\"},\n      \"page_ref\": \"p. 331\",\n      \"raw_quote\": \"Alugor magnus dux est... apparet in similitudine militis pulcherrimi, ferens lanceam, vexillum, et sceptrum\"\n    },\n    {\n      \"name\": \"Taob\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus princeps\", \"legions\": 250 (likely 25 in error), \"abilities\": \"doctor mulierum, causes love and sterility\"},\n      \"page_ref\": \"p. 331\",\n      \"raw_quote\": \"Taob magnus est et princeps... doctor opti[m]us mulierum, et facit ardere in amore virorum... finis facit eas steriles\"\n    },\n    {\n      \"name\": \"Volach\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus preses\", \"legions\": 27, \"appearance\": \"boy with angelic wings, riding dragon with two heads\"},\n      \"page_ref\": \"p. 331\",\n      \"raw_quote\": \"Volach magnus preses est... apparet in forma pueri, et habet alas ad modum angeli. Equitat super draconem. Duo habet capita\"\n    },\n    {\n      \"name\": \"Gaeneron\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"dux fortis et potens\", \"legions\": 27, \"appearance\": \"beautiful woman crowned with ducal crown, riding camel\"},\n      \"page_ref\": \"p. 331\",\n      \"raw_quote\": \"Gaeneron dux est fortis et potens... apparet in similitudine pulcherrime mulieris. Ductili coronatur coria\"\n    },\n    {\n      \"name\": \"Twueries\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"marchio magnus et fortis\", \"legions\": 30, \"abilities\": \"teaches grammar, logic, rhetoric; reveals treasure locations\"},\n      \"page_ref\": \"p. 331\",\n      \"raw_quote\": \"Twueries marchio magnus et fortis [est], regnans et imperans in Afforanis partibus. Docet ad plenitudinem gramaticam, loycam, rethoricam\"\n    },\n    {\n      \"name\": \"Hanni\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus preses\", \"legions\": 30, \"appearance\": \"in flamma ignea; when assuming human form, grants skill in astronomy and liberal arts\"},\n      \"page_ref\": \"p. 331–32\",\n      \"raw_quote\": \"Hanni preses magnus [est], et apparet in flamma ignea, sed cum suscipit formam humanam mirabilem reddit hominem abilem in astronomia\"\n    },\n    {\n      \"name\": \"Svcax\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"rank\": \"magnus marchio\", \"legions\": 23, \"appearance\": \"human-like with feminine walt (ulnum femineum), benevolent-looking\"},\n      \"page_ref\": \"p. 332\",\n      \"raw_quote\": \"Svcax magnus marchio est... Wltum habe[f]em femineum. Videtur beniuolus\"\n    },\n    {\n      \"name\": \"Bel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"infernal spirit invoked in love magic ritual\"},\n      \"page_ref\": \"p. 332–34\",\n      \"raw_quote\": \"Coniuro vos spiritus infernales Bel et Ebal, quorum nomina in ista costa scripta sunt et in igne ardescunt\"\n    },\n    {\n      \"name\": \"Ebal\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"infernal spirit invoked alongside Bel in love magic ritual\"},\n      \"page_ref\": \"p. 332–34\",\n      \"raw_quote\": \"Coniuro vos spiritus infernales Bel et Ebal, quorum nomina in ista costa scripta sunt et in igne ardescunt\"\n    },\n    {\n      \"name\": \"Pneumaton\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name invoked to bind rebellious spirits\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"Per nomen Pneumaton, et in nomine Pneumaton, quod Moyses nominauit et absorpti fuerunt a cauernis terre\"\n    },\n    {\n      \"name\": \"Dath\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"rebellious spirit bound by Pneumaton name\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"Dath, An, et Abyron, et virtute illius sacratissimi nominis dei Pneumaton, maledicimus vos in profundum abyssi\"\n    },\n    {\n      \"name\": \"An\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"rebellious spirit bound by Pneumaton name\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"Dath, An, et Abyron\"\n    },\n    {\n      \"name\": \"Abyron\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"rebellious spirit bound by Pneumaton name\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"Dath, An, et Abyron\"\n    },\n    {\n      \"name\": \"Thoth\",\n      \"type\": \"concept\",\n      \"attributes\": {\"note\": \"possible reference to Egyptian god Thoth\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"per Toth, principem vestrum\"\n    },\n    {\n      \"name\": \"verbena\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"placed in scrying circle for spirit invocation\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"et inpone herbam que vocatur verbena\"\n    },\n    {\n      \"name\": \"olive oil\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"anoints mirror for scrying ritual\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"line ipsum cum oleo oliue cum pollice\"\n    },\n    {\n      \"name\": \"mirror\",\n      \"type\": \"tool\",\n      \"attributes\": {\"use\": \"instrument for spirit scrying; anointed with olive oil\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"accipe speculum, et line ipsum cum oleo oliue cum pollice\"\n    },\n    {\n      \"name\": \"circulus cimitereus\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"procedure\": \"circle drawn around cemetery stones; number of stones = verses in Psalm 50\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"Circue cimiterium et collige tot lapides quota sunt versus in psalmo Misereri mei deus\"\n    },\n    {\n      \"name\": \"vinculum Salomonis\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"use\": \"binds rebellious spirits; cannot be loosed, only divided and imitated\"},\n      \"page_ref\": \"p. 326\",\n      \"raw_quote\": \"si voluerint, lege vinculum Salomonis; de vinculo spirituum non est soluendum, sed ymo pocius diuidendum et ymitandum\"\n    },\n    {\n      \"name\": \"Agla\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"sacred name used in protective circles and knife incantation\"},\n      \"page_ref\": \"p. 328, 332–33\",\n      \"raw_quote\": \"in cuius lamina hec nomina ex utraque parte sunt scripta: Agla [et] Sabaoth\"\n    },\n    {\n      \"name\": \"Sabaoth\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"sacred name used in protective circles and knife incantation\"},\n      \"page_ref\": \"p. 328, 332–33\",\n      \"raw_quote\": \"in cuius lamina hec nomina ex utraque parte sunt scripta: Agla [et] Sabaoth\"\n    },\n    {\n      \"name\": \"Tetragramaton\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"sacred name inscribed on outer circle\"},\n      \"page_ref\": \"p. 328\",\n      \"raw_quote\": \"contra occidentem, Tetragramaton\"\n    },\n    {\n      \"name\": \"Adonay\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"sacred name inscribed on circle; also appears in spirit binding and love ritual\"},\n      \"page_ref\": \"p. 328, 333\",\n      \"raw_quote\": \"contra septentrionem, Adonay\"\n    },\n    {\n      \"name\": \"HGUHV (HV, V, et V, HV)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"ineffable divine name written with four letters; appears in protective circle ritual\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"quod scribitur 4or literis, HV, V, et V, HV\"\n    },\n    {\n      \"name\": \"Anathematon\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"divine name invoked in exorcism; associated with Aaron\"},\n      \"page_ref\": \"p. 326–27\",\n      \"raw_quote\": \"et per nomen Anathematon, et in nomine Anathematon, quod Aron audiuit\"\n    },\n    {\n      \"name\": \"Elyon\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"divine name invoked in exorcism; associated with Moses and the plague of hail\"},\n      \"page_ref\": \"p. 327\",\n      \"raw_quote\": \"et per nomen Elyon, et in nomine Elyon, quod Moyses nominauit, et [ facta est] grando talis qualis non fuerat ab inicio mundi\"\n    },\n    {\n      \"name\": \"Geremon\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"divine name invoked in exorcism; associated with Moses and liberation of Israel\"},\n      \"page_ref\": \"p. 328\",\n      \"raw_quote\": \"et per nomen Geremon, et in nomine Geremon, quod Moyses nominauit et totum Ysraheliticum populum in captiuitateu liberauit\"\n    },\n    {\n      \"name\": \"Emanation (Patriarchal/Prophetic Names)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"series of divine names invoked in exorcism, each associated with biblical figures\"},\n      \"page_ref\": \"p. 326–28\",\n      \"raw_quote\": \"per eum qui dixit et factum est... per nomen Y et V et E... per nomen Genery... per nomen Joth...\"\n    },\n    {\n      \"name\": \"Alphа and Omega (Alpha et O)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"divine name invoked in exorcism; associated with Daniel, used to destroy Bel and the dragon\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"et per nomen Alpha et O, et in nomine Alpha et O, quod Daniel nominauit, et per illud Bel destruxit et draconem interfecit\"\n    },\n    {\n      \"name\": \"Emanuel\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"divine name invoked in exorcism; associated with the three youths in fiery furnace\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"et per nomen Emanuel, et in nomine Emanuel, quod tres pueri in camino ignis ardentis nominauerunt\"\n    },\n    {\n      \"name\": \"Ihesus Christus\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"central figure of Christian invocations and binding formulas\"},\n      \"page_ref\": \"p. 324, 332–34\",\n      \"raw_quote\": \"In nomine Patris veni. In nomine Filij veni. In nomine Spiritus Sancti veni\"\n    },\n    {\n      \"name\": \"St. Mary (beate virginis Marie)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \" invoked in love magic ritual for intercessory power\"},\n      \"page_ref\": \"p. 333–34\",\n      \"raw_quote\": \"et per lacrimas beate virginis Marie\"\n    },\n    {\n      \"name\": \"xxiiijor seniores (24 Elders)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"heavenly beings invoked in spirit binding and protection\"},\n      \"page_ref\": \"p. 325, 328–29\",\n      \"raw_quote\": \"per xxiiijor seniores\"\n    },\n    {\n      \"name\": \"Throne (throni)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"angelic hierarchy; spirits from thrones serve Cvrson\"},\n      \"page_ref\": \"p. 330–31\",\n      \"raw_quote\": \"partim de ordine virtutum et partim de ordine thronorum\"\n    },\n    {\n      \"name\": \"Virtues (virtutum)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"angelic hierarchy; spirits from Virtues serve Barbarus and Cvrson\"},\n      \"page_ref\": \"p. 330, 331\",\n      \"raw_quote\": \"et est de ordine virtutum... partim de ordine virtutum et partim de ordine thronorum\"\n    },\n    {\n      \"name\": \"Cherubin and Seraphin\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"heavenly beings invoked in love magic binding\"},\n      \"page_ref\": \"p. 332–33\",\n      \"raw_quote\": \"per cherubin et seraphin\"\n    },\n    {\n      \"name\": \"Sydrach, Mysaac, Abdenago (Three Youths)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical figures invoked in scrying ritual\"},\n      \"page_ref\": \"p. 325–26\",\n      \"raw_quote\": \"per tres pueros Sydrach, Mysaac, et Abdenago\"\n    },\n    {\n      \"name\": \"Moses\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical figure associated with many divine names invoked in exorcism\"},\n      \"page_ref\": \"p. 326–28\",\n      \"raw_quote\": \"per nomen Y et V et E, quod Moyses audiuit... per nomen Genery... per nomen Joth...\"\n    },\n    {\n      \"name\": \"Abraham\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical figure associated with divine name YVE X\"},\n      \"page_ref\": \"p. 326–27\",\n      \"raw_quote\": \"quod Abraham audiuit et cognouit omnipotentem deum\"\n    },\n    {\n      \"name\": \"Noah\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical figure associated with Genery name\"},\n      \"page_ref\": \"p. 326–27\",\n      \"raw_quote\": \"quod Noe audiuit et locutus est, cum viija familia de linea sua\"\n    },\n    {\n      \"name\": \"Jacob\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical figure associated with Joth name\"},\n      \"page_ref\": \"p. 326–27\",\n      \"raw_quote\": \"quod audiuit Jacob ab angelo secum comitante, et liberatus est de manu fratris sui Esaw\"\n    },\n    {\n      \"name\": \"Aron (Aaron)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical figure associated with Anathematon name\"},\n      \"page_ref\": \"p. 326–27\",\n      \"raw_quote\": \"quod Aron audiuit, et eloquens et sapiens factus est\"\n    },\n    {\n      \"name\": \"Elyseus (Eliseus)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical prophet associated with Eloy name\"},\n      \"page_ref\": \"p. 328\",\n      \"raw_quote\": \"quod Elyseus nominauit et Esunamitis filium liberavit\"\n    },\n    {\n      \"name\": \"Daniel\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical prophet associated with Alpha and Omega\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"quod Daniel nominauit, et per illud Bel destruxit et draconem interfecit\"\n    },\n    {\n      \"name\": \"Elias (Elyas)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical prophet associated with Pancraton and Symayon names\"},\n      \"page_ref\": \"p. 328\",\n      \"raw_quote\": \"quod Elyas orauit quod non plueret... et per nomen Symayon, et in nomine Symayon, quod Elyas orauit\"\n    },\n    {\n      \"name\": \"Jeremiah (Yeremias)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical prophet associated with Athanatos name\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"quod Yeremias nominauit et preteri[i]t captiuitatem Jerusalem ciuitatis\"\n    },\n    {\n      \"name\": \"Joshua (Yosue)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical figure associated with Egyryon name\"},\n      \"page_ref\": \"p. 328\",\n      \"raw_quote\": \"cum quo Yosue pugnauit et inimicos destruxit suos\"\n    },\n    {\n      \"name\": \"David (sanctus Dauid)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical king associated with Patheon name\"},\n      \"page_ref\": \"p. 328\",\n      \"raw_quote\": \"quod sanctus Dauid nominauit et liberatus est de manu Golye\"\n    },\n    {\n      \"name\": \"Solomon (Salomon)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical king associated with wisdom and magical authority\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"quod Salomon audiuit et Gabaon et meruit in somniis postulare\"\n    },\n    {\n      \"name\": \"Three Youths (Sydrach, Mysaac, Abdenago)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical figures invoked alongside Thoth and Zambrim\"},\n      \"page_ref\": \"p. 325–26\",\n      \"raw_quote\": \"per tres pueros Sydrach, Mysaac, et Abdenago\"\n    },\n    {\n      \"name\": \"Psalm 50 (Miserere)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"scriptural basis for number of stones in scrying circle\"},\n      \"page_ref\": \"p. 325\",\n      \"raw_quote\": \"Circue cimiterium et collige tot lapides quota sunt versus in psalmo Misereri mei deus\"\n    },\n    {\n      \"name\": \"Psalm 103 (Benedicite)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"scriptural reference for angels as spirits\"},\n      \"page_ref\": \"p. 333\",\n      \"raw_quote\": \"qui fecit angelos suos spiritus [Ps. 103:4 Vulg.]\"\n    },\n    {\n      \"name\": \"Apocalypse (Revelation)\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"scriptural source for imagery in protective circle and binding rituals\"},\n      \"page_ref\": \"p. 328–29\",\n      \"raw_quote\": \"[qui] claudit et aperit [Apoc. 3:7], per mare vitreum [cf. Apoc. 4:6]\"\n    },\n    {\n      \"name\": \"Exodus plagues\",\n      \"type\": \"concept\",\n      \"attributes\": {\"role\": \"biblical miracles invoked in exorcism via divine names\"},\n      \"page_ref\": \"p. 326–27\",\n      \"raw_quote\": \"et omnes aque egredi de terra ceperunt palidum, et verse sunt in sangwinem... ranas... puluerem... muscarum... locustas... tenebras... primogenita\"\n    },\n    {\n      \"name\": \"Exorcismus\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"procedure\": \"repeated exorcism used against rebellious spirits\"},\n      \"page_ref\": \"p. 326–27\",\n      \"raw_quote\": \"si in omnibus non obedierint uel precepta exorciste non conseruauerint, hoc vinculum est legendum\"\n    },\n    {\n      \"name\": \"Exorcism formula (vinculum Salomonis)\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"procedure\": \"binds spirits by divine names; cannot be loosed, only divided and imitated\"},\n      \"page_ref\": \"p. 326–29\",\n      \"raw_quote\": \"Exorcizamus atque viriliter imperamus... per eum qui dixit et factum est\"\n    },\n    {\n      \"name\": \"Protective circle ritual (CLM 849)\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"procedure\": \"three concentric circles made with knife inscribed with Agla, Sabaoth, Tetragramaton, Adonay; fumigation with incense\"},\n      \"page_ref\": \"p. 328–30\",\n      \"raw_quote\": \"Hunc circulum facio in nomine dei Patris omnipotentis... Hunc circulum facio in nomine dei viui... Hunc circulum facio in nomine Spiritus Sancti\"\n    },\n    {\n      \"name\": \"Love magic ritual (Bel et Ebal)\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"procedure\": \"write names on rib, burn while reciting incantation invoking infernal spirits Bel and Ebal\"},\n      \"page_ref\": \"p. 332–34\",\n      \"raw_quote\": \"scribe in costam nomen tuum et mulieris, Bel et Ebal... pone ad ignem et fac cremari costam\"\n    }\n  ],\n  \"relationships\": [\n    {\"from\": \"Astra\", \"to\": \"Cebal\", \"type\": \"co-occurs\"},\n    {\"from\": \"Astaroth\", \"to\": \"Cebal\", \"type\": \"co-occurs\"},\n    {\"from\": \"Toth\", \"to\": \"Zambrim\", \"type\": \"co-occurs\"},\n    {\"from\": \"Mambrim\", \"to\": \"Zambrim\", \"type\": \"co-occurs\"},\n    {\"from\": \"Vsuel\", \"to\": \"Saduel\", \"type\": \"co-occurs\"},\n    {\"from\": \"Bel\", \"to\": \"Ebal\", \"type\": \"paired\"},\n    {\"from\": \"Pneumaton\", \"to\": \"Dath\", \"type\": \"binds\"},\n    {\"from\": \"Pneumaton\", \"to\": \"An\", \"type\": \"binds\"},\n    {\"from\": \"Pneumaton\", \"to\": \"Abyron\", \"type\": \"binds\"},\n    {\"from\": \"Cvrson\", \"to\": \"virtutum\", \"type\": \"commands\"},\n    {\"from\": \"Cvrson\", \"to\": \"throni\", \"type\": \"commands\"},\n    {\"from\": \"Barbarus\", \"to\": \"virtutum\", \"type\": \"commands\"},\n    {\"from\": \"Agla\", \"to\": \"Sabaoth\", \"type\": \"co-occurs\"},\n    {\"from\": \"Tetragramaton\", \"to\": \"Adonay\", \"type\": \"co-occurs\"},\n    {\"from\": \"HGUHV\", \"to\": \"Agla\", \"type\": \"variant\"},\n    {\"from\": \"Exorcism formula\", \"to\": \"vinculum Salomonis\", \"type\": \"synonym\"},\n    {\"from\": \"protective circle ritual\", \"to\": \"CLM 849\", \"type\": \"source manuscript\"},\n    {\"from\": \"love magic ritual (Bel et Ebal)\", \"to\": \"CLM 849\", \"type\": \"source manuscript\"}\n  ],\n  \"summary\": \"This chunk contains detailed excerpts from the Munich Handbook (CLM 849), including a scrying ritual invoking spirits Astra, Astaroth, Cebal, Toth, Zambrim, Mambrim, Vsuel, and Saduel; a list of named demons (Barbarus, Cason, Otius, Cvrson, Alugor, Taob, Volach, Gaeneron, Twueries, Hanni, Svca) with ranks, legions, appearances, and powers; and two major rituals: one for obtaining information from a mirror using verbena and olive oil, and another love magic ritual invoking infernal spirits Bel and Ebal. It also includes extensive exorcistic material invoking biblical divine names (Pneumaton, Anathematon, Elyon, Geremon, etc.), patriarchs/prophets (Moses, Abraham, Jacob, Aaron, Daniel, Elias), and scriptural references (Exodus plagues, Revelation). Protective circle rituals with Agla, Sabaoth, Tetragramaton, Adonay are described in detail.\",\n  \"key_passages\": [\n    \"Coniuro te, Astra, Astaroth, Cebal, per Patrem et Filium et Spiritum Sanctum, per xxiiijor seniores, et per tres pueros Sydrach, Mysaac, et Abdenago, per Toth, principem vestrum...\",\n    \"Barbarus [est] magnus comes et dux, et apparet in signo Sagitarij siluestris cum 4or regibus ferentibus tubas... Habet sub se xxxvj legiones.\",\n    \"Circue cimiterium et collige tot lapides quota sunt versus in psalmo Misereri mei deus. Cum hiis lapidibus, pone circulum quando vis, et inpone herbam que vocatur verbena...\",\n    \"Per nomen Pneumaton, et in nomine Pneumaton, quod Moyses nominauit et absorpti fuerunt a cauernis terre, Dath, An, et Abyron, et virtute illius sacratissimi nominis dei Pneumaton, maledicimus vos in profundum abyssi...\",\n    \"Coniuro vos spiritus infernales Bel et Ebal, quorum nomina in ista costa scripta sunt et in igne ardescunt, per omnes virtutes celorum et terre...\"\n  ]\n}"
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured for information"
+      },
+      "page_ref": "62v–65r",
+      "raw_quote": "Coniuro te, Astra, Astaroth, Cebal"
+    },
+    {
+      "name": "Barbarus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus comes et dux",
+        "sign": "Sagitarij siluestris",
+        "legions": "xxxvj"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Barbarus [est] magnus comes et dux, et apparet in signo Sagitarij siluestris"
+    },
+    {
+      "name": "Cason",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus dux et fortis",
+        "legions": "xlv"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Cason magnus dux est et fortis... Habet sub se xlv legiones."
+    },
+    {
+      "name": "Otius",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus preses et comes",
+        "sign": "Vipere",
+        "appearance": "deterrimam hominis speciem, sed cum suscipit formam humanum habet dentes magnos et tria cornua",
+        "legions": "xxxvj"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Otius magnus preses et comes [est], et apparet in signo Vipere"
+    },
+    {
+      "name": "Cvson",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus rex est et fortis",
+        "appearance": "Facies leonina coronatus est dyademate",
+        "legions": "xxij"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Cvson magnus rex est et fortis, et apparet in similitudine hominis."
+    },
+    {
+      "name": "Alugor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus dux",
+        "appearance": "similitudine militis pulcherrimi",
+        "legions": "lm"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Alugor magnus dux est. Apparet in similitudine militis pulcherrimi"
+    },
+    {
+      "name": "Taob",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus et princeps",
+        "appearance": "similitudine medici",
+        "legions": "25o"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Taob magnus est et princeps. Apparet in signo medici"
+    },
+    {
+      "name": "Volach",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus preses",
+        "appearance": "in forma pueri, et habet alas ad modum angeli",
+        "legions": "xxvij"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Volach magnus preses est. Apparet [in forma] pueri, et habet alas ad modum angeli."
+    },
+    {
+      "name": "Gaeneron",
+      "type": "spirit",
+      "attributes": {
+        "rank": "dux fortis et potens",
+        "appearance": "similitudine pulcherrime mulieris",
+        "legions": "xxvij"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Gaeneron dux est fortis et potens, et apparet in similitudine pulcherrime mulieris."
+    },
+    {
+      "name": "Tvueries",
+      "type": "spirit",
+      "attributes": {
+        "rank": "marchio magnus et fortis",
+        "knowledge": "gramaticam, loycam, rethoricam, ac dictata",
+        "legions": "xxx"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Tvueries marchio magnus et fortis [est], regnans et imperans in Afforanisr partibus."
+    },
+    {
+      "name": "Hanni",
+      "type": "spirit",
+      "attributes": {
+        "rank": "preses magnus",
+        "appearance": "in flamma ignea",
+        "legions": "xxx"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Hanni preses magnus [est], et apparet in flamma ignea"
+    },
+    {
+      "name": "Svcax",
+      "type": "spirit",
+      "attributes": {
+        "rank": "magnus marchio",
+        "appearance": "similitudine hominis. Wltum habet femineum",
+        "legions": "23"
+      },
+      "page_ref": "65v–65r bis",
+      "raw_quote": "Svcax magnus marchio est, et apparet in similitudine hominis."
+    },
+    {
+      "name": "Mirror Information Ritual",
+      "type": "ritual",
+      "attributes": {
+        "method": "Circulate cemetery, collect stones from Psalm 50, make circle with verbena, use mirror traced with olive oil and thumb"
+      },
+      "page_ref": "62v–65r",
+      "raw_quote": "Postea accipe speculum, et line ipsum cum oleo oliue cum pollice"
+    },
+    {
+      "name": "Bel and Ebal Ritual",
+      "type": "ritual",
+      "attributes": {
+        "method": "Write names on a rib (costa), place in fire, burn during high heat/fury"
+      },
+      "page_ref": "65r bis–67v",
+      "raw_quote": "scribe in costam nomen tuum et mulieris, Bel et Ebal... et pone ad ignem et fac cremari costam"
+    },
+    {
+      "name": "Generic Conjuration Preparation",
+      "type": "ritual",
+      "attributes": {
+        "method": "Draw three circles; first in name of Father, second with Tetragramaton (West), Adonay (North), Sabaoth (South); third with Holy Spirit. Use thurible with incense and myrrh."
+      },
+      "page_ref": "67v–68v",
+      "raw_quote": "Et faciat cum eodem cultello exteriorem circulum... incipit: Per corroboratum et potentissimum nomen dei El"
+    },
+    {
+      "name": "Verbena",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "62v–65r",
+      "raw_quote": "inpone herbam que vocatur verbena"
+    },
+    {
+      "name": "Olive Oil",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "62v–65r",
+      "raw_quote": "line ipsum cum oleo oliue"
+    },
+    {
+      "name": "Cultellus (Knife)",
+      "type": "tool",
+      "attributes": {
+        "handle": "albo uel nigro"
+      },
+      "page_ref": "67v–68v",
+      "raw_quote": "habeat cultellum cum manubrio albo uel nigro"
+    },
+    {
+      "name": "Incense and Myrrh",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "67v–68v",
+      "raw_quote": "inposito thureg et mirra"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Mirror Information Ritual",
+      "to": "Verbena",
+      "type": "uses"
+    },
+    {
+      "from": "Mirror Information Ritual",
+      "to": "Olive Oil",
+      "type": "uses"
+    },
+    {
+      "from": "Barbarus",
+      "to": "Sagitarij siluestris",
+      "type": "appears in sign of"
+    },
+    {
+      "from": "Generic Conjuration Preparation",
+      "to": "Incense and Myrrh",
+      "type": "uses"
+    },
+    {
+      "from": "Generic Conjuration Preparation",
+      "to": "Cultellus (Knife)",
+      "type": "uses"
+    }
+  ],
+  "summary": "This chunk contains several distinct magical operations: a ritual for obtaining information via a mirror, a list of various demons and their attributes/legions, a ritual for obtaining a woman's love using burning ribs, and a generic method for conjuring spirits using circles and specific divine names.",
+  "key_passages": [
+    "Postea accipe speculum, et line ipsum cum oleo oliue cum pollice",
+    "Barbarus [est] magnus comes et dux, et apparet in signo Sagitarij siluestris",
+    "scribe in costam nomen tuum et mulieris, Bel et Ebal... et pone ad ignem et fac cremari costam",
+    "habeat cultellum cum manubrio albo uel nigro, in cuius lamina hec nomina ex utraque parte sunt scripta: Agla [et] Sabaoth",
+    "inposito thureg et mirra, [et] circuash exteriora circuli"
+  ]
 }

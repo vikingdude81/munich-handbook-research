@@ -42,6 +42,18 @@ def clean_trailing_commas(text: str) -> str:
     return _TRAILING_COMMA.sub(r"\1", text)
 
 
+def clean_control_chars(text: str) -> str:
+    """Replace raw control chars that are illegal inside JSON strings.
+
+    Tabs become spaces (tab is legal whitespace *between* tokens and space is
+    too, so a blanket swap never changes structure); other C0 controls except
+    \\n and \\r are dropped. Models occasionally emit a literal TAB inside a
+    key/value string, which json.loads rejects as 'Invalid control character'.
+    """
+    text = text.replace("\t", " ")
+    return re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", text)
+
+
 def _balance_truncated(s: str) -> str:
     """Close unbalanced braces/brackets on truncated JSON (string-aware)."""
     depth_b = depth_s = 0
@@ -88,7 +100,7 @@ def parse_llm_json(raw: str, field_recovery=None):
     """
     if not raw:
         return None, False
-    text = strip_wrappers(raw)
+    text = clean_control_chars(strip_wrappers(raw))
     decoder = json.JSONDecoder()
 
     # 1. clean parse from first brace

@@ -1,6 +1,120 @@
 {
   "source_id": "forbidden_rites_pdf",
   "chunk_id": 6,
-  "parse_error": true,
-  "raw_extraction": "{\n  \"source_id\": \"forbidden_rites_pdf\",\n  \"chunk_id\": 6,\n  \"has_relevant_content\": true,\n  \"entities\": [\n    {\n      \"name\": \"Oymelor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama…’\"\n    },\n    {\n      \"name\": \"Demefin\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Oymelor, Demefin, Lamair, Masair…’\"\n    },\n    {\n      \"name\": \"Lamair\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Oymelor, Demefin, Lamair…’\"\n    },\n    {\n      \"name\": \"Masair\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Oymelor, Demefin, Lamair, Masair…’\"\n    },\n    {\n      \"name\": \"Symofor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Oymelor, Demefin, Lamair, Masair, Symofor…’\"\n    },\n    {\n      \"name\": \"Rodobayl\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Rodobayl…’\"\n    },\n    {\n      \"name\": \"Tentetos\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Tentetos…’\"\n    },\n    {\n      \"name\": \"Lotobor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Lotobor…’\"\n    },\n    {\n      \"name\": \"Memoyr\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Memoyr…’\"\n    },\n    {\n      \"name\": \"Tamafin\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Tamafin…’\"\n    },\n    {\n      \"name\": \"Leutaber\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Leutaber…’\"\n    },\n    {\n      \"name\": \"Tatomofon\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Tatomofon…’\"\n    },\n    {\n      \"name\": \"Faubair\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Faubair…’\"\n    },\n    {\n      \"name\": \"Selutabel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Selutabel…’\"\n    },\n    {\n      \"name\": \"Rimasor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Rimasor…’\"\n    },\n    {\n      \"name\": \"Syrama\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"conjured spirit\", \"number_in_group\": 16},\n      \"page_ref\": \"64–65\",\n      \"raw_quote\": \"‘Syrama’\"\n    },\n    {\n      \"name\": \"Usyr\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘O Usyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor and Ym…’\"\n    },\n    {\n      \"name\": \"Salaul\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"named speaker\"},\n      \"page_ref\": \"69–71\",\n      \"raw_quote\": \"‘I am one of the spirits you have invoked; I am named Salaul…’\"\n    },\n    {\n      \"name\": \"Silitor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘O Usyr, Salaul, Silitor…’\"\n    },\n    {\n      \"name\": \"Demor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘O Usyr, Salaul, Silitor, Demor…’\"\n    },\n    {\n      \"name\": \"Zanno\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘O Usyr, Salaul, Silitor, Demor, Zanno…’\"\n    },\n    {\n      \"name\": \"Syrtroy\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Syrtroy…’\"\n    },\n    {\n      \"name\": \"Risbel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Risbel…’\"\n    },\n    {\n      \"name\": \"Cutroy\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Cutroy…’\"\n    },\n    {\n      \"name\": \"Lytay\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Lytay…’\"\n    },\n    {\n      \"name\": \"Onor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Onor…’\"\n    },\n    {\n      \"name\": \"Moloy\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Moloy…’\"\n    },\n    {\n      \"name\": \"Pumotor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Pumotor…’\"\n    },\n    {\n      \"name\": \"Tami\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Tami…’\"\n    },\n    {\n      \"name\": \"Oor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘Oor…’\"\n    },\n    {\n      \"name\": \"Ym\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"squire spirit\", \"number_in_group\": 15},\n      \"page_ref\": \"68–69\",\n      \"raw_quote\": \"‘and Ym’\"\n    },\n    {\n      \"name\": \"hoopoe\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"ritual offering and protection\", \"magical virtue\": \"high\"},\n      \"page_ref\": \"64–67\",\n      \"raw_quote\": \"‘the hoopoe is possessed of great virtue for necromancers and invokers of demons… much used by such practitioners’\"\n    },\n    {\n      \"name\": \"Munich Handbook (CLM 849)\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"manuscript_id\": \"CLM 849\", \"content_type\": \"necromantic experiments\"},\n      \"page_ref\": \"63–72\",\n      \"raw_quote\": \"‘the Munich handbook… experiment no. 6… no. 7… no. 9’\"\n    },\n    {\n      \"name\": \"quadruple band circle with pentangle\",\n      \"type\": \"tool\",\n      \"attributes\": {\"structure\": \"ritual diagram\", \"elements\": [\"sword\", \"16 spirit names\"]},\n      \"page_ref\": \"67\",\n      \"raw_quote\": \"‘a quadruple band with a pentangle inscribed in the centre, a sword depicted at the top… Within the bands the names of sixteen spirits are inscribed’\"\n    },\n    {\n      \"name\": \"illusions / magical spectacles\",\n      \"type\": \"concept\",\n      \"attributes\": {\"function\": \"deception via spirit labor\", \"duration\": \"temporary\"},\n      \"page_ref\": \"63–72\",\n      \"raw_quote\": \"‘these are spirits of spectacle and all entertainment’\"\n    },\n    {\n      \"name\": \"illusory banquet\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"experiment_number\": \"no. 6\", \"duration\": \"temporary illusion\"},\n      \"page_ref\": \"64–67\",\n      \"raw_quote\": \"‘the experiment for obtaining an illusory banquet… with service and entertainment’\"\n    },\n    {\n      \"name\": \"illusory castle\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"experiment_number\": \"no. 7\", \"function\": \"defensive deception\"},\n      \"page_ref\": \"68–71\",\n      \"raw_quote\": \"‘an experiment for invoking spirits so that a man can make a fine and well fortified castle appear’\"\n    },\n    {\n      \"name\": \"spirit horse\",\n      \"type\": \"concept\",\n      \"attributes\": {\"nature\": \"demon in equine form\", \"illusion_type\": \"transport\"},\n      \"page_ref\": \"72–73\",\n      \"raw_quote\": \"‘the creature that appears is not in reality a horse but a demon in the form of a horse’\"\n    },\n    {\n      \"name\": \"Matthew the Spaniard\",\n      \"type\": \"person\",\n      \"attributes\": {\"role\": \"mentioned as ignorant of this art\"},\n      \"page_ref\": \"67\",\n      \"raw_quote\": \"‘of which Matthew the Spaniard was utterly ignorant, etc.’\"\n    },\n    {\n      \"name\": \"Munich Handbook circle diagram (for banquet)\",\n      \"type\": \"tool\",\n      \"attributes\": {\"structure\": \"ritual diagram\", \"elements\": [\"quadruple band\", \"pentangle\", \"sword\"]},\n      \"page_ref\": \"67\",\n      \"raw_quote\": \"‘The circle to be used for this experiment is depicted: a quadruple band with a pentangle inscribed in the centre…’\"\n    },\n    {\n      \"name\": \"milk and honey offering\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"ritual offering\", \"timing\": \"beginning of ritual\"},\n      \"page_ref\": \"68–71\",\n      \"raw_quote\": \"‘taking milk and honey with you, some of which you must sprinkle in the air’\"\n    }\n  ],\n  \"relationships\": [\n    {\"from\": \"Oymelor\", \"to\": \"Demefin\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Lamair\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Masair\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Symofor\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Rodobayl\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Tentetos\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Lotobor\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Memoyr\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Tamafin\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Leutaber\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Tatomofon\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Faubair\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Selutabel\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Rimasor\", \"type\": \"co-spirit\"},\n    {\"from\": \"Oymelor\", \"to\": \"Syrama\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Salaul\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Silitor\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Demor\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Zanno\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Syrtroy\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Risbel\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Cutroy\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Lytay\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Onor\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Moloy\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Pumotor\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Tami\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Oor\", \"type\": \"co-spirit\"},\n    {\"from\": \"Usyr\", \"to\": \"Ym\", \"type\": \"co-spirit\"},\n    {\"from\": \"hoopoe\", \"to\": \"Munich Handbook (CLM 849)\", \"type\": \"ritual ingredient in experiment no. 6\"},\n    {\"from\": \"quadruple band circle with pentangle\", \"to\": \"Munich Handbook (CLM 849)\", \"type\": \"ritual diagram for experiment no. 6\"},\n    {\"from\": \"milk and honey offering\", \"to\": \"Munich Handbook (CLM 849)\", \"type\": \"ritual ingredient in experiment no. 7\"},\n    {\"from\": \"spirit horse\", \"to\": \"Munich Handbook (CLM 849)\", \"type\": \"subject of experiment no. 9\"},\n    {\"from\": \"illusory banquet\", \"to\": \"Munich Handbook (CLM 849)\", \"type\": \"experiment no. 6 in manuscript\"},\n    {\"from\": \"illusory castle\", \"to\": \"Munich Handbook (CLM 849)\", \"type\": \"experiment no. 7 in manuscript\"}\n  ],\n  \"summary\": \"This chunk details two major illusion-based rituals from the Munich Handbook (CLM 849): experiment no. 6 for conjuring a phantom banquet with sixteen spirits, and experiment no. 7 for summoning fifteen squire-spirits to create an illusory castle under imperial scrutiny. It includes full conjuration formulas, spirit names, ritual tools (e.g., hoopoe offering, sword-drawn circles), and protective structures. The text emphasizes the deceptive nature of these illusions—food does not nourish, horses are demons in disguise—and notes their limited duration (a quarter-day). Connections to broader magical traditions (Greek papyri, Grail literature, Tibetan Buddhist hagiography) are noted.\",\n  \"key_passages\": [\n    \"‘Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama, most cheerful, glad and joyous spirits, I, so-and-so, adjure you…’\",\n    \"‘the hoopoe is possessed of great virtue for necromancers and invokers of demons [nigromanticis et demones invocantibus], on which account we use it much for our safekeeping.’\",\n    \"‘And when they have sworn, you will give them the hoopoe, and when they have it they will ask your leave to withdraw. You will give it to them, saying, “Go forth wherever you wish to go, and be attentive to me.”’\",\n    \"‘I also wish to explain to you how to obtain a horse – that is, a spirit in the form of a beast…’\",\n    \"‘the creature that appears is not in reality a horse but a demon in the form of a horse.’\"\n  ]\n}"
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama",
+      "type": "spirit",
+      "attributes": {
+        "nature": "cheerful, glad and joyous spirits",
+        "function": "to make manifest whatever is said (banquet/entertainment)"
+      },
+      "page_ref": "no. 6",
+      "raw_quote": "Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama, most cheerful, glad and joyous spirits"
+    },
+    {
+      "name": "Usyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor, Ym",
+      "type": "spirit",
+      "attributes": {
+        "nature": "squire spirits",
+        "function": "to bear arms and deceive human senses; to make fortifications and castles appear"
+      },
+      "page_ref": "no. 7",
+      "raw_quote": "O Usyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor and Ym, squire spirits, whose function it is to bear arms and deceive human senses"
+    },
+    {
+      "name": "Conjuring an illusory banquet",
+      "type": "ritual",
+      "attributes": {
+        "timing": "under a waxing moon, on a Thursday or Sunday, at noon",
+        "location": "outside town, in a remote place",
+        "method": "trace circles with sword, inscribe 16 names, face east/south/east/north while conjuring"
+      },
+      "page_ref": "no. 6",
+      "raw_quote": "First one must invoke fifteen spirits... At the outset one must go outside town, under a waxing moon, on a Thursday or Sunday, at noon"
+    },
+    {
+      "name": "Conjuring an illusory castle",
+      "type": "ritual",
+      "attributes": {
+        "timing": "tenth day of the moon, under a clear sky",
+        "location": "remote and secret place",
+        "method": "sprinkle milk and honey in the air; face west, then south, east, and north"
+      },
+      "page_ref": "no. 7",
+      "raw_quote": "First, go out on the tenth [day of] the moon, under a clear sky, outside of town to some remote and secret place, taking milk and honey with you"
+    },
+    {
+      "name": "Travel ointment",
+      "type": "ingredient",
+      "attributes": {
+        "components": "seven herbs, the fat of a goat and the blood of a bat"
+      },
+      "page_ref": "unspecified",
+      "raw_quote": "to travel quickly wherever one wishes, one should make an ointment from seven herbs, the fat of a goat and the blood of a bat"
+    },
+    {
+      "name": "Unguentum pharelis",
+      "type": "ingredient",
+      "attributes": {
+        "components": "seven herbs mixed with the blood of a bird and the fat of an animal"
+      },
+      "page_ref": "unspecified",
+      "raw_quote": "a salve called the unguentum pharelis, made of seven herbs mixed with the blood of a bird and the fat of an animal"
+    },
+    {
+      "name": "Shining sword",
+      "type": "tool",
+      "attributes": {
+        "use": "tracing circles and inscribing names in the ground"
+      },
+      "page_ref": "no. 6",
+      "raw_quote": "carrying a shining sword and a hoopoe, and with the sword one must trace circles in a remote place."
+    },
+    {
+      "name": "Hoopoe",
+      "type": "tool",
+      "attributes": {
+        "virtue": "great virtue for necromancers and invokers of demons; used for safekeeping/protection"
+      },
+      "page_ref": "no. 6",
+      "raw_quote": "the hoopoe is possessed of great virtue for necromancers and invokers of demons... on which account we use it much for our safekeeping."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Shining sword",
+      "to": "Conjuring an illusory banquet",
+      "type": "tool used in"
+    },
+    {
+      "from": "Hoopoe",
+      "to": "Conjuring an illusory banquet",
+      "type": "tool used in"
+    },
+    {
+      "from": "Milk and honey",
+      "to": "Conjuring an illusory castle",
+      "type": "ingredient used in"
+    },
+    {
+      "from": "Oymelor, Demefin, et al.",
+      "to": "Conjuring an illusory banquet",
+      "type": "spirits summoned by"
+    },
+    {
+      "from": "Usyr, Salaul, et al.",
+      "to": "Conjuring an illusory castle",
+      "type": "spirits summoned by"
+    }
+  ],
+  "summary": "This chunk details two major illusionist experiments from the Munich handbook: the conjuration of a lavish banquet (no. 6) and an illusory castle (no. 7). It describes specific rituals involving timing, tools like swords and hoopoes, and ingredients such as milk, honey, and magical ointments.",
+  "key_passages": [
+    "First one must invoke fifteen spirits... carrying a shining sword and a hoopoe",
+    "to travel quickly wherever one wishes, one should make an ointment from seven herbs, the fat of a goat and the blood of a bat",
+    "The following experiment (no. 7) is designed to obtain an illusory castle, with defenders.",
+    "taking milk and honey with you, some of a which you must sprinkle in the air.",
+    "the hoopoe is possessed of great virtue for necromancers and invokers of demons"
+  ]
 }

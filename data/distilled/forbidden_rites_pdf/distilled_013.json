@@ -1,6 +1,133 @@
 {
   "source_id": "forbidden_rites_pdf",
   "chunk_id": 13,
-  "parse_error": true,
-  "raw_extraction": "{\n  \"source_id\": \"forbidden_rites_pdf\",\n  \"chunk_id\": 13,\n  \"has_relevant_content\": true,\n  \"entities\": [\n    {\n      \"name\": \"Floron\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"knight spirit\", \"appears in mirror\"},\n      \"page_ref\": \"p. 128–130\",\n      \"raw_quote\": \"the master may ask him about past, present and future things, and he will at once give full response in writing.\"\n    },\n    {\n      \"name\": \"Lilith (Lilit / Lylet)\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"Hebrew demoness\", \"appears with servants/knights\"},\n      \"page_ref\": \"p. 129–130\",\n      \"raw_quote\": \"The First Mirror of Lilith (spelled Lilit or Lylet) is dedicated to this ancient Hebrew demon and to her followers and her ‘knights’\"\n    },\n    {\n      \"name\": \"Bylet\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"note\": \"text slips into calling the spirit Bylet\"},\n      \"page_ref\": \"p. 130\",\n      \"raw_quote\": \"although the text seems to slip into calling the spirit Bylet before the experiment is over\"\n    },\n    {\n      \"name\": \"Clm 849 (Munich Handbook)\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"number_of_experiments\": 19 divinatory, \"focus\": detection of crime\"},\n      \"page_ref\": \"p. 126–134\",\n      \"raw_quote\": \"The largest number of experiments in Clm 849, nineteen in all, is divinatory.\"\n    },\n    {\n      \"name\": \"Mirror of Floron (v1 & v2)\",\n      \"type\": \"tool\",\n      \"attributes\": {\"material\": \"pure steel\", \"diameter\": one palm, \"inscriptions\": 10 names + spirit name},\n      \"page_ref\": \"p. 128–130\",\n      \"raw_quote\": \"Have a mirror made of pure steel, measuring one palm around... inscribed with ten characters... Floron written in the middle\"\n    },\n    {\n      \"name\": \"First Mirror of Lilith\",\n      \"type\": \"tool\",\n      \"attributes\": {\"form\": \"shield optional\", \"medium\": mirror},\n      \"page_ref\": \"p. 129–130\",\n      \"raw_quote\": \"The master commands these ‘demons’ to appear in non-threatening form and answer questions.\"\n    },\n    {\n      \"name\": \"polished thumbnail/fingernail scrying\",\n      \"type\": \"tool\",\n      \"attributes\": {\"medium\": boy’s left thumb nail\", \"preparation\": scraped with knife\"},\n      \"page_ref\": \"p. 132–134\",\n      \"raw_quote\": \"Five divinatory experiments in the Munich handbook... require the medium to gaze into his own polished fingernail or thumbnail.\"\n    },\n    {\n      \"name\": \"Egippia, Benoham, Beanke vel Beanre, Reranressym, Alredessym, Ebemidyrr, Fetolinie [?], Dysi, Medirini, Alhea, Heresim, Haham, Ezirohias, Bohodi, Hohada, Anna, Hohanna, Ohereo, Metaliteps, Aregereo, Agertho, Aliberri, Halba\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"names inscribed on slip for nail scrying\", \"used in conjuration\"},\n      \"page_ref\": \"p. 133\",\n      \"raw_quote\": \"bind to the same thumb... a slip with the following names written on it: Egippia, Benoham, Beanke vel Beanre...\"\n    },\n    {\n      \"name\": \"virgin boy medium\",\n      \"type\": \"person\",\n      \"attributes\": {\"age\": <12, \"birth status\": legitimate, \"gender\": male (mostly), \"role\": scrying medium\"},\n      \"page_ref\": \"p. 127–134\",\n      \"raw_quote\": \"the medium must be a virginal boy... sometimes younger than twelve, and born of legitimate marriage\"\n    },\n    {\n      \"name\": \"sacrifice to spiritus aerialis (rooster)\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"context\": Norfolk 1465 case\", \"victim\": baptized rooster\"},\n      \"page_ref\": \"p. 127\",\n      \"raw_quote\": \"they promised it the body of a Christian man... baptized a rooster with a Christian name and sacrificed it to the spirit\"\n    },\n    {\n      \"name\": \"spiritus aerialis\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"aerial demon\", \"appears in treasure-finding context\"},\n      \"page_ref\": \"p. 127\",\n      \"raw_quote\": \"When a spiritus aerialis appeared, at Bunwell, they promised it the body of a Christian man...\"\n    },\n    {\n      \"name\": \"Joth and Nabnoth\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"binding names used in Solomon’s bond\"},\n      \"page_ref\": \"p. 133–134\",\n      \"raw_quote\": \"by which Solomon bound demons in a glass vessel\"\n    },\n    {\n      \"name\": \"bond of Solomon\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"type\": \"conjuration\", \"used to compel spirits\"},\n      \"page_ref\": \"p. 132\",\n      \"raw_quote\": \"if the spirit refuses, the master reads the unbreakable ‘bond of Solomon’, an extended conjuration\"\n    },\n    {\n      \"name\": \"Clm 849 experiment no. 27\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"focus\": theft detection\", \"medium\": fingernail scrying\"},\n      \"page_ref\": \"p. 133–134\",\n      \"raw_quote\": \"No. 27 is broken into two ‘chapters’, the first of which reads as follows: To find out about a theft, take a virgin boy...\"\n    },\n    {\n      \"name\": \"Haleytum, Gaptametuntij, Morto, Orfail, Geibel, Huabaton\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"names in conjuration of Mirror of Floron\"},\n      \"page_ref\": \"p. 129\",\n      \"raw_quote\": \"...haleytum gaptametuntij morto orfail geibel huabaton albital hualepin...\"\n    },\n    {\n      \"name\": \"Clm 849 experiment no. 25\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"focus\": serious purpose only\", \"prohibition\": no base/frivolous use\"},\n      \"page_ref\": \"p. 127\",\n      \"raw_quote\": \"The text of one experiment (no. 25) insists that the procedure must not be used for any base or frivolous purpose, but only for a serious one\"\n    },\n    {\n      \"name\": \"Clm 849 experiment no. 24\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"medium\": crystal\", \"spirits\": angels\", \"preparation\": washed with wine, names of Christ written in oil\"},\n      \"page_ref\": \"p. 131–132\",\n      \"raw_quote\": \"the master first takes a crystal and washes it with wine, then he writes certain names of Christ on it with olive oil\"\n    },\n    {\n      \"name\": \"Clm 849 experiment no. 20\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"medium\": polished steel mirror\", \"timing\": Venus-Jupiter conjunction\"},\n      \"page_ref\": \"p. 131\",\n      \"raw_quote\": \"In one of the remaining experiments (no. 20) the master goes to a secret place at a conjunction of Venus and Jupiter...\"\n    },\n    {\n      \"name\": \"Clm 849 experiment no. 33\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"medium\": mirror\", \"preparation\": olive oil, verbena-sprinkled circle\"},\n      \"page_ref\": \"p. 132\",\n      \"raw_quote\": \"In the other experiment (no. 33), the master smears olive oil on a mirror... enters a magic circle that is sprinkled with verbena\"\n    }\n  ],\n  \"relationships\": [\n    {\"from\": \"Floron\", \"to\": \"Mirror of Floron\", \"type\": \"appears_in\"},\n    {\"from\": \"Lilith\", \"to\": \"First Mirror of Lilith\", \"type\": \"appears_in\"},\n    {\"from\": \"Clm 849\", \"to\": \"Mirror of Floron\", \"type\": \"contains_experiments\"},\n    {\"from\": \"Clm 849\", \"to\": \"First Mirror of Lilith\", \"type\": \"contains_experiments\"},\n    {\"from\": \"virgin boy medium\", \"to\": \"Clm 849 experiments\", \"type\": \"required_for\"},\n    {\"from\": \"Egippia, Benoham...\", \"to\": \"Clm 849 experiment no. 27\", \"type\": \"used_in\"},\n    {\"from\": \"Joth and Nabnoth\", \"to\": \"bond of Solomon\", \"type\": \"associated_with\"},\n    {\"from\": \"spiritus aerialis\", \"to\": \"Norfolk 1465 case\", \"type\": \"appears_in\"},\n    {\"from\": \"Clm 849 experiment no. 27\", \"to\": \"fingernail scrying\", \"type\": \"uses\"},\n    {\"from\": \"Clm 849 experiment no. 24\", \"to\": \"crystal scrying\", \"type\": \"uses\"}\n  ],\n  \"summary\": \"This chunk details divinatory experiments from the Munich Handbook (CLM 849), focusing on scrying practices using mirrors, crystals, and fingernails, with young male mediums. It extracts named spirits like Floron, Lilith, and Bylet, lists ritual tools and preparations, and references historical cases involving aerial demons and treasure-finding. The text emphasizes the role of innocence (virginal boys), protective conjurations invoking divine names, and the frequent use of binding formulas derived from Solomon.\",\n  \"key_passages\": [\n    \"The largest number of experiments in Clm 849, nineteen in all, is divinatory... the usual end is detection of a crime or criminal (usually a thief)...\",\n    \"Have a mirror made of pure steel... around the rim... have these ten names inscribed... with the name of the aforesaid spirit [Floron] written in the middle.\",\n    \"The First Mirror of Lilith (spelled Lilit or Lylet) is dedicated to this ancient Hebrew demon and to her followers and her ‘knights’...\",\n    \"Five divinatory experiments in the Munich handbook... require the medium to gaze into his own polished fingernail or thumbnail.\",\n    \"To find out about a theft, take a virgin boy of legitimate birth... bind to the same thumb... beneath the nail, a slip with the following names written on it: Egippia, Benoham, Beanke vel Beanre...\"\n  ]\n}"
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "spiritus aerialis",
+      "type": "spirit",
+      "attributes": {
+        "appearance": "appeared at Bunwell",
+        "nature": "accursed spirit"
+      },
+      "page_ref": null,
+      "raw_quote": "When a spiritus aerialis appeared, at Bunwell, they promised it the body of a Christian man in exchange for its leading them to treasure"
+    },
+    {
+      "name": "Floron",
+      "type": "spirit",
+      "attributes": {
+        "appearance_in_mirror": "armed knight seated on a horse, and his squire accompanying him",
+        "nature": "appears in mirror"
+      },
+      "page_ref": null,
+      "raw_quote": "The master... will see an armed knight seated on a horse, and his squire accompanying him."
+    },
+    {
+      "name": "Mirror of Floron",
+      "type": "ritual",
+      "attributes": {
+        "tools": [
+          "mirror made of pure steel",
+          "balsam",
+          "aloes",
+          "ambergris",
+          "myrrh",
+          "white frankincense"
+        ],
+        "ingredients": [
+          "honey",
+          "milk",
+          "wine"
+        ],
+        "medium_requirement": "virgin boy"
+      },
+      "page_ref": null,
+      "raw_quote": "After it has been made, it should be anointed with pure and bright balsam, and fumigated with aloes, ambergris, myrrh and white frankincense."
+    },
+    {
+      "name": "Lilith",
+      "type": "spirit",
+      "attributes": {
+        "nature": "ancient Hebrew demon",
+        "followers": "knights/demons"
+      },
+      "page_ref": null,
+      "raw_quote": "The First Mirror of Lilith (spelled Lilit or Lylet) is dedicated to this ancient Hebrew demon and to her followers and her ‘knights’"
+    },
+    {
+      "name": "Fingernail Ritual",
+      "type": "ritual",
+      "attributes": {
+        "tools": [
+          "left thumb nail of a virgin boy",
+          "knife",
+          "slip with names",
+          "strap of sheepskin"
+        ],
+        "names_on_slip": [
+          "Egippia",
+          "Benoham",
+          "Beanke vel Beanre",
+          "Reranressym",
+          "Alredessym",
+          "Ebemidyrr",
+          "Fetolinie",
+          "Dysi",
+          "Medirini",
+          "Alhea",
+          "Heresim",
+          "Haham",
+          "Ezirohias",
+          "Bohodi",
+          "Hohada",
+          "Anna",
+          "Hohanna",
+          "Ohereo",
+          "Metaliteps",
+          "Aregereo",
+          "Agertho",
+          "Aliberri",
+          "Halba"
+        ]
+      },
+      "page_ref": null,
+      "raw_quote": "take a virgin boy of legitimate birth... scrape well the thumb nail of his left hand with a knife. Then bind to the same thumb, beneath the nail, a slip with the following names written on it."
+    },
+    {
+      "name": "virgin boy",
+      "type": "person",
+      "attributes": {
+        "role": "medium",
+        "requirement": "must be able to see spirits; often young and virginal"
+      },
+      "page_ref": null,
+      "raw_quote": "the medium, usually a young boy, is vital; it is he alone who actually sees the spirits that are conjured."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Floron",
+      "to": "Mirror of Floron",
+      "type": "subject of ritual"
+    },
+    {
+      "from": "Lilith",
+      "to": "First Mirror of Lilith",
+      "type": "subject of ritual"
+    },
+    {
+      "from": "virgin boy",
+      "to": "Mirror of Floron",
+      "type": "medium for ritual"
+    }
+  ],
+  "summary": "This text describes various divinatory experiments from the Munich manuscript (Clm 849), focusing on scrying techniques using mirrors, crystals, and fingernails. It details specific rituals like the Mirror of Floron and a complex fingernail-based ritual used to detect theft or find information.",
+  "key_passages": [
+    "The master... should sit and have this mirror held with both hands by a virgin boy before his chest.",
+    "The First Mirror of Lilith (spelled Lilit or Lylet) is dedicated to this ancient Hebrew demon and to her followers and her ‘knights’",
+    "the medium, usually a young boy, is vital; it is he alone who actually sees the spirits that are conjured.",
+    "take a virgin boy of legitimate birth... scrape well the thumb nail of his left hand with a knife.",
+    "The master... should look in the mirror, and he will see an armed knight seated on a horse, and his squire accompanying him."
+  ]
 }

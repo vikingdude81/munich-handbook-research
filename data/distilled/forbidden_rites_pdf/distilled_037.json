@@ -1,6 +1,134 @@
 {
   "source_id": "forbidden_rites_pdf",
   "chunk_id": 37,
-  "parse_error": true,
-  "raw_extraction": "{\n  \"source_id\": \"forbidden_rites_pdf\",\n  \"chunk_id\": 37,\n  \"has_relevant_content\": true,\n  \"entities\": [\n    {\n      \"name\": \"Asef Caroth\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"master spirit\"},\n      \"page_ref\": \"104v\",\n      \"raw_quote\": \"arte et magisterio a magistro vestro Asef Caroth vobis concessa\"\n    },\n    {\n      \"name\": \"Astaroth\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"master spirit\"},\n      \"page_ref\": \"104v\",\n      \"raw_quote\": \"per magistrum vestrum Astaroth\"\n    },\n    {\n      \"name\": \"Semiforas\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"note\": \"called a 'great name' and said to have been written on Aaron's forehead\"},\n      \"page_ref\": \"107r\",\n      \"raw_quote\": \"hoc est nomen magnum Semiforas, quod erat scriptum in fronte Aaron, sacerdotis creatoris\"\n    },\n    {\n      \"name\": \"Saday\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name component\"},\n      \"page_ref\": \"107r\",\n      \"raw_quote\": \"Saday, Hay, Resel, H, Q, Ayn, Yemino, Selatados, Braruth, Huy, Adonay, Eya, Yen, Yhn vel Tunehy, Vo, Da, Ey, Aha, Heye, Heye, Heye, Haya, Haya, Haya, Ey, Ey, Ey, Ya, Ya, Ya, Han, Han, Han, Ga, Ga, Ga\"\n    },\n    {\n      \"name\": \"Tuditha\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"named in horse-conjuring ritual\"},\n      \"page_ref\": \"107r\",\n      \"raw_quote\": \"hec nomina cum sa[n]gwine vespertilionis: Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon\"\n    },\n    {\n      \"name\": \"Haram\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"spirit to appear in dream\"},\n      \"page_ref\": \"106v\",\n      \"raw_quote\": \"vt in nocte sequenti veniat ad me in sompnis Haram, spiritus benignus\"\n    },\n    {\n      \"name\": \"Layalym\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"one of seven names used to prohibit harm\"},\n      \"page_ref\": \"107v\",\n      \"raw_quote\": \"et hec sunt nomina, scilicet: Layalym, Lyalgnea, Yalgnal, Narath, Lybarye, Lymbaros, Lyaslam\"\n    },\n    {\n      \"name\": \"Oriens\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine epithet invoked repeatedly\"},\n      \"page_ref\": \"106v\",\n      \"raw_quote\": \"O Oriens benigne, maior pars mundi...\"\n    },\n    {\n      \"name\": \"magni regis scientis\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"title of a king of knowledge\"},\n      \"page_ref\": \"106v\",\n      \"raw_quote\": \"fac 3es elimosinas in honore magni regis scientis\"\n    },\n    {\n      \"name\": \"Sotuem\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"invoked among royal potestates\"},\n      \"page_ref\": \"106v\",\n      \"raw_quote\": \"per Sotuem, Sortfen\"\n    },\n    {\n      \"name\": \"Nomen pueri\",\n      \"type\": \"ritual element\",\n      \"attributes\": {\"role\": \"placeholder for boy’s name in protective circle\"},\n      \"page_ref\": \"105v\",\n      \"raw_quote\": \"N.p (presumably for Nomen pueri)\"\n    },\n    {\n      \"name\": \"triple circular band with cross\",\n      \"type\": \"ritual tool\",\n      \"attributes\": {\"structure\": \"three concentric circles with inscriptions\"},\n      \"page_ref\": \"105v\",\n      \"raw_quote\": \"Figure at bottom of fol. 105v: a triple circular band, with a cross dividing the interior into four wedges...\"\n    },\n    {\n      \"name\": \"alba columba (white dove)\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"used in invisibility ritual\"},\n      \"page_ref\": \"107v\",\n      \"raw_quote\": \"Nunc igitur sume albam columbam, die Sabbati de nocte...\"\n    },\n    {\n      \"name\": \"carta agni virginis (lamb’s virgin paper)\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"used in invisibility ritual\"},\n      \"page_ref\": \"107v\",\n      \"raw_quote\": \"...et cartam agni virgineam...\"\n    },\n    {\n      \"name\": \"salis petri, vitrioli, rorani\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"chemicals in German note\"},\n      \"page_ref\": \"108v\",\n      \"raw_quote\": \"Item recipe salis petri, vitrioli, rorani, ana tere...\"\n    },\n    {\n      \"name\": \"lune limaturam (filed lunar metal)\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"i.e., silver\"},\n      \"page_ref\": \"108v\",\n      \"raw_quote\": \"et dissolue in ea lune limaturam quantum soluere potes\"\n    },\n    {\n      \"name\": \"ceram nouam, thuris albi, gummi arabicum...\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"list of substances for fluency\"},\n      \"page_ref\": \"108v\",\n      \"raw_quote\": \"Recipe ceram nouam, thuris albi, gummi arabicum, oxicroceum, asafetidam...\"\n    },\n    {\n      \"name\": \"puluis buffonum\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"butterfly powder; German gloss: 'kupfer daz vom hamer fällt'\"},\n      \"page_ref\": \"108v\",\n      \"raw_quote\": \"c erusam, sal nitri, sal commune, vernicium, terebentinam, euforbium, ouum, ana partes equales...\"\n    },\n    {\n      \"name\": \"frenum (bridle)\",\n      \"type\": \"ritual tool\",\n      \"attributes\": {\"used in horse ritual\"},\n      \"page_ref\": \"107r\",\n      \"raw_quote\": \"accipe frenum, et absconde sub terra... recipias frenum et scucte firmissime\"\n    },\n    {\n      \"name\": \"kostolya, elogo, yetas\",\n      \"type\": \"incantation formula\",\n      \"attributes\": {\"words spoken when mounting horse\"},\n      \"page_ref\": \"107v\",\n      \"raw_quote\": \"kostolya, elogo, yetas\"\n    },\n    {\n      \"name\": \"protege, salua, benedic, sanctifica populum...\",\n      \"type\": \"incantation formula\",\n      \"attributes\": {\"final verse after experiment\"},\n      \"page_ref\": \"382\",\n      \"raw_quote\": \"Protege, salua, benedic, sanctifica populum cunctum per crucis signum domini...\"\n    },\n    {\n      \"name\": \"Asyel, Castyel, Lamsiyel, Rabam, Erlain, Olam, Belam\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"names in shield diagram\"},\n      \"page_ref\": \"416 (plate reference)\",\n      \"raw_quote\": \"Names Asyel, Castyel, Lamsiyel, Rabam, Erlain, Olam and Belam in horizontal bands...\"\n    },\n    {\n      \"name\": \"Firiel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"marked near centre of plain circle\"},\n      \"page_ref\": \"412 (plate reference)\",\n      \"raw_quote\": \"...place of master and name Firiel marked near centre...\"\n    },\n    {\n      \"name\": \"Taraor\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"with elaborate character\"},\n      \"page_ref\": \"412 (plate reference)\",\n      \"raw_quote\": \"...name Taraor and elaborate character to left...\"\n    },\n    {\n      \"name\": \"Melemil\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"with further character\"},\n      \"page_ref\": \"412 (plate reference)\",\n      \"raw_quote\": \"...name Melemil and further character to upper right.\"\n    }\n  ],\n  \"relationships\": [\n    {\"from\": \"Astaroth\", \"to\": \"conjuration formula\", \"type\": \"invoked by\"},\n    {\"from\": \"Asef Caroth\", \"to\": \"conjuration formula\", \"type\": \"grants authority via\"},\n    {\"from\": \"Semiforas\", \"to\": \"divine names (Saday, Hay...)\", \"type\": \"contains or includes\"},\n    {\"from\": \"Oriens\", \"to\": \"treasure-finding ritual\", \"type\": \"appears in\"},\n    {\"from\": \"Layalym group\", \"to\": \"harm-averting ritual\", \"type\": \"used in\"},\n    {\"from\": \"white dove + carta agni virginis\", \"to\": \"invisibility ritual\", \"type\": \"ingredients for\"},\n    {\"from\": \"kostolya, elogo, yetas\", \"to\": \"horse conjuration\", \"type\": \"spoken during\"},\n    {\"from\": \"triple circular band\", \"to\": \"protection circle\", \"type\": \"constitutes\"}\n  ],\n  \"summary\": \"This chunk contains several necromantic experiments from the Munich Handbook (CLM 849), including rituals for revealing thieves via spirit conjuration, discovering hidden treasure in dreams, invoking spirits like Semiforas and Haram, obtaining a horse through binding oaths, achieving invisibility using dove blood and lamb-skin paper, and chemical prescriptions. It includes detailed protective circles with Trinitarian inscriptions, lists of spirit names (e.g., Astaroth, Asef Caroth, Layalym), and incantation formulas invoking divine authority. The text reflects strong Christian framing (crucifixion wounds, Trinity invocations) alongside magical formulaic repetition.\",\n  \"key_passages\": [\n    \"Coniuro vos prenominatos demones • per magistrum vestrum Astaroth, vt compareatis in forma furis et furti...\",\n    \"hoc est nomen magnum Semiforas, quod erat scriptum in fronte Aaron, sacerdotis creatoris.\",\n    \"per Sotuem, Sortfen, vt in nocte sequenti veniat ad me in sompnis Haram, spiritus benignus...\",\n    \"Nunc igitur sume albam columbam, die Sabbati de nocte, et cartam agni virgineam... scribe de huiuscuscumque sangwine hanc figuram.\",\n    \"Protege, salua, benedic, sanctifica populum cunctum per crucis signum domini. Morbos auerte corporis et anime.\"\n  ]\n}"
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "role": "master of the conjuration"
+      },
+      "page_ref": "[104v]",
+      "raw_quote": "per magistrum vestrum Astaroth, vt compareatisj in forma furis et furti"
+    },
+    {
+      "name": "Asef Caroth",
+      "type": "person",
+      "attributes": {
+        "role": "master/magister"
+      },
+      "page_ref": "[104v]",
+      "raw_quote": "a magistro vestro Asef Caroth vobis concessa"
+    },
+    {
+      "name": "Haram",
+      "type": "spirit",
+      "attributes": {
+        "nature": "benign spirit"
+      },
+      "page_ref": "[106v]",
+      "raw_quote": "in sompnis Haram, spiritus benignus, et inflammet cor meum"
+    },
+    {
+      "name": "Semiforas",
+      "type": "spirit",
+      "attributes": {
+        "significance": "great name written on the front of Aaron"
+      },
+      "page_ref": "fols 106v–107r",
+      "raw_quote": "hoc est nomen magnum Semiforas, quod erat [107r] scriptum in fronte Aaron"
+    },
+    {
+      "name": "Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon",
+      "type": "spirit",
+      "attributes": {
+        "usage": "names to be written in bat blood for obtaining a horse"
+      },
+      "page_ref": "fol. 107r–v",
+      "raw_quote": "hec nomina cum sa[n]gwine vespertilionis: Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon."
+    },
+    {
+      "name": "Layalym, Lyalgnea, Yalgnal, Narath, Lybarye, Lymbaros, Lyaslam",
+      "type": "spirit",
+      "attributes": {
+        "usage": "names used to prohibit harm/damage"
+      },
+      "page_ref": "fol. 107v",
+      "raw_quote": "Et hec sunt nomina, scilicet: Layalym, Lyalgnea, Yalgnal, Narath, Lybarye, Lymbaros, Lyaslam."
+    },
+    {
+      "name": "Ritual for discovering hidden treasure",
+      "type": "ritual",
+      "attributes": {
+        "timing": "waxing moon, Sunday, Sun in Leo, morning",
+        "actions": "confess sins, sprinkle with holy water, pray at crucifix, face East"
+      },
+      "page_ref": "fol. 106r–106v",
+      "raw_quote": "A[d] sciendum vbi thesaurum sit absconditum... luna crescente, videlicet die dominico, sole existente in leone, de mane."
+    },
+    {
+      "name": "Ritual for obtaining a horse",
+      "type": "ritual",
+      "attributes": {
+        "method": "write names on cloth at dusk using bat blood"
+      },
+      "page_ref": "fol. 107r–v",
+      "raw_quote": "Ad equum habendum, hoc scribatur in hostio domus vacue in crepusculo noctis... cum sa[n]gwine vespertilionis"
+    },
+    {
+      "name": "Ritual for invisibility",
+      "type": "ritual",
+      "attributes": {
+        "method": "sacrifice a white dove and draw a figure with its blood"
+      },
+      "page_ref": "fols 107v–108r",
+      "raw_quote": "sume albam columbam... Et scribe de huiusc collumbe sangwine hanc figuram."
+    },
+    {
+      "name": "bat blood",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "fol. 107r–v",
+      "raw_quote": "hec nomina cum sa[n]gwine vespertilionis"
+    },
+    {
+      "name": "white dove",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "fols 107v–108r",
+      "raw_quote": "sume albam columbam, die Sabbati de nocte"
+    },
+    {
+      "name": "salis petri (saltpeter)",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": "fol. 108v",
+      "raw_quote": "Item recipe salis petri, vitrioli, rorani"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Astaroth",
+      "to": "Ritual for identifying thieves",
+      "type": "is used in"
+    },
+    {
+      "from": "Haram",
+      "to": "Ritual for discovering hidden treasure",
+      "type": "is invoked in"
+    },
+    {
+      "from": "Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon",
+      "to": "Ritual for obtaining a horse",
+      "type": "are components of"
+    }
+  ],
+  "summary": "This chunk contains several distinct magical experiments: a conjuration using Astaroth to identify thieves, a ritual involving the spirit Haram to find treasure through dreams, and instructions for obtaining a horse using names written in bat blood. It also details a method for invisibility via a dove sacrifice and provides astrological timing for inscriptions.",
+  "key_passages": [
+    "per magistrum vestrum Astaroth, vt compareatisj in forma furis et furti",
+    "in sompnis Haram, spiritus benignus, et inflammet cor meum et mentem meum, vt sciam thesaurum invenire",
+    "hec nomina cum sa[n]gwine vespertilionis: Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon.",
+    "sume albam columbam... Et scribe de huiusc collumbe sangwine hanc figuram."
+  ]
 }

@@ -14,10 +14,10 @@
       "kieckhefer_clm849",
       "liber_juratus"
     ],
-    "total_raw_entities": 3540,
-    "total_merged_entities": 2472,
-    "total_relationships": 1217,
-    "total_chunk_summaries": 100
+    "total_raw_entities": 3661,
+    "total_merged_entities": 2540,
+    "total_relationships": 1253,
+    "total_chunk_summaries": 109
   },
   "entities": [
     {
@@ -31,13 +31,16 @@
           "helper in image-making ritual",
           "demon invoked on knife handle",
           "named in conjurations",
+          "helper in love ritual",
           "prince of the south",
           "helper in image magic",
           "master/prince",
           "demonic spirit",
           "infernal prince invoked in love magic",
+          "conjured for information",
           "prince of demons; also called 'magister vester' (your master)",
-          "magister vester; invoked as source of magical power"
+          "magister vester; invoked as source of magical power",
+          "master of the conjuration"
         ],
         "context": "love magic ritual",
         "rank": [
@@ -57,6 +60,7 @@
           "has power to bind man and woman in love"
         ],
         "functions": "mentioned among named demons",
+        "association": "name written on knife handle",
         "category": "familiar from other sources",
         "variant_names": [
           "Astoroth",
@@ -67,12 +71,16 @@
       "page_refs": [
         "166",
         "269n (fig. f.30r); 271a",
+        "62v–65r",
         "63r",
         "CLM 849, experiment no. 2; footnote 14",
+        "Experiment no. 40",
         "Table C (no. 2; no. 12; no. 33)",
+        "[104v]",
         "[99r], [100r], [103v]",
         "experiment no. 40",
         "fol. 14v",
+        "fols 29v-31v",
         "p. 102",
         "p. 108",
         "p. 186",
@@ -94,13 +102,16 @@
       "sources": [
         "forbidden_rites_pdf:chunk_10",
         "forbidden_rites_pdf:chunk_11",
+        "forbidden_rites_pdf:chunk_14",
         "forbidden_rites_pdf:chunk_17",
         "forbidden_rites_pdf:chunk_19",
         "forbidden_rites_pdf:chunk_20",
         "forbidden_rites_pdf:chunk_21",
         "forbidden_rites_pdf:chunk_26",
         "forbidden_rites_pdf:chunk_27",
+        "forbidden_rites_pdf:chunk_32",
         "forbidden_rites_pdf:chunk_36",
+        "forbidden_rites_pdf:chunk_37",
         "necro:chunk_10",
         "necro:chunk_11",
         "necro:chunk_14",
@@ -109,6 +120,7 @@
         "necro:chunk_20",
         "necro:chunk_21",
         "necro:chunk_25",
+        "necro:chunk_27",
         "necro:chunk_32",
         "necro:chunk_36",
         "necro:chunk_38"
@@ -117,7 +129,7 @@
         "kieckhefer_clm849"
       ],
       "cross_work": false,
-      "occurrence_count": 21
+      "occurrence_count": 25
     },
     {
       "canonical_name": "satan",
@@ -220,6 +232,104 @@
       ],
       "cross_work": true,
       "occurrence_count": 20
+    },
+    {
+      "canonical_name": "berith",
+      "display_name": "Berith",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "powerful spirit",
+          "king",
+          "demon",
+          "princeps demoniorum"
+        ],
+        "function": [
+          "one of four spirits invoked for invisibility cloak",
+          "one of three kings conjured",
+          "described as fornicator, temptator, seductor; appears in circles",
+          "conveys knowledge through spirit-magister",
+          "answers inquiries"
+        ],
+        "role": [
+          "lord to whom demons are bound in obedience",
+          "named in conjurations",
+          "conjured spirit in invisibility ritual",
+          "demon involved in conjuration to send a teacher",
+          "one of three kings",
+          "demonic spirit",
+          "king",
+          "spirits invoked for invisibility",
+          "one of twelve names inscribed on crucible rim"
+        ],
+        "context": "conjuration",
+        "appearance": null,
+        "nature": "potent, magnificent, and illustrious",
+        "functions": "mentioned among named demons",
+        "direction": "east",
+        "hierarchy": [
+          "demon",
+          "king"
+        ],
+        "titles": [
+          "fornicator, temptator, et seductor, possessor hominum"
+        ],
+        "page_refs": "pp. 192–194"
+      },
+      "page_refs": [
+        "144–146",
+        "231–234",
+        "CLM 849, experiment no. 11; footnote 8, 10, 14",
+        "Experiment for instruction",
+        "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
+        "Table C (no. 1; spiritus potens, magnificus, et illustris, no. 11)",
+        "experiment no. 11",
+        "fols 28r-29v",
+        "fols 3r-5v",
+        "p. 105",
+        "p. 123",
+        "p. 193",
+        "p. 207",
+        "p. 264–266, No. 11; p. 265 n.b,c",
+        "p. 349 (83r)",
+        "p. 59, 60, 83, 100, 117, 118, 156, 161, 173 (index)",
+        "p. 78–79",
+        "section 7, Demons and Daimons"
+      ],
+      "raw_quotes": [
+        "...conjure you, O Fyriel, Mememil, Berith, [and] Taraor...",
+        "I conjure all you demons inscribed on this image, by your lords to whom you are bound in obedience — Sobedon, Badalam and Berith — that you should inflame so-and-so…",
+        "Apolin, Maraloth, Berith, 1, so-",
+        "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan.",
+        "Berith (or Berit) (no. 1; spiritus potens, magnificus, et illustris, no. 11; princeps demoniorum, fornicator, temptator, et seductor, possessor hominum, no. 38)"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_10",
+        "forbidden_rites_pdf:chunk_12",
+        "forbidden_rites_pdf:chunk_14",
+        "forbidden_rites_pdf:chunk_16/39",
+        "forbidden_rites_pdf:chunk_20",
+        "forbidden_rites_pdf:chunk_21",
+        "forbidden_rites_pdf:chunk_23",
+        "forbidden_rites_pdf:chunk_26",
+        "forbidden_rites_pdf:chunk_34",
+        "forbidden_rites_pdf:chunk_7",
+        "necro:chunk_10",
+        "necro:chunk_15",
+        "necro:chunk_19",
+        "necro:chunk_20",
+        "necro:chunk_21",
+        "necro:chunk_24",
+        "necro:chunk_27",
+        "necro:chunk_38",
+        "necro:chunk_7"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 19
     },
     {
       "canonical_name": "gabriel",
@@ -340,6 +450,7 @@
         "role": [
           "helper in image-making ritual",
           "named in conjurations; 'foremost prince'",
+          "initial prince/helper in love ritual",
           "principal prince",
           "named in final invocation",
           "demonic spirit",
@@ -366,6 +477,7 @@
         "Munich Handbook, CLM 849",
         "Table C (no. 12)",
         "fol 4v (circle)",
+        "fols 29v-31v",
         "p. 108",
         "p. 186",
         "p. 193",
@@ -396,105 +508,14 @@
         "necro:chunk_20",
         "necro:chunk_21",
         "necro:chunk_24",
+        "necro:chunk_27",
         "necro:chunk_38"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
       ],
       "cross_work": false,
-      "occurrence_count": 17
-    },
-    {
-      "canonical_name": "berith",
-      "display_name": "Berith",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "powerful spirit",
-          "king",
-          "demon",
-          "princeps demoniorum"
-        ],
-        "function": [
-          "one of four spirits invoked for invisibility cloak",
-          "one of three kings conjured",
-          "described as fornicator, temptator, seductor; appears in circles",
-          "conveys knowledge through spirit-magister",
-          "answers inquiries"
-        ],
-        "role": [
-          "lord to whom demons are bound in obedience",
-          "named in conjurations",
-          "conjured spirit in invisibility ritual",
-          "one of three kings",
-          "demonic spirit",
-          "king",
-          "spirits invoked for invisibility",
-          "one of twelve names inscribed on crucible rim"
-        ],
-        "context": "conjuration",
-        "appearance": null,
-        "functions": "mentioned among named demons",
-        "direction": "east",
-        "hierarchy": [
-          "demon",
-          "king"
-        ],
-        "titles": [
-          "fornicator, temptator, et seductor, possessor hominum"
-        ],
-        "page_refs": "pp. 192–194"
-      },
-      "page_refs": [
-        "144–146",
-        "231–234",
-        "CLM 849, experiment no. 11; footnote 8, 10, 14",
-        "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
-        "Table C (no. 1; spiritus potens, magnificus, et illustris, no. 11)",
-        "experiment no. 11",
-        "fols 3r-5v",
-        "p. 105",
-        "p. 123",
-        "p. 193",
-        "p. 207",
-        "p. 264–266, No. 11; p. 265 n.b,c",
-        "p. 349 (83r)",
-        "p. 59, 60, 83, 100, 117, 118, 156, 161, 173 (index)",
-        "p. 78–79",
-        "section 7, Demons and Daimons"
-      ],
-      "raw_quotes": [
-        "...conjure you, O Fyriel, Mememil, Berith, [and] Taraor...",
-        "I conjure all you demons inscribed on this image, by your lords to whom you are bound in obedience — Sobedon, Badalam and Berith — that you should inflame so-and-so…",
-        "Apolin, Maraloth, Berith, 1, so-",
-        "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan.",
-        "Berith (or Berit) (no. 1; spiritus potens, magnificus, et illustris, no. 11; princeps demoniorum, fornicator, temptator, et seductor, possessor hominum, no. 38)"
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_10",
-        "forbidden_rites_pdf:chunk_12",
-        "forbidden_rites_pdf:chunk_16/39",
-        "forbidden_rites_pdf:chunk_20",
-        "forbidden_rites_pdf:chunk_21",
-        "forbidden_rites_pdf:chunk_23",
-        "forbidden_rites_pdf:chunk_26",
-        "forbidden_rites_pdf:chunk_34",
-        "forbidden_rites_pdf:chunk_7",
-        "necro:chunk_10",
-        "necro:chunk_15",
-        "necro:chunk_19",
-        "necro:chunk_20",
-        "necro:chunk_21",
-        "necro:chunk_24",
-        "necro:chunk_38",
-        "necro:chunk_7"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 17
+      "occurrence_count": 18
     },
     {
       "canonical_name": "raphael",
@@ -1217,6 +1238,120 @@
       "occurrence_count": 9
     },
     {
+      "canonical_name": "paimon",
+      "display_name": "Paymon",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": [
+          "helper in image-making ritual",
+          "named in conjurations",
+          "helper in love ritual",
+          "helper in image magic",
+          "infernal prince invoked in love magic"
+        ],
+        "rank": "demon",
+        "function": "appears in circles and conjurations",
+        "functions": "mentioned among named demons"
+      },
+      "page_refs": [
+        "269n (fig. f.30r)",
+        "87, 156, 173, 174",
+        "CLM 849, experiment no. 12; footnote 14",
+        "fols 29v-31v",
+        "p. 108",
+        "p. 266–267, No. 12",
+        "p. 87, 156, 173, 174 (index)",
+        "section 7, Demons and Daimons"
+      ],
+      "raw_quotes": [
+        "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\"",
+        "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan.",
+        "Tu Belial, tu Astaroth, tu Paymon...",
+        "Tu Belial, tu Astarothtf tu Paymon",
+        "Paymon, 87, 156, 173, 174"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_11",
+        "forbidden_rites_pdf:chunk_26",
+        "forbidden_rites_pdf:chunk_27",
+        "forbidden_rites_pdf:chunk_38",
+        "necro:chunk_11",
+        "necro:chunk_19",
+        "necro:chunk_21",
+        "necro:chunk_27",
+        "necro:chunk_38"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 9
+    },
+    {
+      "canonical_name": "satquiel",
+      "display_name": "Satquiel",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "angel",
+          "archangel"
+        ],
+        "day": "Thursday",
+        "functions": [
+          "peace",
+          "taming beasts",
+          "illuminating dark places"
+        ],
+        "planet": "Jupiter",
+        "role": [
+          "angel constituted over the fifth image (Thursday)",
+          "prepositus diei Jouis",
+          "invoked in Saturday's conjuration",
+          "Leader of angels"
+        ],
+        "location": "Side of heptagon",
+        "classification": "Saturnian/Jovial",
+        "sword": "2nd and 7th"
+      },
+      "page_refs": [
+        "201",
+        "270-271",
+        "298-299",
+        "358",
+        "67-68",
+        "71v, 75r, 76v",
+        "Table E (37g), Table F (5th hour), Table G (1st hour)",
+        "no. 37m/q",
+        "p. 336–345"
+      ],
+      "raw_quotes": [
+        "Thurs.: Satquiel — Madrath, son of Arath [...] peace",
+        "Coniuro super te, Satquiel, angele magne qui est- prepositus diei Jouis",
+        "the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel",
+        "Coniuro super te, Satquiel, angele magne qui est prepositus diei Jouis",
+        "[...] Mittaron, Satquiel [...] "
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22",
+        "forbidden_rites_pdf:chunk_33",
+        "forbidden_rites_pdf:chunk_35",
+        "liber_juratus:chunk_16",
+        "liber_juratus:chunk_22",
+        "liber_juratus:chunk_24",
+        "liber_juratus:chunk_5",
+        "necro:chunk_22",
+        "necro:chunk_33"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849",
+        "liber_juratus"
+      ],
+      "cross_work": true,
+      "occurrence_count": 9
+    },
+    {
       "canonical_name": "seal of god",
       "display_name": "Seal of God",
       "type": "tool",
@@ -1276,6 +1411,66 @@
       ],
       "cross_work": false,
       "occurrence_count": 9
+    },
+    {
+      "canonical_name": "apolin",
+      "display_name": "Apolin",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "king",
+          "demon"
+        ],
+        "function": [
+          "one of three kings conjured; commands teacher-spirit",
+          "conveys knowledge through spirit-magister"
+        ],
+        "note": [
+          "possibly Apollion",
+          "possibly corrupt for Apollion"
+        ],
+        "role": [
+          "demon involved in conjuration to send a teacher",
+          "one of three kings conjured",
+          "demonic spirit",
+          "king, invoked first in conjuration"
+        ],
+        "hierarchy": "king",
+        "direction": "orientem (east)"
+      },
+      "page_refs": [
+        "144–146",
+        "231–234",
+        "Experiment for instruction",
+        "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
+        "fols 3r-5v",
+        "p. 186–187",
+        "p. 207",
+        "section 7, Demons and Daimons"
+      ],
+      "raw_quotes": [
+        "Apolin, Maraloth, Berith, 1, so-",
+        "...one conjures not only Belzebub, Berith, Lucifer and Sathan, but also Apolin, Beliath and Maraloch",
+        "O rex Apolin, magne, potens, et venerabilis... rogo per incomprehensibilem magestatem tuam vt famulus et subiectus tuus, tabs, magister meus, debeat ad me venire quam 1 cicius fieri potest...",
+        "The magician commands the demons Apolin, Maraloth and Berith to send yet another demon as a teacher",
+        "O King Apolin, great, powerful, and venerable, I, your servant..."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14",
+        "forbidden_rites_pdf:chunk_16/39",
+        "forbidden_rites_pdf:chunk_19",
+        "forbidden_rites_pdf:chunk_21",
+        "forbidden_rites_pdf:chunk_23",
+        "necro:chunk_15",
+        "necro:chunk_19",
+        "necro:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 8
     },
     {
       "canonical_name": "barthan",
@@ -1449,6 +1644,63 @@
       "occurrence_count": 8
     },
     {
+      "canonical_name": "mirael",
+      "display_name": "Mirael",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": [
+          "malign spirit",
+          "named in conjurations",
+          "malign spirit conjured to inflict dementia",
+          "angelic or intermediate spirit",
+          "ablator sapientie, sciencie, cognicionis, et artis"
+        ],
+        "function": [
+          "afflicts brain to cause dementia",
+          "appears in circle centre"
+        ],
+        "rank": [
+          "demon",
+          "spiritus benignissimi",
+          "demon/angel"
+        ],
+        "functions": "mentioned among named spirits",
+        "action": "dilute and abolish mind, sense, discretion, and thought"
+      },
+      "page_refs": [
+        "74, 156, 172",
+        "CLM 849, experiment no. 2; footnote 14",
+        "fols 6r–7v",
+        "p. 207",
+        "p. 74, 156, L72 (index)",
+        "p. 94",
+        "section 7, Demons and Daimons"
+      ],
+      "raw_quotes": [
+        "commanding the malign spirit Mirael to enter and afflict his brain",
+        "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan.",
+        "the names Mirael and N. [...] inscribed in its centre",
+        "Mirael, 74,156, L72",
+        "no. 2 has [...] the names Mirael and N. (for the name of the intended victim) inscribed in its centre"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_21",
+        "forbidden_rites_pdf:chunk_24",
+        "forbidden_rites_pdf:chunk_38",
+        "forbidden_rites_pdf:chunk_9",
+        "necro:chunk_19",
+        "necro:chunk_21",
+        "necro:chunk_38",
+        "necro:chunk_9"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 8
+    },
+    {
       "canonical_name": "osiris",
       "display_name": "Osiris",
       "type": "spirit",
@@ -1512,114 +1764,6 @@
         "garnier_1909"
       ],
       "cross_work": false,
-      "occurrence_count": 8
-    },
-    {
-      "canonical_name": "paimon",
-      "display_name": "Paymon",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "role": [
-          "helper in image-making ritual",
-          "named in conjurations",
-          "helper in image magic",
-          "infernal prince invoked in love magic"
-        ],
-        "rank": "demon",
-        "function": "appears in circles and conjurations",
-        "functions": "mentioned among named demons"
-      },
-      "page_refs": [
-        "269n (fig. f.30r)",
-        "87, 156, 173, 174",
-        "CLM 849, experiment no. 12; footnote 14",
-        "p. 108",
-        "p. 266–267, No. 12",
-        "p. 87, 156, 173, 174 (index)",
-        "section 7, Demons and Daimons"
-      ],
-      "raw_quotes": [
-        "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\"",
-        "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan.",
-        "Tu Belial, tu Astaroth, tu Paymon...",
-        "Paymon, 87, 156, 173, 174",
-        "...Astarotht, tu Paymon..."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_11",
-        "forbidden_rites_pdf:chunk_26",
-        "forbidden_rites_pdf:chunk_27",
-        "forbidden_rites_pdf:chunk_38",
-        "necro:chunk_11",
-        "necro:chunk_19",
-        "necro:chunk_21",
-        "necro:chunk_38"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 8
-    },
-    {
-      "canonical_name": "satquiel",
-      "display_name": "Satquiel",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "angel",
-          "archangel"
-        ],
-        "day": "Thursday",
-        "functions": [
-          "peace",
-          "taming beasts",
-          "illuminating dark places"
-        ],
-        "planet": "Jupiter",
-        "role": [
-          "prepositus diei Jouis",
-          "invoked in Saturday's conjuration",
-          "Leader of angels"
-        ],
-        "location": "Side of heptagon",
-        "classification": "Saturnian/Jovial",
-        "sword": "2nd and 7th"
-      },
-      "page_refs": [
-        "201",
-        "270-271",
-        "298-299",
-        "358",
-        "67-68",
-        "71v, 75r, 76v",
-        "Table E (37g), Table F (5th hour), Table G (1st hour)",
-        "p. 336–345"
-      ],
-      "raw_quotes": [
-        "Thurs.: Satquiel — Madrath, son of Arath [...] peace",
-        "Coniuro super te, Satquiel, angele magne qui est- prepositus diei Jouis",
-        "Coniuro super te, Satquiel, angele magne qui est prepositus diei Jouis",
-        "[...] Mittaron, Satquiel [...] ",
-        "which is Satquiel."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_33",
-        "forbidden_rites_pdf:chunk_35",
-        "liber_juratus:chunk_16",
-        "liber_juratus:chunk_22",
-        "liber_juratus:chunk_24",
-        "liber_juratus:chunk_5",
-        "necro:chunk_22",
-        "necro:chunk_33"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849",
-        "liber_juratus"
-      ],
-      "cross_work": true,
       "occurrence_count": 8
     },
     {
@@ -1839,63 +1983,6 @@
       "occurrence_count": 7
     },
     {
-      "canonical_name": "apolin",
-      "display_name": "Apolin",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "king",
-          "demon"
-        ],
-        "function": [
-          "one of three kings conjured; commands teacher-spirit",
-          "conveys knowledge through spirit-magister"
-        ],
-        "note": [
-          "possibly Apollion",
-          "possibly corrupt for Apollion"
-        ],
-        "hierarchy": "king",
-        "role": [
-          "one of three kings conjured",
-          "demonic spirit",
-          "king, invoked first in conjuration"
-        ],
-        "direction": "orientem (east)"
-      },
-      "page_refs": [
-        "144–146",
-        "231–234",
-        "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
-        "fols 3r-5v",
-        "p. 186–187",
-        "p. 207",
-        "section 7, Demons and Daimons"
-      ],
-      "raw_quotes": [
-        "Apolin, Maraloth, Berith, 1, so-",
-        "...one conjures not only Belzebub, Berith, Lucifer and Sathan, but also Apolin, Beliath and Maraloch",
-        "O rex Apolin, magne, potens, et venerabilis... rogo per incomprehensibilem magestatem tuam vt famulus et subiectus tuus, tabs, magister meus, debeat ad me venire quam 1 cicius fieri potest...",
-        "O King Apolin, great, powerful, and venerable, I, your servant...",
-        "one conjures not only Belzebub, Berith, Lucifer and Sathan, but also Apolin, Beliath and Maraloch"
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_16/39",
-        "forbidden_rites_pdf:chunk_19",
-        "forbidden_rites_pdf:chunk_21",
-        "forbidden_rites_pdf:chunk_23",
-        "necro:chunk_15",
-        "necro:chunk_19",
-        "necro:chunk_24"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 7
-    },
-    {
       "canonical_name": "god",
       "display_name": "God",
       "type": "divine_name",
@@ -2025,59 +2112,6 @@
       ],
       "distinct_works": [
         "liber_juratus"
-      ],
-      "cross_work": false,
-      "occurrence_count": 7
-    },
-    {
-      "canonical_name": "mirael",
-      "display_name": "Mirael",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "role": [
-          "malign spirit",
-          "named in conjurations",
-          "malign spirit conjured to inflict dementia",
-          "angelic or intermediate spirit"
-        ],
-        "function": [
-          "afflicts brain to cause dementia",
-          "appears in circle centre"
-        ],
-        "rank": [
-          "demon",
-          "spiritus benignissimi",
-          "demon/angel"
-        ],
-        "functions": "mentioned among named spirits"
-      },
-      "page_refs": [
-        "74, 156, 172",
-        "CLM 849, experiment no. 2; footnote 14",
-        "p. 207",
-        "p. 74, 156, L72 (index)",
-        "p. 94",
-        "section 7, Demons and Daimons"
-      ],
-      "raw_quotes": [
-        "commanding the malign spirit Mirael to enter and afflict his brain",
-        "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan.",
-        "the names Mirael and N. [...] inscribed in its centre",
-        "Mirael, 74,156, L72",
-        "no. 2 has [...] the names Mirael and N. (for the name of the intended victim) inscribed in its centre"
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_21",
-        "forbidden_rites_pdf:chunk_38",
-        "forbidden_rites_pdf:chunk_9",
-        "necro:chunk_19",
-        "necro:chunk_21",
-        "necro:chunk_38",
-        "necro:chunk_9"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 7
@@ -2502,6 +2536,59 @@
       "occurrence_count": 6
     },
     {
+      "canonical_name": "hanni",
+      "display_name": "Hanni",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "note": "possibly Haniel",
+        "rank": [
+          "president",
+          "magnus preses",
+          "preses magnus"
+        ],
+        "appearance": [
+          "fiery flame, but takes human form",
+          "fiery flame or human form",
+          "in flamma ignea"
+        ],
+        "function": [
+          "teaches trivium; reveals hidden treasures",
+          "reveals hidden treasures; commands 30 legions"
+        ],
+        "page_refs": "p. 191",
+        "legions": "xxx"
+      },
+      "page_refs": [
+        "65v–65r bis",
+        "67r",
+        "Table D (no. 34)",
+        "p. 187",
+        "p. 191",
+        "section 7, Demons and Daimons"
+      ],
+      "raw_quotes": [
+        "...only Curson has broad currency (unless Hanni is equated with Haniel)",
+        "Hanni comes in a fiery flame, but also takes human form",
+        "Hanni preses magnus [est]... Dat optimos familiares et graciam magnatum et principum, et loca thesaurorum que a spiritibus custodiunt[ur] mirabiliter ostendit. Habet sub se xxx legiones.",
+        "(unless Hanni is equated with Haniel)",
+        "Hanni comes in a fiery flame, but also takes human form."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_19",
+        "forbidden_rites_pdf:chunk_20",
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_19",
+        "necro:chunk_20",
+        "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 6
+    },
+    {
       "canonical_name": "jesus christ",
       "display_name": "Jesus Christ",
       "type": "divine_name",
@@ -2825,6 +2912,49 @@
       "occurrence_count": 6
     },
     {
+      "canonical_name": "white dove",
+      "display_name": "white dove",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "function": "sacrificed in invisibility ritual no. 45",
+        "role": [
+          "sacrificial animal for love magic",
+          "sacrificed; blood used to inscribe image"
+        ],
+        "context": "love ritual",
+        "use": "sacrifice in invisibility ritual no. 45",
+        "description": "columbam totam albam"
+      },
+      "page_refs": [
+        "experiment no. 45",
+        "fols 107v–108r",
+        "fols 8r–11v",
+        "p. 103–104",
+        "p. 79–80"
+      ],
+      "raw_quotes": [
+        "...takes a white dove and a sheet of virgin parchment...",
+        "first you must have a totally white dove and a parchment made from a female dog that is in heat...",
+        "...have a totally white dove and a parchment made from a female dog that is in heat...",
+        "primus debes habere quandam columbam totam albam",
+        "sume albam columbam, die Sabbati de nocte"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_10",
+        "forbidden_rites_pdf:chunk_24",
+        "forbidden_rites_pdf:chunk_37",
+        "forbidden_rites_pdf:chunk_7",
+        "necro:chunk_10",
+        "necro:chunk_7"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 6
+    },
+    {
       "canonical_name": "ym",
       "display_name": "Ym",
       "type": "spirit",
@@ -2953,6 +3083,82 @@
         "necro:chunk_33",
         "necro:chunk_36",
         "necro:chunk_38"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 5
+    },
+    {
+      "canonical_name": "asyel",
+      "display_name": "Asyel",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": [
+          "conjured spirit for constraint rituals",
+          "conjuration spirit in bone ritual",
+          "demonic spirit"
+        ]
+      },
+      "page_refs": [
+        "271a, 272a",
+        "fols 32r-33r",
+        "p. 112",
+        "p. 207"
+      ],
+      "raw_quotes": [
+        "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\"",
+        "Asyel, Castiel, Lamisniel, Rabam, Erlain, [et] Belam",
+        "no. 13 has the names Asyel, Castyel...",
+        "Asyel, Castiel, Lamisniel, Rabam, Erlain, [et] Belam..."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_11",
+        "forbidden_rites_pdf:chunk_21",
+        "forbidden_rites_pdf:chunk_27",
+        "necro:chunk_11",
+        "necro:chunk_27"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 5
+    },
+    {
+      "canonical_name": "bartha",
+      "display_name": "Bartha",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "king",
+          "rex"
+        ],
+        "role": "king of clouds",
+        "page_refs": "p. 195",
+        "title": "rex nubium"
+      },
+      "page_refs": [
+        "342v–35r",
+        "p. 186",
+        "p. 195",
+        "section 7, Demons and Daimons"
+      ],
+      "raw_quotes": [
+        "Bartha is a king",
+        "voca regem nubium, nomine Bartha",
+        "Bartha (or Bartham?) (rex, no. 15)",
+        "...voca regem nubium, nomine Bartha..."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_19",
+        "forbidden_rites_pdf:chunk_20",
+        "forbidden_rites_pdf:chunk_27",
+        "necro:chunk_19",
+        "necro:chunk_27"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -3214,54 +3420,6 @@
       "occurrence_count": 5
     },
     {
-      "canonical_name": "hanni",
-      "display_name": "Hanni",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "note": "possibly Haniel",
-        "rank": [
-          "president",
-          "magnus preses"
-        ],
-        "appearance": [
-          "fiery flame, but takes human form",
-          "fiery flame or human form"
-        ],
-        "function": [
-          "teaches trivium; reveals hidden treasures",
-          "reveals hidden treasures; commands 30 legions"
-        ],
-        "page_refs": "p. 191"
-      },
-      "page_refs": [
-        "67r",
-        "Table D (no. 34)",
-        "p. 187",
-        "p. 191",
-        "section 7, Demons and Daimons"
-      ],
-      "raw_quotes": [
-        "...only Curson has broad currency (unless Hanni is equated with Haniel)",
-        "Hanni comes in a fiery flame, but also takes human form",
-        "Hanni preses magnus [est]... Dat optimos familiares et graciam magnatum et principum, et loca thesaurorum que a spiritibus custodiunt[ur] mirabiliter ostendit. Habet sub se xxx legiones.",
-        "(unless Hanni is equated with Haniel)",
-        "Hanni comes in a fiery flame, but also takes human form."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_19",
-        "forbidden_rites_pdf:chunk_20",
-        "necro:chunk_19",
-        "necro:chunk_20",
-        "necro:chunk_32"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 5
-    },
-    {
       "canonical_name": "harthan",
       "display_name": "Harthan",
       "type": "spirit",
@@ -3370,6 +3528,90 @@
       "occurrence_count": 5
     },
     {
+      "canonical_name": "iron stylus",
+      "display_name": "iron stylus",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "role": [
+          "used to inscribe names on image",
+          "used to trace circle",
+          "used to trace protective circle"
+        ],
+        "context": "love summoning ritual",
+        "use": "carving names on image"
+      },
+      "page_refs": [
+        "fols 10r–10v",
+        "p. 106",
+        "p. 97"
+      ],
+      "raw_quotes": [
+        "you should have an iron stylus, and on his forehead carve the name ‘Dyacom’...",
+        "Take an iron stylus and trace [a band with names in it] round the circle...",
+        "you should have an iron stylus, and on his forehead carve the name ‘Dyacom’",
+        "Debes eciam habere stilum ferreum"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_10",
+        "forbidden_rites_pdf:chunk_24",
+        "forbidden_rites_pdf:chunk_9",
+        "necro:chunk_10",
+        "necro:chunk_9"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 5
+    },
+    {
+      "canonical_name": "lilith",
+      "display_name": "Lilith",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": [
+          "demoness",
+          "demon associated with scrying",
+          "female demoness; associated with mirror ritual",
+          "Female demon associated with spirit unions during sleep"
+        ],
+        "form": "mirror named after her",
+        "appears_in": [
+          "CLM 849"
+        ],
+        "nature": "ancient Hebrew demon",
+        "followers": "knights/demons"
+      },
+      "page_refs": [
+        "237",
+        "42",
+        "42r–43r (No. 23)",
+        "Table A (experiment 23)"
+      ],
+      "raw_quotes": [
+        "First mirror of Lilith",
+        "First mirror of Lilith (no. 23)",
+        "The First Mirror of Lilith (spelled Lilit or Lylet) is dedicated to this ancient Hebrew demon and to her followers and her ‘knights’",
+        "Hoc est primum speculum Lilit et suorum virorum suorumque militum seniorum.",
+        "\"They were called 'Incubus and Succubus,' or 'The Lilith.'\""
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_13",
+        "forbidden_rites_pdf:chunk_28",
+        "forbidden_rites_pdf:chunk_3",
+        "necro:chunk_3",
+        "worship_dead:chunk_23"
+      ],
+      "distinct_works": [
+        "garnier_1909",
+        "kieckhefer_clm849"
+      ],
+      "cross_work": true,
+      "occurrence_count": 5
+    },
+    {
       "canonical_name": "lylet",
       "display_name": "Lylet",
       "type": "spirit",
@@ -3414,6 +3656,52 @@
       "occurrence_count": 5
     },
     {
+      "canonical_name": "maraloth",
+      "display_name": "Maraloth",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": "king",
+        "function": [
+          "one of three kings conjured",
+          "conveys knowledge through spirit-magister"
+        ],
+        "role": [
+          "demon involved in conjuration to send a teacher",
+          "one of three kings",
+          "king"
+        ],
+        "hierarchy": "king",
+        "variant_spelling": "Maraloch (p. 234)"
+      },
+      "page_refs": [
+        "144–146",
+        "231–234",
+        "Experiment for instruction",
+        "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
+        "fols 3r-5v"
+      ],
+      "raw_quotes": [
+        "Apolin, Maraloth, Berith, 1, so-",
+        "...dicere [debes] versus Maraloth, mutando nomen...",
+        "The magician commands the demons Apoluring, Maraloth and Berith to send yet another demon as a teacher",
+        "...Apolin, Maraloth, Berith, I, so-and-so, exorcise and conjure you...",
+        "Apolin, Maraloth, Berith... O rex Apolin, magne, potens, et venerabilis... Et similiter dicere [debes] versus Maraloth..."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14",
+        "forbidden_rites_pdf:chunk_16/39",
+        "forbidden_rites_pdf:chunk_23",
+        "necro:chunk_15",
+        "necro:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 5
+    },
+    {
       "canonical_name": "moloy",
       "display_name": "Moloy",
       "type": "spirit",
@@ -3449,6 +3737,50 @@
         "necro:chunk_25",
         "necro:chunk_26",
         "necro:chunk_6"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 5
+    },
+    {
+      "canonical_name": "myrrh",
+      "display_name": "myrrh",
+      "type": "ingredient",
+      "name_variants": [
+        "Myrrh",
+        "myrrh"
+      ],
+      "attributes": {
+        "function": "used in fumigation for invisibility ritual",
+        "role": [
+          "fumigant in love magic ritual",
+          "used in fumigation of image"
+        ],
+        "context": "love ritual",
+        "use": [
+          "fumigation",
+          "psychological experiments"
+        ]
+      },
+      "page_refs": [
+        "experiment no. 11",
+        "nos. 3,11,36",
+        "p. 104"
+      ],
+      "raw_quotes": [
+        "...frankincense (thus), myrrh and other incense...",
+        "When you have said this, take myrrh and saffron, kindle a fire, and fumigate the image...",
+        "...with myrrh and saffron (no. 3); ...incense and myrrh (no. 11)",
+        "with myrrh and saffron (no. 3)"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_10",
+        "forbidden_rites_pdf:chunk_22",
+        "necro:chunk_10",
+        "necro:chunk_22",
+        "necro:chunk_7"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -3641,6 +3973,47 @@
       "occurrence_count": 5
     },
     {
+      "canonical_name": "taraor",
+      "display_name": "Taraor",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "note": "possible identification of Tara",
+        "rank": "demon (unspecified)",
+        "direction": "north",
+        "nature": "potent, magnificent, and illustrious",
+        "role": [
+          "conjured spirit in invisibility ritual",
+          "demonic spirit"
+        ]
+      },
+      "page_refs": [
+        "CLM 849, experiment no. 11",
+        "fols 28r-29v",
+        "p. 207",
+        "p. 78–79",
+        "section 7, Demons and Daimons"
+      ],
+      "raw_quotes": [
+        "Taraor could be Tara",
+        "O Fyriel, Mememil, Berith, [ et] Taraor, spiritus potentes",
+        "...O Fyriel, Mememil, Berith, [and] Taraor...",
+        "no. 11 has [...] Taraor to the north"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_21",
+        "forbidden_rites_pdf:chunk_7",
+        "necro:chunk_19",
+        "necro:chunk_21",
+        "necro:chunk_27"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 5
+    },
+    {
       "canonical_name": "tatomofon",
       "display_name": "Tatomofon",
       "type": "spirit",
@@ -3763,40 +4136,6 @@
       "occurrence_count": 4
     },
     {
-      "canonical_name": "asyel",
-      "display_name": "Asyel",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "role": [
-          "conjured spirit for constraint rituals",
-          "conjuration spirit in bone ritual",
-          "demonic spirit"
-        ]
-      },
-      "page_refs": [
-        "271a, 272a",
-        "p. 112",
-        "p. 207"
-      ],
-      "raw_quotes": [
-        "\"Asyel, Castiel, Lamisniel, Rabam, Erlain, [and] Belam, I command you\"",
-        "no. 13 has the names Asyel, Castyel...",
-        "Asyel, Castiel, Lamisniel, Rabam, Erlain, [et] Belam..."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_11",
-        "forbidden_rites_pdf:chunk_21",
-        "forbidden_rites_pdf:chunk_27",
-        "necro:chunk_11"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 4
-    },
-    {
       "canonical_name": "baltim",
       "display_name": "Baltim",
       "type": "spirit",
@@ -3827,42 +4166,6 @@
         "forbidden_rites_pdf:chunk_7",
         "necro:chunk_19",
         "necro:chunk_7"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 4
-    },
-    {
-      "canonical_name": "bartha",
-      "display_name": "Bartha",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "king",
-          "rex"
-        ],
-        "page_refs": "p. 195",
-        "title": "rex nubium"
-      },
-      "page_refs": [
-        "342v–35r",
-        "p. 186",
-        "p. 195",
-        "section 7, Demons and Daimons"
-      ],
-      "raw_quotes": [
-        "Bartha is a king",
-        "Bartha (or Bartham?) (rex, no. 15)",
-        "...voca regem nubium, nomine Bartha..."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_19",
-        "forbidden_rites_pdf:chunk_20",
-        "forbidden_rites_pdf:chunk_27",
-        "necro:chunk_19"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -4347,33 +4650,38 @@
       "occurrence_count": 4
     },
     {
-      "canonical_name": "iron stylus",
-      "display_name": "iron stylus",
-      "type": "tool",
+      "canonical_name": "floron",
+      "display_name": "Floron",
+      "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "role": [
-          "used to inscribe names on image",
-          "used to trace circle",
-          "used to trace protective circle"
+        "rank": [
+          "spirit",
+          "spiritus"
         ],
-        "context": "love summoning ritual",
-        "use": "carving names on image"
+        "function": [
+          "appears in mirror to answer questions about past, present, future; gives written responses first, then oral",
+          "reveals past, present, future"
+        ],
+        "appearance_in_mirror": "armed knight seated on a horse, and his squire accompanying him",
+        "nature": "appears in mirror",
+        "role": "spiritus predictus; dominus speculi"
       },
       "page_refs": [
-        "p. 106",
-        "p. 97"
+        "37r–39v",
+        "fols 37r-38r, 38r-39v",
+        "n/a (Munich Handbook Clm 849, Expt. 18/19)"
       ],
       "raw_quotes": [
-        "you should have an iron stylus, and on his forehead carve the name ‘Dyacom’...",
-        "Take an iron stylus and trace [a band with names in it] round the circle...",
-        "you should have an iron stylus, and on his forehead carve the name ‘Dyacom’"
+        "he will see an armed knight seated on a horse... he will greet the knight [with the words], se desperata, decentissime visibiliter greciomo.",
+        "O Floron, in speculo sicut solitus es apparere citissime respondeas.",
+        "The master... will see an armed knight seated on a horse, and his squire accompanying him."
       ],
       "sources": [
-        "forbidden_rites_pdf:chunk_10",
-        "forbidden_rites_pdf:chunk_9",
-        "necro:chunk_10",
-        "necro:chunk_9"
+        "forbidden_rites_pdf:chunk_13",
+        "forbidden_rites_pdf:chunk_27",
+        "necro:chunk_13",
+        "necro:chunk_28"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -4382,45 +4690,38 @@
       "occurrence_count": 4
     },
     {
-      "canonical_name": "lilith",
-      "display_name": "Lilith",
+      "canonical_name": "haram",
+      "display_name": "Haram",
       "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "role": [
-          "demoness",
-          "demon associated with scrying",
-          "female demoness; associated with mirror ritual",
-          "Female demon associated with spirit unions during sleep"
-        ],
-        "form": "mirror named after her",
-        "appears_in": [
-          "CLM 849"
-        ]
+        "role": "benign spirit who appears in dream to reveal treasure",
+        "function": "spirit to appear in dream and guide to treasure",
+        "nature": "benign spirit",
+        "purpose": "to reveal hidden treasure in sleep"
       },
       "page_refs": [
-        "237",
-        "42",
-        "42r–43r (No. 23)",
-        "Table A (experiment 23)"
+        "106v",
+        "Experiment no. 41",
+        "[106v]",
+        "experiment no. 41"
       ],
       "raw_quotes": [
-        "First mirror of Lilith",
-        "First mirror of Lilith (no. 23)",
-        "Hoc est primum speculum Lilit et suorum virorum suorumque militum seniorum.",
-        "\"They were called 'Incubus and Succubus,' or 'The Lilith.'\""
+        "on the following night Haram, a benign spirit, may come to me in my sleep...",
+        "veniat ad me in sompnis Haram, spiritus benignus...",
+        "Haram, a benign spirit, may come to me in my enough sleep and enkindle my heart and my mind, that I may know how to find a treasure",
+        "in sompnis Haram, spiritus benignus, et inflammet cor meum"
       ],
       "sources": [
-        "forbidden_rites_pdf:chunk_28",
-        "forbidden_rites_pdf:chunk_3",
-        "necro:chunk_3",
-        "worship_dead:chunk_23"
+        "forbidden_rites_pdf:chunk_14",
+        "forbidden_rites_pdf:chunk_37",
+        "necro:chunk_14",
+        "necro:chunk_37"
       ],
       "distinct_works": [
-        "garnier_1909",
         "kieckhefer_clm849"
       ],
-      "cross_work": true,
+      "cross_work": false,
       "occurrence_count": 4
     },
     {
@@ -4466,79 +4767,35 @@
       "occurrence_count": 4
     },
     {
-      "canonical_name": "maraloth",
-      "display_name": "Maraloth",
+      "canonical_name": "melemil",
+      "display_name": "Melemil",
       "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "rank": "king",
-        "function": [
-          "one of three kings conjured",
-          "conveys knowledge through spirit-magister"
-        ],
-        "hierarchy": "king",
+        "rank": "demon (unspecified)",
+        "direction": "south",
+        "nature": "potent, magnificent, and illustrious",
         "role": [
-          "one of three kings",
-          "king"
-        ],
-        "variant_spelling": "Maraloch (p. 234)"
-      },
-      "page_refs": [
-        "144–146",
-        "231–234",
-        "Munich Handbook, CLM 849 (experiment for gaining knowledge)",
-        "fols 3r-5v"
-      ],
-      "raw_quotes": [
-        "Apolin, Maraloth, Berith, 1, so-",
-        "...dicere [debes] versus Maraloth, mutando nomen...",
-        "...Apolin, Maraloth, Berith, I, so-and-so, exorcise and conjure you...",
-        "Apolin, Maraloth, Berith... O rex Apolin, magne, potens, et venerabilis... Et similiter dicere [debes] versus Maraloth..."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_16/39",
-        "forbidden_rites_pdf:chunk_23",
-        "necro:chunk_15",
-        "necro:chunk_24"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 4
-    },
-    {
-      "canonical_name": "myrrh",
-      "display_name": "myrrh",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "function": "used in fumigation for invisibility ritual",
-        "role": [
-          "fumigant in love magic ritual",
-          "used in fumigation of image"
-        ],
-        "context": "love ritual",
-        "use": [
-          "fumigation",
-          "psychological experiments"
+          "conjured spirit in invisibility ritual",
+          "demonic spirit"
         ]
       },
       "page_refs": [
-        "experiment no. 11",
-        "nos. 3,11,36",
-        "p. 104"
+        "CLM 849, experiment no. 11",
+        "fols 28r-29v",
+        "p. 207",
+        "p. 78–79"
       ],
       "raw_quotes": [
-        "...frankincense (thus), myrrh and other incense...",
-        "When you have said this, take myrrh and saffron, kindle a fire, and fumigate the image...",
-        "...with myrrh and saffron (no. 3); ...incense and myrrh (no. 11)"
+        "O Fyriel, Mememil, Berith, [ et] Taraor, spiritus potentes",
+        "...O Fyriel, Mememil, Berith, [and] Taraor...",
+        "no. 11 has [...] Melemil to the south..."
       ],
       "sources": [
-        "forbidden_rites_pdf:chunk_10",
-        "necro:chunk_10",
-        "necro:chunk_22",
-        "necro:chunk_7"
+        "forbidden_rites_pdf:chunk_21",
+        "forbidden_rites_pdf:chunk_7",
+        "necro:chunk_21",
+        "necro:chunk_27"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -4594,6 +4851,43 @@
       ],
       "distinct_works": [
         "garnier_1909"
+      ],
+      "cross_work": false,
+      "occurrence_count": 4
+    },
+    {
+      "canonical_name": "olive oil",
+      "display_name": "olive oil",
+      "type": "ingredient",
+      "name_variants": [
+        "Olive Oil",
+        "olive oil"
+      ],
+      "attributes": {
+        "role": [
+          "anointing medium for boy’s nails/hands",
+          "used to anoint boy’s fingernail"
+        ]
+      },
+      "page_refs": [
+        "62v–65r",
+        "Multiple",
+        "p. 371 (97r), p. 376 (100r)"
+      ],
+      "raw_quotes": [
+        "anoints four joints of the boy’s left hand with olive oil... anoints his nail with olive oil",
+        "He anoints four joints of the boy’s left hand with olive oil",
+        "line ipsum cum oleo oliue",
+        "...vnge sibi vngwem cum oleo oliue..."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14",
+        "forbidden_rites_pdf:chunk_32",
+        "forbidden_rites_pdf:chunk_36",
+        "necro:chunk_14"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 4
@@ -4905,6 +5199,88 @@
       "occurrence_count": 4
     },
     {
+      "canonical_name": "saffron",
+      "display_name": "saffron",
+      "type": "ingredient",
+      "name_variants": [
+        "Saffron",
+        "saffron"
+      ],
+      "attributes": {
+        "role": [
+          "fumigant in love magic ritual",
+          "used in fumigation of image"
+        ],
+        "context": "love ritual",
+        "use": [
+          "fumigation"
+        ]
+      },
+      "page_refs": [
+        "no. 3",
+        "p. 104"
+      ],
+      "raw_quotes": [
+        "When you have said this, take myrrh and saffron, kindle a fire, and fumigate the image...",
+        "...with myrrh and saffron (no. 3)",
+        "...take myrrh and saffron, kindle a fire, and fumigate the image...",
+        "with myrrh and saffron (no. 3)"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_10",
+        "forbidden_rites_pdf:chunk_22",
+        "necro:chunk_10",
+        "necro:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 4
+    },
+    {
+      "canonical_name": "semiforas",
+      "display_name": "Semiforas",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "named spirit",
+        "appears_in": [
+          "experiment no. 42",
+          [
+            "CLM 849"
+          ]
+        ],
+        "rank": "great name",
+        "function": "used in treasure-divination ritual",
+        "folios": "106v–107r (no. 42)",
+        "significance": "great name written on the front of Aaron"
+      },
+      "page_refs": [
+        "106v-107r",
+        "42",
+        "Table A (no. 42)",
+        "fols 106v–107r"
+      ],
+      "raw_quotes": [
+        "The name Semiforas",
+        "hoc est nomen magnum Semiforas, quod erat scriptum in fronte Aaron, sacerdotis creatoris.",
+        "The name Semiforas (no. 42)",
+        "hoc est nomen magnum Semiforas, quod erat [107r] scriptum in fronte Aaron"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_3",
+        "forbidden_rites_pdf:chunk_37",
+        "necro:chunk_3",
+        "necro:chunk_37"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 4
+    },
+    {
       "canonical_name": "seraphim",
       "display_name": "Seraphim",
       "type": "spirit",
@@ -5057,43 +5433,6 @@
       "occurrence_count": 4
     },
     {
-      "canonical_name": "taraor",
-      "display_name": "Taraor",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "note": "possible identification of Tara",
-        "rank": "demon (unspecified)",
-        "direction": "north",
-        "role": [
-          "conjured spirit in invisibility ritual",
-          "demonic spirit"
-        ]
-      },
-      "page_refs": [
-        "CLM 849, experiment no. 11",
-        "p. 207",
-        "p. 78–79",
-        "section 7, Demons and Daimons"
-      ],
-      "raw_quotes": [
-        "Taraor could be Tara",
-        "...O Fyriel, Mememil, Berith, [and] Taraor...",
-        "no. 11 has [...] Taraor to the north"
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_21",
-        "forbidden_rites_pdf:chunk_7",
-        "necro:chunk_19",
-        "necro:chunk_21"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 4
-    },
-    {
       "canonical_name": "tryboy",
       "display_name": "Tryboy",
       "type": "spirit",
@@ -5122,42 +5461,6 @@
         "necro:chunk_19",
         "necro:chunk_21",
         "necro:chunk_24"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 4
-    },
-    {
-      "canonical_name": "white dove",
-      "display_name": "white dove",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "function": "sacrificed in invisibility ritual no. 45",
-        "role": [
-          "sacrificial animal for love magic",
-          "sacrificed; blood used to inscribe image"
-        ],
-        "context": "love ritual",
-        "use": "sacrifice in invisibility ritual no. 45"
-      },
-      "page_refs": [
-        "experiment no. 45",
-        "p. 103–104",
-        "p. 79–80"
-      ],
-      "raw_quotes": [
-        "...takes a white dove and a sheet of virgin parchment...",
-        "first you must have a totally white dove and a parchment made from a female dog that is in heat...",
-        "...have a totally white dove and a parchment made from a female dog that is in heat..."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_10",
-        "forbidden_rites_pdf:chunk_7",
-        "necro:chunk_10",
-        "necro:chunk_7"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -5230,6 +5533,47 @@
         "liber_juratus"
       ],
       "cross_work": true,
+      "occurrence_count": 3
+    },
+    {
+      "canonical_name": "alugor",
+      "display_name": "Alugor",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "duke",
+          "magnus dux"
+        ],
+        "appearance": [
+          "splendid knight, with lance, banner, and sceptre",
+          "similitudine militis pulcherrimi"
+        ],
+        "function": [
+          "reveals hidden treasures",
+          "reveals hidden things and duels; commands 1 legio"
+        ],
+        "legions": "lm"
+      },
+      "page_refs": [
+        "65v–65r bis",
+        "66r",
+        "Table D (no. 34)"
+      ],
+      "raw_quotes": [
+        "Alugor duke splendid knight, with lance, banner, and sceptre",
+        "Alugor magnus J dux est... Dat eciam milites in occursum, et dat graciam omnium regum, marchionum, et omnium militum. Habet sub se l m legiones.",
+        "Alugor magnus dux est. Apparet in similitudine militis pulcherrimi"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_20",
+        "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
       "occurrence_count": 3
     },
     {
@@ -5494,6 +5838,45 @@
       "occurrence_count": 3
     },
     {
+      "canonical_name": "cason",
+      "display_name": "Cason",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "duke",
+          "magnus dux",
+          "magnus dux et fortis"
+        ],
+        "appearance": "human, with large teeth and three horns, sharp sword in hand",
+        "function": [
+          "responds about present, past, future, and hidden matters; gives favour of friends and enemies; gives dignities",
+          "reveals past/present/future; grants friendship and dignity; commands 45 legions"
+        ],
+        "legions": "xlv"
+      },
+      "page_refs": [
+        "65v",
+        "65v–65r bis",
+        "Table D (no. 34)"
+      ],
+      "raw_quotes": [
+        "responds about present, past, future, and hidden matters; gives favour of friends and enemies; gives dignities",
+        "Cason magnus dux est et fortis... Dat ad plenitudinem vera responsiua- de presentibus, preteritis, et futuris... Habet sub se xlv legiones.",
+        "Cason magnus dux est et fortis... Habet sub se xlv legiones."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_20",
+        "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 3
+    },
+    {
       "canonical_name": "cotroy",
       "display_name": "Cotroy",
       "type": "spirit",
@@ -5724,34 +6107,39 @@
       "occurrence_count": 3
     },
     {
-      "canonical_name": "floron",
-      "display_name": "Floron",
+      "canonical_name": "gaeneron",
+      "display_name": "Gaeneron",
       "type": "spirit",
       "name_variants": [],
       "attributes": {
         "rank": [
-          "spirit",
-          "spiritus"
+          "duke",
+          "dux fortis et potens"
+        ],
+        "appearance": [
+          "beautiful woman, crowned, riding on camel",
+          "similitudine pulcherrime mulieris"
         ],
         "function": [
-          "appears in mirror to answer questions about past, present, future; gives written responses first, then oral",
-          "reveals past, present, future"
+          "gives love of women, especially beautiful ones",
+          "reveals hidden treasures; incites love of women; commands 27 legions"
         ],
-        "role": "spiritus predictus; dominus speculi"
+        "legions": "xxvij"
       },
       "page_refs": [
-        "37r–39v",
-        "fols 37r-38r, 38r-39v",
-        "n/a (Munich Handbook Clm 849, Expt. 18/19)"
+        "65v–65r bis",
+        "66v",
+        "Table D (no. 34)"
       ],
       "raw_quotes": [
-        "he will see an armed knight seated on a horse... he will greet the knight [with the words], se desperata, decentissime visibiliter greciomo.",
-        "O Floron, in speculo sicut solitus es apparere citissime respondeas."
+        "Gaeneron duke beautiful woman, crowned, riding on camel",
+        "Gaeneron dux est fortis et potens... Dat optime amorem mulierum, et precipue puellarum. Habet sub se xxvij legiones.",
+        "Gaeneron dux est fortis et potens, et apparet in similitudine pulcherrime mulieris."
       ],
       "sources": [
-        "forbidden_rites_pdf:chunk_27",
-        "necro:chunk_13",
-        "necro:chunk_28"
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_20",
+        "necro:chunk_32"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -5997,6 +6385,43 @@
       ],
       "distinct_works": [
         "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 3
+    },
+    {
+      "canonical_name": "human sacrifice",
+      "display_name": "human sacrifice",
+      "type": "ritual",
+      "name_variants": [
+        "Human sacrifice",
+        "human sacrifice"
+      ],
+      "attributes": {
+        "practitioners": "Druids, Phoenicians, Mexicans",
+        "originated with": "Cronus/Saturn",
+        "mode": "devouring children, burning offerings",
+        "victims": "captives, slaves, criminals",
+        "gods": "Kronos, Saturn, Baal, Moloch",
+        "method": "crucifixion, burning"
+      },
+      "page_refs": [
+        "133-143",
+        "249-251",
+        "345-346"
+      ],
+      "raw_quotes": [
+        "Human sacrifices of Druids same as to Phoenicians... Vast numbers of human sacrifices",
+        "\"This, as already pointed out, seems to have been the origin of human sacrifice.",
+        "These victims... were usually confined to captives taken in war, slaves and criminals"
+      ],
+      "sources": [
+        "worship_dead:chunk_1",
+        "worship_dead:chunk_24",
+        "worship_dead:chunk_38"
+      ],
+      "distinct_works": [
+        "garnier_1909"
       ],
       "cross_work": false,
       "occurrence_count": 3
@@ -6467,39 +6892,6 @@
       "occurrence_count": 3
     },
     {
-      "canonical_name": "melemil",
-      "display_name": "Melemil",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": "demon (unspecified)",
-        "direction": "south",
-        "role": [
-          "conjured spirit in invisibility ritual",
-          "demonic spirit"
-        ]
-      },
-      "page_refs": [
-        "CLM 849, experiment no. 11",
-        "p. 207",
-        "p. 78–79"
-      ],
-      "raw_quotes": [
-        "...O Fyriel, Mememil, Berith, [and] Taraor...",
-        "no. 11 has [...] Melemil to the south..."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_21",
-        "forbidden_rites_pdf:chunk_7",
-        "necro:chunk_21"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 3
-    },
-    {
       "canonical_name": "messias",
       "display_name": "Messias",
       "type": "spirit",
@@ -6626,6 +7018,46 @@
       ],
       "distinct_works": [
         "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 3
+    },
+    {
+      "canonical_name": "nephilim",
+      "display_name": "Nephilim",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "meaning": "Fallen Ones",
+        "nature": [
+          "giants",
+          "fallen angels"
+        ],
+        "definition": "Fallen Ones",
+        "role": [
+          "interacted with humans pre- and postdiluvianly",
+          "Progenitors of giant races; source of unholy spirit communication"
+        ],
+        "origin": "Sons of God + daughters of men (Gen. 6)",
+        "characteristics": "Gigantic stature, strength, demoniacal origin"
+      },
+      "page_refs": [
+        "147-181",
+        "237",
+        "pp. 231–234"
+      ],
+      "raw_quotes": [
+        "The giants or Nephilim—Meaning of Nephilim, the 'Fallen Ones'",
+        "The term 'Sons of God'... is only used in the Old Testament to express the angels... The original word translated 'giants' is not 'giants' but 'Hephilim,' meaning 'Fallen Ones'",
+        "\"the intercourse of 'the sons of God' with the women of Canaan... account for their gigantic stature and strength\""
+      ],
+      "sources": [
+        "worship_dead:chunk_1",
+        "worship_dead:chunk_22",
+        "worship_dead:chunk_23"
+      ],
+      "distinct_works": [
+        "garnier_1909"
       ],
       "cross_work": false,
       "occurrence_count": 3
@@ -6818,6 +7250,48 @@
       ],
       "distinct_works": [
         "garnier_1909"
+      ],
+      "cross_work": false,
+      "occurrence_count": 3
+    },
+    {
+      "canonical_name": "otius",
+      "display_name": "Otius",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "preses and count",
+          "magnus preses et comes"
+        ],
+        "appearance": [
+          "crowned man with leonine face, viper in hand; rides horseback, trumpets proceeding",
+          "deterrimam hominis speciem, sed cum suscipit formam humanum habet dentes magnos et tria cornua"
+        ],
+        "function": [
+          "responds about present, future, and hidden matters; gives favour of friends and enemies",
+          "reveals hidden things; commands 36 legions"
+        ],
+        "sign": "Vipere",
+        "legions": "xxxvj"
+      },
+      "page_refs": [
+        "65v",
+        "65v–65r bis",
+        "Table D (no. 34)"
+      ],
+      "raw_quotes": [
+        "responds about present, future, and hidden matters; gives favour of friends and enemies",
+        "Otius magnus preses et comes [est], et apparet in signo Vipere... Dat ad plenitudinem vera responsiua- de presentibus et futuris et occultis rebus.",
+        "Otius magnus preses et comes [est], et apparet in signo Vipere"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_20",
+        "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 3
@@ -7085,41 +7559,6 @@
       "occurrence_count": 3
     },
     {
-      "canonical_name": "saffron",
-      "display_name": "saffron",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "role": [
-          "fumigant in love magic ritual",
-          "used in fumigation of image"
-        ],
-        "context": "love ritual",
-        "use": [
-          "fumigation"
-        ]
-      },
-      "page_refs": [
-        "no. 3",
-        "p. 104"
-      ],
-      "raw_quotes": [
-        "When you have said this, take myrrh and saffron, kindle a fire, and fumigate the image...",
-        "...with myrrh and saffron (no. 3)",
-        "...take myrrh and saffron, kindle a fire, and fumigate the image..."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_10",
-        "necro:chunk_10",
-        "necro:chunk_22"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 3
-    },
-    {
       "canonical_name": "saltim",
       "display_name": "Saltim",
       "type": "spirit",
@@ -7212,44 +7651,6 @@
         "forbidden_rites_pdf:chunk_10",
         "forbidden_rites_pdf:chunk_21",
         "necro:chunk_10"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 3
-    },
-    {
-      "canonical_name": "semiforas",
-      "display_name": "Semiforas",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "role": "named spirit",
-        "appears_in": [
-          "experiment no. 42",
-          [
-            "CLM 849"
-          ]
-        ],
-        "rank": "great name",
-        "function": "used in treasure-divination ritual",
-        "folios": "106v–107r (no. 42)"
-      },
-      "page_refs": [
-        "106v-107r",
-        "42",
-        "Table A (no. 42)"
-      ],
-      "raw_quotes": [
-        "The name Semiforas",
-        "hoc est nomen magnum Semiforas, quod erat scriptum in fronte Aaron, sacerdotis creatoris.",
-        "The name Semiforas (no. 42)"
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_3",
-        "necro:chunk_3",
-        "necro:chunk_37"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -7513,6 +7914,48 @@
       "occurrence_count": 3
     },
     {
+      "canonical_name": "taob",
+      "display_name": "Taob",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "prince",
+          "magnus princeps",
+          "magnus et princeps"
+        ],
+        "appearance": [
+          "human",
+          "similitudine medici"
+        ],
+        "function": [
+          "responds about occult matters and duels; provides knights",
+          "influences women’s love; commands 25 legions"
+        ],
+        "legions": "25o"
+      },
+      "page_refs": [
+        "65v–65r bis",
+        "66r",
+        "Table D (no. 34)"
+      ],
+      "raw_quotes": [
+        "responds about occult matters and duels; provides knights",
+        "Taob magnus est et princeps... Dat graciam amicorum et inimicoram. Habet sub se 25- legiones,",
+        "Taob magnus est et princeps. Apparet in signo medici"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_20",
+        "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 3
+    },
+    {
       "canonical_name": "tentetos",
       "display_name": "Tentetos",
       "type": "spirit",
@@ -7703,6 +8146,79 @@
       ],
       "distinct_works": [
         "liber_juratus"
+      ],
+      "cross_work": false,
+      "occurrence_count": 3
+    },
+    {
+      "canonical_name": "verbena",
+      "display_name": "verbena",
+      "type": "ingredient",
+      "name_variants": [
+        "Verbena",
+        "verbena"
+      ],
+      "attributes": {
+        "function": "sprinkled on stone circle in cemetery ritual",
+        "use": "placed in circle for mirror ritual"
+      },
+      "page_refs": [
+        "62v",
+        "62v–65r",
+        "CLM 849, experiment no. 33"
+      ],
+      "raw_quotes": [
+        "et inpone herbam que vocatur verbena.",
+        "inpone herbam que vocatur verbena"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_21",
+        "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 3
+    },
+    {
+      "canonical_name": "volach",
+      "display_name": "Volach",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "president",
+          "magnus preses"
+        ],
+        "appearance": [
+          "boy with wings of an angel, riding on a dragon with two heads",
+          "in forma pueri, et habet alas ad modum angeli"
+        ],
+        "function": [
+          "gives excellent physician for women, making them burn with love for men; transforms them until they come to their beloved; makes sterile",
+          "reveals hidden treasures; commands serpents; commands 27 legions"
+        ],
+        "legions": "xxvij"
+      },
+      "page_refs": [
+        "65v–65r bis",
+        "66v",
+        "Table D (no. 34)"
+      ],
+      "raw_quotes": [
+        "Volach president boy, with wings of angel; rides on dragon; has two heads",
+        "Volach magnus preses est... Dat ad plenitudinem vera responsa de occultis thesauris... Serpentes et absque illis custodibus B posse omnium serpentum tradit in manus exorciste. Habet sub se xxvij legiones.",
+        "Volach magnus preses est. Apparet [in forma] pueri, et habet alas ad modum angeli."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_20",
+        "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 3
@@ -8299,40 +8815,6 @@
       "occurrence_count": 2
     },
     {
-      "canonical_name": "alugor",
-      "display_name": "Alugor",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "duke",
-          "magnus dux"
-        ],
-        "appearance": "splendid knight, with lance, banner, and sceptre",
-        "function": [
-          "reveals hidden treasures",
-          "reveals hidden things and duels; commands 1 legio"
-        ]
-      },
-      "page_refs": [
-        "66r",
-        "Table D (no. 34)"
-      ],
-      "raw_quotes": [
-        "Alugor duke splendid knight, with lance, banner, and sceptre",
-        "Alugor magnus J dux est... Dat eciam milites in occursum, et dat graciam omnium regum, marchionum, et omnium militum. Habet sub se l m legiones."
-      ],
-      "sources": [
-        "necro:chunk_20",
-        "necro:chunk_32"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
       "canonical_name": "amasiel, danyihayr",
       "display_name": "Amasiel, Danyihayr",
       "type": "divine_name",
@@ -8753,6 +9235,34 @@
       "occurrence_count": 2
     },
     {
+      "canonical_name": "assassayel",
+      "display_name": "Assassayel",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "angel constituted over the fifth image (Thursday)",
+        "association": "Jupiter"
+      },
+      "page_refs": [
+        "209",
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel",
+        "Raphael, Pahamcociel, Assassayel"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22",
+        "liber_juratus:chunk_17"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849",
+        "liber_juratus"
+      ],
+      "cross_work": true,
+      "occurrence_count": 2
+    },
+    {
       "canonical_name": "astra",
       "display_name": "Astra",
       "type": "spirit",
@@ -8864,6 +9374,39 @@
       "occurrence_count": 2
     },
     {
+      "canonical_name": "barbarus",
+      "display_name": "Barbarus",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "count and duke",
+          "magnus comes et dux"
+        ],
+        "appearance": "seneschal",
+        "function": "discloses treasures not protected by magic",
+        "sign": "Sagitarij siluestris",
+        "legions": "xxxvj"
+      },
+      "page_refs": [
+        "65v–65r bis",
+        "Table D (no. 34)"
+      ],
+      "raw_quotes": [
+        "discloses treasures not protected by magic",
+        "Barbarus [est] magnus comes et dux, et apparet in signo Sagitarij siluestris"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_20"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
       "canonical_name": "barbectus",
       "display_name": "Barbectus",
       "type": "spirit",
@@ -8941,6 +9484,32 @@
       "sources": [
         "forbidden_rites_pdf:chunk_28",
         "necro:chunk_14"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
+      "canonical_name": "bat blood",
+      "display_name": "bat blood",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "use": "alternative to hoopoe in diagram"
+      },
+      "page_refs": [
+        "58",
+        "fol. 107r–v"
+      ],
+      "raw_quotes": [
+        "a diagram made with the blood of a hoopoe or a bat",
+        "hec nomina cum sa[n]gwine vespertilionis"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_37",
+        "forbidden_rites_pdf:chunk_5"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -9519,32 +10088,24 @@
       "occurrence_count": 2
     },
     {
-      "canonical_name": "cason",
-      "display_name": "Cason",
+      "canonical_name": "cartutay, momabel, sobil, geteritacon",
+      "display_name": "Cartutay, Momabel, Sobil, Geteritacon",
       "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "rank": [
-          "duke",
-          "magnus dux"
-        ],
-        "appearance": "human, with large teeth and three horns, sharp sword in hand",
-        "function": [
-          "responds about present, past, future, and hidden matters; gives favour of friends and enemies; gives dignities",
-          "reveals past/present/future; grants friendship and dignity; commands 45 legions"
-        ]
+        "role": "antipathetic demon names",
+        "function": "carved on stones for sowing enmity"
       },
       "page_refs": [
-        "65v",
-        "Table D (no. 34)"
+        "fols 13v–15r"
       ],
       "raw_quotes": [
-        "responds about present, past, future, and hidden matters; gives favour of friends and enemies; gives dignities",
-        "Cason magnus dux est et fortis... Dat ad plenitudinem vera responsiua- de presentibus, preteritis, et futuris... Habet sub se xlv legiones."
+        "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon.",
+        "sculpire nomen vnius cum hiis... Cartutay, Momabel, Sobil, et Geteritacon"
       ],
       "sources": [
-        "necro:chunk_20",
-        "necro:chunk_32"
+        "forbidden_rites_pdf:chunk_24",
+        "necro:chunk_9"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -9888,6 +10449,34 @@
         "liber_juratus"
       ],
       "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
+      "canonical_name": "cross",
+      "display_name": "Cross",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "function": "instrument of binding and protection",
+        "symbolism": "symbol of the Sun; symbol of natural life and death; symbol of the Tree"
+      },
+      "page_refs": [
+        "213-245",
+        "[59v, 60r]"
+      ],
+      "raw_quotes": [
+        "per virtutem crucis et passionis tue",
+        "The Cross as symbol of the Sun... The Cross as symbol of the Tree of Life and Knowledge"
+      ],
+      "sources": [
+        "necro:chunk_31",
+        "worship_dead:chunk_1"
+      ],
+      "distinct_works": [
+        "garnier_1909",
+        "kieckhefer_clm849"
+      ],
+      "cross_work": true,
       "occurrence_count": 2
     },
     {
@@ -10322,6 +10911,32 @@
       "sources": [
         "forbidden_rites_pdf:chunk_35",
         "necro:chunk_35"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
+      "canonical_name": "eagle quill",
+      "display_name": "eagle quill",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "role": "writing implement for inscribing demon names",
+        "context": "love ritual"
+      },
+      "page_refs": [
+        "folog 8r–11v"
+      ],
+      "raw_quotes": [
+        "You should also have a quill from an eagle.",
+        "Debes eciam habere calamum aquile."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24",
+        "necro:chunk_10"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -11139,40 +11754,6 @@
       "occurrence_count": 2
     },
     {
-      "canonical_name": "gaeneron",
-      "display_name": "Gaeneron",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "duke",
-          "dux fortis et potens"
-        ],
-        "appearance": "beautiful woman, crowned, riding on camel",
-        "function": [
-          "gives love of women, especially beautiful ones",
-          "reveals hidden treasures; incites love of women; commands 27 legions"
-        ]
-      },
-      "page_refs": [
-        "66v",
-        "Table D (no. 34)"
-      ],
-      "raw_quotes": [
-        "Gaeneron duke beautiful woman, crowned, riding on camel",
-        "Gaeneron dux est fortis et potens... Dat optime amorem mulierum, et precipue puellarum. Habet sub se xxvij legiones."
-      ],
-      "sources": [
-        "necro:chunk_20",
-        "necro:chunk_32"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
       "canonical_name": "gaffriel",
       "display_name": "Gaffriel",
       "type": "spirit",
@@ -11330,33 +11911,6 @@
       ],
       "distinct_works": [
         "liber_juratus"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
-      "canonical_name": "haram",
-      "display_name": "Haram",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "role": "benign spirit who appears in dream to reveal treasure",
-        "function": "spirit to appear in dream and guide to treasure"
-      },
-      "page_refs": [
-        "106v",
-        "experiment no. 41"
-      ],
-      "raw_quotes": [
-        "on the following night Haram, a benign spirit, may come to me in my sleep...",
-        "veniat ad me in sompnis Haram, spiritus benignus..."
-      ],
-      "sources": [
-        "necro:chunk_14",
-        "necro:chunk_37"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 2
@@ -11739,36 +12293,6 @@
       "occurrence_count": 2
     },
     {
-      "canonical_name": "human sacrifice",
-      "display_name": "human sacrifice",
-      "type": "ritual",
-      "name_variants": [],
-      "attributes": {
-        "originated with": "Cronus/Saturn",
-        "mode": "devouring children, burning offerings",
-        "victims": "captives, slaves, criminals",
-        "gods": "Kronos, Saturn, Baal, Moloch",
-        "method": "crucifixion, burning"
-      },
-      "page_refs": [
-        "249-251",
-        "345-346"
-      ],
-      "raw_quotes": [
-        "\"This, as already pointed out, seems to have been the origin of human sacrifice.",
-        "These victims... were usually confined to captives taken in war, slaves and criminals"
-      ],
-      "sources": [
-        "worship_dead:chunk_24",
-        "worship_dead:chunk_38"
-      ],
-      "distinct_works": [
-        "garnier_1909"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
       "canonical_name": "ianua",
       "display_name": "Ianua",
       "type": "spirit",
@@ -11812,6 +12336,33 @@
       "sources": [
         "forbidden_rites_pdf:chunk_35",
         "necro:chunk_35"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
+      "canonical_name": "indian wood",
+      "display_name": "Indian wood",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "use": [
+          "fumigation of images"
+        ]
+      },
+      "page_refs": [
+        "no. 37m"
+      ],
+      "raw_quotes": [
+        "...fumigate the image with Indian wood and with red sandalwood...",
+        "fumigate the image with Indian wood and with red sandalwood"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22",
+        "necro:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -12949,6 +13500,37 @@
       "occurrence_count": 2
     },
     {
+      "canonical_name": "mesmerism",
+      "display_name": "Mesmerism",
+      "type": "ritual",
+      "name_variants": [
+        "Mesmerism",
+        "mesmerism"
+      ],
+      "attributes": {
+        "use": "consulting the gods by Pagan priests",
+        "function": "induce trance for spirit communication",
+        "historical_use": "temple sleep, ancient magic"
+      },
+      "page_refs": [
+        "147-181",
+        "210–215"
+      ],
+      "raw_quotes": [
+        "Use of Mesmerism by Pagan priests for consulting the gods",
+        "mesmerism was also used to produce the temple sleep by the Pagan priesthood; and was one of the most ordinary practices of the ancient magicians"
+      ],
+      "sources": [
+        "worship_dead:chunk_1",
+        "worship_dead:chunk_20"
+      ],
+      "distinct_works": [
+        "garnier_1909"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
       "canonical_name": "messyas",
       "display_name": "Messyas",
       "type": "spirit",
@@ -13456,39 +14038,6 @@
       "occurrence_count": 2
     },
     {
-      "canonical_name": "nephilim",
-      "display_name": "Nephilim",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "definition": "Fallen Ones",
-        "nature": "fallen angels",
-        "role": [
-          "interacted with humans pre- and postdiluvianly",
-          "Progenitors of giant races; source of unholy spirit communication"
-        ],
-        "origin": "Sons of God + daughters of men (Gen. 6)",
-        "characteristics": "Gigantic stature, strength, demoniacal origin"
-      },
-      "page_refs": [
-        "237",
-        "pp. 231–234"
-      ],
-      "raw_quotes": [
-        "The term 'Sons of God'... is only used in the Old Testament to express the angels... The original word translated 'giants' is not 'giants' but 'Hephilim,' meaning 'Fallen Ones'",
-        "\"the intercourse of 'the sons of God' with the women of Canaan... account for their gigantic stature and strength\""
-      ],
-      "sources": [
-        "worship_dead:chunk_22",
-        "worship_dead:chunk_23"
-      ],
-      "distinct_works": [
-        "garnier_1909"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
       "canonical_name": "neutrion",
       "display_name": "Neutrion",
       "type": "spirit",
@@ -13854,34 +14403,6 @@
       "occurrence_count": 2
     },
     {
-      "canonical_name": "olive oil",
-      "display_name": "olive oil",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "role": [
-          "anointing medium for boy’s nails/hands",
-          "used to anoint boy’s fingernail"
-        ]
-      },
-      "page_refs": [
-        "p. 371 (97r), p. 376 (100r)"
-      ],
-      "raw_quotes": [
-        "anoints four joints of the boy’s left hand with olive oil... anoints his nail with olive oil",
-        "...vnge sibi vngwem cum oleo oliue..."
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_36",
-        "necro:chunk_14"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
       "canonical_name": "on the secret arts of the imaginary art",
       "display_name": "On the Secret Arts of the Imaginary Art",
       "type": "text",
@@ -14000,40 +14521,6 @@
       "sources": [
         "forbidden_rites_pdf:chunk_29",
         "necro:chunk_36"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
-      "canonical_name": "otius",
-      "display_name": "Otius",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "preses and count",
-          "magnus preses et comes"
-        ],
-        "appearance": "crowned man with leonine face, viper in hand; rides horseback, trumpets proceeding",
-        "function": [
-          "responds about present, future, and hidden matters; gives favour of friends and enemies",
-          "reveals hidden things; commands 36 legions"
-        ]
-      },
-      "page_refs": [
-        "65v",
-        "Table D (no. 34)"
-      ],
-      "raw_quotes": [
-        "responds about present, future, and hidden matters; gives favour of friends and enemies",
-        "Otius magnus preses et comes [est], et apparet in signo Vipere... Dat ad plenitudinem vera responsiua- de presentibus et futuris et occultis rebus."
-      ],
-      "sources": [
-        "necro:chunk_20",
-        "necro:chunk_32"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -14651,6 +15138,32 @@
       "occurrence_count": 2
     },
     {
+      "canonical_name": "puzanil, pimaton, folfitoy, mansator",
+      "display_name": "Puzanil, Pimaton, Folfitoy, Mansator",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "antipathetic demon names",
+        "function": "carved on stones for sowing enmity"
+      },
+      "page_refs": [
+        "fols 13v–15r"
+      ],
+      "raw_quotes": [
+        "On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator. These names are highly antipathetic to each other.",
+        "et altero, nomen alt[erius] et hec nomina, scilicet Puzanil, Pimaton, Folfitoy, et Mansator"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24",
+        "necro:chunk_9"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
       "canonical_name": "pythoness",
       "display_name": "Pythoness",
       "type": "spirit",
@@ -14762,6 +15275,32 @@
       "occurrence_count": 2
     },
     {
+      "canonical_name": "rator, lampoy, despan, brulo, dronoth, maloqui, satola, gelbid, mascifin, nartim, lodoni",
+      "display_name": "Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim, Lodoni",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "named demonic names used in invocations"
+      },
+      "page_refs": [
+        "fols 10r–10v",
+        "p.156–157"
+      ],
+      "raw_quotes": [
+        "by these names, which cause you fear and terror: Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim and Lodoni",
+        "Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim, et Lodoni"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_16",
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
       "canonical_name": "rawlinson ms d 252",
       "display_name": "Rawlinson MS D 252",
       "type": "ritual",
@@ -14780,6 +15319,36 @@
       "sources": [
         "forbidden_rites_pdf:chunk_38",
         "necro:chunk_19"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
+      "canonical_name": "red sandalwood",
+      "display_name": "red sandalwood",
+      "type": "ingredient",
+      "name_variants": [
+        "Red sandalwood",
+        "red sandalwood"
+      ],
+      "attributes": {
+        "use": [
+          "fumigation of images"
+        ]
+      },
+      "page_refs": [
+        "no. 37m"
+      ],
+      "raw_quotes": [
+        "...Indian wood and with red sandalwood",
+        "fumigate the image with Indian wood and with red sandalwood"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22",
+        "necro:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -15557,6 +16126,37 @@
       "occurrence_count": 2
     },
     {
+      "canonical_name": "shining sword",
+      "display_name": "shining sword",
+      "type": "tool",
+      "name_variants": [
+        "Shining sword",
+        "shining sword"
+      ],
+      "attributes": {
+        "use": [
+          "tracing circles, inscribing names",
+          "tracing circles and inscribing names in the ground"
+        ]
+      },
+      "page_refs": [
+        "no. 6"
+      ],
+      "raw_quotes": [
+        "carrying a shining sword... one must trace circles in a remote place. When this is done, inscribe sixteen names with the point of the sword",
+        "carrying a shining sword and a hoopoe, and with the sword one must trace circles in a remote place."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_6",
+        "necro:chunk_6"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
       "canonical_name": "sigillum salomonis",
       "display_name": "Sigillum Salomonis",
       "type": "tool",
@@ -15659,6 +16259,31 @@
       "sources": [
         "forbidden_rites_pdf:chunk_23",
         "necro:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
+      "canonical_name": "silver or tin",
+      "display_name": "silver or tin",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "role": "material for casting images"
+      },
+      "page_refs": [
+        "fols 11v–13v"
+      ],
+      "raw_quotes": [
+        "take silver or tin and melt it over a fire. When it is melted, cast it in his form...",
+        "habeas argentum siue stagnum, et ad ignem decola."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24",
+        "necro:chunk_9"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -15933,6 +16558,35 @@
       "occurrence_count": 2
     },
     {
+      "canonical_name": "svcax",
+      "display_name": "Svcax",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": "magnus marchio",
+        "function": "incites love of widows; commands 23 legions",
+        "appearance": "similitudine hominis. Wltum habet femineum",
+        "legions": "23"
+      },
+      "page_refs": [
+        "65v–65r bis",
+        "67r"
+      ],
+      "raw_quotes": [
+        "Svcax magnus marchio est... Multum mirabiliter dat amorem mulierum, et maxime omnium viduarum. Habet sub se 23 legiones.",
+        "Svcax magnus marchio est, et apparet in similitudine hominis."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32",
+        "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
       "canonical_name": "syrama",
       "display_name": "Syrama",
       "type": "spirit",
@@ -16044,40 +16698,6 @@
       "sources": [
         "forbidden_rites_pdf:chunk_35",
         "necro:chunk_35"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
-      "canonical_name": "taob",
-      "display_name": "Taob",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "prince",
-          "magnus princeps"
-        ],
-        "appearance": "human",
-        "function": [
-          "responds about occult matters and duels; provides knights",
-          "influences women’s love; commands 25 legions"
-        ]
-      },
-      "page_refs": [
-        "66r",
-        "Table D (no. 34)"
-      ],
-      "raw_quotes": [
-        "responds about occult matters and duels; provides knights",
-        "Taob magnus est et princeps... Dat graciam amicorum et inimicoram. Habet sub se 25- legiones,"
-      ],
-      "sources": [
-        "necro:chunk_20",
-        "necro:chunk_32"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -16502,6 +17122,36 @@
       "occurrence_count": 2
     },
     {
+      "canonical_name": "unguentum pharelis",
+      "display_name": "unguentum pharelis",
+      "type": "ingredient",
+      "name_variants": [
+        "Unguentum pharelis",
+        "unguentum pharelis"
+      ],
+      "attributes": {
+        "function": "salve used for magical illusion",
+        "components": "seven herbs mixed with the blood of a bird and the fat of an animal"
+      },
+      "page_refs": [
+        "intro paragraph",
+        "unspecified"
+      ],
+      "raw_quotes": [
+        "...a salve called the unguentum pharelis, made of seven herbs mixed with the blood of a bird and the fat of an animal...",
+        "a salve called the unguentum pharelis, made of seven herbs mixed with the blood of a bird and the fat of an animal"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_6",
+        "necro:chunk_7"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 2
+    },
+    {
       "canonical_name": "venus",
       "display_name": "Venus",
       "type": "spirit",
@@ -16532,32 +17182,6 @@
         "liber_juratus"
       ],
       "cross_work": true,
-      "occurrence_count": 2
-    },
-    {
-      "canonical_name": "verbena",
-      "display_name": "verbena",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "function": "sprinkled on stone circle in cemetery ritual",
-        "use": "placed in circle for mirror ritual"
-      },
-      "page_refs": [
-        "62v",
-        "CLM 849, experiment no. 33"
-      ],
-      "raw_quotes": [
-        "et inpone herbam que vocatur verbena."
-      ],
-      "sources": [
-        "necro:chunk_21",
-        "necro:chunk_32"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
       "occurrence_count": 2
     },
     {
@@ -16834,40 +17458,6 @@
       "sources": [
         "necro:chunk_19",
         "necro:chunk_36"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 2
-    },
-    {
-      "canonical_name": "volach",
-      "display_name": "Volach",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": [
-          "president",
-          "magnus preses"
-        ],
-        "appearance": "boy with wings of an angel, riding on a dragon with two heads",
-        "function": [
-          "gives excellent physician for women, making them burn with love for men; transforms them until they come to their beloved; makes sterile",
-          "reveals hidden treasures; commands serpents; commands 27 legions"
-        ]
-      },
-      "page_refs": [
-        "66v",
-        "Table D (no. 34)"
-      ],
-      "raw_quotes": [
-        "Volach president boy, with wings of angel; rides on dragon; has two heads",
-        "Volach magnus preses est... Dat ad plenitudinem vera responsa de occultis thesauris... Serpentes et absque illis custodibus B posse omnium serpentum tradit in manus exorciste. Habet sub se xxvij legiones."
-      ],
-      "sources": [
-        "necro:chunk_20",
-        "necro:chunk_32"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -17425,6 +18015,27 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "aa, sabaoth, helyn, abacel",
+      "display_name": "Aa, Sabaoth, Helyn, Abacel",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "fols 14v"
+      ],
+      "raw_quotes": [
+        "scilicet ‘Aa’, [14v] ‘Sabaoth’, ‘Helyn’, et ‘Abacel’"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "abana",
       "display_name": "Abana",
       "type": "ingredient",
@@ -17901,6 +18512,30 @@
       ],
       "distinct_works": [
         "ars_notoria"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "acus",
+      "display_name": "acus",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "quantity": 9,
+        "origin": "made by an expert artificer"
+      },
+      "page_refs": [
+        "fols 29v-31v"
+      ],
+      "raw_quotes": [
+        "faciat fieri magister ab artifice perito nouem acus"
+      ],
+      "sources": [
+        "necro:chunk_27"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -18937,6 +19572,29 @@
       ],
       "distinct_works": [
         "garnier_1909"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "all-purpose experiment",
+      "display_name": "All-purpose Experiment",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "place incense and myrrh in a thurible and walk around the outer edge of the circle while saying prayer"
+      },
+      "page_refs": [
+        "no. 36"
+      ],
+      "raw_quotes": [
+        "instructs the master to place incense and myrrh in a thurible... and walk around the outer edge of the circle, saying, ‘I make this fumigation in the name of the Father...'"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -20255,6 +20913,27 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "apolyn, gebel, astaroth, tereol, falmar, tyroces",
+      "display_name": "Apolyn, Gebel, Astaroth, Tereol, Falmar, Tyroces",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "fols 14v"
+      ],
+      "raw_quotes": [
+        "scilicet ‘Apolyn’, ‘Gebel’, ‘Astaroth’, ‘Tereol’, ‘Falmar’, et ‘Tyroces’"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "apostle's creed",
       "display_name": "Apostle's Creed",
       "type": "incantation",
@@ -20782,6 +21461,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "asef caroth",
+      "display_name": "Asef Caroth",
+      "type": "person",
+      "name_variants": [],
+      "attributes": {
+        "role": "master/magister"
+      },
+      "page_refs": [
+        "[104v]"
+      ],
+      "raw_quotes": [
+        "a magistro vestro Asef Caroth vobis concessa"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_37"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "ashes and flour",
       "display_name": "ashes and flour",
       "type": "ingredient",
@@ -20985,29 +21687,6 @@
       ],
       "distinct_works": [
         "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
-      "canonical_name": "assassayel",
-      "display_name": "Assassayel",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "association": "Jupiter"
-      },
-      "page_refs": [
-        "209"
-      ],
-      "raw_quotes": [
-        "Raphael, Pahamcociel, Assassayel"
-      ],
-      "sources": [
-        "liber_juratus:chunk_17"
-      ],
-      "distinct_works": [
-        "liber_juratus"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -22248,31 +22927,6 @@
       "occurrence_count": 1
     },
     {
-      "canonical_name": "barbarus",
-      "display_name": "Barbarus",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": "count and duke",
-        "appearance": "seneschal",
-        "function": "discloses treasures not protected by magic"
-      },
-      "page_refs": [
-        "Table D (no. 34)"
-      ],
-      "raw_quotes": [
-        "discloses treasures not protected by magic"
-      ],
-      "sources": [
-        "necro:chunk_20"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
       "canonical_name": "barian",
       "display_name": "Barian",
       "type": "concept",
@@ -22403,29 +23057,6 @@
       ],
       "sources": [
         "necro:chunk_29"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
-      "canonical_name": "bat blood",
-      "display_name": "bat blood",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "use": "alternative to hoopoe in diagram"
-      },
-      "page_refs": [
-        "58"
-      ],
-      "raw_quotes": [
-        "a diagram made with the blood of a hoopoe or a bat"
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_5"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -22683,6 +23314,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_3"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "bel and ebal ritual",
+      "display_name": "Bel and Ebal Ritual",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "Write names on a rib (costa), place in fire, burn during high heat/fury"
+      },
+      "page_refs": [
+        "65r bis–67v"
+      ],
+      "raw_quotes": [
+        "scribe in costam nomen tuum et mulieris, Bel et Ebal... et pone ad ignem et fac cremari costam"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -23202,6 +23856,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "bird blood",
+      "display_name": "bird blood",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "source": "perhaps a hoopoe"
+      },
+      "page_refs": [
+        "Experiment for instruction"
+      ],
+      "raw_quotes": [
+        "The markings on this cloth are to be made with the blood of a bird, perhaps a hoopoe"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "bird heart",
       "display_name": "bird heart",
       "type": "tool",
@@ -23355,6 +24032,29 @@
       ],
       "sources": [
         "necro:chunk_7"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "black hen feather",
+      "display_name": "black hen feather",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "source": "left wing of a black hen"
+      },
+      "page_refs": [
+        "Experiment no. 22"
+      ],
+      "raw_quotes": [
+        "writing on the vessel with a feather from the left wing of a black hen"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -23774,6 +24474,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "bowl divination",
+      "display_name": "Bowl divination",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "gazing at fluid in a vessel"
+      },
+      "page_refs": [
+        "Greek magical papyri section"
+      ],
+      "raw_quotes": [
+        "one should take a bronze bowl or saucer and fill it with water, then add green olive oil, recite an incantation over it"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "boy (puer virgineus)",
       "display_name": "boy (puer virgineus)",
       "type": "person",
@@ -23938,6 +24661,30 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "bringing concord between humans ritual",
+      "display_name": "Bringing Concord Between Humans Ritual",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "timing": "Thursday; May (height of Pisces) or January (height of Sagittarius)",
+        "method": "make image of yellow bronze or yellow wax, tint with green, write names on hearts, perform conjuration"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "make an image of yellow bronze or of yellow wax on a Thursday, and tint it with green... write the name of the man on the heart of the woman’s image"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "britonia",
       "display_name": "Britonia",
       "type": "spirit",
@@ -23976,6 +24723,27 @@
       ],
       "sources": [
         "necro:chunk_29"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "bronze bowl",
+      "display_name": "bronze bowl",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "Greek magical papyri section"
+      ],
+      "raw_quotes": [
+        "one should take a bronze bowl or saucer and fill it with water"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -24025,6 +24793,28 @@
       ],
       "distinct_works": [
         "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "buddha",
+      "display_name": "Buddha",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "meaning": "prophet, sage, teacher, wisdom, intellect, mind",
+        "race": "black and of Cushite race"
+      },
+      "page_refs": [
+        "99-132"
+      ],
+      "raw_quotes": [],
+      "sources": [
+        "worship_dead:chunk_1"
+      ],
+      "distinct_works": [
+        "garnier_1909"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -25293,28 +26083,6 @@
       "occurrence_count": 1
     },
     {
-      "canonical_name": "cartutay, momabel, sobil, geteritacon",
-      "display_name": "Cartutay, Momabel, Sobil, Geteritacon",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "role": "antipathetic demon names",
-        "function": "carved on stones for sowing enmity"
-      },
-      "page_refs": [],
-      "raw_quotes": [
-        "On one you must carve the name of one person, with the names Cartutay, Momabel, Sobil and Geteritacon."
-      ],
-      "sources": [
-        "necro:chunk_9"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
       "canonical_name": "caspar",
       "display_name": "Caspar",
       "type": "person",
@@ -25652,6 +26420,29 @@
       ],
       "sources": [
         "necro:chunk_33"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "cera virginam",
+      "display_name": "cera virginam",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "preparation": "virginized by art"
+      },
+      "page_refs": [
+        "fols 29v-31v"
+      ],
+      "raw_quotes": [
+        "Recipe ceram virgineam, arte virginizatam"
+      ],
+      "sources": [
+        "necro:chunk_27"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -27804,6 +28595,56 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "conjuring an illusory banquet",
+      "display_name": "Conjuring an illusory banquet",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "timing": "under a waxing moon, on a Thursday or Sunday, at noon",
+        "location": "outside town, in a remote place",
+        "method": "trace circles with sword, inscribe 16 names, face east/south/east/north while conjuring"
+      },
+      "page_refs": [
+        "no. 6"
+      ],
+      "raw_quotes": [
+        "First one must invoke fifteen spirits... At the outset one must go outside town, under a waxing moon, on a Thursday or Sunday, at noon"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_6"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "conjuring an illusory castle",
+      "display_name": "Conjuring an illusory castle",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "timing": "tenth day of the moon, under a clear sky",
+        "location": "remote and secret place",
+        "method": "sprinkle milk and honey in the air; face west, then south, east, and north"
+      },
+      "page_refs": [
+        "no. 7"
+      ],
+      "raw_quotes": [
+        "First, go out on the tenth [day of] the moon, under a clear sky, outside of town to some remote and secret place, taking milk and honey with you"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_6"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "consecrated ring",
       "display_name": "consecrated ring",
       "type": "tool",
@@ -28002,6 +28843,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_7"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "constiel",
+      "display_name": "Constiel",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "angel constituted over the fifth image (Thursday)"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -28274,29 +29138,6 @@
       "occurrence_count": 1
     },
     {
-      "canonical_name": "cross",
-      "display_name": "Cross",
-      "type": "tool",
-      "name_variants": [],
-      "attributes": {
-        "function": "instrument of binding and protection"
-      },
-      "page_refs": [
-        "[59v, 60r]"
-      ],
-      "raw_quotes": [
-        "per virtutem crucis et passionis tue"
-      ],
-      "sources": [
-        "necro:chunk_31"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
       "canonical_name": "cross as altar",
       "display_name": "cross as altar",
       "type": "ritual",
@@ -28517,6 +29358,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "cultellus (knife)",
+      "display_name": "Cultellus (Knife)",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "handle": "albo uel nigro"
+      },
+      "page_refs": [
+        "67v–68v"
+      ],
+      "raw_quotes": [
+        "habeat cultellum cum manubrio albo uel nigro"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "cultellus cum manubrio albo uel nigro",
       "display_name": "cultellus cum manubrio albo uel nigro",
       "type": "tool",
@@ -28677,6 +29541,31 @@
       ],
       "sources": [
         "necro:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "cvson",
+      "display_name": "Cvson",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": "magnus rex est et fortis",
+        "appearance": "Facies leonina coronatus est dyademate",
+        "legions": "xxij"
+      },
+      "page_refs": [
+        "65v–65r bis"
+      ],
+      "raw_quotes": [
+        "Cvson magnus rex est et fortis, et apparet in similitudine hominis."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -30197,6 +31086,27 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "dyacom (or dyacon)",
+      "display_name": "Dyacom (or Dyacon)",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "fols 11v–13v"
+      ],
+      "raw_quotes": [
+        "sculpes hoc nomen ‘Dyacom’"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "dyacon",
       "display_name": "Dyacon",
       "type": "spirit",
@@ -30235,28 +31145,6 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_35"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
-      "canonical_name": "eagle quill",
-      "display_name": "eagle quill",
-      "type": "tool",
-      "name_variants": [],
-      "attributes": {
-        "role": "writing implement for inscribing demon names",
-        "context": "love ritual"
-      },
-      "page_refs": [],
-      "raw_quotes": [
-        "You should also have a quill from an eagle."
-      ],
-      "sources": [
-        "necro:chunk_10"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -30528,6 +31416,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_36"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "eladab",
+      "display_name": "Eladab",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "helper to the winds"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "and their helpers are Yse, Riron, Naasay, [and] Eladab"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -31212,6 +32123,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_36"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "ense",
+      "display_name": "ense",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "position": "facing west"
+      },
+      "page_refs": [
+        "fols 28r-29v"
+      ],
+      "raw_quotes": [
+        "fingas versus occidentem super Firiel dictum ensem"
+      ],
+      "sources": [
+        "necro:chunk_27"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -32140,6 +33074,52 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_7"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "experiment no. 28",
+      "display_name": "Experiment no. 28",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "spatulamancy using a ram's shoulder blade"
+      },
+      "page_refs": [
+        "Experiment no. 28"
+      ],
+      "raw_quotes": [
+        "the master anoints the right shoulder blade of a ram with olive oil and puts it beneath the handle of a knife."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "experiment no. 30",
+      "display_name": "Experiment no. 30",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "anointing joints with oil and powder"
+      },
+      "page_refs": [
+        "Experiment no. 30"
+      ],
+      "raw_quotes": [
+        "He anoints four joints of the boy’s left hand with olive oil and with this powder, in alternation, until the boy’s fingers shine like a mirror."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -33125,6 +34105,57 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "fingernail ritual",
+      "display_name": "Fingernail Ritual",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "tools": [
+          "left thumb nail of a virgin boy",
+          "knife",
+          "slip with names",
+          "strap of sheepskin"
+        ],
+        "names_on_slip": [
+          "Egippia",
+          "Benoham",
+          "Beanke vel Beanre",
+          "Reranressym",
+          "Alredessym",
+          "Ebemidyrr",
+          "Fetolinie",
+          "Dysi",
+          "Medirini",
+          "Alhea",
+          "Heresim",
+          "Haham",
+          "Ezirohias",
+          "Bohodi",
+          "Hohada",
+          "Anna",
+          "Hohanna",
+          "Ohereo",
+          "Metaliteps",
+          "Aregereo",
+          "Agertho",
+          "Aliberri",
+          "Halba"
+        ]
+      },
+      "page_refs": [],
+      "raw_quotes": [
+        "take a virgin boy of legitimate birth... scrape well the thumb nail of his left hand with a knife. Then bind to the same thumb, beneath the nail, a slip with the following names written on it."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_13"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "fingernails",
       "display_name": "fingernails",
       "type": "ingredient",
@@ -33775,6 +34806,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "fyriel",
+      "display_name": "Fyriel",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "nature": "potent, magnificent, and illustrious"
+      },
+      "page_refs": [
+        "fols 28r-29v"
+      ],
+      "raw_quotes": [
+        "O Fyriel, Mememil, Berith, [ et] Taraor, spiritus potentes, magnifici, et illustres"
+      ],
+      "sources": [
+        "necro:chunk_27"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "fyriel (also fyriel/mememil/taraor)",
       "display_name": "Fyriel (also Fyriel/Mememil/Taraor)",
       "type": "spirit",
@@ -34344,6 +35398,29 @@
       ],
       "distinct_works": [
         "ars_notoria"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "generic conjuration preparation",
+      "display_name": "Generic Conjuration Preparation",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "Draw three circles; first in name of Father, second with Tetragramaton (West), Adonay (North), Sabaoth (South); third with Holy Spirit. Use thurible with incense and myrrh."
+      },
+      "page_refs": [
+        "67v–68v"
+      ],
+      "raw_quotes": [
+        "Et faciat cum eodem cultello exteriorem circulum... incipit: Per corroboratum et potentissimum nomen dei El"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -35387,6 +36464,29 @@
       ],
       "sources": [
         "necro:chunk_11"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "halharit",
+      "display_name": "Halharit",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "wind constituted over the image"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "these are the winds constituted over the image: Silite, Maraben, Halharit"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -36808,6 +37908,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "hoopoe",
+      "display_name": "Hoopoe",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "virtue": "great virtue for necromancers and invokers of demons; used for safekeeping/protection"
+      },
+      "page_refs": [
+        "no. 6"
+      ],
+      "raw_quotes": [
+        "the hoopoe is possessed of great virtue for necromancers and invokers of demons... on which account we use it much for our safekeeping."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_6"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "hoopoe (bird)",
       "display_name": "hoopoe (bird)",
       "type": "ingredient",
@@ -37810,6 +38933,34 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "illusionist experiment fumigation",
+      "display_name": "Illusionist Experiment Fumigation",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "target": "the circle",
+        "ingredients": [
+          "marrow of a dead person",
+          "incense",
+          "myrrh"
+        ]
+      },
+      "page_refs": [
+        "no. 8, 11"
+      ],
+      "raw_quotes": [
+        "it is the circle that is thus treated: with the marrow of a dead person (no. 8), or with incense and myrrh (no. 11)."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "illusory banquet",
       "display_name": "illusory banquet",
       "type": "ritual",
@@ -38017,6 +39168,27 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "incense and myrrh",
+      "display_name": "Incense and Myrrh",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "67v–68v"
+      ],
+      "raw_quotes": [
+        "inposito thureg et mirra"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "incense mixture",
       "display_name": "Incense mixture",
       "type": "ingredient",
@@ -38066,31 +39238,6 @@
       ],
       "distinct_works": [
         "garnier_1909"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
-      "canonical_name": "indian wood",
-      "display_name": "Indian wood",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "use": [
-          "fumigation of images"
-        ]
-      },
-      "page_refs": [
-        "no. 37m"
-      ],
-      "raw_quotes": [
-        "...fumigate the image with Indian wood and with red sandalwood..."
-      ],
-      "sources": [
-        "necro:chunk_22"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -39522,6 +40669,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "knife with horn handle",
+      "display_name": "knife with horn handle",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "material": "black or white horn"
+      },
+      "page_refs": [
+        "Experiment no. 39"
+      ],
+      "raw_quotes": [
+        "scrapes the boy’s right thumbnail, using a knife with a handle of black or white horn"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "kostolya, elogo, yetas",
       "display_name": "kostolya, elogo, yetas",
       "type": "incantation",
@@ -40206,6 +41376,29 @@
       ],
       "sources": [
         "necro:chunk_37"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "layalym, lyalgnea, yalgnal, narath, lybarye, lymbaros, lyaslam",
+      "display_name": "Layalym, Lyalgnea, Yalgnal, Narath, Lybarye, Lymbaros, Lyaslam",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "usage": "names used to prohibit harm/damage"
+      },
+      "page_refs": [
+        "fol. 107v"
+      ],
+      "raw_quotes": [
+        "Et hec sunt nomina, scilicet: Layalym, Lyalgnea, Yalgnal, Narath, Lybarye, Lymbaros, Lyaslam."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_37"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -42173,6 +43366,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "maraben",
+      "display_name": "Maraben",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "wind constituted over the image"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "these are the winds constituted over the image: Silite, Maraben, Halharit"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "maraloch",
       "display_name": "Maraloch",
       "type": "spirit",
@@ -43365,30 +44581,6 @@
       "occurrence_count": 1
     },
     {
-      "canonical_name": "mesmerism",
-      "display_name": "mesmerism",
-      "type": "ritual",
-      "name_variants": [],
-      "attributes": {
-        "function": "induce trance for spirit communication",
-        "historical_use": "temple sleep, ancient magic"
-      },
-      "page_refs": [
-        "210–215"
-      ],
-      "raw_quotes": [
-        "mesmerism was also used to produce the temple sleep by the Pagan priesthood; and was one of the most ordinary practices of the ancient magicians"
-      ],
-      "sources": [
-        "worship_dead:chunk_20"
-      ],
-      "distinct_works": [
-        "garnier_1909"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
       "canonical_name": "messias / messyas",
       "display_name": "Messias / Messyas",
       "type": "spirit",
@@ -43545,6 +44737,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_4"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "michael, gabriel and raphael",
+      "display_name": "Michael, Gabriel and Raphael",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "angels sent to reveal information"
+      },
+      "page_refs": [
+        "Experiment no. 16"
+      ],
+      "raw_quotes": [
+        "conjures the names themselves, that they may send the angels Michael, Gabriel and Raphael to reveal whatever information he is seeking."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -43755,6 +44970,63 @@
       ],
       "distinct_works": [
         "ars_notoria"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "mirror information ritual",
+      "display_name": "Mirror Information Ritual",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "Circulate cemetery, collect stones from Psalm 50, make circle with verbena, use mirror traced with olive oil and thumb"
+      },
+      "page_refs": [
+        "62v–65r"
+      ],
+      "raw_quotes": [
+        "Postea accipe speculum, et line ipsum cum oleo oliue cum pollice"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "mirror of floron",
+      "display_name": "Mirror of Floron",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "tools": [
+          "mirror made of pure steel",
+          "balsam",
+          "aloes",
+          "ambergris",
+          "myrrh",
+          "white frankincense"
+        ],
+        "ingredients": [
+          "honey",
+          "milk",
+          "wine"
+        ],
+        "medium_requirement": "virgin boy"
+      },
+      "page_refs": [],
+      "raw_quotes": [
+        "After it has been made, it should be anointed with pure and bright balsam, and fumigated with aloes, ambergris, myrrh and white frankincense."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_13"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -44377,6 +45649,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_36"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "naasay",
+      "display_name": "Naasay",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "helper to the winds"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "and their helpers are Yse, Riron, Naasay, [and] Eladab"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -46138,6 +47433,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "oreoth, pinen, ocel, tryboy, noryoth, belferith, camoy, astaroth, sobronoy, sismael",
+      "display_name": "Oreoth, Pinen, Ocel, Tryboy, Noryoth, Belferith, Camoy, Astaroth, Sobronoy, Sismael",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "nature": "malignos"
+      },
+      "page_refs": [
+        "fols 6r–7v"
+      ],
+      "raw_quotes": [
+        "Coniuro vos decem demones [6v] malignos, videlicet Oreoth, Pinen, Ocel, Tryboy, Noryoth, Belferith, Camoy, Astaroth, Sobronoy, Sismael"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "orha",
       "display_name": "Orha",
       "type": "divine_name",
@@ -46480,6 +47798,30 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "oymelor, demefin, lamair, masair, symofor, rodobayl, tentetos, lotobor, memoyr, tamafin, leutaber, tatomofon, faubair, selutabel, rimasor, syrama",
+      "display_name": "Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "nature": "cheerful, glad and joyous spirits",
+        "function": "to make manifest whatever is said (banquet/entertainment)"
+      },
+      "page_refs": [
+        "no. 6"
+      ],
+      "raw_quotes": [
+        "Oymelor, Demefin, Lamair, Masair, Symofor, Rodobayl, Tentetos, Lotobor, Memoyr, Tamafin, Leutaber, Tatomofon, Faubair, Selutabel, Rimasor, Syrama, most cheerful, glad and joyous spirits"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_6"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "oymelor, symofos, manoir, faubair",
       "display_name": "Oymelor, Symofos, Manoir, Faubair",
       "type": "spirit",
@@ -46696,6 +48038,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_30"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "paper from female dog",
+      "display_name": "paper from female dog",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "description": "carta factam de cane femina dum est in amore"
+      },
+      "page_refs": [
+        "fols 8r–11v"
+      ],
+      "raw_quotes": [
+        "et cartam factam de cane femina dum est in amore"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -46921,6 +48286,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_17"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "pattar",
+      "display_name": "Pattar",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "angel constituted over the fifth image (Thursday)"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -49177,6 +50565,37 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "psychological experiment fumigation",
+      "display_name": "Psychological Experiment Fumigation",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "target": "image or object representing victim",
+        "ingredients": [
+          "myrrh",
+          "saffron",
+          "cinnamon",
+          "pepper",
+          "agrimonia",
+          "sulphur fumes"
+        ]
+      },
+      "page_refs": [
+        "no. 3, 4, 5"
+      ],
+      "raw_quotes": [
+        "with myrrh and saffron (no. 3); with cinnamon, pepper and agrimonia (no. 4), or with sulphur fumes (no. 5)."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "puer (boy)",
       "display_name": "Puer (boy)",
       "type": "tool",
@@ -49341,6 +50760,27 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "pumeon, terminas (or termines), peripaos, midam (or midain), fabni (or fabin), gebel, darail (or dorayl), vmeloth, thereoth (or tereoth), byreoth (or bireoth)",
+      "display_name": "Pumeon, Terminas (or Termines), Peripaos, Midam (or Midain), Fabni (or Fabin), Gebel, Darail (or Dorayl), Vmeloth, Thereoth (or Tereoth), Byreoth (or Bireoth)",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "fols 12r–12v"
+      ],
+      "raw_quotes": [
+        "sculpes hoc nomen ‘Dyacom’; in pectore eius hec tria nomina, scilicet ‘Punicon’, ‘Terminas’, et ‘Peripaos’"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "pumiotor",
       "display_name": "Pumiotor",
       "type": "spirit",
@@ -49406,28 +50846,6 @@
       ],
       "distinct_works": [
         "garnier_1909"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
-      "canonical_name": "puzanil, pimaton, folfitoy, mansator",
-      "display_name": "Puzanil, Pimaton, Folfitoy, Mansator",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "role": "antipathetic demon names",
-        "function": "carved on stones for sowing enmity"
-      },
-      "page_refs": [],
-      "raw_quotes": [
-        "On the other [you must carve] the name of the other person and the names Puzanil, Pimaton, Folfitoy, and Mansator. These names are highly antipathetic to each other."
-      ],
-      "sources": [
-        "necro:chunk_9"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -49897,29 +51315,6 @@
       "occurrence_count": 1
     },
     {
-      "canonical_name": "rator, lampoy, despan, brulo, dronoth, maloqui, satola, gelbid, mascifin, nartim, lodoni",
-      "display_name": "Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim, Lodoni",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "role": "named demonic names used in invocations"
-      },
-      "page_refs": [
-        "p.156–157"
-      ],
-      "raw_quotes": [
-        "by these names, which cause you fear and terror: Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifin, Nartim and Lodoni"
-      ],
-      "sources": [
-        "forbidden_rites_pdf:chunk_16"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
       "canonical_name": "rator, lampoy, despan, brulo, dronoth, maloqui, satola, gelbid, mascifm, nartim, lodoni",
       "display_name": "Rator, Lampoy, Despan, Brulo, Dronoth, Maloqui, Satola, Gelbid, Mascifm, Nartim, Lodoni",
       "type": "spirit",
@@ -50150,31 +51545,6 @@
       "occurrence_count": 1
     },
     {
-      "canonical_name": "red sandalwood",
-      "display_name": "red sandalwood",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "use": [
-          "fumigation of images"
-        ]
-      },
-      "page_refs": [
-        "no. 37m"
-      ],
-      "raw_quotes": [
-        "...Indian wood and with red sandalwood"
-      ],
-      "sources": [
-        "necro:chunk_22"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
       "canonical_name": "regale",
       "display_name": "Regale",
       "type": "spirit",
@@ -50242,6 +51612,27 @@
       ],
       "distinct_works": [
         "garnier_1909"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "resin ash",
+      "display_name": "resin ash",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "Experiment no. 30"
+      ],
+      "raw_quotes": [
+        "obtains a powder by burning resin and collecting the ash from the bottom of a basin"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_14"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -50542,6 +51933,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "riron",
+      "display_name": "Riron",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "helper to the winds"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "and their helpers are Yse, Riron, Naasay, [and] Eladab"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "ristel",
       "display_name": "Ristel",
       "type": "spirit",
@@ -50787,6 +52201,76 @@
       ],
       "sources": [
         "necro:chunk_26"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "ritual for discovering hidden treasure",
+      "display_name": "Ritual for discovering hidden treasure",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "timing": "waxing moon, Sunday, Sun in Leo, morning",
+        "actions": "confess sins, sprinkle with holy water, pray at crucifix, face East"
+      },
+      "page_refs": [
+        "fol. 106r–106v"
+      ],
+      "raw_quotes": [
+        "A[d] sciendum vbi thesaurum sit absconditum... luna crescente, videlicet die dominico, sole existente in leone, de mane."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_37"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "ritual for invisibility",
+      "display_name": "Ritual for invisibility",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "sacrifice a white dove and draw a figure with its blood"
+      },
+      "page_refs": [
+        "fols 107v–108r"
+      ],
+      "raw_quotes": [
+        "sume albam columbam... Et scribe de huiusc collumbe sangwine hanc figuram."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_37"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "ritual for obtaining a horse",
+      "display_name": "Ritual for obtaining a horse",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "method": "write names on cloth at dusk using bat blood"
+      },
+      "page_refs": [
+        "fol. 107r–v"
+      ],
+      "raw_quotes": [
+        "Ad equum habendum, hoc scribatur in hostio domus vacue in crepusculo noctis... cum sa[n]gwine vespertilionis"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_37"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -52160,6 +53644,27 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "salis petri (saltpeter)",
+      "display_name": "salis petri (saltpeter)",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "fol. 108v"
+      ],
+      "raw_quotes": [
+        "Item recipe salis petri, vitrioli, rorani"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_37"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "salodaya",
       "display_name": "Salodaya",
       "type": "spirit",
@@ -52728,6 +54233,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_23"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "sangwine vespertilionis",
+      "display_name": "sangwine vespertilionis",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "use": "for obtaining a horse"
+      },
+      "page_refs": [
+        "fol 36r-v"
+      ],
+      "raw_quotes": [
+        "hec nomina cum sangwine vespertilionis"
+      ],
+      "sources": [
+        "necro:chunk_27"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -54450,6 +55978,29 @@
     {
       "canonical_name": "serpent",
       "display_name": "Serpent",
+      "type": "concept",
+      "name_variants": [],
+      "attributes": {
+        "symbolism": "wisdom and divination; symbol of both Buddha and Mercury"
+      },
+      "page_refs": [
+        "99-132"
+      ],
+      "raw_quotes": [
+        "The Serpent the symbol of wisdom and divination"
+      ],
+      "sources": [
+        "worship_dead:chunk_1"
+      ],
+      "distinct_works": [
+        "garnier_1909"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "serpent",
+      "display_name": "Serpent",
       "type": "spirit",
       "name_variants": [],
       "attributes": {
@@ -54749,27 +56300,6 @@
       ],
       "distinct_works": [
         "garnier_1909"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
-      "canonical_name": "shining sword",
-      "display_name": "shining sword",
-      "type": "tool",
-      "name_variants": [],
-      "attributes": {
-        "use": "tracing circles, inscribing names"
-      },
-      "page_refs": [],
-      "raw_quotes": [
-        "carrying a shining sword... one must trace circles in a remote place. When this is done, inscribe sixteen names with the point of the sword"
-      ],
-      "sources": [
-        "necro:chunk_6"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -55198,6 +56728,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "silite",
+      "display_name": "Silite",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "wind constituted over the image"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "these are the winds constituted over the image: Silite, Maraben, Halharit"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "silitol",
       "display_name": "Silitol",
       "type": "spirit",
@@ -55236,27 +56789,6 @@
       ],
       "sources": [
         "necro:chunk_33"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
-      "canonical_name": "silver or tin",
-      "display_name": "silver or tin",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "role": "material for casting images"
-      },
-      "page_refs": [],
-      "raw_quotes": [
-        "take silver or tin and melt it over a fire. When it is melted, cast it in his form..."
-      ],
-      "sources": [
-        "necro:chunk_9"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -55476,6 +57008,27 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "sobedon, badalam, berith",
+      "display_name": "Sobedon, Badalam, Berith",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "fols 8r–11v"
+      ],
+      "raw_quotes": [
+        "Sobedon, Badalam, et Berith"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "sol",
       "display_name": "Sol",
       "type": "spirit",
@@ -55578,6 +57131,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_29"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "spatula",
+      "display_name": "spatula",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "materials": "donkey, hare, goose, or chicken bone"
+      },
+      "page_refs": [
+        "fols 32r-33r"
+      ],
+      "raw_quotes": [
+        "lingna ex spina alba vel lingna que vagantur in aquis... et faciat inde ignem"
+      ],
+      "sources": [
+        "necro:chunk_27"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -56123,6 +57699,28 @@
       ],
       "distinct_works": [
         "garnier_1909"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "spiritus aerialis",
+      "display_name": "spiritus aerialis",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "appearance": "appeared at Bunwell",
+        "nature": "accursed spirit"
+      },
+      "page_refs": [],
+      "raw_quotes": [
+        "When a spiritus aerialis appeared, at Bunwell, they promised it the body of a Christian man in exchange for its leading them to treasure"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_13"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -56884,6 +58482,27 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "sulfur smoke",
+      "display_name": "sulfur smoke",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {},
+      "page_refs": [
+        "fols 13v–15r"
+      ],
+      "raw_quotes": [
+        "suffumiga eum cum fumo sulphuris"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "sun",
       "display_name": "The Sun",
       "type": "spirit",
@@ -57001,30 +58620,6 @@
       ],
       "distinct_works": [
         "garnier_1909"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
-      "canonical_name": "svcax",
-      "display_name": "Svcax",
-      "type": "spirit",
-      "name_variants": [],
-      "attributes": {
-        "rank": "magnus marchio",
-        "function": "incites love of widows; commands 23 legions"
-      },
-      "page_refs": [
-        "67r"
-      ],
-      "raw_quotes": [
-        "Svcax magnus marchio est... Multum mirabiliter dat amorem mulierum, et maxime omnium viduarum. Habet sub se 23 legiones."
-      ],
-      "sources": [
-        "necro:chunk_32"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
       ],
       "cross_work": false,
       "occurrence_count": 1
@@ -57618,6 +59213,30 @@
       ],
       "sources": [
         "necro:chunk_33"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "taming wild beasts ritual",
+      "display_name": "Taming Wild Beasts Ritual",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "timing": "fifth day hour",
+        "method": "cast an image of the animal, carve name on head, name of hour and lord on chest, seven names of first hour on stomach, fumigate with Indian wood and red sandalwood, bury image"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "At this hour cast an image of the animal... fumigate the image with Indian wood and with red sandalwood, and bury the image in a place of your choosing"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -58978,6 +60597,50 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "thure, mirra, et olibano",
+      "display_name": "thure, mirra, et olibano",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "use": "incense for invisibility ritual"
+      },
+      "page_refs": [
+        "fols 28r-29v"
+      ],
+      "raw_quotes": [
+        "habeas vas in quo sit ignis cum thure, mirra, et olibano"
+      ],
+      "sources": [
+        "necro:chunk_27"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "thurible",
+      "display_name": "Thurible",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "material": "presumably of gold"
+      },
+      "page_refs": [],
+      "raw_quotes": [
+        "place incense and myrrh in a thurible (presumably of gold)"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "thuribulum (censer)",
       "display_name": "Thuribulum (Censer)",
       "type": "tool",
@@ -59284,6 +60947,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "travel ointment",
+      "display_name": "Travel ointment",
+      "type": "ingredient",
+      "name_variants": [],
+      "attributes": {
+        "components": "seven herbs, the fat of a goat and the blood of a bat"
+      },
+      "page_refs": [
+        "unspecified"
+      ],
+      "raw_quotes": [
+        "to travel quickly wherever one wishes, one should make an ointment from seven herbs, the fat of a goat and the blood of a bat"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_6"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "trinitas sancta",
       "display_name": "Trinitas Sancta",
       "type": "spirit",
@@ -59516,6 +61202,52 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "tubal, sathan, reuces, cupido, afalion, duliatus",
+      "display_name": "Tubal, Sathan, Reuces, Cupido, Afalion, Duliatus",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "nature": "calidorum"
+      },
+      "page_refs": [
+        "fols 8r–11v"
+      ],
+      "raw_quotes": [
+        "nomined istorum sex spirituum calidorum, videlicet Tubal, Sathan, Reuces, Cupido, Afalion, Duliatus"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_24"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "tuditha, stehiha, alpha, draco, mariodo, ypanon",
+      "display_name": "Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "usage": "names to be written in bat blood for obtaining a horse"
+      },
+      "page_refs": [
+        "fol. 107r–v"
+      ],
+      "raw_quotes": [
+        "hec nomina cum sa[n]gwine vespertilionis: Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_37"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "tuveries",
       "display_name": "Tuveries?",
       "type": "spirit",
@@ -59557,6 +61289,31 @@
       ],
       "sources": [
         "necro:chunk_25"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "tvueries",
+      "display_name": "Tvueries",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": "marchio magnus et fortis",
+        "knowledge": "gramaticam, loycam, rethoricam, ac dictata",
+        "legions": "xxx"
+      },
+      "page_refs": [
+        "65v–65r bis"
+      ],
+      "raw_quotes": [
+        "Tvueries marchio magnus et fortis [est], regnans et imperans in Afforanisr partibus."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_32"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -59728,29 +61485,6 @@
       "occurrence_count": 1
     },
     {
-      "canonical_name": "unguentum pharelis",
-      "display_name": "unguentum pharelis",
-      "type": "ingredient",
-      "name_variants": [],
-      "attributes": {
-        "function": "salve used for magical illusion"
-      },
-      "page_refs": [
-        "intro paragraph"
-      ],
-      "raw_quotes": [
-        "...a salve called the unguentum pharelis, made of seven herbs mixed with the blood of a bird and the fat of an animal..."
-      ],
-      "sources": [
-        "necro:chunk_7"
-      ],
-      "distinct_works": [
-        "kieckhefer_clm849"
-      ],
-      "cross_work": false,
-      "occurrence_count": 1
-    },
-    {
       "canonical_name": "unhulden",
       "display_name": "unhulden",
       "type": "person",
@@ -59832,6 +61566,30 @@
       ],
       "sources": [
         "necro:chunk_6"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "usyr, salaul, silitor, demor, zanno, syrtroy, risbel, cutroy, lytay, onor, moloy, pumotor, tami, oor, ym",
+      "display_name": "Usyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor, Ym",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "nature": "squire spirits",
+        "function": "to bear arms and deceive human senses; to make fortifications and castles appear"
+      },
+      "page_refs": [
+        "no. 7"
+      ],
+      "raw_quotes": [
+        "O Usyr, Salaul, Silitor, Demor, Zanno, Syrtroy, Risbel, Cutroy, Lytay, Onor, Moloy, Pumotor, Tami, Oor and Ym, squire spirits, whose function it is to bear arms and deceive human senses"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_6"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -60309,6 +62067,28 @@
       ],
       "sources": [
         "necro:chunk_13"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "virgin boy",
+      "display_name": "virgin boy",
+      "type": "person",
+      "name_variants": [],
+      "attributes": {
+        "role": "medium",
+        "requirement": "must be able to see spirits; often young and virginal"
+      },
+      "page_refs": [],
+      "raw_quotes": [
+        "the medium, usually a young boy, is vital; it is he alone who actually sees the spirits that are conjured."
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_13"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -61281,6 +63061,29 @@
       "occurrence_count": 1
     },
     {
+      "canonical_name": "woden",
+      "display_name": "Woden",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "author of sacred books, inventor of letters, god of Magic, conductor of dead"
+      },
+      "page_refs": [
+        "99-132"
+      ],
+      "raw_quotes": [
+        "Woden author of sacred books, inventor of letters, god of Magic, conductor of dead"
+      ],
+      "sources": [
+        "worship_dead:chunk_1"
+      ],
+      "distinct_works": [
+        "garnier_1909"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
       "canonical_name": "ya / yayay",
       "display_name": "Ya / Yayay",
       "type": "spirit",
@@ -61319,6 +63122,29 @@
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_35"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "yafaa",
+      "display_name": "Yafaa",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "conjured angel"
+      },
+      "page_refs": [
+        "concord ritual"
+      ],
+      "raw_quotes": [
+        "I conjure you angels by the name Yafaa, Safaa, Alleya, Hayala, Haya, Halix, Hayul, Ataya, Hytoia, Saffetaba, Coffossol, Remlestar, El"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -61875,6 +63701,29 @@
       ],
       "sources": [
         "necro:chunk_36"
+      ],
+      "distinct_works": [
+        "kieckhefer_clm849"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "yse",
+      "display_name": "Yse",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "role": "helper to the winds"
+      },
+      "page_refs": [
+        "no. 37m/q"
+      ],
+      "raw_quotes": [
+        "and their helpers are Yse, Riron, Naasay, [and] Eladab"
+      ],
+      "sources": [
+        "forbidden_rites_pdf:chunk_22"
       ],
       "distinct_works": [
         "kieckhefer_clm849"
@@ -62701,6 +64550,12 @@
       "source": "necro"
     },
     {
+      "from": "barbarus",
+      "to": "sagitarij siluestris",
+      "type": "appears in sign of",
+      "source": "forbidden_rites_pdf"
+    },
+    {
       "from": "floron",
       "to": "mirror of floron",
       "type": "appears_in",
@@ -62717,6 +64572,18 @@
       "to": "speculum floron",
       "type": "applied to",
       "source": "necro"
+    },
+    {
+      "from": "tuditha, stehiha, alpha, draco, mariodo, ypanon",
+      "to": "ritual for obtaining a horse",
+      "type": "are components of",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "tubal, sathan, reuces, cupido, afalion, duliatus",
+      "to": "woman",
+      "type": "arouse love",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "gold ring",
@@ -63221,6 +65088,12 @@
       "to": "spiritual obedience",
       "type": "causes",
       "source": "necro"
+    },
+    {
+      "from": "mirael",
+      "to": "person",
+      "type": "causes loss of senses",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "place of the master",
@@ -63977,6 +65850,18 @@
       "to": "tetragrammaton",
       "type": "conjuration authority",
       "source": "necro"
+    },
+    {
+      "from": "yafaa",
+      "to": "bringing concord between humans ritual",
+      "type": "conjured in",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "apolin, maraloth and berith",
+      "to": "teacher/magister",
+      "type": "conjured to send",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "hateful and malignant, invidious and discordant demons",
@@ -64849,6 +66734,12 @@
       "source": "necro"
     },
     {
+      "from": "dyacom",
+      "to": "king or lord",
+      "type": "gain dignity and honor",
+      "source": "forbidden_rites_pdf"
+    },
+    {
       "from": "bismille araathe",
       "to": "quranic basmala",
       "type": "garbled-derivation-from",
@@ -64987,6 +66878,12 @@
       "source": "necro"
     },
     {
+      "from": "belial",
+      "to": "obtaining a woman's love",
+      "type": "helper in",
+      "source": "necro"
+    },
+    {
       "from": "tetragrammaton",
       "to": "ely, eloy, eloe",
       "type": "hierarchy_of_divine_names",
@@ -65059,6 +66956,12 @@
       "source": "necro"
     },
     {
+      "from": "buddha",
+      "to": "hermes",
+      "type": "identical character",
+      "source": "worship_dead"
+    },
+    {
       "from": "munich handbook (clm 849)",
       "to": "clm 849",
       "type": "identical_to",
@@ -65122,6 +67025,12 @@
       "from": "yama",
       "to": "osiris",
       "type": "identification",
+      "source": "worship_dead"
+    },
+    {
+      "from": "woden",
+      "to": "buddha",
+      "type": "identified as same",
       "source": "worship_dead"
     },
     {
@@ -65215,6 +67124,12 @@
       "source": "worship_dead"
     },
     {
+      "from": "set",
+      "to": "typhon",
+      "type": "identity",
+      "source": "worship_dead"
+    },
+    {
       "from": "shem",
       "to": "seth",
       "type": "identity",
@@ -65255,6 +67170,12 @@
       "to": "amitabha",
       "type": "incarnation_of",
       "source": "worship_dead"
+    },
+    {
+      "from": "cartutay, momabel, sobil, geteritacon",
+      "to": "friends",
+      "type": "incite hatred",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "tetragrammaton",
@@ -65314,6 +67235,24 @@
       "from": "munich handbook (clm 849)",
       "to": "le livre des esperitz",
       "type": "influences",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "indian wood",
+      "to": "taming wild beasts ritual",
+      "type": "ingredient for",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "thure, mirra, et olibano",
+      "to": "invisibility ritual",
+      "type": "ingredient of",
+      "source": "necro"
+    },
+    {
+      "from": "milk and honey",
+      "to": "conjuring an illusory castle",
+      "type": "ingredient used in",
       "source": "forbidden_rites_pdf"
     },
     {
@@ -66169,6 +68108,12 @@
       "source": "liber_juratus"
     },
     {
+      "from": "haram",
+      "to": "ritual for discovering hidden treasure",
+      "type": "is invoked in",
+      "source": "forbidden_rites_pdf"
+    },
+    {
       "from": "corniger",
       "to": "terrestrial spirits",
       "type": "is king of south",
@@ -66191,6 +68136,12 @@
       "to": "god",
       "type": "is son of",
       "source": "liber_juratus"
+    },
+    {
+      "from": "astaroth",
+      "to": "ritual for identifying thieves",
+      "type": "is used in",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "barthan",
@@ -66373,6 +68324,12 @@
       "source": "forbidden_rites_pdf"
     },
     {
+      "from": "yellow bronze",
+      "to": "bringing concord between humans ritual",
+      "type": "material for",
+      "source": "forbidden_rites_pdf"
+    },
+    {
       "from": "silver or tin",
       "to": "gain favour with dignitary",
       "type": "material-for-image-casting",
@@ -66461,6 +68418,12 @@
       "to": "cloth circle",
       "type": "medium for inscribing names",
       "source": "necro"
+    },
+    {
+      "from": "virgin boy",
+      "to": "mirror of floron",
+      "type": "medium for ritual",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "image worship",
@@ -68257,6 +70220,12 @@
       "source": "worship_dead"
     },
     {
+      "from": "satquiel",
+      "to": "thursday image",
+      "type": "rules",
+      "source": "forbidden_rites_pdf"
+    },
+    {
       "from": "oriens",
       "to": "east cardinal direction",
       "type": "rules over",
@@ -68557,6 +70526,18 @@
       "source": "worship_dead"
     },
     {
+      "from": "oymelor, demefin, et al",
+      "to": "conjuring an illusory banquet",
+      "type": "spirits summoned by",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "usyr, salaul, et al",
+      "to": "conjuring an illusory castle",
+      "type": "spirits summoned by",
+      "source": "forbidden_rites_pdf"
+    },
+    {
       "from": "naamah",
       "to": "ham",
       "type": "spousal",
@@ -68653,6 +70634,24 @@
       "source": "necro"
     },
     {
+      "from": "bartha",
+      "to": "obtaining a flying throne",
+      "type": "subject of invocation in",
+      "source": "necro"
+    },
+    {
+      "from": "floron",
+      "to": "mirror of floron",
+      "type": "subject of ritual",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "lilith",
+      "to": "first mirror of lilith",
+      "type": "subject of ritual",
+      "source": "forbidden_rites_pdf"
+    },
+    {
       "from": "demon (unnamed)",
       "to": "virgin mary (feast of the assumption)",
       "type": "subject-to-power-of",
@@ -68723,6 +70722,12 @@
       "to": "nimrod",
       "type": "substitution-in-sacrifice",
       "source": "worship_dead"
+    },
+    {
+      "from": "michael, gabriel and raphael",
+      "to": "information revelation",
+      "type": "summoned to provide",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "spanish magician",
@@ -68941,6 +70946,12 @@
       "source": "forbidden_rites_pdf"
     },
     {
+      "from": "nephilim",
+      "to": "daimonia",
+      "type": "the same",
+      "source": "worship_dead"
+    },
+    {
       "from": "hildegard of bingen",
       "to": "antichrist",
       "type": "theologized about",
@@ -68957,6 +70968,24 @@
       "to": "beginning of month",
       "type": "timed_to",
       "source": "ars_notoria"
+    },
+    {
+      "from": "spatula",
+      "to": "constraining a man, woman, spirit, or beast",
+      "type": "tool for",
+      "source": "necro"
+    },
+    {
+      "from": "hoopoe",
+      "to": "conjuring an illusory banquet",
+      "type": "tool used in",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "shining sword",
+      "to": "conjuring an illusory banquet",
+      "type": "tool used in",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "iron key or stylus",
@@ -69595,6 +71624,30 @@
       "source": "forbidden_rites_pdf"
     },
     {
+      "from": "generic conjuration preparation",
+      "to": "cultellus (knife)",
+      "type": "uses",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "generic conjuration preparation",
+      "to": "incense and myrrh",
+      "type": "uses",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "mirror information ritual",
+      "to": "olive oil",
+      "type": "uses",
+      "source": "forbidden_rites_pdf"
+    },
+    {
+      "from": "mirror information ritual",
+      "to": "verbena",
+      "type": "uses",
+      "source": "forbidden_rites_pdf"
+    },
+    {
       "from": "ritual boat conjuration",
       "to": "fyrin",
       "type": "uses",
@@ -69617,6 +71670,12 @@
       "to": "four tongues",
       "type": "uses chaldee, greek, hebrew, latine",
       "source": "ars_notoria"
+    },
+    {
+      "from": "master",
+      "to": "boy/medium",
+      "type": "uses for divination",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "virgin boy",
@@ -69719,6 +71778,12 @@
       "to": "idolatry",
       "type": "victim_of_persecution_for_challenging",
       "source": "worship_dead"
+    },
+    {
+      "from": "silite",
+      "to": "image",
+      "type": "wind over",
+      "source": "forbidden_rites_pdf"
     },
     {
       "from": "zoroaster",
@@ -69946,6 +72011,18 @@
     },
     {
       "source_id": "necro",
+      "chunk_id": 27,
+      "summary": "This chunk details several magical operations: an invisibility ritual using spirits and incense, a love ritual involving wax images and needles, a binding ritual using heated bone spatulas, and the summoning of a flying throne via elemental jars. It also includes methods for finding things in dreams and obtaining horses through specific names and bat blood.",
+      "key_passages": [
+        "Tracto eciam de arte invisibilitatis, hodie quasi ab omnibus ignorata.",
+        "Tu Belial, tu Astarothtf tu Paymon, ad hoc sitis opus michi adiutores.",
+        "Per hoc experimentum constringitur homo, mulier, vir, spiritus, [vel] bestia, cuiuscumque condicionis existat.",
+        "voca regem nubium, nomine Bartha, vt mittat 3es de ducibus qui habent posse [super] nubibus",
+        "Ad inveniendum in sompnis que vis, scribe hec nomina in carta virginea"
+      ]
+    },
+    {
+      "source_id": "necro",
       "chunk_id": 28,
       "summary": "This chunk details several magical mirror and crystal rituals from the Munich Handbook (CLM 849), including two versions of the Speculum Floron for revelation, a third method using mirrors in Jupiter-Venus conjunction, and the First Mirror of Lilith (Lylet) for divination. It also includes rituals for invisibility (using a black cat born in March), theft/murder detection via crystal or boy’s gaze, and Pluto’s Key to open locks. Ritual ingredients include calibe mirrors, balsam, aloes, amber, myrrh, white frankincense, human blood, cat organs, elyotropia seeds, and mixed mel/lac/vinum. Incantations are largely in pseudo-Chaldaic or Latin with divine names (Alpha et O, Sabaoth, Emanuel). Timing follows planetary days (Venus, Friday) and lunar phases (waxing moon).",
       "key_passages": [
@@ -70078,6 +72155,18 @@
     },
     {
       "source_id": "forbidden_rites_pdf",
+      "chunk_id": 6,
+      "summary": "This chunk details two major illusionist experiments from the Munich handbook: the conjuration of a lavish banquet (no. 6) and an illusory castle (no. 7). It describes specific rituals involving timing, tools like swords and hoopoes, and ingredients such as milk, honey, and magical ointments.",
+      "key_passages": [
+        "First one must invoke fifteen spirits... carrying a shining sword and a hoopoe",
+        "to travel quickly wherever one wishes, one should make an ointment from seven herbs, the fat of a goat and the blood of a bat",
+        "The following experiment (no. 7) is designed to obtain an illusory castle, with defenders.",
+        "taking milk and honey with you, some of a which you must sprinkle in the air.",
+        "the hoopoe is possessed of great virtue for necromancers and invokers of demons"
+      ]
+    },
+    {
+      "source_id": "forbidden_rites_pdf",
       "chunk_id": 7,
       "summary": "This chunk details several ritual experiments from the Munich Handbook (CLM 849), including methods for obtaining illusory transportation (horses, ships, flying throne), invisibility (via cloak, plant, or sacrifice), and manipulation of life/death states using inscribed rings. It provides detailed conjurations, spirit names (e.g., Lautrayth, Feremin, Oliroomim; Firiel, Melemil, Berith, Taraor; Brimer, Suburith, Tranauit, Lyroth, Beryen, Damayn), protective circles, ritual ingredients (bridle, bat’s blood, horsehide, heliotrope seeds), and biblical references used in incantations. The text also notes connections to other traditions like the Rawlinson manuscript and classical motifs such as the ring of Gyges.",
       "key_passages": [
@@ -70146,6 +72235,30 @@
         "The general term for such divination is ‘scrying’, which is sometimes subdivided into specific forms such as catoptromancy (divination by means of a mirror), crystallomancy (by a crystal), cyclicomancy or lecanomancy (by a cup or basin filled with liquid)...",
         "he threatened to go to a certain necromantic wizard [maleficum quendam nigromanticum] and find out through him about this strange affair.",
         "the demon who was providing information through the boy could no longer do so once the thief had been absolved."
+      ]
+    },
+    {
+      "source_id": "forbidden_rites_pdf",
+      "chunk_id": 13,
+      "summary": "This text describes various divinatory experiments from the Munich manuscript (Clm 849), focusing on scrying techniques using mirrors, crystals, and fingernails. It details specific rituals like the Mirror of Floron and a complex fingernail-based ritual used to detect theft or find information.",
+      "key_passages": [
+        "The master... should sit and have this mirror held with both hands by a virgin boy before his chest.",
+        "The First Mirror of Lilith (spelled Lilit or Lylet) is dedicated to this ancient Hebrew demon and to her followers and her ‘knights’",
+        "the medium, usually a young boy, is vital; it is he alone who actually sees the spirits that are conjured.",
+        "take a virgin boy of legitimate birth... scrape well the thumb nail of his left hand with a knife.",
+        "The master... should look in the mirror, and he will see an armed knight seated on a horse, and his squire accompanying him."
+      ]
+    },
+    {
+      "source_id": "forbidden_rites_pdf",
+      "chunk_id": 14,
+      "summary": "This chunk details various divinatory rituals involving child mediums using fingernails, vessels, bones, and sleep to reveal information or find treasures. It describes specific ingredients like olive oil and bird blood, as well as the conjuration of spirits such as Apolin, Maraloth, and Berith.",
+      "key_passages": [
+        "The magician commands the demons Apolin, Maraloth and Berith to send yet another demon as a teacher",
+        "the master conjures certain demon princes to come in the form of black men and appear in the boy’s nail.",
+        "Haram, a benign spirit, may come to me in my sleep and enkindle my heart and my mind, that I may know how to find a treasure",
+        "The master conjures the demons (again as often as needed) to come and appear to the boy in the forms of the thieves.",
+        "the master anoints the right shoulder blade of a ram with olive oil and puts it beneath the handle of a knife."
       ]
     },
     {
@@ -70234,6 +72347,18 @@
     },
     {
       "source_id": "forbidden_rites_pdf",
+      "chunk_id": 22,
+      "summary": "This chunk details various magical experiments from a medieval manual, focusing on astrological timing, fumigation techniques using ingredients like myrrh and saffron, and specific rituals for taming beasts or creating concord between humans. It also describes the structure of astral magic compendiums containing lists of angels, spirits, and planetary associations.",
+      "key_passages": [
+        "At this hour cast an image of the animal of the sort you wish to control or tame, and on the head of the image carve the name of the animal",
+        "make an image of yellow bronze or of yellow wax on a Thursday, and tint it with green",
+        "the work should be done under a waxing or waning moon, or in a particular phase of the moon.",
+        "In psychological experiments it is the image or the object sympathetically representing the victim that is fumigated",
+        "the boundary between astral magic and necromancy was fluid in practice even if in theory it could be stated with clarity"
+      ]
+    },
+    {
+      "source_id": "forbidden_rites_pdf",
       "chunk_id": 23,
       "summary": "This chunk presents detailed analysis and transcription of ritual No. 1 from the Munich Handbook (CLM 849), a 15th-century necromantic manual, focusing on how to conjure a master spirit for acquiring liberal arts knowledge through dream incubation. It lists multiple spirit names—both infernal (Apolin, Maraloth, Berith, Sathan, Belzebuc, etc.) and divine/angelic (Dobel, Vriel, Sabaoth, Tetragramaton, Adonay, Perarabiel, etc.)—and describes the ritual circle, blood-written inscriptions, protective cloth, sword, and writing tablet used. The text reveals a hybridized conjuration technique blending liturgical invocations with coercive demon summoning.",
       "key_passages": [
@@ -70242,6 +72367,17 @@
         "O Apolin, Maraloch, Berith, Sathan, Beliath, Belzebuc, [et] Lucifer, supplico vobis vt precipiatis magistro – in eo [loco] (nominando eius nomen) – vt ipse debeat venire cras ante solis ortum ad me...",
         "...scribi debet per te cum predicto sangwine... scribe in dicto circulo nomen eius scriptum per te...",
         "In sompno apparent tibi tres maximi reges cum famulis innumeris, militibus et peditibus, inter quos est eciam quidam magister apparens..."
+      ]
+    },
+    {
+      "source_id": "forbidden_rites_pdf",
+      "chunk_id": 24,
+      "summary": "This chunk details four distinct magical operations: causing loss of senses via Mirael, arousing a woman's love using animal parts and spirits, gaining dignity through carved stones and silver, and inciting enmity between friends using inscribed stones and sulfur.",
+      "key_passages": [
+        "Subintret Mirael cerebrum tuum et omnem sapienciam, sensum, discrecionem, [et] cogitationem diluat et aboleat.",
+        "Sicut tu, Sathan, et tu, Reuces, estis scripti in hac ymagine facta nomine talis, ita continuo affligatis brachia ista sua vt aliquid facere nequeat sed me amplecti desideret.",
+        "Ego, talis, volens talem graciam obtinere et ab eo venerari, semper honorari, similiter et timeri",
+        "Coniuro vos spiritus inimicissimos, per eterni dei gloriam, quod inter talem et talem... quantum odium inter vos est, tantum inter ipsos seminetis et inseratis."
       ]
     },
     {
@@ -70306,6 +72442,18 @@
     },
     {
       "source_id": "forbidden_rites_pdf",
+      "chunk_id": 32,
+      "summary": "This chunk contains several distinct magical operations: a ritual for obtaining information via a mirror, a list of various demons and their attributes/legions, a ritual for obtaining a woman's love using burning ribs, and a generic method for conjuring spirits using circles and specific divine names.",
+      "key_passages": [
+        "Postea accipe speculum, et line ipsum cum oleo oliue cum pollice",
+        "Barbarus [est] magnus comes et dux, et apparet in signo Sagitarij siluestris",
+        "scribe in costam nomen tuum et mulieris, Bel et Ebal... et pone ad ignem et fac cremari costam",
+        "habeat cultellum cum manubrio albo uel nigro, in cuius lamina hec nomina ex utraque parte sunt scripta: Agla [et] Sabaoth",
+        "inposito thureg et mirra, [et] circuash exteriora circuli"
+      ]
+    },
+    {
+      "source_id": "forbidden_rites_pdf",
       "chunk_id": 33,
       "summary": "This chunk details the Munich Handbook’s (CLM 849) necromantic rituals, focusing on weekday-based conjurations of angels and spirits. It lists angelic rulers for each day (Raphael/Sol to Captiel/Saturnus), their attendant spirits, planetary correspondences, seals, suffumigations (e.g., assandalum croceum for Sunday, aloes for Monday), and hour-specific divine names and functions. The text includes detailed invocations using layered divine names (Adonay, Sadaye, Cados, Yma, etc.), instructions for image-making (e.g., silver dog for tongue-binding), and references to protective circles inscribed with Trinitarian formulas and angelic names.",
       "key_passages": [
@@ -70342,6 +72490,17 @@
     },
     {
       "source_id": "forbidden_rites_pdf",
+      "chunk_id": 37,
+      "summary": "This chunk contains several distinct magical experiments: a conjuration using Astaroth to identify thieves, a ritual involving the spirit Haram to find treasure through dreams, and instructions for obtaining a horse using names written in bat blood. It also details a method for invisibility via a dove sacrifice and provides astrological timing for inscriptions.",
+      "key_passages": [
+        "per magistrum vestrum Astaroth, vt compareatisj in forma furis et furti",
+        "in sompnis Haram, spiritus benignus, et inflammet cor meum et mentem meum, vt sciam thesaurum invenire",
+        "hec nomina cum sa[n]gwine vespertilionis: Tuditha, Stehiha, Alpha, Draco, Mariodo, Ypanon.",
+        "sume albam columbam... Et scribe de huiusc collumbe sangwine hanc figuram."
+      ]
+    },
+    {
+      "source_id": "forbidden_rites_pdf",
       "chunk_id": 38,
       "summary": "This chunk contains index entries and scattered references to spirits, ritual texts, tools, and concepts from Kieckhefer’s *Forbidden Rites*, with emphasis on the Munich Handbook (CLM 849) and related necromantic traditions. Named entities include spirits like Castiel, Mirael, Paymon, Lucifer, Satan, Semiforas, and Oriens; ritual texts such as *Liber consecrationum*, *Liber de angelis*, *Key of Solomon*, *Testament of Solomon*, *Lemegeton*, and *Rawlinson MS D 252*; tools like circles, rings, swords, mirrors, and vessels; and conceptual elements in conjuration (e.g., declaration, invocation, instruction). The index highlights recurring ritual components across medieval magical manuscripts.",
       "key_passages": [
@@ -70350,6 +72509,18 @@
         "Liber consecrationum, 8–10, 25, 29, 128",
         "conjurations, 8, 12, 14, 16, 23, 29, 36, 42, 45, 48–9, 51, 53, 57, 58, 61, 62, 73–5, 80, 81, 83, 84, 86–8, 90, 91, 98, 102, 105–11, 115, 116, 127–34, 138, 140–4, 146, 147, 149, 156, 170, 174, 179",
         "necromancy, 1–4, 6, 7, 10–13, 18, 22, 25, 26, 30, 32–5, 37, 44, 45, 54, 61, 64, 69–72, 80, 82, 101, 102, 127, 128, 160, 170, 175, 177, 180, 186–8"
+      ]
+    },
+    {
+      "source_id": "worship_dead",
+      "chunk_id": 1,
+      "summary": "This chunk serves as a table of contents for a historical text exploring the connections between various ancient deities, such as Buddha, Woden, and Osiris. It outlines themes regarding the identification of pagan gods with spirits (daimonia), the symbolism of the serpent and cross, and the mythological origins of the Nephilim.",
+      "key_passages": [
+        "The Serpent the symbol of wisdom and divination",
+        "Pagan gods were devils or daimonia",
+        "Woden author of sacred books, inventor of letters, god of Magic, conductor of dead",
+        "The giants or Nephilim—Meaning of Nephilim, the 'Fallen Ones'",
+        "Use of Mesmerism by Pagan priests for consulting the gods"
       ]
     },
     {

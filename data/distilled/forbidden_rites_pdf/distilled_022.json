@@ -1,6 +1,247 @@
 {
   "source_id": "forbidden_rites_pdf",
   "chunk_id": 22,
-  "parse_error": true,
-  "raw_extraction": "{\n  \"source_id\": \"forbidden_rites_pdf\",\n  \"chunk_id\": 22,\n  \"has_relevant_content\": true,\n  \"entities\": [\n    {\n      \"name\": \"Venus\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"category\": \"planet\", \"association\": \"erotic experiments, favourable planet\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"an erotic experiment (no. 12) must be initiated in the hour of Venus or the hour of Jove... because Venus and Jupiter were seen as ‘favourable’ planets.\"\n    },\n    {\n      \"name\": \"Jupiter\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"category\": \"planet\", \"association\": \"erotic experiments, favourable planet\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"...the hour of Venus or the hour of Jove... because Venus and Jupiter were seen as ‘favourable’ planets.\"\n    },\n    {\n      \"name\": \"Satquiel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"angel over Thursday image\", \"appears in\": \"concord experiment\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"The fifth image is that of Thursday, and the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel...\"\n    },\n    {\n      \"name\": \"Pattar\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"angel over Thursday image\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel...\"\n    },\n    {\n      \"name\": \"Constiel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"angel over Thursday image\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel...\"\n    },\n    {\n      \"name\": \"Assassayel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"angel over Thursday image\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel...\"\n    },\n    {\n      \"name\": \"Silite\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"wind over Thursday image\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...these are the winds constituted over the image: Silite, Maraben, Halharit...\"\n    },\n    {\n      \"name\": \"Maraben\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"wind over Thursday image\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...winds constituted over the image: Silite, Maraben, Halharit...\"\n    },\n    {\n      \"name\": \"Halharit\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"wind over Thursday image\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...winds constituted over the image: Silite, Maraben, Halharit...\"\n    },\n    {\n      \"name\": \"Yse\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"helper of winds\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...and their helpers are Yse, Riron, Naasay, [and] Eladab.\"\n    },\n    {\n      \"name\": \"Riron\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"helper of winds\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...helpers are Yse, Riron, Naasay, [and] Eladab.\"\n    },\n    {\n      \"name\": \"Naasay\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"helper of winds\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...helpers are Yse, Riron, Naasay, [and] Eladab.\"\n    },\n    {\n      \"name\": \"Eladab\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"helper of winds\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...helpers are Yse, Riron, Naasay, [and] Eladab.\"\n    },\n    {\n      \"name\": \"Yafaa\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...I conjure you angels by the name Yafaa, Safaa, Alleya, Hayala...\"\n    },\n    {\n      \"name\": \"Safaa\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...by the name Yafaa, Safaa, Alleya, Hayala...\"\n    },\n    {\n      \"name\": \"Alleya\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...by the name Yafaa, Safaa, Alleya, Hayala...\"\n    },\n    {\n      \"name\": \"Hayala\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...by the name Yafaa, Safaa, Alleya, Hayala...\"\n    },\n    {\n      \"name\": \"Haya\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Hayala, Haya, Halix, Hayul...\"\n    },\n    {\n      \"name\": \"Halix\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Haya, Halix, Hayul...\"\n    },\n    {\n      \"name\": \"Hayul\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Halix, Hayul...\"\n    },\n    {\n      \"name\": \"Ataya\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Hayul, Ataya, Hytoia, Saffetaba...\"\n    },\n    {\n      \"name\": \"Hytoia\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Ataya, Hytoia, Saffetaba...\"\n    },\n    {\n      \"name\": \"Saffetaba\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Hytoia, Saffetaba...\"\n    },\n    {\n      \"name\": \"Coffossol\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Saffetaba, Coffossol...\"\n    },\n    {\n      \"name\": \"Remlestar\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Coffossol, Remlestar...\"\n    },\n    {\n      \"name\": \"El\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in conjuration\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Remlestar, El, Lord God...\"\n    },\n    {\n      \"name\": \"Sarafem\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"commanded spirit\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"I conjure you angels... Hasten, Sarafem [and] Custyeli...\"\n    },\n    {\n      \"name\": \"Custyeli\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"commanded spirit\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Hasten, Sarafem [and] Custyeli...\"\n    },\n    {\n      \"name\": \"Amaris\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"commanded spirit with helpers\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...command Amaris and his helpers, that they may quickly carry out and accomplish my request.\"\n    },\n    {\n      \"name\": \"Adonay\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...In the name Adonay, Adonay, Eye, Eye...\"\n    },\n    {\n      \"name\": \"Cados\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...Sadaye, Saday, Cados, Cados, Cados, the high one...\"\n    },\n    {\n      \"name\": \"Hatyn\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...Cados, Hatyn, Hatyn, Hatyn...\"\n    },\n    {\n      \"name\": \"Marmalita\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...Ya, Ya, Ya, Marmalita...\"\n    },\n    {\n      \"name\": \"Abym\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...Marmalita, Abym...\"\n    },\n    {\n      \"name\": \"Ebel\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...Cados, Cados, Cados, Ebel...\"\n    },\n    {\n      \"name\": \"Eloy\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...Ya, Ya, Ya, Eloy...\"\n    },\n    {\n      \"name\": \"Arar\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...Eloy, Arar...\"\n    },\n    {\n      \"name\": \"Eloym\",\n      \"type\": \"spirit\",\n      \"attributes\": {\"role\": \"divine name in Kabbalistic conjurations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...Arar, Eloym, Eloym...\"\n    },\n    {\n      \"name\": \"Picatrix\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"category\": \"astral magic text\", \"influence on Munich Handbook\"},\n      \"page_ref\": \"213, 216\",\n      \"raw_quote\": \"...deeply indebted to works such as Picatrix and other manuals of astral magic...\"\n    },\n    {\n      \"name\": \"myrrh\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation in psychological experiments; fumigation of circle\"},\n      \"page_ref\": \"213, 214\",\n      \"raw_quote\": \"...with myrrh and saffron (no. 3)... incense and myrrh (no. 11)...\"\n    },\n    {\n      \"name\": \"saffron\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation in psychological experiments\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"...with myrrh and saffron (no. 3)...\"\n    },\n    {\n      \"name\": \"cinnamon\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation in psychological experiments\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"...with cinnamon, pepper and agrimonia (no. 4)...\"\n    },\n    {\n      \"name\": \"pepper\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation in psychological experiments\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"...cinnamon, pepper and agrimonia (no. 4)...\"\n    },\n    {\n      \"name\": \"agrimonia\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation in psychological experiments\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"...cinnamon, pepper and agrimonia (no. 4)...\"\n    },\n    {\n      \"name\": \"sulphur\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation in psychological experiments\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"...or with sulphur fumes (no. 5)...\"\n    },\n    {\n      \"name\": \"marrow of a dead person\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation of circle in illusionist experiments\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"...with the marrow of a dead person (no. 8)...\"\n    },\n    {\n      \"name\": \"incense\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation in illusionist and all-purpose experiments\"},\n      \"page_ref\": \"213, 214\",\n      \"raw_quote\": \"...incense and myrrh (no. 11)... incense and myrrh in a thurible...\"\n    },\n    {\n      \"name\": \"Indian wood\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation of image to tame beasts\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...fumigate the image with Indian wood and with red sandalwood...\"\n    },\n    {\n      \"name\": \"red sandalwood\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"fumigation of image to tame beasts\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Indian wood and with red sandalwood...\"\n    },\n    {\n      \"name\": \"yellow wax\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"material for concord images\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...make an image of yellow bronze or of yellow wax on a Thursday...\"\n    },\n    {\n      \"name\": \"green wax\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"material for concord images\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...Make two images of green wax in the month of May...\"\n    },\n    {\n      \"name\": \"yellow bronze\",\n      \"type\": \"ingredient\",\n      \"attributes\": {\"use\": \"material for concord images\"},\n      \"page_ref\": \"214\",\n      \"raw_quote\": \"...image of yellow bronze or of yellow wax on a Thursday...\"\n    },\n    {\n      \"name\": \"thurible (gold)\",\n      \"type\": \"tool\",\n      \"attributes\": {\"use\": \"for fumigation in all-purpose experiment\"},\n      \"page_ref\": \"213\",\n      \"raw_quote\": \"... Thurible (presumably of gold) and walk around the outer edge...\"\n    },\n    {\n      \"name\": \"magic circle\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"function\": \"protective boundary in necromantic experiments\"},\n      \"page_ref\": \"213, 219\",\n      \"raw_quote\": \"...it is the circle that is thus treated... make two concentric circles wide enough to accommodate two people...\"\n    },\n    {\n      \"name\": \"conjunction of Venus and Jupiter\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"astrological condition\"},\n      \"page_ref\": \"213, 220\",\n      \"raw_quote\": \"...an experiment is to be carried out under a conjunction of Venus and Jupiter...\"\n    },\n    {\n      \"name\": \"Sun in Leo\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"astrological condition\"},\n      \"page_ref\": \"213, 220\",\n      \"raw_quote\": \"...when the Sun is in Leo.\"\n    },\n    {\n      \"name\": \"lunationes\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"category\": \"lunar calendar for magical operations\"},\n      \"page_ref\": \"215\",\n      \"raw_quote\": \"...listing of what were called lunationes, or days of the lunar cycle that are good or bad...\"\n    },\n    {\n      \"name\": \"Speculum astronomiae\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"category\": \"astrological treatise\", \"author\": \"Albertus Magnus\"},\n      \"page_ref\": \"215–216\",\n      \"raw_quote\": \"The Speculum astronomiae, probably written by Albert the Great, explains the basic principles of astrology, then touches at the end on necromancy...\"\n    },\n    {\n      \"name\": \"Benvenuto Cellini\",\n      \"type\": \"person\",\n      \"attributes\": {\"role\": \"witness to demonic conjuration\"},\n      \"page_ref\": \"221–223\",\n      \"raw_quote\": \"Some time around the 1530s, Benvenuto Cellini witnessed the conjuring of demons in the Colosseum at Rome...\"\n    },\n    {\n      \"name\": \"Gilles de Rais\",\n      \"type\": \"person\",\n      \"attributes\": {\"role\": \"necromancy client\"},\n      \"page_ref\": \"222–223\",\n      \"raw_quote\": \"...the results may more often have been those experienced by Gilles de Rais, who engaged more than one clerical necromancer...\"\n    },\n    {\n      \"name\": \"Sworn Book of Honourius\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"category\": \"necromantic grimoire\", \"influence\"},\n      \"page_ref\": \"219 (note 6)\",\n      \"raw_quote\": \"The Sworn Book of Honourius [sic] the Magician... chs 26 and 38.\"\n    },\n    {\n      \"name\": \"De Nigromancia\",\n      \"type\": \"ritual\",\n      \"attributes\": {\"category\": \"necromantic treatise\", \"author\": \"Roger Bacon\"},\n      \"page_ref\": \"219 (note 7)\",\n      \"raw_quote\": \"De Nigromancia of Roger Bacon, ii.4–6... 13–26.\"\n    }\n  ],\n  \"relationships\": [\n    {\"from\": \"Satquiel\", \"to\": \"Thursday\", \"type\": \"ruler_of_day\"},\n    {\"from\": \"Pattar\", \"to\": \"Thursday\", \"type\": \"ruler_of_day\"},\n    {\"from\": \"Constiel\", \"to\": \"Thursday\", \"type\": \"ruler_of_day\"},\n    {\"from\": \"Assassayel\", \"to\": \"Thursday\", \"type\": \"ruler_of_day\"},\n    {\"from\": \"Silite\", \"to\": \"Thursday image\", \"type\": \"governs_over\"},\n    {\"from\": \"Maraben\", \"to\": \"Thursday image\", \"type\": \"governs_over\"},\n    {\"from\": \"Halharit\", \"to\": \"Thursday image\", \"type\": \"governs_over\"},\n    {\"from\": \"Yse\", \"to\": \"winds\", \"type\": \"helper_of\"},\n    {\"from\": \"Riron\", \"to\": \"winds\", \"type\": \"helper_of\"},\n    {\"from\": \"Naasay\", \"to\": \"winds\", \"type\": \"helper_of\"},\n    {\"from\": \"Eladab\", \"to\": \"winds\", \"type\": \"helper_of\"},\n    {\"from\": \"Picatrix\", \"to\": \"Munich Handbook (CLM 849)\", \"type\": \"influenced\"},\n    {\"from\": \"Speculum astronomiae\", \"to\": \"necromancy\", \"type\": \"theorizes_boundary_with\"},\n    {\"from\": \"Adonay\", \"to\": \"Kabbalistic conjurations\", \"type\": \"used_in\"},\n    {\"from\": \"Cados\", \"to\": \"Kabbalistic conjurations\", \"type\": \"used_in\"},\n    {\"from\": \"myrrh\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"saffron\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"cinnamon\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"pepper\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"agrimonia\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"sulphur\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"marrow of a dead person\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"incense\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"Indian wood\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"red sandalwood\", \"to\": \"fumigation\", \"type\": \"ingredient_in\"},\n    {\"from\": \"yellow wax\", \"to\": \"concord images\", \"type\": \"material_for\"},\n    {\"from\": \"green wax\", \"to\": \"concord images\", \"type\": \"material_for\"},\n    {\"from\": \"yellow bronze\", \"to\": \"concord images\", \"type\": \"material_for\"},\n    {\"from\": \"magic circle\", \"to\": \"protection\", \"type\": \"function_of\"}\n  ],\n  \"summary\": \"This chunk details astrological and astral magical elements in the Munich Handbook (CLM 849), especially in experiment no. 37, which integrates Arabic-influenced planetary and hourly spirit systems. It lists named angels, winds, and helper spirits associated with specific days/hours; describes ritual fumigations using ingredients like myrrh, incense, Indian wood, and red sandalwood; provides examples of image magic for taming beasts and inducing concord (Thursday-themed); includes full conjuration formulas with divine names (e.g., Yafaa, Safaa, Sarafem, Amaris); and discusses the fluid boundary between astral magic and necromancy, referencing Picatrix, Speculum astronomiae, and comparing Munich practices to later accounts like Cellini’s.\",\n  \"key_passages\": [\n    \"The fifth image is that of Thursday, and the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel, and these are the winds constituted over the image: Silite, Maraben, Halharit, and their helpers are Yse, Riron, Naasay, [and] Eladab.\",\n    \"Make two images of green wax in the month of May... write the name of the man on the heart of the woman’s image, and the name of the woman on the heart of the male, and say this conjuration: ‘O Lord God, almighty creator of [all] things... I conjure you angels by the name Yafaa, Safaa, Alleya, Hayala, Haya, Halix, Hayul, Ataya, Hytoia, Saffetaba, Coffossol, Remlestar, El, Lord God... Hasten, Sarafem [and] Custyeli, and command Amaris and his helpers...’\",\n    \"During the fifth day hour one should make an image to tame wild beasts... on the head of the image carve the name of the animal, and on the chest the name of the hour and the name of the lord of the hour, and on the stomach the seven names of the first hour, and fumigate the image with Indian wood and with red sandalwood...\",\n    \"The portion of the manual most fully reflecting the influence of Arabic astral magic is the compendium devoted specifically to the subject (no. 37)... contains two types of material: integrated instructions for magical rites utilizing the powers of the heavenly bodies, and lists of supplementary information regarding each day of the week... and each hour of the day and night...\",\n    \"One does not find detailed or rationalized efforts to exploit the powers of celestial bodies, and even the concise treatise of astral magic is more a catalogue than a fully developed work, presumably included simply because the compiler was highly eclectic...\"\n  ]\n}"
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Satquiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel constituted over the fifth image (Thursday)"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel"
+    },
+    {
+      "name": "Pattar",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel constituted over the fifth image (Thursday)"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel"
+    },
+    {
+      "name": "Constiel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel constituted over the fifth image (Thursday)"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel"
+    },
+    {
+      "name": "Assassayel",
+      "type": "spirit",
+      "attributes": {
+        "role": "angel constituted over the fifth image (Thursday)"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "the angels constituted over it are Satquiel, Pattar, Constiel, [and] Assassayel"
+    },
+    {
+      "name": "Silite",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind constituted over the image"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "these are the winds constituted over the image: Silite, Maraben, Halharit"
+    },
+    {
+      "name": "Maraben",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind constituted over the image"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "these are the winds constituted over the image: Silite, Maraben, Halharit"
+    },
+    {
+      "name": "Halharit",
+      "type": "spirit",
+      "attributes": {
+        "role": "wind constituted over the image"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "these are the winds constituted over the image: Silite, Maraben, Halharit"
+    },
+    {
+      "name": "Yse",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper to the winds"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "and their helpers are Yse, Riron, Naasay, [and] Eladab"
+    },
+    {
+      "name": "Riron",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper to the winds"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "and their helpers are Yse, Riron, Naasay, [and] Eladab"
+    },
+    {
+      "name": "Naasay",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper to the winds"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "and their helpers are Yse, Riron, Naasay, [and] Eladab"
+    },
+    {
+      "name": "Eladab",
+      "type": "spirit",
+      "attributes": {
+        "role": "helper to the winds"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "and their helpers are Yse, Riron, Naasay, [and] Eladab"
+    },
+    {
+      "name": "Yafaa",
+      "type": "spirit",
+      "attributes": {
+        "role": "conjured angel"
+      },
+      "page_ref": "concord ritual",
+      "raw_quote": "I conjure you angels by the name Yafaa, Safaa, Alleya, Hayala, Haya, Halix, Hayul, Ataya, Hytoia, Saffetaba, Coffossol, Remlestar, El"
+    },
+    {
+      "name": "Taming Wild Beasts Ritual",
+      "type": "ritual",
+      "attributes": {
+        "timing": "fifth day hour",
+        "method": "cast an image of the animal, carve name on head, name of hour and lord on chest, seven names of first hour on stomach, fumigate with Indian wood and red sandalwood, bury image"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "At this hour cast an image of the animal... fumigate the image with Indian wood and with red sandalwood, and bury the image in a place of your choosing"
+    },
+    {
+      "name": "Bringing Concord Between Humans Ritual",
+      "type": "ritual",
+      "attributes": {
+        "timing": "Thursday; May (height of Pisces) or January (height of Sagittarius)",
+        "method": "make image of yellow bronze or yellow wax, tint with green, write names on hearts, perform conjuration"
+      },
+      "page_ref": "no. 37m/q",
+      "raw_quote": "make an image of yellow bronze or of yellow wax on a Thursday, and tint it with green... write the name of the man on the heart of the woman’s image"
+    },
+    {
+      "name": "Psychological Experiment Fumigation",
+      "type": "ritual",
+      "attributes": {
+        "target": "image or object representing victim",
+        "ingredients": [
+          "myrrh",
+          "saffron",
+          "cinnamon",
+          "pepper",
+          "agrimonia",
+          "sulphur fumes"
+        ]
+      },
+      "page_ref": "no. 3, 4, 5",
+      "raw_quote": "with myrrh and saffron (no. 3); with cinnamon, pepper and agrimonia (no. 4), or with sulphur fumes (no. 5)."
+    },
+    {
+      "name": "Illusionist Experiment Fumigation",
+      "type": "ritual",
+      "attributes": {
+        "target": "the circle",
+        "ingredients": [
+          "marrow of a dead person",
+          "incense",
+          "myrrh"
+        ]
+      },
+      "page_ref": "no. 8, 11",
+      "raw_quote": "it is the circle that is thus treated: with the marrow of a dead person (no. 8), or with incense and myrrh (no. 11)."
+    },
+    {
+      "name": "All-purpose Experiment",
+      "type": "ritual",
+      "attributes": {
+        "method": "place incense and myrrh in a thurible and walk around the outer edge of the circle while saying prayer"
+      },
+      "page_ref": "no. 36",
+      "raw_quote": "instructs the master to place incense and myrrh in a thurible... and walk around the outer edge of the circle, saying, ‘I make this fumigation in the name of the Father...'"
+    },
+    {
+      "name": "Myrrh",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": null,
+      "raw_quote": "with myrrh and saffron (no. 3)"
+    },
+    {
+      "name": "Saffron",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": null,
+      "raw_quote": "with myrrh and saffron (no. 3)"
+    },
+    {
+      "name": "Indian wood",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": null,
+      "raw_quote": "fumigate the image with Indian wood and with red sandalwood"
+    },
+    {
+      "name": "Red sandalwood",
+      "type": "ingredient",
+      "attributes": {},
+      "page_ref": null,
+      "raw_quote": "fumigate the image with Indian wood and with red sandalwood"
+    },
+    {
+      "name": "Thurible",
+      "type": "tool",
+      "attributes": {
+        "material": "presumably of gold"
+      },
+      "page_ref": null,
+      "raw_quote": "place incense and myrrh in a thurible (presumably of gold)"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Satquiel",
+      "to": "Thursday image",
+      "type": "rules"
+    },
+    {
+      "from": "Silite",
+      "to": "image",
+      "type": "wind over"
+    },
+    {
+      "from": "Indian wood",
+      "to": "Taming Wild Beasts Ritual",
+      "type": "ingredient for"
+    },
+    {
+      "from": "Yellow bronze",
+      "to": "Bringing Concord Between Humans Ritual",
+      "type": "material for"
+    },
+    {
+      "from": "Yafaa",
+      "to": "Bringing Concord Between Humans Ritual",
+      "type": "conjured in"
+    }
+  ],
+  "summary": "This chunk details various magical experiments from a medieval manual, focusing on astrological timing, fumigation techniques using ingredients like myrrh and saffron, and specific rituals for taming beasts or creating concord between humans. It also describes the structure of astral magic compendiums containing lists of angels, spirits, and planetary associations.",
+  "key_passages": [
+    "At this hour cast an image of the animal of the sort you wish to control or tame, and on the head of the image carve the name of the animal",
+    "make an image of yellow bronze or of yellow wax on a Thursday, and tint it with green",
+    "the work should be done under a waxing or waning moon, or in a particular phase of the moon.",
+    "In psychological experiments it is the image or the object sympathetically representing the victim that is fumigated",
+    "the boundary between astral magic and necromancy was fluid in practice even if in theory it could be stated with clarity"
+  ]
 }

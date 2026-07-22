@@ -39,12 +39,12 @@ The Munich Handbook (Bayerische Staatsbibliothek, CLM 849) is a 15th-century nec
 ```
 Source ingests:                  5  (see note below)
 Genuine distinct works:          3  grimoires
-Unique entities after merge:     2,472  (regenerated 2026-06-20, incl. recovered necro chunk 20)
-Total relationships:             1,217
-Chunk summaries:                 100
+Unique entities after merge:     2,540  (regenerated 2026-06-20; all 9 parse-error chunks recovered)
+Total relationships:             1,253
+Chunk summaries:                 109
 
-All spirit records:              1,258  (see caveat)
-Multi-WORK spirits:              13     (corrected — was reported as 266)
+All spirit records:              1,286  (see caveat)
+Multi-WORK spirits:              14     (corrected — was reported as 266)
 ```
 
 > **Data-accuracy notes** (see [`docs/CLEANUP_REPORT.md`](docs/CLEANUP_REPORT.md) and [`docs/corrected_stats.json`](docs/corrected_stats.json)):
