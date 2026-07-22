@@ -1,0 +1,545 @@
+{
+  "provenance": {
+    "entities_with_quotes": 2529,
+    "verified_in_source": 2508,
+    "UNVERIFIED_hallucination_candidates": 21,
+    "entities_without_quotes": 11,
+    "verification_rate": 0.9917,
+    "unverified_details": [
+      {
+        "name": "Bed of Hay and Ashes",
+        "type": "tool",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "super cineres de fece mundatos de feno cubile faciat",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Beryen (also Berien)",
+        "type": "spirit",
+        "sources": [
+          "forbidden_rites_pdf:chunk_26"
+        ],
+        "sample_quote": "...Beryen... as Berien...",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Cesarius of Heisterbach story (schoolboy)",
+        "type": "concept",
+        "sources": [
+          "forbidden_rites_pdf:chunk_16/39"
+        ],
+        "sample_quote": "In the church of Saint Simeon in the diocese of Trier there was a little schoolboy... ‘If you pay ho",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Clm 849",
+        "type": "text",
+        "sources": [
+          "forbidden_rites_pdf:chunk_28"
+        ],
+        "sample_quote": "[No direct quote, but context confirms this is from Munich, Bayerische Staatsbibliothek, CLM 849]",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Damayn (also Damay/Damayrt)",
+        "type": "spirit",
+        "sources": [
+          "forbidden_rites_pdf:chunk_26"
+        ],
+        "sample_quote": "...Damayn... as Damay...",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Divine Vision Purification",
+        "type": "ritual",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "Mundato igitur et macerato corpore volentis videre celeste palacium",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Eucharist",
+        "type": "ritual",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "corpus Christi recipiat",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Fear of the Lord",
+        "type": "concept",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "Inicium sapiencie timor Domini",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Hosel",
+        "type": "divine_name",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "Hosel, Iesel et cetera, debent dici paulo post principium orandi",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Iesel",
+        "type": "divine_name",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "Hosel, Iesel et cetera, debent dici paulo post principium orandi",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Jesus of Nazareth",
+        "type": "person",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "Iesus Nazarenus, et multum misericors",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Lethellete",
+        "type": "divine_name",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "Lethellete, qui celum super altitudinem nubium extendisti",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Mememil (also Melemil)",
+        "type": "spirit",
+        "sources": [
+          "forbidden_rites_pdf:chunk_26"
+        ],
+        "sample_quote": "...Mememil... as Melemil...",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Otaizomos / Occinomos",
+        "type": "spirit",
+        "sources": [
+          "forbidden_rites_pdf:chunk_30"
+        ],
+        "sample_quote": "...Tetragramaton, Otaizomos, Onoyteon…",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Pantocrathon",
+        "type": "spirit",
+        "sources": [
+          "necro:chunk_36"
+        ],
+        "sample_quote": "Panthon, Pantocrathon...",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Piper longum (long pepper)",
+        "type": "ingredient",
+        "sources": [
+          "necro:chunk_25"
+        ],
+        "sample_quote": "...cynamomi, piperis longi...",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Sapientia",
+        "type": "spirit",
+        "sources": [
+          "necro:chunk_36"
+        ],
+        "sample_quote": "...Veritas, Sapiencia, Virtus...",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Shadrach, Meshach, Abedenego",
+        "type": "person",
+        "sources": [
+          "liber_juratus:chunk_15"
+        ],
+        "sample_quote": "tres pueros Sydrac, Misaac et Abdenago... de camino ignis",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Tranauit (also Tranayrt/Tramayrt)",
+        "type": "spirit",
+        "sources": [
+          "forbidden_rites_pdf:chunk_26"
+        ],
+        "sample_quote": "...Tranauit... as Tranayrt... and Tramayrt...",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "Uralchim",
+        "type": "spirit",
+        "sources": [
+          "necro:chunk_36"
+        ],
+        "sample_quote": "Uralchim, Althes, Panite, Fabar...",
+        "reason": "neither quote nor name found in cited chunks"
+      },
+      {
+        "name": "virginitas pueri (boy’s virginity)",
+        "type": "ritual",
+        "sources": [
+          "forbidden_rites_pdf:chunk_29"
+        ],
+        "sample_quote": "sicut virgo puer... puero virginis",
+        "reason": "neither quote nor name found in cited chunks"
+      }
+    ]
+  },
+  "duplicates": {
+    "fuzzy_name_pairs": 68,
+    "pairs": [
+      {
+        "a": "agyos",
+        "b": "ayos",
+        "similarity": 0.889
+      },
+      {
+        "a": "amamim",
+        "b": "amamnim",
+        "similarity": 0.923
+      },
+      {
+        "a": "amamni",
+        "b": "amamnim",
+        "similarity": 0.923
+      },
+      {
+        "a": "angel",
+        "b": "angeli",
+        "similarity": 0.909
+      },
+      {
+        "a": "angel",
+        "b": "angels",
+        "similarity": 0.909
+      },
+      {
+        "a": "apollion",
+        "b": "apollon",
+        "similarity": 0.933
+      },
+      {
+        "a": "archangeli",
+        "b": "archangels",
+        "similarity": 0.9
+      },
+      {
+        "a": "assassael",
+        "b": "assassayel",
+        "similarity": 0.947
+      },
+      {
+        "a": "balthim",
+        "b": "baltim",
+        "similarity": 0.923
+      },
+      {
+        "a": "barbaras",
+        "b": "barbarus",
+        "similarity": 0.875
+      },
+      {
+        "a": "bartha",
+        "b": "barthan",
+        "similarity": 0.923
+      },
+      {
+        "a": "belzebuc",
+        "b": "belzebut",
+        "similarity": 0.875
+      },
+      {
+        "a": "berit",
+        "b": "berith",
+        "similarity": 0.909
+      },
+      {
+        "a": "bylent",
+        "b": "bylet",
+        "similarity": 0.909
+      },
+      {
+        "a": "caltraa (nocturnal hour)",
+        "b": "caron (nocturnal hour)",
+        "similarity": 0.87
+      },
+      {
+        "a": "cherubim",
+        "b": "cherubin",
+        "similarity": 0.875
+      },
+      {
+        "a": "cvrson",
+        "b": "cvson",
+        "similarity": 0.909
+      },
+      {
+        "a": "damay",
+        "b": "damayn",
+        "similarity": 0.909
+      },
+      {
+        "a": "dominaciones",
+        "b": "dominations",
+        "similarity": 0.87
+      },
+      {
+        "a": "dyacom (dyacon)",
+        "b": "dyacom (or dyacon)",
+        "similarity": 0.909
+      },
+      {
+        "a": "evil spirit",
+        "b": "evil spirits",
+        "similarity": 0.957
+      },
+      {
+        "a": "hanael",
+        "b": "hanahel",
+        "similarity": 0.923
+      },
+      {
+        "a": "hasas",
+        "b": "hassas",
+        "similarity": 0.909
+      },
+      {
+        "a": "lantrayth",
+        "b": "lautrayth",
+        "similarity": 0.889
+      },
+      {
+        "a": "latol (nocturnal hour)",
+        "b": "leron (nocturnal hour)",
+        "similarity": 0.864
+      },
+      {
+        "a": "lautrayth (also lantrayth)",
+        "b": "lautrayth (also lutrayth)",
+        "similarity": 0.941
+      },
+      {
+        "a": "madrath filius arath",
+        "b": "madrath, filius arath",
+        "similarity": 0.976
+      },
+      {
+        "a": "malign spirits",
+        "b": "maligni spiritus",
+        "similarity": 0.933
+      },
+      {
+        "a": "maraloch",
+        "b": "maraloth",
+        "similarity": 0.875
+      },
+      {
+        "a": "maratron",
+        "b": "matraton",
+        "similarity": 0.875
+      },
+      {
+        "a": "mataton",
+        "b": "matraton",
+        "similarity": 0.933
+      },
+      {
+        "a": "matraton",
+        "b": "metraton",
+        "similarity": 0.875
+      },
+      {
+        "a": "michael, gabriel and raphael",
+        "b": "michael, gabriel, raphael",
+        "similarity": 0.906
+      },
+      {
+        "a": "mittaron",
+        "b": "mittaton",
+        "similarity": 0.875
+      },
+      {
+        "a": "oliromim",
+        "b": "oliroomim",
+        "similarity": 0.941
+      },
+      {
+        "a": "propheta",
+        "b": "prophets",
+        "similarity": 0.875
+      },
+      {
+        "a": "pumiotor",
+        "b": "pumotor",
+        "similarity": 0.933
+      },
+      {
+        "a": "rator, lampoy, despan, brulo, dronoth, maloqui, satola, gelbid, mascifin, nartim, lodoni",
+        "b": "rator, lampoy, despan, brulo, dronoth, maloqui, satola, gelbid, mascifm, nartim, lodoni",
+        "similarity": 0.983
+      },
+      {
+        "a": "sabaoth",
+        "b": "sabath",
+        "similarity": 0.923
+      },
+      {
+        "a": "sabaoth",
+        "b": "sabbaoth",
+        "similarity": 0.933
+      },
+      {
+        "a": "sabbaoth",
+        "b": "sabboth",
+        "similarity": 0.933
+      },
+      {
+        "a": "sacquiel",
+        "b": "sarquiel",
+        "similarity": 0.875
+      },
+      {
+        "a": "sacquiel",
+        "b": "satquiel",
+        "similarity": 0.875
+      },
+      {
+        "a": "saday",
+        "b": "sadaye",
+        "similarity": 0.909
+      },
+      {
+        "a": "samael",
+        "b": "samahel",
+        "similarity": 0.923
+      },
+      {
+        "a": "sammyel",
+        "b": "samyel",
+        "similarity": 0.923
+      },
+      {
+        "a": "sanctae virgines",
+        "b": "sancti virgines",
+        "similarity": 0.903
+      },
+      {
+        "a": "sapiencia",
+        "b": "sapientia",
+        "similarity": 0.889
+      },
+      {
+        "a": "sarabocres",
+        "b": "sarabores",
+        "similarity": 0.947
+      },
+      {
+        "a": "saripiel",
+        "b": "sarphiel",
+        "similarity": 0.875
+      },
+      {
+        "a": "saripiel",
+        "b": "sarpiel",
+        "similarity": 0.933
+      },
+      {
+        "a": "sarphiel",
+        "b": "sarpiel",
+        "similarity": 0.933
+      },
+      {
+        "a": "sarquiel",
+        "b": "sartquiel",
+        "similarity": 0.941
+      },
+      {
+        "a": "sarquiel",
+        "b": "satquiel",
+        "similarity": 0.875
+      },
+      {
+        "a": "sartquiel",
+        "b": "satquiel",
+        "similarity": 0.941
+      },
+      {
+        "a": "satan / sathan",
+        "b": "satan/sathan",
+        "similarity": 0.923
+      },
+      {
+        "a": "seraphim",
+        "b": "seraphin",
+        "similarity": 0.875
+      },
+      {
+        "a": "soter",
+        "b": "sother",
+        "similarity": 0.909
+      },
+      {
+        "a": "spirits of the air",
+        "b": "spirits of the dead",
+        "similarity": 0.865
+      },
+      {
+        "a": "tereoth",
+        "b": "thereoth",
+        "similarity": 0.933
+      },
+      {
+        "a": "terminas",
+        "b": "termines",
+        "similarity": 0.875
+      },
+      {
+        "a": "tuveries",
+        "b": "tvueries",
+        "similarity": 0.875
+      },
+      {
+        "a": "tuveries",
+        "b": "twueries",
+        "similarity": 0.875
+      },
+      {
+        "a": "tvueries",
+        "b": "twueries",
+        "similarity": 0.875
+      },
+      {
+        "a": "virtues",
+        "b": "virtus",
+        "similarity": 0.923
+      },
+      {
+        "a": "virtues",
+        "b": "virtutes",
+        "similarity": 0.933
+      },
+      {
+        "a": "yan (hour name)",
+        "b": "yayn (hour name)",
+        "similarity": 0.968
+      },
+      {
+        "a": "yschiros",
+        "b": "yschyros",
+        "similarity": 0.875
+      }
+    ]
+  }
+}
