@@ -1,0 +1,427 @@
+{
+  "source_id": "necro",
+  "chunk_id": 20,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Barbarus",
+      "type": "spirit",
+      "attributes": {
+        "rank": "count and duke",
+        "appearance": "seneschal",
+        "function": "discloses treasures not protected by magic"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "discloses treasures not protected by magic"
+    },
+    {
+      "name": "Cason",
+      "type": "spirit",
+      "attributes": {
+        "rank": "duke",
+        "appearance": "human, with large teeth and three horns, sharp sword in hand",
+        "function": "responds about present, past, future, and hidden matters; gives favour of friends and enemies; gives dignities"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "responds about present, past, future, and hidden matters; gives favour of friends and enemies; gives dignities"
+    },
+    {
+      "name": "Otius",
+      "type": "spirit",
+      "attributes": {
+        "rank": "preses and count",
+        "appearance": "crowned man with leonine face, viper in hand; rides horseback, trumpets proceeding",
+        "function": "responds about present, future, and hidden matters; gives favour of friends and enemies"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "responds about present, future, and hidden matters; gives favour of friends and enemies"
+    },
+    {
+      "name": "Curson",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king",
+        "appearance": "man with crowned leonine face, viper in hand; rides horseback, trumpets proceeding",
+        "function": "reveals present, past, future, and hidden matters (including deity and creation of world); gives excellent familiars"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "Curson is said readily to assume a human and aerial body; presumably the others as well take on aerial bodies when they come visibly"
+    },
+    {
+      "name": "Alugor",
+      "type": "spirit",
+      "attributes": {
+        "rank": "duke",
+        "appearance": "splendid knight, with lance, banner, and sceptre",
+        "function": "reveals hidden treasures"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "Alugor duke splendid knight, with lance, banner, and sceptre"
+    },
+    {
+      "name": "Taob",
+      "type": "spirit",
+      "attributes": {
+        "rank": "prince",
+        "appearance": "human",
+        "function": "responds about occult matters and duels; provides knights"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "responds about occult matters and duels; provides knights"
+    },
+    {
+      "name": "Volach",
+      "type": "spirit",
+      "attributes": {
+        "rank": "president",
+        "appearance": "boy with wings of an angel, riding on a dragon with two heads",
+        "function": "gives excellent physician for women, making them burn with love for men; transforms them until they come to their beloved; makes sterile"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "Volach president boy, with wings of angel; rides on dragon; has two heads"
+    },
+    {
+      "name": "Gaeneron",
+      "type": "spirit",
+      "attributes": {
+        "rank": "duke",
+        "appearance": "beautiful woman, crowned, riding on camel",
+        "function": "gives love of women, especially beautiful ones"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "Gaeneron duke beautiful woman, crowned, riding on camel"
+    },
+    {
+      "name": "Tuveries?",
+      "type": "spirit",
+      "attributes": {
+        "rank": "marquis",
+        "appearance": "knight, riding on black horse",
+        "function": "responds about present, past, and future matters, and hidden treasures"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "Tuveries? marquis knight, riding on black horse"
+    },
+    {
+      "name": "Hanni",
+      "type": "spirit",
+      "attributes": {
+        "rank": "president",
+        "appearance": "fiery flame, but takes human form",
+        "function": "teaches trivium; reveals hidden treasures"
+      },
+      "page_ref": "Table D (no. 34)",
+      "raw_quote": "Hanni comes in a fiery flame, but also takes human form"
+    },
+    {
+      "name": "Oriens",
+      "type": "spirit",
+      "attributes": {
+        "rank": "king of the East",
+        "appearance": "altissimus et benignissimus rex",
+        "function": "rules over cardinal direction (East)"
+      },
+      "page_ref": "text body + Table C",
+      "raw_quote": "Oriens (or rex Orientis) {altissimus et benignissimus rex, no. 4; benign[issimfe, no. 41}"
+    },
+    {
+      "name": "Astaroth",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum",
+        "appearance": null
+      },
+      "page_ref": "Table C (no. 2; no. 12; no. 33)",
+      "raw_quote": "Astaroth (or Astoroth or Astarotht) {demon malignus, no. 2; no. 12; no. 33; princeps demoniorum, no. 38}"
+    },
+    {
+      "name": "Belial",
+      "type": "spirit",
+      "attributes": {
+        "rank": "inicialis princeps",
+        "appearance": null
+      },
+      "page_ref": "Table C (no. 12)",
+      "raw_quote": "Belial {inicialis princeps, no. 12}"
+    },
+    {
+      "name": "Berith",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum",
+        "appearance": null
+      },
+      "page_ref": "Table C (no. 1; spiritus potens, magnificus, et illustris, no. 11)",
+      "raw_quote": "Berith (or Berit) (no. 1; spiritus potens, magnificus, et illustris, no. 11; princeps demoniorum, fornicator, temptator, et seductor, possessor hominum, no. 38)"
+    },
+    {
+      "name": "Lucifer",
+      "type": "spirit",
+      "attributes": {
+        "rank": null
+      },
+      "page_ref": "Table C (no. 1)",
+      "raw_quote": "Lucifer (no. 1)"
+    },
+    {
+      "name": "Belzebub",
+      "type": "spirit",
+      "attributes": {
+        "rank": "princeps demoniorum",
+        "appearance": null
+      },
+      "page_ref": "Table C (no. 1; no. 38)",
+      "raw_quote": "Belzebub (or Belzebuc?) (no. 1; princeps demoniorum, no. 38)"
+    },
+    {
+      "name": "Satan",
+      "type": "spirit",
+      "attributes": {
+        "rank": "demon [from cardinal direction]",
+        "appearance": null
+      },
+      "page_ref": "Table C (no. 27)",
+      "raw_quote": "Sathan (no. 1; demon [from cardinal direction], no. 27)"
+    },
+    {
+      "name": "Bezlebuth",
+      "type": "spirit",
+      "attributes": {
+        "rank": null
+      },
+      "page_ref": "text body + Table D (Livre des esperitz)",
+      "raw_quote": "The service Bezlebuth performs, which would have endeared him to Faustus, is to reveal all the secrets of hell."
+    },
+    {
+      "name": "Asmoday",
+      "type": "spirit",
+      "attributes": {
+        "rank": "great king",
+        "appearance": "three heads"
+      },
+      "page_ref": "text body (Lemegeton reference)",
+      "raw_quote": "Asmoday (a great king with three heads, who furnishes a ring of virtues, teaches mathematics, answers questions truly, makes a person invisible, reveals hidden treasure"
+    },
+    {
+      "name": "Fumigation",
+      "type": "ritual",
+      "attributes": {
+        "function": "means for alluring and gaining power over spirits"
+      },
+      "page_ref": "text body",
+      "raw_quote": "a fumigation would surely be more a means for alluring and gaining power over the spirits"
+    },
+    {
+      "name": "hoopoe offering",
+      "type": "ritual",
+      "attributes": {
+        "function": "payment for services rendered"
+      },
+      "page_ref": "text body",
+      "raw_quote": "Some of the experiments in the Munich handbook and elsewhere do indeed involve offering something, such as a hoopoe, to the demons."
+    },
+    {
+      "name": "circle with sword point",
+      "type": "ritual",
+      "attributes": {
+        "function": "to strike spirit outside circle"
+      },
+      "page_ref": "text body (Rawlinson MS)",
+      "raw_quote": "if the spirit refuses to withdraw, the master should trace a circle with the point of his sword and then ‘strike’ the spirit who is left standing outside the circle."
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "tool",
+      "attributes": {
+        "function": "compels demons to adopt pleasing forms"
+      },
+      "page_ref": "text body (Roger Bacon treatise)",
+      "raw_quote": "bold use of the Tetragrammaton and the sign of the cross will compel them to adopt pleasing forms."
+    },
+    {
+      "name": "sign of the cross",
+      "type": "tool",
+      "attributes": {
+        "function": "compels demons; expels demons"
+      },
+      "page_ref": "text body (Roger Bacon + Johann von Frankfurt)",
+      "raw_quote": "bold use of the Tetragrammaton and the sign of the cross will compel them to adopt pleasing forms."
+    },
+    {
+      "name": "chastity",
+      "type": "ritual",
+      "attributes": {
+        "function": "observed out of respect for spirits"
+      },
+      "page_ref": "text body",
+      "raw_quote": "observing chastity out of respect for them"
+    },
+    {
+      "name": "fasting",
+      "type": "ritual",
+      "attributes": {
+        "function": "macerating the flesh in honour of spirits"
+      },
+      "page_ref": "text body",
+      "raw_quote": "fasting and otherwise macerating the flesh in their honour"
+    },
+    {
+      "name": "black/white clothing",
+      "type": "ritual",
+      "attributes": {
+        "function": "wearing black or white out of reverence"
+      },
+      "page_ref": "text body",
+      "raw_quote": "wearing black or white out of reverence to them"
+    },
+    {
+      "name": "characters and unknown names",
+      "type": "tool",
+      "attributes": {
+        "function": "used in conjurations"
+      },
+      "page_ref": "text body",
+      "raw_quote": "using characters and unknown names"
+    },
+    {
+      "name": "lamps",
+      "type": "tool",
+      "attributes": {
+        "function": "lighting for conjurations"
+      },
+      "page_ref": "text body",
+      "raw_quote": "lighting lamps and offering fumigations"
+    },
+    {
+      "name": "bird/beast sacrifice",
+      "type": "ritual",
+      "attributes": {
+        "function": "offering to spirits"
+      },
+      "page_ref": "text body",
+      "raw_quote": "sacrificing birds and beasts and even their own blood, and so forth"
+    },
+    {
+      "name": "genuflection/prostration",
+      "type": "ritual",
+      "attributes": {
+        "function": "acts of homage to spirits"
+      },
+      "page_ref": "text body",
+      "raw_quote": "genuflecting and making prostrations, observing chastity out of respect for them"
+    },
+    {
+      "name": "swearing/adjuring by spirits",
+      "type": "ritual",
+      "attributes": {
+        "function": "method to compel obedience"
+      },
+      "page_ref": "text body",
+      "raw_quote": "swearing by them and adjuring one demon by the name of a higher one"
+    },
+    {
+      "name": "singing songs in honour",
+      "type": "ritual",
+      "attributes": {
+        "function": "to gain favour"
+      },
+      "page_ref": "text body",
+      "raw_quote": "singing songs in their honour"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Barbarus",
+      "to": "treasure location",
+      "type": "discloses"
+    },
+    {
+      "from": "Cason",
+      "to": "present/past/future/hidden matters",
+      "type": "responds about"
+    },
+    {
+      "from": "Otius",
+      "to": "favour of friends/enemies",
+      "type": "gives"
+    },
+    {
+      "from": "Curson",
+      "to": "divine and hidden matters",
+      "type": "reveals"
+    },
+    {
+      "from": "Hanni",
+      "to": "trivium",
+      "type": "teaches"
+    },
+    {
+      "from": "Tuveries?",
+      "to": "hidden treasures",
+      "type": "reveals"
+    },
+    {
+      "from": "Gaeneron",
+      "to": "love of women",
+      "type": "gives"
+    },
+    {
+      "from": "Volach",
+      "to": "women's love transformation",
+      "type": "enables"
+    },
+    {
+      "from": "Oriens",
+      "to": "East cardinal direction",
+      "type": "rules over"
+    },
+    {
+      "from": "Astaroth",
+      "to": "demon malignus",
+      "type": "is classified as"
+    },
+    {
+      "from": "Belial",
+      "to": "princeps",
+      "type": "holds rank"
+    },
+    {
+      "from": "Lucifer",
+      "to": "spirit",
+      "type": "is classified as"
+    },
+    {
+      "from": "Berith",
+      "to": "fornicator/temptator/seducer",
+      "type": "functions as"
+    },
+    {
+      "from": "Tetragrammaton",
+      "to": "demon compel",
+      "type": "compels"
+    },
+    {
+      "from": "sign of the cross",
+      "to": "demon compel",
+      "type": "compels"
+    },
+    {
+      "from": "fumigation",
+      "to": "spirits",
+      "type": "allures"
+    },
+    {
+      "from": "hoopoe offering",
+      "to": "demons",
+      "type": "pays"
+    }
+  ],
+  "summary": "This chunk details the spirit hierarchy and functions in CLM 849 (Munich Handbook), including ranks (marquis, president, count, duke, prince, king), appearances (human, beastly, hybrid), and functions (treasure revelation, knowledge delivery, love magic, transportation). It discusses theological debates about whether spirits are fallen, unfallen, or intermediate; the use of rituals like fumigation, fasting, oaths, and sword circles to compel obedience; and lists of named spirits with their attributes. The text emphasizes that magicians see themselves as commanding demons, not serving them.",
+  "key_passages": [
+    "‘And you should note carefully that in this ship you are able to mention holy things, as in true Christianity, because these spirits are between good and evil, dwelling neither in Hell nor in Paradise.’",
+    "There is no explicit acknowledgement in the handbook that the magician is serving the spirits; to the contrary, he sees himself as commanding and exploiting them.",
+    "The spirits are conjured to appear in human form, because they are assumed closer to beasts, and thus it is more natural for them to assume grotesque versions of bestial appearance",
+    "Each has command of legions of subordinate spirits (perhaps an allusion to Mark 5:9), as few as twenty-two, and as many as fifty.",
+    "The writer makes no pretence that his magic is in any way ‘natural’, as opposed to demonic. [...] the commanding of malign spirits is the essence of his art."
+  ]
+}

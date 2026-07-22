@@ -37,15 +37,31 @@ The Munich Handbook (Bayerische Staatsbibliothek, CLM 849) is a 15th-century nec
 ## Database Statistics
 
 ```
-Sources:                         5 grimoires
-Total raw entities extracted:    3,507
-Unique entities after merge:     2,467
-Total relationships:             1,200
-Chunk summaries:                 99
+Source ingests:                  5  (see note below)
+Genuine distinct works:          3  grimoires
+Unique entities after merge:     2,472  (regenerated 2026-06-20, incl. recovered necro chunk 20)
+Total relationships:             1,217
+Chunk summaries:                 100
 
-All spirits:                     1,254
-Multi-source spirits:            266
+All spirit records:              1,258  (see caveat)
+Multi-WORK spirits:              13     (corrected — was reported as 266)
 ```
+
+> **Data-accuracy notes** (see [`docs/CLEANUP_REPORT.md`](docs/CLEANUP_REPORT.md) and [`docs/corrected_stats.json`](docs/corrected_stats.json)):
+> - `necro` and `forbidden_rites_pdf` are the **same book** (Kieckhefer's *Forbidden
+>   Rites* / Clm 849) ingested twice. The old "266 multi-source spirits" counted
+>   the book agreeing with itself; collapsing to distinct **works** gives **13**
+>   genuinely cross-text spirits.
+> - `worship_dead` is **Garnier, *The Worship of the Dead* (1909)** — a modern
+>   comparative-mythology book, **not** a medieval grimoire. It is excluded from
+>   the grimoire count.
+> - So the corpus is **3 genuine magical works** (Clm 849, *Ars Notoria*, *Liber
+>   Juratus*), not "5 grimoires."
+> - "1,254 spirits" is inflated by OCR fragments, Latin case-variants, and noise:
+>   **70% appear exactly once** and **145 have no attributes**. The defensible
+>   count of attributed, provenanced spirits is in the low hundreds.
+> - "Total raw entities 3,507" includes chunk-overlap double-extraction and is not
+>   a corpus-richness metric.
 
 ## SOM — Infernal Topology
 
@@ -53,11 +69,18 @@ A 15×15 Self-Organizing Map trained on 1,254 spirit vectors (28 features) to re
 
 ### Metrics
 ```
-Quantization Error:  0.1996 (good — low representation error)
-Topographic Error:   0.0056 (excellent — near-perfect topology preservation)
+Quantization Error:  0.1996
+Topographic Error:   0.0056
 Populated cells:     90/225
-Training:            2000 epochs, PCA-initialized
+Training:            2000 epochs (use_epochs=True), PCA-initialized
 ```
+
+> **Caveat:** the very low QE/TE partly reflect data degeneracy, not topology
+> quality — ~70% of spirit vectors are single-occurrence and ~145 are
+> all-zero, so they collapse onto one node (the "Unnamed Host" mega-cluster of
+> 436). Treat the clusters as suggestive, not as discovered "courts," until the
+> map is retrained on attributed spirits only. (The committed `som_output/`
+> artifacts predate the cross-grimoire fix and should be regenerated.)
 
 ### Feature Vector (28 dimensions)
 ```
@@ -127,15 +150,27 @@ Six conjuration experiments from CLM 849 re-implemented as multi-GPU AI workflow
 
 ## Sources
 
-Five historical grimoire traditions:
+Three genuine medieval magical works (across five source ingests):
 
-| Source ID | Text | Chunks |
-|-----------|------|--------|
-| `forbidden_rites_pdf` | Kieckhefer, *Forbidden Rites* (CLM 849 experiments) | 39 |
-| `necro` | Munich Handbook necromancy text | 38 |
-| `worship_dead` | *Worship of the Dead* tradition | 49 |
-| `ars_notoria` | *Ars Notoria* — angelic knowledge acquisition | variable |
-| `liber_juratus` | *Liber Juratus Honorii* — Sworn Book of Honorius | variable |
+| Source ID | Text | Work | Chunks |
+|-----------|------|------|--------|
+| `forbidden_rites_pdf` | Kieckhefer, *Forbidden Rites* (CLM 849), PDF | Clm 849 | 39 |
+| `necro` | Same book — `H:\NECRO.txt` rip of *Forbidden Rites* | Clm 849 (dup) | 39 |
+| `ars_notoria` | *Ars Notoria* — angelic knowledge acquisition | Ars Notoria | 6 |
+| `liber_juratus` | *Liber Juratus Honorii* — Sworn Book of Honorius | Liber Juratus | 28 |
+| `worship_dead` | Garnier, *The Worship of the Dead* (1909) — **modern secondary, not a grimoire** | — | 48 |
+
+> `necro` and `forbidden_rites_pdf` are the **same book** (counted once at the
+> work level). `worship_dead` is a 1909 comparative-mythology book and is **not**
+> a medieval grimoire — it is retained only as background context.
+
+**Separate analysis tracks (intentionally NOT merged into the spirit DB):**
+
+| Track | State | Why separate |
+|-------|-------|--------------|
+| `malleus_marx` | distilled | Heresy & Revolution rhetoric study — different schema (entropy scores) |
+| `de_occultis` | 26 chunks distilled | Steganography/cipher treatise — its entities are ciphers/devices/methods, a different domain from grimoire spirits. Fold into the spirit DB only if you want cross-domain entities. |
+| `discoverie` | analyzed separately | Reginald Scot, *Discoverie of Witchcraft* — handled via `scripts/analyze_discoverie.py`; see `docs/discoverie_*.md`. Not distilled into per-chunk JSON. |
 
 Based on analysis of:
 - **Richard Kieckhefer**, *Forbidden Rites: A Necromancer's Manual of the Fifteenth Century* (Penn State Press, 1997)
@@ -144,6 +179,8 @@ Based on analysis of:
 ## Infrastructure
 
 - **Brain**: RTX 5090 (32GB) — qwen3.5-35b-a3b orchestrator
+- **Distillation model**: per the host's last recorded config, `google/gemma-4-26b-a4b`
+  (docs referring to a "120B Thinker" reflect an earlier/aspirational setup)
 - **Workers**: RTX 4070, A2000, 2× RTX 3060+Xeon
 - **Embedding**: Ollama nomic-embed-text on RTX 3060
 - **SOM**: MiniSom, matplotlib, scipy, numpy

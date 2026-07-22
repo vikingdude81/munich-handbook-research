@@ -1,0 +1,24 @@
+{
+  "note": "Corrected cross-grimoire statistics. `necro` and `forbidden_rites_pdf` are the same book (Kieckhefer, Clm 849) and are collapsed to one work. `worship_dead` (Garnier 1909) is a modern secondary mythology text, not a grimoire.",
+  "spirits_total": 1254,
+  "OLD_multi_source_spirits": 266,
+  "of_which_same_book_only (necro+forbidden_rites)": 253,
+  "CORRECTED_multi_work_spirits": 13,
+  "genuine_cross_work_combinations": {
+    "kieckhefer_clm849 + liber_juratus": 7,
+    "ars_notoria + kieckhefer_clm849 + liber_juratus": 3,
+    "garnier_1909 + kieckhefer_clm849 + liber_juratus": 2,
+    "garnier_1909 + kieckhefer_clm849": 1
+  },
+  "grimoire_works_count": 3,
+  "grimoire_works": [
+    "ars_notoria",
+    "kieckhefer_clm849",
+    "liber_juratus"
+  ],
+  "excluded_non_grimoire": [
+    "garnier_1909 (Worship of the Dead, 1909)"
+  ],
+  "spirits_occurring_once": 872,
+  "spirits_zero_attributes": 145
+}

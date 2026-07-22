@@ -194,18 +194,44 @@ def _nature_flags(attrs):
     return vec
 
 
-def _source_features(entity, max_sources=5, max_occ=20):
-    """3-dim: [source_count_norm, occurrence_norm, cross_grimoire]."""
+# Canonical WORK map — `necro` and `forbidden_rites_pdf` are the SAME book
+# (Kieckhefer, Clm 849) ingested twice. Collapsing them prevents a book from
+# counting as its own cross-reference (previously inflated source_count and the
+# cross_grimoire flag for ~253 spirits). Keep in sync with
+# scripts/normalize_entities.py:WORK_ID.
+WORK_ID = {
+    "necro": "kieckhefer_clm849",
+    "forbidden_rites_pdf": "kieckhefer_clm849",
+    "worship_dead": "garnier_1909",
+    "ars_notoria": "ars_notoria",
+    "liber_juratus": "liber_juratus",
+}
+
+
+def _distinct_works(entity):
+    """Distinct canonical works for an entity, preferring the precomputed field."""
+    if entity.get("distinct_works"):
+        return set(entity["distinct_works"])
+    works = set()
+    for s in entity.get("sources", []):
+        prefix = s.split(":")[0] if ":" in s else s
+        works.add(WORK_ID.get(prefix, prefix))
+    return works
+
+
+def _source_features(entity, max_sources=3, max_occ=20):
+    """3-dim: [work_count_norm, occurrence_norm, cross_work].
+
+    Counts distinct WORKS (book-level), not source ingests, so the duplicated
+    Kieckhefer text no longer reads as a multi-source spirit. max_sources=3
+    reflects the 3 genuine grimoire works in the corpus.
+    """
     vec = np.zeros(3)
-    sources = entity.get("sources", [])
-    grimoires = set()
-    for s in sources:
-        if ":" in s:
-            grimoires.add(s.split(":")[0])
-    vec[0] = min(len(grimoires) / max_sources, 1.0)
+    works = _distinct_works(entity)
+    vec[0] = min(len(works) / max_sources, 1.0)
     occ = entity.get("occurrence_count", 1)
     vec[1] = log1p(occ) / log1p(max_occ)
-    vec[2] = 1.0 if len(grimoires) >= 2 else 0.0
+    vec[2] = 1.0 if len(works) >= 2 else 0.0
     return vec
 
 
@@ -223,9 +249,16 @@ def vectorize_spirit(entity):
     return np.concatenate(parts)
 
 
-def load_seed_spirits(db_path=None):
+def load_seed_spirits(db_path=None, require_attributes=False, min_occurrence=1):
     """
     Load all spirits from the unified database and vectorize them.
+
+    Args:
+        require_attributes: if True, drop spirits with no attributes — these
+            produce near-zero vectors that collapse onto a single SOM node (the
+            spurious "Unnamed Host" mega-cluster of ~436). Use for honest
+            topology; ~70% of records are single-occurrence noise.
+        min_occurrence: drop spirits seen fewer than this many times.
 
     Returns:
         data: np.ndarray of shape (n_spirits, 28) — feature vectors
@@ -239,6 +272,10 @@ def load_seed_spirits(db_path=None):
         db = json.load(f)
 
     spirits = [e for e in db["entities"] if e.get("type") == "spirit"]
+    if require_attributes:
+        spirits = [s for s in spirits if s.get("attributes")]
+    if min_occurrence > 1:
+        spirits = [s for s in spirits if s.get("occurrence_count", 1) >= min_occurrence]
 
     names = []
     vectors = []

@@ -20,7 +20,8 @@ OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "som_output")
 
 
 def train_som(spirits_data, spirit_names=None, shape=(15, 15),
-              learning_rate=0.5, sigma=2.5, epochs=2000):
+              learning_rate=0.5, sigma=2.5, num_iteration=2000,
+              use_epochs=True):
     """
     Train a SOM on spirit vectors.
 
@@ -30,7 +31,12 @@ def train_som(spirits_data, spirit_names=None, shape=(15, 15),
         shape: (rows, cols) grid size
         learning_rate: initial learning rate
         sigma: initial neighbourhood radius
-        epochs: training iterations
+        num_iteration: epochs if use_epochs else raw sample draws
+        use_epochs: when True, num_iteration counts FULL passes over the data.
+            Previously the code called train_random(data, 2000), which draws
+            2000 random samples total — only ~1.6 passes over 1,254 spirits, not
+            "2000 epochs" as the README claimed. train(use_epochs=True) makes the
+            count mean what the docs say.
 
     Returns:
         Trained MiniSom instance
@@ -42,7 +48,7 @@ def train_som(spirits_data, spirit_names=None, shape=(15, 15),
 
     # PCA initialization for better convergence
     som.pca_weights_init(spirits_data)
-    som.train_random(spirits_data, epochs, verbose=True)
+    som.train(spirits_data, num_iteration, use_epochs=use_epochs, verbose=True)
     return som
 
 
@@ -198,11 +204,15 @@ def run_full_pipeline():
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Load and vectorize
+    # Load and vectorize. require_attributes=True drops the ~70% single-mention,
+    # zero-attribute records that otherwise collapse into one node and produce the
+    # spurious "Unnamed Host" mega-cluster + misleadingly low QE/TE.
     print("Loading spirit vectors...")
-    data, names = load_seed_spirits()
+    data_all, names_all = load_seed_spirits()
+    data, names = load_seed_spirits(require_attributes=True)
     feature_labels = get_feature_labels()
-    print(f"  {len(names)} spirits, {data.shape[1]} features")
+    print(f"  {len(names)} attributed spirits (filtered from {len(names_all)} total), "
+          f"{data.shape[1]} features")
 
     # Normalize features to [0, 1] for SOM
     col_max = data.max(axis=0)
@@ -210,8 +220,10 @@ def run_full_pipeline():
     data_norm = data / col_max
 
     # Train
-    print("\nTraining SOM (15×15, 2000 epochs)...")
-    som = train_som(data_norm, names, shape=(15, 15), epochs=2000)
+    EPOCHS = 2000
+    print(f"\nTraining SOM (15×15, {EPOCHS} epochs)...")
+    som = train_som(data_norm, names, shape=(15, 15),
+                    num_iteration=EPOCHS, use_epochs=True)
 
     # Metrics
     qe, te = compute_qe_te(som, data_norm)
@@ -250,7 +262,16 @@ def run_full_pipeline():
         "n_spirits": len(names),
         "n_features": data.shape[1],
         "grid_shape": [15, 15],
-        "epochs": 2000,
+        "epochs": EPOCHS,
+        "training": "som.train(use_epochs=True) — full passes over the data",
+        "caveat": (
+            "~70% of spirit vectors are single-occurrence and ~145 have zero "
+            "attributes, so their vectors are near-identical near-zero points. "
+            "The dominant 'Unnamed Host' mega-cluster is largely this null bucket, "
+            "and the very low QE/TE partly reflect that degeneracy rather than "
+            "meaningful topology. Filter to attributed spirits before treating "
+            "clusters as 'courts'."
+        ),
         "quantization_error": round(qe, 4),
         "topographic_error": round(te, 4),
         "populated_cells": populated,

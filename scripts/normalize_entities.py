@@ -11,11 +11,50 @@ Steps:
 import json
 import os
 import re
+import sys
+import io
 import glob
 from collections import Counter, defaultdict
 
-BASE = r"E:\munich_handbook_research\data\distilled"
-OUT_DIR = r"E:\munich_handbook_research\data"
+# Force UTF-8 stdout on Windows. LLM-generated relationship/type strings contain
+# characters like '→' that crash the default cp1252 console — and because the
+# crash happened during a diagnostic print BEFORE the save, the DB was never
+# written on Windows at all.
+if hasattr(sys.stdout, "buffer"):
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+
+# Paths are resolved relative to the repo root (this file lives in scripts/).
+# Previously hard-coded to E:\munich_handbook_research\... which only worked on
+# the original research box.
+_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE = os.environ.get("MHR_DISTILLED_DIR", os.path.join(_ROOT, "data", "distilled"))
+OUT_DIR = os.environ.get("MHR_DATA_DIR", os.path.join(_ROOT, "data"))
+
+# All sources currently present under data/distilled/. NOTE: `necro` and
+# `forbidden_rites_pdf` are the SAME book (Kieckhefer, Clm 849) ingested twice;
+# WORK_ID (below) collapses them so a book cannot cross-reference itself.
+SOURCE_IDS = [
+    "necro", "forbidden_rites_pdf", "worship_dead",
+    "ars_notoria", "liber_juratus",
+]
+
+# Canonical WORK map — multiple source ingests can be the same underlying work.
+WORK_ID = {
+    "necro": "kieckhefer_clm849",
+    "forbidden_rites_pdf": "kieckhefer_clm849",
+    "worship_dead": "garnier_1909",   # modern secondary mythology, not a grimoire
+    "ars_notoria": "ars_notoria",
+    "liber_juratus": "liber_juratus",
+}
+
+
+def distinct_works(sources):
+    """Canonical work ids spanned by a list of '<source>:chunk_N' strings."""
+    out = set()
+    for s in sources:
+        prefix = s.split(":")[0] if ":" in s else s
+        out.add(WORK_ID.get(prefix, prefix))
+    return out
 
 
 # ================================================================
@@ -114,9 +153,41 @@ TYPE_MAP = {
     "spiritual_formula": "incantation",
     "ritual_formula": "incantation",
 
+    # Spirit-type entities the LLM labelled by rank / nature / role.
+    # Verified against actual entity names (e.g. angel=Michael/Raphael,
+    # demon=Asmodeus/Satan, king=Maimon/Arcan, wind=Hebetel — all named spirits).
+    "angel": "spirit",
+    "archangel": "spirit",
+    "ruling_angel": "spirit",
+    "ruling angel": "spirit",
+    "demon": "spirit",
+    "king": "spirit",
+    "servant": "spirit",
+    "servant spirit": "spirit",
+    "wind": "spirit",
+
+    # Inscribed symbols / seals / figures (artifacts) and physical devices → tool
+    "sigil": "tool",
+    "seal": "tool",
+    "device": "tool",
+
+    # Ritual materials / substances → ingredient
+    "material": "ingredient",
+    "substance": "ingredient",
+
+    # Abstract methods / illustrative references → concept
+    "cipher_method": "concept",
+    "method": "concept",
+    "historical_example": "concept",
+
+    # Groups of people → person
+    "cultural group": "person",
+
     # Divine name variants
     "divine name": "divine_name",
     "divine name (used in binding)": "divine_name",
+    "sacred name": "divine_name",
+    "blessed name": "divine_name",
 
     # Location
     "location": "location",
@@ -228,7 +299,7 @@ def load_all_entities():
     all_relationships = []
     chunk_summaries = []
 
-    for source_id in ["necro", "forbidden_rites_pdf", "worship_dead"]:
+    for source_id in SOURCE_IDS:
         src_dir = os.path.join(BASE, source_id)
         if not os.path.isdir(src_dir):
             continue
@@ -318,6 +389,7 @@ def merge_entities(entities):
         # All name variants
         name_variants = sorted(set(e.get("name", "?") for e in group))
 
+        works = sorted(distinct_works(sources))
         merged.append({
             "canonical_name": canon,
             "display_name": display_name,
@@ -327,6 +399,8 @@ def merge_entities(entities):
             "page_refs": sorted(page_refs),
             "raw_quotes": quotes,
             "sources": sorted(sources),
+            "distinct_works": works,         # canonical works (book-level provenance)
+            "cross_work": len(works) >= 2,   # appears in 2+ DISTINCT works
             "occurrence_count": len(group),
         })
 
@@ -421,10 +495,12 @@ def main():
     # ================================================================
     # BUILD UNIFIED DATABASE
     # ================================================================
+    import datetime
     database = {
         "metadata": {
-            "generated": "2026-04-02",
-            "sources": ["necro", "forbidden_rites_pdf", "worship_dead"],
+            "generated": datetime.date.today().isoformat(),
+            "sources": SOURCE_IDS,
+            "distinct_works": sorted(set(WORK_ID.values())),
             "total_raw_entities": len(entities),
             "total_merged_entities": len(merged),
             "total_relationships": len(norm_rels),
@@ -467,14 +543,13 @@ def main():
     quoted_spirits = [s for s in spirits if s["raw_quotes"]]
     print(f"Spirits with direct quotes: {len(quoted_spirits)} / {len(spirits)}")
 
-    # Spirits appearing in multiple sources
-    multi_source = [s for s in spirits if len(set(
-        src.split(":")[0] for src in s["sources"]
-    )) > 1]
-    print(f"Spirits appearing in multiple sources: {len(multi_source)}")
-    for s in multi_source[:15]:
-        srcs = sorted(set(src.split(":")[0] for src in s["sources"]))
-        print(f"  {s['display_name']:30s} in {', '.join(srcs)}")
+    # Spirits appearing in multiple DISTINCT WORKS (book-level, not chunk-level).
+    # `necro`/`forbidden_rites_pdf` collapse to one work so the same book does
+    # not count as a cross-reference (this is the fix for the inflated 266).
+    multi_work = [s for s in spirits if s.get("cross_work")]
+    print(f"Spirits appearing in multiple distinct works: {len(multi_work)}")
+    for s in multi_work[:15]:
+        print(f"  {s['display_name']:30s} in {', '.join(s['distinct_works'])}")
 
 
 if __name__ == "__main__":
