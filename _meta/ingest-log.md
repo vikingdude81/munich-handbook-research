@@ -6,6 +6,34 @@ gets an entry here (see `AGENTS.md`). Historical entries backfilled from
 
 ---
 
+## 2026-10-27 (evening) — LBP Grimoire Collection staged (H:\), ingestion GATED
+- Source: `H:\THE GRIMOIRE COLLECTION\THE LBP GRIMOIRE COLLECTION` — 58 real books
+  (59th "ritos.pdf" = Mexican death-ritual folklore; `__MACOSX` junk ignored), ~690 MB.
+- Stager `scripts/stage_grimoire_collection.py` (idempotent): copied 50 PDFs into
+  `original_pdfs/` (gitignored), sha256'd all, auto-detect text-vs-scan, canonical
+  chunking (25k/500 via `clean_source_text`). Manifest now **62 entries**; **47 staged
+  tracks**: 37 chunked native (`staged_chunked`) + 10 image-only (`staged_ocr`).
+- **Skipped exact dupes** (sha/size): `PICATRIX - Latin Warburg Edition.pdf` (≡ Pingree),
+  `Grand Grimoire - Dark Lodge` (≡ Llewellyn), `TheGreekMagicalPapyriinTranslation` (≡ Betz).
+  **Not re-staged:** `Forbidden Rites.pdf`, `Worship of the Dead.pdf` scans — same books already distilled.
+- **Tiers:** A = grimoire primaries (picatrix_english/latin, key_of_solomon [4 part-files],
+  arbatel, grand_grimoire, black_pullet, ars_almadel, grimoire_turiel, infernal_dictionary,
+  pgm_betz); B = scholarly/context (kieckhefer MMA, godwin [scan], pgm digest, ars_notoria_ed2
+  witness, Budge×3, egypt/handbook/pyramid, babylonian, aryan, ritos); C = modern
+  retrofit-lineage (Stratton-Kent×5, Falxifer I/II, Crowley Illustrated Goetia, Henson
+  Lemegeton, pharmakos, lunar formula); D = staged-only image scans (Abramelin, Waite,
+  Bodin, Davies [has text], Aradia [has text], Geosophia×2, Conway [v1 text], Clavicula Nox,
+  trident Grand Grimoire, 2 redundant Picatrix scans).
+- Corrections vs. first triage: **no Grimorium Verum in this folder**; Godwin &
+  Prayer/Magick/Stars are image-only (not text as first reported); Davies/Aradia/Conway-v1
+  unexpectedly have text layers.
+- **Queue prepared, NOT started:** `_meta/overnight_queue.json` (A 297 / B 193 / C 80 chunks;
+  ordered value-first, Infernal Dictionary's 135 chunks last), goals in
+  `_meta/overnight_goals.json`, runner `scripts/run_overnight_queue.sh` (smoke→full per
+  track, resumable, Ollama qwen3.5:122b env). **Ingestion waits for the user's word.**
+- Note: earlier chunk-loop bug in the stager emitted tail-garbage chunks; fixed and all
+  chunk dirs re-cut clean before commit (no source outside git affected).
+
 ## 2026-10-27 — Audit, quarantine, and Goetia ingest (this session)
 - **Audit:** full-repo pass vs. sibling archive schema. Verified DB clean: 2,763 entities /
   1,260 rels / 147 chunk summaries, all source keys trace to genuine tracks.

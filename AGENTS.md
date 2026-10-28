@@ -20,7 +20,8 @@ sibling `theology-philosophy-archive` schema, adapted for a distillation pipelin
 ## INGEST — adding a source
 ```
 1. Stage PDF   → data/sources/original_pdfs/<id>.pdf ; compute sha256
-2. Manifest    → add entry to data/sources/source_manifest.json (status: staged → ok)
+2. Manifest    → add entry to data/sources/source_manifest.json (status: staged → ok;
+                 staged_chunked = binary+chunks, distill queued; staged_ocr = scan awaiting OCR)
 3. Chunk       → python scripts/ingest_new_sources.py --id <id>   (native) or --id <id> --ocr
                  (25k chars, 500 overlap → data/sources/<id>/chunk_NNN.txt)
 4. Distill     → set MHR_REASONING_SERVER / MHR_REASONING_MODEL_ID / MHR_REASONING_NUM_CTX
@@ -36,10 +37,27 @@ New grimoire-style sources (planet/direction/rank hierarchies) also need the sch
 extensions sketched in `docs/expansion_sources.md` (`planet`, `direction`, `rank_numeric`,
 `seal_reference`, `specialties`, `hours_of_power`).
 
+## NIGHTLY QUEUE — LBP Grimoire Collection (staged 2026-10-27, START IS GATED)
+- 47 tracks staged from `H:\THE GRIMOIRE COLLECTION\THE LBP GRIMOIRE COLLECTION`
+  (37 chunked native via `scripts/stage_grimoire_collection.py`, 10 `staged_ocr`).
+- Queue: `_meta/overnight_queue.json` (tiers A grimoire primaries / B scholarly-context /
+  C modern-retrofit; value-first order; Infernal Dictionary's 135 chunks last).
+  Per-track distill goals: `_meta/overnight_goals.json`.
+- Runner: `bash scripts/run_overnight_queue.sh [A|B|C]` — endpoint health-check, then
+  per-track smoke (`--max-chunks 1`) → full (resumable); log `_meta/overnight_run_*.log`.
+  **Do not run until the user explicitly says to start.**
+- Post-run merge is manual: 1:1 attestation review (goetia precedent); tier-C retrofit
+  tracks merge as *retrofit-lineage* witnesses only, never as early sources; tier-B
+  scholarly tracks never mint primary attestations.
+- OCR backlog (`staged_ocr`): abramelin, book_of_black_magic (Waite), demonomanie (Bodin),
+  godwin_necromancers, prayer_magick_stars, clavicula_nox, conway_demonology_v2,
+  picatrix_book2_scan, greer_picatrix_scan, grand_grimoire_trident. Use
+  `scripts/ingest_new_sources.py --id <id> --ocr` when scheduled.
+
 ## QUERY — answering research questions
 - Entity/relationship questions → `data/unified_entities.json` first (source families:
   alchemy_mysticism, ars_notoria, discoverie, forbidden_rites_pdf, liber_juratus, necro,
-  worship_dead, goetia).
+  worship_dead, goetia; 47 further tracks staged but not yet distilled).
 - Always report entity counts *per source track*, not raw totals — the DB contains
   known OCR/duplicate noise (see README data-accuracy notes).
 - Cross-work attestation counts must use **distinct works**, never chunk-count overlap.

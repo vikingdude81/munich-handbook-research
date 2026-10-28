@@ -1,0 +1,490 @@
+justified")
+
+ii)
+axrt (Hassan, Giza VI, Part II, pl. 87:91-92) ~ agjt (ibid, pl. 96:99, ~ agrt (ibid, 79:82)) "roasted patties
+(of wheat (zt) and barley (jt), for the reading, see W 125)", a case of /g/ ~ /x/ (see M 52) and probably
+dialectal /j/ ~ /r/ (see just above).
+
+iii)
+PT 554, §1371b: abA.k mnH.j m Drt.k
+Jéquier, Pepi II, pl. VI, col. 709+2: abA.k wAH.j m Drt.k
+"your baton lies in your hand"
+
+mnH ~ wAH "lie, rest" (a case of the allophones /A/ ~ /n/ and /m/ ~ /w/), cf. wAH (Wb.I:257:13) ~
+mAH (Wb.II:31:1) "wreath", both verb forms are 3ms statives with the j-ending spelled out (for
+another cases of the stative ending’s spelling, see W 134, 2).
+
+iv)
+Sh.Sailor 135-136: wn.k(w) r.f dmA.kw Hr Xt.j
+Sinuhe B 252-253: wn.k(w) r.f dwn.kw Hr Xt.j
+"I was stretched out on my belly"
+
+In these passages from the well-known M.K. texts the verb dwn "stretch out" has the form dmA in Sh.
+Sailor 135-136, thus we have here the cases of /n/ ~ /A/ ~ /l/ (see W 78, 1) and /m/ ~ /w/. This
+phenomenon is also present in the expression dmAt pDt "She who stretches a bow" (epithet of Nekhbet
+since the Old Kingdom (Sahure II Text S 84), Wb.V:452:1), cp. dwn pDt "stretch a bow" (§673b; CT
+IV, 364b (T1L) dwn pDw(t).f "that stretches its bows"; CT VII, 376a: dwn pDwt "who stretches the
+bows")
+
+James Allen agrees with this and writes (in a private message): "dwn = dmA is also possible: dáwal =
+dámal";
+For the case of /m/ ~ /w/, cf.:
+amA ~ awA "turn sour" (§§655a/859b, 1226b; CT I, 284d/CT IV, 163h),
+mA’’’gs’m ~ mAgsw (a word-play in Nt 300),
+nms ~ nws "headdress" (CT VI, 207d, 208d),
+mH ~ wAHt (a word-play in §614d),
+wAH (Wb.I:257:13) ~ mAH (Wb.II:31:1) "wreath",
+wDH "wean, let grow adult" ~ mDH "head-fillet of maturity".
+
+v) gspw ~ xsfw "meeting", see N 15.
+
+vi) gnm ~ xAm "hurry, hasten", see W 180a, 2.
+
+vii) Agbgb ~ nxbxb "move, dance" (Agbgb ~ Axbxb ~ nxbxb, see T 225, 2; M 52)
+
+102
+CT VI, 262c-e: pr jw dj janw m Axt nxbxb spAtj nTr
+"complaint has emerged, salutation has been given in the Behind the Horizon, the two districts of the
+god have skipped/moved vehemently"
+
+It is unlikely that the verb would here be nxbxb "draw back, open itself", for in the PT the two districts
+of the god (spAtj nTr) usually shout (nhmhm, §§1120b, 1394c, 1561d), and a similar action of
+expression of emotion is implied in this CT passage as well, also seeing the preceding utterings of
+lament and greeting. Hence the districts probably "moves vehemently" (or the derived meaning "skips,
+dances", cf. M 52).
+
+ix) CT I, 18a: pAxy (B15C) ~ pAg(j) (B3Bo, B2Bo, B4Bo, B1P) ~ bAg(j) (S10C) "become tired", a
+case of /p/ ~ /b/ (W 81) and /x/ ~ /g/ (M 52).
+
+3)
+§298b-c: rDj.kA.f nsr n jrt.f...d.s nSn m jrw jrwwt xfxf.s m pAwtjw pw
+Allen "[he] will give [the flame of his eye]...so that it puts tempest among those who do (evil) deeds
+and its swell among those original gods"
+Shmakov "[he] will give [the flame to his eye]...so that it sets tempest against those who carry out
+orders and its outpouring against those original gods"
+
+rDj nsr n is probably "give the flame to", i.e. he "puts fire into" his eye so it can do damage.
+wdj m has the meaning "act against", while wdj without m means just "put, place":
+
+Urk.I:102:19, 106:5: r nfr.n dd wa jm m snw.f
+"so that one there doesn’t act (lit. set himself) against his fellow (lit. second)"
+
+CT VI, 231d-e: jr tm.Tn jr n.j wAt swA.j r.j wd.kA.j jmntjw m gbb jt(j) nTrw
+"If you don’t make a way for me that I may pass, I will set westerners against Geb, father of the gods"
+
+pPrisse 7,1: bwt kA pw wdt jm.f "It is abomination for the ka to act against him"
+
+Budge, BD40:6 (pNu): nn wd.k jm.j "you will not hurt/act against me", Budge II, BD64:13 (pNu, long
+version): m wd jm.j "don’t hurt/act against me".
+
+Some other verbs with m as governing preposition likewise express the meaning "act against":
+
+with reflexive:
+DAj m "oppose oneself against, take a hostile stand towards", lit. "extend/transport oneself in" (§§963b,
+1237b; CT IV, 127b; CT V, 333i; CT VI, 89c-d, 276m, 300j, 378r, 403i, m; CT VII, 93n, 178q, 191f,
+224l,p, 241e; Budge, BD124:12; Urk.IV:945:14)
+xsfj m "proceed against", lit. "advance oneself in" (§963c N; CT IV, 82e, 86g, 96f, 126e, 127a (B2L);
+CT VI, 317a,c; CT VII, 107o, 224n)
+Hzj m "proceed against", lit. "bring oneself forward in" (CT IV, 128a; CT VII, 18s, 20g; Urk.IV:85:4,
+10; 613:6 (m hAw "against the vicinity")).
+twr m "guard against" (CT III, 162c (B1BOa)).
+Sn xt r "scheme/plot against; frame up (trump up) an accusation (a charge) against" (Urk.I:13:3, 36:17,
+Moussa-Altenmüller, Niankhhnum, Tf.11) ~ Sn xt jm (CT I, 192f, g); cf. also CT III, 317o: nn Sn nTr
+nb r.j "there is no scheme of any god against me" and Budge, BD125:41, note 2 (Nu): nn Snt nt nTr
+jm.j "there is no god’s scheme against me".
+
+103
+without reflexive:
+xsfj m (in jj xsf(.w) m "the one who would come opposing") (CT II, 252f; CT III, 262g; CT IV, 83e,
+87l, 101e, 104e, 126f; CT VI, 276o; CT VII, 192m,n, 193a, 487a, 492g)
+mdwj m "speak against, abuse" (Urk.IV:217:16, 260:12, 1070:1-4; Sin. B184)
+xmj m "desecrate" (see W 169, 5)
+
+PT 254, §277b: jr.kA wnjs fAt m jt(j).f gbb "then Unis will make a threat against his father Geb"
+PT 288, §429c: jm.k jr wpt.k m wnjs "You should not carry out your commission against Unis"
+PT 569, §1441b: nj jrw aHaw m pjpj pn "roadblocks will not be set (lit. made) against this Pepi"
+CT I, 52c-53a: jr.kA.j a Hr m Xr(j)w m wrw.sn m jwnw r-gs Asjr(t) xaw "Then I will use (lit. make) an
+upper arm against lower ones, against their great ones in Heliopolis near apparent Osiris"
+CT VI, 157a: jw Asjr(t) st.f m xft(j)w.f "Osiris is shooting in his opponents"
+CT VII, 49h: wp-wAwt wp.f wAwt.k m xft(j)w.k "Paths Discerner discerns your paths against (lit. in)
+your opponents"
+jr ad(t)/xryt m xftjw/sbjw "carry out a massacre/butchering among (lit. in) the opponents/rebels"
+(Graefe, Stundenritual, 1st hour, 12, Budge, BD173:21) VS jr Hm jr.t(w) aDt aAt r.j "If however a big
+massacre will be carried out against me" (CT VII, 242k).
+Budge, BD42:11-12: nn jry r(m)T nTrw Axw…awA nb jm.j "People, gods, akhs…will not commit any
+atrocity against (lit. in) me"
+pPrisse 6,8: jmj.k jr Hr m r(m)T "You should not weave (lit. make) a plot against people",
+Urk.IV:613:16: jr.s j.z HAq m nbdw qd "She will make devastation (lit “go and plunder!”) in/against
+the ones perversed of character"
+ibid:944:5: nj jr(.j) zp Xzj m sxrw.f nb "I did not do a vile deed against any of his plans".
+
+But m as "against" cannot be applied mechanically, cf. wdj m "appoint to" (lit. put into):
+
+CT I, 207e: jr nTr nb Ax nb m(w)t nb DA(j)tj.sn st m saHw.k jpn "As to any god, any akh, any dead
+who will encroach upon (lit. extend themselves for) these my dignity’s regalia"
+
+CT I, 213g-214b: jr DAt.f sw m dbHt Htp nt Hwt-Hrw DAt.f sw m nn wAH.j n Asjr(t) N pn m hrw pn
+"As to the one who will encroach upon (lit. who will extend himself for) the requisite offerings of
+Hathor – he will encroach upon (lit. extend himself for) these which I laid for this Osiris N today"
+
+In these passages the preposition m is not "against" but "for", as it is about seizing the regalia or
+offerings..
+
+Urk.IV:126:9: s.DA Hr m kAt nbt jrrt m sxt "being interested in (lit. extending of the face for) every
+work which is done in the marsh" (cf. also ibid:1062:10, 1161:4); ibid:956:5: DAt [Hr m] jrt b[w nfr]
+"being interested in doing goodness"; Urk.IV:976:13: DAt Hr m sbA r stt "being interested in (lit.
+extending of the face for) teaching (i. e. being thought) shooting (a bow)"
+
+Urk.IV:240:1: DAy r.T m jrtt.j "Extend your mouth for my milk"
+Peas. B2, 119-120: DAt r n Xrd n sbnt m jrtt "Extending a child’s mouth for milk"
+Urk.IV:247:3-5: nTrw nbw…Hz(.w) jm.s "All the gods met her"
+Urk.IV:971:8: Hz sw m jrt bw mAa "One who is set on (lit. one who brings himself forward towards)
+doing the right thing"
+
+For jrw jrwwt "those who carry out orders", see W 180b, 17.
+
+104
+4)
+§299b: wd.kA wnjs rmn.f m znbt tw rmnt.k jr.s
+Allen "Unis will put his shoulder to the bulwark you depend on"
+Shmakov "Unis will demolish (lit. set his whole arm against) the fortification you depend on"
+
+wdj rmn m or wdj a m have the meaning "to destroy, to demolish", see Budge, BD173:12: wd.n.j a m
+sbjw Hr.k "I have destroyed (lit. set my arm against) those who rebelled against you". For wdj m, see
+also the example above.
+
+5)
+§300a: aHa r.f wr m Xnw kAr.f
+Allen "So, the great one will stand up inside his shrine"
+Shmakov "So, (even) the great one will arise out of  (lit. stand up from the inside of) his palanquin"
+
+The determinative of the word kAr is {palanquin, litter}. It is probably in the Middle and New
+Kingdoms that the word gets the meaning "ark, shrine". For "standing up" as a way of leaving the
+palanquin, cf.: pWestcar 7,14: aHa.n wAH pA qnjw aHa pw jr.n.f r wSd.f "Then the litter was put down
+and he stood up in order to address him".
+
+It is the "despicable one" who was commanded to lay down his insignia for Unis (earlier in §297), not
+the great one, but after Unis’s threats even the great one lays his insignia down, hence the translation
+"So, (even) the great one…".
+
+W 167 (PT 256)
+§301c: jw mk.t(j).f m jrjjt r.f
+Allen "for his protection is what was done to him"
+Shmakov "He has been protected from what could be done against him"
+
+mk.t(j) is probably a perfective sDm.f. For m in the function of m-a "from", see P 483, 2. "do to" is
+normally jr n, see §477c, jr r is rather "act against".
+
+2)
+§303a-b: jw mAn nTrw m HAwt kss.sn n wnjs m jA
+Allen "Unis has seen the gods naked and bowing to Unis in praise"
+Shmakov "There is a view of the gods naked while they are bowing to Unis in praise"
+
+mAn is probably a noun, "view, sight", not a sDm.n.f with Unis’s name left out, and also not a sDm.f
+("we see", mA.n). Cf.: Urk.IV:246:1: nfr mAn.s r xt nb(t) "Her sight is better than anything"; PT 249,
+§266a-b: zSSn…wabw nTrw n mA.f "the water-lily…at the sight of which the gods become clean"; CT
+VI, 223c: Hay m mA.f "get excited at his sight!"; Sethy I, Abydos II, pl. 30: xntS.tn n mA nfrw.f "You
+shall marvel at the sight of his beauty" (mA is a variant spelling of mAn/mAA). Of course there is a
+chance that Unis’s name was left out in the passage, just like Pepi’s and Merenre’s in §1230c (see P
+470), but in CT VIII, PT 256, §303a (page 274) this line still occurs without deceased’s name: jw mAn
+nTrw m HAwt.sn "There is a view of the gods in their nakedness".
+
+W 168 (PT 257)
+§305a: jT wnjs pt pSn.f bjA.s
+Allen "Unis will acquire the sky and split open its basin"
+Shmakov "Unis has acquired the sky (and) rippled (lit. split/disrupted) its water smooth surface (i. e.
+sailed on it)"
+
+105
+
+The term bjA which James Allen reads "[the sky’s – T. S.] basin", Thomas Allen as "the (watery)
+firmanent" (Allen T. G., BD, p. 57) and "metallic expance".(Allen T. G., BD in OIM, p. 138), may well
+have the meaning "(water) smooth surface". This word occurs with {winding canal} and {canal}
+determinatives in the expression DAt bjA "Crossing of (water) smooth surface" (Ptah-hetep 1898, pl.
+39 (= Urk.I:189:12) and Urk.I:199:16). Smooth, i. e. glassy/mirror-like surface may fit the probable
+root meaning which is "copper" (hence the reading "firmanent" for bjA), for "water smooth surface"
+may resemble polished copper. The rippling of water smooth surface may be a reference to sailing on
+it. Cf.
+
+PT 509, §1121a: pr.f r.f jr pt DA.f bjA
+"So, he will go forth to the sky. He will cross the water smooth surface"
+
+CT IV, 292-295b: j ra…psD m Axt.f nbb Hr bjA.f
+"Oh Sun…shining from his Behind the Horizon, swimming in (lit. on) his water smooth surface"
+
+Budge II, BD64:25-26 (pNu, long version): zn.j Hrt xnd.j Hr bjA.s
+"I will cross the (Celestial) Distance and step on its smooth surface"
+
+Urk.IV:481:7-8: prt r pt DAt bj(A)w
+"ascending to the sky, crossing the smooth surface"
+
+2)
+§305b: sSmw Wnjs wAwt n xpr
+Allen "Unis will lead the paths of Evolver"
+Shmakov "Unis will make the paths for Evolved One (Khepri) (i. e. will lead him)"
+
+The noun wAt "path" is feminine, hence n of the current passage can only be a preposition "for"
+(otherwise it should be genitive nt), cf.:
+
+CT II, 37g: wp.j wAwt n ra sqd.f r Axt jmnt(j)t
+"I discern paths for the Sun (when) he sails to the western Behind the Horizon"
+
+The expression sSmj wAt has the meaning "make a path, break a trail", cf.:
+
+Urk.I:127:7-9: wn.jn [HqA] pn Hr sSm n(.j) wAwt n(w)t TAzwt nt jrTt
+"Then this [ruler] was making for me mountain-paths of Irtjet"
+
+Urk.IV:247:6: sSm.sn n.s wAwt nfrt
+"They will make for her the right paths"
+
+CT II, 138f: sSm n.j wAwt n Hr.f HA.f
+"Make for me the paths to His Face Behind Him"
+
+CT II, 140d-141b: Sm.k jr.f Hr zj-wAt Hr wAt wrt…Smt.n xntjw Hr.s sSm.sn wAwt n nTr aA
+"(May) you go by the walk-path, by the great path…by which those at the fore have gone when they
+were making paths for the elder god"
+
+CT IV, 164e-j: gwA.n Asjr(t) N pn r rwd…sSm Asjr(t) N pn wAwt r jdb jzkn
+"This Osiris N has pushed off from the mound…this Osiris N will make the paths to the shore of the
+
+106
+(sky’s) western horizon (Izeken)"
+
+CT IV, 319c: sSm n.f wAwt nHH
+"for whom the paths of nHH-time were made"
+
+CT VI, 377a: sSmt wAt nt dwAt "Making of Duat’s path"
+
+CT VII, 117c: jj.n N sSm.s wAwt "N has come that she may make paths"
+
+CT VII, 379c-d: Ast nw nt(j)t m HAt.f m mAat sSm.s n.f wAwt m DAt pt
+"This is Isis who is in front of him as a pilot (lit. leader), she will make for him the paths at the sky’s
+crossing"
+
+CT VII, 414b: sSm.f wAt ra sbAt "He will make the Sun’s starry way"
+
+CT VII, 476a: jw.j sSm.j r.j wAt tn swA.j jm.s "I am making a way I will pass on"
+
+Alan Gardiner suggested a meaning "show the way" for sSmj wAt (Gardiner, E. G., Vocabulary, p.
+592) which is almost synonymous to the above suggestion, "make a path (for someone)". In the New
+Kingdom sSmj wAt corresponds to mAa wAt (both sSmj and mAa have the meaning "lead, direct"), cf.:
+
+Graefe, Stundenritual, 8th hour, H: jw.k Sm.k [Hr wAt] Twy s[Sm]w xnzw Hr.s s.mAat.n n.k jmjw kArj
+"You are going on this path on which Khonsu leads, which those in the ark has made for you"
+
+Manassa, Underworld, p. 101 (the reading is by the present author): jw.f rx(.w) mAa wAwt
+"He knows how to make the paths"
+
+ibid, (the reading is by the present author): jw sTA.n Asjr(t) N nTr pn aA m qrrt StAt mAa.n.f wAt r rsTAw
+"Osiris N has hauled this great god from the secret cavern, having made the path to Rostau"
+
+ibid, p. 106 (the reading is by the present author): dj.f a n ra mAa.f wAwt StAt n ra Hrw Axtj
+"He gives his arm to the Sun, he makes the unknown (lit. secret) paths for the Sun-Horus of the Behind
+the Horizon"
+
+The name of the god xpr means "Evolved One", not "Evolver", which would be *s.xpr; compare also
+the god’s signification as xpr Ds.f "Self-Evolved".
+
+3)
+§306a: Htp wnjs m anx m jmnt Sms sw d(w)At(j)w
+Allen "When Unis sets in the west, those of the Duat will follow him"
+Shmakov "(When) Unis becomes sated with/has enough of life (i. e. sets) (and occurs) in the west,
+those of the Duat will follow (i. e. serve) him"
+
+The expression Htp N m anx (N stands for noun or pronoun) is well known and is used almost
+exclusively with the Sun as subject, hence we are absolutely right when understanding it as "set (of the
+Sun), die (of a king who was a Junior Sun (nTr nfr))". But until now it was still a problem how to
+translate it literally. James Allen, for example, in his work “Cosmology of the Pyramid Texts”,
+translates it literally as "rest from life". The present author earlier tried to understand it as "to be
+pacified with life". But the key to understanding the expression lies in the Middle Kingdom stelae, in
+
+107
+the expression m xt Htp kA.f jm:
+
+BM 159, CM CG 20514, 20542, 20548, Muenchen ÄS 33: prt m bAH nTr aA m xt Htp kA.f jm
+"(feast) emerging before the Elder God after his ka has had enough of (it) (for the ka of N)"
+
+CM CG 20088: prt Hr Htp n Asjr(t) m-xt Htp kA.f jm
+"(feast) emerging onto the altar of Osiris after his ka has had enough of (it) (for the ka of N)"
+
+CT VII, 2e: mj.Tn Hmswt Htp N m Df(A)w
+"Look…N has had enough of provisions"
+
+Urk.IV:165:2: xft Htp nTr m xt.f "when a god has had enough of his meal"
+
+Urk.IV:769:3: jr m-xt Htp twt pn m aAbt tn
+"After (lit. as to after) this statue has had enough of this feast"
+
+Urk.IV:977:10: wdn xt nbt nfrt wabt n jmn ra Hr Axtj Htp.f jm Htp kA.f jm
+"Presenting every good and pure thing for Amon-the Sun-Horus of the Behind the Horizon, that he
+might become sated with it, that his ka might become sated with it"
+
+(also ibid:768:6, 11, 769:15, 872:12, 1156:16, 1165:13, 1166:6, 1167:11, 1202:1, 1225:5)
+
+Thus with meals as object we get the meaning of Htp m as "get sated with, have enough of". The same
+fits for a life (anx) as object:
+
+PT 603, §1679b-c: [Htp.f] m anx m jmnt m-m Smsw ra
+"[He will have had enough] of life in the west among the Sun’s followers"
+
+Hermitage 1073: jr.t(w) mjtt n Hmw.Tn m-xt Htp kA.Tn m anx
+"(Then) similar will be done to your incarnations, after your ka(s) will have had enough of life (i. e.
+after your death)"
+
+CT II, 386с: Htp xr ra m anx
+"Then the Sun got sated with/had enough of life (i. e. set)"
+
+CT V, 349c-d: wbn.f m msxn nTr Htp.f m anx m qnqnt
+"He rises from the god’s resting place, he has enough of life (i. e. sets) in Qenqent"
+
+CT VII, 18l: jw.f Htp.f m anx m Axt xr nw
+"He has enough of life in the Behind the Horizon where Nu is"
+
+Urk.IV:58:11-13: Htp njswt m anx pr(.w) r Hrt km.n.f rnpwt.f m nDm jb
+"The king has got sated with life and gone up to the (Celestial) Distance, having completed his years in
+delight (lit. sweetness of heart)"
+
+Urk.IV:942:5-6: dwA ra xft wbn.f r xprt Htp.f m anx
+"Glorifying the Sun at his rising, until his satiation with life occurs (i. e. sunset)"
+
+There also is an opposite expression – rs m anx "wake (longing) for a life" (Urk.IV:656:13)
+
+108
+Not to be confused with Htp m "be pleased with": Htp.j m anx mj tm "I am pleased with life like Atum"
+(Urk.IV:366:12).
+
+4)
+§306c: jwt n.f wp Xnw m ksw
+Allen "he who parted the two contestants will come to him in obeisance"
+Shmakov "He Who Settles (i. e. puts an end to) Disturbance will come to him in obeisance (lit.
+bowing)"
+
+wp Xnw/Xnnw is "He Who Settles (lit. Parts) Disturbance", not "he who parted the two contestants", for
+the spelling of the word Xnw/Xnnw is the same as in §304a: Xnw/Xnnw m pt "Disturbance is in the
+sky". For the meaning of wpj as "settle, put an end to", cf. CT II, 211c: Asjr(t) wp Sat tAwj "Osiris who
+settles the massacre of the Two Lands"; CT IV, 160d: jw.n Asjr N pn wp.f Xnw "This Osiris N has
+come that he may settle disturbance"; stela Louvre C2: Hr wp Sat tAwj "Horus who settles the
+massacre of the Two Lands", Couyat-Montet, Hammamat, p. 81, 4: qA xrw Hr nD rn n nswt hrw xsf
+Sat wp xnr "loud (lit. high of voice) when greeting (lit. tending the name) of the king on the day of
+barring massacre (and) settling down (lit. parting) criminality" (see P 473, 1); also Berlev, Stelae, page
+116-177 (monument 117), note b: Hrw wp Sat tAwj "Horus who stops the massacre of the Two Lands".
+
+It is noteworthy that in his earlier work James Allen reads this passage: "Dispute-solver shall come to
+him bowing" (Allen, Inflection, §663, p.463).
+
+5)
+§306d-e: s.nhd n wnjs nTrw smsw(.j) r wr jn sw sxm(.j) m st.f
+Allen "The gods will terrorize for Unis, since he is senior to the great one and belongs to the control of
+his seat"
+Shmakov "“Frighten for Unis, gods, being elder then the great (god),” – says he (i. e. Disturbance
+Settler) – “(and) who has control of his place”"
+
+smsw(.j) and sxm(.j) are statives – "he has become (more) elder than the great...he has gained control of
+his seat".
+
+The present author came to the understanding of jn sw as parenthetic "says he" (Allen, M. E., 22.17-18)
+independently from Samuel Mercer who also reads it "so says he" (Mercer, P. T., p. 81), as the version
+of Teti – sxm n tjt m st.f "the control of Teti is in its (proper) place" does not let us read the current
+passage as James Allen does, i. e. "(he) belongs to the control of his seat".
+
+It means that James Allen errs in his grammar about j.n.sn (“jnsn is probably the perfect j.n.sn” (Allen,
+M. E., 22.18, p. 313): sn is actually a dependent pronoun just like in xr sn "say they", xr sw "says he",
+cf.the following passages which also have dependent pronoun after  PT 219, §179a: Asjr(t) Dd.n.T jr.f
+ms.n.t(j) n(.j) j.t(j) Tn "Osiris of whom you said: “(Someone) has been born for me,” – you said", PT
+467, §886a: j.t(j) Tw ra "you said, Sun", just like in the discussed passage the dependent pronoun Tw is
+put after j.t(j).
+
+The verb smsj/smsw occurs in the formula qrs.t(j).f...jAw(.j)/sms(.j) nfr(.j) wrt "he has been
+buried...being very much worthy (lit. being very much elder)" – jAw(.j) or sms(.j) are statives which is
+proved by the feminine version of the formula where the stative t(j)-ending occurs: jAw.t(j) nfr(.j) wrt
+"(she has been buried)...being very much worthy (and) fair".
+
+Old Kingdom sources for sms(.j) nfr(.j) wrt – El-Khouli A., Kanawati N. The OK Tombs of El-
+
+109
+Hammamiya. Sydney, 1990 (ACER 2). Pl. 49 – sms(.j); Mariette, Mast., p. 360 (sms.t(j)), F2, p. 433
+(sms.jj); Borchardt L. Denkmäler des AR (ausser den Statuen) in Museum von Kairo. Teil 1. B., 1937.
+S. 114 – sms.jj; Middle Kingdom source – stela Guimet E.11324 – sms.jj. In the Coffin Texts – CT IV,
+113f: jw.f sms.y r.f "He is elder than he".
+
+W 169 (PT 258)
+§308a: Asjr(t) pw wnjs m z(j)z(j)w
+Allen "Unis is Osiris in dustdevil"
+Shmakov "Unis is Osiris in z(j)z(j)w"
+
+The meaning of the word z(j)z(j)w is uncertain. In Unis’s copy and in the copy of Senusert-ankhu
+(Hayes, The Texts, col. 403) it has {walking legs} determinative, from the verb z(j)z(j) "catch"
+(§§173a, 175a, 271a, 643с, 1285c; CT VI, 17f) as if it is a verbal noun "catcher", but this could be a
+case of "Determinative Influence" (see T 203, 2). However, in the CT IV, 46a-b z(j)z(j)w has {sky}-N1
+determinative.
+
+CT IV, 46a-b: pr.n.j m wnwt wab.n.j m z(j)z(j)w
+"I have gone forth into day-hours and become clean in z(j)z(j)w"
+
+In the following passage it has {walking legs} determinative:
+
+CT VI, 120j-k: aq.n.j m z(j)z(j)w pr.n.j wab.kw
+"I have entered z(j)z(j)w and emerged clean"
+
+For the present author it is unclear how a man can become clean in a dustdevil.
+
+2)
+§308c-d: Htm.f qd.f m Hwt.f tp tA sD qsw.f dr sDbw.f
+Allen "He will end his sleep with his bones broken in his enclosure on earth, and remove his
+obstructions"
+Shmakov "He destroys his sleep in its (i. e. sleep’s) enclosure on the earth, its (i. e. sleep’s) bones have
+been broken, its (i. e. made by sleep) obstacles removed"
+
+A very interesting conclusion of this passage is that euphemisms for death, namely "sleep" and
+"laziness", could be viewed or embodied as living beings made of flesh and blood and thus could be
+destroyed, i. e. Egyptians could embody even abstracts. Teti’s editor misunderstood all these "its/his"
+and took the bones and obstacles as Teti’s, not as Sleep’s. Cp. also:
+
+CT I 292d-293d: bwt.k qdd msD.k bAg Hr r.sn…spd r.sn…bA r.sn…bAs n.k HAtjw.sn zwr n.k znf.sn
+"Your abomination is sleep and you hate laziness, be far from them…be sharp (i. e. prepared) against
+them…be impressive against them…eat their hearts, drink their blood".
+
+All the instances of "their" in the passage refer to qdd "sleep" and bAg "laziness".
+
+As to destroying somebody in his enclosure, cf. CT I, 401a: whn.n.j sn m Hwt.sn
+"I have thrown them down in their enclosures".
+
+Something similar occurs in PT 338, where Hqr "hunger" is being begged not to come to Teti and go to
+Nu and Inundation: the abstract "hunger" has to have at least legs for these actions, i. e. just like in the
+discussed passage be embodied in a being.
+
+110
+
+Moreover, see this passage about keeping the death signs ("sleep" and "lying") away from the
+deceased:
+
+PT 247, §260a-b: jr wD(.j) msDD qdd s.bAgjj
+"Do what I command, you who hate sleep (but) immobilized (lit. made to become slack)"
+
+PT 412, §721d: bwt.f qdd msD.f bAgj
+"he abominates sleep, he hates slackness"
+(the same passage is §1500c)
+
+In this passage from the Coffin Texts sleep is used in parallel to death:
+CT III, 194j: mj <bwt> ra <pw> qdd <twr> jtmw m(w)t
+"like the Sun(’s abomination is) sleep (and) Atum (bewares) of death" (column is split in the original)
+
+3)
+§308e: Drt(j) Asjr(t)
+Allen "Osiris’s two kites"
+Shmakov "Osiris’s screecher (and) kite"
+
+See W 5.
+
+4)
+§309b: jw wnjs r pt jw wnjs r pt m TAw m TAw
+Allen "“Unis is off to the sky, Unis is off to the sky, in the wind, in the wind”"
+Shmakov "“Unis is off to the sky, Unis is off to the sky, as the wind, as the wind”"
+
+The passage probably has a "m of predication", rather than the preposition "in", cf. PT 573, §1484a:
+j.pA.f j.pA.f m-a.Tn r(m)T m Apdw "He has flown away, he has flown away from you, people, as birds
+(do)"
+
+5)
+§309c: nj xm.f nj xmwt.f jm.f
+Allen "He shall not be turned away, and there is none who will turn away from him"

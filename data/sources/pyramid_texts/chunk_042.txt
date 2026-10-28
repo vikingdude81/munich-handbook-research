@@ -1,0 +1,492 @@
+, see W 145), cf. PT 667A, Nt 777: jj Axt(j) j.wAg rDw
+pr m Asjr(t) "Has come the Inundation season, which presented the outflow that came from Osiris".
+
+6)
+§2114b: wHa Ssmw.k
+Allen "release your sinews"
+Shmakov "your Ssmw have been released"
+
+The meaning of the word Ssm is uncertain.
+
+N 583 (PT 698C)
+Jéquier, Pepi II, pl. 20, col. 1308+70-1309: mH.k jr tA twr pjpj nfr-kA-ra
+Allen "your arm to the ground and respect Pepi Neferkare"
+Shmakov "your mH to the ground (and) be wary of Pepi Neferkare"
+
+There is no a "arm" in the text. The verb twr has the determinative {man striking with a stick} – the
+determinative of the verb twr "be wary" (for the meaning see W 143, 2).
+
+N 594 (PT 700)
+§2185a-d: wAg.k m t mr wAg Hrw jrt.f m rn pw n wAg Hnk.k [m t mr Hnk Hrw jrt.f m rn pw n Hnkt]
+Allen "You shall be supplied with bread like Horus being supplied with his eye, in the identity of the
+supplied offering. You shall be endowed [with bread like Horus being endowed with his eye, in the
+identity] of the endowed offering"
+Shmakov "You have been presented with bread like Horus presented his eye, in (its) identity of the
+present/gift. You have been endowed [like Horus endowed his eye, in (its) identity] of the endowment"
+
+This passage has been restored based on Nt 744-745. wAg.k and Hnk.k are two passive sDm.f’s,
+whereas wAg Hrw and [Hnk Hrw] are two non-attributive relative forms as objects of the preposition
+mr (Allen, M. E., 25.3.1) and are active forms; why James Allen is reading them as passives is
+puzzling, also as the preposition m needed for such a reading (wAg m "supply with") is lacking (i. e. we
+do not have in the text *wAg Hrw m jrt.f…Hnk Hrw m jrt.f).
+
+378
+N 614 (PT 702)
+§2200a-c: jw.n pjpj nfr-kA-ra xr.Tnj rHt(j) wrtj aAtj nt(j)tj m gs jAbtj n pt fA.Tnj pjpj nfr kA d.Tn sw m
+gs jAbtj n pt
+Allen "Pepi Neferkare has come to you two elder and great companions who are in the eastern side of
+the sky so that you may lift Pepi Neferkare and put him in the eastern side of the sky"
+
+This spell probably refers to the nhtj "two sycamores" that occur in PT 568, §1433b-c: "This Meryre
+will seize the two sycamores that are between (here and) the other side of the sky. They will ferry him
+and put him in yonder eastern side of the sky.". Cf. also CT II, (367a-368b), 388p-r: jw N rx(.w) nhtj
+jptw ntj mfkAt prr ra jm.snj Smtj…r sbA jAbt(j) pt r bw wbn ra jm "N knows these two turquoise
+sycamores from which the Sun emerges (and) that go…to the eastern gate of the sky, to the place from
+which the Sun rises".
+
+N 615 (PT 703)
+§2204a: mwt.k tw Hwrt wrt
+Allen "Your mother is the great Impoverishing Uraeus"
+Shmakov "Your mother is the great Lass"
+
+This is a case of /r/ ~ /n/ (see W 106), Hwrt ~ Hwnt "lass, girl".
+
+379
+
+Part VI: Neith’s PT corpus
+
+Nt 6 (PT 655)
+Nt 8: m HAt wjA n jmj(w) nw
+Allen "in the prow of the boat that is in Nu"
+Shmakov "in the prow of the boat of those in Nu"
+
+jmjw nw "those in Nu" (§§319c, 871c, 1166b, 1486a) are probably mentioned in this passage.
+
+Nt 7 (PT 585 and §§1582-83a of PT 586)
+Nt 9: Axw j.wn znw
+Allen "akhs in the opened door"
+Shmakov "akhs who open doors"
+
+The text actually has j.wn znw "who open doors", not jmj(w) znw "who are in the (door) opening(s)".
+For it is a common mistake in Neith’s Pyramid Texts to write jmj-{crossed planks}-Z11 instead of wn-
+{rosette}-M42, because the two signs are indistinguishable in hieratic. The proposed reading is also
+supported by the descendant of this passage, CT II, 144d, which has wnw znw.  Note James Allen
+himself reads j.wn in his earlier work, Inflection, p. 679.
+
+Nt 10: jn nt m.Hfdt r pr Hr
+Allen "Neith has come climbing to the [upper] house"
+Shmakov "Neith is the Climber to the [upper] house"
+
+We probably should not emend jn "it is" in Neith’s copy to jj.n "has come" which occurs in the
+descendant of this passage, CT II, 145c. m+Hfdt is probably not a pseudo-verbal construction m Hfdt,
+but a m-prefixed nominalized participle m.Hfdt "Climber".
+
+2)
+Nt 12-13, restored with the help of CT II, 147e-f: j.xmw sk jrw gnwt n [xpr wnw Hr n StAw swt]
+Allen "Imperishable Stars who make [the Beetle’s] annals"
+Shmakov "Imperishable Stars who make annals for [the Evolved One (and) open the face(s) of the
+ones inaccessible of the places]"
+
+The text has gnwt n [xpr] "annals for [the Evolved One]", not "[the Beetle’s] annals", for gnwt is
+feminine, hence n is not a genitive, but a preposition. James Allen missed the rest of the passage: wnw
+Hr n StA swt "[who open the face(s) of the ones inaccessible of the places]", though he himself restores
+it in Inflection, p. 679.
+
+Nt 9 (PT 586B)
+Nt 16: hj Dj.k a jr nt sk s(j) jw.s
+Allen "Suckling, you should give a document concerning Neith, for she is coming"
+Shmakov "Suckling, you should reach out (lit. give) (your) arm to Neith, for she is coming"
+
+The passage seems to have the expression Dj awj r "reach out (lit. give) arms to", cf. §§608a-b (T 185,
+2), 1090e, and Stela GMII I.1.a.5603 (4071): dj jmnt awj.s r.f "the west will give her arms to him".
+
+Nt 11 (PT 474)
+Nt 19: SfSft.f jr gswj.f
+
+380
+Allen "his ferocity at his sides"
+Shmakov "his respect at his sides"
+
+The text has SfSft "respect", not Sat "veneration" ("ferocity" after Allen).
+
+Nt 49 (PT —)
+Nt 48: [As]jr(t) Nt d(.j) n.k Hwntj Hm jmjt jrtj Hrw
+Allen "Osiris Neith, the pupils in Horus’s eyes have also been set for you"
+Shmakov "[Os]iris Neith, I have put for you two lassies (i. e. uraei) who are the two eyes of Horus"
+
+Hwntj "two lassies" seems to be a reference to uraei.
+
+Nt 203 (PT 653A)
+Nt 298: jrt Hrw j.zAt m gbb
+Allen "Horus’s eye, which went into Geb"
+Shmakov "Horus’s eye, which guards as Geb"
+
+The verb in the passage is zAj "guard", for it is spelled with the sign V16 with which that verb is
+normally spelled.
+
+Nt 210 (PT 62)
+Nt 308: jrt Hrw mAt.n DHwtj mw jm(j)w.s
+Allen "Horus’s eye, the waters in which Thoth saw"
+Shmakov "Horus’s eye, the waters in which Thoth renewed"
+
+mAt is the relative form of the verb mAj/mAw "new, become new", for in Neith’s copy there is no
+{eye} sign to suggest mAA "see". See also CT VIII, 43b (= CT VII, 62j), Sq1Sq, which gives mAt
+without {eye} sign, "which renewed"; CT VII, 465b: B3C gives mA without the {eye} sign (mA.t(j) ra
+nb "new every day"), whereas all other sarcophagi give mA with the {eye} sign; the same we see in CT
+VIII, 195c (pp. 198-199): mA.tj "new" without {eye} sign occurs in B6Bo, L-A1, Sq2Be, TT24O, but
+all other sarcophagi write it with the {eye} sign. See also the comments just below.
+
+Nt 211 (PT 64)
+Nt 309: Asjr(t) nt Dsr.k Hr.f Dd mdw m kw Sp.n.k sw
+Allen "Osiris Neith, you have been swept from him. Recitation. Look, you have blinded him"
+Shmakov "Osiris Neith, you have been elevated by means of him; recitation: (for) look, you have
+blinded him"
+
+Horus’s blinding refers to Osiris’s acceptance of Horus’s eye as a way to revive. For the collocation
+Dsr Hr "tower upon, be elevated by means of", cf. P 510, 1.
+
+Nt 216 (PT 69)
+Nt 316: Dba stS s.mAA jrt Hrw HDt
+Allen "Seth’s finger, which causes Horus’s white eye to see"
+Shmakov "Seth’s finger, which renewed Horus’s white eye"
+
+s.mAA is a geminated causative of the 3rd-weak verb mAj "new, become new", not of mAA "see" (see
+§306b where it occurs in a stative form spelled mA(.j) (W), mA.jj (T) "anew", §195c: stative mA.tj,
+§344b: stative mA(.j), §883b: stative mA.t(j); also Urk.IV:182:17: mA.tj, ibid:238:4: mA.tj: thus the
+verb’s root is mA, not mAw, cf. Wb.II:26:5-).
+
+381
+The {eye} sign that occurs in the verb is used as a space-filler under the sign {sickle} (which is an
+influence of the verb mAA "see"), cf. the same phenomenon in the word mA(j) "lion" (§§428b, 573a
+TM, 1124b, 1939a, without {eye} sign – 573a N), mAfdt "Mafdet-genet" (§§440c, 442c,1212d MN,
+without {eye} sign in §§230c, 1212d P), mA/mA-HD "oryx" (§806c PM, without {eye} sign – ibid N),
+mAH "clap" (Wb.II:30:14), mAnw "Manu" (§1272c), mAr "oppression" (CT I, 233d (B10Cb, B12Cb)),
+mAr "oppressed person" (Urk.I:255:6, 269:7; CT VII, 466e). See also the influenced spellings of the
+verb in the next texts:
+
+CT I, 200g: Hw Tw mA.t(j) ra nb "Announce yourself being new every day!" (mA.t(j), also geminated
+as mAA.t(j) (B16C), is a stative; all the sarcophagi but B10Cc give the confusing {eye} sign),
+
+CT I, 142с: jw.f r.f mj jSst Ax pn mAw.tj "How (lit. like who) should this new akh come?" (B3Bo, B4L
+and L2Li give the {eye} sign; L2Li gives the verb geminated as mAA.tj),
+
+CT I, 206f (B10Cb): nfr.T(j) mA.T(j) "being young and new like the Sun" (the sarcophagus B10Cc
+gives the {eye} sign),
+
+CT I, 240g: mA.tj ra nb "new every day" (all the sarcophagi but B10Cc give the {eye} sign),
+
+CT IV, 58f: sDr.j mA.kw rnp.kw "I spend the night being new and young" (with the {eye} sign),
+
+CT IV, 162a: psD.j mA.k(j) "I shine being new" (S1Ca and S1Chass give the {eye} sign; S1Cb gives
+{papyrus scroll}),
+
+CT VII, 45k: jw.k mA.tj "You are new" (with the {eye} sign),
+
+CT VII, 105c: mAt(j) mAt(j) "being new, new" (with the {eye} sign),
+
+CT VII, 101j: jj.n.j wr.k(j) zx[n].j mA.k(j) "I have come being great, being new" (with the {eye} sign),
+
+CT VII, 255d: jwy.k mA.t(j) ra nb "You will come new every day" (B4Bo, B1C give the {eye} sign, all
+others do not).
+
+Nt 218 (PT 71A)
+Nt 322: jrt Hrw n.xAt m-a msw.f
+Allen "Horus’s eye, which dangled from his children’s arm"
+Shmakov "Horus’s eye, which fell out of his children’s arm"
+
+The verb n.xA/n.xAxA/n.gAgA is used in the expression nxAt mnDwj "she whose breasts are dangling
+(lit. dangling of two breasts)" (§2003b) – hence James Allen’s translation of the verb in the current
+passage. But the same expression about breasts occurs with the verb s.xd "overturn, become upside
+down, hang, dangle": s.xdxdt mnDwj (§2171a). The latter verb occurs also in CT VII, 226f(=227c):
+Hnzkt.j s.xdxd.t(j) "my braid is hanging down". Thus nxAt mnDwj "she whose breasts are dangling"
+could mean "she whose breasts are hanging down" as well, and n.xA is probably the derivative of the
+root xr "fall", if it is a case of /r/ ~ /A/:
+
+gAH jArrt ~ grH jArrt "picking (?) of grape" (the name of a children’s game)"
+drp ~ dAp (§§91c, 110) "feed, present, offer",
+dAb ~ drb (Hassan, Giza I, fig. 185, p. 113) "fig-drink",
+xAsr (combined spelling of xAs/xsr (i. e. xls ~ xsl), §1150b P, Nt 788, §2158a,b,c) ~ xrsr (CT V, 388i
+
+382
+(B2L, B1P)) ~ xrs (CT VII, 393c (B9C); 441c (B1C)) ~ xsr "drive away, dispell",
+Drt ~ DAt (§§124d, g, 1703d; stela BM 574:18) "hand",
+qArt (Wb.V:12:2; CT III, 214c (41C)) ~ qAAt (CT II, 209a; CT III, 214c) ~ qrt (Wb.V:12:2) ~ qAt (CT
+II, 166f) "door-bolt"
+jAAt (§866b) ~ jArt (Budge, BD131:8) "reed sceptre"
+Xr ~ xAt (the word-play in §58b)
+qrs ~ qAs (Wb.V:14) "bury"
+sAj ~ sArj (Wb.IV:18:11) "be(come) sated, experienced" (also sAAt (§1701b) ~ sArt (Wb.V:18:13)
+"experience, wise")
+s.wArx ~ s.wAx ~ s.wrx "satiate, make to flourish" (L. E. caus. of O.K.-M.K. wAxj "become sated",
+Wb.IV:63:16)
+For the liquid nature of the phoneme /A/, see Edel, Alta. Gr., §129, 130, Peust, Egyptian Phonology,
+pp. 127-132, and Ancient Egyptian Language (AEL) Email List (http://www.rostau.org.uk/AEgyptianL/archives/index.html), the posts by J. P. Allen (Forwarded by Geoffrey Graham) of 27 Jun 1998 and
+30 Jun 1998.
+
+Nt 241b (PT 665 D)
+Nt 735-36: wn n.k zmzrw(j) xsfw(j) THnw
+Allen "The ram-bolted gates that bar Libya have been opened to you"
+Shmakov "The double blocking(?)-gates (zmzr) that bar Libya have been opened for you"
+
+James Allen probably reads the zmzrw(j) of this passage as *z m zrw(j) "the (gates’) bolt as two rams",
+hence "the ram-bolted gates". But such a suggestion is very arguable: the two {ram’s head} signs (i. e.
+mutilated {ram} signs) that occur in the spelling of this word in §1726b M are probably merely the
+phonetical influence of zr "ram", just like the {head of bubalis} sign of SsA "bubalis" appears in SsAw
+"tongue" (§127b MN), SsAt "night" (§§568a P, 1761d) and SsA m "be(come) aware of" (Leclant, Pepi
+I, pl. 22, col. 64, PT 698B) (see T 228, 10).
+
+2)
+Nt 737-738: wDa(.j) n.k zArw.k Hrw js jmj pr.f s.fxx(.j) n.k mDwt.k stS js jmj tAxbt
+Allen "Your shackles have been severed as Horus in his (royal) house, your hobbles loosened as Seth
+in Takhbit"
+Shmakov "I have removed your shackles for you being Horus in his house, I have loosened your
+hobbles for you being Seth in Takhbit"
+
+Neferkare’s first copy of this passage and spell has sDm.n.f with the 1st person suffix, showing that
+Neith’s copy probably also has an (unwritten) 1st person suffix:
+
+Jéquier, Pepi II, pl. VI, col. 709+10-11: wDa.n(.j) zArw.k Hrw [js jmj pr.f s.fxx.n(.j) n.k jt(j) pjpj nfrkA-ra  mDwt].k stS js jmj tAx[bt]
+"I have severed your shackles [being] Horus [in his house, I have loosened for you, father Pepi
+Neferkare], your [hobbles] being Seth in Takh[bit]"
+
+PT 665A, Nt 664-665: wHa(.j) n.k zArw.k Hrw js jmj pr.f s.Sm n.k mD(w)t.k stS js anx tAxbt
+"I have untied your shackles for you being Horus in his house, I have dispelled(?) your hobbles for you
+being Seth in Takhbit"
+
+The unknown verb s.Sm in the latter passage must have a meaning similar to sfxx "loosen" and xAa
+"throw away, cast off" (see below) and is probably a variant of s.Sn "topple, destroy" of §1121b (cf.
+also s.Sm (CT I, 289a (T9C)) ~ s.Sn (ibid, Sq3C)), being a rare case of /m/ ~ /n/:
+
+383
+
+gmHsw (§250c) ~ gnHsw (§1048d) "hawk",
+Tm ~ Tn "you" (feminine dependent pronoun),
+DAnw (§1206a) ~ DAmw (M.K., Wb.V:523:4-5) "youngsters, young men",
+kAn (Wb.V:107:6) > kAm (Wb.V:106:3) "vineyard", kAnw (O.K., Wb.V:107:8) > kAmw (N.K.,
+Wb.V:106) "wine-grower",
+dng ~ (?) dmg "dwarf" (Junker, Giza V, p.186, Abb.58).
+See also Edel, Alta. Gr., §123).
+
+PT 703, §2202a: jj n.k Hrw wDa.f zArw.k xAa.f mD(w)t.k
+"Horus has come to you that he may remove your shackles and throw away your hobbles".
+
+3)
+Nt 738: jAmA n Srt
+Allen "Pleasant to your nose"
+
+There is no pronoun .k "your" in the text.
+
+4)
+Nt 741: Hm Dd.T
+Allen "Come too"
+Shmakov "Turn too"
+
+The verb is Hmj "turn", not jj or jw "come".
+
+5)
+Nt 745: rn.Tn pw pnn n Hnkt…rn.Tn pw pnn n wAg{.k}
+Allen "this here is (it, in) the distinguished identity of the endowed offering…this here is (it, in) the
+distinguished identity of the supplied offering"
+Shmakov "this here is your identity of the gift…this here is your identity of the present"
+
+Tn after rn "name, identity" is probably not a participle of the verb Tnj "distinguish" (Allen), but
+sooner the plural suffix .Tn "your", referring to both Horus and the deceased, for rn "name, identity"
+cannot be indefinite in the PT, usually it has some suffix-pronoun. Cf. also Neferkare’s copy, Jéquier,
+Pepi II, pl. VI, col. 709+13: rn.Tn pw n Hnkt "this is your identity of the gift".
+
+6)
+Nt 746-747: rn.k pw…n Hrw dAtj n Hw sn n abS sn n skj sn Hw.k sn abS.k sn sk.k sn
+Allen "this your identity of Horus of the Duat…of the one who strikes them, of the one who spews
+them out, of the one who wipes them out, and you will strike them, spew them out, and wipe them out"
+Shmakov "this your identity of Horus of the Duat…of the one who strikes them, of the one who
+swallows them, of the one who destroys them, and you will strike them, swallow them, and destroy
+them"
+
+For the meaning of the verb abS, see W 222, 1. This passage is about stars that disappear behind the
+horizon (the place where the Duat is) once a year, an occasion that is depicted here as them being
+destroyed by Horus of the Duat (see also P 313a, 2). The same note (including the meaning of the verb
+abS) is valid for PT 700, §2186b.
+
+384
+7)
+Nt 747-748: Hms.k Hr xnd.k bjA bjAw n.f m(w)tw
+Allen "sit on your metal throne from which the dead are far away"
+Shmakov "sit on your copper throne at which the dead marvel"
+
+bjA n is not bjA r "be away from"/"be away to", it is probably "marvel at", cf. Urk.IV:612:6: b(jA)y.j
+n.k "I marvel at you". Moreover, James Allen himself recognizes this reading in PT 673, §1992b-c:
+j.Hms.tj...Hr xndw pw n bjA bjAw n.f nTrw, which he translates as "Sit on the chair of metal at which
+the gods marvel".
+
+8)
+Nt 751: m SsAt jr(j)t Hr.Tn sDrw
+Allen "Behold the she-centipede that is on your face, sleepers!"
+Shmakov "Behold the ointment that is on your face, lying ones!"
+
+In Neith’s pyramid the word is SsAt "ointment", not spAt "she-centipede" that occurs in Pepi’s I
+pyramid.
+
+9)
+Nt 752: wn n.k aAwj pt j.zn n.k aAwj qbHw pr.k m.sn m wpjw
+Allen "The sky’s door has been opened to you, the Cool Waters’ door has been pulled open to you, that
+you may emerge from it as Parter"
+Shmakov "The sky’s door has been opened to you, the Cool Waters’ door has been pulled open to you,
+that you may emerge in it as Parter"
+
+The pronoun .sn in jm.sn probably refers to qbHw "Cool Waters", which as any water must be plural in
+Egyptian. For prj m as "emerge in", see P 528.
+
+10)
+Nt 761: hA nt pw j.rx.k(j) jr nw nj xm jz jmj Dr Hr Tnj rn
+Allen "Ho, Neith! I know this; I have not ignored the tomb which is the limit of the vision of him
+whose identity is distinguished"
+Shmakov "Ho, Neith! I know about this: the tomb which is the limit of the vision of him whose
+identity is distinguished cannot be desecrated"
+
+The verb xm "not to know, loose knowledge of" usually has the {stretched arms as a gesture of
+negation}-D35 sign after the m-{owl} sign or between x and m, but as neither is the case in this
+passage,  the verb used here is actually xmj "desecrate" (see W 169, 5).
+
+Nt 242 (PT 666)
+Nt 763: sw sw mr sw
+Allen "It is dangerous, it is painful"
+Shmakov "He (i. e. that ram) is dangerous, he is painful"
+
+The dependent pronoun sw refers to bA pf "That Ram", not to the noun pr "house".
+
+2)
+Nt 769-770: Hms r.k Hr gs.k wnmj...wab wp sA.k jr jnb a.k Hr xAt.k
+Allen "sit on your right side..., clean, with your back to the wall and your arm on your offering stand"
+Shmakov "sit (pushed) from off your right side...Become clean, part your back from the wall, (put)
+
+385
+your arm on your offering stand"
+
+There is a wp sign at the very bottom of the col. 769 after wab plus {horn pouring water} determinative
+(see also Faulkner, Suppl., §1938d). Pepi Meryre’s version (Leclant, Pepi I, pl. II B, col. 71) gives:
+Hms r.k Hr gs.k jmnt(j) Hms.k Hr swt ra wab.tj sA.k jr jnb a.k Hr xAt.k "sit (pushed) from off your
+right side. You shall sit on the Sun’s seat, clean, your back from the wall, your arm on your offering
+stand!", i. e. we have two non-verbal imperatives (see P 318, 2): sA.k jr jnb "your back from the wall!"
+and a.k Hr xAt.k "your arm on your offering stand!". For the reading "sit (pushed) from off your right
+side", see T 228, 6.
+
+3)
+Nt 770: xr Hrw Hr jb wsxt
+Allen "with Horus in the midst of the broadhall"
+Shmakov "from Horus from the midst of the broadhall"
+
+4)
+Nt 771: xnp.k Sbtjw Hr nmt
+Allen "snatch ribs from Horus’s slaughterhouse"
+
+There is no Hrw "Horus" in the original: "snatch bundles (of ribs) from the butcher’s block". For Sbtjw,
+see  P 32, 4.
+
+5)
+Nt 774: jr n(.j) stj(.j) xr nswt
+Allen "as I have made my place with the king"
+Shmakov "my replacement (i.e. my duty) has been done for me by the (current) king"
+
+For the preposition xr meaning "by", see T 142. Neferkare’s copy has in §1942b: jr n pjpj nfr-kA-ra
+stj.f xr nswt "Pepi Neferkare’s replacement has been done for him by the king" ("as Pepi Neferkare has
+made his replacement with the king" after Allen (P. T., N 339, p. 358)).
+
+Nt 243 (PT 667A)
+Nt 484, 775: nfr.w(j) n mAw...aHa Asjr(t) m r nTrw.k nt pw
+Allen "“How beautiful to the sight...is Osiris’s stance” is in the mouth of your tomb’s gods, Neith"
+Shmakov "How beautiful to the sight...is Osiris’s standing in your (offering) chapel “Mouth of the
+Gods,” Neith"
+
+The fact that Osiris is standing (i. e. is not lying on his side) is probably emphasized, rather than
+Osiris’s pose in a generic sense. For the chapel “Mouth of the Gods”, see PT 511, §1156a: Szp.f abA
+xrp.f r nTrw "He will receive an offering slab, he will govern (the offering chapel) “Mouth of the
+Gods”", PT 534, §1275a-b: jw jwt pjpj Hna kA.f wn r nTrw.f "Should Pepi come with his ka, open his
+(chapel) “Mouth of the Gods”", §1276a-b: jw jwt pjpj Hna kA.f wn n.k awj.k n.f wn r nTrw.f "Should
+Pepi come with his ka, extend (lit. open) your arms to him, open his (chapel) “Mouth of the Gods”".
+Compare it with the names of the buildings on the Palermo Stone which have the model Y nTrw "Y of
+the gods": smr nTrw "Companion of the gods" (Wilkinson, Annals, p. 98-9, 246), q(A)w (?) nTrw
+"Hills (?) of the gods" (ibid, 114), swt nTrw "Places of the gods" (ibid, 111-12, 114-15), qbH nTrw
+"Coolness of the gods" (ibid, 139).
+
+2)
+Nt 778: n Hrw zxn.f jt(j).f Asjr(t)
+
+386
+Allen "for Horus when he embraces his father Osiris"
+Shmakov "for Horus who seeks his father Osiris"
+
+For the meaning of the verb zxn, see W 41.
+
+3)
+Nt 782: Swwt.k tp rmnwj
+Allen "your plumage on your upper arms"
+
+James Allen is absolutely right here, the sign in question is {sceptre} with phonetic value rmn
+"shoulder, upper arm", and is used in an Old Kingdom title that was unintelligible till now: rmnwtj
+jnpw "Anubis’ companion" (Jones, Titles, # 2501; also occurs in CT IV, 352a). Moreover, the
+expression occurs in PT 582, §1560c: Swwt tp(jw)t r(m)nwj.f "the plumage that is on his upper arms".
+But in Pepi Meryre’s version of the passage (burial chamber, south wall, col. 76) the signs are two
+qaH-signs and represent {cup with smoke and stylized fire} (sometimes looks like M66) – it is written
+out phonetically in Nt 491. Thus Pepi’s and Neith’s (Nt 491) versions have Swwt.k tp qaHwj.k "your
+plumage on your elbows". The sign {cup with smoke and stylized fire} is used in the verb qaH in
+§§470c, 914a, 1432b. Pepi’s version of the sign in §914a and burial chamber, south wall, col. 76
+undoubtedly represents {cup with smoke} (cf. its determinative in Urk.I:124:14, 126:1; CT V, 103c
+(Sq2Sq) which is {smoke}-Q7b).
+
+Nt 244 (PT 667B)
+Leclant, Pepi I, pl. II B, col. 80, Jéquier, Pepi II, pl. 10, col. 743: xA.k m xt nb(t) bn(j)t Htm Tw m nTr
+Allen "your thousand of everything sweet that provides you as a god"
+Shmakov "your thousand of everything sweet. Provide yourself as a god"
+
+This passage has been omitted in Neith’s pyramid, the reading is from the copies of Pepi I and
+Neferkare. Htm Tw is imperative "provide yourself!", not participle:  the spelling H-{Htm-goose}-t
+which looks like having a t ending that agrees with the preceding feminine xt, actually has the middle
+radical t spelled at the end, although correctly it must be placed right after the initial H, cf. the same
+spelling in §§29a,b, 40b, 188b, 189b N, 190b N, 191b, 843b MN, 901a N, 2094b, 2097a, 2101a.
+
+Nt 250 (PT 665A)
+Nt 660: abA.k m a.k…Tnw.k xAww jT.k a.k jr j.xm(w) sk
+Allen "Your baton is in your hand…You shall number those of the night and use your arm to (direct)
+Imperishable Stars"
+Shmakov "Your baton is in your hand…You shall subordinate those of the night and use your arm
+against Imperishable Stars"
+
+We probably have two aggressive actions in the passage, not friendly ones, cf.:
+
+PT §676b: j.TT tjt a.f jr.k mwt.k "When Teti uses his arm against you, you will die"
+
+CT I, 290h-291f: xr n.k xAtjw Hr Hr.sn ksy n.k j.xmw sk jA N pn aHa.k r.k r.sn mks.k Hr r(m)n.k Hwj.k
+a.k r.sn xr.sn n.k m S(j) wr
+"xAtjw have fallen for you on their face(s) (in homage), Imperishable Stars have bowed down for you,
+oh N, (anyways) you should stand up against them (with) your sceptre on your arm and use (lit. strike)
+your arm against them, that they fall for you into the Great Lake".
+
+As can be seen, the deceased is asked to be aggressive, though none of the beings is aggressive to him,
+
+387
+instead all beings pay homage to him. The Imperishable Stars, who are always friendly, suffer from the
+deceased’s aggression as well as the xAtjw who are sometimes supposed to be dangerous for him.
+
+PT 219, §179c: Tnw awtt.f jn nTrw
+"his limbs have been subordinated (?) by the gods"
+
+The verb Tnw "count" probably does not have its literal meaning in the passage, for the passage is not
+about finding out the number of the deceased’s limbs (six, seven, etc.), but about subordinating,
+making them obey, i. e. be functional; cf. the same meaning of the verb jp "subordinate", which has the
+meaning "count" as well, in N 411.
+
+Besides, the act of numbering may indicate that somebody is or will be the property of the person who
+performs that act, hence it is a good thing if one can avoid getting counted:
+
+CT II, 151e: nHm m-a jrw n stX m-a Tnwt nt Ast wrt Hr rmnwj Asjr(t) nb jmnt
+"(my whole my family and my relatives) saved from the stock-taking of Seth, from the great count of
+Isis, next to (lit. on the arms of) Osiris, Lord of the West".
+
+CT II, 203b-204b: jw nHm.n st N pn m-a jrw n Ast m-a Tnw nwt m-a jrw aA n rwtj
+"N has saved them from the stock-taking of Isis, from the count of Nut, from the big stock-taking of
+Lion and Lioness"
+
+The terms jrw and Tnwt used here are usually employed for cattle stock-taking, see P 465, 3.
+
+2)
+Nt 661-663: hA nt pw ja.w(j) qdd Hr.w(j) bAn…j.rs Tz Tw jr.k nt pw

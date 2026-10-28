@@ -1,0 +1,528 @@
+2
+
+CRITICAL ANALYSIS OF
+
+J. P. ALLEN’S "THE ANCIENT EGYPTIAN PYRAMID TEXTS"
+
+by
+
+Timofey T. Shmakov
+
+PRELIMINARY RESULTS
+
+Edited by A. K. Eyma
+
+Omsk-Tricht, 2012
+
+3
+
+   source: http://www.ancient-egypt.org/
+
+swt jrr nTrw.f m zSA nj zjn.f
+"He is the one who put his gods in a writing1 that cannot be erased"
+(painted plaster from the mastaba of Nefermaat and his wife Itet)
+
+1 i.e. recorded them.
+
+4
+
+To my mom, Elena Leonidovna, who had patience with me making long hours, and to my
+friend, Marina Sokolova, who taught me a lot of things.
+
+5
+TABLE OF CONTENTS
+
+Dedication
+4
+Foreword
+6
+Lexicon
+7
+Part I:     Unis’s PT corpus [W]                                          12
+Part II:   Teti’s PT corpus [T]                                           175
+Part III:  Pepi Merire’s PT corpus [P]                               241
+Part IV:  Nemtiemzaf Merenre’s PT corpus [M]
+345
+Part V:   Pepi Neferkare’s PT corpus [N]                         354
+Part VI:  Neith’s PT corpus [Nt]                                       379
+Supplemental Notes                                                          391
+Bibliography                                                                     402
+
+Copyright © 2012 Timofey T. Shmakov
+All rights reserved. No part of this work may be reproduced or transmitted in any form or by any
+means without reference to the work and the author.
+
+6
+Foreword
+
+The Pyramid Texts constitute the most ancient written text corpus of such a size to have reached us.
+They reflect the images of the ancient Egyptians about the life of a king after physical death and
+present a rich source of philological material still in need of urgent study. The correct reading of these
+monumental texts is necessary for an integral understanding of the funerary cult of a king. Important
+work in the field of the Pyramid Texts has been done by James Allen. Due to the work of this
+outstanding scholar, we have essentially enriched our knowledge of the language of these ancient texts.
+Since the editing by Prof. Allen of his translation of the Pyramid Texts in the year 2005 (J. P. Allen.
+The Ancient Egyptian Pyramid Texts. Society of Biblical Literature, Atlanta), his work has become
+the standard. However, as our knowledge of language steadily grows it is apparent that there is still
+much to be done. The present work is an attempt to thoroughly look into the whole PT corpus to add
+to, and sometimes to contradict, the readings suggested by Prof. Allen.
+
+Several new suggestions will be presented on these pages, e.g. the discovery of the collocation bA m
+"make an impression/affection on, impress/affect" (W 134, 2). Moreover, it has been observed that the
+ending -tj/wtj (as a variant of the t-ending) was a common feature of the attributive forms (relative
+forms, participles), for instance there is more than one example of the relative perfect spelled sDmtj.n.f
+(a variant of the more common sDmt.n.f) and many sDmtj.f relative forms (W 155, 4, T 203, 3). The
+work also proposes that spellings like mrjj n jt(j).f should be interpreted as perfect relative "whom his
+father loves" (i.e. mrjj.n jt(j).f, the same was proposed by James Allen), taking into consideration the
+number of instances in which the perfect of 3rd-weak verbs has a final double reed-panicle (P 517, 1).
+One characteristic of the present work is that some words are not considered as independent semantic
+units but as a variant spelling of (an)other word(s) for the sake of word-play or as an unknown dialectal
+form. For instance, the verb drp "feed, present, offer" may be spelled /dAp/ just to make a word play
+between this verb and the noun dAb(w) "figs" (a case of /A/ ~ /r/ ~ /n/ ~ /l/), the verb wAH "lie" could
+be spelled with two allophones as mnH in the stative form: PT 554, §1371b: abA.k mnH.j m Drt.k ~
+Jéquier, Pepi II, pl. 6, col. 709+2: abA.k wAH.j m Drt.k "your baton lies in your hand" (W 166, 1). In
+addition, more instances of a 1ms pronoun have been found (T 204, 1, 4). The work suggests a lot of
+new readings; it also provides support to many of the readings by Prof. Allen. Of course, the readings
+proposed in this work do not claim to be the final word on the matter, their aim is to give food for
+thought on the correctness of translation of some passages in this large corpus..
+
+If you have comments or suggestions, or would like to signal a mistake, please write to the author:
+tshmakov@yandex.ru.
+
+7
+LEXICON
+(only words read differently from Allen’s reading, separately or within a passage)
+
+Awt "ration" (W 145, 2)
+Ax(w) "effective power, akh-magic" (P 31, 2, P 303, 2)
+Axw "effective power, akh-magic" (W 150, 1, W 180a, 7)
+Axt "Behind the Horizon, Transhorizontal (realm/area)" (Supplemental notes, Notes on gods’ names
+& epithets and on place names, 13)
+Agbgb (~ Axbx) "move, dance" (T 225, 2, P 357, 2)
+
+jAA "sunshade" (W 160, 1)
+jAb "miss" (W 155, 4)
+jw(j) "wreck" (P 463, 2)
+jwn(.w) (stative form) "all together" (N 404, 2)
+jp "subordinate, subject, subjugate" (W 148, 3), "recognize" (T 145, 8)
+jm(j) "not do, not act" (semantic/main verb) (T 145, 4)
+jm(j)w-bAH "ancestors (lit. those who were before)" (W 224, 4)
+jmn rn.f "The One Who Hides His Name" (W 180a, 8)
+jns "pink-colour" (P 510, 4)
+jrw "census" (in jr jrw "carry out census, take accounting, take stock") (P 465, 3)
+jxt wtt(t) "Firstborn Thing" (M 50, 1)
+jkw "chop up, root up (? the earth)" (N 360)
+jzkn "the sky’s western horizon" (W 140, 3)
+jdAt "patty" (W 84)
+
+wart "thigh" (T 227)
+wp(j) "settle, stop" (W 168, 4), "deliver, discharge, disgorge" (of belly) (M 2)
+wp wAwt "Paths Discerner", Paths Discoverer" (W 155, 10)
+wpt "instructions, business" in m wpt "on the instructions (of), on the business of" (P 466, 1)
+wn "hold out (hand/arm), offer (hand/arm)" (N 428, 4)
+wrm "grow" (T 163)
+wHm "declare, announce" (W 142), "carry out" (W 180b, 8)
+wsrt "(bull’s) neck" (W 223)
+wtT "waldrapp" (T 202, 3)
+wdHw "offering ration, food receipt/supply" (T 276, 2)
+wDA jb "inform" (P 466, 3)
+wDH "let you grow adult" ? (T 228, 5)
+wDb "distribute" (W 136)
+
+aA "(sarcophagus’) lid" (T 225, 6)
+abw "impurity, uncleanness" (W 155, 7)
+apr m "experienced in" (P 324, 2)
+arrt "(false) door" (W 165, 14)
+axt "burning" (N 347, 1)
+aSm "delight" or "invoke reverence, fill with awe" (W 180b, 5)
+ag(w)t (~ ax(w)t) "roasted patties" (W 125)
+
+bA m (collocation) "impress, affect" (W 134, 2)
+bAt/bAbAt "groats" (W 127)
+bjA "water smooth surface" (W 168, 1)
+
+8
+baH(j) m (collocation) "be/become satisfied with" (P 334)
+bn "become erect" (P 312, 1)
+
+pAx "scratch, itch" (T 9, 1)
+pAz (~ pnz) "overturn, turn upside down" (W 78)
+pAqt "?" (N 430)
+psD "resist" (T 145, 4)
+psDt (pDwt) "Nine (Arcs of the sky)" (W 151, 1, N 359, 3)
+pSr/pXr "food supply" (P 37)
+
+fA(j) "give, present" (N 359, 4)
+fx "shed, get rid of, purge, purify" (W 155, 7)
+
+mAa "pull" (W 165, 4)
+mAat "leading boat" (N 32, 2)
+mAn "view, sight" (W 167, 2)
+mADw "(desert’s) dunes" ? (W 205)
+m.aHA "fighting arm" (W 206, 3)
+m(j) (subjunctive sDm.f and imperative) "see" (W 211, 2)
+mm/m(j)m(j) "move" (T 196, 5)
+mjnj "the one of the pavilion" (P 319a, 1)
+mjnt "Moorer" ?, mjnnt wrt "Great Moorer" (N 70, 3)
+mnH (~ wAH) "lie, rest" (W 166, 2, iii)
+mr nxA "Curved Canal"
+mHt wrt "Great Marsh" (W 165, 11)
+mHt(j)t/mHt(j)t jwnw "She-Northerner"/"Heliopolis’s She-Northerner" (the epithet of the goddess jw.s
+aA.s) (P 467, 8)
+mz "come up (to)" (W 94)
+mst "?" (P 520, 1)
+mSA/mXA "get worried, excited" (P 333, 1)
+mdw(j) (transitive) "introduce, present" (P 4, 3)
+mdw(j) Hr "deputize for, advocate, speak on behalf of" (P 36, 4)
+mds "cutter, slicer" (W 180a, 13)
+
+nwr "to be unsettled" ? (P 30, 3)
+nwtj.k nw "your Hostile One" (P 50)
+nfr "fair (of name)" (W 173, 3), "right, straight (of way)" (P 38, 4)
+nhp "awake (from sleep or death)" (W 152, 1)
+nH "idol" (W 206, 2)
+nxb(jj) "Nekhbite" (W 170, 3)
+nxbt "lamp, lighter" (W 170, 3)
+nxn "grow up, mature, evolve" (secondary meaning of the primary "endure") (T 248, 2)
+nxn "food workshop, kitchen" (T 286, 2)
+nzr "fulfill, accomplish (desire)" (W 153, T 203, 3)
+nzrt "Fulfiller" (W 153)
+nSbSb "salivate, drool" (W 67-68)
+nSf "spittle" (W 5, 1)
+nkAkA (~ nxx/nxjxj) "endure, last" ? (W 48, 1)
+nkjkj (~ nxjxj) "endure, last" (W 48, 1)
+ngA "to butt, gore" (W 219)
+
+9
+nt "basin, spring, watery area" (W 171, 2, P 467, 7)
+ntjw "those who have passed away, ancestors (lit. those who were)" (W 144)
+nTr aA "elder god" (Supplemental notes, Notes on gods’ names & epithets and on place names, 8)
+nTr nfr "junior god" (Supplemental notes, Notes on gods’ names & epithets and on place names, 8)
+nTb "shine" (W 180a, 5)
+ndfdf "to water" (W 145, 1)
+nD m-a (collocation) "tend/help out from" (P 4, 4)
+nD Hr (collocation) "tend the face, greet" (N 511, 1)
+
+r nTrw "Mouth of the Gods" (chapel’s name) (Nt 243)
+rnpwt "fresh provisions" (M 284, 2)
+
+hh "hot breath" (T 17)
+
+H(wj) "thresh, step" (T 204, 4)
+HAt(j) "(bull’s) heart" (W 148, 3)
+HwAAt "putrefying liquid" (P 526, 3)
+Hwwt nt "Watery Area’s enclosures" (W 54, 2, P 467, 7)
+Hbnnwt "scones" (W 82)
+Hmwst "Neith’s fetish" (W 180a, 4)
+Hn "resolved, enacted" (P 519, 4)
+Hnkt "gifts" (W 133)
+Hr "look, gaze, glance" (T 264, 2)
+Hrt "(Celestial) Distance" (W 159)
+Hzmn "natron-cleanse, wash with soda solution" (W 22, 2)
+Htp "altar" (W 165, 8)
+Htp m (collocation) "become sated with, have enough of" (W 168, 3)
+Htpt "nourishment" (W 180a, 9)
+Htmwt "Htmwt-canal" (W 212, 2)
+
+xAa "deliver" (W 180a, 10)
+xAtA ? (P 321, 3)
+xAD "dough" (P 337, 2)
+xwrr "newborn (calf)" (W 151, 1)
+xpr "Evolved One" (W 168, 2)
+xm(j) "desecrate" (W 169, 5)
+xmx "not know" (W 64, 1)
+xnfw "pancakes" (W 81)
+xnms "“Friend” (beer)" (W 64, 2)
+xnmt t "she-bread-cook" (T 194, 1)
+xr "from" (W 140, 4), "by" (T 142)
+
+Xn "interior" (T 185, 1, T 181, 3)
+Xnm see Snm
+
+zAj "guard, detain, restrain" (W 175, 5)
+zAb aD mr "governor" (P 311, 3, N 359, 3)
+zAbwt "issue, outflow" (W 180a, 3)
+zmjn "soda solution" (W 22, 1)
+zmjn m (collocation) "introduce to" (P 501, 1-2)
+
+10
+znwt "ruin" (W 165, 14)
+zH "(dining)-booth" (W 143, 3)
+zxn/zx(j)n "seek" (W 41)
+zxn wr "Great Explorer" (W 155, 2)
+zSS "pull out (papyrus)" (W 178, 1)
+
+sAw "offering slab" (P 292, 1)
+s.Ax m (collocation) "turn into" (P 31, 3)
+saH m (collocation) "dignify/title/rank into, appoint" (P 31, 2)
+swt(j)t "substitute" (W 69)
+s.b(A)q "become bright, luminous" (W 176, 2)
+s.bn "make rise, show, manifest" (W 180b, 8)
+s.bSw "bloodletting" (W 180b, 12)
+spAtj nTr "the God’s Two Districts", i.e. the sky (Supplemental notes, Notes on gods’ names &
+epithets and on place names, 6)
+spH "lasso, tie" (W 165, 9)
+spHt "bundle" (P 32, 4), "skeleton, chest" (W 5, 1)
+s.fkk (~ s.fxx) "become free, release, let loose" (W 48, 1)
+s.fg jrw "Form Discarder" (P 376)
+s.mnt(j)t "Westernizer" (N 70, 3)
+s.hA(j) "launch" (P 324, 1)
+s.Hm "cause to turn" (W 59)
+sxm "power-bearer"
+s.zwn (~ s.zwr) "drink, feed" (W 106)
+sSm(j) "make (a path)" (W 168, 2), "distribute" (meals) (N 511, 4)
+sSr Dwjw "sSr-bowl and Dwjw-jar" (W 113)
+sq(j) wdnt "give a signal, beat a gong" ? (P 357, 2)
+sq(j) Dbw "give a signal, beat a gong" ? (W 165, 4)
+st jb "liking" (W 180b, 17)
+st(j) "pour (water)" (W 5, 2)
+stp "cut off, sever" (P 337, 1)
+s.DH "adult (snake)" ? (W 195)
+
+Sa (or Sa(j) ?) "combine, sheaf" (T 203, 2)
+Sat "veneration"
+Swtj "a pair of horns (lit. feathers)" (T 228, 4)
+Smst "Smst-fetish (of Mafdet-genet)" (W 5, 3)
+Snm/Xnm "shield" (W 165, 7)
+Sns "(bread) loaf" (W 79)
+Ss "alabaster vases (with unguents)" (T 225, 4)
+Sdj "suckle, rear, bring up" (P 357, 3)
+
+qrqr "heat, warm up" (P 321, 1)
+qd "to model" (W 206, 3)
+
+kApt "mould" (W 180b, 2)
+kAr "ark"
+kf(j) "bend (arm)" (W 207, 2)
+knzt "the sky’s eastern horizon" (W 140, 3)
+ktjt "slaughtering block" (W 180b, 9)
+
+11
+
+gnm (~ xAm) "hurry, hasten" (W 180a, 2)
+
+t wt "emmer bread" (W 61, 2)
+t rtH(t) "baker’s bread" (W 62)
+tAjt "linen fabric" (W 54, 1)
+tAjt(j)t "she of linen fabric, linen shroud" (W 54, 1)
+twr "to be wary, beware" (W 143, 2)
+tjxtjx (~ txtx) "outcast, loner" (W 179, 2)
+trw "seasons" (P 464, 5)
+
+TAz "set, spring up, form" (N 347, 2)
+THnw "Libyan cedar oil" (W 52)
+
+dAp "feed" (W 114)
+dwAt "morning" (P 38, 3, P 458, 1)
+d.nxnx / d.nx(j)nx(j) "give endurance/duration, add lifetime" (N 359, 2)
+
+dSrw "blood" (W 165, 13)
+
+DbA m (collocation) "robe in" (W 54, 1)
+Drb "?" (W 99)
+Dsr "restricted, exclusive, hidden (land, road), sacred" (T 145, 7), "shout" (ibid), "beat/blaze (path)" (P
+31, 5)
+Dsr Hr "tower upon/due to, be elevated by means of" (collocation) (P 510, 1)
+Dsrt "a table (with meal)" (W 38, 1)
+Dsr(t) wAst(j)t "Theban strong ale" (W 108)
+Dt "person, self" (W 175, 3, N 72), n Dt "personal, own" (ibid)
+Dt "Dt-time" (T 196, 9)
+Dd "pause, delay" (T 196, 9)
+
+12
+Part I: Unis’s PT corpus
+
+W 1 (PT 226)
+§225b: Sn bHz xAb jbHw pr m Hzp
+Allen "the toothless calf that emerged from the garden has been entwined"
+Shmakov "the calf with crooked teeth that emerged from the garden is entwining"
+
+We do not have any other examples of xAbw that could suggest that this word would mean "toothless":
+the example in the current passage is unique, hence Wb. doesn’t give any meaning for this word
+(Wb.III:229:15). Moreover, the normal designation for "toothless, suckling calf" is bHz jrTt(j) (§27d,
+lit. "milk calf"). The word xAbw or xAb jbHw (due the presence of the bH-{tusk}-F18 sign which is
+carved much clearer in the copy of Senusert-ankhu (Hayes, The Texts, col. 474)) rather seems to mean
+"crooked (teeth)" or "crooked of teeth", from a root SAb/XAb/xAb (for /x/ ~ /X/ ~ /S/ in these word and
+others, see W 88). "Calf crooked of teeth" would be a metaphor for a snake whose only pair of teeth is
+also crooked (cf. Allen’s note 6, page 61).
+
+W 2 (PT 227)
+§227b: xs(r)
+Allen "God-expelling scorpion"
+Shmakov "Expelling scorpion (?)"
+
+The nTr-{cloth wound on pole}-R8 sign seems to stay for s-{folded cloth}-S29, because it faces
+unnaturally backwards and is inserted between x and {arm holding stick} (cf. similar spelling xs(r) in
+§§1244b PM, 2158c), which is strange should it really be a "god".
+
+W 3 (PT 228)
+§228a: xr Hr r Hr mAn Hr Hr prj nm km wAD r.s
+Allen "Face has fallen on face, face has seen face. The dappled knife, all black and green, has
+emerged"
+Shmakov "Glance has caught (lit. fallen (on)to) glance, face has seen face. The black and green knife
+has emerged against it"
+
+The word Hr has the meaning "look, gaze, glance" in this passage, not the literal "face", see T 264, 2.
+The sign {foxhide}-F27/28 that occurs in this passage isn’t a phonogram sAb "dappled". It seems to be
+a phonogram for nm (occurs in knm (§1197b) and knmwt (§§1226e N, 1462a Pb)), together with nm-
+{butcher knife}-T35 making nm "knife". Hence the sign F27/28 plays the role of the complementary
+unnecessary sign. Cf. Teti’s version of the similar spell PT 290 (§§431a-b) that has nm km "black
+knife" without F27/28 (the only difference between W and T is the sign for km). Note also that when
+the {foxhide} stays for sAb the complementary s is usually spelled (§1211c; Urk.I:81:1, 135:9, 177:11;
+L.D.II:21). Allen ignores r.s in this and §§431a-b passages, however he reads its variant in Neith’s PT
+290, Nt 716: prj…r.k "has emerged…against you".
+
+W 4 (PT 229)
+§229a-b: ant tw nn nt tm…s.zAt Xnw m wnw
+Allen "This is the fingernail of Atum…the one that stripped chaos from Hermopolis"
+Shmakov "This is the fingernail of Atum…that removed disturbance from Hermopolis"
+
+The meaning of the causative verb s.zA is "remove", literally "make betake oneself ", "make leave". It
+may be compared with the verb s.rwj "remove", which likewise literally means "make go away",
+"make depart". Cf. also PT 518, §1197e: s.zA.jn.sn mnxt.sn "Then they removed their linen garment".
+
+13
+
+W 5 (PT 230)
+§230a: nSfwj.k m tA spHt.k m bAbA
+Allen "Your two drops into the earth! Your two ribs into the hole!"
+Shmakov "Your two (poisonous) spittles are in the earth, (snake), your skeleton is in the hole"
+
+The word spHt has the meaning "bundle, knot (of ribs)", not ribs themselves. The two {rib}-F42 signs
+as the determinative of this word came about under the influence of spHt (nt) spr "bundle (of) ribs",
+see P 32, 4, and their quantity (two signs) probably doesn’t indicate the dual number of spHt (cf. CT
+VII, 3t). In this passage it probably rather has the meaning "a bundle (of ribs/bones)", i. e. skeleton,
+chest, cf. CT V, 208a: psD gbb spHt Ast Snaw nHb-kAw r<n>.s "its (i. e. bank’s) name is spine of
+Geb, skeleton of Isis, chest of Apportioner of Kas" (cf. also ibid, 203d, CT VI, 38e). For the meaning
+of nSfwj, cf. PT 285, §426a: jw nSz(wj).k jr Szw(j).k "(Put) your two (poison) drops to your two cups (i.
+e. poison-glands ?)!" (the snake is subsequently ordered to keep the poison within glands). Note that
+both nSf and nSz contain the root nS (for its meaning, see W 67-68).
+
+2)
+§230b: st mw aHa Drtj
+Allen "Shoot liquid and the two kites will stand up"
+Shmakov "Water has been poured, the kite and the screecher have stood up"
+
+The verb form in st(j) mw is probably a passive sDm.f, the action referring to the fulfilment of that
+what had been asked for by the deceased. Rather than being a command to the snake, for it is not
+probable that there is any connotation of mw "water" as snake’s poison:
+
+Junker, Giza IX, Abb. 57, p. 126: Htp Dj nswt st.t(j) n.f mw ra nb
+"A king-given offering: water will be poured for him every day"
+
+Urk.I:75:8-10: j anxw tpjw tA swAt.sn Hr jz pn st n(.j) mw
+"O the living who are upon the earth, who will pass by this tomb – pour water for me"
+
+Urk.I:76:9-10: st mw [Dj] t n jmAxw "pour water, [give] bread to the honored"
+
+The mastaba of Inumin (Kanawati, Inumin, pl.39): [mrrw] jnpw pw sttw mw…n.j "[the beloved ones
+of] Anubis (lit. those whom Anubis loves) are those who pour water…for me"; CT VII, 238m: st.n.j
+mw n jt(j).j m(w)t(.w) "I have poured water for my dead father"; Stela BM 152: st.Tn n(.j) mw "You
+should pour water for me"; Urk.IV:27:1: stt mw "pouring of water"; ibid:123:13: nj xm.n.f stt n.f mw
+"(who) doesn’t forget to pour water for him"; ibid:149:17: sty.f n.j [mw] "he will pour [water] for me";
+ibid:519:2: st mw nj tm.n.f anw "one who pours water cannot fail to come back"
+
+Outside of a mortuary context, the expression stt mw "pouring of water" may refer to the pouring of
+water to reduce friction while dragging something. As such it occurs in the mastabas of Ti (Steindorff,
+Ti, Tf. 62, 63, 64, 66, 67, 69); Niankhihnum and Khnumhotepi (nj-anx(.j)-Xnm(w) "My life belongs to
+Khnum", Xnm(w)-Htp(.j) "Khnum is content") Moussa-Altenmüller, Niankhhnum, Tf. 16, 17; Mariette,
+Mast., D55, p.324; Rashepsesi (ra-Spss(.j) "the Sun is noble") L.D.II:64.bis a, b.
+
+Drtj "two kites" refers to Isis and Nephthys and is actually a "false dual": there is a rule that a pair is
+named after only one of its elements if it consists of elements of the same sex/gender (like in this case),
+and after the element of the female sex/feminine gender if a pair consists of elements of different
+sexes/genders (man and woman), for example:
+
+14
+
+i) rwtj "a pair of Lionesses" = "Lion and Lioness", i. e. "Shu and Tefnut",
+ii) zAt(j) snt(j) (§1248d) "a pair of twin daughters (lit. two alike daughters)" = "a pair of twins", i. e.
+"Shu and Tefnut",
+iii) zAtj (CT II, 32 f; CT VI, 413i) "a pair of daughters" = "son and daughter", i. e. "Shu and Tefnut", in
+the PT zAtj occurs in §§147a, 149c, but the spelling was probably meant to be read zA zAt "son (and)
+daughter", rather than zAtj "a pair of daughters".
+iv) wADtj (Meir III, pl. 9; CM CG 20683; Urk.IV:16:13; 287:6; 483:13; Budge, BD172:19; Sethy I,
+Abydos III, pl. 36) "a pair of Wadjets, a pair of Green ones", i. e. "Wadjet (Green one) and Nekhbet",
+v) HDt(j) ((Allen’s) N 466 (~ CT 516), Jéquier, Pepi II, pl. 13, col. +29) "a pair of White ones", i. e.
+"Wadjet and Nekhbet" (Nekhbet has the epithet HDt "White one" in the PT, and since the early Middle
+Kingdom HDt nxn "White one of/from Nekhen", see MMA 07.230.2, 08.200.5),
+vi) psDtj aAtj (CT IV, 30j (Sq3C)) "a pair of Elder Enneads", i. e. "Elder (aAt) Ennead and Great (wrt)
+Ennead",
+vii) Hrwwj (CT VI, 198e; Budge, BD172:17) "a pair of Horuses", i. e. "Horus and Seth",
+viii) xnmt(j) t "a pair of female bread cooks" (CT IV, 165c (B2Bo)), i. e. "male and female bread
+cooks" (S1C, S2C and Pap. Berl. give xnm t xnmt t "male bread cook (and) female bread cook").
+
+For Isis and Nephthys as the kite and the screecher, see:
+
+PT 535, §1280b: jj HAt jj Drt Ast tj Hna nbt Hwt
+"The screecher has come, the kite has come: it are Isis and Nephthys"
+
+PT 532, §1255c-d: jj Ast jj nbt Hwt...wat.sn m HAt wat.sn m Drt
+"Isis has come, Nephthys has come:...one of them (lit. their one) as a screecher, another (lit. their one)
+as a kite"
+
+For the concept of "false duals" we are indebted to Oleg Berlev (Berlev, Sculpture, p. 234).
+
+The standing up of the kite and the screecher could be a protective measure, cf PT 246, §256b: aHa
+aHa HA.k…nj sk.k nj tm.k "Someone has stood up behind you:…you will not perish, you will not end"
+
+3)
+§230c: tmm r.k jn Smst tmm r n Smst jn m.Afdt
+Allen "your mouth will be closed by the executioner’s gear, the mouth of the executioner’s gear will be
+closed by Mafdet"
+Shmakov "your mouth will be closed by Smst-fetish, the mouth of Smst-fetish will be closed by
+Mafdet"
+
+The sign Sms that represents {crook with a package attached}-T18, here translated as "executioner’s
+gear", is sometimes fully represented as {crook with a knife and a package attached}. Thanks to Toby
+Wilkinson we know it is actually Mafdet-genet’s fetish:
+
+"a sealing of Den from Abydos shows the fetish of Mafdet [i. e. the sign T18 – T. S.] (Petrie 1900: pl.
+XXXII:39 [Mafdet is climbing the sign-T18 – T. S.]); two fragments of a stone vessel show Mafdet as
+a lioness, identified as “mistress of the mansion of life” (nbt Hwt anx) (Petrie 1900: pl. VII:4;
+1901:VII.10); a further stone vessel fragment bears the serekh of Den and the fetish of Mafdet in raised
+relief" (Petrie 1901:VII.7 [Mafdet is climbing the sign-T18 – T. S.])"
+(Wilkinson, Annals, p. 118-119 (PS r.III.13, Den’s x+13th year), comments of the current author are in
+italics).
+
+15
+
+Also on the Palermo Stone, Mafdet is climbing the sign-T182 (PS r.III.13, Wilkinson, Annals, fig. 1,
+after p. 287), and her name has this sign as determinative in §1212d MN, Jéquier, Pepi II, pl. 14, col.
++54 (= §442c), +55 (= §438a WT), col. +58 (= §440c), Nt 710, 711.
+
+For the identification of Mafdet as a genet (rather than a feline at least originally) we are indebted to
+Hermann Kees (Kees H., Der Götterglaube im Alten Ägypten. Berlin (DDR), 1956. pp. 33-34).
+Mihail Korostovcev supported this identification (the following passage was translated into English by
+the present author):
+"The goddess Mafdet, mentioned in the "Pyramid Texts", was personified by a small predatory animal
+– an ordinary genet from the viverra family" (M. Korostovcev, Religia Drevnego Egypta (The religion
+of the Ancient Egypt). Chapter I. Fetishism and totemism. A cult of animals. Moscow, Nauka
+(publisher). 1976).
+
+Mafdet-genet’s fetish is often represented in the two solar boats (§§335c T, 336a T, 496a (morning
+boat); 150a, 335b T, 336a T, 497a (evening boat)), and it occurs in the model solar boat of Imhotep
+(MMA 14.3.22) with two perches with falcons (cf. the sign {falcon on a perch} in §468a N and two
+falcons resting on two perches depicted in the two leading (mAatj) boats in §1785b). There are another
+fetish-signs (or emblem-signs) used in hieroglyphs, such are O44 (fetish of Min), R20 (fetish of
+Seshat), R22 (emblem of Min), R24 (fetish of Neith) and {Bat emblem} (§§712b TPaMN (see T 284,
+1), 1096b).
+
+4)
+§233b: Sn pt Sn tA Sn (j)m(j)-Dr-bAH HA rxt
+Allen "Sky will entwine, earth will entwine, the Male who turns around the subjects will entwine"
+Shmakov "Entwined has been the sky, entwined has been the earth, (once) The Original one in charge
+of the rxt-people has been entwined"
+
+All Sn’s in the passage are probably passive sDm.f’s. The text probably has a nisbe of the compound
+preposition (j)m(j)-Dr-bAH "he who is before". Actually, we probably have two compounds: m-bAH +
+Dr-bAH = m-Dr-bAH, cf. the compound preposition m-Dr (§113b, Nt 281: t dwA m-Dr rr.f "the
+morning bread in its (proper) time"). Dr plus {penis} sign is the usual way to write Dr-bAH "before" in
+Old Egyptian (Urk.I:43:5, 45:4, 84:17, 101:4; also with {papyrus scroll} determinative – ibid:106:3,
+125:7, 127:11, 129:4, 138:16). Likewise, m plus {penis} sign is the usual way to write m-bAH "before"
+(§§2c, 18a,b, 63c, 490c, 753c, 1189b, 1219c, d, 1774b, 2086c; Urk.I:13:10, 15, 75:14, 223:12, 15). The
+{penis} sign could not be the determinative of a form of the verb mDr "turn", for this verb never has a
+determinative in the whole PT corpus. So if we were to read mDr, then the {penis} would need to be
+read as an ideogram-phonogram TA(jj) "man, male" (which occurs in §§601b, 1462c),  but such a
+construction (verb (Sn) + verb (mDr) + subject (TA)) is impossible.
+There is a small possibility that Dr-bAH is independent of (j)m(j), and is the nisbe "that which is

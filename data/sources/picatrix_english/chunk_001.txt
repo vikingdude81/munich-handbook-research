@@ -1,0 +1,400 @@
+ic they
+inherited to the needs of their own times.
+The author of Picatrix could easily have explained how to do this; at
+several points in the course of the book, he demonstrates a rare talent for
+distinguishing essential themes from minor details, and offers one option
+after another suited to different sets of changing conditions. In most of the
+book, however, he does nothing of the kind. This points up the third obstacle
+that the modern student of Picatrix must confront: the book before you is
+deliberately designed to hide its innermost secrets from anyone who is not
+willing to put in the work necessary to unravel them.
+This is not a userfriendly book. When the author wrote that it is meant for sages, or at least
+sages in training, he was not simply expressing a preference; he was offering
+a warning to the innocent and incautious. Given the common modern
+carelessness toward magic, this warning needs to be repeated in strong terms.
+
+i8
+WatnrlLibet
+H u b e u a C D i t t o n
+The teachings in this book are designed to protect themselves from casual use,
+and there are deliberate traps in certain places that have been set for those
+who are not willing to take the time to think things through, or to learn the
+fundamentals of the magicaLphilosophy that underlies the workings given
+below.
+A further warning deserves special emphasis. Some of the recipes in
+this book produce lethal poisons. Not all of them are listed as such; in
+fact, some of them are described as healthful cures, and some of the things
+that are listed as lethal poisons would be harmless if ingested. The medieval
+student of Picatrix, if he followed the advice concerning preparatory studies,
+would have already had a good working knowledge of the herbs and minerals
+that made up the stock in trade of the medieval physician, and thus would
+know at a glance that a recipe containing large doses of bitter almond oil,
+even though it was labeled as a cure, would quickly kill the person who took
+it. Most modern occultists do not have that background. It is therefore
+urgently necessary, if you choose to put any of the following teachings
+into practice, to do the necessary research yourself and be sure that you
+know the health and safety issues surrounding every ingredient.
+You hold in your hands a book of magical philosophy and practice for
+which mages in the Middle Ages were willing to risk their lives, after all, and
+those who were able to find copies might spend the rest of their lives studying
+its pages. At least a hint of that same intensity of purpose and patience
+toward results would make a good starting point for a modern approach to
+Picatrix and its teachings. An immense amount of magic can be learned from
+this book, and only a certain fraction of that is stated in a way that can be
+grasped in a single quick reading. As the author points out, there are entire
+sciences carefully concealed in this book, which can be unfolded through
+patient study and practice. Glance through it passively, and it will teach you
+little and deceive you whenever it can, possibly with disastrous consequences.
+Engage it patiently and actively, pursuing the additional studies the book
+itself urges on you, and portal after portal will open for you.
+A Note on the Text
+his version of Picatrix is based primarily on David Pingree's critical
+edition of the Latin translation made at the court of Alfonso the
+Wise of Castile in 1256; we have also consulted the manuscript
+copy of the Latin text owned by English astrologers William Lilly and Elias
+Ashmole in the seventeenth century, currently in the British Library as Sloane
+
+Jnttofttction
+'9
+Ms. 3679. We have chosen to use the Latin rather than the Arabic edition
+because neither of us is sufficiently fluent in classical Arabic to manage an
+accurate translation and the Latin text is the one that became a primary
+source for European occultists during the Middle Ages and Renaissance.
+Students of medieval and Renaissance magic will find our translation from the
+Latin text considerably easier to match up to borrowings in such later authors
+as Marsilio Ficino and Cornelius Agrippa than a direct translation from the
+Arabic might be.
+The Latin text differs in many points from the Arabic original, and is
+written in a murky medieval Latin full of words borrowed from Spanish and
+other languages. It has not been possible to interpret all of these satisfactorily,
+those that resisted understanding have been left untranslated, in the hope that
+readers with a background in medieval magical literature may be able to help
+us identify them in a future edition.
+For the convenience of students of the occult, we have provided all the
+magical names and words of power given in the text in both the Latin and
+Arabic forms, and obscure passages and terms in the Latin text have been
+clarified by consulting the 1962 Ritter-Plesner German translation of the
+Arabic text.
+Adocentyn Press has released its complete Picatrix translation in a variety
+of different editions, including the Liber Atratus and Liber Rubeus editions.
+All editions contain the same basic text, but add additional and variant
+passages, either from the Arabic Picatrix or authors cited in Picatrix, not
+found in the Latin Picatrix. The Liber Rubeus edition adds a passage from the
+Arabic Picatrix on the creation of a divinatory head.
+Warning and Disclaimer
+C
+he material in this book includes descriptions of processes and
+activities that may be hazardous, illegal, or both. Readers who
+choose to pursue any of these activities do so entirely at their
+own risk, and are urged to use discretion, to be aware of the potential
+risks involved in these processes and activities, and to consult with
+appropriate licensed professionals before making any attempt to perform
+any such processes or activities. The translators and publisher of this book
+shall have no liability nor responsibility with respect to any loss or damage
+caused or alleged to be caused by reading or following any of the instructions
+'n this book.
+
+Prologue
+21
+T
+o the praise and glory of the highest and omnipotent God, who
+reveals the secrets of sciences to those predestined for them, and
+also for the illumination of those learned in Latin who lack books
+written by the old philosophers, Alfonso, by the grace of God the most
+illustrious king of Spain and all of Andalusia, commanded that this book, the
+name of which is Picatrix, be translated from Arabic into Spanish with all zeal
+and diligence. This labor was brought to completion in the year of Our Lord
+1256, of Alexander 1568, of Caesar 1295, and of the Arabs 655. For the
+wise, noble and honored philosopher Picatrix compiled this book from two
+hundred books and many philosophies, and named it with his own name.
+In the name of the Lord, Amen.2 Here begins the book that the most
+wise philosopher Picatrix composed about the art of magic* out of many
+other books. As the wise have said, the first thing that ought to be done
+in everything in this world is to give thanks to God. I say this because He
+ought to be praised by those to whom, by His light, secret things are revealed
+and hidden things made plain, and by His power all miraculous things are
+accomplished, and by Him all prayers and all sciences are made known, and
+by His precepts days are distinguished from nights, and by His virtue all
+things are created from nothing and proceed to their perfection, and by His
+power every created thing is renewed, and is governed according to the nature
+that pertains to it.
+For He is almighty, and by Him all things are renewed through
+generation, and He is not contained by any other thing, nor is He separated
+from anything, for He has no limit, nor is anything outside Him; for He is
+His own place. All the tongues of this world together cannot relate His works
+nor declare His powers; for His wonders are without end, and nothing is
+strange to Him. Therefore is He to be praised, and we should obey Him and
+His prophets and saints, who by His precepts became illustrious on earth and
+revealed to humanity the way whereby the knowledge and wisdom of God
+might be obtained. Wherefore we ask that we might receive His grace and
+finally be brought to His eternal glory. Amen.
+O you who wish to gain the knowledge of the philosophers and to
+understand and ponder their secrets, know that you must first diligently
+search their books, in which the great wonders of their art can be found, and
+seek to discover the wonderful science of magic. First of all, however, you
+?
+This initial section, the invocation, is traditional in Arabic literature, and
+""eludes a brief summary of the central themes of the book.
+3
+Magic: iiigromancia in the Latin text, literally "black divination."
+
+22
+C&e l&fcatw-Jtfber Hubeiw GDDition
+must understand that this science has been hidden by the philosophers, and
+they have not wished to disclose it to humanity; nay, they have rather hidden
+it with all their might, and whatever they have said about it was phrased in
+secret words, and indeed in signs and similitudes, as though they spoke of
+other sciences. And they did this on account of their honesty and goodness,
+because if this science were revealed to all humanity, the universe would
+be thrown into confusion. And it was for this reason that they spoke of it
+figuratively, that no one would be able to obtain it unless this science was first
+revealed to them.
+In the midst of all these concealments, therefore, they left ways and
+rules by which sages could attain it, and become proficient in all that they
+discussed secretly. For this reason I have compiled this book, intending in it
+to reveal the highways and byways of this science, and give voice to everything
+the wise have said about this science, and reveal all that they have hidden in
+their books in words by means of winding paths and deceptive words.
+Therefore I pray to the most high Creator that this book of mine might
+come only into the hands of sages, who are able to follow what I am about to
+say herein, and maintain it in goodness, and that whatever will be done by its
+means be performed for good and in the service of God.
+This book, moreover, is divided into four parts, and each of these divided
+further into chapters as needed. The first book treats of the nature of the
+heavens and the effects caused by the images in them. The second book
+speaks in general of the figures of heaven and the motion of the eighth sphere4
+and their effects in this world. The third book teaches the properties of the
+planets and signs, and their figures and forms displayed in their proper colors,
+and how to converse with the spirits of the planets and many other magical
+workings. The fourth book, finally, treats of the properties of spirits, and
+of those observances necessary in this art, and how it may be furthered by
+images and incenses and other things.
+
+Book One
+
+24
+^tcatrir-iUber Hubeus d^ttton
+Book One
+ere follow the chapters of the first book:
+Chapter One: H o w you may know your place5 in the
+universe.
+Chapter Two:
+What magic is and what its properties are.
+Chapter Three: What the heavens are and of their substance.
+Chapter Four: The general theory and composition of the
+heavens for making magical images.
+Chapter Five: O f examples of the theory of images, and of
+those things needful for making magical images.
+Chapter Six: In what degree everything exists in the
+universe, and how it is known that man is a lesser world and
+corresponds to the greater world.
+Chapter Seven: In what degree everything in the universe
+exists, and many other profound things, hidden by the wise,
+that we intend to reveal in this book of ours.
+
+Boob 3 Chapter i
+25
+Chapter One
+How you may know your degree in the universe
+ou should know, my dearest brother, that the best and most noble
+~ M j t ^ gift that God has given to humanity in this world is knowledge.
+By knowledge we become acquainted with ancient things, and the
+causes of everything in the world, and what more immediate causes are the
+causes of other things, and how one thing corresponds to another. By this we
+can know everything that is and why it is, and why one thing is raised above
+another in due order, and in what place exists the root and beginning of all
+the things of this world: that thing by which all things are dissolved, and
+through which everything new and old is made known.
+For this is truly the first, and it lacks nothing, nor does it need anything
+else with it except itself; it is the cause of all other things, and does not receive
+its qualities from another. It is not a material body, nor is it compounded of
+material bodies, nor is it mixed with anything other than itself, but rather is
+all things in itself. Therefore it may not be called anything except the One.
+Properly speaking, it is the sole truth and unique unity, and from it,
+anything united receives its unity. It is also the primal truth, and does not
+receive its truth from another; rather, everything receives truth from it.
+Everything apart from it is imperfect, while it alone is perfect. Nor is there
+perfect truth or unity apart from it, but it alone can be rightly called perfect
+unity and truth. All things are under it, and receive from it truth and unity,
+generation and corruption, as it is the cause of these things.
+Because of this it may be known what part of anything receives its
+properties from it, and how this occurs, and why. For the One alone
+comprehends the order and relation of the generations and corruptions of
+all created things, and which of them are first, which are of a middle station,
+and which are last.6 The last are the cause of their own corruption, and are
+not the cause of generation in any other thing; the middle have the cause of
+corruption in them, and are the cause of corruption in all things that exist
+beneath them; the first is the cause of the generation and corruption of all
+other things that exist beneath them, and nothing is higher or more perfect
+than it, so as to be the cause of its generations and corruptions.
+Nor is anything other than the One capable of perfect knowledge of the
+order of created things, and how and why the last is raised up by similarity,
+step by step, until it corresponds to the first, and descends again from the
+first in due order until it corresponds with the last. For the first alone is
+6
+These are the three worlds of medieval and Renaissance magic, the spiritual,
+celestial, and material worlds respectively.
+
+C & e ^ i c a t r i j ^ J U b e r U u b e i w L i t t o n
+the perfect philosophy and the knowledge of truth. You should know that
+knowledge is a perfect and noble thing, and you ought every day to study
+God—that is, to study His commandments and His goodness—because from
+him knowledge, perception, and goodness proceed. And His spirit is a noble
+and exalted radiance. Whoever intends to study Him ought to despise the
+things of this world, which have an end, and no stability exists in them. From
+Him, as from a higher world, the human spirit descends, and it ought to
+desire to return to the place whence it came and where its root abides. There,
+indeed, it has the capacity to know what the world is and what its powers are,
+and in what manner it was made by its Creator. The source of this knowledge
+is true wisdom.
+You should likewise know that God is indeed the Shaper and Creator
+of the whole world and everything that exists in it, and that this world and
+everything in it were created from on high. Yet the mind of God is too deep
+and potent to be comprehended, and what little can be comprehended of it
+can be grasped only through study and knowledge. This is the greatest gift
+that God gave to humanity, that they might seek to know and understand.
+To study, therefore, is to serve God. Note also that knowledge has three
+properties, of which the first is that it always gains and never diminishes, the
+second that it fosters virtuous habits, and the third that it does not increase
+unless the knower wills it and delights in it, and seeks after it with the reason
+and will.
+Wherefore you should know that the secrets we intend to reveal in this
+book of ours cannot be won unless you obtain knowledge first. Whoever
+desires to know ought to acquire a passion for the sciences and thoroughly
+scrutinize their rules, for it is ordained that these secrets cannot be won except
+through wisdom and study in the sciences. In these secrets, however, is a
+great purity with which you will be able to help many.
+Chapter Two
+What magic is and what its properties are
+ou should know that this science is named magic. We call magic
+whatever is done by man, by which sense and spirit follow by its
+action in all their parts, or by which marvelous things are done so
+that the senses are led by them, contemplating and marveling." Magic is
+7
+Thar is, magic can either bind the human mind and spirit by its own subtle
+power, or the magician can make the appearance of something wonderful and use
+that appearance to catch and guide the mind.
+
+B o o b 3 Chapter 2
+27
+difficult to understand because it uses connections hidden from our senses
+and sight. This is because these connections are divine powers placed before
+things to lure them upwards, as said before; and this science is too deep and
+strong for the intellect.
+Part of this science is practical because it operates on spirit by spirit,
+and this is done by making things similar that are not so in essence.
+The composition of images does this with spirits and bodies, while the
+composition of alchemy does this with bodies and bodies. More generally,
+we use the word magic for all things hidden from the senses, and those things
+that most people do not know how to do nor whence their causes arise.
+By sages, magical images are called talismans,8 which may be translated
+"violators," because whoever makes an image does so by violence, and makes
+it by conquering the substance of which it is made. To work victoriously he
+makes it with mathematical proportions and influences, and uses celestial
+writing. These images are made from their proper substances in order
+that they might receive the aforementioned influence, and this is done at
+appropriate times. By suffumigation1' they are strengthened, and spirits are
+drawn into these images.
+Know, then, that this is similar to the elixir1", which conquers bodies
+and by transmutation changes them to other, purer bodies. Magical images
+similarly work in such a way that they accomplish all things through violence.
+Poisons work in a similar way, when they course through a body and change
+it, reducing it to its nature, because one body is changed into another by the
+power of the compositions that exist in it.
+You should know also that the power of purification that is called the
+elixir is made from earth, air, fire and water. These four powers become one
+in it, reduced to a common property and nature, because when it enters and
+penetrates a body it spreads through all its parts so that the body might better
+be altered and more readily obey and be transmuted under the elixir's power.
+Similarly, also, the elixir in alchemy works by quickly converting a body from
+one nature into another, nobler one, first overwhelming its harsh and hissing
+spirit, and removing its qualities and its dregs. This is the secret of the elixir
+according to the sages of old.
+The word elixir may be translated "fortitude," because it shatters other
+fortitudes by conquering them, and transmutes them from one property to
+nother until it reduces them to its own." The elixir cannot be made except
+^
+The Arabic word tils am, "talisman," appears here as telsam in the Latin text.
+9
+Suffumigation: the act of exposing a talisman to the smoke of incense, so the
+niagical qualities of the incense enter into tne talisman.
+, 1 0
+Elixir: the philosopher's stone, which has the power to change base metals
+'"to silver or gold.
+1 1
+This passage is reminiscent of the Emerald Tablet, a classic alchemical text,
+
+28
+E&e i^cattfj^JUber liubeua CUition
+by compounding animals, plants, woods, and minerals into one, as they
+imply who say that the elixir is made in the same way as the world, since the
+world is compounded out of all the things we have named. Similarly, the
+elixir ought to be compounded out of similar things, so that every part of it
+is joined together and enters into every other part, so that the woods are not
+able to remain by themselves, nor are other vegetable or animal things able to
+remain separate from vegetables, and similarly minerals desire coction12 and
+the power of fire together with moisture and the power of air, and then are
+satisfied. We have found all this in a book called the Book of Ordinances. For
+now, however, we return to our subject.
+Magic is divided into two parts, that is, theoretical and practical. The
+theoretical part is knowledge of the places of the fixed stars, because from
+these are composed the celestial figures and forms of the heavens, and of
+how their rays project into the planets that move of themselves, and of
+understanding figures of the heavens when they wish to make them. In this
+is included all that the sages of old have said about the elections of hours and
+times to work with images. You should know that those who have equaled
+the ancients in making images know that the virtue of images consists
+wholly in the election of hours and times of the proper constellations, and in
+appropriate substances from which the images are made. Words also form a
+part of magic, because words themselves have magical virtues. Plato says the
+same thing, that just as a friend can become an enemy through wicked and
+insulting words, good and friendly words can turn an enemy into a friend. By
+this it is clear that words have magical power in them. The greatest strength
+is achieved when several strengths are joined together to overcome, and this is
+the perfect virtue in magic. This comprises the theoretical part.
+The practical part, in turn, is the combination of the three natures with
+the virtue infused by the fixed stars. This is what the sages call virtue, but
+they do not know how or in what manner this virtue comes to be imparted.
+When things that have such virtues are brought together at the same time,
+they have need of elemental heat. This is done by suffumigation, which helps
+to complete the incomplete virtue. Similarly, it ought to have natural heat,
+that is, by digestion. These two cannot be complete, nor are they able to
+function, without the presence of human and animal spirit.
+You should know also that magic is gained by actions and works in one
+way, and more subtly in another. That which is gained by actions and works
+is gained from the magistery that is performed by the sage in the world
+which says of the elixir: "This is the strong fortitude of all fortitudes, penetrating
+every solid and overcoming every subtle thing."
+12
+Coction: literally "cooking," the steady application of hear that forms the
+chief working method of the alchemist.
+
+ilBoob 2 Chapter 5
+45
+of the circle of the Moon and the sage who is mentioned in the Nabatean
+Agriculture,13 as it says in that book, in the place where it says that you ought
+to accept the four birds. And the part that is gained subtly is from works
+performed by that sage who works in the motion of the sphere of Saturn, and
+also the sage who works in the motion of the sphere of Venus. And these two
+sages also are spoken of in the aforesaid book.
+The ancient Greek sages used to work in subtle ways to change
+appearances, and to make those things appear to be so which were not. They
+named the science of images Yetelegehuz,14 which is translated "the attraction
+of celestial spirits," and this name is applied to every part of magic. No one
+is able to attain this science except by astrology, nor are they able to proceed
+beyond the study of astrology unless at least they know the figures that exist
+in the eighth sphere, and their motion, as well as that of the other spheres,
+and the division of the twelve signs of the Zodiac with their degrees and
+their natures, and the qualities of each sign and their correspondences in
+this world, and the divisions of the planets in these twelve signs, and the
+movement of the Zodiac, and when other things are said to be conjunct
+with them, and the nature of the seven planets and the Head and Tail of the
+Dragon15 and their places in the heavens and their correspondences among
+the things of this world, and how to predict their risings and settings, and
+which ones rise and set before others, and their radical significations. These
+are the fundamentals of astrology, and knowing which of the seven planets
+rules a figure and understanding the order in which they rule, and how to
+extract the planetary parts from the Zodiac.
+These are the things without which it is impossible for anyone to achieve
+mastery of this science, and all of it may be found in books of astrology.
+This is what the first sage says who is described in the aforesaid Nabatean

@@ -1,0 +1,1198 @@
+THE GREE
+CAL PAPYR
+N TRANSLATION
+
+Contributors
+D.E.A
+J.B.
+H.D.B.
+W.B.
+J.M.D.
+W.C.G.
+J.P.H.
+R.F.H.
+J.H.J.
+R.D.K.
+H.M.
+M.W.M.
+E.N.O.
+R.K.R.
+J.S.
+M.S
+David E. Aune, Professor of Religion, Saint Xavier College, Chicago
+Jan Bergman, Professor of the History of Religions, University of
+Uppsala
+Hans Dicter Betz, Professor of New Testament, The Divinity School,
+University of Chicago
+Walter Burkert, Professor of Classical Philology, University of Ziirich
+John M. Dillon, Professor of Classics, Trinity College, Dublin
+William C. Grese, Professor of Religion, Olivet College, Olivet,
+Michigan
+Jackson P. Hershbell, Professor of Classics, University of Minnesota
+Ronald F. Hock, Professor of Religion, University of Southern
+California
+Janet H. Johnson, Professor of Egyptology, The Oriental Institute,
+University of Chicago
+Roy D. Kotanskp, Rescarch Specialist, The Divinity School, Univer-
+sity of Chicago
+Hubert Martin, Jr., Professor of Classics, University of Kentucky
+Marvin W. Meyer, Professor of Religion, Chapman College, Orange,
+California
+Edward N. O'Neil, Professor of Classics, University of Southern
+California
+Robert K. Kitner, Lecturer in Egyptology, The Oriental Institute,
+University of Chicago
+John Scarborough, l'rofcssor of History, University of Kentucky
+Morton Smith, Professor of Ancient History, Columbia University
+
+THE GREE
+CAL PAPYR
+INCLUDING THE DEMOTIC SPELLS
+Edited by
+HANS DIETER BET2
+THE UNIVERSITY OF CHICAGO PRESS
+Chicago 8. London
+
+HANS I~IETER
+BETZ
+is profcsssor of New Tcstarnent and
+chairman ofthr Drpartmcnt of New Tesran>cnr
+and Early Christian Lircraiurr ar
+rhc Uniwrsity of Chicago.
+THE UNNEKSlTY OF CHICAGO PRESS, CHICAGO 60637
+'TEE UNIVERSITY OF CfIICAGO PUSS, LTU., LONDON
+0 1986 bv Thr Univrrsinr of Chtcaeo
+u
+All righrs rcsewed. l'ublishrd 1986
+Prinrcd in the Unircd Stares ofAmerica
+This proicct has bcrn sup~orted bv the Nauonal Endowment
+. .
+. .
+for the Humanirics, a federal agency which suppuns the
+stud" o f s ~ ~ c h
+ficlds as history, philosophy, lircrarutr,
+and languages
+LIRPARY 01 CONGRESS CPTALOGING-IN-PUBLIUTION DATA
+Main cnrry undcr title:
+The Grrck magical papyri in translark,n, including thc
+Dcmotir spells.
+Translation of Grcck, Dcmotic, and Coptic trxrs
+found in: Papyri RrZcac maeicae, 2nd ed., wirb
+Includes bibliographicd rcfcrcnces.
+1. Magic, Greek. 2. Manuscriprs, Grcrk (l'apyrij
+I. Eea, Hans Dicrcr. 11. Papyri graecac magicac.
+English.
+1985.
+~ f i 6 2 2 ~ 8 ~ 7 4
+1986
+133.4'3'0938
+85-1137
+ISKN 0-226-04444-0
+
+Shall we write about the things not to be spoken of?
+Shall we divulge the things not to be divulged?
+Shall we pronounce the things not to be pronounced?
+Julian, Hymn to the Mother of the Gods
+
+Contents
+Preface
+Table of Spells
+List of Papyri in Preisendanz
+List of New Papyri Not in Preisendanz
+Note on Editions
+Explanation of References and Textual Signs
+Abbreviations of Periodicals, Series Titles, and General
+Reference Works
+Abbreviations of Major Titles Used in This Volume
+Introduction to the Greek Magical Papyri
+Hans Dieter Betz
+Introduction to the Demotic Magical Papyri
+Janet H. Johnson
+Translations, with Notes
+ix
+xi
+xxiii
+xxvii
+mix
+xxxi
+XYXV
+m i i
+xli
+xlv
+Glossary
+
+Preface
+This volume of translations of the Greek magical papyri has been a long time in the
+making. The project began in a planning colloquium at Claremont, California,
+May 31 to June 4, 1978. At this meeting, a team of scholars resolved to produce
+this translation volume as part of a research project on the Greek magical papyri,
+the project as a whole being designed as a contribution to the Cmpus Hellenirtimnt
+Noa' Testtamenti.
+The translations turncd out to be more difficult and time-consuming than had
+been expected. Since it seemed desirable to expand the Preisendanz collection to
+include as many newly discovered and newly published magical papyri as possible,
+the number of papyri increased from 81 to 131. In this respcct, the translation vol-
+ume differs from the Prcisendanz volumes. It differs also in that while Preisendanz
+reproduced only thc Greek sections of bilingual Greck-Demotic papyri, this volume
+includes the full translations of all bilingual texts.
+All translations are based on the Greek, Demotic, and Coptic texts. PGM I-
+LXXXI follow the Preisendanz edition, while PGM LXXXII-CXXX and PDM
+Supplement follow their critical cditions, which are indicated in the notes. Trans-
+lators were free to make changes in the texts when they thought it necessary; these
+changes are also indicated in the notes. Where earlier translations exist, they have
+been consulted, but all the translations included in this volume are new.
+Unlike the Preisendanz edition, this new volume does not have an tapparaus m'ti-
+cw. Instead, it has notes explaining difficulties in the text and the translation, and
+notes alerting readers to important information. It has been necessary to limit these
+notes to a degree which many readers may find drastic, but the team decided not to
+attempt what could only be a lengthy commentary on the papyri. Instead, they
+agreed that other research tools should be developed to encourage and assist further
+research on the papyri. The following research tools are presently being prepared:
+1. An index of Greek words is being prepared by Professor Edward O'Neil.
+2. A subject index based on the English translation is being worked out by
+Ms. Marjorie Menaul.
+3. A collection of parallels between the magical papyri and early Christian litera-
+ture is being prepared by the research team. This part of the project is most dircctly
+related to the task of the Colpus HelleninicumNoa' Testamenti, namely, the collection
+of parallels from ancient literature to the New Testament and the other Christian
+literature up to approximatcly A.D. 150.
+4. A comprehensive bibliography, including editions and investigations of the
+magical papyri, is being assembled by Professor David Hellholm.
+The present volume would not havc come about without the generous support
+of institutions and individuals. The National Endowment for the Humanities has
+funded the entire venture from the beginning by substantial grants from 1978 to
+1983. Without this financial assistance, the project would simply not exist; schol-
+
+arly team projccts of this magnitude cannot live on enthusiasm alone. Apart from
+the purely financial aspen, the officers of the NEH have helped more than they may
+realize bv their quiet cncouragement and confidence expressed ovcr a number of
+.
+years.
+A great deal of assistance also camc from the institutions where the project was
+initiated and whcre it is now based. These include the Institute for Antiquity and
+Christianity at Claremont, where the project was based during the years 1977 and
+1978, and the Institute for the Advanced Study of Rcligion at the University of
+Chicago, where it has been from 1978 to the present. Thanks are especially due to
+the officers of thesc institutions, Professors James M. Robinson and James Brashler
+of the Institute for Antiquity and Christianity; and Professors Joseph M. Kitagawa,
+formerly dean, and Franklin I. Gamwcll, currently dean, of the Divinity School of
+thc University of Chicago, as well as to Martin E. Marty, program coordinator for
+the Institute for the Advanced Study of Religion of the University of Chicago.
+The present project could not have succeedcd without thc unfailing loyalty and
+generosity of the members of the team, both contributors and consultants. Among
+these should be named Profcssors Jan Bergman, Walter Burkert, Franco Maltomini,
+and P. J. Sijpesteijn. The research specialists of the project, Professor William C.
+Grese (1977-SO), and Mr. Roy Kotansky and Ms. Marjorie Menaul (1980-83),
+not only helped to carry the burdens of administration and editorship, but made
+substantial contributions to the project as well. To all of them sincere thanks
+are due.
+H. D. Betz
+
+Table of Spells
+This list of spells presupposes the divisions in the texts and thc identification of
+section titles made by the editor. In the Demotic spells, section titles are sometimes
+indicated by red lettcring (but this is not done consistently). If no titles are given,
+this fact is stated (No title) and a short description of content is added.
+Refwence
+T~awlator
+Short Title
+PGM I
+PGM I. 1-42
+PGM I. 42-195
+PGM I. 195-222
+PGMI. 222-31
+PGM I. 232-47
+PGM I. 247-62
+PGM I. 262-347
+PGM I1
+PGM 11. 1-64
+PGM 11. 65-183
+PGM 111
+PGM 111. 1-164
+PGM 111. 165-86
+PGM 111. 187-262
+PGM 111.263-75
+PGM 111.275-81
+PGM 111.282-409
+PGMIII. 410-23
+PGM 111.424-66
+PGM 111. 467-78
+PGM 111.479-83
+PGM 111.483-88
+PGM 111.488-94
+PGM 111.494-611
+PGM 111.612-32
+PGMIII. 633-731
+PGM N
+PGMIV. 1-25
+PGMN 26-51
+PGMN. 52-85
+PGM IV. 86- 87
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+J.M.D. I E.N.O.
+J.M.D. I E.N.O.
+J.M.D.
+J.M.D.
+J.M.D. I E.N.O.
+W.C.G.
+E.N.O.
+W.C.G. I M.W.M.
+W.C.G.
+W.C.G.
+W.C.G.
+W.C.G.
+W.C.G.
+W.C.G.
+W.C.G. I E.N.O.
+J.M.D.
+M.W.M.
+M.W.M.
+H.M.
+H.M. I M.W.M.
+M.W.M.
+(No title) Magical handbook
+[Rite] for acquiring an assistant daimon
+The spell of Pnoutliis (for acquiring an as-
+sistant daimon)
+Prayer of deliverance
+Invisibility spell
+Memory spell
+Spell for invisibility
+Apollonian invocation
+(No title) Magical handbook
+(No titlc) Spell for revelation
+(No titlc) Alternarive spell for revelation
+(No titlc) Magical handbook
+(No title) Cat ritual for many purposes
+(No titlc) Oracular request (?)
+(No titlc) Spell for revelation
+Foreknowledge charm
+[Horoscope]
+(No titlc) Spell for foreknowledge
+(No titlc) Memory spcll
+A copy from a holy book (spell for fore-
+knowledge and memory)
+Memory spell
+Foreknowledge charm
+Another (foreknowledge charm to dncct a
+thief)
+Another (spell ro detect a thief?)
+[Spell to establish a relationship with]
+Helios
+(No title) Spell for gaining control of one's
+shadow
+-
+-
+(No title) Spell for a direct vision
+(No title) Magical handbook
+, -
+;NO title) Spcll for revelation
+Initiation
+(No title) Spell for revelation
+Phylactery against daimons
+
+xii
+PGM N. 88-93
+PGMN. 94-153
+PGM IV. 154-285
+PGM IV 286-95
+PGM IV 296-466
+PGMIV 467-68
+PGM IV. 469-70
+PGM IV. 471-73
+PGM IV 474
+PGM IV 475-829
+PGMIV 830
+PGMN. 831-32
+PGM IV. 833-34
+PGM IV. 835-49
+PGMIV 850-929
+PGM IV 930-1114
+PGMIV. 1115-66
+PGM IV. 1167- 1226
+PGMIV. 1227-64
+PGM N. 1265-74
+PGM IV. 1275-1322
+PGM IV. 1323-30
+PGMN. 1331-89
+PGM N . 1390- 1495
+PGM IV. 1496- 1595
+PGMIV. 1596-1715
+PGMIV. 1716-1870
+PGAX IV. 1872-1927
+PGM N. 1928-2005
+PGM W. 2006-2125
+PGMN. 2125-39
+PGM IV. 2140-44
+PGM N. 2145-2240
+PGM N. 2241-2358
+PGM N. 2359-72
+PGMN. 2373-2440
+PGM N . 2441-2621
+PGMN. 2622-2707
+PGMIV. 2708-84
+PGM IV. 2785-2890
+PGM IV. 2891 -2942
+PGM IV 2943-66
+PGM IV 2967-3006
+PGM IV 3007-86
+PGMIV 3086-3124
+PGMN. 3125-71
+PGMN. 3172-3208
+PGM N. 3209-54
+PGMW. 3255-74
+PGM V
+W.C.G. I M.W.M.
+M.W.M.
+J.P.H. 1 E.N.0
+E.N.O.
+E.N.O.
+R.F.H.
+H.M.
+H.M.
+H.M.
+M.W.M.
+H.M.
+R.F.H.
+H.M.
+W.C.G.
+W.C.G.
+W.C.G. I E.N.O.
+W.C.G.
+W.C.G.
+M.W.M.
+E.N.O.
+W.C.G.
+W.C.G.
+W.C.G.
+E.N.O.
+E.N.O.
+M.S.
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+M.S.
+W.C.G.
+H.M.
+E.N.O.
+R.F.H.
+R.F.H.
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+E.N.O.
+W.C.G.
+W.C.G.
+M.S.
+W.C.G.
+T.P.H.
+E.N.O.
+Tablc of Spells
+Another, to Hclios
+(No tide) Love spell of attraction
+Nephotes to Psammerichos (letter conccm-
+ing bowl divination)
+Spdl for picking a plant
+Wondrous spcll for binding a lover
+Charm to rcstrain anger
+(Charm) to get friends
+(No tida) Verses from Homcr
+(No tidc) Verse from Homcr
+(No tidc) The "Mithras Limrgy"
+(No titlc) Vcrse from Homer
+Charm to rcstrain anger
+(Cham) to gct friends
+(No title) Astrological text
+Charm of Solomon that produces a trance
+Charm that produces direct vision
+Hidden stele (prayer)
+Stele (spcll for deliverance)
+Rite for driving our daimons
+Aphroditc's name (love spell)
+Bear charm
+Another (Bear charm)
+Bear charm
+Love spell of attraction
+Love spell of attraction
+Consecration for d purposes
+Sword of Dardanos (love spell)
+(No title) Fetching charm
+King Pitys' spell of attraction
+.
+Pitys' spell of attraction
+A restraining seal
+Pitys rhc Tksalian's spell for quesrioning
+corpscs
+Divine assistance from three Homeric
+verses
+Document to the waning moon
+Business spell
+Charm for acquiring business
+Love spell of attraction
+Slander spell to Selene
+Lovc spell of attraction
+Praycr to Selene
+Love spell of attraction
+Love spell of attraction
+(No tide) Spell for picking a plant
+Charm of Pihechis for those possessed by
+daimons
+Oraclc of Kronos, called "litrle mill"
+(No tide) Spell for favor
+Dream-producing charm
+Saucer divination of Aphrodite
+(No tide) Spell to induce insomnia
+(No title) Magical handbook
+
+Table of Spells
+PGMV 1-53
+PGM V. 54-69
+PGMV 70-95
+PGMV 96-172
+PGMV 172-212
+PGMV. 213-303
+PGMV. 304-69
+PGM V. 370-446
+PGMV. 447-58
+PGMV. 459-89
+PGM Va. 1 - 3
+PGM VI. 1-47
+PGM VII
+PGM VII. 1-148
+PGM VII. 149-54
+PGM VII. 155-67
+PGM VII. 167-86
+PGMVII. 186-90
+PGM VII. 191 -92
+PGM VII. 193-96
+PGM VII. 197-98
+PGMVII. 199-201
+PGMVII. 201-2
+PGM VII. 203-5
+PGM VII. 206- 7
+PGM VII. 208-9
+PGMVII. 209-10
+PGMVII. 211-12
+I'GM VII. 213-14
+PGMVII. 215-18
+PGMVII. 218-21
+PGM VII. 222-49
+PGM VII. 250-54
+PGM VII. 255-59
+PGM W. 260-71
+PGM VII. 272-83
+PGM VII. 284-99
+PGM VII. 300
+PGM VII. 300a-310
+PGMVII. 311-16
+PGM VII. 317-18
+PGM VII. 319-34
+PGM VII. 335-47
+PGM VII. 348-58
+PGM VII. 359-69
+PGM VII. 370-73
+PGM VII. 374-76
+PGM VII. 376-84
+PGMVII. 385-89
+PGM VII. 390-93
+PGM VII. 394-95
+PGM VII. 396-404
+W.C.G.
+W.C.G.
+W.C.G.
+D.E.A.
+W.C.G.
+M.S.
+M.S.
+E.N.O.
+M.S.
+U.E.A.
+H.M.
+E.N.O.
+H.M.
+W.C.G.
+W.C.G.
+R.D.K.
+R.F.H.
+E.N.O.
+J.S.
+1,s.
+J.S.
+J.S.
+J.S.
+J.S.
+1,s.
+J.S.
+T.S.
+H.M.
+J.S.
+W.C.G.
+W.C.G.
+W.C.G.
+J.S.
+W.C.G.
+E.N.O.
+W.C.G.
+E.N.O.
+M.S.
+M.S.
+W.C.G.
+W.C.G.
+W.C.G.
+W.C.G.
+W.C.G.
+R.F.H.
+R.F.H.
+E.N.O.
+R.F.H.
+R.F.H.
+R.F.H.
+Oracle of Sarapis
+Direct vision spell
+(No titlc) Spell to catch a thicf
+Stele of Jcu the hicroglyphist (lotter)
+Anothcr way (spell to catcl~ a thicf)
+Hermes' ring
+(No titlc) Detixio
+(No tide) Spell for rc\relation
+(No title) Instruction concerning a magical
+ring
+Anothcr way (spell for many purposes)
+(No titlc) Spell for dircct vision
+(No titlc) Praycr for encountcr with Helios
+(No titlc) Magical handbook
+Homer oracle
+To keep bugs our of the house
+Days and houn for divination
+Uemokriros' "table gimmicks"
+Favor and victory charm
+Spell for binding a lover
+For scorpion sting
+For discharge of the eyes
+For migraine headache
+Another (for migraine headache)
+For coughs
+Another (for coughs)
+For hardening of the  breast^
+For swollen testicles
+For fever with shivering fits
+For daily fever and nightly fever
+Stele of Aphrodite (spell for favor)
+Phylactery for daily fcver with shivering tits
+Request for a dream oracle from Besas
+Request for a dream orade
+Another to the same lamp
+For the ascent of the uterus
+(No title) Astrological calendar
+Orbit of the moon (horoscope)
+(No tide) Spcll of uncertain purpose
+Love charm
+Phylactery
+Another phylactery
+Cham for dircct vision
+Charm for direct vision
+Divination by means of a bop
+Request for a dream orade
+(Spell) against every wild animal
+Charm to induce insomnia
+Anothcr (cham to induce insomnia)
+Cup spell (love spell)
+Victory charm for the races
+Coercive spell for restraining
+Spell for silencing, subjecting, and
+restraining
+
+xi\,
+PGM VII. 405-6
+PGM VII. 407-10
+PGM VII. 411-16
+PGM VII. 417-22
+PGM VII. 423-28
+PGM VII. 429-58
+PGM VII. 459-61
+PGM VII. 462-66
+PGM VII. 467-77
+PGM VII. 478-90
+PGM VII. 490-504
+PGM VII. 505-28
+PGM VII. 528-39
+PGM VII. 540-78
+PGM VII. 579-90
+PGM VII. 591-92
+PGM VII. 593-619
+PGM VII. 619-27
+PGM VII. 628-42
+PGM VII. 643-51
+PGM VII. 652-60
+PGM VII. 661-63
+PGM VII. 664-85
+PGM VII. 686-702
+PGM VII. 703-26
+PGM VII. 727-39
+PGM VII. 740-55
+PGM VII. 756-94
+PGM VII. 795-845
+PGM VII. 846-61
+PGM VII. 862-918
+PGM VII. 919-24
+PGM VII. 925-39
+PGM VII. 940-68
+PGM VII. 969-72
+PGM VII. 973-80
+PGM VII. 981-93
+PGM VII. 993-1009
+PGM VII. 1009-16
+PGM VII. 1017-26
+PGM VIII. 1-63
+PGM VIII. 64-110
+PGM M. 1 - 14
+PGMX. 1-23
+PGM X. 24-35
+PGM X. 36-50
+PGM XIa. 1-40
+PGM XIb. 1-5
+PGMXIc. 1-19
+PDM xii (PGM X I )
+PDM xii 1-5
+PDM xii 6-20
+E.N.O.
+E.N.O.
+E.N.O.
+M.S.
+R.F.H.
+M.S.
+E.N.O.
+E.N.O.
+E.N.O.
+H.M.
+M.S.
+H.M.
+R:F.H.
+J.P.H.
+M.S.
+W.C.G.
+D.E.A.
+E.N.O.
+M.S.
+E.N.O.
+R.F.H.
+E.N.O.
+E.N.O.
+H.D.B.
+W.C.G.
+W.C.G.
+W.C.G.
+W.C.G.
+J.P.H.
+W.C.G.
+E.N.O.
+R.F.H.
+R.F.H.
+R.F.H.
+E.N.O.
+E.N.O.
+E.N.O.
+W.C.G.
+W.C.G.
+R.F.H.
+E.N.O.
+W.C.G. I E.N.O.
+R.F.H. 1E.N.O.
+E.N.O.
+R.F.H.
+R.F.H.
+H.M.
+R.D.K.
+E.N.O.
+J.H.J.
+J.H.J.
+Love spell
+(No title) Dream soell
+Spell for causing talk whiie asleep
+Restraining spell
+To win at dice
+Restraining spell
+Love charm
+Love charm
+(No tide) Love spell of attraction
+(No title) Spell for dream revelation
+(No title) Spell for protection
+Meeting with your own daimon
+Victor). charm
+Lamp divination
+Phylactery
+(No title) Prayer of invocation
+Fetching charm
+From the Diadem of Moses (spells for
+invisibility and love)
+(No tide) Rite involving a magical ring
+Cup spell (love spell)
+Spell to induce insomnia
+Love spell
+Request for dream revelations
+Bear charm
+Request for dream oracle
+Charm for a direct vision of Apollo
+[Request for a drcam oracle1
+P,r
+Pvthazoras' rcaucst for a dream oracle and
+3
+0
+
+Demokritos' drcam divination
+Shadow on the sun (sycU for revelation)
+Lunar spell of ~laudianos
+Hemu' wondrous victow charm
+Another, charm to subject
+Charm to restrain anger and to subject
+A good potion (love spell)
+Love spell of attraction . . .
+[Love spell of attraction]
+(No title) Spell of uncertain purpose
+Divination by a dream
+[No title] Spell for favor and victo~y
+Binding love spell of Astrapsoukos
+Request for a dream oracle of Besas
+(No tide) Spell to subject and silence
+(No tide [?I) Love spell
+Charm to restrain anger
+Apollo's chann to subject
+Apollonius of Tyana's old serving woman
+(No title) "Table gimmick" (?)
+(No title) Love spell
+(No tide) Magical handbook
+(No title) Invocation
+A ring to cause praise
+
+Table of Spells
+PDM xii 21-49
+PGMXII. 1-13
+PGM XII. 14-95
+PGM XII. 96- 106
+PGM XII. 107-21
+PGM XII. 121-43
+PGM XII. 144-52
+PGM XII. 153-60
+PGM XII. 160-78
+PGMXII. 179-81
+PGM XII. 182-89
+PGM XII. 190-92
+PGM XII. 193-LO1
+PGM XII. 201-69
+PGM XII. 270-350
+PGM XII. 351-64
+PGM XII. 365-75
+PGM XII. 376-96
+PGM XII. 397-400
+PGM XII. 401-44
+PDMxii. 50-61
+[PGM XII. 445-481
+PDM xii. 62-75
+[PGM XII. 449-521
+PDMxii. 76-107
+[PGM XII. 453-651
+PDMxii. 108-18
+[PGM XII. 466-681
+PDMxii. 119-34
+[PGM XII. 469-731
+PDM xii. 135-46
+[PGM XII. 474-791
+PDM xii. 147-64
+[PGM XI1. 480-951
+[PGM X I . 480-951
+PGM XIII. 1-734
+PGM XIII. 1-343
+PGM XIII. 343-646
+PGM XIII. 647-734
+PGM XIII. 734-1077
+PDM xiv
+PDM xiv. 1-92
+PDM xiv. 93-114
+[PGM XIVa. l- l l ]
+PDM xiv. 1 15
+PDM xiv. 116
+J.H.J.
+H.M.
+H.M.
+R.F.H.
+W.C.G.
+K.D.K.
+W.C.G.
+W.C.G.
+R.F.H.
+K.F.H.
+R.F.H.
+W.C.G.
+J.S.
+M.S.
+M.S.
+J.l'.H.
+R.F.H.
+R.F.H.
+H.M.
+H.D.B. I J.S.
+J.H.J.
+J.H.J.
+J.H.J. I R.F.H.
+1.H.J.
+J.H.J. I E.N.O.
+J.H.J. I E.N.O.
+J.H.J. I E.N.O.
+M.S.
+M.S.
+M.S.
+M.S.
+M.S.
+J.H.J.
+J.H.J. 1 W.C.G.
+J.H.J.
+J.H.J.
+X\'
+(No titlc) Prayer for a revelation of a rem-
+edy for a discasc
+Rite (to produce an epiphany of Kore)
+Eros as assistant daimon
+Himurios' recipes
+Charm of Agathokles for sending dreams
+Zminis ofTentyra's spell for sending dreams
+Request for a drcam
+Spell for a divine revelation
+(No titlc) Spcll to release from bonds
+(No titlc) Spell for restraining anger
+(No titlc) Spell for gaining favor
+Roquest for a drcam oracle spoken to the
+Buar
+[To make] a tincture of gold
+A ring
+A little ring for success and favor and
+.
+victoty
+Demokritos' "sohere"
+Cham for causing separation
+Charm to induce insomnia
+To gain favor and friendship forever
+Interpretations
+Spell for separating one person from
+another
+Anothcr (spell for separation)
+Anothcr (spell for separation)
+A spell [to] cause a woman to hate a man
+A spell for it (fetching spell?)
+(No title) Love spell of attraction
+Another (love spell of attraction)
+A sacred book called "Unique" or "Eighth
+Book of Moscs"
+[Part A: Initiation ritual and magical
+handbook]
+[Part B: A second, different version of the
+initiation ritual]
+[Part C: A third, ditfercnt version of the in-
+itiation ritual]
+(No title) A collection of miscellaneous
+spells
+(No title) Magical handbook
+[A vessel divination]
+(No title) Spcll for revelation
+(No title) Spcll for vision (?)
+Another spell for vision (?)
+
+PDM xiv. 117-49
+PDMxiv. 150-231
+PDM xiv. 232-38
+I'DM xiv. 239-95
+PDM xi\.. 295-308
+PDM xir. 309-34
+PDMrix,. 335-55
+PDM xiv. 355-65
+PDM xiv. 366-75
+I'DM riv. 376-94
+PDM xiv. 395-427
+PDM xirr. 428-50
+PDM xiv. 451-58
+[PGM XNb. 12- 151
+PDM xiv. 459-75
+PDM xiv. 475-88
+PDM xiv. 489-515
+PDMxiv. 516-27
+PDM xiv. 528-53
+PDM xi\,. 554-62
+PDM xiv. 563-74
+PDM xiv. 574-85
+PDM xiv. 585-93
+PDM xiv. 594-620
+PDM xiv. 620-26
+PDM xiv. 627-35
+PDM xiv. 636-69
+PDM xiv. 670-74
+PDM xiv. 675-94
+[PGM XWc. 15-27]
+PDM xiv. 695-700
+PDM xiv. 701-5
+PDM xiv. 706- 10
+PDMxiv. 711- 15
+PDM xiv. 716-24
+1'DM xiv. 724-26
+I'DM xiv. 727-36
+PDM xiv. 737-38
+PDM xiv. 739-40
+PDM xiv. 741
+PDM xiv. 742
+PDM xiv. 743-49
+PDM xiv. 750-71
+PDM xiv. 772-804
+PDM xiv. 805-40
+PDM xiv. 841-50
+PDM xiv. 851-55
+PDM xiv. 856-75
+PDM xiv. 875-85
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.13.J.
+J.H.J.
+J.H.J.
+T.H.T.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+T.H.T.
+. ,
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J. 1 R.F.H.
+J.H.J.
+J.H.J.
+T.H.T.
+. .
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+J.H.J.
+T.H.T.
+, .
+J.H.J.
+J.H.J.
+J.H.J.
+T.H.T.
+, .
+J.H.J.
+J.H.J.
+J.H.J.
+T.H.T.
+A "god's arrival"
+An inquiry of the lamp
+A "god's arrival"
+The vessel inquiry of Khonsu
+[A] vessel [inquiry]
+A spcll for causing favor
+(No title) Love spcll
+Another love spcll
+The method (spcll for scparating mall and
+woman)
+(No titlc) 17a'arious recipes
+[A ~csscl divination]
+(No title) Two love potions
+(No title) Spell for going before a superior
+(No titlc) Lamp divination
+(No title) Lamp divination
+Another (lamp divination)
+Another (lamp divination)
+(No titlc) Vessel divination
+(No titlc) Spcll for dog bite
+(No title) Spell for removal of poison
+(No title) Spell for removal of bone stuck
+in the throat
+(No title) Spell for dog bite
+(No title) Spell for s
+~
+g
+
+(No title) Spcll for remwal of bone stuck
+in the throat
+(No title) Vessel divination
+(No title) Love potion
+(No title) Introduction to a collection of
+spclls (?)
+A spell (to cause "cvil sleep")
+(No tide) Vessel divination
+(No title) Vessel divination
+(No title) Spcll against "evil sleep"
+Prescription (to cause "evil sleep")
+Another (spell to causc "evil sleep")
+Another (spell to causc "evil sleep")
+A prcscription (three prescriptions to cause
+"evil sleep")
+A prescription (to causc ''evil sleep")
+Anothcr (spell to cause "cvil slccp")
+Anothcr (spell to cause "evil sleep")
+Another (spell to cause "cvil slcep")
+Anothcr (spell to cause "cvil slcep")
+(No titlc) Lamp divination
+A mathod ilove s~ellsi
+Anothcr (vessel inquiry)
+(No titlc) Inquiry of the sun
+Here is another (inquiry of tha sun)
+
+Table of Spells
+PDM xiv. 886-96
+J.H.J.
+PDM xiv. 897-910
+J.H.J.
+PDM xiv. 912-16
+J.H.J.
+PDMxiv.917-19
+J.H.J.
+PDMxiv. 920-29
+J.H.J.
+PDM xiv. 930-32
+J.H.J.
+PDM xiv. 933-34
+J.H.J.
+PDM xiv. 935-39
+J.H.J.
+PDM xiv. 940-52
+J.H.J.
+PDMxiv. 953-55
+J.H.J.
+PDMxiv. 956-60
+J.H.J.
+PDM xiv. 961-65
+J.H.J.
+PDMxiv. 966-69
+J.H.J.
+PDM xiv. 970-77
+J.H.J.
+PDM xiv. 978-80
+J.H.J.
+PDMxiv.981-84
+J.H.J.
+PDMxiv. 985-92
+J.H.J.
+PDM xiv. 993-1002
+J.H.J.
+PDM xiv. 1003-14
+J.H.J.
+PDM xiv. 1015-20
+J.H.J.
+PDM xi". 1021-23
+1.H.J
+PDMxiv. 1024-25
+J.H.J.
+PDM xi". 1026-45
+J.H.J.
+PDM xiv. 1046-47
+J.H.J.
+PDM xiv. 1047-48
+J.H.J.
+PDMxiv. 1049-55
+J.H.J.
+PDM xiv. 1056-62
+J.H.J.
+PDMxiv. 1063-69
+J.H.J.
+PDM xiv. 1070-77
+J.H.J.
+PDMxiv. 1078-89
+J.H.J.
+PDM xiv. 1090-96
+J.H.J.
+PDM xi". 1097-1103
+J.H.J.
+PDM xi". 1104-9
+J.H.J.
+PDM xiv. 1110-29
+J.H.J.
+PDMxiv. 1130-40
+J.H.J.
+PDM xiv. 1141-54
+J.H.J.
+PDM xiv. 1155-62
+J.H.J.
+PDM xiv. 1163-79
+J.H.J.
+PDMxiv. 1180-81
+J.H.J.
+PDMxiv. 1182-87
+J.H.J.
+PDM xiv. 1188-89
+J.H.J.
+PDM xiv. 1190-93
+J.H.J.
+PDMxiv. 1194-95
+J.H.J.
+PDMxiv. 1196-98
+T.H.T.
+PDM xiv. 1199-1205
+J.H.~.
+PDMxiv. 1206-18
+J.H.J.
+(No title) Recipes involving herbs
+(No title) List of herbs and minerals
+(No titlc) Spell to cause "cvil sleep"
+Prescription (to cause "evil sleep")
+(No title) Information concerning mineral
+A prescription (love spell)
+(No titlc) Information concerning mineral
+(No tidc) Prescription for a warcry ear
+(No tide) Information concerning sala-
+mander and herbs
+A prescription (to stop blood)
+(No title) Test of prcmancv
+. -.
+.
+A prescription (two prcscriptions to stop
+hloodi
+-~~ -
+(No title) Information conccrnine hcrbs
+"
+A prescription (two prescriptions to stop
+liquid in a woman)
+Another (prescription to stop liquid in a
+woman)
+Another (prescription to stop liquid in a
+woman)
+Gout (prescription)
+Another (prescription for gout)
+(No tide) Amulet for gout
+(No title) Prescription For unidentifiable
+ailment
+(No tide) Prescription for a stiff foot
+(No tide) Another prescription for a stiff
+foot
+(No titlc) Love spell
+(No title) Love spell
+(No title) Love spell
+(No titlc) Love spell
+(No title) Spells involving voces mqicue
+(No titlc) Love spell
+(No titlc) Spell to send dreams and make a
+woman love
+(No titlc) Request for revelation
+(No titlc) Fetching spell
+(No titlc) Spell to heal an cyc disease
+(No tide) Recipe concerning eye ointment

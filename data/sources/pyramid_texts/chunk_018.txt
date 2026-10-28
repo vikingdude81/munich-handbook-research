@@ -1,0 +1,426 @@
+ich has
+the same form when being subjunctive (like in this passage and in Middle Egyptian) and when
+
+164
+imperative, which for some reasons was restricted to the function of the introductory word: §§204c,
+206c: m(j) Tw jr.k bA.tj sxm.tj "see yourself21 having become impressive (and) in control" (see also
+162c), 629b-c: m(j) kw dbn.tj Sn.t(j)…m(j) kw Sn.tj aA.tj "see yourself having become round (and)
+encircled…see yourself having become encircled (and) big", 1610a: Asjr(t) N m(j) kw nD.tj anx.tj
+"Osiris N, see yourself tended (and) alive"; §819c P first has the subjunctive and then the imperative of
+the verb: m(j).k sw j.jj…m(j) Asjr(t) j.jj "May you see him having come…see Osiris having come";
+1864a-b: m(j) sw jj(.j) m(j) sw jj(.j) m(j) sn.k jj(.j) "see him having come, see him having come, see
+your brother having come" (see also 1492-1495a-b). See also Edel, Altäg. Gr., §§612, 613.
+
+That m(j) could have an imperative form is also proved by the following passages from the CT, in
+which it is used in parallel to another imperative, and the autobiography of Sennefer:
+
+CT VII, 237b-c: m(j) Tw jj.t(j) Ax.t(j) apr.t(j) s.mn Tw r.k m st.k tn xnt(j)t swt
+"See yourself having come, akh (and) equipped, establish yourself in this your place foremost of
+places".
+
+Urk.IV:547:8: mj wj m Ax pn "Look I am this akh (lit. see me as this akh)"
+
+To the instance of a sDm.f use of the verb mj probably should be attributed the following passage from
+"The story of Sinuhe":
+
+Sin. B 232-233: mj(.j) wj m Xnw mj(.j) wj m st tn ntk js Hbs Axt tn
+"Whether I see (i.e. imagine) myself at Home or see myself in this place, you are the one whom this
+Behind the Horizon covers (i.e. your nature is always hidden for me)"
+
+Cf. very common mj.k Tw/tw "see yourself" (traditionally read "look") and similar passage in Sin. R
+65-66: mj mAA sw jdHy m Abw, z(j) n XAt m tA-ztj "as when a Delta-man sees (i.e. imagines) himself
+in Elephantine, or a marsh-man in the Bowland".
+
+W 212 (PT 307)
+§485a: nj sTp.f j(n)bt m ab snw.f
+Allen: "he will not leap the barrier amidst his brothers the gods"
+
+There is no "the gods" in the copy of Unis (only in the copy of Pepi I). The unknown word that is
+spelled jbt (which also occurs in §1321c, there with  {road}-N31 determinative) probably stands for
+jnbt "fence" (of the root jnb "wall") with n omitted for the sake of saving space, just like in (n)hp "set
+free" (§36a), j.(n)D "greet" (§§468a, 469a, 471b, 487a, b, c, 488a), h(n)jj "haul (rope)" (§303d), r(n)pt
+"year" (§965b N), H(n)qt "beer" (is always spelled this way), (n)swt "king". For the word’s meaning,
+cf. CT I, 60e: whn n.k jnbwt.k HAt zp 2 pr.k jrt.n n.k nTrw.k njwtjw "Overthrown for you have been
+your barriers around –twice– your house, which your local gods made for you".
+
+2)
+§485c: nj wn n.f aAwj Htmwt
+Allen: "the door of provisioning will not be opened to him"
+Shmakov "the (lock)-leaves of the Htmwt-canal will not be opened to him"
+
+Htmwt is probably a body of water, maybe a canal or lake. For the opening of a canal’s (lock)-leaves,
+cf. §1203c: wnjj aAwj pt(j) znjj aAwj jAt Xrt "Open, (lock)-leaves of the looking-waters, pull open,
+
+21 The descendant of this passage has sDm.f of mj: CT I, 194e: mj.k Tw jr.k Ax.tj bA.tj sxm.tj r nTrw [rsw mHtjw].
+
+165
+(lock)-leaves of the canal “Kherti’s standard”"; §255a  j.zn aAwj qbHw "open the (lock)-leaves of the
+Cool Waters" (qbHw "Cool Waters", i. e. the sky, which was a body of water too). Cp. also Leclant,
+Pepi I, pl. II B, col. 51: xnt.k jr rt jAt "you shall go forward to the gateway of the “Standard”-canal
+(with {canal}-N determinative)".
+The absence of a body of water determinative in Htmwt in PT could be just like in ptr "Looking
+(waters)" which doesn’t have such a determinative in PT but undoubtedly is a body of water.  This
+Htmwt canal occurs in CT: CT III, 3b: mrw (or S(j)w) Htmt nj xr.j jm.sn "the canals of Htmt – I will not
+fall in them", CT IV, 366m: nmj.j xnz Htmwt "I will cross the xns-canal (and) the Htmwt-canal", CT V,
+298c: xpr.f m xnz Htm "when he comes into being from the canals xnz and Htm", CT V, 308b (also
+315j): xr.f m xnz Htmyt "He will fall in the canals xnz and Htmyt, CT VII, 223b-d: wn
+{j}<H>tm{xnt}<t> zn xnz wr nb.j jm.k zn.j jm m DHwtj "Open, Htmt-canal, pull open, great xnz-canal,
+that I may swim in you, that I may pass in (you) as Thoth" (for opening (wn) of a water body, cf. also
+§2146b: Dj.f wn.k Hntj jmj nTrw "he will let you open the basin in which the gods are", CT II, 392b:
+jAbt pw wnt ptr "this is the eastern wind that opens the looking-canal"). The Htmwt-canal could be a
+variant of Htm "Goose-canal" in §1228c. Cf. also W 54, 2 for Hwt Htmwt "Enclosure of the Htmwtcanal" (§1353c).
+
+As to the strange sense of PT 540, §1329a: Tz.n Tw Htmwt "The Htmwt-canal has raised you", the
+Htmwt-canal can be personified in this passage, just like the xns-canal is in PT 539, §1306a: [r n] mrjjra pn m xns wr "The mouth of this Meryre is that of the great xns-canal", and like the ptr "looking
+waters" having a {falcon on standard} determinative in §1680b: wn n.k TpHt pt(j) "the cavern of the
+looking waters has been opened for you".
+
+W 213 (PT 308)
+§488a: t(w)ttj jb
+Allen: "the two reconciled gods"
+
+In the edition of Neith’s PT corpus t(w)ttj jb is determined with two {woman’s head} signs, so it does
+not refer to Horus and Seth. In pers. comm. James Allen kindly signalled that it is a reference to the
+dual goddesses Mrt/Mrtj, who accompany the sun god in his boat, and that there is a study on this by
+W. Guglielmi, Die Göttin Mr.t (Probleme der Ägyptologie 7; Leiden: Brill, 1991.  Cp.
+
+CT V, 183b: j.nD(.j) Hr.Tn rHtj snntj t(w)ttj jb mrwtj
+"Greetings, two female comrades, two female fellows, two reconciled ones, two beloved ones (Mrwtj)"
+
+In CT V, 309e, 314b-c it is said that they mAAt s.DAt ra ra nb "see and accompany the Sun every day"
+and that they are sqd(w)tj...ntj ra "two sailors...of the Sun", respectively. Moreover, in CT V, 314b De
+Buck left two hieratic signs untranscribed into hieroglyphs and they are probably that of zAtj bjtj in PT
+437, §804a, PT 483, §1017c.
+
+W 214 (PT 309)
+§490a: wnjs pw DHAj nTrw HA Hwt ra
+Allen "Unis is the god’s accountant, in charge of the sun’s enclosure"
+Shmakov "Unis is the god’s barley peeler (?), in charge of the Sun’s enclosure"
+
+The meaning of DHAj in this passag is obscure. The verb DHA probably has the meaning "peel
+(barley)":
+
+The mastaba of Ti, Steindorff, Ti, Tf. 125: fA a.T m jt(j) pn jw.f DHA(.j)
+"Lift your arm with this barley, it is peeled"
+
+166
+
+Urk.I:211:14, 17: jw wD.n Hm.j nfr.n jrt…DHA…m njwt mrwj ptn
+"My Incarnation has commanded not to purchase (lit. make)…peeled grain…in the settlement of these
+two pyramids".
+
+W 215 (PT 310)
+§492d: xsbb wnjs m wAt tn xsbb tm
+Allen "should Unis be barred from this path, Atum will be barred"
+Shmakov "should Unis be barred in this path, then Atum will be barred"
+
+It’s probably not "barred from", for in PT "bar from" is xsf jr (§§334c T, 1437c, 1439a, 1440a etc.),
+and in CT it is xsf Hr (CT IV, 143b; CT VI, 388h; CT VII, 318d, 378b, 389a, 514k). m in xsb (~ xsf ) m
+wAt is probably a part of wAt, not of xsb (i. e. this is not a collocation xsb m, and we should read
+"should Unis be barred (while he is) in this path", rather than "barred from this path"), cf. PT 365,
+§622d: nj xsf.k m tA "you cannot be barred in the earth"; CT IV, 190b: jwt(j) xsf.f m nTrw "(one) of the
+gods who is not barred" (lit. who his barring is not of the gods).
+
+W 216 (PT 311)
+§495a-c: mAA ra wnjs sjA ra wnjs n sw j.rxw Tw j.rx sw jr pr nb.f nj xm.f Htp Dj
+Allen "See Unis, Sun! Recognize Unis, Sun! He belongs to those who know you, so he knows his lord
+will emerge. He will not forget the given offering"
+Shmakov "See the Sun, Unis! Recognize the Sun, Unis! He belongs to those who know you, so, know
+him (too, Unis)! When (lit. as to) his lord emerges he will not forget the given offering"
+
+We cannot read mAA ra wnjs as "See Unis, Sun!" (that would be *mAA wnjs ra), for the object of the
+imperative always follows it, which means that it is Unis who is being addressed, not the Sun.
+The second problem is analyzing what j.rx sw is. As Kurt Sethe shows (§495b), the older text version
+had a stative j.rx.k(j) "I know",  but if the editor of Unis’s corpus would have kept a stative it would
+have been j.rx(.j) "he knows", but we have j.rx sw. There is a possibility to analyze j.rx sw as participle
+phrase/adjectival predicate "the one who knows is he" ~ "he knows" (Allen, M. E., 23.11), but it is
+clear that an imperative fits the context better: "He belongs to those who know you, so, know him (too,
+Unis)!" (a similar idea occurs in PT 262).
+The third question is what jr pr nb.f might be. It seems unlikely that it is a subordinate noun clause as
+in Allen’s translation, for there’s no introducing particle such as wnt, ntt, js "that", and of course it is
+not an unmarked clause as there is jr. So it is most likley a main clause; for jr as "when" rather than
+"if", see Urk. I:130, 6,10.
+
+2)
+§§497b-498a: wD sw Dd mdw zp 4 Dd n fdw jpw khAw HAw.k mAAw m Hrwj mdww m wtwt mr(.w)
+Hna qsntj.sn Hna sk.sn
+Allen
+"commend him—recitation 4 times without pause—to those four of yours who go down behind you,
+who see with two faces and argue painfully about the firstborn with those who will have difficulty and
+him whom they would destroy"
+Shmakov
+"appoint him –recitation four times with pause(s)– to those four ones who growl (khAw) around you,
+who see with two faces (and) speak against the firstborn, who are painful (mr(.w)) against (lit. with)
+whom they torture and against (lit. with) whom they destroy"
+
+Dd occurs in PT having the meaning "to pause, delay", cf. §§591a, 618b: nD.n Tw Hrw nj Dd.n nD.f
+
+167
+Tw "Horus has tended you, for he could not delay tending you" (after Allen; also §1797b: nj Dd.n
+nD(.j) kw "I cannot delay tending you"). "those four of yours who go down" would be *fdw.k jpw hAw
+with the suffix attached to the numeral fdw, not to the plural demonstrative pronoun jpw, hence we
+have fdw jpw khAw, for the plural participle khAw "those who growl", cf. CT I, 226d-e: jmj.k Sm Hr
+wAwt mdsw khAw xrw ddw sDbw "You should not go on the ways of butchers, who growl (and) set
+obstructions".The collocation mdwj m has the meaning "speak against", see W 19, 1. qsntj.sn "whom
+they torture" is a relative form with the tj-ending, see T 203, 3. For the preposition Hna as "against",
+see W 180a, 8.
+
+3)
+§§498b-499a: mDr wnjs jr.k jw wnjs xr.k Dd(.j) n.k rn.k pw n Agb wr pr m wrt
+Allen "when Unis turns to you and Unis comes to you, to tell you your identity of the great flood that
+emerged from the great goddess"
+Shmakov "when Unis turns to you and Unis comes to you, that I may tell you your your identity of the
+Great dancer who emerged from the Great one"
+
+The original first-person suffix .j has not been emended to the third-person suffix .f ("that he may tell
+you") in this passage. For this note based on the copy of this passage in Theban tomb TT 57, which has
+Dd.f n.k rn.k…, see Hays, Structure, p.42, note 33, p. 341; Hays-Schenkh, Intersection, p. 99, note 21;
+cf. also Allen’s note 81 for another first-person suffix left in PT 311 (Allen, P. T., p. 64).
+The {three ripples of water}-N35a determinative that usually occurs in Agb "flood"  is missing here,
+hence the root is probably Agb "dance" instead, see T 225, 2.
+
+W 217 (PT 312)
+§501: r Hwwtj Hwwt nt
+Allen "toward him of the Red Crown’s enclosures"
+Shmakov "toward the enclosures’ attendant of the enclosures of the Watery Area"
+
+For the meaning of Hwwt nt, see W 54, 2.
+
+W 218 (PT 313)
+§§502b-503a: [s]T(A) <H>nn bAbjj j.wn aAwj pt [xtm] j.wn n wnjs [wAt] Hr xbxw Xr jknt nTrw zbnt
+Hrw zp 2 zbn wnjs jm m xbxw pn Xr jknt nTrw
+Allen "Pull back, Baboon’s penis! Open, [sky’s door! You sealed door, open a path for Unis] on the
+blast of heat where the gods scoop water.
+Horus’s glide path–twice–will Unis glide on, in this blast of heat where the gods scoop water"
+Shmakov "The Baboon’s penis has been drown back, the sky’s door has been opened. Sealer, open a
+path for Unis over fertile (land) with the place where the gods scoop (water) which Horus sails across –
+twice–. Unis will sail there in this fertile (land) with the place where the gods scoop (water)"
+
+The word bxxw may be a graphical transposition for xbxw (cf. the verb’s spelling j.xxmt for j.xmxt in
+§§61b, 89c), if so it may be the derivative of the root (n)xb "fertile" (cf. §123b, W 140, 5).
+
+PT 404, §702c: wAD tjt m njs jrt.k jmjt xbxw "Teti is green as the papyrus-head of your eye which is
+fertility (?)"
+
+zbnt is a relative form from the verb zbn, the simplex of zbnbn which occurs in §936b: zbnbnw pjpj pn
+Hna.Tn m sxt jArw "This Pepi will sail around with you in the Marsh of Reeds".
+
+168
+W 219 (PT 314)
+§504a: HA.k ng ngA
+Allen "Back, gored longhorn"
+Shmakov "Back, longhorned bull that butts"
+
+ngA is an active participle, not passive, cf. PT 538, §1302a: HA.k ng j.gA "Back, longhorn bull that
+groans" (here j.gA is active participle). For ng ngA, cf. PT 580, §1544c: ngA.n(.j) n.k ngA Tw m ng "I
+have butted for you the one who butted you as longhorned bull".
+
+W 220 (PT 315)
+§505c: Hms.f mm.Tn HaAtjw
+Allen "Unis will…sit among the youngsters"
+
+The original has "he will sit among you (mm.Tn), youngsters".
+
+W 221 (PT 316)
+§506a-c: j.Hmj sHd(w) nj rDj.n n.Tn wnjs HkA.f…Sdw wnjs r pt
+Allen "O you back-turning star, Unis does not have to give you his magic…Unis will be taken to the
+sky"
+Shmakov "Go back, (you) star(s)! Unis does not have to give you his magic....Take Unis to the sky!"
+
+Initial j is not the interjection j "O, Oh" but an imperative’s j-prefix that has been influenced by the
+sign {stroke}-Z1, hence j.Hmj is the imperative "go back!"; the same {stroke}-influence occurs in
+§119b: j.mHjj "become flooded", §676a j.nDr "grasp" (also §§228b: j.nsb.n.f "that which he has
+licked", 280a: j.nr "Should be afraid", 280c T: j.Ax "became full-watered", 414a T: j.mn(.j) j.mn(.j)
+"firmly firm", 424b: j.TT "the one who takes", 715c: j.rnp.jj "being young" = Leclant, Pepi I, pl. 9, col.
+5: j.rnp.(j), 1229b: j.qrrj "Heating snake", Nt 675: j.Haa.t(j) "excited", Urk.I:79:7, 195:12: j.mr(.j) "I
+wanted"; CT III, 158b: j.nxn jb.k "may your heart be glad"). The verb forms could also be influenced
+by the {man beckoning}-A26 sign, see T 282, 1.
+sHd(w) "stars" is plural as there follows a plural .Tn "you": "Unis doesn’t have to give you his magic".
+This spell is constructed as a dialogue, instead of a narration, thus Sdw most likely is an imperative
+instead of a passive prospective, and this is confirmed by a variant of the spell from CT (sp. 426)
+where an imperative occurs: CT V, 270c-271c: j.Hm sHD nj rdj.j n.Tn HkA.j pn…zy pw HkA.j pn Sd
+w(j) r pt "Go back, star(s), I will not give you this magic of mine….“Who is it (speaking)?” (ask the
+stars) “(It is) this magic of mine (speaking), take me to the sky!”" (B1Bo gives Sd sw r pt "take him to
+the sky!"). James Allen proposes to read Sdw as passive prospective sDm.f on account of the lack of
+examples in the PT in which 3rd-weak verbs have a w-ending when imperatives, and he produces as
+proof the lack of w-ending in the 3rd-weak verb zAj of §253a: zA Tn "beware, guard yourselves"
+(Allen, Inflection, §598, p. 415). However, the latter passage is treated differently in the current work,
+and moreover, James Allen missed that a damaged w-ending occurs in Neith’s copy of §253a: [zA]w
+Tn (Nt 725) and in the plural imperative of 3rd weak verb Hwj "proclaim", §155a: Asjr(t) Ast j.zjj Hww
+"Osiris (and) Isis, go (and) proclaim". Hence there isn’t any evidence against the reading of Sdw in the
+current passage as a plural imperative.
+
+For the reading of nj sDm.n.f as "he does not have to hear" in the current passage, cf. CT V, 55b (BqC,
+T1L): nj rdj.n.j HAtj.j pn n xppw "I do not have to give this heart of mine to those who passed on (i. e.
+the dead)"; other sarcophagi give a prospective sDm.f: nj rdj.j HAtj.j pn n xppw "I will not give this
+heart of mine to those who passed on", and so does the descendant of the discussed passage (CT V,
+270c-271c), and cf. CT V, 311e-f (also ibid 299d): nn rdj.n N pn Axw.f nj rdj.n N pn HkA.f n mrwtj
+jptwtj "This N does not have to give his effective-magic; this N does not have to give his magic to
+
+169
+these two Meruti".
+
+2)
+§506b: Hms wnjs sA.f jr Dsrt m jwnw
+Allen "Unis will sit with his back to the swept area in Heliopolis"
+Shmakov "Unis has sat with his back to the Crier in Heliopolis"
+
+For the meaning of the verb Dsr as "shout, cry", see (T 145, 7). Cf. also the descendants of this
+passage, CT V, 271a (S1C): Hms.j sA.j r Dsrt wrt m jwnw "I have sat with my back to the Great Crier
+in Heliopolis", ibid., 400h: aHa.n.j m Dsrt "I have stood up as the Crier" (here Dsrt has {sitting
+woman}-B1 determinative).
+
+W 222 (PT 317)
+§507b-c: wnjs pj sbq…abS pr m sbq xbzt wrt jmjt jAx
+Allen "Unis is Sobek…the splashing one who came from the thigh and tail of the great goddess in the
+sunlight"
+Shmakov "Unis is Sobek…the swallower who came as luminous one, the great tail in the sunlight"
+
+The expression pr m sbq occurs in PT 669, §1963a ("who has come as a wise one" after Allen). The
+word sbq is used to characterize the imperishable stars (see W 176, 2) and is probably a causative of
+bAq "bright, light", with A in the middle omitted (s.b(A)q) and for this reason spelled with {D56} sign
+as if sbq "shank, calf (of leg)". For the meaning of the verb abS, cf. Hornung, Amduat, p. 133: jw rx st
+m tmw abS am bA.f "The one who knows it is the one whose ba cannot be swallowed or gulped down".
+For pr m as "come forth as" (rather than "come forth from"), see T 263. The reference to Sobek as
+"great tail" (sbq xbzt) is probably due to his long crocodile’s tail.
+
+2)
+§510c-d: wnjs pj nb mtwt jT Hmwt m-a h(j).sn r st mrr wnjs xft Szp jb.f
+Allen "Unis is lord of semen, who takes women from their husbands to the place Unis likes according
+to his heart’s fancy"
+Shmakov "Unis is the one who has semen (and) takes wives away from their husband(s) to the place
+(when) Unis wants, according to his fancy (lit. to how his heart receives)"
+
+Kurt Sethe indeed has missed the word nb "lord, owner" in this passage (it also occurs in CT VIII,
+§510c). The verb form mrr does not agree with the preceding feminine noun st: if it is not a mistake or
+omission of the t-ending (it is also absent in CT VIII, §510d), then this point indicates that mrr is
+probably not a relative form but a non-attributive relative (= nominal, Allen, M. E., 25.1 ff.), and that
+we probably may read mrr wnjs as "(when) Unis wants". For the relative form having the noun st
+"place" as antecedent with the t-ending spelled out, cf. PT 690, §2100c: swt.k mrt.k "your places that
+you like", Naville I, BD 170:5: r st mrtj kA.k "to the place which your ka loves". For the relative
+construction with the noun st "place" as antecedent and having non-attributive relative form, cf. Budge,
+BD171:3: s(w)t.f nb(t) mrr kA.f jm.sn "all his place(s) where his ka loves (to be)" (with infinitive wn
+omitted). For comparable phrases having a non-attributive relative form of the verb mrj in combination
+with another non-attributive relative Szp jb.f, see:
+
+CT II, 28e-29b (B1Bo): N pn bA pw n Sw…prr r pt r mrr.f hAA r tA r Szp jb.f
+"This N is the ba of Shu…he ascends to the sky how he likes, he descends to the earth according to his
+fancy"
+
+CT III, 263e: jwr.n.s w(j) r mrr.s ms.s w(j) r Szp jb.s
+
+170
+"She has conceived me how she liked; she gave me birth according to her fancy"
+
+CT VI, 344d: qd.n(.j) wj r mrr.j xft jb.j
+"I built myself the way I wanted according to my wish (lit. heart)"
+
+CT V, 349b (B6C): jw.f Sm.f r mrr.f r st jb.f m spAwt.s m njwwt.s
+"He comes (and) goes the way he likes (and) according to his liking in its districts (and) villages"
+
+Of course there is a chance that the t-ending was left out, and then James Allen’s translation is the
+correct one, cf. §1153b N, Nt 792: st wrt jr<t> nTrw "great seat which gods made" (with t left out or
+missed in both pyramids), Naville I, BD 181:10: Hms.n.k Hr st.k wabt jr<t>.n n.k gbb "You have sat
+on your clean seat which Geb has made for you".
+
+W 223 (PT 318)
+§512c: nHm.n wnjs wsrt.Tn nTrw
+Allen "Unis will take away your power, gods"
+Shmakov "Unis has taken away your (bull’s) neck(s), gods"
+
+The word for "power" in the PT (and other texts) is wsr/wsrw (§§320b/290a), while the word wsrt has
+the meaning "(bull’s) neck". Cf. the same phonetic spelling (with the r-{mouth} complementary sign
+and without the {stroke} sign) of this word by Unis’s editor in PT 254, §286c-d: TAz.n.f tp.f Hr wsrt.f
+jw wsrt wnjs Hr mkt.f "He has tied his head onto his neck. Unis’s neck is on his torso" and PT 217,
+§157b: DbA(.j) m jnpw Hr wsrt "robed into Anubis on the neck". The first copy of Teti of this PT spell
+also gives: jj.n tjt nHm.f wsrwt.Tn nTrw "Teti has come that he may taken away your (bull’s) neck(s),
+gods", whereas the second copy was reinterpreted: jj.n tjt j.dr.f wsr.Tn nTrw "Teti has come that he
+may remove your power, gods". Cf. also:
+
+CT II, 37a: jnk anx TAz tpw s.mn wsrwt s.anx Ht(y)wt
+"I am life that joins heads, sets necks and brings to life throats"
+
+CT V, 391h: nHm.n.j wsrwt Axw
+"I have taken away the necks of the akhs"
+
+CT V, 396l-n: jw.j xa.kw m nTr jT.n.j HAwt.Tn xma.n.j wsrwt.Tn
+"I have appeared as god, I have taken away your fronts (and) have grasped your necks"
+
+CT VII, 236p-q: jw jT.n.j wsrwt.sn jw am.n.j Axw.sn jw wnm.n.j HkAw.sn
+"I have taken away their necks, I have swallowed their akh-magic, I have eaten their magic"
+
+Sethy I, Abydos IV, pl. 16: jrt snTr n Hr.k nfr st HAb n wsrwt.k nTr Spss
+"Censing (lit. making of incense) for your beautiful face, festival scent for your neck, (O) noble god"
+
+W 224 (PT 319)
+§513a: wnjs pj kA jAxwj Hr jb jrt.f
+Allen "Unis is a bull with sunlight in the middle of his eyes"
+Shmakov "Unis is a sunlight’s bull in the middle of his eye"
+
+There’s a double {sun with rays} sign as determinative probably because the word is nisbe jAxwj "he
+of the sunlight", i. e. a false-dual is employed to make a nisbe, like in Axtj "he of the Behind the
+Horizon". For the expression Hr jb jrt.f, cf. CT V, 378b, 385k: jw.j m Hr-jb jrt.j "I am in the middle of
+
+171
+my eye". Moreover, cf. the designation of the king as kA psDt "bull of the sunlight" (§717a) and of the
+Sun as kA jAxw "bull of the sunlight" (§889d, with a single {sun with rays} sign). For comparable
+phrases, see:
+
+CT VI, 224f: N pn hdd Hr jb jrt.f "This N is hdd in the middle of his eye"
+
+CT VI, 262b: jnk ra Hr jb jrt.f "I am the Sun in the middle of his eye"
+
+CT VII, 16u-v: baH.j m DfA.T mj Hr(j)-jb jrt.f mssw mA.w ra nb "I am being satisfied with your food
+like the one in the midst of his eye born anew every day"
+
+CT VII, 177k (P. Gard. N): jnk ra Hr [jb jrt.f] "I am the Sun in the mid[dle of his eye]"
+
+CT VII, 222h: jnk sjA Hr jb jrt.k "I am Perception in the middle of your eye"
+
+CT VII, 409b (B1BO): N aA Hr(j) jb wjA.f Hr(j) jb jrt.f
+"N is the elder one in the midst of his bark, in the midst of his eye"
+
+Naville II, BD 96&97, 1 (Aa bis), p. 214: jnk Hr jb jrt.f "I am the one in the middle of his eye"
+
+All these examples follow the pattern of {I/N being someone/something in the middle of the eye}, thus
+suggesting that kA jAxwj must not be split up, which is also proved by the epithet kA jAxw "sunlight’s
+bull" (§889d), hence jAxw of §513a refers to kA "bull", not to Hr jb jrt.f "in the middle of his eye".
+
+2)
+Allen "Unis will cultivate lapis-lazuli"
+
+xsbD "lapis-lazuli" is a reference to the blue colour of the sky.
+
+3)
+§514a,b: jw T(A)z.n wnjs aqAw SmSmt zmA.n wnjs pwt
+Allen "Unis has tied together the peppergrass cords, Unis has united the skies"
+Shmakov "Unis has tied the peppergrass tows (to his ferryboat), Unis has landed (on) (lit. joined) the
+skies"
+
+The usual meaning of zmA is of course "unite, join", but the literal translation does not make sense in
+this case, as the combination of the verbs TAz and zmA has a semantic connection to shipping:
+
+PT 555, §1376a: TAzjj aHw zmA mXnwt.f
+"Tie the towing lashings, land his ferryboats"
+
+CT II, 154f: jnk TAz sn jnk mjnj s(j)
+"I am the one who tied them (i. e. the tows), I am the one who moored it (i. e. the ferryboat)"
+
+CT II, 163e-f: jnk TAz sw jnk jn s(j) r tA
+"I am the one who tied it (i. e. the tow), I am the one who moored it (i. e. the ferryboat)"
+
+CT II, 191a-b: nn TAz.Tn aqAw nn zmA.Tn mXnwt
+"You will not tie the tows nor moor ferryboats"
+
+172
+CT II, 197d-198a: TAz.kA.t(w) aqAw zmA.kA.t(w) mXnwt
+"Then the tows will be tied and ferryboats moored"
+
+CT III, 76p-77a, S10Ca: zmA mXnt.j m jnw TAz aqA.j m ddw
+"My ferryboat has been landed in Heliopolis, my tow has been tied in Busiris"
+
+CT III, 95b: TAz aqAw n ra m pt zmA.f tA r jmnt nfrt
+"Tows have been tied for the Sun in the sky so that he may moor (lit. join the land to) the beautiful
+west"
+
+In the above examples, we have couples consisting of TAz "tie" (tow to the ferryboat) and (as second

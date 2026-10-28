@@ -82,7 +82,22 @@ for e in entries:
             if not any(ddir.glob("*.json")):
                 warn(f"track '{eid}' ingested but no distilled outputs in {ddir.relative_to(REPO)}/")
         declared_chunk_dirs.add(cdir.resolve())
-    elif st in ("staged", "scanned_images"):
+    elif st == "staged_chunked":
+        # staged pre-distill: binaries + chunks exist, but no distilled output yet
+        binpaths = ([e["path"]] if e.get("path") else []) + list(e.get("paths", []))
+        if not binpaths:
+            fail(f"staged_chunked '{eid}' has no path/paths")
+        for p in binpaths:
+            if not (REPO / p).exists():
+                fail(f"staged_chunked '{eid}' missing binary: {p}")
+        cdir = REPO / e.get("chunks_dir", f"data/sources/{eid}")
+        chunks = list(cdir.glob("chunk_*.txt")) if cdir.exists() else []
+        if not chunks:
+            fail(f"manifest '{eid}' status=staged_chunked but no chunk_*.txt in {cdir.relative_to(REPO)}/")
+        if "chunk_count" in e and e["chunk_count"] != len(chunks):
+            fail(f"manifest '{eid}': chunk_count={e['chunk_count']} != actual {len(chunks)}")
+        declared_chunk_dirs.add(cdir.resolve())
+    elif st in ("staged", "scanned_images", "staged_ocr"):
         p = e.get("path")
         if not p:
             fail(f"staged/scanned '{eid}' has no path")

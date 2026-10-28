@@ -1,0 +1,438 @@
+b inscriptions above, the word Sbt(w) "poultry houses" spells Stb or Stbw, but this is actually
+graphical falsification: this is the rule the present author would call “jb is good, bj is bad” or “the leg
+sign better fits in the second position”, cf. the following spellings:
+
+Stb – bSt "rebel" (Urk.IV:269:15, 271:16, 648:7)
+qHb – qbH "become cool" (§§1204c, 1877d)
+dHb – dbH "ask, beg" (Murray, Saq. Mas., pl.7)
+nsb – nbs "ziziphus fruit"
+aHb – abH "scoop, fill with water" (§§1293c, 1140b M, 1902c)
+wsb – wbs "toss, pile up" (in the expression wbs zp "tossing (barley (sheaves) into) a stack, pile up a
+stack", L.D.II:107)
+Hbz – bHz "calf" (Mariette, Mast., D23, p.243)
+qbsw – bqsw "vertebra" (§229b)
+qb – b(A)q "an oil of bAq-tree" (Urk.IV:59:10)
+hbA – hAb "send" (Couyat-Montet, Hammamat, p. 80, 9)
+
+Thus Wb.IV:557:7 wrongly lists the word as Stb.
+
+P 31 (PT 437)
+§793c-794c: aHa.k m jnpw Hr mjn sdAw n.k psDt jrw n.k tp(j)w wa[b.k n] psDtjw xaw.k n tp(j) Abd
+Dsw n.k mjn(j)t wrt
+Allen "and take up your position as Anubis on the shrine. You at whom the Nine shake and for whom
+the first ones act, [you] will become clean at the new-moon day and appear at the first of the month.
+The Mooring Post will call out to you"
+Shmakov "and stand up as Anubis on the pavilion, and the Nine (arcs of the sky) will tremble at you,
+(the festival of) the first (days) will be held (lit. made) for you, you will become clean at the new-moon
+day, appear at the first (day) of the month and the Great Moorer will call out to you"
+
+sdAw and jrw are probably not relative forms ("you at whom the Nine shake at you, you for whom the
+first (days) act for you"), but prospective sDm.f’s used in clauses of result (Allen, M. E., 21.6), as well
+as the following wab, xaw, and Dsw. The clause jrw n.k tp(j)w has passive prospective jrw, hence the
+reading is actually "the first (days) will be held (lit. made) for you", cf. PT 483, §1012c which has
+sDm.f with passive tj-suffix: jr.t(j) n.k tp(j)w "the first (days) will be made for you". The text has
+
+250
+"Great Moorer", not just "Moorer" (James Allen reads this differently, namely as "The Mooring Post",
+overlooking the wrt). The psDt "The Nine" do not refer to the Ennead or the Nine Bows, but to the nine
+arcs of the sky (see W 151, 1, N 359, 3), which are mentioned in §§393b, 797a, 801b, 805c, 1004b,
+1018c, 1443a M, 1486a, 1490b, 1972 as just "arcs"; cf. also:
+
+PT 215, §143a: nwrw n.f tA sdAw n.f pt
+"at which the earth shakes and the sky trembles"
+
+PT 273, §393b: nm(j)nm(j) pDwt sdA qsw Akrw
+"the (sky’s) arcs have made a movement, the bones of the horizons have trembled"
+
+With tp(j)w "the first ones" are meant the first days of weeks/decades (mD, L.D.II:5, Mariette, Mast.,
+F2, p. 433), months (Abd, §§521b, 657b, 794b, 811b, 2055c, 2056c, Nt 601 (= §2118c)), half-months
+(mDdjwnt, §§521b, 657c, 811b, 2055c, 2056c), seasons (trw, see P 464, 5), and years (rnpt,
+Wb.V:276:6).
+
+2)
+§795d-e: Dj.f n.f Ax.f jmj wrSw p(j)w saH.f sw m nTr jmj wrSw nxn(j)w
+Allen "giving him his (status as an) akh as one of the watchers of Pe, and privileging him as a god as
+one of the watchers of Nekhen"
+Shmakov "giving him his akh-magic in (charge of) the watchers of Pe, and dignifying him into a god in
+(charge of) the watchers of Nekhen"
+
+Literally "akh-magic that is in (charge of)…", "god that is in (charge of)…".
+
+Cf. PT 519, §1220a: wd.kA.k n.k pjpj pn m sr jmj Axw
+"Then you have to appoint this Pepi as judge that is in (charge of) the akhs"
+
+The copies of Merenre and Neferkare give n instead of Pepi’s jmj – n Axw jpw, "as judge of these
+akhs". For a similar function of the m-nisbe, cf. also P 4. For Ax as "akh-magic" (or "effective power"),
+cf. PT 301, §455a: aHa zxn wr…mH.tj m Ax.k "Stand up, Great Explorer…filled with your akhmagic", PT 553, §1364c: Ax.k HA.k sxm.k m Xn.k "your akh-magic is around you, your control is inside
+of you". For Ax ~ Axw "akh-magic", see CT I, 86-87c, 148b, CT V, 157c, CT VI, 321f, and see P 303,
+2. For the collocation saH m "dignify/title/rank into, appoint", cf. PT 320, §515b: xa sxmw saH.sn wnjs
+m bAbjj "The power-bearers have appeared (and) dignified him into baboon".
+
+3)
+§§796c-798a: pr.k Hr xrw jnpw s.Ax.f Tw m DHwtj wp.k nTrw tAS.k pDwt jmjwt(jj) sxmw(j) m s.Ax.k
+pn wD.n jnpw j.Sm.k j.Sm Hrw mdw.k mdw stS
+Allen
+"You shall emerge at Anubis’s voice, and he will akhify you as Thoth, that you may part the gods and
+set the borders of the (sky’s) arcs between the two Controlling Powers by virtue of this akhification
+that Anubis has commanded. When you go, Horus goes; when you speak, Seth speaks"
+Shmakov
+"You shall come forth at Anubis’s voice, and he will turn (lit. akhify) you into Thoth that you may part
+the gods and delimit the (sky’s) arcs, (you) the mediator of the Two Power-bearers, by virtue of this
+your turning magic (lit. akh-making magic) which Anubis has handed (lit. commanded). You should
+go when Horus goes, you should speak when Seth speaks"
+
+The expression s.Ax Y m Z (§1013a: j.s.Ax.f Asjr(t) m nTr "that he may turn (lit. akhify) Osiris into a
+
+251
+god") is synonymous to s.xpr Y r Z (Urk.IV:361:11, 560:1), both meaning "turn/change Y to Z", cf.
+CT IV, 108g-h: xpr.n.j m tm Ax.n.j m Hrw "I have become (lit. evolved into) Atum, I have turned into
+Horus". jmjwt(jj) sxmwj "the mediator of the Two Power-bearers (i. e. Horus and Seth)", literally "the
+one who is between the Two Power-bearers", probably refers to Thoth: cf. his signification as wp
+nTrwj "Parter of the Two Gods (i. e. Horus and Seth)" in §273c (for the correct transliteration jmjwt(j),
+see Supplemental notes, notes on the signs, 17). James Allen overlooked the pronoun .k "your" in
+s.Ax.k pn.
+
+As the whole passage refers to the deceased king’s role as Thoth, the last two clauses may refer to the
+passage and express Thoth’s mediatory actions or functions – "You (i. e. the king-Thoth) should go
+when Horus goes, you should speak when Seth speaks", rather than be a part of the next stanza and
+express the king’s nature as both Horus and Seth (see W 175, 1).
+
+4)
+§799c: Sd.sn Tw jr pt m bA.k j.bA.tj jm.sn
+Allen "they will take you to the sky in your ba, you having become ba as one of them"
+Shmakov "they will take you to the sky due to your ba, (for) you have impressed them"
+
+See W 134 for the relevant comments.
+
+5)
+§801b: Dsr n.k wAwt psDwt s.jat n Hrw
+Allen "for the paths of the (sky’s) arcs that ascend to Horus have been swept for you"
+Shmakov "for the paths of the (sky’s) arcs that ascend to Horus have been beaten for you"
+
+The expression Dsr wAt probably has the meaning "beat/blaze/smooth a path"30, not "sweep a path"31.
+The source of such a reading may be the meaning that is peculiar to Dsr, i. e. the meaning of
+separation: to set apart / to mark a road/path in the wilderness, to separate a road (from the surrounding
+land). Cf. the expression wp wAt "discern a path", lit. "part/separate a path (from the blind alley)" (see
+W 155, 10). Cf. also:
+
+CT I, 223e: Dsr wAwt nt arrwt
+"the paths of the passages have been beaten"
+
+CT IV, 85b: Dsr n N pn sxmw wAwt
+"The Power-bearers have beaten roads for this N"
+
+CT IV, 85f-g: s.mn N pn arrwt Hr nb tm Dsr.n N pn wAwt Hr.f
+"This N has established passages for the sake of the Lord of All; this N has beaten paths for his sake"
+
+CT IV, 68b-d (B2Bo): j Hrw mj r.k r Ddw Dsr.k n.j wAwt.j mA.k jrw.j
+"Oh Horus, come pray to Busiris that you may beat my paths for me and see my form"
+
+CT VII, 252a-b: xr sdA m Axt jAbt(j)t nt pt Hr xrw nwt Dsr.s wAwt n ra tp awj wr dbn.f
+"Trembling has seized (lit. "trembling has fallen into") the eastern Behind the Horizon at (i. e. because
+of) the voice of Nut as she is beating the paths for the Sun before the Great one as he is going around"
+
+30 This reading was suggested by TLA: Dsr.tw n=j wA,t "Man bahnt mir den Weg" (pLondon BM EA 10477 (pNu), Tb 149).
+31 This expression (using the verb sk "sweep, wipe") occurs in BD 15A, pBerlin 3002 (pNacht-Amun), 53: wn.tw n.k aAwj Axt
+sk.tw n.k wAt (n)HH "The (door)-leaves of the Behind the Horizon have been opened for you, the path of nHH-time has been
+swept for you".
+
+252
+
+Couyat-Montet, Hammamat, p. 83, 11-12: mSa…Hr Dsr wAwt Xr HAt(.j) Hr s.xrt sbjw Hr nswt
+"army…was beating paths in front of me (and) felling those who rebel against the king"
+
+Stela Berlin 1204, 20: jw Dsr.n.j wAwt nTr r maHat.f xnt(j)t pqr
+"I have beaten the roads of the god to his tomb at the fore of Peqer"
+
+pTurin Museo Egizio 1791, BD 64: Dsr n.j wAt nfr(t) Hr sbAw n dAt
+"Beat for me the right way to the gate of Duat"32
+
+pKairo CG 51189 (pJuja), BD 136B (the descendant of CT VII, 278c-d): Hr Hrw.tn HfAw afnw Dsr.tn
+n.j wAt swA.j
+"(lie down) on your faces (i. e. "fall prone"), you snakes…beat for me a path, that I may pass"
+
+pKairo CG 25095 (pMaiherperi), BD 149, III:290-291: Hrw.Tn m Xrw Dsr wAwt.Tn s.wab TAzwt.Tn
+"Let your faces be down! Beat your paths, purify your knots!"
+
+Budge, BD149, X:5-6: {H}sq(j).tw n.j wdnt Ast tp<-awj>.j nbt-Hwt HA.j Dsr.tw n.j wAt naw
+"The signal will be given (or "a gong will be beaten") for me, (with) Isis before me (and) Nephthys
+behind me, a path will be beaten for me"
+
+Cp. the expression Dsr wAt with the M.K. expression Dsr Hpwt "steer" (Wb.III:68:2), literally
+probably "lay out a course/directions".  The Hpt is supposedly a nautic instrument (sign Aa 5) used for
+steering a ship, different from the steering oar Hmw (sign P10) (cf. Wb.III:67:13-15). Cp. jTj Hpt n/r
+"sail to (lit. take the course to)" (Wb.III:67:13-15), literally "take hold of the Hpt towards", hence "set
+course to". It is here proposed that notably in plural, Hpwt has the derived meaning "course(s),
+directions":
+
+CT VI, 269b: jw Dsr.n.j Hpwt m (m)skt(j)t
+"I have steered (lit. laid out directions in) the Evening-boat"
+
+Louvre C 3, CM CG 20024, Guimet E.11324, Boston MFA 72.766, Rio de Janeiro 643:
+Dsr.f Hpwt m (m)sktt sqd.f m (m)aDyt
+"He will steer (lit. lay out directions in) the Evening-boat (and) sail in the Morning-boat"
+
+GMII I.1.a.5603 (4071): Dsr.f Hpwt m (m)skt(j)t zmA.f tA m (m)a(n)Dwt
+"He will steer the Evening-boat (and) moor in the Morning-boat"
+
+Cp. Dsr Hpwt with jr Hpwt "sail" (Wb.III:68:5), literally probably "plot (out) a course, set directions".
+
+The meaning of "course, directions" for Hpwt is also suggested by its use in other constructions that
+seem to make it synonymous to wAwt "way, path", cf. dndn Hpt and dndn wAwt:
+
+Louvre C15: dndn.f Hpwt nt tA wr
+"(as) he (i. e. wp wAwt, Paths’ Discerner) is visiting courses of the Great Land (nome)"
+
+stela BM 567 (idem Louvre C3, Muenchen Gl WAF 35):
+dndn.f wAwt nfrt Hr pgAw Axt jmnt(j)t
+
+32 A variant of dj n.j wAt nfrt r sbA dwAt "Give me the right way to the gate of Duat" (Budge II, BD64:28 (pNu, long version)).
+
+253
+ "he will visit the right ways on the spaciousness of the western Behind the Horizon"
+
+GMII I.1.a.5603 (4071): dndn.f wAwt Xrj-nTr
+"he will visit paths of the necropolis"
+
+Both wAwt and Hpwt could be governed through the preposition m:
+
+BM 567: Sms.f sw m wAwt.f nbt wabt
+"he will follow him on (lit. in) all his clean paths"
+
+Louvre C3, BM 567: s.Ax sw kA jmnt Hkn.f Hna.f m Hpwt.f
+"The bull of the West (i. e. Osiris) will make him become akh that he may have the use of his courses
+with him"
+
+Dsr wAt  "beat a path" should not to be confused with wAt Dsrt "restricted path", see T 145, 7.
+Although we cannot fully exclude the possibility that the expression wAt Dsrt might mean "beaten
+path".
+
+6)
+§802c-03a: sq(j) dAt(j) D(j)t.k jr bw Xrj s(A)H rDj.n n.k kA pt a.f
+Allen "The Duat shall lay down your hand toward the place where Orion is, the sky’s bull having given
+you his arm"
+Shmakov "He of the Duat shall take your hand to the place where Orion is (lit. under Orion), after the
+Bull of the sky has given his arm to you"
+
+dAt is probably the nisbe dAt(j) "He of the Duat", the short reference to Hrw dAtj "Horus the Duatian,
+Horus of the Duat", i. e. the Sun which goes through the Duat during the night; cf. the spelling without
+a nisbe j-ending in §148a: Hrw dAt, and a similar spelling of another reference to the Sun as Axt(j) "He
+of the Behind the Horizon" (mostly in names, for instance Axt(j) Htp(.j) Akhethetep, "He of the Behind
+the Horizon is content"). Note also that kA pt "the sky’s bull" (§803a) follows this passage, i. e. we
+have two divinities as subjects of the actions, not two localities.
+
+The expression sq(j) D(j)t jr "take (lit. clap) the hand to" is probably synonymous to the expressions
+nDrj a jr "take (lit. hold) an arm to (a place)" (§§856e, 1123b, Nt 762, Leclant, Pepi I, pl. II B, col. 69
+(= Nt 765): nDr n.f nHb kAw a.k jr Axt Arw "Kas-Assigner will take for himself your arm to the reedmarsh"), nDrj a Dr "take an arm at/in (a place)" (§1139a-b), and Szp a jr "take (lit. receive) an arm to
+(a place)" (§§1253d, 1327a, Nt 807), all with the general meaning of "take a person by the arm towards
+(a place)" (cf. Nt 762 jm.sn nDrw a.k jr pr "lest they take your arm to the house" and its descendant CT
+I, 284i: jm.sn jTj Tw jr pr "lest they take you to the house"). See also PT 582, §1561a-b: rDj n.f sAH a.f
+Szp n.s spdt D(j)t.f "Orion has given his arm to him (i.e. to the king), Sopdet has taken (lit. received)
+his hand onto herself"; so a similar pairing: rdj a / Szp D(j)t in this text and rdj a / sqj D(j)t in the
+current passage, indicating that the arm is extended towards someone, who is then taken by the hand to
+be led somewhere. Merenre’s and Neferkare’s version of the current passage in a similar spell (PT 610)
+is different: §1717a-b: sq(j) n.k rdw j<r> dAt jr bw nt(j) sAH jm Szp jH pt a.k "A stairway has been
+laid down for you to the Duat, to the place where Orion is, and the Sky’s Ox shall receive your arm".
+
+7)
+§804a: zAtj bjt(j) tptj.f nbt(j) wrt(j)
+Allen "The hereditary king’s two daughters—the red ones upon him in his two boats, the great ladies"
+Shmakov "son (and) daughter of the Northern king, the two upon him, the two great ladies"
+
+254
+
+Toby Wilkinson writes about these deities (zAtj bjt(j)): "The hieroglyphs themselves resemble birds’
+nests, but instead are probably to be identified as cult boats, perhaps for use in royal ceremonies
+(Anthes 1957:80, 83 fig 2)" (Wilkinson, Annals, p. 97 (Djer’s third year)).
+
+Wilkinson’s first assessment is absolutely right and his doubts about what the hieroglyphs represent are
+not needed – as Merenre’s copy of §804a shows it are undoubtedly {two nests with two birds in each}
+(in Pepi’s version one bird in each). Fortunately, Merenre’s editor has depicted two genets (Genetta
+Viverridae) climbing the two nests; such representations of a genet climbing a papyrus growth to reach
+bird’s nests are very common in the Old Kingdom private tombs; besides a genet, such scenes often
+include an Egyptian mongoose (which has bigger ears), likewise attacking bird’s nests (the mastabas of
+Steindorff, Ti, Tf. 113; Duell, Mereruikai, pl. 10, 19; Davies, Ptahhetep II, pl. 13; Sankhuiptah, pl.
+69(=76); Kanawati-Raziq, Hesi, pl.54; Kanawati, Inumin, pl.39; L.D.II:60, 77, 106a; Meir IV, pl.7).
+
+Allen accepts Anthes’s incorrect interpretation of the two complex hieroglyphs that follow zAtj bjt(j),
+and sees the birds inside those hieroglyphs as flamingos (G27, dSr), hence his reading of the two
+hieroglyphs as <the red ones (dSr) in (his) two boats>.
+
+The name of the Mafdet-genet is probably formed by the prefix m plus the root Afd of which the
+meaning is unknown, but which probably is related to Hfdj "climb" (cf. CT V, 142a,  variation between
+mAfdt and Hddt, though we do not have a case of /A/ ~ /H/), as genets are often represented climbing
+papyrus roots;  thus the name Mafdet probably has the meaning "Climbing one" (m-Afd-t, see T 159).
+On the Palermo Stone she climbs the {crook with package attached}-sign T18 (see W 5, 3). For the
+definition of Mafdet as a genet we are indebted to Hermann Kees (Kees H., Der Götterglaube im Alten
+Ägypten. Berlin (DDR), 1956. pp. 33-34).
+
+8)
+§805d-806b: baHj.k m sxt nTrw wSbt.sn jm.s Ax.k n.k jnw.k n.k
+Allen "Your abundance is from the gods’ marsh, from which they feed. You have your akhification,
+you have your fetchers"
+Shmakov "You become sated with the gods’ marsh, from which they feed. Your akh-magic is for you,
+your fetchers are for you"
+
+Kurt Sethe misunderstood jm.s Ax.k "from it (i. e. the marsh). Your akh-magic" with the co-referent
+jm.s as jm s.Ax.k. For the meaning of the verb baHj, see P 334.
+
+9)
+§808a-b: Sms Tw jAmAm wDb n.k nbs tp.f m jrw n.k jnpw
+Allen "The jmA-tree shall follow you, the sidder shall turn its head to you, as you for whom Anubis
+acts"
+Shmakov "The jmA/jAm-tree shall follow you, the sidder shall turn its head to you, as that which
+Anubis did for you"
+
+Cf. PT 483, §1019a: Htp rDjw jnpw Sms Tw jAmAm wAH n.k nbs tp.f
+"An offering which Anubis gave: the jmA/jAm-tree shall follow you, the sidder shall bow its head to
+you"
+
+CT VI, 354j-l: Htp dj jnpw xnt(j) tA Dsr…Sms Tn jmA wDb n.T nbs tp.f
+"An Anubis-given offering, who is at the fore of the necropolis:…the jmA-tree shall follow you, the
+sidder shall turn its head to you"
+
+255
+
+All these three clauses have relative verb forms – "as what Anubis did for you", "an offering which
+Anubis gave" and express the same thought, so jrw refers to the actions caused by Anubis ("what
+Anubis did for you"), not to the person as Allen suggests in his translation ("you for whom Anubis
+acts").
+
+Cp. CT I, 81o: anx.T m-xt nxx m jr n.k Hrw Ds.f
+"You will live after old age as/according to what Horus himself did for you"
+
+and also §§760c, 1458e.
+
+P 32 (PT 438)
+§809b-c: n jwt jt(j)w.k m r(m)T n jwt mwt.k m r(m)T jt(j).k smA wr mw(w)t.k Hnwt
+Allen "because you have no human father, because you have no human mother. Your father is the great
+wild bull; your mother is the lass"
+
+The original has "because you have no human fathers, because you have no human mother. Your father
+is the great wild bull; your mother(s) are the lasses". Notice the play in the passage: the first sentence
+has "fathers"/"mother", while the second sentence has "father"/"mother(s)". Pepi Neferkare’s version
+gives: "because you have no human fathers (jt(j)w), because you have no human mothers (mwwt). Your
+father is the great wild bull; your mother is the lass".
+
+2)
+§810c-811b: wn n.f TpHt wrt jwnw wrt Hts wr-a nj xnt(j) jmntjw Dj.s n.k mw…jr tp mDdjwnwt
+Allen "he to whom the great cavern has been opened, the Heliopolitan, he of the great baton, the great
+one of the sedan chair of Foremost of Westerners. She shall give you water…at the middle of the
+months"
+Shmakov "he to whom the great cavern of Heliopolis has been opened, the great one of the baton, the
+sedan chair-dwarf of Foremost of Westerners. She shall give you water…at the first (day) of the halfmonthly festivals"
+
+Neferkare’s version gives the classical spelling of the queen’s title wrt Hts "great one of Hts-sceptre"
+(Jones, Titles, # 1481), Pepi’s version undoubtedly gives the same title with t in wr(t) omitted (cf.
+Urk.I:155:15 wr(t) Hzt "great of favor") and Hts-sceptre with t complement, cf. Jones, Titles, # 1476
+(and Sabbahy, Development, p. 22 and nn. 14-17 (wrt Hts not wrt jmAt)). Thus the passage §§810c-11a
+probably deals with  the "great cavern", with the two titles (wrt Hts, wr-a) referring to it, not to Horus
+foremost of Letopolis (mentioned in §810b, the .f in the present passage). The original has "at the first
+(day) (tp(j)) of the half-monthly festivals", James Allen meant it by writing "at the first of the months"
+which comes first, but then he should have written "and the middle of the months" rather than "and at
+the middle of the months" to avoid misunderstanding by the reader.
+
+4)
+§811d: Sbtjwj n.k Hr nmt xnt(j) (j)mntjw
+Allen "You have ribs from the butcher’s block of Foremost of Westerners"
+Shmakov "Two bundles (of ribs) are for you from the butcher’s block of Foremost of Westerners"
+
+The word Sbt has the meaning "bundle", not "ribs" or "rib meat"; it is determined with the sign {rib}-
+F42 and is a synonym of spHt, which has a variant of the same determinative, F43, though F42 also
+occurs in the spelling. spHt means "bundle, knot", not "rib meat" as usually is presumed, for it derives
+from the root spH "tie, lasso" (see W 165, 9) and occurs in the epression spHt sprw "a bundle (of) ribs"
+
+256
+(lit. "a bundle, ribs"), spHt nt sprw "a bundle of ribs" (Wb.IV:105:14, for ex. L.D.II:67, 70), also spHt
+nt 4 spr(w) "a bundle of four ribs" (Kanawati-Raziq, Hesi, pl. 64; Simpson, Qar and Idu, fig. 30 (nt
+spr(w) 4), cf. Montet’s reading "réunion, quartier de côtes" (Montet, Scènes, p. 168)). It often is spelled
+without spHt, just spr(w) 4 "four ribs" (Junker, Giza II, p. 155, Abb. 21). In Sbt, the t belongs to the
+root, thus the word is masculine (just like xt "wood", twt "statue"); it is usually used in PT and CT in
+the dual form Sbtwj "two bundles (of ribs)", which sometimes is spelled Sbtjwj (graphic design with
+the aim to not have to write the ending with the signs X1-G43 {bread}-{quail chick}).
+
+P 35 (PT 439)
+§814a: H(A)b n pjpj nbt Htpt
+Allen "The mistress of contentment will be in festival for Pepi"
+Shmakov "(Give) a catch (of birds) for Pepi, mistress of nourishment!"
+
+For "non-verbal imperative", see P 318, 2. For HAb as a "catch", not "festival", even without {bird}
+determinative, see §§791b, 1358c. For Htpt with {papyrus scroll} determinative as "meals", see §133c.
+
+P 36 (PT 440)
+§815b: xsf.k w xsfw.s
+Allen "you should not bar its barriers"
+Shmakov "you should not hinder its barriers (doorleaves) (i.e. not block them from opening up)"
+
+The meaning "shut" that has the verb "bar" is due to English, while in Egyptian xsf could hardly have
+such a meaning, hence the reading of xsf with its primary meaning as "hinder, impede, oppose" seems
+more correct.
+
+2)
+§815c-d: Dr Sdt.k kA n pjpj r pt tn rx Spsw nTr n mrw nTr
+Allen "before you have taken the ka of Pepi to this sky, to him whom the god’s nobles…know, to him
+whom the god desires"
+Shmakov "until you take the ka of Pepi to this sky, the one (i. e. the ka) whom the god’s nobles know,
+to the beloved ones of the god (lit. those whom the god loves)"
+
+rx Spsw nTr is probably a relative form with the antecedent kA n pjpj "Pepi’s ka". Cf. also Pepi
+Neferkare’s version Dr Sdt.k kA n pjpj nfr-kA-ra r pt n rxw nTr n mrw nTr "until you take the ka of
+Pepi Neferkare to the sky, to the acquaintances of the god (lit. those whom the god knows), to the
+beloved ones of the god".
+
+3)
+§816a: m.nhzw tA Smaw
+Allen "the awakeners of the Nile-Valley land"
+Shmakov "the awake ones (i. e. watchers) of the Nile-Valley land"
+
+m.nhzw "wakeful ones" does not have a transitive meaning (i. e. not "those who awake", just "wakeful
+ones"), see nhz "guard" (Wb.II:287:7), and cf. also the verb’s determinative in §126b T which is {arms
+with a stick in hands as a gesture of driving away}
+
+CT I, 219d: nhz(w) aAw Hr nbw.sn
+"who guard (door)-leaves for the sake of their lords"
+
+CT I, 309h-i: jnk Ast xsf xrw jnk nbt-Hwt nhz
+
+257
+"I am Isis who bars noise; I am Nephthys who guards"
+
+Compare nhz Hr with rs Hr "be awake over", i. e. "guard, watch".
+
+4)
+§816d: mdw.f Hr tp pjpj xr nTr aA
+Allen "so that he may speak on Pepi’s behalf before the great god and elevate Pepi to the great god"
+Shmakov "so that he (i. e. Pepi’s ka) may deputize for Pepi’s head to the Elder god and elevate Pepi to
+the Elder god"
+
+tp "head" is not a part of the expression mdwj Hr "deputize for, speak on behalf of" (§§480a, 595c,
+596c, 943d, 960b, 1475b, 1482a, d, 1643c; Urk.I:266:16; CT I 176o; CT II, 158e, 164e, 213a; CT IV,
+94j; CT VI, 207j, k, 399b, c; Hannover 2927). Also cf.:
+
+CT I, 39b-d: nTrw mdw Hr tp n Hrw…nt.sn mdw.sn Hr tp n Asjr(t) N tn
+"Gods who deputize for Horus’s head (T9C gives gs Hrw "Horus’s side")…are the ones who will
+deputize for the head of this Osiris N"
+
+Note that B3Bo, B4Bo, B15C-MC105 give tp n Hrw "head of Horus" (hence tp can only be part of the
+indirect object’s body rather than be part of the collocation mdwj Hr).
+
+CT VI, 194e-f: jnk Hr jj.n.j mdw.j Hr tp.k (j)tj.j "I am Horus, I have come that I may deputize for your
+head, my father".
+
+For advocating of the king’s body parts, cf. PT 307, §484c P: njs.f r.k Hr Dt.f…Hr fnD.f "when he calls
+to you on his person’s behalf…on his nose’s behalf". Of course, not the king’s head is meant, but the
+whole body, the whole person is meant, hence probably James Allen’s avoidance of the literal
+translation.
+
+Cp.:
+
+PT 641, §1813b: jw.n(.j) mdw(.j) Hr tp.k jnk zA.k
+"I have come that I may deputize for your head, (for) I am your son"
+
+PT 573, §1482a, d: mdw.f Hr tp pjpj pn "that he may deputize for Pepi’s head"
+
+PT 598, §1643c: nDmt sT mdwt.n [Hrw Hr.s xr gbb]
+"the one pleasant of scent, that [Horus] deputized [for to Geb]"
+
+All the instances of "his" in the spell PT 440 refer to "Pepi’s ka": Hr tp m.anxt nt mAat…rx Spsw
+nTr…mdw.f…s.ja.f "on the top of his (i. e. ka’s) support of maat…(the ka) whom the god’s nobles

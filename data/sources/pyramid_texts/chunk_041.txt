@@ -1,0 +1,492 @@
+ve sDm.f.
+
+N 404 (PT 587)
+§1588a: j.nD(.j) Hr.T jrt Hr DbAt.n.f m awj.f tm.wjj
+Allen "Greetings, Horus’s eye, which he has replaced by means of both his arms!"
+Shmakov "Greetings, Horus’s eye, which he has robed by means of both his arms!"
+
+§1597a: DbA Tn pjpj nfr-kA-ra DbAt
+Allen "Pepi Neferkare will replace you, O replacement (of his)"
+Shmakov "Pepi Neferkare will robe you, robing (room of his)"
+
+The passages probably do not contain the verbDbA "replace" (why would the Eye need to be replaced?
+§1597ff. suggests it does obey the King and does everything he wants), but rather the verb DbA "robe,
+clothe, adorn". Note that in both §1588a and §1597a-c (and §1599a-b), DbA is paralleled by qd "build"
+and grg "found, settle", suggesting a constructive action also for DbA, and DbAt is paralleled in
+§1597b-c by grgwt "settlements" and njwt "town", suggesting a location or building for DbAt. For the
+importance of the action of "robing", cf. PT 252, §272c-273a: j.bz wnjs m sdA DbA wnjs m
+{.k}<nb>.Tn r Dr.Tn "Introduce Unis feeling fear (lit. in shaking), robe Unis as the lord of you all".
+
+2)
+§1590b-c: fA.T n.f mw jwn(.w) jmj(w).T fA.T n.f mw jwn(.w) xprt.sn jm.T
+Allen "You shall lift to him the water of the marshes that are in you and lift to him the water of the
+marshes that will come into being in you"
+Shmakov "You shall present (lit. carry) to him all the water that is in you (and) present to him all the
+water that will come into being (lit. evolve) in you"
+
+For the meaning of fAj, see N 359, 4. mw jwn(.w) "all water together" – is the subject-stative
+construction using the stative of the verb jwn "crowd (together), throng" as an epithet, literally "the
+water altogether, the water crowded together". Cf. the same use of the verbs jab, Sa, tm, dmD, zmA,
+t(w)t and km to express the meaning "all, whole, entire" (see Allen, M. E., 17.20; for the stative ending
+w written out after jwn, see §1600b: mw jwn.w):
+
+PT 592, §1617a: Dj.n.f n.k psDt jab.tj
+"He has given you the entire Ennead (lit. the Ennead gathered)"
+
+PT 649, §1831a: Asjr(t) pjpj nfr-kA-ra jp.n n.k sn Hrw zmA(.w)
+"Osiris Pepi Neferkare, Horus has subordinated to you them all (lit. them united)"
+
+CT VI, 363e-f: jj.n.j r{.k} xft(j) pf j(w).f km(.w) Xr.j m DADAt
+"I have come to this opponent of mine: he is completely under me in the tribunal"
+(cf also ibid, 86h: jw.f rdj(.w) n.j km(.w) Xr.j m DADAt; )
+
+N 410 (PT 675)
+§2005b: n Tw nxxw psD ra m-xt nTr dwA
+
+369
+Allen "You belong to the enduring ones who shine by day after the morning god"
+Shmakov "You belong to the Enduring Ones whom the Sun outshines after the Morning god"
+
+The {sun} sign after psD is not this verb’s determinative nor the ideogram hrw "day", but the ideogram
+ra "Sun". psD must be a relative form. nxxw "Enduring ones" is the signification for stars, hence they
+cannot outshine the Sun (which would be the case if we were to treat psD as a participle), nor shine
+after the morning god (which would be the case if we were to treat {sun} as det. of psD), nor shine by
+day (which would be the case if we were to treat {sun} as the ideogram hrw) – for the PT invariably
+call nxxw "precursors, ancestors" of the Morning god.
+Moreover, the following passages also have ra "Sun" (not hrw "day") and nTr dwA "Morning god":
+
+PT 211, §132b: n Tw jmjw-xt ra tpjw-aw(j) nTr dwA
+"you belong to descendants of the Sun (and) precursors of the Morning god"
+
+PT 412, §732a: n Tw nxxw pSrw ra tpjw-aw(j) nTr dwA
+"you belong to the Enduring Ones who conduct the Sun (and are) precursors of the Morning god"
+
+PT 554, §1372a: jn Tw pXrw ra HA(j)w nTr dwA
+"you belong to the Sun’s conductors (and are) the Morning god (lit. those behind the Morning god)"
+
+Cf. the comment by James Allen to §132b about the nxxw-stars (Allen, P. T., note 31, p.62): "the stars,
+which appear after sunset and disappear at sunrise".
+
+N 411 (PT 676)
+§2016a-b: hrw pw n jp qsw n s.mnx Tbwwt
+Allen "on the day of accounting bones, of making functional the feet"
+Shmakov "on the day of subordinating bones, of reviving (lit. making functional) the soles"
+
+The verb jp has in the passage its usual meaning "subordinate" (see T 145, 9), in the sense of "make
+obey", cf. it with a variant expression PT 553, §1368b-c: hrw pw n TAz qsw n s.mnx Tb(w)wt "on the
+day of tying the bones together, of reviving (lit. making functional) the soles" (cf. also P 484, 2).
+
+N 412 (PT 677)
+§2023b: Sms Tw Axw [nbw m rn.sn pw n StAw swt]
+Allen "[All] the akhs will follow you [in their identity of the dead]"
+Shmakov "[All] the akhs will follow you [in their identity of the ones inaccessible of places]"
+
+This passage is restored by the current author with the copy of Senusert-ankhu (Hayes, The Texts, col.
+525-526), which has StAw swt "ones inaccessible of places", and which seems to have what was lost in
+the pyramid of Neferkare. Allen’s restoration with mwtw "the dead" comes from the version in CT
+VIII, 2023b which may be the M.K. interpretation.
+
+2)
+§2024b: n Tw tm Hr.k jm zp.f
+Allen "for you belong to him from whose event you will not be far"
+Shmakov "for you belong to…"
+
+The passage is obscure. The governing preposition of the verb Hrj is r (another variant is Hr, which
+occurs in the adverb Hrw r ~ Hrw Hr "apart from"), not m, hence the reading "from whose event you
+will not be far" is ruled out for tm Hr.k jm zp.f. Moreover it is not clear why the preposition m has a full
+
+370
+form jm though it does not stand before a suffix-pronoun.
+
+N 418 (PT 678)
+§2029a: j.Hmtj smtj jm.k Hm m pjpj nfr-kA-ra jm.k smtj pjpj nfr-kA-ra
+Allen "O Away-turner, Interrogator! You should not turn away from Pepi Neferkare, you should not
+interrogate Pepi Neferkare"
+Shmakov "Turner, Overhearer! You (Turner) should not turn for Pepi Neferkare, you (Overhearer)
+should not overhear Pepi Neferkare"
+
+j.Hmtj smtj are two ferrymen, not one, the two "you"’s are addressing them in turn. For Hmj m "turn
+for", cf. the verbs with m as governing preposition (W 166 above).
+
+2)
+§2030b: jm pjpj nfr-kA-ra…gmgm.f wDat.k
+Allen "lest Pepi Neferkare…smash your ink-shell"
+
+The sign used as the determinative of the word wDat is undoubtedly the {piece of wood}-M187 sign
+(see §§185a, 590a, 634c, 1183a P, 1205b P, 1906c, Nt 134-141), the Old Kingdom variant of the sign
+M41. This means that the reading wDat as "ink-shell" is erroneous, unless one would presume that the
+sign {shell}-L6 was confused with the sign M187.
+
+N 428 (PT 478)
+§976d: Dr rd.s Dr bw nb ntj.s jm
+Allen "whose limit is the limit of any place in which it happens to be"
+
+In the original it is "whose leg’s limit (Dr rd.s) is the limit of any place in which it happens to be"
+
+2)
+§978a: Ax nb nTr nb DAt.f a.f m pjpj nfr-kA-ra Hr mAqt
+Allen "Any akh or any god who will cross his arm against Pepi Neferkare…on the god’s ladder"
+Shmakov "Any akh or any god who will extend his arm before (i. e. as a barrier against) this Pepi
+Neferkare on the god’s ladder"
+
+For the meaning of this passage, see P 327, 2.
+
+3)
+§979a-b: zAA sw Hw n(.j) sw mAAt.f sDmt.f prt.f jr pt
+Allen "He who will see or hear his going up to the sky…—will guard him, having announced him"
+Shmakov "He who will see or hear his going up to the sky…—guard him! Announced him to me"
+
+zAA and Hw are two imperatives. For Hw n "announce to (somebody)", see §§153a, 155a, 157a, 159a,
+253d. Literally this passage reads "guard him, announced him to me, (you) the one who will see or hear
+his going up to the sky".
+
+4)
+§980a: Ax nb nTr nb wnt.f a.f n pjpj nfr-kA-ra Hr mAqt nTr  dmD qsw pjpj nfr-kA-ra n.f sAq n.f awt.f
+sTp r.f pjpj nfr-kA-ra jr pt jr Dbawj nTr nb mAqt
+Allen
+"any akh or any god who will be (there with) his arm for Pepi Neferkare on the god’s ladder…Pepi
+Neferkare’s bones have been joined together for him, and his limbs have been collected for him. So,
+
+371
+Pepi Neferkare will jump to the sky beside the god who owns the ladder"
+Shmakov
+"Any akh or any god who will hold out (lit. open) his arm for Pepi Neferkare on the god’s ladder, join
+Pepi Neferkare’s bones for him, collect his limbs for him, so that Pepi Neferkare may jump to the sky
+to the two fingers (i.e. to the proximity) of the god, the ladder’s owner"
+
+The verb is wn "open", not wnn "exist, be". The expression wn a "open arm" is equal to wn rmn "open
+arm (from shoulder to fingertips)", both with the meaning "hold out hand/arm, offer hand/arm (to)"; wn
+a occurs in PT 534, §§1267b-1272b, 1276a (without {doorleaf}-determinative, just like in the
+passage).
+So here the akhs/gods help Pepi ascend, contrary to those in §978a who obstruct him (wn a n versus
+DAj a m).
+
+PT 261, §326a: wn n.f jmjw wnwnjt rmnw.sn
+"those in motion will hold out their arms to him"
+
+PT — (Allen’s P 356), Leclant, Pepi I, pl. 8, col. 62: wn […] r(m)n.f n pjpj pn
+"[…] will hold out his arm to this Pepi"
+
+GMII I.1.a.5603 (4071) (Berlev, Stelae, 26, p. 66): wn n.f z(my)t r(m)n.s dj jmnt awj.s r.f
+"the desert will hold out her arm to him, the west will give her arms to him"
+
+CT II, 99c: jw wn n.k Sw rmn.f "Shu has held out his arm for you"
+
+CT II, 110e: wn n.f jtm rmn.f s.qA sw mrt <t>m "May Atum hold out his arm for him and Atum’s love
+elevate him"
+
+Budge, BD124:9: wn n.j jAxw rmn.f "Sunlight has held out its arm for me"
+
+dmD and sAq are imperatives, not passive sDm.f, and sTp is subjunctive. Pepi’s version of this passage
+is not much different: Ax nb nTr nb wnt.f a.f n pjpj Hr mAqt dmD n pjpj qsw sAq n.f awt.f sTp.n r.f pjpj
+pn jr pt j[r Dbawj nTr nb mAqt] "Any akh or any god who will hold out (lit. open) his arm for Pepi on
+the ladder, join the bones for Pepi, collect his limbs for him! So, this Pepi has jumped to the sky to [the
+two fingers of the god, the ladder’s owner]".
+
+N 430 (PT 480)
+§995d: jj pAqt
+Allen "Come, slender one!"
+
+The meaning of the adjective-verb pAq is still unknown, cf. Mariette, Abydos, T. 1. Pl. 37, b (col. 32
+from the left): p(A)q jb.k r.s m rn.s n p(A)q "Your heart shall be(come) pAq to it (i. e. Horus’s eye) in
+its identity of thin bread". It hardly could have the meaning "slender, thin" as James Allen presumes:
+the word-play with the pAq "thin bread" does not prove this meaning, as a word-play is usually made
+up of two semantically different words that sound alike (see W 53).
+
+N 432 (PT 481)
+§1000e: jsdw Hr jAb.sn
+Allen "with tailed kilt on their right"
+
+The original has "on their left" (Hr jAb.sn).
+
+372
+
+N 457 (PT 694)
+§2156b-c: pjpj nfr-kA-ra pw kA [...] xmt(j)t r pt snt jr tA
+Allen "Pepi Neferkare is the Bull [of offerings, owner of a quintet of meals in Heliopolis]: a triad for
+the sky and a pair for the earth"
+Shmakov "Pepi Neferkare is the Bull [of food portions, owner of a quintet of meals in Heliopolis]: a
+triad is (chargeable) to the sky, a pair is (chargeable) to the earth"
+
+For the relevant comments, see W 140, 4.
+
+N 466 (PT—)
+Jéquier, Pepi II, pl. XIII, col. +30 (restored with CT VI, [516] 105b-c):
+[nHm.n(.j) msw.k m-a jA]kb s.rwD.n(.j) xnt(jw).k tp(j)w tA n Dt Dt
+Allen "save your children [from] mourning. Your offering stand shall make firm those on earth for the
+course of eternity"
+Shmakov "[I have saved your children from mou]rning; I have strengthen your cookhouse(s) on the
+earth for the course of Dt-time (lit. of Dt-time’s ownership)"
+
+This part was pronounced by the king’s son. The second sentence of the text has sDm.n.f with 1ms
+suffix (s.rwD.n(.j)), hence the first sentence must be restored in the same way (nHm.n(.j)). xnt(jw).k
+tp(j)w tA is "your cookhouse(s) that are on the earth"; the noun xnt is masculine with t as part of the
+root, not a feminine ending (for the meaning, see W 145, 1), cf. PT 573, §1482e N: s.rwD.f n pjpj nfrkA-ra xnt(jw).f jr(j)w tA "that he may strengthen for Pepi Neferkare his earthly cookhouse(s)", where
+we have xnt(jw).f jr(j)w tA "his cookhouse(s) belonging to the earth". For Dt Dt, see T 196, 10.
+
+N 511 (PT 681)
+§2035b: j.nD pjpj nfr-kA-ra Hr n jt(j).f ra
+Allen "Pepi Neferkare will greet his father, the Sun"
+Shmakov "Pepi Neferkare has tended the face of his father, the Sun (i. e. greeted him)"
+
+In his grammar James Allen comments on the expression j.nD Hr: "Although it is used (in this form)
+(j.nD Hr.k – T. S.) only as an interjection, it may derive from an original verbal expression j.nD.j Hr.k
+(etc.), meaning something like “May I inquire about you,” with the first-person suffix unwritten"
+(Allen, M. E., 16.8, p. 195). Allen is absolutely right about the verbal nature of the expression (cf. PT
+672, §1989b: nD.j Hr.k pjpj nfr-kA-ra "I greet you, Pepi Neferkare"), but he is incorrect on the verb’s
+meaning and the meaning of Hr. Hr is not a preposition as in a collocation nD Hr "inquire about". We
+can find examples in the texts which show that Hr was actually the noun "face", like in the discussed
+passage, in which we have Hr n "face of" (for we cannot have Hr "on" and genitive or preposition "to,
+for" in a row). The verb nD probably has its basic meaning "tend" in the expression. Thus j.nD(.j) Hr.k
+N was an idiom for "Greetings, Hail to" with the probable literal meaning "I have tended50 your face,
+N" (probably a perfective sDm.f, not a subjunctive ("May I…") as James Allen suggested). As to the
+idiomatic meaning of the literal reading ("tend someone’s face"), compare the expression wDa-mdw
+"judge", which literally is probably "separate/cut the words". Cf. the full spelling of the word face in
+§186b (Hr-r-k) instead of that with a {stroke}, cf. also
+
+PT 677, §2019c: nD.t(j) Hr.f jn Hrw m Axt
+"his face is tended by Horus in the Behind the Horizon"
+
+50 However, the literal meaning "I have inquired after your face (i.e. after your mood?)" cannot be ruled out taking into account
+the meaning of nD in such word-combinations as nD sxr "inquire after the condition" and nD xrt "greet, inquire after the state".
+
+373
+
+Hr in the passage is written with the {stroke} sign for ideograms, not in full form (when r is written
+out) which is the case when preposition Hr comes with a suffix.
+
+PT 519, §1207b: j(n)D(.j) Hr.k m fdw.k jpw Hrw Htpw
+"Greetings (lit. I have tended your face) in these four content faces of yours"
+(The literal meaning is clear: I have tended your face in these your faces)
+
+CT III, 188b-c: nD.n.k Hr n ra s.Htp.n.k Hr n psDtj
+"You have tended the face of the Sun, you have pleased the face of the Dual Ennead"
+
+CT VII, 21f: jj.n.j xr.Tn nD(.j) Hr(w).Tn jpw jrw.n nw
+"I have come that I may tend these your face(s), which Nu has made"
+
+Naville, Deir el Bahari IV, pl. 114: j.nD(.j) Hr n jarwt.k [jp]w
+"I have tended the face(s) of these your uraei" (cf. ibid jw s.Htp.n.s Hr n jarrwt.k "She has pleased the
+face(s) of your uraei")
+
+Graefe, Stundenritual, 4th hour, P: j.nD(.j) Hr.k ra m wnwt.k tw sxm.k jm.s m [x]ft(j)w.k j.nD(.j) Hr n
+Asbwt.k s.{m}<A>mm(w)<t> n.k xft(j)w.k s.xrywt sbjw Hr.k
+"Greetings (lit. I have tended your face), Sun in this your hour in which you are in control of your
+opponents, I have (also) greeted (lit. tended the face(s) of) your uraei (lit. scorching ones) who are
+burning your opponents down for you (and) are overthrowing those who rebel against you"
+
+Sethy I, Abydos I pl. 4, 18: nD Hr n gbb jt(j) nTrw m Dd n.f nTrw mn(.w) Hr st.sn
+"the face of Geb, father of gods, has been tended by saying to him that gods are firm on their place(s)"
+
+Budge, BD114:9: j.nD(.j) Hrw.Tn bAw xmnnw
+"Greetings (lit. I have tended your faces), bas of Hermopolis"
+
+Cp. also PT 682, §2042a-b: nD Hr.k jn zkr pjpj nfr-kA-ra ja Hr.k jn dwA wr
+"Your face has been tended (i.e., you have been greeted) by Sokar, Pepi Neferkare, and your face has
+been washed by Great Beard"
+
+From this passage (as well as the passages listed just above), which has actions done to the face of the
+king, it is clear that Hr in j.nD(.j) Hr.k is no doubt "face".
+
+CT VI, 123b: nD(.j) Hr.k nfr Hr nb mAAwtj
+"Greetings (lit. I have tended your face), beautiful of face, owner of two looking eyes"
+
+This word combination probably also occurs in the form of a noun nDt Hr "gift" (Wb.II:373:1),
+literally probably "face-tending".
+
+Alan Gardiner too read Hr in this expression as "face": "jnD Hr.t…a formula which perhaps originally
+meant ‘I salute thy face’" (Gardiner, E. G., §272, p. 209).
+
+2)
+§2037b: H nwt wD mdw n wtnw(j)w
+Allen "the Red Crown’s smiter and governor of those of the stream"
+Shmakov "brooks’ smiter (and) the one who gives commands to the ones of the stream"
+
+374
+
+For the meaning of the word nt, see P 467, 7. Note the parallel "brooks"/"stream".
+
+3)
+§2040b: mTn pjpj nfr-kA-ra swt
+Allen "Pepi Neferkare will show the way to places"
+Shmakov "Pepi Neferkare will hand over (?) places"
+
+In the expression mTn swt the verb mTn "explore, scout; surrender (?, see W 151, 2)" is transitive.
+Seeing the context, that deals with creating order via giving commands and bestowing dignities, it
+cannot be excluded that the places might here be stations (functions, offices) that get created and
+assigned, rather than dealing with creating living space (exploring and developing geographical
+places).
+
+4)
+§2040c: Dj pjpj nfr-kA-ra Htpwt sSm pjpj nfr-kA-ra a(A)bwt
+Allen "Pepi Neferkare shall give offerings, and Pepi Neferkare will lead feasts"
+Shmakov "Pepi Neferkare shall give nourishment, Pepi Neferkare will distribute feasts"
+
+For the verb sSm(j) "lead, guide, conduct", having the derived meaning "distribute", cf.:
+
+PT 493, Nt 704 (= Jéquier, Pepi II, pl. 14, col. +50): Dj nt Htpt sSm nt Df(A)w
+"Neith will give nourishment, Neith will distribute provision"
+
+Bissing, Gem-ni-kai, pl. 20-21: sSmt mHtjw n rmT n pr n Dt
+"Distribution of the fish to the people of the personal farm (lit. house)"
+
+CT II, 41b: xpr Htpt sSmt jm.j n nTr
+"nourishment, distributed to a god, spring from me" (lit. "distributed meals occur from me for a god")
+
+CT III, 9c-10a: j jmj Htp.f sSm Awt m jwnw Hr xAwt ra ra nb
+"Oh, you who is in his peace, who distributes ration to Heliopolis to the Sun’s altar"
+
+CT III, 324d-f: jj.n.j sSm.j Htpt jnk nb Awwt
+"I have come that I may distribute nourishment, for I am an owner of rations"
+
+CT I, 125b: sSm.f Htpt n jmAxww
+"when he is distributing nourishment to the honored ones"
+
+CT IV, 122e (B2L): sSm.j pAqw n nTrw Htpt n tpj(w) tA prt-xrw n Axw
+"I distribute wafers to the gods, nourishment to those on earth, invocation-offerings to the akhs"
+
+CT I, 51b-c: jw.f sSm.f anx n nTrw prt-xrw n ra m mAat
+"He distributes life to the gods, invocation-offerings to the Sun as maat/in reality(?)"
+
+CT IV, 86n: sSm.n n.f nTrw Awt
+"Gods have distributed ration to him"
+
+CT II, 162f (Sq3Sq): sSm N pn xrwt n jmjw jwnw
+"This N distributes (cattle’s) carcasses to those in Heliopolis"
+
+375
+
+CT V, 55c (B1C, B2L): sSmw Htpw nTr
+"who distributes god’s offerings"
+
+CT VI, 171a: Szmw skr xnt(j) pDw S(j) Hr sSmt aAbt
+"Shezmu and Sokar at the fore of Saqqara are distributing feast"
+
+CT VI, 269r: dj.j anx sSm.j Awt n nTrw nbw Htpt
+"I give life and distribute ration to the gods-owners of nourishment"
+
+CT VI, 307x: sSm.f Awt
+"that he may distribute ration"
+
+CT VII, 16f: sSm.j Awt n nTrw
+"I distribute ration to the gods"
+
+Budge, BD169:23: jw sSm.n.k Sbn n smsww mHwt n Hrw
+"You have distributed viand to the elders, cups to those who are above"
+
+Compare the verb sSmj in the expression about aAbt with the verb s.mAa (from the simplex mAa "lead,
+direct") in wn.jn Hm.f...Hr s.mAa n.f aAbt aAt "Then His Incarnation...presented him a big feast"
+(Urk.IV:158:4-5).
+
+N 514 (PT 684)
+§2055b-c (also 2056b-c): nj rDj.f mr.f nj rDj pjpj nfr-kA-ra nqm.f r r n pjpj nfr-kA-ra ra nb
+Allen "he will not let it become painful and Pepi Neferkare will not let it become bald by virtue of the
+mouth of Pepi Neferkare every day"
+Shmakov "he will not let it become painful and Pepi Neferkare will not let it become bald next to Pepi
+Neferkare every day"
+
+The expression r r n N "at the mouth of N" has actually a compound preposition that has the meaning
+"near, next to" (see W 207, 3). It only hints at the fact that the recovery will be due to the mouth (i. e.
+due to spittle, cf. §§2055a, 2056a: psg pjpj nfr-kA-ra smA.k "Pepi Neferkare will spit on your temple",
+and cf. §521 for spittle as magical cure for hair), it does not actually have the meaning "by virtue of the
+mouth of Pepi Neferkare".
+
+N 515 (PT 305)
+§473c: Szp a.k jn ra
+Allen "—"
+Shmakov "your arm has been taken by the Sun"
+
+Cf. PT 442, §819b: Szp a.k jn ra "your arm has been taken by the Sun".
+
+N 519 (PT 685)
+§2069b-2070a: wDA pjpj nfr-kA-ra p aHa mjn(j) ms Abd anx spA jr.n(.j) sT(A)wt s.kA.k(j) jt(j) s.kA.k(j)
+bdt Hnk.t(j) pjpj nfr-kA-ra pn jm n Dt
+Allen "Become sound, Pepi Neferkare! The shrine shall await when the month has been born. The
+countryside shall live and arouras shall be made for them, that you may farm barley and farm emmer.
+This Pepi Neferkare will be endowed with them for the body"
+Shmakov "Become sound, this Pepi Neferkare, stand up, you of the pavilion (i. e. Anubis), the month
+
+376
+has been born, Sepa-town lives: I have made arouras (of field) having farmed barley (and) having
+farmed emmer so that this Pepi Neferkare may be endowed with them during Dt-time"
+
+For the reading of aHa mjn(j), see P 319a, 1, P 480, 2. spA is spelled in the passage just like in
+Anubis’s epithet xnt(j) spA "he at the fore of Sepa-town" (Jones, Titles, # 1894). jr.n(.j) sT(A)wt "I
+have made arouras" has sDm.n.f with 1s suffix omitted (cf. §§1748b-c, 1879a-80a), so James Allen’s
+reading "arouras shall be made for them" is incorrect. For the .k as actually 1ms stative suffix, see P
+41b, 3 and T 204, 3. Dt "Dt-time" was spelled with the {stroke}-Z1 sign under the influence of the
+word Dt "person", see T 203, 2.
+
+N 522 (PT 688)
+§§2084c-2085b: hA.f m-m.sn Dd.n n.sn wdn sxm.f wnt pjpj nfr-kA-ra m wa jm.sn
+Allen "when he descends among them. They have told Him Whose Control is Weighty that this Pepi
+Neferkare is one of them"
+Shmakov "He will descend among them for He Whose Control is Weighty has told them that this Pepi
+Neferkare is one of them"
+
+The passage has Dd.n n.sn "has told to them". Cf. the reading by Mercer ""Heavy-is-his-sceptre" has
+said to them that N. is one of them" (Mercer, P. T., p.307).
+
+N 524 (PT 690)
+§2103a-b: wab.n Tw snt.k qbHt Hr rd wr mr
+Allen "Your sister Qebehut has cleaned you on the causeway at the lake’s mouth"
+Shmakov "Your sister Qebehut has cleaned you on the canal’s great causeway"
+
+The text has r(w)d wr "the great causeway/mound". mr plus {canal} sign is "canal" spelled with
+alphabetic signs m-r-{canal}, not "at the lake’s mouth"(*m r mr; note r mr "mouth of the canal" occurs
+in §279d where r has the ideogram stroke that is missing in the present text).
+
+2)
+§2105a: bjn Asjr(t) bjn pjpj nfr-kA-ra pn bjn kA psDtj
+Allen "Should Osiris vanish, this Pepi Neferkare will vanish, and the Dual Ennead’s bull will vanish"
+Shmakov "Active is Osiris, active is this Pepi Neferkare, active is the Dual Ennead’s bull"
+
+In this passage Osiris = Pepi Neferkare = Dual Ennead’s bull. For the meaning of the verb bjn, see P
+312.
+
+3)
+§2109: tp rdwj nTr tp rdwj pjpj nfr-kA-ra [pn]
+Allen "before the god’s feet, before [this] Pepi Neferkare’s feet"
+Shmakov "before the god, before [this] Pepi Neferkare"
+
+tp rdwj "on the legs" is a variant of tp awj "on the arms", both meaning "before" (cp. W 207, 3).
+
+4)
+§2110c: bA.k m hrw sdA.k m grH nTr js nb Sat
+Allen "Your ba is (prevalent) by day and the shaking you cause by night, as the god who is lord of
+ferocity"
+Shmakov "You become impressive by day (and) cause to tremble by night being the god (for whom)
+there is veneration (lit. owner of veneration)"
+
+377
+
+bA and sdA are verbs, not nouns; for the meaning of the verb bA, see W 134, and sdA is here causative
+("cause to tremble" rather than "tremble, shake").
+
+5)
+§§2111: jj Axt(j) zb a HAj gbb
+Allen "Come, you of the flood with provisioning arm, who is around Geb!"
+Shmakov "Has come the Inundation season, which sent the arm, that is around Geb"
+
+§2113-14a: jj Axt(j) zb a HAj gbb j.wAg rDw nTr jmj.k
+Allen "[Come, you of the flood with provisioning arm, who is around] Geb! Supply the god’s outflow
+that is in you"
+Shmakov "[Has come the Inundation season, which sent the arm, that is around] Geb, which presented
+the outflow of the god who is you (lit. of the god in you(r person))"
+
+zb and j.wAg are probably two relative forms (prefixed relative forms occur, for instance, in 2-lit. class
+verb Dd: j.Ddw, §§868c M). Axt(j) "Inundation season" is probably a nisbe, hence masculine (cf. xnt(j)
+"cookhouse" that occurs spelled xntj only once, see W 145), cf. PT 667A, Nt 777: jj Axt(j) j.wAg rDw
+pr m Asjr(t) "Has come the Inundation season, which presented the outflow that came from Osiris".
+
+6)
+§2114b: wHa Ssmw.k
+Allen "release your sinews"
+Shmakov "your Ssmw have been released"
+
+The meaning of the word Ssm is uncertain.
+
+N 583 (PT 698C)
+Jéquier, Pepi II, pl. 20, col. 1308+70-1309: mH.k jr tA twr pjpj nfr-kA-ra
+Allen "your arm to the ground and respect Pepi Neferkare"
+Shmakov "your mH to the ground (and) be wary of Pepi Neferkare"

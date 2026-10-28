@@ -1,0 +1,443 @@
+m nbt-Hwt
+Allen "Pepi is the red linen that came and the redness that came from Nephthys"
+Shmakov "Pepi is the pink-colour that came from Isis (and) the redness that came from Nephthys"
+
+jns is just "the pink stuff", evidently having the root of jnsj "pink cloth", hence the {fringed cloth}-S28
+determinative in §1464a Pb, but the following line ("Pepi is the redness which issued form Nephthys")
+suggests it refers to menstruation blood (cf. the {pouring liquid} determinative after dSr of §1464a M)
+and/or the sun’s color at dawn rather than linen. Thus the passage is probably about the Sun’s
+birth/rise, considering previous lines and the following §1464c: "Pepi is the Sun’s replacement" and
+§1465d-e: "This Pepi will rise in the eastern side of the sky like the Sun who rises in the eastern side of
+the sky".
+
+5)
+§1463e: nj qnjt jrt Hrw
+Allen "when Horus’s eye had not yet been gouged out"
+Shmakov "when Horus’s eye had not yet been cut by half"
+
+The verb has the {halfmoon} sign as the determinative, and Kurt Sethe also noticed this while
+translating PT for the Wb. (see http://aaew2.bbaw.de/tla/index.html, document DZA 30.390.410
+"Halbmond"). Thus we probably have a metaphor "reduced, cut by half" that refers to  the gouging out
+of Horus’s eye, like "untied" (sAd) is used to refer to the pulling off of Seth’s testicles. Cf. CT IV,
+232a-236a: jw mH.n.j jrt m-xt Xqs.s hrw pw n aHA rHwj…m-xt wdt.f sTA m Hr.f "I have filled the eye
+after it was reduced on the day of the fighting of the two Comrades, after he did harm to (lit. against)
+his face". The same verb occurs in CT IV, 325c: jrt pw qn(j)t hjw "this is the eye that the monster cut
+
+331
+by half".
+
+P 511 (PT 571)
+§§1467b-1468b: nTrw ntjw j.xmw nk n xftjw.sn nj nk pjpj pn n xftjw.f
+Allen "you gods of the undersky, who cannot be mated to their opponents, and this Pepi cannot be
+mated to his opponents"
+Shmakov "you gods of the lowersky, who do not know accusation because of their opponents, and this
+Pepi will not be accused because of his opponents"
+
+nk is a variant spelling of njk with the meaning "to accuse" (not "to copulate") – this is Allen’s own
+translation of the verb in PT 486, §§1041d, 1042a. Note the determinative {half-bent downward
+directed arm with pointing index finger} (bit like an empty D248) that occurs in the words having the
+meaning of accusation: xbn "accuse, charge", xbnt "accusation" (§§462b, 1041d, Leclant, Pepi I, pl.
+VIII, col. 3), n(j)k "charge" (Jéquier, Pepi II, pl. 24, col. +83).
+
+P 513 (PT 573)
+§1478c: rs.k m Htp bA jAbt(j) Htp
+Allen "May you awake in peace, eastern Ba—in peace!"
+Shmakov "May you awake in peace, eastern Ram—in peace!"
+
+For the reading of bA as "ram" see P 292, 2.
+
+2)
+§1481a-b: ra wD n m.s.xAAt tw jr(j)t gs.k Dj.s wxA.t(j) st n pjpj pn jr rd wr
+Allen "Sun, command that clearing goddess at your side to have a place cleared for this Pepi at the
+causeway"
+Shmakov "Sun, command that preparing goddess at your side to have a seat prepared for this Pepi at
+the great causeway"
+
+The original has rd wr "great causeway/mound". In the mastaba of Tepiemankh (tp(.j)-m-anx) the
+scene of the preparation of a seat by two servants is inscribed wxA st "preparing a seat" (Junker, Giza
+IV, Abb.10, p. 40); near it there is a scene inscribed wdt ATt "making a bed", showing servants making
+a bed (the same scene is in the mastaba of Mereruikai (Duell, Mereruikai), pl. 93).
+
+P 516 (PT 574)
+§1485a: j.nD(.j) Hr.T nht Xnmt nTr
+Allen "Greetings, sycamore that incorporates the god"
+Shmakov "Greetings, sycamore that shields the god"
+
+For the meaning of the verb Xnm, see W 165, 7. Cf. also the name of the twelfth hour in the N. K.
+Book of Night (Graefe, Stundenritual, 12th hour) and the name of the cow from Naville II, BD 148:8
+(Ba) (also in the copy of the tomb of Nefertari) – Xnmt anx "She who shields life (or "She who shields
+the one who is alive")" (in BD 148 it is a variant of Xnmt m anx "She who endows with life").
+
+P 517 (PT 575)
+§§1492b, 1493b, 1494b, 1495b: m zA ra jj.j mrjj.n ra jj(.j)
+Allen "“Here is the Sun’s son come: the one the Sun has desired has come.”"
+Shmakov "“See the Sun’s son has come, the one whom the Sun has begun/started to love has come.”"
+
+Cf. Budge, BD82:8-9: aHa.j Hms.j r b(w) mrjj.n.j jm
+
+332
+«I stand and sit wherever I wish to (lit. with respect to a place I have desired (to stand and sit) in
+(it)/there)»
+
+James Allen is probably right in reading the phrase as a relative sDm.n.f: "the one the Sun has desired
+has come" (unlike Allen, M. E., 24.9, where he joins the traditional treatment of such a construction as
+perfective passive participle with a following indirect genitive, a treatment that was not revised even in
+the second, revised, edition of his grammar released in 2010)40.
+
+The Pyramid Texts have examples of perfect with final double reed-panicle spelled out in case of 3rdweak verbs. The seven examples attested in the Pyramid Texts are: §§302c T (djj.n), 334a T (nhjj.n.f),
+Jéquier, Pepi II, pl.7, col. 709+33 = §334a (nhjj.n), 1111a P (Sdjj.n), Jéquier, Pepi II, pl.11, col.1013
+(H(w)jj.n.f), 1248b N (wdjj.n.f) and Nt 833 (Hnjj.n(.j)) (see also Allen, Inflection, §§65B and 450
+(Allen gives here only four examples of final double reed-panicle in perfect); Edel, Alta. Gr., §§533,
+540). Moreover, such a spelling occurs outside the PT: Urk.I:217:16, 218:16: jn jw mrjj.n.Tn Hz Tn
+nswt "Do you want the king to praise you?" (cf. ibid:205:2, 205:12, 218:8 with sDm.f: jn jw mrjj.Tn Hz
+Tn nswt), ibid:232:10: mrjj.n Hm(.j) wDA.f wrt "My Incarnation has wanted him to be very sound".
+
+The same double reed-panicle may be present in perfect relative forms as the BD passage above shows,
+thus the common O.K. expression mrjj n Y Hzjj n Z may actually be mrjj.n Y Hzjj.n Z, e.g. in the most
+common mrjj.n jt(j).f Hzjj.n mwt.f "the one whom his father loves (and) his mother praises" or, if to
+follow Allen, "the one whom his father desired (and) his mother blessed" (ibid:76:15-16, 79:4, 6,
+109:17, 122:3-4, 143:4-5, 145:17-146:1, 197:6, 255:8, 263:7). We also should take into account the
+fact that sometimes this expression is spelled with relative perfective, jnk mrjj (j)t(j).f Hzjj mwt(.f)
+(ibid:216:6), and is followed with relative phrase mrr snw.f (snwt.f) "whom his brothers (and sisters)
+love" (ibid:122:3-5, 197:6, 255:8 and 145:17-146:2). Other variants of this expression are:
+
+Urk.I:152:2-3: jnk mrjj.n nb.f Hzjj.n HqAw.f
+"I am the one whom his lord loved (and) his rulers praised"
+
+Kanawati-Raziq, Geref, pl.53: Hzjj.n nswt mrjj.n r(m)T nb
+"the one whom the king praised (and) all people loved"
+
+Against the treating of mrjj in this construction as perfective passive participle is the spelling with only
+one reed-panicle: mrj.n-kA.f "the one whom his ka loves"41 (Duell, Mereruikai, pl.113).
+
+However, such writings as Hzjjt nt Hwt-Hr "Hathor’s favourite" (Jones, Titles, #2407) contradict
+Allen’s and the present author’s reading and suggest that we need to read mrjj n ra "Sun’s beloved".
+
+P 518 (PT 576)
+§1517a: nw Sw a n pjpj jr pt twA.f tA Dj.n.f n.k
+Allen "Nu, the arm of Pepi has ascended to the sky as he leans on the earth that he has given you"
+Shmakov "Nu, lift the arm of Pepi to the sky for now it supports the earth that he has given you"
+
+The verb Sw in the passage is probably transitive even without s-prefix (see W 178), as it is
+meaningless to just inform Nu that the arm of Pepi has ascended to the sky. Moreover, such a
+construction (god’s name plus following verb) normally contains an imperative (cf. §§275e-f, 519c,
+
+40 James Allen also reads PT 684, §2059b as having relative perfect: pjpj nfr-kA-ra wa jm.sn Hzjj.n kA pt "Pepi Neferkare is one
+of them, whom the sky’s bull has blessed" (Allen, P. T., p. 291).
+41 The full version of Mereruikai’s name mrj. Compare it with his other name mrr-w(j)-kA(.j) "my ka loves me".
+
+333
+1090b+e, 1247d, 1422a-b). For the meaning of the verb twA, see P 519, 4 below.
+
+P 519 (PT 577)
+§1523c: jnpw jp jbw jp.f Asjr(t) pjpj m-a nTrw jr(j)w tA n nTrw [jmj]w pt
+Allen "Anubis, who allots hearts, is allotting Osiris Pepi from the gods who belong to the earth to the
+gods in the sky"
+Shmakov "Anubis, who subordinates hearts, is withdrawing Osiris Pepi from the gods who belong to
+the earth to the gods[in] the sky"
+
+For jp as "subordinate", see W 148, 3. For the collocation jp m-a "withdraw from" (lit. "subordinate
+out of the hand of"), see T 196, 1.
+
+2)
+§1524b-d: jp.n sw tr.f s.xA.n sw nww.f jp pjpj jn tr.f Hna.f s.xA.n sw nww.f Hna.f
+Allen "his year has taken account of him, and his times have remembered him: this Pepi has been taken
+account of by his year with him and his times have remembered him with him"
+Shmakov "his season has recognized him, and his periods have recalled him. This Pepi (too) has been
+recognized by his season with him and his periods have recalled him with him"
+
+For jp as "recognize", see T 145. This passage probably has tr (trt ?) "season", not rnpt "year". In the
+passage the phrase Hna.f "with him" occurs twice (also twice in §1527b-c below), which Allen leaves
+without any comment, but the pronoun "he" in it probably refers to Osiris-Orion (§1525, cf. the similar
+spell PT 442).
+
+3)
+§1527a-c: jwr.n wj pt ms.n sw dwAt jwr pjpj pn Hna.f jn pt msjw pjpj pn Hna.f jn dwAt
+Allen "As the sky conceived him and the morning star gave him birth, this Pepi has been conceived
+with him by the sky and this Pepi will be given birth with him by the morning star"
+Shmakov "The sky has conceived him and the morning has given him birth, and this Pepi (also) has
+been conceived with him by the sky and has been given birth with him by the morning"
+
+1st person dependent pronoun occurs in this passage probably by mistake: jwr.n wj pt "the sky has
+conceived me" (§1527a). For dwAt as "morning", not "morning star", see P 38, 3.
+
+4)
+§1528a: rmn.k pt m gs.k jmnt(j) Xr(j) anx anx.k n Hn nTrw anx.k
+Allen "As you shoulder the sky, (Osiris), on your western side bearing life and you live because the
+gods arrange that you live"
+Shmakov "You shall shoulder the sky with your right side that bears a life(-symbol), that you may live
+as/because the gods resolved/enacted that you live"
+
+§1529a-b: twA.k tA m gs.k jAb(tj) Xr(j) wAs anx.k anx.k n Hn nTrw anx.k
+Allen "As you lean on the earth on your eastern side bearing authority as you live and you live because
+the gods arrange that you live"
+Shmakov "You shall lean on the earth with your left side that bears a wAs-staff, that you may live your
+life as/because the gods resolved/enacted that you live"
+
+§1529c: twA pjpj {pt} <tA> m gs.f jAb(tj) Xr(j) {anx} <wAs>
+Allen "Pepi will lean on the sky on his eastern side bearing life"
+Shmakov "So, Pepi is leaning on <the earth> with his left side that bears <a wAs-staff>"
+
+334
+
+This passage probably contains two mistakes (pt is to be corrected into tA, and anx into wAs): seeing
+that in §1528a, c: pt…Xr anx occurs twice, it surely was intended that tA…Xr wAs would also occur
+twice in §1529a, c.
+
+This group of passages (§§1528a-1529c) is split in the original, when restored it reads:
+"You shall shoulder the sky with your right side that bears a life(-symbol) (and) lean on the earth with
+your left side that bears a wAs-staff. So, Pepi is shouldering the sky with his right side that bears a
+life(-symbol) (and) leaning on the earth with his left side that bears a wAs-staff"
+
+Cf. also:
+PT 511, §1156b-d: rmn.n.f pt m anx twA.f tA m Awt jb a.f pw jmn(tj) rmn.f pt m wAs a.f pw jAb(tj)
+twA.f tA m Awt jb
+"He has shouldered the sky with a life(-symbol) (and) is leaning on the earth with happiness: it (means)
+that his right arm shoulders the sky with a wAs-staff, his left arm leans on the earth with happiness"
+
+PT 685, 2067a: fA.k pt m Drt.k wAH.k tA m Tb(w)t.k
+"You shall lift the sky with your hand (and) lower (lit. lay down) the earth with your foot (lit. sole)"
+
+CT III, 55g-h: r(m)n.j pt m abwj.j sAH.j tA m Tb(w)tj.j
+"I shoulder the sky with (lit. through) my horns, I touch the land with my soles"
+
+In this context, anx and wAs are both tangible objects, not abstract concepts; so "life-symbol" (not
+"life") next to wAs-staff (an authority symbol, not "authority"), cp.:
+
+PT 477, §967d: s.mn pjpj pn a.k Hr anx fAjj pjpj pn a.k Xr wAs
+"this Pepi will establish your arm upon a life(-symbol), this Pepi will lift your arm having a wAs-staff"
+
+PT 670, §1980a-b: mAw Hrw dj.f anx n jt(j).f [Aw.f wAs] n Asjr(t)
+"The sight of Horus giving a life(-symbol) to his father [and extending a wAs-staff] to Osiris"
+
+CT VI, 323cc: s.wD.Tnn-wj n anx jmj a.Tn wAs jmj xfa.Tn
+"You should appoint me to a life(-symbol) which is in your arm (and) a wAs-staff which is in your
+grasp"
+
+CT VII, 38h: fA a.k Xr anx s.mn a.k Hr wAs
+"Lift your arm bearing a life(-symbol), set your arm on a wAs-staff"
+
+The verb Hn in the current passage is probably a synonym of the verb wD "command, decree", cf:
+PT 442, §821a: anx anx m wD.n nTrw anx.k
+"Live a life, for the gods have commanded that you live"
+
+P 520 (PT 578)
+§1534b: pr.k r.sn bA.tj spd.t(j) mst.t(j) mst.t(j)
+Allen "you should go forth toward them, ba as one fully born, sharp as one fully born"
+Shmakov "you should go forth toward them, being impressive (and) mst, being sharp (and) mst"
+
+This passage is probably split. mst.t(j) is the stative (just like bA.tj and spd.t(j)) of an unknown 3-lit.
+verb mst (ends in t just like m(w)t "die", twt "befit"), which also occurs in PT 659, §1863a: sDm.k(j)
+mdw ra nTr js Hrw js mst "“I have heard the Sun’s speech being a god, being Horus mst”". This verb
+
+335
+probably has nothing to do with the 3rd-weak verb msj "give birth" and uses the ms-{fox hides
+bundled}-F31 sign as phonetic.
+
+2)
+§§1536b-37a: m(j) r.k Hr.sn m rn.k pw n mHjjt jp.sn Tw m rn.k pw n jnp
+Allen "you should take hold of them, in your identity of the north wind; they will take account of you,
+in your identity of Anubis"
+Shmakov "come upon them, in your identity of the north wind that they may recognize you in your
+identity of Anubis"
+
+m(j) is probably the imperative "come", not the imperative "take", as the verb jTj is not used with the
+governing preposition Hr (unlike the verbs xma (~ xfa) "grasp", nDrj "hold", Amm "grasp"). Moreover,
+if we were to follow James Allen’s interpretation we would get a strange phrase in which the wind is
+taking hold of somebody, whereas the coming of the wind does make more sense. For jj Hr "come
+upon", cf. Leclant, Pepi I, pl.3, col.39 (Allen’s P 308): jj.n.j Hr.k "I have come upon you", CT VII,
+148i, 149d: jj.kj Hr.Tn "I have come upon you" (also jw Hr in §§440a-b, 660c; CT IV, 346c; CT VI,
+262f jj Hr). For jp as "recognize", see T 145, 8.
+
+3)
+§1537b: nj hAw nTrw r.k m rn.k pw n jgAw
+Allen "the gods will not go down against you, in your identity of the Milk-Goddess"
+Shmakov "the gods will not descend to you in your identity of Igau"
+
+The godhead is jgAj "Igai" (see §662b), not jAt "Iat", firstly, because this and the following §1538a
+occur slightly changed on the south wall of the burial chamber (east end), and the name of the god in
+question is there spelled phonetically j-gA(w) (the sign is gA, {wicker satchel}-V96), Leclant, Pepi I,
+pl. II B, col. 96: […n].k m rn.k pw n jgA "to you, in your identity of Igau". Secondly, because there is a
+word-play in the passage between (n)j hAw and jgAw (i. e., we have an unique case of /h/ ~ /g/, instead
+of the usual /x/ ~ /g/, see M 52). Cf. CT VII, 40l-m, which is the descendant of this and the following
+§1538a PT passages, 40l: gAjw n.k nTrw gAjw n.k nTrw m rn.k pw n jgAw "Gods will overturn for you,
+gods will overturn for you, in your identity of Igau".
+
+P 522 (PT 580)
+§1545a: ngA.n(.j) n.k ngA Tw m ng wnw.k Hr sA.f m Hr sA pD Tw m pDt Ssr Tw m Ssr
+Allen "I have broken down for you as a longhorned bull the one who broke you down. The one on
+whose back you were is a bull on his back, the one who stretched you is a bull on the rack, the one who
+milked you is a milked bull"
+Shmakov "I have butted for you as a longhorned bull the one who butted you, the one on whose back
+you were – (I have butted) as a bull on his back, the one who severed you – as a bull on the rack, the
+one who carved you – as a milked bull"
+
+The verb pD is probably not "stretch", but the root of n.pD "sever" (§746a). The verb sSr is probably
+not "milk", but "carve" (it occurs in Moussa-Altenmüller, Niankhhnum, Tf. 62, sSr n qrst(j)t "carving
+for burial equipment",  sS(j) TAzt ns "carving a belt (and) a leg", sSr mks (?) n qrst(j)t "carving a
+sceptre for burial equipment"), so there is really a word-play between two words of different meanings,
+sSr "carve" and sSr "milked bull", although both verbs use the {arrow}-T11 sign in their spellings.
+
+P 523 (PT 581)
+§1551b: s.AqH.s mHwt
+Allen "is what will bring the northwind"
+
+336
+Shmakov "it (i. e. the cavern) will enhance the northwind"
+
+The verb s.AqH/s.qAH has the meaning "improve, ennoble, enhance", cf. PT 403, §701b: s.wAD tjt
+s.qAH tjt "Freshen Teti, ennoble Teti". The copies of Teti and Merenre give s.AqH, Neferkare’s copy
+gives s.qAH. Cf. also CT VI 372b: [qd.s Hwwt nTr].sn s.qAH.s rwdw.sn s.rwd.s arrwt.sn "[She builds]
+their [temples], she improves their stairways, she makes firm their passages".
+
+2)
+§1555b: nHm.k pjpj pn m-a TAz…m r n zjw r.sn jr hrw pw nfr n zxz
+Allen "“May you save this Pepi from the phrase”…in the mouth of those who have gone away at that
+final day of running"
+Shmakov "“May you save this Pepi from the utterance”…in the mouth of those who have gone away to
+them to this festive day of running"
+
+3)
+§1557c: Sm.k m-xt Ax.k {jr}<jr>.k {n}<tA> m jwnw
+Allen "You will go after your akh to cloak the winds"
+Shmakov "You shall go after you have become an akh (and) visit the land as gusts"
+
+The passage has jr knm jwnw, but it should actually be read jr.k tA m jwnw (see P 557, 3), that is, jr
+knm is probably a scribal mistake for jr.k tA m. The verb jr was misunderstood as preposition jr, and
+writing the sign n instead of a correct tA "land" is a frequent mistake from the hieratic42 (§§221c N,
+227c, 308b W, 372d W, 1645c N, 1648b N, 1649e N, 1713a; Urk.I:25:2, 136:17, 255:1, 3; Hassan,
+Giza II, fig. 63, p. 67 (sm xrp SnDwt smr watj ra wr(.j) Hm-kA Dt "Personal ka-servant of am-priest,
+manager of kilt, unique companion Raweri"); Junker, Giza VI, Abb. 91, p. 226; Davies, Ptahhetep I,
+pl. 26 (sn Dt); Jones, Titles, # 3747; Sethy I, Abydos II, pl. 36; CT VIII, 227c (M7C, Sq1Sq)). Ax.k in
+m-xt Ax.k is not a noun "akh", it is either an infinitive ("after your becoming an akh/after your
+akhification") or a non-attributive relative sDm.f ("after you have become an akh"), hence the reading.
+Cf.:
+
+PT 690, CT VIII, §2097a-b (B11C): jj Asjr(t) N pn Htm(.j) m nTr T(A)z qsw.f m Asjr(t) zj m-xt Ax.f
+"This Osiris N has come provided as a god, for his bones have been tied together as (those of) Osiris,
+who has gone after he has become an akh"
+
+Leclant, Pepi I, pl. II B, col. 83: anx pjpj pn Htm(.j) m nTr T(A)z qsw.f m Asjr(t) zj m[-xt Ax.f]
+"This Pepi shall live provided as a god, for his bones have been tied together as (those of) Osiris, who
+has gone af[ter he has become an akh]"
+
+PT 93, §62a: fA Hr.k Asjr(t) fA Hr.k hA wnjs pw zj Ax.f
+"Lift your face, Osiris, lift your face, this Unis, who has gone to become an akh"
+
+PT 422, §752a-b: hA pjpj pw Sm.n.k Ax.k
+"Ho, this Pepi! You have gone that you may become an akh"
+
+PT 450, §833b: Sm.n.k j.Ax.k xnt(j) Axw
+"You have gone that you might become an akh at the fore of the akhs"
+
+42 See Hays, Structure, p.40, note 22.
+
+337
+P 524 (PT 582)
+§1566a: smAt wrt Awt S(w)t
+Allen "great wild cow with long plumage"
+Shmakov "great wild cow with long horn"
+
+Neferkare’s version gives Awt S(w)tj "with two long horns". For Swt "feather" as a probable metaphor
+for "horn", see T 228.
+
+P 525 (PT 583)
+§1568b: dSrrt
+Allen "little red one"
+Shmakov "red one"
+
+The reduplication of the final radical in the word dSrrt "red one" does not add something special to the
+meaning, so we must not consider dSrrt as a combination of dSrt "red one" and Srrt "little one". Cf.
+other nouns with reduplicated root radical: dSrr "redness" (§854a P; CT I, 378c (S1C), as a variant of
+dSr/dSrw); qd (§§308c, 312c) ~ qdd (§§260b, 721d, 1500c) "sleep"; HwAt (§722d) ~ HwAAt (§§788b,
+1257b, 1360b) "putrefying liquid"; Tmst (§1147a) ~ Tmsst (§1460a) "redness"; THnnt "glisten"
+(§561d); s.ASrt "roast (meat)" (§124c) ~ s.(A)Srrt "roast (pies)" (CT III, 124b); bAg (CT III, 311c) ~
+bAgg (CT III, 311c (A1C), CT II, 162i) "feebleness"; Hwr (Wb.III:55:5) ~ Hwrr "youth" (CT III, 78b);
+Xnw (§§229b, 289c W, 304a W, 306c W, 1463d M) ~ Xnnw (§§289c T, 304a T, 306c T, 1099a, 1040c,
+1463d P) "disturbance"; Hbnt (§§76d N, 94d N) ~ Hbnnt (§§76d W, 94d WT) "scones".
+Also there are words normally spelled with reduplicated radical: Smmwt (§1189d) "walkways", xprr
+(§§561c, 570, 888b, 1210a) "beetle", Hnmmt "Sunlight people (i. e. Egyptians)", arrwt (§392a) "gate,
+portal" (yet there is a spelling without gemination, arwt in §1740b), wrrt "crown" (yet there is a
+spelling without gemination, wrt in Urk.IV:244:8), nnSm "spleen" (§83b W, however nSm in §83b N;
+Hassan, Giza VI, Part II, pl. 77:82), zSSn "water-lily" (zSn since the M.K.).
+
+P 526 (PT 553)
+§1358b-c: rdwj.k sq(j).sn n.k a.sn jn.sn n.k H(A)bw.k
+Allen "your feet laying down for you and their arms getting for you your catch"
+
+There seems to be a mistake in this passage which is a variant of §791b: n rdwj.k sq(j).sn H(A)b.k "for
+your feet because they lay down your (bird) catch", for it is unclear who are .sn in a(wj).sn "their
+arm(s)". The correct version may be rdwj.k sq(j).sn n.k a.{sn}<.k> jn.sn n.k H(A)bw.k "your feet are
+laying down for (and) <your> arm(s) are bringing for you your catches". Mercer also emended .sn "thy
+feet hit thine arms" (Mercer, P. T., p.220).
+
+2)
+§1358d: n jbHw.k HDw anwt.k Atft(jjw)t
+Allen "for your white teeth and your nails of Him of Atfet"
+Shmakov "for your white teeth (and) your talons (lit. fingernails of Him of Atfet)"
+
+Atft(j) "He of Atfet" is probably the god Nemti (see Supplemental notes, Notes on gods’ names &
+epithets and on place names, 2), so anwt Atft(jjw)t "fingernails of Him of Atfet" undoubtedly means
+"talons, claws". Cf. PT 302, §461d: anwt.f m wxAw Atft(j) "His fingernails are the talons of Him of
+Atfet", CT IV, 347d-e: jbHw.j m ds nHDwt.j m Atft(j) "my teeth are (as sharp as) a knife, my canine
+teeth are (as sharp as the claws) of Him of Atfet".
+
+338
+3)
+§1360b: rDw.k n.k pr m HwAAt Asjr(t)
+Allen "you have your outflow that comes from Osiris’s decay"
+Shmakov "your outflow that came as Osiris’s putrefying liquid is for you"
+
+The collocation pr m in this passage probably has the meaning "emerge as", rather than "emerge from".
+For HwAAt as "putrefying liquid", cf.:
+
+CT III, 28b-c: jw HwAAt wSr jtrw
+"putrefying liquid has shallowed, the river has dried up"
+
+CT III, 297a-b: jj.n.j…pnq.j HwAAt (and also CT VI, 265b-d: jj.n.j…pnq.j [Hw]AA)
+"I have come…that I may bail the [putre]fying liquid"
+
+PT 532, §1257b: xw.sn zAb HwAAt.k jr tA
+"They will keep your putrefying liquid from oozing to the ground"
+
+CT IV, 183b-d: HwAAt.j pw antjw...rDw.j pw Hknw
+"My putrefying liquid is myrrh, my outflow is “Jubilation” ointment"
+
+CT VI, 386e: m zAb HwAAt.k…m rn.k pw [n] z[Ab]
+"Don’t shed your putrefying liquid…in your identity [of] ja[ckal]"
+
+Budge, BD94:4: mj.k wj m zSA jn n.j HwAt Asjr(t) zSA.j jm
+"Look, I am a scribe, bring me Osiris’s putrefying liquid with which I will write"
+
+Moreover, see the determinative of the word HwAAt in §788b – that is {pouring liquid}, just like in the
+word rDw "outflow" in the same paragraph.
+
+4)
+§1368b-c: hrw pw…n DAt r(w)dw
+Allen "on the day…of the legs’ crossing the sky"
+Shmakov "on the day…of crossing the causeway"
+
+Cf. PT 676, §2016b: n DAt r(w)d wr "of crossing the great causeway". For such a spelling of r(w)dw
+"causeway", cf. §1090c.
+
+P 528 (PT 555)
+§1373a: pr.n pjpj m p
+Allen "Pepi has come from Pe"
+Shmakov "Pepi has emerged into Pe"
+
+The reading "into Pe" is suggested by the variants of Merenre and Neferkare, which have m p xr nTrw
+p(jw) "into Pe, to the gods–residents of Pe". As in jj xr "come to (somebody)". prj m can also have the
+meaning "emerge into" (see §§632c, 1636a: pr mtwt.k jm.s "your semen has emerged in her"; §700b: pr
+tjt m qdwt.Tn "Teti will emerge into your shapes"; §§1624b,c, 1832b: pr.n jr(t) m tp.k "an eye has
+emerged into your head"; §§525c-528c (also §529c): pr.f m sxt jArw wab.f m sxt jArw "that he might
+emerge into the Marsh of Reeds and become clean in the Marsh of Reeds").
+
+Cf. also PT 452, §842b-c: abw.k abw fdw Axw prw hnjnj.sn m p
+
+339
+"your cleansing is the cleansing of the four akhs who come forth genuflecting in Pe" (after Allen).
+
+2)
+§1377b-c: d pjpj tp(j) anD DnH.k m pf gs mHt n mr nxA
+Allen "put Pepi on your wingtip in yonder northern side of the Winding Canal"
+Shmakov "place Pepi who is upon your wingtip (in)to that northern side of the Curved Canal"

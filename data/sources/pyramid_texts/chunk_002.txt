@@ -1,0 +1,405 @@
+izon"
+
+Note a separate verb existed for "cleanse with natron, wash with soda solution", namely Hzmn, see W
+22, 2, above. Some later examples of cleaning with natron:
+
+CT IV, 345g-h: Dd z(j) <r> pn…ja(.w) m H(n)qt Hzmn
+"A man should pronounce this <spell>…washed with beer (and) natron solution"
+
+CT V, 53a: wab N pn m bd
+"This N has become clean with soda solution"
+
+24
+Urk.V:97:16-17: Dd z(j) r pn wab.f sw m mw nw Hzmn
+"A man should pronounce this spell when he cleanses himself with natron water"
+
+So to apply the meaning "cense" (purify with incense smoke) rather than "cleanse with natron " for
+snTr:
+
+PT 210, §127a: wab r n wnjs s.nTr psDtj wnjs
+"the mouth of Unis is clean, the Dual Ennead has censed Unis"
+("…the Dual Ennead has cleaned Unis with natron" after Allen)
+
+PT 512, §1164c: wab.k m S(j) zAbj s.nTr.k m S(j) d(w)Atj
+"that you may become clean in the jackal lake, that you may become censed in the Duat lake"
+("…become washed in natron-water from the Duat lake" after Allen)
+
+PT 515, §1181b: wab.s pjpj pn s.nTr.s pjpj pn
+"she will clean this Pepi, she will cense this Pepi"
+("…washing this Pepi in natron-water" after Allen)
+
+PT 685, §2066b: s.ab.sn Tw s.nTr.sn Tw
+"They will cleanse you, they will cense you"
+("…that they may cleanse you with natron" after Allen)
+
+(Allen’s) Nt 16, col. Nt 42: kAp.n sw Hrw Hr jrt.f hA nt pw kAp Tw Hr jrt Hrw s.nTr Tw Hr jrt Hrw
+"Horus has fumigated yourself by means of (Hr) his eye. Ho, this Neith, fumigate yourself by means of
+Horus’s eye, cense yourself by means of Horus’s eye!"
+("…Ho, Neith! Cense yourself with Horus’s eye, natron-cleanse yourself with Horus’s eye" after
+Allen)
+
+CT VI, 122f-j (T1C): kAp.n sw Hr Hr jrt.f Asjr(t) N pn kAp Tw Hr jrt Hr s.nTr Tw Hr jrt Hr
+"Horus has fumigated yourself by means of his eye. This Osiris N, fumigate yourself by means of
+Horus’s eye, cense yourself by means of Horus’s eye!"
+
+The just mentioned spell, (Allen’s) Nt 16, and its descendant CT 530, to which the passage just above
+belongs, are about incense, not about cleansing with natron, thus s.nTr in the passage is undoubtedly
+"to cense".
+
+CT VII, 137p: Asjr(t) N pn mj n.k jrt Hrw Sma(wj)t s.nTr.s Hr.k s.nTr.s jrtj.k
+"This Osiris N, take Horus’s eye of the Nile Valley, it will cense your face (and) eyes"
+
+CT VII, 137q: Asjr(t) N pn mj n.k jrt Hrw s.nTryt…s.nDm.s sT Hr.k jrtj.k
+"This Osiris N, take Horus’s eye which censes…it will sweeten your face (and) eyes’ scent"
+
+CT VII, 138a: Asjr(t) N pn mj n.k jrt Hrw s.nTr Hr.k s.nTr jrtj.k jm.s
+"This Osiris N, take Horus’s eye with which your face and eyes will be censed"
+
+It is clear from the passages just cited that s.nTr.s Hr.k s.nTr.s jrtj.k and s.nTr Hr.k s.nTr jrtj.k jm.s is
+equivalent to s.nDm.s sT Hr.k jrtj.k, and it is also clear from the texts that sT "scent" refers to the sweet
+scent after censing, rather than after cleansing with natron.
+
+Harold Hays in his dissertation reads this passage in the same way as the present author: "incense, one
+
+25
+pellet" (Hays, Structure, p.80, note 89).
+
+W 27 (PT 39)
+§31a: jr(t) Hr(w) zjt.f r.s
+Allen "Horus’s eye, which went away"
+Shmakov "Horus’s eye, to which he went"
+
+zjt.f r.s is a relative construction with the relative form zjt, with jrt as an antecedent and r.s as a
+coreferent, lit. "Horus’s eye he went to it", which is equivalent to the passage of §83a: jr(t) Hr(w) Smt.f
+r.s "Horus’s eye, to which he went".
+
+W 32 (PT 44)
+§§34c-d: Htpt jnt n{t}.k Htpt mAAt.k Htpt sDmt.k Htpt m bAH.k Htpt m xt.k Htpt xr(j)t.k pAt wDAt
+Allen
+"Contentment be what is gotten for you,
+contentment be what you see, contentment be what you hear,
+contentment be before you, contentment be behind you,
+contentment be your lot.
+A fresh bread-loaf"
+Shmakov
+"Nourishment is what is gotten for you,
+nourishment is what you see, nourishment is what you hear,
+nourishment is before you, nourishment is behind you,
+nourishment is what you abound in.
+A whole bread-loaf"
+
+For Htpt as "nourishment", see W 145. For the prepositional nisbe xr(j)t, see W 159, xr(j)t.k is lit.
+"what is with you, what you have". pAt wDAt is "a whole bread-loaf", for it derives from wDA
+"be(come) sound, whole" (not from wAD "become green, fresh").
+Harold Hays in his dissertation reads pAt wDAt of this passage similarly as pA.t wDA.t "a whole Patcake" (Hays, Structure, p.78, note 75).
+
+W 38 (PT 50)
+§37d: Dsrt
+Allen "Sweeping the offering table"
+Shmakov "a table (with meal)"
+
+The text has {offering table (with legs) with bread loaves} followed by Dsrt. This likely should not be
+read as *Dsrt wdHw (or *Dsrt xAwt) as Allen seems to do, for apart from the order of the words, it
+should be noted that the verb Dsr is a 3-lit. verb, meaning the infinitive "sweeping" would be Dsr, not
+Dsrt. (That there would exist a verb Dsr "sweep" is in itself debatable, see W 225). So it would sooner
+be a piece of cultic furniture: Dsrt. For lists of such pieces of furniture, cf. L.D.II:28: Dsrwt xA "a
+thousand of tables", ibid:44, b: xA xAwt xA Htp xA Dsrt "thousand of offering tables, thousand of
+altars, thousand of tables (with meal)". The option that there’s only one object, Dsrt, could be
+supported by Neferkare’s version of the text, which has Dsrt followed by an empty offering table as
+determinative. This word Dsrt is probably the same as the word Dsr "table" (Wb.V:617:10) , cf. gsA
+"two-legged headrest" (Murray, Saq. Mas., pl. 2), which is also spelled with t-ending – gsAwt
+(Moussa-Altenmüller, Niankhhnum, Tf. 62), gst (Brovarski, An Inventory List, p. 119, fig. 1). It is
+noteworthy that Harold Hays reads Dsrt similarly in his dissertation "a sacred (offering table)" (Hays,
+Structure, p.80, note 88).
+
+26
+
+W 41 (PT 128)
+§38c: jrt Hrw zx(j)ntj.k
+Allen "Horus’s eye, which you should embrace"
+Shmakov "Horus’s eye which you sought"
+
+zx(j)ntj is a relative form of the verb zx(j)n, which is sometimes spelled with jn-pot (§§310e T, 314e),
+just like in Neferkare’s copy of this spell, and thus probably must be read zxjn. This verb always has
+the meaning "seek" in the PT (cf. §§310e, 314e, 575a, 600c, 1008c, 1799a, 1936a, 1945c, 2059a), as
+the PT use HjHj "seek" very seldom (§§1242b, 2145b), and do not use Dar "seek". In the PT, zxn does
+not have the meaning "embrace", the notion of embracing is rather expressed by the phrases Xnw aw(j)
+(§208b) "arm(s)’ inside, a hug", m Xnw a(wj) (§§151e, 212b, 258d) "inside the arm(s), in a hug", Sn m
+Xnw a(wj) (§§160b, 213a) "encircle inside the arm(s), embrace", sbx a(wj) HA (§585c) "enfold arm(s)
+around, embrace", d a(wj) HA (§1653a, b) "put arm(s) around, embrace", awj HA "arms around!,
+embrace!" (§§189b, 190b, non-verbal imperative, see P 318, 2).
+
+The meaning "seek" especially applies when referring to the Eye, cf. the New Kingdom copy in the
+temple of Sethy I at Abydos, which gives (Sethy I, Abydos II, pl.32, 35, col. 6, bottom): jrt Hrw zxn(t).f
+"Horus’s eye which he (i. e. Horus) sought", cf. also ibid (Mariette, Abydos, T.1. Pl. 37, b, col. 30-31
+from the left): jn.n(.j) n.k zxn<t>.k jn.n(.j) n.k dbHt.k…jnk DHwtj jn.n(.j) n.k jrt Hrw
+"I have brought you that which you sought, I have brought you that which you asked for…I am Thoth,
+I have brought you Horus’s eye". The same note is valid for PT 128, §80c.
+
+W 48 (PT 74)
+§51a: jrt Hrw j.s.fkkt.n.f Hr.s
+Allen "Horus’s eye, on which he caused devastation"
+Shmakov "Horus’s eye, from which he has become free"
+
+s.fkk ~ s.fxx "become free, release, let loose" is a very rare case of /x/ ~ /k/. For the latter phenomenon,
+cf. xfa (Wb.III:272:1) ~ kfa (Wb.V:121:2) "grasp" (cf. also Edel, Alta. Gr., §119). A very probable
+example nkjkj ~ nxjxj may be added, for the root of the verb spelled nkjkj in the following PT passage
+cannot be nk "copulate", as that verb is never spelled nkj; the root is sooner nxj "endure, last" (§§256d,
+663b, c, 1292a; for the meaning, see T 248, 2):
+
+PT 479, §990a: ra nkjkj Xt nwt Xr mtwt Ax jm.s
+"Sun, Nut’s belly has grown (lit. endured, lasted) with (lit. having) the seed of the akh who is in her"
+
+(This passage is a variant of PT 325, §532a: hpAT j.TApr Xt pt Xr At mtwt nTr jmjtj.s
+"Howler, the sky’s belly has swollen with (lit. having) the force of the god’s seed that is in it")
+
+In that light, the unknown verb nkAkA in PT 690 may probably be equated with nxAxA "endure" (CT I,
+296c (T9C, Sq3C)), spelled with xA-{shell}-L6 sign, instead of the usual spelling with x (ibid, T2C,
+B10C), which is a case of xA ~ x, see Edel, Alta. Gr., §45:
+
+PT 690, §2114a-b: anx jb.k nkAkA Ha.k nTr
+"May your heart live and your body endure (?), god"
+
+The name of the god Sobek has an unattested root sbk, which could be a variant spelling of the attested
+root sbx and probably reflects dialectal differences.
+
+27
+Cf. also transitions into Coptic: xAa "throw, leave" > S. kō, xnp "snatch" > B. kôlp. We also may
+observe the reverse phenomenon in Coptic: the transition k > x, which is quite common in
+Bohairic,with lots of examples, e.g. kkw "darkness" > B. xaki (S. kake); kAp "hide" > B. xôp (S. kôp);
+km "be(come) black" > B. xamĕ (S. kamĕ).
+
+Though the verb s.fxx is used in the PT with governing preposition m, it also could be used with Hr:
+
+CT I, 16d: s.fx.t(w) Dba Hr.T
+"the evil curse (lit. "finger") has been released from (Hr) you"
+
+In the following spell from the temple of king Sethy I at Abydos copies vary between collocations s.fx
+m and s.fx Hr, both meaning "release from": Sethy I, Abydos I: pl. 26 gives Hr, all others give m (I: pl.
+18, 26; II: pl. 3, 14, 22):
+r n stA z/z(w)j Dd mdw jn nswt stA Dba n stS m/Hr jrt Hrw nDm sj s.fx Dba n stS m/Hr jrt Hrw nDm sj
+s.fx r(w)d Hr Asjr(t) s.fx dHrt Hr sA nTr
+"The spell of pulling back the (door)-bolts, recitation by the king: Seth’s evil curse (Dba) has been
+pulled back from Horus’s eye, so it is happy (lit. sweet); Seth’s evil curse (Dba) has been removed (lit.
+loosened) from Horus’s eye, so it is happy; removed has been the lash (?) from Osiris, removed has
+been the illness from the god’s back"
+
+The suggested reading of the PT text is also supported by the New Kingdom copy of the spell in the
+temple of Sethy I at Abydos (II, pl.18) which gives: jrt Hrw s.fkkt.n.f stS Hr.s "Horus’s eye, from
+which he has removed (lit. released) Seth". Cf. also PT 219, §192b where the simplex fx is used with
+Horus’s eye as an object: j.fx n.k s(j) zA.k Hrw "Your son Horus released it (i. e. his eye) for you".
+
+Some other verbs likewise vary between governing preposition using either Hr or m:
+i) dr Hr ~ dr m "remove from", PT 255, §297a: j.dr Tw Hr st.k "Remove yourself from your place", PT
+476, §955a: j.dr sw m st.f "Remove him from his place", PT 504, §1083c: j.dr Tw m wAt.f "Remove
+yourself from his path" (also §1229c);
+ii) xnr m ~ xnr Hr "keep from", Naville II, BD 26, p. 91, Pb: nn xnr.tw bA.j Hr XAt.k Hr sbAw nw
+jmnt(j)t (similar Naville II, BD 91, p. 206, Lc) "My ba will not be kept from your corpse (and) from the
+gates of the West", Urk.IV:938:6: nn xnj bA m mrt.f "without keeping the ba from what he loves";
+iii) nDrj Hr ~ nDrj m "hold on to, take hold of, grasp by", PT 361, §604e: nDr n.k tjt Hr a.f "Grasp
+Teti by his arm", CT III, 288b-289a: nDrw N pn mHyt Hr Hnzkt.s "This N will grasp the Northwind by
+her braid", PT 528, §1250b P: nDr m a n pjpj pn "hold on to the arm of this Pepi"; PT 4, 5, §§3c, e:
+nDr.s jm.k "that she may take hold of you" (also §§1300a, 1630c);
+iv) Hmsj m st (§305a) ~ Hmsj Hr st (§§391c, 1154b, 1241b, 1367c, 1707b, 2015a) "be seated on the
+seat"; Hmsj Hr nst (§1992b) ~ Hmsj m nst (CT VI, 383e) "be seated on the throne";
+v) sSmj Hr wAt ~ sSmj m wAt, PT 482, §1010a: sSm Tw zA.k Hrw m wAwt pt "Your son Horus will
+lead you on the paths of the sky", sSm.t(j).f Hr wAwt Dsrt "He will be led on the restricted paths"
+(Simpson, Qar and Idu, fig. 33; also Mariette, Mast., E12, p. 412-13, F2, p. 433); CT VI, 83l-m:
+sSmw.sn Tw Hr wAt nt nTr nb "they will lead you on the path of every god" (also CT V, 290m);
+vi) xpj Hr wAt "go on a path" ~ xpj m wAt "go by a path", (Junker, Giza II, Abb. 7, p.115) xp.s Hr
+wAwt nfrt xppt jmAx(w)t jm.s(n) "She will go on the right paths by which honored women go" (the
+same – Junker, Giza VI, Abb. 69, p. 191: xp.f Hr wAwt nfrt xppt jmAxw jm.s(n); Junker, Giza VII, Abb.
+46, p. 123: xp.f Hr wAwt nfrt xpt jmAx jm.s(n)); Hassan, Giza VII, fig. 20, p. 26: xp.f Hr wAt nfrt [x]ppt
+jmAxw jm; Abu-Bakr, Giza, 72 fig. 46: […x]ppt jmAx(w) jm.s[n] "by which honored one(s) go";
+L.D.II:56, b;
+vii) Smj Hr wAt ~ Smj m wAt, PT 441, §817b: Sm.k Hr wAt (t)f j.Smt nTrw jm.s "You will go on that
+path by which the gods go" (also CT V, 46c: wAt Smt.k Hr.s), Urk.I:182:15-16: njj gm.n(.j) rmT nb
+
+28
+Sm.sn m wAwt n Da "I cannot find any men who went by the paths of the storm";
+viii) Htp Hr (§195a, b) ~ Htp m (§772b) "be content/pleased with (someone, something)"; Htp m (W
+168, 3) ~ Htp Hr "get sated with, have enough of", Urk.IV:1064:2-3: Szp.k Awt Htp.k Hr Sbw Hr
+wDHw n nb Dt "You will receive a ration (and) get sated with food from the table of the lord of Dttime";
+ix) awn Hr ~ awn m "remove from", Peas. B1 262-263: m awn Hwrw Hr xt.f "Don’t remove/keep back
+an unfortunate from his property", Urk.IV:133:4: nj awn.j ky m xt.f "I did not remove/keep back
+another from his property";
+x) jr Hr (Urk.I:50:6-7, 226:12, 229:12) ~ jr m (Urk.I:50:1, 69:16, 71:17, 225:18, 226:5, 269:11) "buy
+for, make for", Urk.I:50:1: jr.n(.j) jz pw m jSt mAa(t) "I have bought this tomb for real property".
+xi) Sdj m ~ Sdj Hr "suckle, bring up with", Sethy I, Abydos IV, pl. 16: jnk mwt.k Sd(.j) tw Hr mnd(.j) "I
+am your mother, I have suckled/brought you up with my breast", Urk.IV: 578:6 (also 578:10:14,
+580:17, 581:5:9): Twt zA(.j) Sd.n(.j) m jrTt.j jptn jmjt(.j) "You are my son whom I suckled/brought up
+with this my milk which is in me";
+xii) stj/sTj Hr ~ stj/sTj m "sow, fertilize, inseminate", Urk.IV:238:8: kA st Hr nfrwt "the bull that
+inseminates cows", CT I, 366b: sTT.j Ds.j m nTrwt "I myself inseminates goddesses", ibid, 365c-367a
+(M5C): stt.n.j bA.j m r(m)T jmjw jw nsrsr "I have sown my ba into the people of the Island of Blazing";
+xiii) xntS Hr ~ xntS m "marvel at", Sethy I, Abydos III, pl. 31: xntS.j Hr zpw jrr.k n.j "I marvel at deeds
+which you make for me", Urk.IV:114:17: xntS.k m a(w)t.k nbt "you will marvel at (the state) of all your
+limbs";
+xiv) Hnk m ~ Hnk Hr "endow with", Nt 745: Hnk sw [Hrw] m jrt.f…wAgjt sw Hrw m jrt.f, Jéquier,
+Pepi II, pl.6, col. 709+13-14: Hnk sw Hrw [Hr] jrt.f…wA[g sw Hrw Hr jrt.f];
+xv) DAj Hr zxnwj "cross on the two reedfloats" (§§926b,d, 932b, d) ~ DAj m zxnwj (§§337, 342a, b, c,
+d); Smj Hr zxnwj (§1179a) ~ Smj m zxnwj (§1206d, f) "go/move on the two reedfloats";
+xvi) Axj m ~ Axj Hr "become sated with" (CT II, 394a (B1Bo); CT III, 126b (B1Bo)), Ax mjzt ra Hr
+mAat ra nb "The liver of the Sun is sated with maat every day" (CT III, 6b).
+
+So in general, the prepositions m and Hr often show interchangeability when used in collocations.
+
+In the PT text at hand, the spelling s.fkk is used instead of the usual s.fxx to make a word-play between
+s.fkk and sfT "pine oil", i. e. sfk’ ~ sfT, a case of /k/ ~ /T/, cf.:
+kw (§218c W) ~ Tw (ibid TMN) "you",
+sk (§§327a T, 483b) ~ sT (§327a W) "adverbial marker",
+Dd.k (§17c) ~ Dd.T (§1800b) ~ Dd.kT (§27c, Nt 88, combined Dd.k + Dd.T = Dd.kT) "too, as well",
+kbw(tj) (§22b) ~ Tbw(t) "sole, foot" (§681e) ~ Tbwwt/Tbwtj (§§1297c, 1368c, 2016b, Urk.I:102:13,
+105:11, 17, also in the M.K.; in the N.K. also > tbwtj) "sandals".
+See also Edel, Alta. Gr., §111.
+
+2)
+§51a: sfT
+Allen "Pine oil"
+
+James Allen is probably right, as sometimes this oil name is written with a {piece of wood}-M187
+sign, see the mastaba of Kaiemankh (Junker, Giza IV, Tf. 16), the mastaba of Nikainisut II (nj-kA(.j)-
+(n)swt "My ka belongs to the king", Junker, Giza III, Abb. 22, between pp. 154 and 155), Kai (Junker,
+Giza III, Abb.17, p. 135), Nisedjerkai (nj-sDr-kA(.j) "My ka cannot lie", Junker, Giza II, p.119-20,
+Abb. 9, 10), Nefer (Junker, Giza VI, Abb.10, p. 47), Ueri (Junker, Giza VI, Abb. 72, p. 197), Minu
+(Junker, Giza VI, Abb. 98, p. 236), Ateta (jttj, probably for jtjt, Murray, Saq. Mas., pl.18(= 19), sfT
+(HA)t(j)t "the first class pine oil"); Kanawati-Hassan, Ankhmahor, pl. 63, 67; Junker, Giza VII, Abb.
+79, p. 189; Inkaf (jn-kA.f, Junker, Giza IX, Abb. 79, p. 175); Hassan, Giza VI, Part II, pl. 33:44 (jn-
+
+29
+kA.f), 41:46 (s.(w)DA w(j) kA(.j)), 49:58 (dwA(.j)-kA(.j) = Hassan, Giza VI, Part III, pl. 45), 49:63
+(wAS-dwAw), 89:98 (wrj), 106:113 (pnw), 106:115-116 (nj-anx-pjpj).
+
+W 49 (PT 75)
+§51b: jrt Hrw Snmt.n.f
+Allen "Horus’s eye, which he rejoined"
+Shmakov "Horus’s eye, which he shielded"
+
+For the meaning of the verb Snm/Xnm, see W 165, 7; cf. also
+CT VII, 134e (G1T): Asjr(t) N pn mj n.k jrt Hrw jnt.n.f Xnmt.n.f nTrw jm.s
+"This Osiris N, take Horus’s eye with which he has brought and shielded the gods"
+
+W 51 (PT 77)
+§53a: Dj.T Sat.f m jrtj Axw {k}<nb>
+Allen "you shall put his ferocity in the eyes of all the akhs"
+Shmakov "you shall inspire (lit. give) the veneration of him in the eyes of all the akhs"
+
+The meaning of the passage is that a feeling of awe and dread is evoked, a feeling that shows in the
+eyes of the akhs. There is a word-play in the passage between HAt (§52a, b) plus Sat (§53a) and
+HAt(j)t aS "first class cedar oil" (§53b).
+
+W 52 (PT 78)
+§54a: HAt(j)t THnw
+Allen "First-class Libyan oil"
+Shmakov "First-class Libyan cedar oil"
+
+It is interesting that this oil occurs with a {piece of wood}-M187 sign as the determinative in the
+offering-lists of the mastabas of Userinetjer (wsr-nTr(.j) "My god (i. e. king) is strong", Murray, Saq.
+Mas., pl.21, 23); Weeks, Cemetery G 6000, fig. 30 (= L.D.II:49, b); Junker, Giza X, Abb. 64, after p.
+166; Hassan, Giza VI, Part II, pl. 25:28 (k(A.j)-s.DA-(wj) II), 49:61 (dfDj), 73:80 (= Hassan, Giza VII,
+fig. 101, p. 104, Htpj), 81:91-92 (nfr-sSm-sSAt), suggesting that the oil originated from the wood of a
+tree, just like sfT "pine oil (after Allen)" (see W 48, 2) and aS "cedar oil" (§53b).
+
+W 53 (PT 79-80)
+§54c: s.dm(j.j) n.k jr(t) Hrw wDAt r Hr.k
+Allen "Horus’s eye has been painted sound on your face"
+Shmakov "I am attaching the sound eye of Horus to your face for you"
+
+The verb in the passage is likely not sdm "pencil, outline (eyes)", but rather the causative of the
+simplex dmj "touch". Firstly, because there is no obvious sense in "Horus’s sound eye has been
+outlined to your face" (passive), for what does "outline/pencil to (r) a face" mean? (exactly "to,
+towards", contrary to "pencil on", cp. zSA Hr "write/draw/paint on").
+Secondly, because the passage, as many others, contains a word-play, namely between the verb s.dm(j)
+"attach" and the noun msd(m)t "(black) eyepaint" (§54d); were we to take s.dm(j) as sdm "pencil,
+outline (eyes)", then there’s no longer a real play on the words, as sdm and msd(m)t have one semantic
+root sdm. For normally, a word-play consist of two semantically different words (i. e. words from
+different roots) that sound alike, for example "you are full in your identity of fuel tank" (a word-play
+on "full" and "fuel" – words have different roots), contrary to "you are full in your identity of full tank"
+(there is no word-play). This rule seems to hold also for ancient Egyptian word-plays, although
+exceptions  may have existed (§§479a, 785d probably are such an exception, with jAq "climb" and
+
+30
+m.Aqt "ladder", Hr "be far" and Hrt "(Celestial) Distance" being of the same root).
+Thirdly, Neferkare’s §55d gives s.dmj "attach" (the verb in §55d N should be the same as in §55b,c N
+which is spelled sdm) as well as §54c in the copy of Senusert-ankhu (Hayes, The Texts, col. 143) and
+§609c (see T 196, 3), while sdm "pencil, outline (eyes)" is never spelled with the mj-W19 sign.
+Moreover, in §283a (both WT) the verb sdm occurs with the {outlined eye}-D7 sign as the
+determinative, which doesn’t occur in §54c, 55b, c (Neferkare’s editor wrote only the {papyrus scroll}-
+Y2 sign after s.dm(j) in §55c). Note the omission of the final j is normal for PT and O.K. spellings, cf.
+sq(j) "pound, flat", bn(j) "become sweet", dA(j) "subdue".
+Fourthly, CT VIII (PT 79-80, p. 25) definitely gives all the verbs in question as s.dmj "attach".
+
+The verb s.dm(j) probably was misunderstood in CT VII, 138j, for this M.K. variant of §54c gives sdm
+with {outlined eye} determinative: Asjr(t) N pn sdm n.k jrt Hr wDAt r Hr.k "This Osiris N, outline
+Horus’s sound eye onto your face", but the following passage uses s.dmj (with {papyrus scroll} det.),
+138k: Asjr(t) N pn s.dmj n.k jrt Hr r Hr.k "This Osiris N, attach Horus’s eye to your face".
+
+There is another word-play in the passage: between wDAt "sound" and wAD "green eyepaint" (§54d).
+
+W 54 (PT 81)
+§56a: rs.T m Htp rs tAjt m Htp rs tAjt(j)t m Htp
+Allen "May you awake in peace! Awake, Ta’it, in peace! Awake, you of Ta’it-Town, in peace!"
+Shmakov "May you awake in peace! Awake, linen fabric, in peace! Awake, you of linen fabric (i. e.
+linen shroud), in peace!"
+
+In Unis copy of the spell, the word tAjt has the {sheaf of flax}-M38/M178 sign as determinative, and
+in the copies of Neferkare and Neith (Nt 149-150) also tAjt(j)t has this determinative. So both words
+were undoubtedly considered as being made of linen fabric. We know for sure that tAjt is a "linen
+fabric":
+
+CT I, 254c: tAyt.s rxtt ptH sxtt tAyt Ds.s
+"Its linen fabric which Ptah laundered, which Tait braided herself"
+
+In the copy of Senusert-ankhu (Hayes, The Texts, col. 145-146), the sign {falcon on standard which
+stands on a sandal} (G7 + horizontal S33), a variant of G142/143, which is used to write the word
+jdmj/dmj "linen" (see §816b and Supplemental notes, notes on the signs, 13) follows tAjt, giving us
+the reading tAjt jdmj probably "linen cloth" or the like.
+
+The {village plan}-O49 sign which occurs alone or in combination with the {sheaf of flax}-M38/M178
+at the end of the word tAjt in §737c4 (also §§1642, 1794a, Leclant, Pepi I, pl.2 A, col.20, pl.11, col.3),
+probably does not indicate that tAjt would be a toponym (*"Weaving-town"), but rather is secondary.
+For in several instances the sign seems to take the place of other determinatives; cf. the occurrence of
+the secondary {village plan} sign determinative in words like Htp "offering" (§897b M, probably the
+influence of sxt Htp, cf. §749d M), SsAt "night" (Nt 4 = §1761d), swHt "egg" (§714b), and in mnH
+"lying" (Jéquier, Pepi II, pl.14, col. +74).
+
+The O49-sign also appears in the names-epithets of the deities mAa Hr Tryt "Pilot covered in gore"
+(CT VIII, 150b, T1L, TT240), sAH "Orion" (§1763c, spelled without O49 in Nt 807), jw.s aA.s "SheComes-(and)-She-Increases" (see P 467, 8; CT VI, 247g, 283r, 284i), Htp.s xw.s "She-Rests-(and)-
+
+4 wnx.k m jrt Hrw jmjt tAjt "get dressed in Horus’s eye which is a linen fabric".
+
+31
+She-Defenses" (CT IV, 256a, 260b (BqCb, B1P, B5C, BqCa)), nfrw.s "Beauty-tree"5 (CT III, 87b, 93g,
+cf. §1783b with the {tree}-M1 determinative) and jtnw.s "jtnw-tree" (CT II, 120a, CT III, 87c, 203b
+(B3L, here with the {tree} determinative), without O49 in ibid, 240a-241a), ggw.s "Stare-tree" (CT III,
+90a), Hknw.s "Jubilation-tree" (CT III, 108b, without O49 in ibid, 130h (S1C), 138d) and in the epithet
+of Anubis, jmj wt "who is in mummy-wrappings" (cf. Urk.I:268:10 where it occurs without the sign
+O49 and has the {bandage}-V38 sign instead. In the M.K. mostly without O49), probably likewise as
+substitute for another sign. Cf. a similar use of the {mountain range}-N25 sign which occurs as the
+determinative for dangerous beings (§§236c, 245b, 851b N, 1639c N, see P 50). tAjt(j)t is the feminine
+nisbe of tAjt, literally "she of linen fabric" and seems to mean "linen shroud".
+
+Another indication for the meaning of tAjt and tAjt(j)t lies in their occurrence as objects of the
+collocations DbA m "robe, clothe in" and wnx m "get dressed in" in PT and CT:
+
+PT 71C, §*49n: [DbA.n sw Hrw <m> tA]j[t]
+"[Horus has robed himself <in> linen] fa[bric]"
+(James Allen himself reads tAjt in this passage as "woven cloth")
+
+PT 622, §1755a-b: DbA.n(.j) kw m jrt Hr rnnwt(j)t jtn nrt.n n.s nTrw
+"I have robed you in Horus’s eye, this Nurterer of which the gods have become afraid"
+
+PT 634D, §*1793f-g: hA pjpj [nfr-kA-ra DbA.n Tw] Hrw m tA[jt(j)t jmjt] tAjt DbA[.n.f jt(j)].f jm.s
+DbA[.n.f Asjr jm.s]
+"Ho, Pepi [Neferkare]! Horus [has robed you] in the linen shroud [which is of] linen fabric, in which
+[he] robed his [father, in which he] robed [Osiris]"
+(James Allen reads tAjt(j)t in this passage as "woven cloth")
+
+PT 690, §2094a: aHa Hr DbA.f pjpj nfr-kA-ra pn m tAjt(j)t prt jm.f
+"Horus has stood up that he may robe this Pepi Neferkare in a linen shroud (tAjt(j)t, lit. "her of linen
+fabric") that emerged from him (i. e. in his eye which he lost in the battle with Seth ("that emerged
+from him"))"
+
+CT VII, 64a: DbA.n.j Tw m jrt Hrw jmjt tAjt DbAt.n.f jt(j).f jm.s DbAt.n.f Asjr(t) jm.f
+"I have robed you in Horus’s eye that is a linen fabric (tAjt) in which he (i. e. Horus) robed his father,
+in which he robed Osiris"

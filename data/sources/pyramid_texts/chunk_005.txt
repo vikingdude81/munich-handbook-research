@@ -1,0 +1,524 @@
+ermo Stone, Djer’s sixth year (PS r.II.8); Hassan, Giza V, p. 276: Hm nTr wAst(jt) "priest of the
+Theban goddess"; also a male divinity labeled with the sign S40 (wAst(j) "Theban one") occurs on one
+of the so-called "triad of Mykerinos" (JE 40678), Urk.I:159:6) to jAt-goddess, this means that the sign
+S40/S40a never had the phonetic value jAt, and actually still has the phonetic value wAs. There
+probably is a word-play in the spell between jw.sn (WT)/jw.n.sn (N) "they have come" and wAst(j)t (i.
+e. ’wns’ ~ wAs’’, a case of /n/ ~ /A/, see W 78, 1).
+
+On the block from mastaba of Izi (4th dynasty), Ny Carlsberg Glyptotek, Copenhagen, AEIN 896b-c
+(= Berlev, Stelae, p.31) wAst(j)t occurs with another nisbe of a toponym nbwt(j)t "Ombite" (feminine
+nisbe of nbwt "Ombos"): H(n)qt pr(w) HDt wAst(j)t nbwt(j)t "beer, pr(w)-beer, white beverage, Theban
+(ale), Ombite (ale)" (for pr(w) and HDt (white) beverages, see Junker, Giza III, Abb. 9a, 9b).
+
+W 113 (PT 151)
+§91b: H(n)qt sSr Dwjw 2
+Allen "2 bowls of Bowland beer"
+Shmakov "a sSr-bowl and Dwjw-jar of beer (lit. beer, sSr-bowl, Dwjw-jar, 2)"
+
+Or "two jars of sSr-beverage (?)"
+
+In the passage the {bow}-T9A-vertical sign has the phonetic value sSr (not ztj, as in tA ztj
+"*Bowland"), cf. Wb.V:551:6-7 (Dwjw sSr), §443a: sSr "to milk" with a {bow} sign instead of the
+usual {arrow} sign, and the title jmj-r sSrt "Overseer of the milk herd" written with the {bow} sign (ElSabbahy, JEA 79 (1993), p. 244 = Jones, Titles, # 871). The {bow} sign occurs in combination with
+the {arrow} sign in the Dwjw sSr of the mastaba of Kaipura (kA.j-pw-ra "My ka is the Sun", Mariette,
+Mast., D39, p. 273-74), and it also occurs in the mastaba of Kahif (Junker, Giza VI, Abb.33, p. 113)
+and on the coffin of Idu II (Junker, Giza VIII, Abb. 46, p. 103). The {jar} sign after the {bow} sign
+probably stands for Dwjw "jar", rather than being the determinative of sSr. H(n)qt sSr Dwjw occurs in
+the pyramid of Unis and his sucessors instead of the usual Dwjw sSr (Wb.IV:295:7-8); the word sSr
+probably means "sSr-jar".
+
+Two villages are named after these two vessels in the mastaba of Persen:
+Mariette, Mast., D45, p.300: sSr "sSr-bowl", Dwjw "jug" (transposed in the original as jwDw, cf. the
+village named after abS "wine bowl" and nmst "jar" in Hassan, Giza II, fig.137.1, mnzA "mnzA-jar" in
+Murray, Saq. Mas., pl. 10)
+
+These two vessels are separated in the offering lists of Nikainisut and Hemra:
+Junker, Giza II, p. 155, Abb. 21: Dw(jw) 2 sSr 2 "two jugs, two sSr-bowls (of beer)"
+Mariette, C15, p. 141: Dwjw sSrw(j) "a jug, two sSr-bowls"
+
+In the offering list of Seankhuiptah these vessels have different determinatives, Kanawati-Raziq,
+Seankhuiptah, pl. 72, 74: Dwjw {jug} sSr {double jar}
+
+The proper sequence in the offering lists is {drink/beverage}, {container}, for example H(n)qt nmst
+
+48
+"beer, jug" which is "a jug of beer", jrTt mr (§32a N) "milk, jar" which is "a jar of milk" etc., which
+means that Dwjw sSr could not be "a jar of sSr-beverage"9, only "Dwjw sSr-jar of…" and as we know
+from the current passage it probably was "Dwjw sSr-jar of beer". Another proof for the reading
+suggested is the fact that the determinative for this offering list’s item often was {double jar}, which
+resembles abS-{double jar} for wine. Such a {double jar} could be called Dwjw sSr, as opposed to a
+single jar (just Dwjw).
+
+W 114 (PT 152)
+§91c: mnD n Hrw dAp sn
+Allen "the breast of Horus, which they made a gift of"
+Shmakov "Horus’s breast that fed them (i. e. gods)"
+
+dAp is a participle "that fed", not a relative form *dAp.sn, cf. the New Kingdom variant of this spell, in
+the temple of Sethy I at Abydos (II, pl.32, 35, col. 15, bottom): mnDwj n Hr drp.n.f nTrw jm
+"Horus’s two breasts from which he has fed the gods"
+
+Though this variant uses a relative form drp.n.f, nTrw "gods" (~ sn of §91c) is still an object of the
+action, and not a subject.
+
+For the reading, cf. Urk.IV:415:7(= 1032:13): drp.t(w).f m mnDwj Hr
+"He is fed from Horus’s two breasts"
+
+PT 193, §110: mj n.k jrt Hrw dAp Tw jm
+"Take Horus’s eye, feed yourself with it"
+
+The word-play in this spell has been described in W 67-68 above.
+
+W 121 (PT 159)
+§95a: jrt Hrw xnft.n.f xnfw
+Allen "Horus’s eye, which he carried off"
+Shmakov "Horus’s eye which he has snatched"
+
+See W 81 for the relevant comments.
+
+W 125 (PT 163)
+§97b: zwt (nt) ag(w)t
+Allen "roasted wheat"
+Shmakov "roasted patties of wheat"
+
+The meaning "dried/roasted grain" for agt was established by Hermann Junker (Junker, Giza II, p. 171)
+on the basis of the {braizer with flame}-Q7 sign which once occurs as its determinative in the offering
+list (Junker, Giza II, p. 155, Abb. 21). As it turns out, Junker was absolutely right as we have enough
+cases of /g/ ~ /x/ (see M 52) to suggest that this word has the root ag/ax that also occurs in the words
+ax "braizer" (§§558a, 2118b), axwt "burnings" (§1961b) and s.ax "roast, burn" (§1485b: fst Drw.s
+j.s.axt jmjt.s "who cooks her limits, who roasts that which is within her"). In fact, we even have variant
+spellings of ag(w)t to support this:
+
+9 However, in the fourth dynasty mastaba of Khafkhufu I it is written sSr Dwjw 2 which suggests the reading "two jars of sSrbeverage" (Simpson, Kawab, Khafkhufu I and II, fig.31).
+
+49
+axwt/axt (Hassan, Giza II, fig. 142, p. 128/Hassan, Giza VI, Part II, pl. 31:28)
+axrt (Hassan, Giza VI, Part II, pl. 87:91-92, a variant of the spelling agjt (ibid, pl. 96:99) and agrt
+(ibid, 79:82), a case of probably dialectal /j/ ~ /r/, see W 166, 1, i)
+aSwt (~ axwt, Hassan, Giza VI, Part II, pl. 71:73, a case of /x/ ~ /S/, see W 88).
+
+For the root ag/ax, cp. also axw "burn" (CT V, 12d (G1T, A1C), graphically transposed as awx), and
+ag/agw "roast" (Wb.I:173:8, CT V, 10g, 12a, CT VII, 72b, 142a, regularly graphically transposed as
+awg). Moreover, there is a word-play in the spell PT 163: zxz.f and zt agt (i.e. zx ~ zg), jrt…zxz.f and jt
+agt (i.e. jt…x ~ jt’g).
+
+In §97d (jt ag(w)t), as well as in the O.K. offering lists, the feminine ag(w)t does not agree in gender
+with the masculine noun jt(j) "barley" (t is part of the root, not an ending, just like in jt(j) "father"; cf.
+jt(j) mHj "the Delta barley"), which means that ag(w)t is a separate plural noun, probably "roasted
+patties/pies", Moreover, cf. Hassan, Giza VI, Part II, pl. 87:88 (jdw): ag(w)t nt z(w)t/jt(j) "roasted
+patties of (nt) wheat/barley", the same occurs in CT VII, 126x-y and Meir II, pl. 8: agwt nt zwt agwt nt
+jt(j) (Meir has zw(t) and jt(j) mH(j) "northern barley"). Literally the current passage is "wheat, roasted
+(things)", i. e. "roasted patties of wheat", cf. CT III, 124b (S6C): s.(A)Srrt nt bdtj dSrt "roasted (pies) of
+the red emmer". The scene of "making roasted patties (of) wheat (and) barley" (jrt ag(w)t z(w)t jt(j))
+remained in the M.K. tomb of Djehutihetep (El Bersheh I, pl.31). It is noteworthy that under the fourth
+dynasty there also was ag(w)t bdt "roasted patties (of) emmer" (Simpson, Kawab, Khafkhufu I and II,
+fig. 31, 32).
+
+The above means that Wb.I:235:5 "Art Zubereitung des Getreides (Schrot)" (the way of grain’s
+preparation (Crudely milled grain)), which can be translated as "wheat/barley groats", is incorrect.
+
+W 126 (PT 164)
+§97d: jt(j) ag(w)t
+Allen "roasted barley"
+Shmakov "roasted patties of barley"
+
+See the comments just above.
+
+W 127 (PT 165)
+§98a-b: mj n.k jrt Hrw j.s.nbAbA s(j) / bAt ab 2
+Allen "accept Horus’s eye: it is slipping / 2 bowls of bAt"
+Shmakov "accept Horus’s eye (and) j.s.nbAbA it / two bowls of groats"
+
+The verb s.nbAbA is probably an imperative, not sDm.f. The word bAt/bAbA(w)t probably means some
+way of preparing barley and emmer because it occurs written bAbAt jt(j) 2 bdt 2 "two bowls of barley
+groats, two bowls of emmer groats" (lit. "groats: barley two bowls, emmer two bowls") on the offering
+plate of Iimeri (Junker, Giza X, Abb. 53, after p. 144) and as bAbAt zt 2 bAbAwt jt(j) 2 "two bowls of
+wheat groats, two bowls of barley groats" in the offering lists of Sehemkai and Maakheruptah (Hassan,
+Giza VI, Part II, pl. 39:42 and 87:90). The verb s.nbAbA is not the verb znbA (which Allen reads as
+"slip") as s and z are thoroughly distinguished in the Old Kingdom.
+
+W 131 (PT 169)
+§100a: s.xt n.k s(j)
+Allen "return it to yourself"
+Shmakov "turn it to yourself"
+
+50
+See T 146 for the comments.
+
+W 132 (PT 170)
+§100c: jrt Hrw jp n.k s(j)
+Allen "Horus’s eye: allot it to yourself"
+Shmakov "Horus’s eye, subordinate it to yourself"
+
+For the meaning of jp as "subordinate", see W 148, 3, T 145, 9.
+
+W 133 (PT 171)
+§100f: Hnkt
+Allen "Dedicating the offering"
+Shmakov "Gifts"
+
+This word derives from the root Hnk "present", hence the reading.
+
+W 134 (PT 223)
+§214a: Hw jnn jh jh
+Allen "Hey! Turn around! Ah, ah!"
+Shmakov "Announce (yourself), turn (yourself), oh, oh!"
+
+See W 135 for the comments.
+
+2)
+§215b: jj.t(j) n bA.k Asjr(t) bA.j m Axw sx(m).j m swt.f
+Allen "You have come to your ba, Osiris, ba among the akhs, in control in his places"
+Shmakov "Welcome to your ba, Osiris, (the ba) impressing/affecting akhs (and) in control of its
+places"
+
+bA.j and sx(m).j are statives (with stative j-ending spelled out, cf. the same in §§244c T: xm.j; 546a:
+sSd.j; 886b: bA.j, sxm.j, wAS.j; 1223b: rx.j, 1371b: mnH.j, 1373b: DbA.j, Jéquier, Pepi II, pl. 6, col.
+709+2: wAH.j, Nt 819, 823; outside of the PT – pjpj Dd.j "(the king) Pepi is firm" (man’s name,
+Mariette, Mast., E9, p. 401)).
+They refer to bA.k "your ba" and both have m as governing preposition, literally "your ba…making
+impression (bA) on (m) akhs, having control (sx(m)) of (m) his places". The sign m has been omitted in
+sx(m) to avoid having twice m in a row (sxmjm, see P 450, 4). The same omission occurs in §§53a N,
+145b, c, 204c W, 300c W, 620a M, 824a M, 837c M, 857c N, 903b N, 1300c N, 1621b, 1624a, 1626,
+1824e, 2075b.
+
+For the collocation bA m, cf. also:
+
+PT 437, §799c: Sd.sn Tw jr pt m bA.k j.bA.tj jm.sn
+"They will take you to the sky due to your ba, (for) you have impressed/affected them"
+
+Literally "they will take you to the sky through your ba, you having made an impression on/affected
+them"10 (j.bA.tj is 2ms stative. See also bA m in P 4, 3; P 45).
+
+10 Allen reads this passage "they will take you to the sky in your ba, you having become ba as one of them" (Allen, P. T.,
+p.105). However, the preposition m doesn’t have the meaning "among" (which is m-m), hence the feasible reading "you having
+become ba among them" is incorrect. Allen’s reading "as one of them" would be m wa jm.sn (§2085b) or mj wa jm.sn (Budge,
+BD169:26) in Egyptian. This means that m here can only be the semantic part of the verb bA, namely its governing preposition.
+
+51
+
+CT IV, 83k (B6C): Dsr wAt jr HmAtt bA SfSft
+"The way has been beaten (see P 31, 5), HmAtt has been made, respect has been impressed/inspired"
+
+The verb bA is used in the latter passage instead of the usual qmA "create (respect (SfSft))" (ibid, 69c
+(T1C), 74e (B6C), 88i), rdj "give, inspire (respect)" (ibid, 89c), TAz "tie (respect)" (ibid, 69c (B6C,
+D1C, B2Bo, B6Bo), 74e (D1C), 82o (B6C).
+
+bA is one of the numerous verbs that have the governing preposition m, cf. – apr m "equip with",
+s.Df(A) m "supply with" (Urk.IV:767:16), mH m "fill with", xsfj m "meet with (lit. go towards)"
+(§§1162d, 1702b), Htp m "have enough of, be pleased with", s.Htp m "please with, satisfy with", zSA m
+"write of, record, register", prj m "come out/in", zbT (>zbt) m "laught at", DbA m "robe in", anx m "live
+on", wrH m "anoint with" (§816c), sd (>sD) m "clothe in", njs m "call by" (§2025a; Mariette, Mast.,
+B14, p. 107; Hassan, Giza II, fig. 230, p. 210), sxm m "have control of", gAj m "deprive of"
+(Urk.IV:613:13, 767:12), tkn m "be close to, approach to" (Urk.IV:1118:12), xpr m "evolve
+into/originate from, become", s.Ax m "turn (lit. akhify) into", Swj m "be empty of", s.Swj m "deprive
+of", SsA m "be aware of", jwr m "be pregnant with", bkA m "be pregnant with" (Urk.IV:268:7), s.nm m
+"feed with" (Urk.IV:267:8), Htm m "provide/furnish with", Hbs m "dress in, put on, wear" (§§816b,
+2039), sAH m "be rewarded with", jwa m "be granted with", grg m "settle with", s.mnx m "supply with
+(lit. make become functional with)" (Urk.VII:29:16), nHb m "provide with", s.nxt m "strengthen with",
+mjnj m "moor to, marry to", zmA m "join with", Hzj m "meet", saH m "dignify/title into, appoint", Xnm
+m "join to, present/endow with", (w)d(j) m "appoint to (an office)", wnx m "get dressed in", nDrj m
+"grasp at", sq(j) m "play (bnt "harp")", z(A)b m "play (lit. blow) (mAt "transverse flute", mt "double
+clarinet")", rx m "know about (in the sense "confide in/be sure of")" (Urk.IV:437:1, 1199:1), s.xm m
+"forget about" (CT VI, 154l), Dd m "speak with (r "mouth")", and the verbs expressing joy (Nt 278),
+satiety (P 334) and hostility (W 166).
+
+The verb-preposition combinations with special idiomatic meanings ("collocations" as they are known
+in linguistics) have not received the same attention in Egyptology as they have in the study of other
+languages, because Egyptology was and is occupied with sentence-theory. Take for example the
+English collocation (verb + preposition in function of an adverb) "live on" as an expression of the
+stable diet that a living being eats. Here we can say "The goats live on grass" or "He lives on bread" to
+express that they eat this substance to stay alive, which is different from "The goats live on the hill"
+and "he lives on the street", as the preposition "on" in these sentences is not a part of a collocation, but
+a part of the prepositional phrase (cf. also "A boy looked through the keyhole" and "A manager looked
+through the files").
+
+Such collocations also existed in Egyptian, and the preposition used in them changed the verb’s
+meaning just like a preposition in the function of an adverb does in English:
+
+anx "live"/ anx m "live on",
+prj m "come out/in" / prj r "go up to, ascend to" / prj Xr "reveal, divulge (lit. emerge under)",
+zXA "write"/ zXA m "record, register (lit. write of)",
+xpr "evolve"/ xpr m "become (lit. evolve into)",
+sDm "hear"/ sDm n "listen to, take heed to, obey",
+pXr "go around"/ pXr n "serve",
+zA(j) "guard, detain, restrain" / zA(j) n "watch for"
+zbj "send, reach, spend"/ zbj Hr "stand up for, patronize",
+aHA "fight"/ aHA Hr "defend (lit. fight for)"/ aHA xft "attack, fight against",
+Hmsj "sit"/ Hmsj Hr "besiege",
+
+52
+mdwj "speak"/ mdwj Hr "advocate, stand up for, deputize for (lit. speak on behalf of)"/ mdwj xft
+"contest against"/ mdwj m "speak against, abuse",
+Htp "be pleased"/ Htp m "have enough of, be pleased with".
+
+There also are collocations where a preposition doesn’t change the verb’s meaning, but these are still
+collocations as the choice of the preposition fully depends on the verb (just like in English in which we
+use a preposition on with the verb depend and a preposition at with the verb laugh, but not vise-versa).
+In Egyptian such collocations are:
+
+Intransitive:
+aq r/Hr "enter", aq Hr "enter into presence",
+spr r "arrive at, attain to, reach",
+zbj r "arrive at, attain to, reach",
+zmA r/m "partake of (food)" (CT III, 21c; Urk.IV:1011:3, 1165:15, 1167:13),
+njs r "call to",
+tSj r "part from, come away from",
+rwj r "go away from, leave; go to" (Urk.IV:114:2, 496:5; CT VI, 273f),
+Spt r "be(come) angry with",
+Dnd r "be(come) mad at",
+gwA r "unmoor from" (T 283, 2),
+Hrj r "be far from" (trans. s.Hrj r "distance from"),
+wA r "be far from",
+bjAj r "move away from/to",
+StA r "hide from",
+SAk / XAk jr "object to" (§1162a-b)
+bST (>bSt) Hr, sbj Hr "rebel against (lit. on)",
+swAj Hr "pass by",
+xpj Hr "go by (a road), walk on (a road)",
+Hmsj Hr/r "sit on/to",
+mAA / dgj n "look at".
+
+Transitive:
+Smsj r "follow to",
+ja/s.ja n "ascend/elevate to",
+mz jr "come near to",
+mr r/m "fasten to, become attached to",
+Sdj r "take to",
+sSmj r "lead to",
+stj r "throw to",
+wxA r "clear away from",
+dmD r "join to",
+stp r "choose to (an office, rank)",
+wpj r/Hr "part from",
+Tnj r "be distinct from, distinguish from" (trans. and intr.),
+rx r "tell (lit. learn, know) from",
+nHm r "take away from" (CT III, 298c),
+s.Hrj r "distance from/to",
+s.wA r "distance from",
+wd/wD r "push off (with a pole) from",
+jwd r "separate from",
+
+53
+snsn r "behave brotherly to, fraternize to" (trans. and intr.),
+(w)d(j) r "place to",
+jj r/n "come to",
+mr r "become attached to (lit. fasten oneself to)",
+s.dmj/dmj r "attach to",
+s.xpr r "turn (lit. make evolve) into",
+dbH r "ask/beg for/to",
+Dd r "say to, say about",
+DAj r "transport/ferry to",
+sbA r "teach (something)" (CT VI, 411l),
+wDb Hr "turn to/from",
+nS / awn / xsf / dAjr / Ajr / dr / Sna / HnHn Hr "remove from",
+sSmj m/Hr "lead by (a road)",
+bz Hr "introduce to",
+Hzj Hr "praise for",
+zmjn m "introduce to" (see P 501, 1-2),
+stp zA Hr/r/HA "extend protection over/to",
+nDrj / Amm / xfa (~ xma) Hr "grasp at",
+nHm m-a "save, take away from",
+Sd(j) m-a "save, take away from",
+nD m-a "tend/help out from",
+xw(j) m-a "defend from",
+mk(j) m-a "protect from",
+jp m-a "withdraw from",
+dbH m-a/xr "ask/beg something from someone (r for)",
+nhp m-a "get free of",
+xpr m-a "happen to", "happen because of/due".
+
+However, it is important to realize that the existence of a collocation generally does not exclude the
+occasional use of the verb with the preposition in its usual sense ("non-collocational uses" as they are
+known in linguistics), for example:
+
+1. collocational use of bA m "impress, make an impression on": see just above.
+
+2. non-collocational use of bA m:
+
+PT 356, §579a: bA.k jm.s sxm.k jm.s
+"You will become impressive through it (i. e. Horus's eye), you will gain control through it" (not
+"impressing it…in control of it")
+
+1. collocational use of sxm m "have control of":
+
+PT 215, §146a: Asjr(t) nj sxm.n.k jm.f nj sxm.n zA.k jm.f
+"Osiris, you cannot have control of him, your son (Horus) cannot have control of him"
+
+2. non-collocational use of sxm m:
+
+PT 422, §752b: Sm.n.k Ax.k sxm.k m nTr
+"You have gone to become akh and gain control as a god (not "gain control of a god")"
+
+54
+PT 553, §1364c: sxm.k m Xn.k
+"Your control is inside of you" (not "you have control of your interior")
+
+1. collocational use of Htm m "provide/furnish with":
+
+PT 223, §215a: Htm nTr m Htp nTr Htm wnjs m t.f pn
+"(As) the god is provided with a god’s offering, (so) Unis (too) is provided with this bread of his"
+
+2. non-collocational use of Htm m:
+
+PT 222, §206a: Htm.n.k Tw m Hrw
+"You have provided yourself as Horus" (not "provided yourself with Horus")
+
+PT 422, §759a: aHa.k pjpj pn nD.tj Htm.tj m nTr
+"You shall stand up, this Pepi, tended (and) provided as the god" (not "provided with the god")
+
+1. collocational use of wnx m "get dressed in":
+
+PT 414, §737c: wnx.k m jrt Hrw jmjt tAjt
+"You shall get dressed in Horus’s eye which is a linen fabric"
+
+2. non-collocational use of wnx m:
+
+PT 470, §918b: wnx pjpj pn m sxt xprr
+"This Pepi will get dressed in the Marsh of the Beetle"
+
+1. collocational use of anx m "live on":
+
+PT 440, §816b: anxw m d(A)b
+"who live on fig(s)"
+
+2. non-collocational use of anx m:
+
+PT 475, §948b-c: nTrw…anxw m jAwt Hrw anxw m jAwt stS
+"the gods…who live in Horus’s mounds, who live in Seth’s mounds"
+
+1. collocational use of prj m "emerge from/into":
+
+PT 298, §442b: HfAw pn pr m tA
+"this snake that comes from the earth"
+
+2. non-collocational use of prj m:
+
+PT 665, 665A (Nt 606, 667, 753): DHwtj mds pr m stS
+"Thoth, a butcher, who emerged as Seth"
+
+PT 406, §709a: mA Tw tjt pr.k r.k m DHwtj
+"Teti will see you when you emerge as Thoth"
+
+1. collocational use of sDm n "listen to, obey":
+
+55
+
+ShS. 12: sDm r.k n.j HAt(j)-a
+"So, listen to me, high official" (in the sense of "obey me")
+
+2. non-collocational use of sDm n:
+
+ShS. 182: mj.k nfr sDm n r(m)T
+"Look, listening (lit. hearing) is good for people"
+
+pPrisse 16, 3: Ax sDm n zA sDmw
+"Listening (lit. Hearing) is effective for a son-listener"
+
+1. collocational use of Smsj r "follow to":
+
+Urk.VII:57:1: Sms nTr r st.f
+"The one who followed the god to his place"
+
+2. non-collocational use of Smsj r:
+
+Urk.VII:62:6: Sms nswt r nmtt.f
+"The one who followed the king wherever he went (lit. according to his step/tread)"
+
+I follow James Allen in the meaning he offered for the verb bA and for the abstract noun bAw (Allen,
+Inflection, §728, p. 545: "become impressive", Allen, Reading a Pyramid, p. 22: b3=kj* m nTr
+"impressive as a god"; Allen, M. E., Essay 7, p. 79, "bAw…something like “impressiveness”"). Cf. also
+the verb’s use parallel to the verb wAS "be(come) esteemed": §§723b, 833c: j.bA.k bA.tj wAS.k wAS.tj
+"You will impress having become impressive, you will inspire estimation having become esteemed".
+
+The present author is thankful to Dr. Rune Nyord, of Cambrige University, who kindly discussed and
+helped to formulate the problem of collocations in Egyptian, and who advised on using the terms
+"collocation" and "non-collocational use".
+
+W 135 (PT 224)
+§218c: Hw kw wnjs jnn kw wnjs
+Allen "Hey, you Unis! Turn about, you Unis!"
+Shmakov "Announce yourself, Unis, turn yourself, Unis!"
+
+The first verb is in graphical transposition (cf. §218c MN, Nt 347 (Hw Tw)) and is an imperative of
+Hwj (Wb.III:44:3, Allen, Inflection, 549), the sense of "announce (yourself)" is "make your presence
+known". The notion behind "turn" is "turn yourself toward me as I am speaking", see also W 134
+above.
+
+PT 628, §1786b: Hw kw pjpj nfr-kA-ra j.nn.k pjpj nfr-kA-ra jnk nbt
+"Announce yourself, Pepi Neferkare (and) turn, Pepi Neferkare! I am Nephthys"
+
+PT 664A, §*1884a: Hw kw pjpj [j].nn kw pjpj nfr-kA-ra jnk Ast
+"Announce yourself, Pepi (and) turn yourself, Pepi Neferkare! I am Isis"
+
+CT I, 200d-g: jnk zA j.mr.f sDm sDm jnk zA.k Hw Tw mA[.t(j)] ra nb
+"I am the beloved son of his father (lit. the son whom he (i. e. his father) loves), listen, listen! I am your
+
+56
+son, аnnounce yourself being new every day!"
+
+Note the way in which this passage is constructed: jnk…sDm sDm jnk…Hw Tw…
+"I am N listen, listen! I am Y аnnounce yourself…!"
+
+The particle Hw A, H(w)A, H(w)A A, Hwj A "If only, Would that, I wish" (Allen, M. E., 16.6.12)
+probably started out as a form of the verb Hw(j) "announce, proclaim!", either in sDm.f form or an
+imperative, for as the following passages show it was followed by a dependent pronoun (Tw), like the
+imperative in the passages above, rather than the suffix forms (cf. the same phenomenon with the
+particle mj.k, W 211, 2):
+
+CT I, 198e: Hw A Tw jp.t(j) s.(w)DA.t(j) m saH.k pn ntj m-bAH.j
+"Announce yourself recognized and made sound in this your rank which is before (that of) mine"
+
+i. e. "Would that you are recognized and made sound in this your rank which is before (that of) mine"
+
+CT VI, 386f: Hw A sw rxs(.w) m dsw bjbj m awt
+"Announce him butchered with the sharp (? bjbj) knives from the limbs"
+
+As subjunctive:
+
+PT 467, §886a P: nw r.f Dd.n.k ra Hw.j zA j.t(j) Tw ra
+"that which you said, Sun—“May I proclame a son,” so you said, Sun"
+
+Hw.j zA "“May I proclame a son,”" of this passage may also be read "“Would that I have a son,”".
+
+2)
+§§219a-220a: Htp Dj nswt m saH.k nb m swt.k nb(t)
+Allen "A king-given offering of all your insignia in all your places"
+Shmakov "A king-given offering of all your dignity’s insignia, of all your places"
+
+m swt.k nb(t) may have the meaning "of all your places", rather than "in all your places", and of course
+it are not places themselves that are offered but the ability to dwell there, cf.:
+
+PT 424, §770b: hA pjpj pw Htp Dj nswt Hms.k jAwt.k Hrw(j)t wnwn.k jAwt.k stS(j)t
+"Ho, Pepi! A king-given offering: you will occupy your mounds of Horus and move about your
+mounds of Seth"
+
+In this passage the ability to "occupy" and "move about" places may be given through a king-given
+offering.
+
+The expression m swt.f nbt (traditionally read "in all his (cult) places") that sometimes follows Htp Dj
+nswt formula in the O.K. (rare) and M.K. (frequently) with the suffix .f "his" referring to the god-donor
+has unexpected suffix on the female coffin of the M.K11. On this coffin the expression m swt.s nbt nfrt
+refers to the female deceased, not to the male god Osiris:
+
+Htp dj nswt Asjr(t) nb Ddw xnt(j) jmntjw nb AbDw m swt.s nbt nfrt…jmAxt myt
+
+11 Outer coffin of the female child Myt ("Cat") of the Middle Kingdom, Dynasty 11, early reign of Mentuhotep II (MMA
+26.3.9a, b)
+
+57
+"A king-given offering of Osiris, lord of Busiris, the one at the fore of the westerners, lord of Abydos
+of (?) all her beautiful places…honored Myt"
+
+Compare also:
+
+PT 617, §1745a: Htp Dj nswt m swt.k nb(t) Htp Dj nswt m saHw.k nb
+"A king-given offering of all your places; a king-given offering of all your dignity’s insignia"
+
+Berlin 1191: Htp dj nswt n N m saHw.f nb m swt.f nb(t) m mrt.f nb(t) nfrt n.f jm xr nTr
+"A king-given offering for N of all his dignity’s insignia, of all his places, of all that he loves by which
+it goes him well due to the god" (see also stela Leiden AP 69 V 79 Boeser 36)
+
+CM CG 1486: Htp dj nswt sm m saH.k nb m swt.k nb(t) mrt.k
+"A king-given offering of sem-priest (consisting) of all your dignity’s insignia, of all your places which
+you love"

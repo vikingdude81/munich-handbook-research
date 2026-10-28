@@ -1,0 +1,506 @@
+Dmtj.n.f "that which he has heard". The relative perfect spelled jrtj.n occurs in PT
+477, §970c: jrtj.n Hrw n Asjr(t) [jr.f n pjpj pn mjj] "What Horus has done for Osiris, [he will do for this
+Pepi likewise]", PT 691C, §*2131a N.: jrtj.n(.j) r[npwt.k jm] "[of] which I have made [your fresh
+provisions]" (= Nt 835: jrt.n(.j) n rnpwt.k "which I have made for your fresh provisions (or "yearly
+festivals (lit. your years)"?), for the restoration see §1950b; cf. also Allen, Inflection, §71, B); spelled
+jrwtj.n(.j) (T2C, Sq3C) and jrtj.n(.j) (T9C, B10C) "which I have made" occurs in CT I, 286b, c, d, see
+T 203, 3, T 204, 4. Another relative perfect with the tj-ending probably occurs in §674a: abX djtj.n.k
+jm.f "Suck out (lit. swallow) what you have placed in him!". Cp. also the descendant of the current
+passage and spell (CT spell 53) which has active verb forms (though not relative), CT I, 242b: nn fx.k
+pr.k n Awt jb "You will not lose your house of joy", ibid, 243d: nn Hm fx.k pr.k n anx zp 2 "you won’t
+also lose your house of living life".
+
+5)
+§205b: Htm.tj m stS S[bSb] wAD(j)w
+Allen "provided as Seth, whose raw (testicles) were pulled off"
+Shmakov "provided as Seth, who waters (feeds ?) the green ones"
+
+The verb restored by Sethe as S[xbxb] is not the verb xbxb "draw back" (the source of Allen’s "were
+pulled off"). This dameged verb occurs spelled SbSb in Pepi I’s copy (Leclant, Pepi I, pl. II B, col. 30)
+and in the copy of Senusert-ankhu (Hayes, The Texts, col. 377), and also as SbSb with {three ripples of
+water}-N35a determinative in CT VIII, §205b, BH5C. It contains either the root SbSb ~ SfSf "shed,
+drool" (W 67-68, a case of /b/ ~ /f/, see W 81) or the root Sb which occurs in the verb wSb "feed, eat".
+In CT VIII, §205b, nSbSb wADw has {sitting god} determinative, which shows that it was considered
+to be Seth’s epithet. James Allen’s translation does not fit the context of the spell PT 222, which is
+about the king as being both Horus and Seth (see W 175, 1), so a mention of their conflict would be
+strange.
+
+6)
+§206a: Htm.n.k Tw m Hrw Hwn(w)tj
+Allen "You have provided yourself as Horus the Youthful"
+Shmakov "You have provided yourself as Horus, he of the Lass"
+
+Hwn(w)tj may be a nisbe of Hwn(w)t "lass", which could refer either to Horus’s eye (§93a) or to Isis:
+CT II, 217d: jwr.T s.dx.T Hwnt pw mss.T "Since you are pregnant, you should conceal, Lassie, that you
+
+83
+are going to give birth". Allen’s reading is attractive but grammatically unclear, one would expect
+*Hrw Hwnw.
+
+7)
+§207a: j.fx.k ab.k n tm m jnw
+Allen "you shall release your cleansing to Atum in [Heliopolis]"
+Shmakov "you shall purge your impurity for Atum in [Heliopolis]"
+
+§208c: wab.k m Axt s.fx.k (a)b.k m Sjw Sw
+Allen "You shall become clean in the Akhet and release your cleansing in Shu’s Lakes"
+Shmakov "You shall become clean in the Behind the Horizon (and) purge your impurity in Shu’s
+Lakes"
+
+The word ab(w) "impurity, uncleanness" probably has the same root as abw "purity, cleanness", cf.
+another words of the same root having contrary meanings rs "to wake" and rswt "dream". It is found in
+the tombs owners’s appeal to the living:
+
+The mastaba of Peheniuikai (pH.n-w(j)-kA(.j) "My ka has reached me"):
+Urk.I:49:1-2: jr z(j) nb aqt.f Hr twt(.j) pw m abw.f jr z(j) nb aqt.f Hr twtw(.j) pn m abw.f
+"As for any man who will enter into the presence of this my statue in his (state of) impurity; as for any
+man who will enter into the presence of these my statues in his (state of) impurity"
+
+ibid:8-10:jr r(m)T nb aqt.sn jm.f m abw.sn jrt.sn xt Dw(jt) r.f m-xt nn Dd.n(.j)
+"As for any people who will enter it (i. e. the tomb) in their (state of) impurity, who will do a bad thing
+against it (even) after these (things) I have said"
+
+The mastaba of Akhetihetepiheri (Axt(j)-Htp(.j)-Hr(.j) "He of the Behind the Horizon (i. e. the Sun) is
+content with me"):
+Urk.I:50:16-17: jr r(m)T nb aqtj.sn jr jz(.j) pw m ab.sn jrtj.sn xt Dw(jt) jr nw
+"As for any people who will enter this my tomb in their (state of) impurity, who will do a bad thing
+against this (tomb)"
+
+The mastaba of Merefnebef (mr.f-nb.f "The one who loves his lord"), Myśliwiec, Merefnebef:
+jr r(m)T nb aqt.sn r jz(.j) pn n Dt m ab.sn wnm.n.sn bw(w)t bwt Ax nt(j) xp(.j) r Xr(j) nTr njj wDa.sn
+ab.sn mr wab.sn r Hwt nTr nt nTr
+"As for any people who will enter this (my) personal tomb in their (state of) impurity, having eaten
+abominations which akh who has gone to the necropolis abominates, who have not removed their
+impurity like they become clean at a temple of a god".
+
+The mastaba of Ankhimahor (anx(.j)-m-a-Hrw "I live due to Horus’s (giving) arm" or "My life is from
+Horus’s arm"):
+Urk. I:202:3-5: [jr r(m)T] nb aqtj.sn r jz(.j) pn m ab.sn wnm.sn bwwt [bw]t n Ax jqr nj wab.sn n(.j) mj
+wab.sn n n Ax jqr jrr Hzzt nb.f
+"[As for] any [people] who will enter this my tomb in their (state of) [impur]ity, having eaten
+abominations which an excellent akh abominates, who have not become clean for me like they should
+become clean for an excellent akh who did what his lord praised"
+
+See also Urk.I:90:2-3, 122:14, 142:15-16.
+
+The mastaba of Nekhebu (nxbw "Light one")
+
+84
+Urk.I:218:11: […] n.Tn Hr abw.Tn "[Get rid ?] for yourselves from your impurity"
+
+The mastaba of Nimaatre (nj-mAat-ra "Maat belongs to the Sun", Hassan, Giza II, fig. 231, p. 213):
+[…] tmt.f aq r jz(.j) pn Dt m ab.f wn.f […]
+"[…] who will not enter this my private tomb in his impurity, he will be […]"
+
+In the Middle Kingdom copies (CT VIII, pages 240, 244) the word ab "impurity" is written exactly like
+in the tomb examples above: ab plus {horn} or {horn pouring water} determinative.
+
+Sethy I, Abydos II, pl. 29: j jr(j)w aA n(w) r-pr pn Snay abw nb n(w) nswt mn-mAat-ra nn rdjt aq.sn msA.f r r-pr pn
+"O doorkeepers of this shrine who bar every impurity of the king Menmaatre without letting it enter the
+shrine in his wake"
+
+CT III, 127c: bwt.j pw abw "My abomination is impurity (of coitus ?)"
+
+ibid, 293b: jw rnpt 110 m Dr sDb.f abw.f
+"One hundred ten years without his obstacle (and) his impurity"
+
+Budge, BD105:4: TAz pwy Dw Dd.n.j abw pwy Dw jr.n.j
+"this evil utterance which I have said, this evil impurity which I have reached (lit. done)"
+
+For s.fx as "shed/get rid of, purge, purify (something bad, unclean)", see:
+
+PT 258, §308f: s.fx.n wnjs rDw.f…jr tA
+"Unis has shed his outflow…to the ground"
+
+PT 455, §§850c, e, 851a: s.fx Dwt jrt.f jr tA
+"the bad on him has been shed to the ground"
+
+PT 565, §1427b N: j.s.fx.n pjpj nfr-kA-ra Dw(j)t jr(j)t.f
+"Pepi Neferkare has shed what is bad on him"
+
+PT 637, §1801c: s.fx.s fdt.k Dw(j)t jr tA
+"It will shed your bad sweat to the ground"
+
+Eb. 1, 14: s.fx.t wj m-a xt nbt bjnt
+"may you shed me from everything bad"
+
+CT I, 130a-b (B1P): jx dj.j s.fxt m Sjw dwAtjw
+"Then I will cause (lit. give) a purging in the morning lakes"
+
+CT IV, 60p: s.fx.n N jzft jmjt.f
+"N has shed the wrong that was in him"
+
+CT VI, 150a: s.fx.n N pn m S(j)w zAb(j)w
+"This N has purified in the Jackals’ lakes"
+
+For s.fx as "purge", see also W 48, W 175, 2. For Axt as "Behind the Horizon", see Supplemental
+notes, Notes on gods’ names & epithets and on place names, 14. Harold Hays in his dissertation reads
+
+85
+abw in this passage same as "impurity" (Hays, Structure, p.130, note 93).
+
+8)
+§207b: wDa.k mArw nnt
+Allen "that you may decide the needs of the undersky"
+Shmakov "that you may remove hindrances of the Lowersky"
+
+The Middle Kingdom copies of this passage (CT VIII, pages 240, 243) give the word mArw with
+"fetters" determinative, thus the word is rather "hindrances, something that has got in the way" than
+"needs" (which is rather sArw). For wDa as "remove", cf:
+
+PT 665 (Nt  737-738) (has become CT I, 288h): wDa n.k zArw.k
+"You have removed your shackles"
+
+PT 703, §2202a: jj n.k Hrw wDa.f zArw.k xAa.f mD(w)t.k
+"Horus has come to you that he may remove your shackles and throw away your hobbles"
+
+CT VI, 394m-n: nfa.k qAsw.k nbw wDa.n.k zAwt.k "You have driven away your fetters, you have
+removed your detention (lit. guarding)".
+
+9)
+§207d-e: j.fx n.k mArw tp.k n rpwt jwn(j)t
+Allen "release needs. Head to (Nut), the Heliopolitan in the sedan chair"
+Shmakov "Release (i. e. remove) hindrances of your head/on you for (Nut), the Heliopolitan in the
+sedan-chair"
+
+James Allen follows Sethe’s spell division, but Sethe could be mistaken here, cf. the following passage
+from the Coffin Texts, probably the descendant of the discussed passage:
+
+CT I, 183i: sjn Tms.k nwHw tp.k n rpyt jmt(j)t
+"your purple (and) ropes of your head (or "on you" ?) have been rubbed (?) for the Butite in the sedanchair"
+
+and also CT II, 163h: s.fx.n.j tpjw nwHw "I have loosened those on whom are ropes"
+
+The discussed passage follows §207b: wDa.k mArw nnt "may you remove hindrances of the
+Lowersky", so it is unlikely that mArw "hindrances" of §207d would be indefinite (as suggested by to
+Allen’s reading "release [indefinite – T. S.] needs. Head to (Nut)…"), sooner it is definite (as being of
+the Lowersky) in §207b.
+
+The Middle Kingdom copies of PT (CT VIII, pages 240, 243) reinterpret the word mArw in PT 222 as
+"fetters" for the removing of which the same verbs are used, namely s.fx (with causative difference)
+and wDa (for example CT I, 288h). In the passage from the Coffin Text cited above, CT I, 183i, the
+word mArw "fetters" was further reinterpreted as nwHw "ropes".
+
+In Neith’s copy of the PT the verb fx is subjunctive (as it has the suffix .k, Nt 579):
+j.fx.k mArw tp.k "Release hindrances of your head"
+
+10)
+§208a: pr.k wp.k wAt.k
+
+86
+Allen "go forth and part your path"
+Shmakov "go up and discern your path"
+
+The name of the god wp wAwt which James Allen translates as "Paths-Parter" does have the literal
+meaning "He who Parts/Separates Paths (from everything else)", i. e. actually "Paths-Discerner". Cf.
+for example Thoth’s epithet and the self-reference of an official (Urk.IV:1118:5) as wpj mAat "MaatDiscerner", literally "He Who Parts/Separates Maat (from falsehood/chaos)"; the expression also
+occurs in the full form in Budge, BD168A:2: wpyw mAat r jzft "who part Maat from chaos". Cf. also
+Metternich stela, 191: rdj{t}.n Ast fnd.s m r.f Hr rx st jrj…wp.s mn nw jwaa ntr "Isis put her nose in
+his (i. e. Horus’s) mouth (and) recognized its smell…she discerned/discovered (wp) the illness of the
+god’s heir". So, wp wAwt is a god who can tell a path from a blind alley, i. e. "Paths Discerner", "Paths
+Discoverer". Cf. the expression sSmj wAt "make a path, break a trail" (W 168, 2), and the following
+expressions which seem to be synonymous to wpj wAt:
+
+i) wn/zn wAt/mjTn "open a path/way":
+
+CT IV, 96d: wn jr.Tn wAwt wp jr.Tn mjTnw n bA.j n Dt.j
+"force (lit. open) the paths, discern the ways for my own ba!"
+
+Urk.IV:1191:14: wp.f wAwt [zn.f mjTnw]
+"He will discern paths, [he will open ways]"
+
+ii) wbA wAt "open up, develop a path":
+
+CT IV 89g: jw.j r wbA n.k wAwt jmHt
+"I am to develop for you paths of the Cavern"
+
+Urk.IV:352:2-6: [jw grt wD.n] Hmt.j…wbA wAwt.f…zn.t(w) mjTnw.f
+"Moreover, My Incarnation has commanded…to develop its paths…that its ways be opened"
+
+iii) Dsr wAt "beat/blaze/smooth a path ", see P 31, 5.
+
+iv) mDd wAt/mjTn "beat a path/way" (Wb.II:192:4-5), jr wAt/mjTn "make path/way"
+
+Urk.VII:62:4, 66:2, Louvre C 170, Leiden AP 21 Boeser 8 V 7; Urk.IV:208:7, 888:12:
+mDd wAt nt/mjTn n s.mnx sw
+"the one who beats a path/a way (i. e. pursues a policy/course) of the one who ennobles him"
+
+Urk.VII:54:18: nb bnjt n jrr mjtn.f "the one who has kindness for the maker of his way"
+
+11)
+§211c: Szp.n.k ab(w).k m HqA a(n)D(tj) xr jt(j).k xr tm
+Allen "having received your cleaning in the Bubastite nome, with your father, with Atum"
+Shmakov "having received your cleaning in the Bubastite nome, from your father, from Atum"
+
+For the meaning of xr "from", see W 140, 4.
+
+12)
+§212b: qbb.n n.k
+Allen "it has become cool for you"
+
+87
+Shmakov "it has become comfortable for you"
+
+The suggested translation just aims to be less literal, cf.:
+
+Helck, HBT, 85: tw.n qb.wjn Xr tA.n kmt
+"We feel comfortable in our (part of ) Egypt"
+
+W 156 (PT 245)
+§250a-b: jj n.T wnjs pn nwt qmA.n.f (j)t(j).f r tA
+Allen "this Unis has come to you, Nut, having left his father on earth"
+Shmakov "this Unis has come to you, Nut, having rejected his father"
+
+The expression qmA r tA is probably synonymous to the expression rdj r tA with the meaning "reject" –
+as the literal meaning of both is "throw to earth" and "put to earth", respectively.
+
+2)
+§251a: wp.k st.k m pt m ab sbAw nw pt
+Allen "(Unis), you shall part your place in the sky among the stars of the sky"
+Shmakov "(Unis), you shall clear your place in the sky (to be) among the stars of the sky"
+
+Compare:
+
+CT VII, 14m: wpy.j st.j Hr jdbw pt "I will clear my place on the shore of the sky"
+
+CT VII, 138r: wp.f st.f r Axw jnpw js{T} xntj jmntjw xntj spAwt
+"He will clear (lit. part) his place from akhs, being Anubis at the fore of the westerners, at the fore of
+the nomes"
+
+Budge, BD180:26: wp.n.j st m ab.Tn
+"I have cleared the place (to be) among you"
+
+W 157 (PT 246)
+§253a-b: jj r.Tn Hrw xsbD jrtj zA.Tn Hrw dS(j) jrtj mr At nj xsf bA.f
+Allen "Blue-eyed Horus has come against you (gods): beware of red-eyed Horus! The one with painful
+wrath—his ba cannot be barred"
+Shmakov "Blue-eyed Horus has come to you, (gods), (but) you shall avoid red-eyed Horus, the one
+with painful wrath, whose ba has not (yet) been barred"
+
+Though James Allen proposes to read zA Tn as imperative "beware" in §253a (cf. Allen, Inflection,
+§598 p. 415: "The 3ae-inf. verb zAj shows no final w in plural zA Tn ‘guard yourselves!’), the text
+probably actually has a sDm.f form – zA.Tn "you shall beware, you shall avoid, you shall stay away
+from". Cp. PT 378, §666b: zA tjt zA.f Tn "Stay away from Teti (and) he will stay away from you" (this
+passage belongs to a set of anti-snakes spells, hence the reading "guard" is ruled out) and PT 214,
+§136a: hA wnjs zA.k S(j) "Ho, Unis, beware of the lake".
+nj xsf bA.f reads "whose ba has not (yet) been barred" rather than "his ba cannot be barred", showing
+the lack of precedent of his ba being barred rather than the impossibility to bar his ba.
+jj r means "come to", not "come against", cf.:
+
+PT 269, §376c (and also §377a): jj sT.k jr wnjs snTr
+"Your scent has come to Unis, incense"
+
+88
+
+PT 606, §1684a: jj.n(.j) jr.k wab(.j) Tw "I have come to you that I may cleanse you" (also §1686a and
+§486a: jj.n wnjs jr.k).
+
+The "Blue eyes" is a sign of friendliness as opposed to the "red eyes" as sign of hostility. For the
+adjective dSr "red" being used as synonym for the adjective Dwj "bad, evil", see:
+
+Eb. 1:14: xt nbt bjnt Dwt dSrt "every bad, evil, red thing"
+
+CT I, 21с: jd dSrw tp awj DADAt nTrw
+"The redness (i. e. hostility) before the tribunal of the gods has been censed (i. e. moderated)"
+
+It is noteworthy that T9C gives jd.t(w) nrw "the fear has been censed"
+
+CT I, 378c: s.gr.n.j Hr(j)t jb dSrw.s
+"I have pacified the One in the midst of her redness"
+
+CT I, 392d-393a: bwt.j pw dSrw "my abomination is redness (i. e. hostility, aggression)"
+
+Budge, BD182:20-21: jj.n.j ja.j dSrw s.hr{.n}.j Xnnw s.amA(.j) {n.f} xt nbt Dwt
+"I have come that I may wash away redness, appease disturbance and consume everything evil"
+
+Metternich stela, 11-12: mj r.k m sxm.k m dndn.k m dSrw.k
+"Come, by means of your control, of your wrath, of your redness"
+
+The expression "red eyes" used in regard to the eye(s) of Horus also occurs in a N.K. spell in the
+temple of Sethy I at Abydos (II, pl.32, 35, col. 23, upper): mj n.k mw jmjw jrt(j) Hrw dS(j)tj "Take the
+water which is in Horus’s red eyes". The signification "Blue-eyed Horus" also occurs in CT V, 376e-f
+(Hr xsbD jrtj jr n jb.f "Blue-eyed Horus acting for his heart").
+
+W 158 (PT 247)
+§260c: jr t.k nfr m p Szp sxm.k m jwnw
+Allen "Your good bread has been made in Pe; receive your control of Heliopolis"
+Shmakov "Your good bread has been made in Pe, your control has been received (i. e. recognized) in
+Heliopolis"
+
+There is a parallelism in these two sentences – "made in Pe…received in Heliopolis", i. e. two passive
+sDm.f’s rather than a passive sDm.f plus an imperative ("receive") according to Allen’s translation.
+
+2)
+§261a: nb qr j.s(A)H sn.f jsd
+Allen "The storm-lord, the one with spittle in his vicinity, Seth"
+Shmakov "The storm-lord, who had been kicking his brother, Spitter (i. e. Seth, according to the
+determinative)"
+
+j.s(A)H sn.f "who had been kicking his brother". The sign sn-{arrowhead}-T22 after D63 looks like the
+sign mdw-{walking stick}-S43 because of an extreme lack of space (for the same reason the A-
+{vulture} has been left out in sAH), see any photo of the text. Moreover, see CT IV, 384c where after
+sAH comes sn "brother": nb qrr j.sAH sn.f "(Seth), lord of the storm who kicked his brother". In §959c
+Seth charges Osiris with what he actually did himself: sAH.n.f wj "he kicked me".
+
+89
+
+W 159 (PT 248)
+§263a: sbA spd HAt Aw Smwt jnn xr(j)t Hrt n ra ra nb
+Allen "a star with sharp front and extensive goings, who fetches what the above has for the Sun every
+day"
+Shmakov "a sharp-fronted (and) far reaching star, who fetches for the Sun that what the (Celestial)
+Distance abounds in every day"
+
+Allen’s translation is absolutely correct, the present translation just aims to be less literal. The toponym
+Hrt "(Celestial) Distance" (i. e. the sky) derives from the root Hrj "be(come) far, distance". For the
+expression jnj xr(j)t, cf. also:
+
+CT IV, 4c: jw jn.n.j xr(j)t tA pn n tm
+"I have brought that what this land abounds in to Atum"
+
+CT VI, 162g-i: sk w(j) swA.kw jT.j xr(j)t jmnt n jAbt jnt.j xr(j)t jAbt n jmnt
+"So, I have passed that I may take that what the west abounds in to the east (and) bring that what the
+east abounds in to the west"
+
+Urk.VII:23:14-15 (see also ibid:38:2): nat m xnt r jnt xr(j)t AbDw n…jmny m HAt
+"Sailing to the south to get that what Abydos abounds in to…Ameniemhet"
+
+Urk.VII:23:21: na m xd r jnt xr(j)t Ddw n…jmn m HAt
+"Sailing to the north to get that what Busiris abounds in to…Amenemhet"
+
+Naville, Deir el Bahari IV, pl. 114: j.nD(.j) Hr n jarwt.k [jp]w jnnywt n.k xr(j)t pt tA
+"Greetings to (lit. I have tended the face(s) of (see N 511)) these your uraei, who bring you what the
+sky (and) earth abound in"
+
+Compare this epithet of the sky with its earthly counterpart:
+
+Urk.I:123:17: jnn xr(j)t xAswt nb(t) n nb.f
+"who fetches for his lord what all the foreign lands abounds in",
+
+xr(j)t xAswt nb(t) is literally "what all the foreign lands has".
+
+and its variants:
+
+Jones, Titles, # 2792: xtmt(j) nTr jnn xr(j)t xAswt rsw(jw)t mHt(jw)t n nswt
+"god’s treasurer (i. e. of a temple) who fetches for the king what southern (and) northern foreign lands
+abounds in",
+
+Jones, Titles, # 244: jnn Xkr nswt m xAswt rsw(jwt)
+"who fetches king’s ornament(s) from the southern foreign lands".
+
+W 160 (PT 249)
+§264a: j jAAw(j)
+Allen "O you two combatants"
+Shmakov "O (you) two sunshades"
+
+90
+The meaning of "combatant" for the word jAA has been suggested by Wb (I:27:14) only on the basis of
+the secondary determinative {man threatening with a stick}-A59 of the word jAjw "loose hairs" (after
+Allen, §§1221e, 1223d) but the word in the current passage has as determinative {two sunshades (S36)
+leaning against each other}.
+
+2)
+§264b: wnjs pj nw n zSzS wbn m tA
+Allen "Unis is that water-lily that rises clean from the earth"
+Shmakov "Unis is a water-lily that rises from the earth"
+
+There is no word "clean" in the passage; Allen seems to attach that extra qualification to the verb wbn
+as it is used for the rising and shining of heavenly bodies, however, the verb is used for plants as well.
+The verb wbn is spelled with the sign {ingot of copper}, the Old Kingdom variant of the sign N34,
+which according to Gardiner “resembles [the sign – T. S.] X3” (Gardiner, E. G., Sign List, p. 490). It
+also resembles the signs {fig} (with which the word dAb "figs" is determined) according to the
+observations of the present author, see §§590с P, 1454b M. The sign is also carved as {small circle}
+(its shape in the current passage), see §§590c N, 615b M, 636d N, 647a N, 770c N, 873a M, the
+determinative of bjA "copper". This sign {ingot of copper} has a phonetic value of bn, as it occurs after
+bn of the verbs wbn "rise" (resembles X3: §§152d, 154d, 156d, 158d, 283a W, 1465d, e P; {fig}-sign:
+§§207d, 209c, 210c, 1465d, e M, 1874a (second w(b)nnj), Leclant, Pepi I, pl. II B, col. 7, 10; {small
+circle}-sign §§283a T, 661b, 1444a, 1874a (first wbnnj)) and dbn ({fig}-sign §847c P, {small circle}-
+sign §629b T) and probably in wbjn "coccyx" (§547b). The same sign is used in the Coffin Texts after
+wbn (CT VII, 256b (B3L)). The sign {ingot of copper} is also carved rhomb-shaped in the spelling of
+the verb bjAj (§§590c T, 615b T, 636d TP, 647a TP).
+
+W 161 (PT 250)
+§267c: dmD wnjs jbw Hr sA wrt
+Allen "Unis will join to hearts experience of the great thing"
+Shmakov "Unis will join hearts with the knowledge of that what is great (?)"
+
+The word order in Allen’s reading is unclear.
+
+2)
+§268d: s.nk(n) jb
+Allen "reserved of heart"
+Shmakov "whose heart can cause injury (?)"
+
+The word in the current passage must be the causative of the root nkn "harm, injury", not snkw (§152c)
+or snkt (Faulkner, Dictionary, p.234) "darkness" (hence probably Allen’s "reserved of heart", i.e.
+*"dark of heart"). The word nkn "injury" is often spelled without final n, cf. CT I, 233b (B12Cb): wd
+nk(n)<.f> jn sn.f "<his> injury has been inflicted (lit. put) by his brother", CT V, 368e: nk(n)t "injury",
+CT VI, 126k: r Dr nk(n) jr.n stS "to remove an injury that Seth has inflicted (lit. made)". The phrase
+nkn jb "injured of heart" occurs in Nt 775. Moreover, the {leg}-D56 sign after s.nk often occurs as the
+determinative of nkn/s.nkn (equally with the {leg with knife}-D57) and the N.K. copy of this passage
+has the sign D57 as the determinative (Budge, BD174:19). The meaning of the expression s.nk(n) jb is
+uncertain.
+
+W 162 (PT 251)
+269a-b: j Hrjw wnwt tp-aw(j) hrw jrjj wAt n wnjs swA wnjs m Xnw pXrt nt aHAw Hr
+Allen "O you in charge of hours, who precede the Sun, make way for Unis that Unis may pass within
+
+91
+the circuit of Belligerent-Face"
+
+MMA 12.183.14a–c (canopic chest of Hapi Ankhtifi) gives a M.K. version of this passage (which is
+absent in CT I-VIII): j Hr(jw) wnwt tp-aw(j) hrw jr wAt n N m-m Axw "O you in charge of hours, who
+precede the Sun, make way for N (to be) among akhs".
+
+W 163 (PT 252)
+§274a: sxm wnjs jr tp.f Ams wnjs twr.f Wnjs
+Allen "Unis’s (symbol of) control is at his head, Unis sceptre is causing respect for Unis"
+Shmakov "Unis’s (symbol of) control is at his head, Unis’s sceptre is protecting Unis"
+
+For the meaning of the verb twr, see W 143, 2.
+
+W 165 (PT 254)
+§276c: j nTr aA xmm rn.f
+Allen "O great god whose identity is unknown"
+Shmakov "O Elder god whose name will be/stay unknown"
+
+xmm is probably a passive prospective sDm.f in an unmarked relative clause, "(who) his name will stay
+unknown", rather than a passive participle in a nfr sw construction. Cf. PT 272, §392a, PT 360, §603a:
+qAjt nj dmm.s "Height that will not be penetrated" (after Allen), CT II, 198c-199a: xm rn.f xmm rn.f
+"the one whose name is unknown (and) whose name will be/stay unknown".
+
+2)
+§277c: tA nj mdw.n.f gbb nj wA.n.f
+Allen "The earth has no spokesman; Geb has no guard"
+Shmakov "The earth cannot speak; Geb cannot fight"
+
+James Allen treats the passage as tA nj mdw n.f gbb nj wA n.f, "Earth, there is no speaker for it; Geb,
+there is no guardian for him", but in the PT, the earth does speak (mdw(j), §§796a, 1014a, 1713a, also
+Leclant, Pepi I, pl. 8, col.10: mdw tAw jA wr "The lands shall speak great praise"), has a mouth
+(§2169a: wp n.k r n tA mdw n.k gbb "the mouth of the earth has been opened to you, Geb is speaking to
+you"), and even introduces the king (zmjn, §1416b, see P 501, 1-2) in the PT, thus we probably have
+two sDm.n.f’s in the current passage.
+
+3)
+§278b: sr Hnt
+Allen "The pelican will prophesy"
+Shmakov "The she-pelican will proclaim"
+
+The verb sr has the meaning "prophesy, predict, proclaim, introduce". The word Hnt is actually "shepelican".
+
+4)
+§279d: mAa nwH DA m.sq(j)t sq(j) Db m r mr Hjpwj
+Allen "The rope has been guided, the Beaten Path crossed, and the ball struck at the mouth of the
+Apis’s canal"
+Shmakov "The (boat’s) rope has been pulled, the Beaten Path crossed, a gong (?) beaten in the bed of
+Apis’s canal"
+
+92
+bD W or bDw T (with {little circle} sign as determinative) is probably written in graphic transposition
+and must be read Db/Dbw. This is probably not a word for "ball", but a word for "gong" or some other
+gong-shaped item, seeing its determinative and the combination with the verb sq(j). Cf. the expression
+sq(j) bnt or sq(j) m bnt "play on the harp". Probably the same word occurs in the CT, spelled with the
+two {ingot}-N32 signs, which then should be read as Dbwj rather than as Hmwj (cp. the word
+bDtj/Hmtj "coppersmith" which has that uncertainty in reading as well):
+
+CT I, 74f-g: Ast pw Hna nbt-Hwt {j}m sqr n.k Dbwj m-bAH nTrw

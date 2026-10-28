@@ -1,0 +1,342 @@
+THE BOOK OF THE DEAD
+The Papyrus of Ani
+by
+E. A. WALLIS BUDGE
+[1895]
+Because of the substantial amount of hieroglypics interspersed in the original text, I have omitted the ###
+'glyph' placeholder where context permits, for readability. Only actual illustations have been inserted into
+the file. Due to space considerations the interlinear translation, which is primarily of interest to students
+of Ancient Egyptian, will not be posted. This should not be a hardship, since the Dover reprint edition is
+still in print and widely available.
+The file above, which appears at on the Internet at Sacred-Texts for the first time is a faithful e-text of
+the 1895 edition of the E.A. Wallace Budge translation of the Egyptian Book of the Dead.
+In November of 2000 I inventoried my library and found that I was missing Budge's Book of the Dead.
+So when a copy of the Dover reprint came up at the local used bookstore, I purchased it. To my dismay,
+the version of the text widely posted on the Internet did not seem to match the Dover reprint of the 1895
+version.
+According to John Mark Ockerbloom, the proprietor of the excellent Online Books Page, the version
+circulating on the Internet is a highly edited version of Budge from a much later date (1913). He writes:
+"I did a little legwork, and it appears that the "mystery text" is in fact from the Medici Society edition of
+1913. According to a 1960 reprint by University Books, for this edition "The translation was rewritten...
+[and the] greater part of the Introduction was also rewritten by Sir Wallis, who concluded a preface to it
+with the pleased words, 'and the entire work thus becomes truly a "New Edition"'". It's unclear whether
+Budge himself did the rewrite of the translation, but it's clear that he at least claims responsibility for it,.
+and it does appear to draw fairly heavily on his earlier translation."
+Thanks to Mr. Ockerbloom for clearing up this mystery.
+In any case, the version now at sacred-texts is a completely new e-text, which I believe to be a much
+better version of this text.
+
+Contents
+Introduction
+The Versions Of The Book Of The Dead.
+The Legend Of Osiris.
+The Doctrine Of Eternal Life.
+The Egyptians' Ideas Of God.
+The Legend Of Ra And Isis.
+The Abode Of The Blessed.
+The Gods Of The Book Of The Dead.
+The Principal Geographical And Mythological Places In The Book Of The Dead.
+Funeral Ceremonies.
+The Papyrus Of Ani.
+Translation
+Plate I.
+Plate II.
+Plate III.
+Plate IV.
+Plates V. and VI.
+Plates VII.-X.
+Plates XI. and XII.
+Plate XIII.
+Plate XIV.
+Plate XV.
+Plate XVI.
+Plate XVII.
+Plate XVIII.
+Plate XIX.
+Plate XX.
+Plate XXI.
+Plate XXII.
+Plate XXIII. and Plate XXIV.
+Plate XXV.
+Plate XXVI.
+Plate XXVII.
+Plate XXVIII.
+Plates XXIX. and XXX.
+Plates XXXI. and XXXII.
+
+Plate XXXII.
+Plate XXXIII.
+Plates XXXIII and XXXIV.
+Plates XXXV. and XXXVI.
+Plate XXXVII.
+
+THE BOOK OF THE DEAD
+The Papyrus of Ani
+IN THE BRITISH MUSEUM.
+THE EGYPTIAN TEXT WITH INTERLINEAR
+TRANSLITERATION AND TRANSLATION,
+A RUNNING TRANSLATION, INTRODUCTION, ETC.
+by
+E. A. WALLIS BUDGE
+Late keeper of Assyrian and Egyptian Antiquities
+in the British Museum
+[1895]
+
+        Reformated by Caput Mortuum for the Ayin Quadma'ah Movement
+
+PREFACE.
+The Papyrus of Ani, which was acquired by the Trustees of the British Museum in the year 1888, is the
+largest, the most perfect, the best preserved, and the best illuminated of all the papyri which date from
+the second half of the XVIIIth dynasty (about B.C. 1500 to 1400). Its rare vignettes, and hymns, and
+chapters, and its descriptive and introductory rubrics render it of unique importance for the study of the
+Book of the Dead, and it takes a high place among the authoritative texts of the Theban version of that
+remarkable work. Although it contains less than one-half of the chapters which are commonly assigned
+to that version, we may conclude that Ani's exalted official position as Chancellor of the ecclesiastical
+revenues and endowments of Abydos and Thebes would have ensured a selection of such chapters as
+would suffice for his spiritual welfare in the future life. We may therefore regard the Papyrus of Ani as
+typical of the funeral book in vogue among the Theban nobles of his time.
+The first edition of the Facsimile of the Papyrus was issued in 1890, and was accompanied by a valuable
+Introduction by Mr. Le Page Renouf, then Keeper of the Department of Egyptian and Assyrian
+Antiquities. But, in order to satisfy a widely expressed demand for a translation of the text, the present
+volume has been prepared to be issued with the second edition of the Facsimile. It contains the
+hieroglyphic text of the Papyrus with interlinear transliteration and word for word translation, a full
+description of the vignettes, and a running translation; and in the Introduction an attempt has been made
+to illustrate from native
+{p. vi}
+Egyptian sources the religious views of the wonderful people who more than five thousand years ago
+proclaimed the resurrection of a spiritual body and the immortality of the soul.
+The passages which supply omissions, and vignettes which contain important variations either in subject
+matter or arrangement, as well as supplementary texts which appear in the appendixes, have been, as far
+as possible, drawn from other contemporary papyri in the British Museum.
+The second edition of the Facsimile has been executed by Mr. F. C. Price.
+E. A. WALLIS BUDGE.
+BRITISH MUSEUM.
+January 25, 1895.
+
+CONTENTS.
+PREFACE v.
+INTRODUCTION:--
+THE VERSIONS OF THE BOOK OF THE DEAD ix
+THE LEGEND OF OSIRIS xlviii
+THE DOCTRINE OF ETERNAL LIFE lv
+EGYPTIAN IDEAS OF GOD lxxxii
+THE ABODE OF THE BLESSED ci
+THE GODS OF THE BOOK OF THE DEAD cvii
+GEOGRAPHICAL AND MYTHOLOGICAL PLACES cxxxiii
+FUNERAL CEREMONIES cxxxviii
+THE PAPYRUS OF ANI cxlii
+TABLE OF CHAPTERS cliii
+THE HIEROGLYPHIC TEXT OF THE PAPYRUS OF ANI, WITH INTERLINEAR
+TRANSLITERATION AND WORD FOR WORD TRANSLATION 1-242
+TRANSLATION 245-369
+BIBLIOGRAPHY 371-377
+
+INTRODUCTION.
+THE VERSIONS OF THE BOOK OF THE DEAD.
+The four great Versions of the Book of the Dead.
+THE history of the great body of religious compositions which form the Book of Dead of the ancient
+Egyptians may conveniently be divided into four[1] of the periods, which are represented by four
+versions:--
+1. The version which was edited by the priests of the college of Annu (the On of the Bible, and the
+Heliopolis of the Greeks), and which was based upon a series of texts now lost, but which there is
+evidence to prove had passed through a series of revisions or editions as early as the period of the Vth
+dynasty. This version was, so far as we know, always written in hieroglyphics, and may be called the
+Heliopolitan version. It is known from five copies which are inscribed upon the walls of the chambers
+and passages in the pyramids[2] of kings of the Vth and VIth dynasties at Sakkâra;[3] and sections of it
+are found inscribed upon tombs, sarcophagi, coffins, stelæ and papyri from the XIth dynasty to about
+A.D. 200.[4]
+[1. See Naville, Todtenbuch (Einleitung), p. 39.
+2. Hence known as the "pyramid texts."
+3. I.e., Unâs, Tetâ, Pepi I., Mentu-em-sa-f, and Pepi II. Their pyramids were cleared out by MM. Mariette and Maspero
+during the years 1890-84, and the hieroglyphic texts were published, with a French translation, in Recueil de Travaux, t.
+iii-xiv., Paris, 1882-93.
+4. In the XIth, XIIth, and XIIIth dynasties many monuments are inscribed with sections of the Unâs text. Thus lines 206-69
+are found in hieroglyphics upon the coffin of Amamu (British Museum, No. 6654. See Birch, Egyptian Texts of the
+Earliest Period from the Coffin of Amamu, 1886. Plates XVII.-XX.); Il. 206-14 and 268-84 on the coffin of Apa-ankh,
+from Sakkâra (see Lepsius, Denkmäler, ii., Bl. 99 b; Maspero, Recueil, t. iii., pp. 200 and 214 ff.); Il. 206-10 {footnote
+page x.} and 268-89 on the coffin of Antef (see Lepsius, Denkmäler, ii., Bl. 145; Maspero, Recueil, t. iii., pp. 200, 214);
+line 206 on a coffin of Menthu-hetep at Berlin (see Lepsius, Aelteste Texte, Bl. 5); lines 269-94 on the sarcophagus of
+Heru-hetep (see Maspero, Mémoires, t, i., p. 144). A section is found on the walls of the tomb of Queen Neferu (see
+Maspero, Recueil, t. iii., p. 201 ff.; Mémoires, t. i., p. 134); other sections are found on the sarcophagus of Taka (see
+Lepsius, Denkmäler, ii., Bll. 147, 148; Maspero, Guide au Visiteur, p. 224, No. 1053; Mémoires, t. i., p. 134); lines 5-8
+occur on the stele of Apa (see Ledrain, Monuments Égyptiens de la Bibl. Nationale, Paris, 1879, foll. 14, 15); lines 166 ff.
+are found on the stele of Nehi (see Mariette, Notice des Mon. à Boulaq, p. 190; Maspero, Recueil, t. iii., p. 195); and lines
+576-83 on the coffin of Sebek-Aa (see Lepsius, Aelteste Texte, Bl. 37; Maspero, Recueil, t. iv., p. 68). In the XVIIIth
+dynasty line 169 was copied on a wall in the temple of Hatshepset at Dêr el-baharî (see Dümichen, Hist. Inschriften, Bll.
+25-37; Maspero, Recueil, t. i., p. 195 ff.); and copies of lines 379-99 occur in the papyri of Mut-hetep (British Museum,
+No. 10,010) and Nefer-uten-f (Paris, No. 3092, See Naville, Todtenbuch, Bd. I., Bl. 197; Aeg. Zeitschrift, Bd. XXXII., p. 3;
+and Naville, Einleitung, pp. 39, 97). In the XXVIth dynasty we find texts of the Vth dynasty repeated on the walls of the
+tomb of Peta-Amen-apt, the chief kher-heb at Thebes (see Dümichen, Der Grabpalast des Patuamenap in der
+Thebanischen Nekropolis, Leipzig, 1884-85); and also upon the papyrus written for the lady Sais ###, about A.D. 200 (see
+Devéria, Catalogue des MSS. Égyptiens, Paris, 1874, p. 170 No. 3155). Signor Schiaparelli's words are:--"Esso è scritto in
+ieratico, di un tipo paleografico speciale: l' enorme abbondanza di segni espletivi, la frequenza di segni o quasi demotici o
+quasi geroglifici, la sottigliezza di tutti, e l'incertezza con cui sono tracciati, che rivela una mano più abituata a scrivere in
+
+greco che in egiziano, sono altrettanti caratteri del tipo ieratico del periodo esclusivamente romano, a cui il nostro papiro
+appartiene senza alcun dubbio." Il Libro dei Funerali, p. 19. On Devéria's work in connection with this MS., see Maspero,
+Le Rituel du sacrifice Funéraire (in Revue de l'Histoire des Religions, t. xv., p. 161).]
+{p. x}
+II. The Theban version, which was commonly written on papyri in hieroglyphics and was divided into
+sections or chapters, each of which had its distinct title but no definite place in the series. The version
+was much used from the XVIIIth to the XXth dynasty.
+III. A version closely allied to the preceding version, which is found written on papyri in the hieratic
+character and also in hieroglyphics. In this version, which came into use about the XXth dynasty, the
+chapters have no fixed order.
+IV. The so-called Saïte version, in which, at some period anterior probably to the XXVIth dynasty, the
+chapters were arranged in a definite order. It is commonly written in hieroglyphics and in hieratic, and it
+was much used from the XXVIth dynasty to the end of the Ptolemaic period.
+Early forms of the Book of the Dead.
+The Book of the Dead.
+The earliest inscribed monuments and human remains found in Egypt prove that the ancient Egyptians
+took the utmost care to preserve the bodies of their
+{p. xi}
+dead by various processes of embalming. The deposit of the body in the tomb was accompanied by
+ceremonies of a symbolic nature, in the course of which certain compositions comprising prayers, short
+litanies, etc., having reference to the future life, were recited or chanted by priests and relatives on behalf
+of the dead. The greatest importance was attached to such compositions, in the belief that their recital
+would secure for the dead an unhindered passage to God in the next world, would enable him to
+overcome the opposition of all ghostly foes, would endow his body in the tomb with power to resist
+corruption, and would ensure him a new life in a glorified body in heaven. At a very remote period
+certain groups of sections or chapters had already become associated with some of the ceremonies which
+preceded actual burial, and these eventually became a distinct ritual with clearly defined limits. Side by
+side, however, with this ritual there seems to have existed another and larger work, which was divided
+into an indefinite number of sections or chapters comprising chiefly prayers, and which dealt on a larger
+scale with the welfare of the departed in the next world, and described the state of existence therein and
+the dangers which must be passed successfully before it could be reached, and was founded generally on
+the religious dogmas and mythology of the Egyptians. The title of "Book of the Dead" is usually given by
+Egyptologists to the editions of the larger work which were made in the XVIIIth and following dynasties,
+but in this Introduction the term is intended to include the general body of texts which have reference to
+the burial of the dead and to the new life in the world beyond the grave, and which are known to have
+existed in revised editions and to have been in use among the Egyptians from about B.C. 4500, to the
+early centuries of the Christian era.
+Uncertainty of the history of its source
+The home, origin, and early history of the collection of ancient religious texts which have descended to
+us are, at present, unknown, and all working theories regarding them, however strongly supported by
+
+apparently well-ascertained facts, must be carefully distinguished as theories only, so long as a single
+ancient necropolis in Egypt remains unexplored and its inscriptions are untranslated. Whether they were
+composed by the inhabitants of Egypt, who recorded them in hieroglyphic characters, and who have left
+the monuments which are the only trustworthy sources of information on the subject, or whether they
+were brought into Egypt by the early immigrants from the Asiatic continent whence they came, or
+whether they represent the religious books of the Egyptians incorporated with the funeral texts of some
+prehistoric dwellers on the banks of the Nile, are all questions which the possible discovery of
+inscriptions belonging to the first dynasties of the Early Empire can alone decide. The evidence derived
+from the
+{p. xii}
+Its antiquity.
+enormous mass of new material which we owe to the all-important discoveries of mastaba tombs and
+pyramids by M. Maspero, and to his publication of the early religious texts, proves beyond all doubt that
+the greater part of the texts comprised in the Book of the Dead are far older than the period of Mena
+(Menes), the first historical king of Egypt.[1] Certain sections indeed appear to belong to an indefinitely
+remote and primeval time.
+Internal evidence of its antiquity.
+The earliest texts bear within themselves proofs, not only of having been composed, but also of having
+been revised, or edited, long before the days of king Meni, and judging from many passages in the copies
+inscribed in hieroglyphics upon the pyramids of Unas (the last king of the Vth dynasty, about B.C. 3333),
+and Teta, Pepi I., Mer-en-Ra, and Pepi II. (kings of the VIth dynasty, about B.C. 3300-3166), it would
+seem that, even at that remote date, the scribes were perplexed and hardly understood the texts which
+they had before them.[2] The most moderate estimate makes certain sections of the Book of the Dead as
+known from these tombs older than three thousand years before Christ. We are in any case justified in
+estimating the earliest form of the work to be contemporaneous with the foundation of the civilization[3]
+which we call Egyptian in the valley of
+[1. "Les textes des Pyramides . . . . . . nous reportent si loin dans le passé que je n'ai aucun moyen de les dater que de dire
+qu'elles étaient dejà vieilles cinq mille ans avant notre ère. Si extraordinaire que paraisse ce chiffre, il faudra bien nous
+habituer à le considérer comme représentant une évaluation à minima toutes les fois qu'on voudra rechercher les origines
+de la religion Égyptienne. La religion et les textes qui nous la font connaître étaient déjà constitués avant la Ire dynastie:
+c'est à nous de nous mettre, pour les comprendre, dans l'état d'esprit où était, il y a plus de sept mille ans, le peuple qui les
+a constitués. Bien entendu, je ne parle ici que des systèmes théologiques: si nous voulions remonter jusqu'à l'origine des
+é1éments qu'ils ont mis en œuvre, il nous faudrait reculer vers des ages encore plus lointains." Maspero, La Mythologie
+Égyptienne (in Revue de l'Histoire des Religions, t. xix., p. 12; and in Études de Mythologie et d'Archéologie Égyptiennes,
+t. ii., p. 2 36). Compare also "dass die einzelnen Texte selbst damals schon einer alten heiligen Litteratur angehörten,
+unterliegt keinem Zweifel, sie sind in jeder Hinsicht alterthümlicher als die ältesten uns erhaltenen Denkmäler. Sie gehören
+in eine für uns 'vorhistorische' Zeit und man wird ihnen gewiss kein Unrecht anthun, wenn man sie bis in das vierte
+Jahrtausend hinein versetzt." Erman, Das Verhältniss des aegyptischen zu den semitischen Sprachen, in Z.D.M.G., Bd.
+XLVI., p. 94.
+2. "Le nombre des prières et des formules dirigées contre les animaux venimeux montre quel effroi le serpent et le
+scorpion inspirait aux Égyptiens. Beaucoup d'entre elles sont écrites dans une langue et avec des combinaisons de signes
+qui ne paraissent plus avoir été complètement comprises des scribes qui les copiaient sous Ounas et sous Pepi. Je crois,
+quant à moi, qu'elles appartiennent an plus vieux rituel et remontent an delà du règne de Mînî." Maspero, La Religion
+Égyptienne (in Revue de l'Histoire des Religions, t. xii., p. 125). See also Recueil de Travaux, t. iv., p. 62.
+
+3. So sind wir gezwungen, wenigstens die ersten Grundlagen des Buches den Anfängen den Aegyptischen Civilization
+beizumessen." See Naville, Das Aegyptische Todtenbuch (Einleitung), Berlin, 1886, p. 18.]
+{p. xiii}
+the Nile.[1] To fix a chronological limit for the arts and civilization of Egypt is absolutely impossible.[2]
+Evidence of the antiquity of certain chapters.
+The oldest form or edition of the Book of the Dead as we have received it supplies no information
+whatever as to the period when it was compiled; but a copy of the hieratic text inscribed upon a coffin of
+Menthu-hetep, a queen of the XIth dynasty,[3] about B.C. 2500, made by the late Sir J. G. Wilkinson,[4]
+informs us that the chapter which, according to the arrangement of Lepsius, bears the number LXIV.,[5]
+was discovered in the reign of Hesep-ti,[6] the fifth king of the Ist dynasty, about B.C. 4266. On this
+coffin are two copies of the chapter, the one immediately following the other. In the rubric to the first the
+name of the king during whose reign the chapter is said to have been "found" is given as Menthu-hetep,
+which, as Goodwin first pointed out,[7] is a mistake for Men-kau-Ra,[8] the fourth king of the IVth
+dynasty, about B.C. 3633;[9] but in the rubric to the second the king's name is given as Hesep-ti. Thus it
+appears that in the period of the XIth dynasty it was believed that the chapter might alternatively be as
+old as the time of the Ist dynasty. Further, it is given to Hesep-ti in papyri of the XXIst dynasty,[10] a
+period when particular attention was paid to the history of the Book of the Dead; and it thus appears that
+the Egyptians of the Middle Empire believed the chapter to date from the more
+[1. The date of Mena, the first king of Egypt, is variously given B.C. 5867 (Champollion), B.C. 5004 (Mariette), B.C. 5892
+(Lepsius), B.C. 4455 (Brugsch).
+2 See Chabas, Aeg. Zeitschrift, 1865, p. 95. On the subject of the Antiquity of Egyptian Civilization generally, see Chabas,
+Études sur l'Antiquité Historique d'après les Sources Égyptiennes, Paris, 1873--Introduction, p. 9.
+3 The name of the queen and her titles are given on p. 7 (margin) thus:--
+###.
+4 It was presented to the British Museum in 1834, and is now in the Department of Egyptian and Assyrian Antiquities.
+Todtenbuch, Bl. 23-25.
+6. the Ou?safaï's ui!o's of Manetho.
+7 Aeg. Zeitschrift, 1866, p. 54.
+8. See Guieyesse, Rituel Funéraire Égyptien, chapitre 64e, Paris, 1876, p. 10, note 2.
+9. The late recension of the Book of the Dead published by Lepsius also gives the king's name as Men-kau-Ra
+(Todtenbuch, Bl. 25, l. 30. In the same recension the CXXXth Chapter is ascribed to the reign of Hesep-ti (131. 53, l. 28).
+10. Naville, Todtenbuch (Einleitung), pp. 33, 139]
+{p. xiv}
+remote period. To quote the words of Chabas, the chapter was regarded as being "very ancient, very
+mysterious, and very difficult to understand" already fourteen centuries before our era.[1]
+Antiquity of Chapter LXIV.
+
+The rubric on the coffin of Queen Menthu-hetep, which ascribes the chapter to Hesep-ti, states that "this
+chapter was found in the foundations beneath the hennu boat by the foreman of the builders in the time of
+the king of the North and South, Hesep-ti, triumphant";[2] the Nebseni papyrus says that this chapter was
+found in the city of Khemennu (Hermopolis) on a block of ironstone (?) written in letters of lapis-lazuli,
+under the feet of the god";[3] and the Turin papyrus (XXVIth dynasty or later) adds that the name of the
+finder was Heru-ta-ta-f, the son of Khufu or Cheops,[4] the second king of the IVth dynasty, about B.C.
+3733, who was at the time making a tour of inspection of the temples. Birch[5] and Naville[6] consider
+the chapter one of
+[1. Chabas, Voyage d'un Égyptien, p. 46. According to M. Naville (Einleitung, p. 138), who follows Chabas's opinion, this
+chapter is an abridgement of the whole Book of the Dead; and it had, even though it contained not all the religious doctrine
+of the Egyptians, a value which was equivalent to the whole.
+2. See Goodwin, Aeg. Zeitschrift, 1866, p. 55, and compare the reading from the Cairo papyrus of Mes-em-neter given by
+Naville (Todtenbuch, ii-, p. 139)
+3 Naville, Todtenbuch, Bd. I., B1. 76, L 52.
+4 Lepsius, Todtenbuch, Bl. 25, 1. 31.
+6 "The most remarkable chapter is the 64th . . . . . It is one of the oldest of all, and is attributed, as already stated, to the
+epoch of king Gaga-Makheru or Menkheres . . . . . This chapter enjoyed a high reputation till a late period, for it is found
+on a stone presented to General Perofski by the late Emperor Nicholas, which must have come from the tomb of
+Petemenophis,[*] in the El-Assasif[+] and was made during the XXVIth dynasty Some more recent compiler of the
+Hermetic books has evidently paraphrased it for the Ritual of Turin." Bunsen, Egypt's Place in Universal History, London,
+1867, p. 1142. The block of stone to which Dr. Birch refers is described by Golénischeff, Inventaire de la Ermitage
+Impérial, Collection Égyptienne, No. 1101, pp. 169, 170. M. Maspero thinks it was meant to be a "prétendu fac-similé" of
+the original slab, which, according to the rubric, was found in the temple of Thoth, Revue de l'Histoire des Religions, t.
+XV., p. 299, and Études de Mythologie, t i., p. 368.
+6 Todtenbuch (Einleitung), p. 139. Mr. Renouf also holds this opinion, Trans. See. Bibl. Arch., 1803, p. 6.
+* I.e., the "chief reader." Many of the inscriptions on whose tomb have been published by Dümichen, Der Grabpalast des
+Patuamenap; Leipzig, 1884, 1885.
++ I.e., Asasîf el-bahrîyeh, or Asasif of the north, behind Dêr el-baharî, on the western bank of the Nile, opposite Thebes.]
+{p. xv}
+the oldest in the Book of the Dead; the former basing his opinion on the rubric' and the latter upon the
+evidence derived from the contents and character of the text; but Maspero, while admitting the great age
+of the chapter, does not attach any very great importance to the rubric as fixing any exact date for its
+composition.[1] Of Herutataf the finder of the block of stone, we know from later texts that he was
+considered to be a learned man, and that his speech was only with difficulty to be understood,[2] and we
+also know the prominent part which he took as a recognized man of letters in bringing to the court of his
+father Khufu the sage Tetteta.[3] It is then not improbable that Herutataf's character for learning may
+have suggested the connection of his name with the chapter, and possibly as its literary reviser; at all
+events as early as the period of the Middle Empire tradition associated him with it.
+[1. "On explique d'ordinaire cette indication comme une marque d'antiquité extrême; on part de ce principe que le Livre
+des Morts est de composition relativement moderne, et qu'un scribe égyptien, nommant un roi des premières dynasties
+memphites, ne pouvait entendre par là qu'un personnage d'époque très reculée. Cette explication ne me paraît pas être
+exacte. En premier lieu, le chapitre LXIV. se trouve déjà sur des monuments contemporains de la Xe et de la XIe dynastie,
+et n'était certainement pas nouveau au moment où on écrivait les copies les plus vieilles que nous en ayons aujourd'hui.
+
+Lorsqu'on le rédigea sous sa forme actuelle, le règne de Mykérinos, et même celui d'Housapaiti, ne devaient pas soulever

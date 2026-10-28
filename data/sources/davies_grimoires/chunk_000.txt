@@ -1,0 +1,441 @@
+G R I M O I R E S
+
+This page intentionally left blank
+
+GRIMOIRES
+A HISTORY OF MAGIC BOOKS
+OWEN DAVIES
+1
+
+1
+Great Clarendon Street, Oxford ox2 6dp
+Oxford University Press is a department of the University of Oxford.
+It furthers the University’s objective of excellence in research, scholarship,
+and education by publishing worldwide in
+Oxford New York
+Auckland Bangkok Beunos Aires Cape Town Chennai
+Dar es Salaam Delhi Hong Kong Istanbul Karachi Kolkata
+Kuala Lumpur Madrid Melbourne Mexico City Mumbai Nairobi
+Sa˜0 Paulo Shanghai Taipei Tokyo Toronto
+Oxford is a registered trade mark of Oxford University Press
+in the UK and in certain other countries
+Published in the United States
+by Oxford University Press Inc., New York
+Q Owen Davies 2009
+The moral rights of the author have been asserted
+Database right Oxford University Press (maker)
+First published 2009
+All rights reserved. No part of this publication may be reproduced,
+stored in a retrieval system, or transmitted, in any form or by any means,
+without the prior permission in writing of Oxford University Press,
+or as expressly permitted by law, or under terms agreed with the appropriate
+reprographics rights organization. Enquiries concerning reproduction
+outside the scope of the above should be sent to the Rights Department,
+Oxford University Press, at the address above
+You must not circulate this book in any other binding or cover
+and you must impose the same condition on any acquirer
+A catalogue record for this title is available from the British Library
+Library of Congress Cataloging in Publication Data
+Data available
+Typeset by SPI Publisher Services Ltd, Pondicherry, India
+Printed in Great Britain
+on acid-free paper by
+Clays Ltd, St Ives plc
+ISBN 978–0–19–920451–9
+1 3 5 7 9 10 8 6 4 2
+
+ACKNOWLEDGEMENTS
+My parents, brother, sister, and Celine have been as supportive as ever in the
+writing and researching of this book. My mother and her sister also helped with
+translation. Thanks also to the following for their interest and advice or for
+providing sources and generously answering my queries: Willem de Blecourt,
+Ronald Hutton, David Lederer, Dave Evans, Soili-Maria Olli, Manfred Tschaikner, Caroline Oates, Francesca Matteoni, Steven Wood, Matthew Green, Rowland Hughes, Stephan Bachter, E´va Po´cs, Lisa Tallis, Jason Semmens, Laura Stark,
+Marı´a Tausiet, Hugh Sadleir, Johanna Jacobsen, Benedek Lang, Helen Boak,
+Enrique Perdiguero, Ane Ohrvik, Cecile Dubuis, and Tom Johnson. In collecting
+the source materials for this book I particularly appreciated the helpfulness of
+Jacques Pons (Archives Departementales des Landes), Evelyne Bacardatz (Archives de Bayonne), and Simone Shepherd (ACIJ publications officer). I am also
+thankful for the valuable comments on an early typescript of the book provided by
+my publisher’s anonymous reviewer, and for the patience and suggestions of my
+editors at Oxford University Press, Luciana O’Flaherty and Matthew Cotton.
+
+This page intentionally left blank
+
+CONTENTS
+List of Illustrations
+ix
+List of Plates
+xi
+Introduction
+1
+1. Ancient and Medieval Grimoires
+6
+2. The War against Magic
+44
+3. Enlightenment and Treasure
+93
+4. Across the Oceans
+139
+5. Rediscovering Ancient Magic
+168
+6. Grimoires USA
+189
+7. Pulp Magic
+232
+8. Lovecraft, Satan, and Shadows
+262
+Epilogue
+278
+Picture Acknowledgements
+284
+Further Reading
+285
+Notes
+291
+Index
+351
+
+This page intentionally left blank
+
+LIST OF ILLUSTRATIONS
+1. Dr Faustus depicted in seventeenth-century literature
+49
+2. First English edition of the Fourth Book of Occult Philosophy
+51
+3. Notebook of the early eighteenth-century Yorkshire cunning-man
+Timothy Crowther, containing a mix of conjurations, axioms, weather-signs
+and astrological calculations
+58
+4. Edition of Le Petit Albert, title page
+99
+5. Les veritables clavicules de Salomon. Eighteenth-century manuscript
+102
+6. Le grand grimoire. Eighteenth-century imprint
+103
+7. List of devils and spirits from Le dragon rouge (early nineteenth-century edition)
+105
+8. D. Faust’s original geister commando (c.1775)—frontispiece and title page
+122
+9. Title page from a late eighteenth-century Latin Cyprianus entitled the ‘key of
+hell or white and black magic’
+125
+10. Prophetesses and Cyprianus’ Big Dream Book. A nineteenth-century Danish
+divination manual
+127
+11. Page from the Danish cunning-man Anders Ulfkjær’s Cyprianus.
+130
+(Reprinted from H.P. Hansen, Kloge Folk (Copenhagen, 1961), vol. 2, plate 3.
+See Plate 9 in this book.)
+12. A magician at work. From the Conjurors Magazine (1792–3)
+133
+13. Manuscript title page of Francis Barrett’s The Magus (1801)
+136
+14. Title page of Gamle Richards Swartkonst-bok (Karlshamn, 1832)
+142
+15. Reginald Scot, The Discovery of Witchcraft (London, 1665)
+151
+16. A prayer to recite before reading the books or using the pentacles of
+Abbe Julio. A single sheet sold separately from his books.
+186
+17. Title page of John George Hohman’s The Long Lost Friend
+193
+18. Charms in John George Hohman’s The Long Lost Friend
+196
+19. Purported portrait of Charles W. Roback looking suspiciously like a
+seventeenth-century astrologer
+203
+20. Talismans from an early twentieth-century pulp edition of the Sixth and
+Seventh Books of Moses
+208
+21. One of many puffs in the De Laurence’s Catalog (Chicago, 1940)
+221
+22. Delaurence advertisement in The Daily Gleaner, 30 August 1939
+228
+23. Seals from an early-twentieth-century pulp edition of the Sixth and
+Seventh Books of Moses
+235
+
+24. Black Herman: Secrets of Magic-Mystery and Legerdemain
+237
+25. La Magia Suprema Negra (1916)
+244
+26. The 1950 Planet-Verlag edition of the Sixth and Seventh Books of Moses
+255
+27. Sigil of Baphomet from Stanislas de Guaita’s La Clef de la Magie Noire (1897)
+276
+x
+|
+List of Illustrations
+
+LIST OF PLATES
+1. Coptic papyrus magical handbook, containing recipes for sexual problems
+2. The magician Zoroaster conjuring up two demons. From a copy of
+Le Livre du Tresor by Brunetto Latini (1425)
+3. King Solomon reading the Torah (c.1280)
+4. Moses and Aaron at Pharaoh’s court (c.1300)
+5. Conjuring demons to bring treasure. Cotton MS Tiberius (fourteenth century)
+6. Preaching before Pope Honorius III. Giotto (c.1295)
+7. Elizabethan grimoire that borrows from the Key of Solomon, and which
+purports to contain the magic of Roger Bacon
+8. Manuscript of Bartie Patersoune, a Scottish cunning-man executed in 1607
+9. The Danish cunning-man Anders Ulfkjær, and his wife Mariane. Ulfkjær
+owned and used a manuscript Cyprianus.
+10. The defendants in the murder of Nelson D. Rehmeyer and images from the
+Sixth and Seventh books of Moses
+11. Pulp grimoires for sale
+12. Book display in the Hindu Mysterious Store, Harlem, photographed in 1943
+13. The Hindu Mysterious Store in Harlem photographed in 1943
+14. Putumayo herbalist’s stall, Colombia
+15. Johann Kruse, the German campaigner against magical practitioners and
+grimoires
+16. A French copy of the Agrippa Noir belonging to the Basque conjurer
+Gracien Detcheverry. The original was publicly burned in Bayonne in 1750
+17. A Devil’s pact written in a copy of the Grand grimoire sold by the
+eighteenth-century Genevan grimoire dealer Moyse Morie
+
+I came to the gate, where some dozen or so of devils were playing tennis . . . in
+their hands they held rackets of fire; but what amazed me still more was that
+books, apparently full of wind and rubbish, served them for tennis balls, a strange
+and marvellous thing.
+—Cervantes, Don Quixote, Chapter 70, trans. John Ormsby
+
+INTRODUCTION
+W
+hat are the most dangerous books in the world? Some might nominate the
+founding texts of our major religions, which through misinterpretation
+and manipulation have led to the suVering of millions over the centuries. Others
+might point to deWning modern political works such as Karl Marx’s Das Kapital,
+Hitler’s Mein Kampf, or Chairman Mao’s Little Red Book. Fiction can also gravely
+oVend public sensibilities, as we have seen in recent decades with book burnings
+of the Satanic Verses and Harry Potter novels. But for many down the millennia and
+across the globe no books have been more feared than grimoires: then again, no
+books have been more valued and revered.
+‘Grimoire’ has a familiar ring to many people, particularly following the
+popularity of such ‘teen witch’ dramas as BuVy the Vampire Slayer and Charmed,
+but few people are sure what it means, and my computer spellchecker certainly
+does not know what to make of it. Put simply, then, grimoires are books of
+conjurations and charms, providing instructions on how to make magical objects
+such as protective amulets and talismans. They are repositories of knowledge that
+arm people against evil spirits and witches, heal their illnesses, fulWl their sexual
+desires, divine and alter their destiny, and much else besides. Grimoires are books
+of magic, then, but not all books of magic are grimoires, for as we shall see, some
+magic texts were concerned with discovering and using the secrets of the natural
+world rather than being based on the conjuration of spirits, the power of words, or
+the ritual creation of magical objects. The derivation of ‘grimoire’ is not entirely
+certain. In the early nineteenth century it was suggested that it came from the
+Italian ‘rimario’, a book of rhymes or Bible verses. It more likely derives from the
+French word ‘grammaire’, which originally referred to a work written in Latin.
+By the eighteenth century it was being widely used in France to refer to magic
+books, perhaps because many of them continued to circulate in Latin manuscripts
+at a time when most other publications were in French. It was used as a Wgure of
+speech to denote something that was diYcult to read or impossible to understand,
+such as, ‘it is like a grimoire to me’.1 It was only in the nineteenth century, with
+the educated resurgence of interest in the occult, that it began to enter general
+English usage.
+
+DeWning the meaning of magic is a far trickier task. For all the time, paper, and
+intellectual energy spent on trying to do so, there is no overarching answer. Any
+useful understanding must be tied to the cultures of the people being studied in
+speciWc periods and places.2 The boundary between religion and magic is certainly
+never clear-cut and changes over time and in relation to diVerent religious belief
+systems. This will become clear in the Wrst chapter. What is worth stating now is
+that grimoires never represented the totality of people’s experience and knowledge of magic in the past. There are numerous charms, spells, and rituals that
+were passed down orally through many generations, and were only recorded in
+writing by folklorists and antiquarians in the nineteenth century. Furthermore,
+women have always been as important as men in the recorded history of magical
+practice, yet because of their restricted access to literacy, they play only a minor
+role in the story of grimoires until the sixteenth century.
+Grimoires exist because of the desire to create a physical record of magical
+knowledge, reXecting concerns regarding the uncontrollable and corruptible
+nature of the oral transmission of valuable secret or sacred information. This
+urge to provide a tangible magical archive dates right back to the ancient civilization of Babylonia in the second millennium bce. But grimoires also exist
+because the very act of writing itself was imbued with occult or hidden power.
+‘A book of magic is also a magical book,’ as one historian of the subject has
+observed.3 As this suggests, I am concerned with the history of books and not just
+the magic they contained. It is important to understand their meaning and social
+signiWcance, and to consider the endless attempts by religious and secular authorities to censor and suppress them. In this sense, grimoires represent much more
+than magic.4 They tell us about fundamental developments in history over the past
+two thousand years. To understand their past is to understand the spread of
+Christianity and Islam, the development of early science, the cultural inXuence
+of print, the growth of literacy, the social impact of slavery and colonialism, and
+the expansion of Western cultures across the oceans.
+This story concerns the spread of written magic from the ancient Middle East,
+through Europe and then across the Atlantic, but it is important to highlight that
+other venerable literary cultures also enshrined their magical knowledge in writing and considered writing magical. India’s literary heritage, in particular, was a
+major inXuence across much of south Asia. The various Batak ethnic groups of
+Sumatra, for instance, have long had a semi-literate culture, perhaps for a millennium and more. Their alphabet is based on the Brahmi script, the earliest examples
+of which have been found in Southern India, dating to the third century bce.
+Writing was primarily a tool of magic for the Batak, preserving their magical
+tradition more faithfully than oral transmission. The art of writing was largely the
+preserve of the datu or priest-magician, who recorded it in magic books (poestaha)
+2
+| Introduction
+
+inscribed on the inner bark of the alim tree and folded like an accordion.5 The
+literary magic of the East also inXuenced the West through early trading links.
+Magic squares consisting of a grid of numbers of astrological, metaphysical, or
+mystical signiWcance are thought to have spread westwards from China in the late
+Wrst millennium thanks to Persian and Arab traders. The magic square also became
+an integral element of Indian magic, perhaps around the same time as papermaking was introduced there from China in the eighth century. One of the earliest
+surviving Indian expositions of the art was a book of mathematics written in 1356.
+Other elements of astrological magic also Wltered from India into the writings of
+Islamic Arab and Persian scientists and magicians.6
+Books can be magical without actually containing magic. In the past, uneducated people identiWed certain physical attributes of books, such as large size,
+venerable appearance, and contents full of unfamiliar signs, Wgures, and languages
+as indicative of magical purpose. Practitioners of magic sometimes displayed books
+which matched these characteristics in their consulting rooms to give the impression that they were adepts in the occult arts, even though the texts had nothing to
+do with magic. Some books were also used as protective talismans.7 The most
+obvious example is the Bible, which people placed under their pillow to protect
+them from witches and evil spirits, or touched when swearing oaths. It was also
+used in popular divination. By placing a key at certain passages in the Bible,
+binding and then suspending it, the divine power enshrined in the ‘good book’
+would make it turn in response to the name of a thief. The Bible was obviously
+not a grimoire, but the power of the words, stories, psalms, and prayers it
+contained, as well as its holiness as an object, made it the most widely used
+magic resource across the social and cultural spectrum over the past thousand
+years. Passages written on scraps of paper were used as healing charms, and the
+psalms were read for magical eVect. So as we shall see, in the Christian world the
+Bible has always been thought a necessary companion of the grimoire, and both
+were required to make magic.
+It is no wonder, then, that as Christianity spread across the European colonies
+natives wondered whether the Bible was the occult source of power of the white
+colonizers. Amongst the peoples of parts of Africa, South America, the Caribbean,
+and the South PaciWc, anthropologists have found a widespread notion that the
+white man deliberately withheld the full power of Christianity in order to keep
+them in a state of subjugation. This was not necessarily achieved by restricting
+literacy, but by deliberately withholding some of the true Bible and therefore the
+complete key to wisdom, knowledge, and consequently power.8 In the Caribbean
+today, for instance, the Bible is considered by some as an African divine text
+appropriated and controlled by Europeans. When asked why he accepted the
+Bible but not Catholicism, a worshipper of the Trinidadian spirit religion of
+Introduction
+| 3
+
+Orisha explained, ‘The Bible came from Egypt; it was stolen by the Catholics who
+added and removed parts for their own purposes.’9 As we shall see, such notions
+proved fertile ground for the spread of grimoires that purported to contain these
+missing parts. The notion that sacred knowledge has been withheld was not just a
+product of colonial tensions. The Bible, as we know it, is the result of a highly
+selective and political process of compilation. The elements that make up the
+Bible were chosen from a diverse range of biblical texts. Yet the Church never
+managed to suppress those apocryphal biblical gospels, histories, stories, and
+events dismissed and excluded from the oYcial Bible story. This alternative
+literary biblical tradition became the source of numerous magical traditions that
+continue today.
+A grimoire is deWned by the writing it contains, but the act of writing can itself
+be magic and certain words can have active properties independent of the holy or
+magical text in which they are written. Their power could be stimulated by the
+ritual use of speciWc inks and blood. Across the world from antiquity to the present
+we Wnd the notion, for example, that the writing in sacred texts was imbued with
+physical divine power that could be utilized by eating or drinking it. In Numbers
+5 in the Old Testament it is instructed that a woman suspected of adultery could
+be brought to a priest who would make her undergo the ordeal of bitter water:
+‘And the priest shall write these curses in a book, and he shall blot them out with
+the bitter water. And he shall cause the woman to drink the bitter water that
+causeth the curse.’ If she is guilty ‘the water that causeth the curse shall enter into
+her, and become bitter, and her belly shall swell, and her thigh shall rot: and the
+woman shall be a curse among her people.’ If innocent the divine written curse
+would not be activated.
+The ingestion of holy writing was normally employed for healing purposes. In
+medieval Europe sacred words were written on bread or cheese to be swallowed
+by the sick. Some medieval religious manuscripts bear the signs of having been
+rinsed with water so that some of the ink washed oV and could therefore be drunk.
+The seventh-century Book of Durrow, an illuminated manuscript of the Gospels,
+is a good example. In the seventeenth century it was dunked in water by Irish
+farmers to produce a sacred medicine for curing sick cattle. In parts of Islamic
+West Africa passages of the Koran written out in ink are similarly washed and
+drunk to cure disease and witchcraft. Amongst the Berti of northern Darfur, the
+fakis (Koranic teachers and healers) write certain verses from the Koran on a
+wooden slate, using a pen made from a millet stalk and ink made from a mix of
+soot and gum Arabic. The water is then washed oV into a small bowl or bottle for
+clients to drink either at once or in small doses throughout the day. As part of their
+graduation ceremony the Batak datu made his students inscribe an incantation,
+dictated by him, on bamboo held over a heap of boiled rice. The scratchings
+4
+| Introduction
+
+produced by inscribing fell onto the rice, and the ritual was completed when the
+boys ate the rice and with it ‘the soul of the writing’.10
+If writing was so important to grimoire magic what was the eVect of the print
+revolution from the late Wfteenth century onwards? Magicians had no personal
+inXuence over the creation of print grimoires, could not imbue them with power
+through the ritual use of materials. The printed book was not integral to the
+magic, rather a record of it. Magicians were merely purchasers of a product.
+The importance of print was its role in democratizing literary magic.11 The
+presses could produce copies in far greater numbers and far more quickly than
+scribes, and so the knowledge of the learned few became available to the expanding literate masses. While print drained power from the grimoire in terms of its
+magical integrity, it also empowered it through growing access and social inXuence. Furthermore, print did not usurp the role of manuscript; the magic latent in
+the words contained in print grimoires could be reactivated through transcription.
+Neither did print cheapen the aura of grimoires. It is true that the power of literary
+magic was in part invested in the restricted access to literacy, which is one reason
+why the history of grimoires needs to be sensitive to gender inequalities. Until the
+twentieth century the literacy rates of women lagged far behind men. Yet, as we
+shall see, even in the age of mass-produced grimoires and near universal education
+there was a widespread perception that the ability to read was not the only
+requirement for using them. The qualities of the magician remained important.
+Whether by birth right, geography, or piety only certain people were thought to
+have the innate power to possess and perform grimoire magic on the behalf of
+others. So even when grimoires were available to everyone not everyone could
+use them safely and eVectively.
+To end this brief introduction let me pose some riddles. What links Chicago to
+ancient Egypt, Germany to Jamaica, and Norway to Bolivia? How did a Swede
+become the greatest wizard in America? What did Rastafarians and Alpine farmers
+have in common? Who is the ‘Little Albert’ famed from Canada to the Indian
+Ocean? And how did a poor crossing-sweeper from Ohio become a feared
+mythical spirit in the Caribbean? Grimoires provide all the answers. They not
+only reXected the globalization of the world but helped shape it. The key to their
+extraordinary inXuence lies back in the ancient world of the Middle East, which is
+where our journey now begins.
+Introduction
+| 5
+
+C
+H
+A
+P
+T
+E
+R
+O
+N
+E
+ANCIENT AND MEDIEVAL
+GRIMOIRES
+T
+he modern history of ancient and medieval magic is vast and often inaccessible
+to the non-expert, yet there is much to catch the imagination and challenge
+our understanding of religion and society in past eras. While European grimoires
+were largely a product of the medieval period their inspiration lies much further
+back in the religions of the ancient civilizations of the Near and Middle East.
+In the eastern Mediterranean the religious traditions of paganism, Judaism,
+Christianity, and later Islam rubbed oV on each other despite the obvious antagonisms in terms of competing political inXuence. How medieval scholars understood that distant past and reconstructed it, often wrongly, was as important to the
+history of magic as the magical knowledge actually passed down during the Wrst
+millennium.
+The cross-fertilized intellectual culture of the Middle East was introduced to
+most of Europe during the Middle Ages, at a time when the Continent has often
+been portrayed as being in the grip of a bigoted and zealous Church, a period of
+religious intolerance with the Crusades against Islam, the setting up of Inquisitions, and pogroms against the Jews. This portrayal is far from being completely
+unjustiWed, yet the medieval era was also an age of extraordinary scholarly
+collaboration and understanding between diVerent religions and cultures. The
+writings of the pagan ancient Greeks, Romans, and Egyptians were translated and
+pored over, and churchmen travelled across Europe to immerse themselves in the
+Arabic sciences and Jewish mysticism taught in the schools of Spain and southern
+France. Magic was seen as an aspect of science as well as religion, and its roots were
+
+traced back thousands of years through the wider reconstruction of the history of
+written knowledge. So to understand the origins of the grimoire we must explore
+the ancient world through the prism of the medieval intellectual mind.
+Ancient masters of magic
+The ancient Greeks and Romans believed that the priests of a Persian tribe, the
+Magi, were the Wrst practitioners of magic, taught to them by their founder
+Zoroaster. The ‘wise men from the East’ who came bearing gifts for the baby
+Jesus were their representatives. According to the naturalist and military man
+Pliny the Elder, writing in the Wrst century ce, ‘without doubt magic was Wrst
+invented over there in Persia by Zoroaster . . . But it is not established whether
+there was just one man of this name or whether there was another one afterward
+too.’ He went on to report that the Greek mathematician Eudoxus calculated that
+Zoroaster lived six thousand years before the death of Plato. That would put the
+age of Zoroaster and the birth of magic to around 6347 bce. But Pliny went on to
+make a distinction between the invention of magic and when it was Wrst written
+down. As far as he could discover, the Wrst man to do that was a Persian magician
+and astrologer named Osthanes, who accompanied King Xerxes in his failed war
+with Greece (480 bce), and in the process ‘scattered, as it were, the seeds of the

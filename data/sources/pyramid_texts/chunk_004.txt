@@ -1,0 +1,416 @@
+tstretched",
+mAtj (Urk.I:76:10) ~ mnt (Urk.I:114:16) "Mat (lion goddness)",
+s.ATwtj (§§804c, 1015b) "he of the fettering" ~ nTT "fetter",
+snS (§§712b, 1673b, 1727a, 2084b) ~ zAS (§712b T) "unplug",
+mAn ~ mAA "see" (OE-ME mAn is occasionally a variant of mAA in the subjunctive and infinitive,
+*mVAVA ~ *mVAnV – after Allen),
+kHn (Petrie, Medum, pl. XIII) ~ kHA "cauldron" (§401a),
+s.nhd (§306d) ~ s.Ahd (§270d) "frighten, terrorize",
+qAnt (§194a) ~ qAAt (CT II, 209a) ~ qAt (CT II, 166f) "door bolt",
+gAgAw "cackler" (CT II, 117l) ~ ngngn "cackler" (CT III, 207h, 208e),
+fgn (CT V, 48d) ~ fgA "defecate" (Naville I, BD 48:3),
+m.s.xAt kAw ~ m.s.xnt kAw "She who remembers kas" (CT VIII, 150c),
+HfAw ~ Hfnw "snake" (§674b),
+mnfrt ~ mAfrt "bracelet" (Hannig, ÄR, pp. 534-535),
+mnzA (§32b) ~ mnzn (L.D.II:44) "vessel",
+wAD(w)t ~ wnDwt (§602c) "prow",
+dwn ~ dmA "stretch, stretch out" (see W 67-68),
+pAD ( > pAd) ~ pnd "bread loaf" (CT I, 167h),
+qrs ~ qAs (Wb.V:14) ~ qns (Wb.V:55:3) "bury",
+wSnw(w) "fattened fowl/fish" (Moussa-Altenmüller, Niankhhnum, Abb.12, Davies, Ptahhetep II, pl.4,
+5, Bissing, Gem-ni-kai, pl.10; CT V, 372e; from the root wSA "fatten", cf. with wSAAw "fattened
+cattle" (Wb.I:369:8)),
+HAg ~ Hng "be happy",
+bTn (> btn) ~ btA (Leb. 40) "disobey, rebel" (James Allen agrees with this suggestion and suggests in
+turn the following treatment of Leb. 39-40: "Your [i. e. of the present author – T. S.] suggestion that
+btA is related to bTn/btn is possible, diachronically bTn → btn → btA, and makes sense in the context.
+btA, however, is an infinitive, not the stative (see 14.15.2 in my grammar). Since the signs below the
+negative-arms in 39 are lost and the top of 40 has the seated man instead of the expected “bad” bird, I
+would read jr sDm n.j bA.j n[n n].j btA “if my ba listens to me without disagreement to me.”"),
+s.nwd (Wb.IV:158:1) ~ s.Awd (Budge II, BD64:24-25 (pNu, long version)) "disappear, vanish",
+Aby ~ nby "Neby" (town name, Sethy I, Abydos). Spelling of the town name nbyw with the hieroglyph
+Aby "panther".
+For the nature of the phoneme /A/, see Edel, Alta. Gr., §130, Peust, Egyptian Phonology, pp. 127-132,
+Ancient Egyptian Language (AEL) Email List (http://www.rostau.org.uk/AEgyptianL/archives/index.html), the posts by J. P. Allen (Forwarded by Geoffrey Graham) of 27 Jun 1998 and
+30 Jun 1998.
+
+W 79 (PT 117)
+§75b: S(n)s
+Allen "Sns-bread"
+Shmakov "(bread) loaf"
+
+40
+The beginning of the common formula xA t xA H(n)qt xA Ss xA mnxt "thousand of bread, thousand of
+beer, thousand of alabaster vases (with ointments), thousand of clothes" which often occurs under the
+offering tables scenes in the O.K. private tombs was probably not xA t xA H(n)qt, but rather (at least
+originally or alternatively) xA Sns xA Dwjw – "thousand of loaves, thousand of jars".
+
+The sign {bread loaf} taken as t "bread", and the sign {jar} taken as H(n)qt "beer" could have other
+meanings. Cf. the following components of the offering list of Dynasty V (e.g., L.D.II:67-70):
+
+Sns 1 Dwjw 1 (n) jaw-r
+"One (bread) loaf, one (beer) jar (for) breakfast (lit. washing of the mouth)"
+(in Unis’ and Neferkare’s pyramids (§72f) briefly written jaw-r {bread loaf}-{jar})
+
+Sns 1 Dwjw 1 (n) Sbw
+"One (bread) loaf, one (beer) jar (for) lunch (lit. meal)"
+(in Unis’ pyramid (§64a) briefly written Sbw {bread loaf}-{jar}, Neferkare’s version gives Sns {bread
+loaf} H(n)qt Dwjw (this is more probable than H(n)qt plus {jar} sign as the determinative), i. e. "a loaf,
+beer, one jar")
+
+Sns 1Hnt 1 (n) fAt
+"One (bread) loaf, one (beer) cup (for) presentation (lit. lifting)"
+(in Unis’ pyramid (§61c) briefly written fAt {bread loaf}-{cup}, Neferkare’s version gives t Sns (this is
+more probable than t plus {bread loaf} sign as the determinative) H(n)t, i. e. "bread, one loaf, (beer), a
+cup")
+
+Brief spellings (just {bread loaf} sign, just {jar} sign) and full spellings (Sns plus {bread loaf} sign,
+Dwjw plus {jar} sign) prove that the {bread loaf} sign was actually Sns "loaf (of triangle form)" and
+not t "bread", i. e. Sns as type of bread did not exist, and that {jar} sign was actually Dwjw "jar" and
+not H(n)qt "beer". Moreover, note that the rest of the formula is xA Ss xA mnxt "thousand of alabaster
+vases (with ointments), thousand of clothes", i. e. we have containers (vases), rather than their contents
+(ointments mDt), and general designations (clothes mnxt), rather than specific varieties (for ex. jaA
+"kilts").
+
+This all means that the signs {bread loaf}, {jar}, which we read in the formula as xA t xA H(n)qt, is
+rather (at least originally) to be read as xA Sns xA Dwjw – "thousand of loaves, thousand of jars". Even
+when it is spelled xA t {bread loaf} xA {jar} it is rather xA t Sns xA Dwjw "thousand of bread, loav(es),
+thousand of (beer), jar(s)". Note also, that the {bread loaf} sign hardly should always be Sns, it could
+be pAD "loaf" as well; likewise, {jar} sign could be ds "jar" instead of Dwjw. Cf. Sns written in parallel
+to ds and Dwjw: jw dj.tw n.f Sns dsj "he will be given a loaf (of bread), a jar (of beer)" (Budge,
+BD99:38, BD125B:51-52), anx.tw…m Sns Dwjw "one lives on…a (bread) loaf, a beer jug" (Budge,
+BD149, I:2) vs t H(n)qt: jmj dj.tw n.f t Hnq<t> "Let he be given bread, beer" (Budge, BD30B, V:3).
+
+However, sometimes the spelling t-{bread loaf} occurs in the formula (e.g., Steindorff, Ti, Tf. 126;
+Duell, Mereruikai, pl.113) which probably nothing but an alternative to Sns-{bread loaf}.
+
+W 81 (PT 119)
+§76a: jrt Hrw xAnft.n.f xnfw
+Allen "Horus’s eye which he carried off. A bowl of 4 xnfw-breads"
+Shmakov "Horus’s eye which he has snatched. A bowl of 4 pancakes"
+
+The verb xAnf ~ xnf ~ xnp "snatch" (Wb.III:290:5) is a case of /A/ ~ /n/ ~ /l/ (xlp) and /f/ ~ /p/. The
+
+41
+spelling with f was here preferred to the usual spelling with p (xnp) just to make a word-play between
+the verb and the noun xnfw "pancakes".
+
+For the group of allophones /m/ ~ /b/ ~ /p/ ~ /f/, cf.:
+/m/ ~ /p/:
+mAqt "ladder" ~ pAqt "ladder" (the word-play in §995d).
+/m/ ~ /f/:
+xma (B5C) ~ xfa (B6C, B2La) "grasp" (CT III, 289b),
+xma (B2L) ~ xfa (S2C) "grasp" (CT V, 391i; in Old Egyptian (namely PT) both spellings are used, but
+the spelling xma gradually disappears by Middle Egyptian, thus in M.K.-N.K. only xfa is used),
+mnDwt "noses" ~ fnD "nose (of a man)" (Duell, Mereruikai, pl.32, mnDwtt.f "its (i. e. probably
+crucible’s) noses" with three {face in profile}-D19 det. (also Moussa-Altenmüller, Niankhhnum, Tf.64,
+mnDt, but without any determinative and PT 698C, Jéquier, Pepi II, pl. 20, col. 1308+69: r mnDt.f "at
+his (crucible’s) nose" with {face in profile} det.); another part of a crucible is also referred to as if
+being a human’s body part, namely Tb(w)tt.f "its foot" (Kanawati-Hassan, Ankhmahor, pl.40, Hassan,
+Giza II, fig. 219, after p.190)).
+/f/ ~ /p/:
+fsj (O.K. spelling, §1485 b) ~ psj (M.K. spelling) ~ pfsj (combined spelling, CT VII, 49f, 300a) "cook,
+boil",
+xnp (§§1839a, 1939b) ~ xnf (§95a) ~ xnfp (combined spelling, CT V, 43j: xnfpw m awj (?) "snatched
+from…") "snatch".
+
+/f/ ~ /b/:
+xsf ~ xsb "bar" (§§336b T, 334c, 448c, 492d),
+Axfxf (CT IV, 154e, also §§295d, 298c: xfxf/xfxft) ~ Agb (§120a) "flood" (for /x/ ~ /g/, see M 52),
+fAw (Wb.I:575:4) ~ bAw (Wb.I:413:12-16) "impressiveness, influence" (both nouns are used with the
+verb dj "give, inspire" (fAw (Urk.VII:58:6, 62:1; Urk.IV:936:6); bAw (Urk.IV:20:11, 612:8, 620:15):
+this fact, besides similar meaning, probably indicates that fAw is a different spelling of bAw),
+nxbt (CT V, 260c) ~ nxf[t] (CT II, 404b (B1Bo)) "light",
+zbT ~ zfT "laugh" (CT VII, 138f: jrt Hr zfT.s(n) Hr.s "Horus’s eye on account of which they laughed").
+HfA (Hannig, Wb, 526) ~ HbAbA/Hbnbn/Hbrbr (ibid, 522) "creep" (the root is Hfl/Hbl)
+
+/m/ ~ /b/: see M 365, 2.
+
+/b/ ~ /p/:
+HpD r (Jéquier, Pepi II, pl. I, line 574) ~ HbD r (CT III, 57e, CT V, 291i, CT VII, 485l, 486d)
+"open/gape mouth"
+Sp (S(A)p ?) ~ SAb (CT I 56a (T9C, B.H.5C)) "blind, become blind"
+nAbt ~ nApw "tresses" (§282c/§1363c)
+bwt ~ pwt "abomination" (graphically transposed ptw, Nt 27; cf. btw §2082c, d)
+Sbtjw ~ Sptjw "poultry houses" (in the title wa wr Sptjw "the sole one great of poultry houses (?)")
+kbn ~ kpn "Byblus" (Wb.V:118:2)
+sXb ~ sXp "swallow" (Wb.IV:268:13, 269:7)
+sAbt ~ sApt "sAbt-plant" (CT VI, 102d (B3L/B1L))
+bAgj ~ pAgj "become tired, lazy" (CT I, 18a)
+bAs ~ pAs "scribe’s cup for water" (Wb.I:499:5)
+HbD/Hbd ~ Hpd "bite" (Wb.III:67:8, 72:12)
+sb(j)w ~ spr (a word-play in §81c-d)
+Drb ~ T(rp) (a word-play in §85a-b)
+xnp.n.f ~ xbzt (i. e. x’p’’ ~ xb’’, a word-play in Nt 297, 301)
+
+42
+n.bDbD "bounce" (§976a, after Allen) probably derives from the root pD, just like the verb pDpD
+"stretch" (it is most unlikely it would be related to nbD "disgusting" (Wb.II:247:4)).
+See also Edel, Alta. Gr., §§110, 114, 124.
+
+In the offering lists the word xnf usually has {three round scones on top of a bowl} determinative (for
+ex. Duell, Mereruikai, pl. 205) similar to the one for Hbnnwt "scones", hence the reading "pancakes".
+
+W 82 (PT 120)
+§76d: mj n.k jrt Hrw m(j) s(j) Hbnbn s(j) Hbnnwt 4
+Allen "accept Horus’s eye: don’t let it jump around. A bowl of 4 Hbnnt-breads"
+Shmakov "accept Horus’s eye, see it (and) Hbnbn it! / A bowl of 4 scones"
+
+The verb Hbnbn is probably an imperative, not a sDm.f, and the verb m(j) "see" likewise (for the
+meaning of this verb, see W 211, 2). The spell-counterpart of the current passage – PT 158, §94c: mj
+n.k jrt Hrw Hbnbn s(j) "accept Horus’s eye (and) Hbnbn it!" shows that m(j) is unlikely to be a
+negative imperative (don’t (do)!) here, for the construction *m(j) s(j) is then impossible while the
+causative form  (*m(j) s.Hbnbn.s) is strange as we have a simplex form in §94c (Hbnbn).
+In the offering lists the word Hbnnt usually has {three round scones on top of a bowl} determinative
+(e.g., Duell, Mereruikai, pl. 205), hence the reading.
+
+W 83 (PT 121)
+§77b: q(m)H(w) qmA
+Allen "wheat breads"
+Shmakov "kneaded wheat breads"
+
+See T 194 for comments.
+
+W 84 (PT 122)
+§77d: jdAt (d) HA.k
+Allen "truncated jdAt-breads"
+Shmakov "patty, (place/hold) behind you"
+
+In the mastaba of Hesi of the Old Kingdom the determinative of jdAt (d) HA.k is {man with his arms
+behind him holding patties} (Kanawati-Raziq, Hesi, pl. 64). In some offering lists the offering is
+written in full as jdAt d HA.k "jdAt-patty, place/hold behind you" (Simpson, Qar and Idu, fig. 23).
+
+W 87 (PT 125)
+§79a-b: jn n.k jbHw.f HDw wDAw / HDw (TAw) 4
+Allen "get for yourself his white, sound teeth / A bowl of four onions"
+Shmakov "get for yourself his white, sound teeth / (A bowl of) four onion bulbs"
+
+We should read "(A bowl of) four onion bulbs" because the text actually has HDw (TAw) 4, with the
+word TAw "bulbs (lit. pellets)" unwritten, but the presence of which is indicated by the variant of this
+spell, PT 45, §35a: HD(w) TA(w) 5 "(A bowl of) five onion bulbs", and by the word play between
+wDAw "sound" and TAw "bulbs" (a case of /D/ ~ /T/, see W 170, 3). Cp. Sethy I, Abydos II, pl.32, 35,
+col. 25, bottom: mj n.k jbHw n Hrw HDw wDAy / HDw TA 20 "Take white (and) sound teeth of Horus
+/ (A bowl of) twenty onion bulbs".
+
+W 88 (PT 126)
+§79c-d: m xpx jrt Hrw
+
+43
+Allen "here is the one who stole Horus’s eye. 1 bowl with a foreleg"
+Shmakov "take xpx Horus’s eye. 1 bowl with a foreleg "
+
+Also occurs PT 20, §12c: Asjr(t) pjpj nfr-kA-ra wp(.j) n.k r.k m xpx jr(t) Hrw "Osiris Pepi Neferkare, I
+have parted your mouth for you with xpx Horus’s eye". The meaning of xpx in the present passage is
+uncertain. It may be a relative form or a participle semantically connected or not with presented xpS
+"foreleg", e.g. *"that which Horus’s eye chopped off" or *"that which trampled Horus’s eye". The
+source of Allen’s "the one who stole" is uncertain to the present author. In the passage itself there is a
+word-play between the xpx and the noun xpS, i. e. final x of the first ~ final S of the second.
+
+For /x/ ~ /X/ ~ /S/:
+
+jxt ~ jSt "things, food",
+axwt ~ aSwt "roasted patties" (see W 125),
+txtx (CT IV, 385d) ~ tStS (CT VI, 295h) "tear",
+xfa (Wb.III:272:1) ~ SfA "grasp" (Wb.V:460:1)
+xnf (~ xnp) ~ Snf "snatch" (Sethy I, Abydos II, pl.32, 35, col. 30, bottom: mj n.k m jt(j).j Snft "accept
+what was snatched from my father"),
+xrp (§1143a P) ~ Xrp (ibid M) "manage",
+nxrxr (§633d) ~ nXrXr (Nt 312) "be downcast",
+s.xd ~ s.Xd/s.XdXd "overturn, become upside down" (CT III, 211a,c,e, CT VII, 436h),
+mSA (§1004c P) ~ mXA (ibid MN; CT VIII, 1973a) ~ mxA (CT VIII, 1973a (B10Cb)) "get, be
+worried/excited (see P 333, 1)",
+SApt (§500b) ~ XApt (Leclant, Pepi I, pl. 22, col. 32 = §500b) "downpour",
+aSm ~ aXm ~ axm "icon, image",
+pSr ~ pXr ~ pxr (CT VI, 407h, j) "go around, conduct",
+SbSb (Leclant, Pepi I, pl. II B, col. 30 = §205b) = nxbxb ~ nXbXb ~.nSbSb "flood" (CT VIII, 205b),
+nSS ~ nXX ~ nxx "saliva" (CT VIII, 199a),
+stS ~ stX ~ stx (Urk.IV:1085:7) "Seth",
+SAb ~ XAb ~ xAb "crooked", the root in S(A)bt (§1459a)/XAbt (Wb.III:362:3) "(red crown’s)
+curl/coil", XAb (Wb.III:361:14)/x(A)b (Urk. IV:453:14, reads "hippopotamus (i. e. the animal with
+crooked teeth ?)", but is spelled with the {sickle} sign) "sickle (lit. crooked thing)", XAbt
+(Wb.III:362:5)/XAbb/xAbb (Wb.III:230:5, (Gardiner, E. G., Vocabulary, p. 586)) "crookedness,
+falsehood",
+xAw (Molen, HDECT, p.373), wx(A) (ibid, p.100) and wSAw (ibid, p.103-104) "evening".
+
+For cases of /x/ ~ /S/, /X/ ~ /S/ and /x/ ~ /X/, see Edel, Altag. Gr., §§119, 120, 121; Peust, Phonology,
+3.8.2.
+
+W 94 (PT 132)
+§82c: mj n.k jrt Hrw j.mz.k jr.s
+Allen "accept Horus’s eye and go toward it"
+Shmakov "accept Horus’s eye that you may come near to it"
+
+The verb in the passage is 2-lit mz "come near, bring near, hold out", that is, the {duck} sign has a
+phonetic value of mz in this passage, not zA, (despite the omission of m). This is suggested by the fact
+that the same construction (imperative plus subjunctive) with the verb mz occurs in §645c: s.ja kw n Hr
+j.mz.k jr.f "Elevate yourself to Horus that you may come near to him". Moreover, there is a word-play
+in the passage between j.mz "come near" and mzt "liver" (§82d).
+
+44
+That the sign G39 {pintail duck} which occurs in the verb mz (§§44a, 85c, 645с T) has a phonetic
+value of mz (as well as zA) is shown by the offering-list from the Idu mastaba at Giza, and the Hemra
+mastaba at Saqqara, where the offering "she-duck" is spelled mzt (Simpson, Qar and Idu, fig. 41 (=
+Hassan, Giza VI, Part II, pl. 85:88); Mariette, Mast., C15, p. 141; Hassan, Giza VI, Part II, pl. 13:16
+(xw-w(j)-ptH), 29:29 (nfr-jrt.n.f), 69:72 (n-k(A)w-ra), 94:93 (jHjj), 111:113 (pnw), 120:119 (s.bAqw
+I)), instead of the usual spelling zt. This means that the sometimes suggested transliteration mzA for the
+verb mz, as an attempt to explain the phenomenon of the sign {duck} occurring in the verb in the PT, is
+mistaken. In addition, in the Middle Kingdom the verb occurs in an imperative form with a prefix j.
+(j.mz "bring!") which is used in the M.K. exclusively with 2-lit. verbs. This conclusion on the presence
+of the zA-sign in this verb is different from the solution suggested by Edel (Edel, Altag. Gr., §43) and
+accepted by Allen (Allen, Inflection, §728, p. 545).
+
+It is hard to tell apart the verb zA "go" spelled with the {duck}-sign (Wb.III:413:1) from the verb mz
+when there is no A complement; often  verbs that look like zA "go" are probably mz, cf:
+
+PT 544, §1338b-c: j.z  j.{duck}z.Tn Xr Asjr(t) N pn…fA sw "Go, that you may come near under this
+Osiris N…lift him"
+PT 648, §1829a-b: j.{duck}z.Tn Xr N fA.Tn sw "You shall come near under N (and) lift him"
+PT 648, §1829c-d: j.mz.sn jr.k fA.sn Tw "they have come near to you, they have lifted you"
+CT VI, 110g-h (B18C): mz kw Xr.f fA.Tn sw "bring yourself under him, that you (all) may lift him"
+CT VI, 115g (B18C): mj mz kw Xr Asjr(t) N pn "come, bring yourself under this Osiris N"
+
+j.{duck}zA.sn Xr.k which occurs in PT 368, §637c T is likely a variant of j.mz.sn Xr.k, as P, M, and N
+probably give j.mz (namely j.{duck}z), not j.zA, which is also used with jr "to" as a governing
+preposition.
+
+Cf. also the word-play in PT 138 between the verb mz (§85c) and the noun (m)zt "she-duck" (§85d).
+
+W 98 (PT 136)
+§84c: mj n.k tpw stS (j)m(j)w-xt srj(w)
+Allen "accept the severed heads of Seth’s followers"
+Shmakov "accept the goose heads of Seth’s followers"
+
+srj (written without any determinative) at the end of the passage is likely a nisbe-adjective of the noun
+"sr-goose" (§1224b, where it has a {goose} determinative); j is either nisbe ending or a combined
+spelling where r ~ j, i. e. sr + sj = srj. It has been placed at the end of the sentence, though should be
+placed after tpw, for this cf. P 324, 2.
+In the New Kingdom copy of the pressent PT passage in the temple of Sethy I at Abydos the relevant
+word is spelled sr(j)w with a {goose} determinative, i. e. "goose (heads)" (Sethy I, Abydos II, pl.32, 35,
+col. 12, bottom).
+
+W 99 (PT 137)
+§85a-b: mj n.k Drb pn…T(rp)
+Allen "accept all of this heart…1 bowl of white-fronted goose"
+Shmakov "accept this Drb…1 bowl of white-fronted goose"
+
+The position of the sign {heart}-F34 between the signs r and b (WNNt), as well as after rb in the copy
+of Senusert-ankhu (Hayes, The Texts, col. 256)8, shows that the sign is not separate (i. e. we probably
+
+8 Even if not to take into consideration the version of Senusert-ankhu that fact looks strange that the word jb is constantly
+
+45
+cannot read it Dr jb), but is an unnecessary phonetic complement (probably rather a space-filler) in the
+spelling of the word Drb. This phenomenon, which sometimes can cause misreading, was called by the
+present author "Phonetic Influence", see T 228, 10. Note that Drb is not the only word that uses the jb-
+{heart} as phonetic sign: it was also used to write the words H(j)b "stepladder" (§542b P), jbH "tooth"
+(Wb.I:64:2, spelled jb-H-{tusk}) and mnjb (Wb’s mjnb) "axe" (Wb.II:44:7, Gardiner, E.G., Sign List,
+T7, p. 511)).  For a case of probably dialectal /j/ ~ /r/ (hence jb ~ rb), see W 166, 1, i. For /j/ ~ /r/ in the
+middle position, see T 271. There is a word-play in the passage between the words Drb and T(rp) (for
+/D/ ~ /T/, where /D/ is an emphatic /T/, see W 170, 3; for /b/ ~ /p/, see W 81).
+
+W 100 (PT 138)
+§85c: jrt Hrw mzt.n.f
+Allen "Horus’s eye, which he has brought"
+Shmakov "Horus’s eye, which he has held out/brought near"
+
+There is a word-play in the passage between the verb mz and the noun (m)zt "she-duck" (§85d); for the
+reading of the {duck} sign as mz, see W 94.
+
+W 102 (PT 140)
+§86c: mj n.k jrt Hrw xw mn.f s(j)
+Allen "accept Horus’s eye: prevent him from suffering from it"
+Shmakov "accept Horus’s eye: keep him from eating (?) it"
+
+The verb mn is here written without determinative, and none of the Middle or New Kingdom copies
+gives a {sparrow}-G37 ("bad bird") sign after mn to treat it as the verb "suffer (from)". The verb is
+probably wnm "eat", cf. jmn(j) ~ wnm(j) "right" (§§601d PN/T, 1194b P/MN) (a case of allophonic mn
+~ nm), and moreover, the verb wnm actually spells wn(m) in PT (cf. §35c W; also wn (M42 or E34) +
+{two halves of bread} as determinative), thus wn ~ mn (for /w/ ~ /m/, see W 67-68). That the verb has
+to do with the action of eating is suggested by the parallel in §92c: xw am.f s(j) "keep him from
+swallowing it" (see also §1450b, d). The unusual form mn was chosen by the scribe to create a wordplay in the passage – mn (wnm) and mnwt "pigeon" (§86d).
+
+W 106 (PT 144)
+§88a: jrt Hrw s.zwnt.n.f mw jm(j)w.s
+Allen "Horus’s eye, the waters of which he caused to suffer"
+Shmakov "Horus’s eye, the waters of which he has drunk"
+
+The context of water might suggest s.zwn ~ s.zwr "drink, feed", a case of /n/ ~ /r/ ~ /l/. For the
+causative having the meaning of the simplex (i.e., "drink" rather than "make drink"), cf. s.zn "open",
+s.wn "open", not "cause to open", the same applies to s.Am "grasp" (CT III, 289b (B2Lb)), s.xd
+"overturn", s.Sd(j) "pull out, extract", s.dmj "attach to", s.Tnj "distinguish", s.Tzj "raise", s.wab
+"cleanse", s.Awj "extend", s.sn "smell" etc.
+
+For /n/ ~ /r/ ~ /l/:
+nHnHr (§799b P) ~ nHrHr (ibid N) "welcome, get excited at (of heart (jb))",
+jnq.n.s ~ qrsw (i. e. qns ~ qrs, the word-play in §616e),
+THnw ~ THrnw "Libya" (Simpson, Qar and Idu, fig. 23, upper register),
+Tr(w) (Urk.I:133:12) ~ Tnw (ibid:14) "number",
+kAny (Wb.V:107:8) > kAry (Wb.V:108:13) "wine-grower",
+
+complemented with b.
+
+46
+grg ~ gng "lie, false" (stela of mnTw wsr(.w), New York = Les. 80:3),
+tkn ~ tkr "approach" (Urk.VII:54:17),
+ptH skr ~ ptH skn "Ptah-Sokar" (stela Hermitage 1084 of sbk-Htp(.w), M.K.),
+Hwnt (§728a) ~ Hwrt (§2204a) "lass", also Hwrr (CT III, 78b)/Hwr (Wb.III:55:5) ~ Hwn "youth"
+(Wb.III:54:13),
+Hntj (§§871b M, 2146b) ~ Hrtj (§871b N) "basin",
+j.np (CT VI, 384p) ~ j.rp (ibid, 386d) ~ rpw (§1257a) "spoil, decay" (ibid there is a word-play with
+jnpw "Anubis"),
+qr(j)/qrj/qrr ~ qrn(j) "heat" (Montet, Scènes, p. 237),
+mw Xr nw ~ m Xnw "inside",
+nfr ~ nfrn "be(come) good" (Urk.I:132:16),
+nDs wnmt ~ Dsrt (i. e. Ds’n’t ~ Dsrt, the word-play in §61a),
+Hr.k "your face" ~ Hnt "cup" (the word-play in §61c),
+Hr Smt.f ~ nnSm (i. e. ’rSm ~ ’nSm, the word-play in §83a-b),
+xXr(f)t ~ xnft "snatched", Xrxnf (i. e. Xrf ~ xnf) (the word-play in §108a),
+j.bn "be(come) active, erect" ~ jbr "a kind of oil" (the word-play in the offering ritual spell, Sethy I,
+Abydos II, pl.18),
+jwr ~ wnwn "move" (the word-play in the offering ritual spell of the temple of Sethy I at Abydos (II,
+pl.32, 35, col. 7, upper register)),
+xrp ~ xnp "present" (Wb.III:290:14, in the expression xnp qbHw n N "presentation of cool water to N"
+(Sethy I, Abydos III, pl. 15) and xrp stpwt "presentation of meat cuts" (Mariette, Abydos, T. 1. pl. 35, a)
+which occur on and the same monument),
+The verbs qfn (§§460a, 1008b, 1213b; CT VI, 407b) and qrf (CT I, 56b; CT III, 255a, 256b) "bend" are
+probably related (cf qfn ~ qnf "bake" (Wb.V:32:11)).
+New Egyptian uses a digraph nr (which phonetically means a sound between /n/ and /r/ according to
+Allen (his post of 30 Jun 1998, see just below for ref.)) to express a phoneme /l/: bnrw ~ bl "outside"
+(Urk.IV:655:5) > S. bŏl; qAA ~ qAl "hill" (O.K., M.K.) > qAnr (N. K., Adm. 4.4, 5.6, 6.14, 7.8) >
+Demotic /ql/ (E 545) > Coptic kla/kro, "bank", also with the meaning "hill, hills" in plur (krōŏu).
+
+See also Edel, Alta. Gr., §130, Peust, Egyptian Phonology, pp. 127-132, Ancient Egyptian Language
+(AEL) Email List (http://www.rostau.org.uk/AEgyptian-L/archives/index.html), the posts by J. P.
+Allen (Forwarded by Geoffrey Graham) of 27 Jun 1998 and 30 Jun 1998 on the nature of the phoneme
+/A/.
+
+W 108 (PT 146)
+§89a-b: Dsr(t) wAst(j)t
+Allen "2 bowls of whipped cream"
+Shmakov "2 bowls of Theban strong ale"
+
+The beverage presented while this spell is pronounced is Dsrt "strong ale" – the same beverage as is
+presented in the previous spell (PT 145, §88d) and spell PT 90, §61a. In the latter spell, James Allen
+(as well as many other Egyptologists) translates Dsrt as "strong beer", because in PT 90, §61a and
+standard offering-lists it precedes H(n)qt xnms "“Friend” beer" of PT 91, §61b, i. e. it must be some
+sort of beer/ale too. The only difference is that in §89a-b this Dsrt is specified by a nisbe of a toponym,
+namely wAst(j)t "that of Thebes, Theban" (feminine nisbe of wAst "Thebes", because Dsrt is feminine),
+i. e. we have "Dsrt-beverage of Thebes" (in PT was written with honorific transposition as wAst(j)t
+Dsrt). In offering lists of O.K. tombs it often appears as just wAst(j)t "that of Thebes". In some offering
+lists, cells with Dsrt and Dsrt wAst(j)t are combined, having the common element Dsrt (see Junker,
+Giza X, Abb. 53; Hassan, Giza VI, Part II, pl. 62:67, 78:84), just like in the case of combined cells
+with different sorts of wine having the common element jrp "wine" (see §92b T; Junker, Giza VIII,
+
+47
+Abb. 56). That the {Seth animal-headed staff}-S40 or {Seth animal-headed staff with feather on
+standard}-S40a must be read here as wAs, not jAt, follows from Hassan, Giza VI, Part II, plates 13:14
+(spelled {the staff}-s) and 86:91-92 (spelled {the staff on standard}-s-t-t), i. e. no doubt the spelling for
+(wA)st(j)t "that of Thebes". Moreover, the sign S40/S40a is very often spelled without one or more
+{crescent moon}-N11 signs on top of it, i. e. exactly like later spellings of wAst "Thebes" (the sign
+occurs with four {crescent moon}-N11 signs in §131d as the probable ideogram for jAt). It is also
+possible that in §131d Teti’s editor just changed Unis’s original wAst(jt) "Theban goddess" (occurs on
+Palermo Stone, Djer’s sixth year (PS r.II.8); Hassan, Giza V, p. 276: Hm nTr wAst(jt) "priest of the
+Theban goddess"; also a male divinity labeled with the sign S40 (wAst(j) "Theban one") occurs on one
+of the so-called "triad of Mykerinos" (JE 40678), Urk.I:159:6) to jAt-goddess, this means that the sign
+S40/S40a never had the phonetic value jAt, and actually still has the phonetic value wAs. There
+probably is a word-play in the spell between jw.sn (WT)/jw.n.sn (N) "they have come" and wAst(j)t (i.

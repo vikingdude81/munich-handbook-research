@@ -1,0 +1,1984 @@
+Univ. of
+Toronto
+
+J.
+-J,
+Babylonian-Assyrian
+Birth-Omens
+And
+Their Cultural Significance
+by
+Morris Jastrow,
+jr.
+Ph. D. (Leipzig) Professor
+of Semitic Languages in the University
+of Pennsylvania (Philadelphia)
+Giefien
+1914
+Verlag von Alfred Topelmann (vormals
+J. Ricker)
+
+/*}
+Religionsgeschichtliche
+Versuche und Vorarbeiten
+begriindet von
+Albrecht Dieterich und Richard Wunsch
+herausgegeben von
+Richard Wunsch
+und Ludwig Deubner
+in MUnster
+i. W.
+in Konigsberg
+i. Pr.
+XIV. Band.
+5. Heft
+
+To
+SIR WILLIAM OSLER
+Regius Professor of Medicine
+Oxford
+University
+This volume
+is dedicated
+as a mark of esteem and
+admiration.
+„Most
+fine, most honcmr'd, most renown'd."
+(King Henry V, 2d Part, Act IV, 5, 164.)
+
+A}
+
+Analysis
+Analysis
+Divination in Babylonia and Assyria
+1
+Three chief methods: bepatoscopy, astrology and birth-omens
+.
+1—6
+Spread
+of
+Hepatoscopy
+and
+Astrology
+to
+Hittites,
+Etruscans,
+Greeks and Romans and to China
+3—4
+The Transition motif in religious
+rites and popular customs
+.
+5—6
+Omen
+collections in Ashurbanapal's Library
+6—7
+Birth-omen reports
+9—12
+Animal Birth-omens
+12—28
+Double foetus
+13—16
+Principles
+of interpretation
+14—15
+Multiple births among ewes
+17—18
+Malformation
+of ears
+19—22
+Excess number
+of ears
+20—22
+Ewe giving birth
+to young resembling lion
+23—26
+Ewe giving birth
+to young resembling other animals ....
+27—28
+Human Birth-omens
+28—41
+Twins
+29—30
+Monstrosities
+30
+Multiple births
+31
+Malformation
+of ears
+32—33
+Malformation
+of mouth,
+nostrils, jaws, arms,
+lips, hands
+.
+.
+.
+33—34
+Malformation
+of anus, genital member, thigh,
+feet
+35—36
+Principles
+of interpretation
+36
+Misshapen embryos
+37
+Weaklings,
+cripples, deaf-mutes,
+still-births, dwarfs
+38—39
+Talking infants, with bearded
+lips and teeth
+39
+Infants with animal features
+32.
+33. 35—36. 40—41
+Study
+of Human Physiognomy among Greeks and Eomans
+.
+.
+43—44
+Resemblances between human and animal features
+45
+Porta's and Lavater's Views
+45—48
+Study
+of Human Physiognomy based on birth-omens
+49—50
+Birth-omens in Julius Obsequens
+50—52
+Birth -omens
+in Valerius Maximus
+52
+Cicero on birth-omens
+53—54
+
+VI
+Analysis
+Macrobius on birth-omens
+55
+Birth-omens among Greeks and in Asia Minor
+56—58
+Birth-omens
+as basis
+of belief in fabulous and hybrid beings
+.
+.
+59—62
+Dragons,
+Hippocentaurs
+and
+hybrid
+creatures
+in
+BabylonianAssyrian Literature and Art
+63-64
+Fabulous creatures
+of Greek Mythology and Birth-omens
+.
+.
+.
+64—66
+Egyptian sphinxes
+67—70
+Totemism
+70
+Metamorphosis
+of human beings into animals and
+vice versa
+.
+.
+70—72
+Talking animals
+in fairy tales
+71
+History
+of monsters and persistency
+of belief
+in monsters
+.
+.
+.
+72—78
+Lycosthenes' work
+73—75
+Summary.
+:
+78—80
+Index
+81—86
+
+Morris Jastrow, Babylonian- Assyrian Birth-Omens
+"
+they do observe
+unfatherd heirs and loathly births of natures"
+(King Henry V. 2nd part
+Act IV,
+4, 121—122).
+As
+a
+result
+of
+researches
+in
+the
+field
+of BabylonianAssyrian
+divination, now extending over
+a number of years \
+it may, be
+definitely said
+that apart from the large
+class of
+miscellaneous omens 2
+,
+the Babylonians
+and Assyrians
+developed
+chiefly three methods
+of
+divination
+into
+more
+or
+less
+elaborate systems — divination through the inspection of the
+liver of a
+sacrificial animal or Hepatoscopy,
+through the observation
+of
+the
+movements
+in
+the
+heavens
+or
+Astrology,
+(chiefly directed
+to the moon and the planets but
+also
+to the
+1 Embodied in
+detail
+in
+the
+author's Religion Babyloniens unci Assyriens II 203—969
+to be
+referred
+to hereafter
+as Jastrow Religion.
+See
+also various
+special
+articles by the writer
+such
+as „Signs
+and Names
+for
+the Liver in Babylonian"
+(Zeitschr.
+f. Assyr. XX 105—129).
+„The Liver in
+Antiquity and the Beginnings of Anatomy"
+(Trans, of the College
+of Physicians
+of
+Phila. XXIX 117—138).
+„The
+Liver in
+Babylonian Divination"
+(Proc. of the Numismatic an Antiquarian Soc. of Phila. XXV 23—30).
+„The
+Liver
+as the Seat
+of the Soul" (Studies in the History of Religions presented
+to C. H. Toy 143— 1 69). „Sign and Name for Planet in Babylonian" (Proc. Amer.
+Philos. Society XLVII 141—156).
+„Hepatoscopy and Astrology in Babylonia
+and Assyria"
+(ib. XLVII 646—676).
+„Sun and Saturn" (Revue d'Assyriologie
+VII No.
+2), and the general survey
+in
+the
+author's
+Aspects
+of Religious
+Belief and Practice in Babylonia and Assyria (N. Y. 1911), Chapter III and IV.
+2 The held
+of divination was
+gradually extended
+so that practically
+every unusual occurrence or every occurrence that even
+aroused attention
+was regarded as an omen.
+Among these miscellaneous
+classes
+of omens we
+may distinguish as distinct subdivisions (a) dreams,
+(b) phenomena connected
+with
+rivers and canals,
+(c) movements
+of animals — chiefly
+serpents,
+dogs,
+sheep and certain
+birds
+like
+ravens
+and falcons;
+also mice and
+rats, and
+various insects
+as roaches and locusts,
+(d) phenomena in houses and temples,
+including probably
+(as in Leviticus, Chap.
+14) suspicious looking marks or
+spots,
+(e) peculiarities
+and
+diseases
+of any
+portion
+of
+the human
+frame.
+No doubt the
+list can be
+still further extended.
+Religionsgeschichtliche Versuehe
+u. Vorarbeiten XIV,
+5.
+1
+
+2
+Morris Jastrow
+sun and the prominent
+stars and
+constellations), and through
+the observance
+of
+signs noted
+at
+birth
+in
+infants
+and
+the
+young
+of animals
+or Birth-omens.
+Elsewhere
+1
+,
+I have suggested a general
+division
+of
+the various forms
+of
+divination
+methods into two classes, voluntary and involuntary divination,
+meaning by the former the case
+in which a sign
+is
+deliberately selected and then observed, by the
+latter where the sign
+is not
+of your own
+choice but forced upon your attention and
+calling
+for
+an
+interpretation.
+Hepatoscopy
+falls
+within
+the
+former category
+2
+, Astrology and Birth-omens in the
+latter.
+Each one
+of these three methods
+rests on an underlying
+well-defined theory
+and
+is not the outcome
+of mere
+caprice
+or pure fancy,
+though
+of
+course
+these two
+factors
+are
+also
+prominent.
+In
+the
+case
+of Hepatoscopy, we
+find
+the
+underlying theory to have been the identification
+of the
+csouF or
+vital centre of the sacrificial victim — always a sheep — with
+the
+deity
+to wiiom the animal is offered, — at least
+to the
+extent that
+the two
+souls
+are
+attuned
+to
+one
+another.
+The
+liver
+being,
+according
+to
+the
+view
+prevalent among Babylonians and Assyrians
+as
+among
+other
+peoples
+of
+antiquity
+at
+a certain stage
+of culture,
+the seat of the
+soul 3
+,
+the
+inspection
+of
+the
+liver
+followed
+as
+the
+natural
+and obvious
+means
+of ascertaining the mind,
+i.
+e., the will and disposition
+of the deity
+to whom an inquiry has been put
+or whom one
+desired to consult. The signs on the liver — the size and shape
+of the lobes, and of the gall bladder, the character or peculiarities
+of
+the
+two
+appendices
+to the upper lobe,
+(the processus
+pyramidalis
+and
+the
+processus
+papillaris),
+and
+the
+various
+markings on the
+liver
+were noted, and on the basis
+of
+the
+two
+main
+principles
+conditioning
+all
+forms
+of
+divi1 See
+Hepatoscopy
+and
+Astrology
+in
+Babylonia
+and
+Assyria
+(Proc.
+Amer. Philos. Society XLVII 646 sq.
+2 The Greek and Roman method
+of sending out birds and noting their
+flight
+is another example
+of
+voluntary
+divination, and
+so
+is
+the
+ancient
+Arabic method of selecting arrows, writing certain words on them, throwing
+them before the image
+or symbol
+of a deity and as they
+fell,
+reading the
+oracle
+sent by the deity.
+3 See the
+details in the
+writer's The Liver
+as the Seat
+of the
+Soul'.
+(Toy Anniversary volume 143—168.)
+
+Babylonian-Assyrian Birth-Omens
+3
+nation
+(1) association
+of ideas and (2) noting the events that
+followed
+upon
+certain
+signs,
+a
+decision
+was
+reached
+as
+to
+whether the
+deity was favorably or unfavorably disposed
+or,
+what amounted to the same thing, whether the answer to the
+inquiry was favorable
+or unfavorable.
+In the case of Astrology, — a relatively more advanced
+method
+of divination, — the underlying theory rested on the
+supposed
+complete
+correspondence
+between
+movements
+and
+phenomena
+in the heavens
+and
+occurrences
+on
+earth.
+The
+gods, being identified with
+the heavenly bodies, — with
+the _
+moon,
+sun,
+planets,
+and
+fixed
+stars — or
+as we might
+also
+put
+it,
+the
+heavenly
+bodies
+being
+personified
+as
+gods,
+the
+movements in the heavens were interpreted
+as
+representing
+the
+activity
+of
+the
+gods
+preparing
+the
+events
+on
+earth.
+Therefore, he who could read the signs in the heavens aright
+would
+know
+what was
+to
+happen
+here
+below.
+Astrology
+corresponded
+in
+a measure
+to
+the
+modern Weather Bureau
+in that it enabled one to ascertain a little in advance what was
+certain to happen,
+sufficiently so in order to be prepared for it.
+Compared with Hepatoscopy, Astrology not only represents a
+form of divination that might be designated as semi-scientific —
+only relatively scientific of course — but also occupies a higher
+plane,
+because
+there was
+no attempt
+involved
+to
+induce a
+deity unfavorably disposed
+to change
+his
+mind.
+The
+signs
+were there
+; they pointed unmistakably to certain occurrences on
+earth that were certain
+to occur and
+it was the task of the
+diviner — the baru
+or 'inspector'
+as the Babylonian
+called
+him — to indicate whether what the gods were preparing would
+be beneficial
+or harmful.
+Both
+Hepatoscopy
+and
+Astrology
+as developed by the Babylonians and Assyrians baru -priests
+exerted
+a wide influence, the former spreading to the Hittites
+and Etruscans and through
+the one or the other medium
+to
+Greeks
+and Bomans \
+while
+Babylonian-Assyrian Astrology
+passing
+to the Greeks
+became
+the
+basis
+for Graeco-Roman
+and mediaeval Astrology, profoundly influencing the religious
+1 See Jastrow, Religion II 120 sq. and „The Liver as the Seat
+of the
+Soul" (Toy Anniversary volume) 158—165.
+1*
+
+4
+Morris Jastrow
+thought of Europe
+1 and
+in a modified form surviving even
+to
+our own days.
+The chain
+of evidence has recently been completed
+2
+to prove the
+direct
+transfer of the
+cuneiform
+astrological literature
+to Greek astrologers and astronomers.
+The
+possibility
+also
+of a spread
+or
+at least
+of a
+secondary
+influence
+of both systems
+to
+the
+distant
+East
+is
+also
+to
+be
+considered.
+In
+fact considerable
+evidence
+is
+now available
+to
+show
+that
+Babylonian
+- Assyrian
+astrological notions
+and
+in part
+also astronomical data spread
+to China 3
+.
+II
+The observation of signs observed in young animals and
+in infants at the time of birth constitutes
+a third division of
+Babylonian-Assyrian divination,
+quite equal
+in prominence to
+Hepatoscopy and Astrology. Here too we are justified in seeking
+for some rational
+or quasi-rational
+basis
+for
+the
+importance
+attached by Babylonians and Assyrians, and as we
+shall see
+by
+other
+nations
+as
+well,
+to
+anything
+of a
+noteworthy
+or
+unusual
+character
+observed
+at the
+moment that a new
+life
+was
+ushered
+into
+the
+world.
+The
+mystery of
+life made
+as
+deep
+an impression
+upon
+primitive
+man and
+upon
+ancient
+peoples
+as
+it
+does
+on the
+modern
+scientist, who endeavors
+with
+his
+better
+equipment
+and
+enriched
+by
+the
+large
+experience
+of past
+ages,
+to penetrate to the very source
+of
+life.
+A new life issuing from another life — what could be
+stranger,
+1 See
+Cumont,
+Fatalisme
+Astrale
+et
+Religions
+Antiques
+(Revue
+d'Histoire
+et de Litterature Religieuse 1912);
+also the same author's Astrology and Religion among
+the Greeks and Romans
+(N. Y.
+1912).
+2 Bezold
+and
+Boll,
+Reflexe
+astrologiseher
+Keilinschriften
+bei
+griechwchen Schriftstellern (Heidelberg Akad. d. Wiss.
+1911);
+see
+also Cumont,
+Babylon und
+die
+griechische
+Astronomie
+(Neue
+Jahrbucher
+f.
+das
+klass.
+Altertum XXVIII Abt.
+1. 1—10).
+3 See Jastrow, Religion II 745 sq. and Boll, Der ostasiatische Tierzyklus
+im Hellenismus (Leiden 1912).
+I hope to treat this phase of the subject more
+fully in a
+special
+article.
+See
+for the present
+the summary
+of my
+paper
+on this subject in the Actes du IV &-e Congres International d'Histoire des
+Religions
+(Leiden
+1913)
+106—111
+and
+Records
+of
+the Past (Washington)
+Vol. XII (1913) 12-16.
+
+Babylonian-Assyrian Birth-Omens
+5
+what more puzzling, what more awe-inspiring?
+If we
+bear
+in
+mind
+that
+there
+is
+sufficient
+evidence
+to warrant us in
+saying
+that
+among peoples
+in
+a
+primitive
+state
+of culture,
+the new
+life was
+not
+associated with" the
+sexual
+act l
+,
+the
+mystery must have appeared
+still more profound.
+The
+child
+or the young animal was supposed
+to be due
+to
+the
+action
+of some
+spirit
+or demon
+that
+had
+found
+its
+way
+into
+the
+mother,
+just
+as
+death
+was
+supposed
+to
+be
+due
+to
+some
+malicious demon that had driven the
+spirit
+of life out of the
+body.
+The many
+birth
+customs
+found
+in
+all
+parts
+of
+the
+world 2
+, are
+associated with
+this impression
+of mystery made
+by
+the
+new
+life;
+they
+centre
+largely
+round
+the
+idea
+of
+protection
+to the mother and her offspring at a critical period.
+The rejoicing is tempered by the fear of the demons who were
+supposed
+to
+be lurking near
+to do mischief to the new
+life
+and
+to the
+one
+who
+brought
+it
+forth.
+The thought
+is
+a
+natural
+one,
+for
+the young
+life hangs in the balance,
+while
+that of the mother appears
+to be positively threatened.
+All
+bodily
+suffering and
+all physical ailments being
+ascribed
+to
+the
+influence
+of bad demons,
+or
+to
+the
+equally malevolent
+influence of persons who could by their
+control
+of the demons
+or
+in
+some
+other way
+throw
+a
+spell
+over
+the
+individual,
+Birth, Puberty, Marriage
+and Death
+as
+the
+four periods in
+life which may
+be regarded
+as
+critical and transitional are
+marked by popular
+customs
+and
+religious
+rites
+that
+follow
+mankind
+from
+primitive
+times
+down
+to
+our own
+days.
+A
+modern
+scholar, Van
+Gennep,
+who
+has
+recently
+gathered
+these
+customs
+in a volume
+and interpreted
+them,
+calls
+his
+work 'Kites
+de Passage',
+i.
+e.,
+customs
+associated
+with
+the
+four periods
+of transition from
+one
+stage
+to the
+other
+and
+which
+survive
+in advanced forms
+of faith
+as Baptism, Confirmation, Marriage ceremonies and Funeral rites, just
+as the
+chief festivals
+in
+all
+religions are
+the
+cRites de Passage
+5
+of
+nature — associated with the transition periods
+of the
+year,
+1 See
+Hartland,
+Primitive
+Paternity — especially
+the snmmary
+in
+Chap. VII, and also Frazer, Totem-ism and Exogamy I 93seq.; 191 seq.
+etc.
+2 See PloB-Bartels, Das Weib (2d
+e d.) Chap. XXXII; Das Kind Chap.
+Ill, VIII, IX and Van Gennep, Rites de Passage Chap. V.
+
+6
+Morris Jastrow
+with the vernal equinox, the summer
+solstice,
+the
+autumnal
+equinox and the winter
+solstice
+or, expressed
+in
+agricultural
+terms, with
+sowing
+time,
+with blossoming or
+early
+harvest
+time, with the later harvest time and with the period of decay.
+The
+significance attached to birth omens
+is thus merely
+a phase
+of the ceremonies attendant upon the passage of the
+new-born
+from
+its
+mysterious
+hiding
+place
+to
+the
+light.
+The
+analogy
+between
+the
+new
+life
+and
+the
+processes
+of
+nature
+is complete,
+for the
+plant,
+too,
+after being hidden
+in
+the earth, which is pictured
+in the religions of antiquity
+as
+a
+c
+great mother', comes
+to the
+surface.
+Ill
+The
+field
+of
+observation
+in
+the
+case
+of the new-born
+among mankind and in the animal world is large — very large,
+and yet definitely bounded.
+Normal conditions were naturally
+without special significance, but any deviation from the normal
+was regarded as a sign calling for interpretation.
+Such
+deviations covered a wide and almost boundless range from peculiar
+formations
+of any part of the body or of the features, to actual
+malformations
+and
+monstrosities.
+The
+general
+underlying
+principle
+was,
+the
+greater
+the abnormality,
+the greater the
+significance attached
+to
+it; and as
+in the case of the
+movements
+in
+the heaven,
+the unusual was
+regarded
+as
+an
+indication
+of some imminent unusual occurrence.
+We
+are
+fortunate
+in
+possessing
+among
+the
+tablets
+of
+Ashurbanapal's
+library, unearthed by Layard just
+fifty years ago and which
+is
+still our main source for the Babylonian-Assyrian religious
+literature, many hundreds of texts
+furnishing
+lists
+of
+birth
+omens
+and
+their
+interpretation
+*,
+just
+as
+we
+have
+many
+hundreds
+of
+texts
+dealing with liver divination 2
+,
+and
+even
+1 Part XXVII and Part XXVIII PI. 1—42
+of Cuneiform Texts from
+Babylonian
+Tablets
+etc. in
+the British Museum,
+are
+taken up with texts
+of
+this
+character.
+2 Parts
+XX, XXX
+and XXXI
+and
+PI. 1—42
+of
+Part XXVIII
+represent the bulk of this section of the Library so far
+as recovered by Layard,
+Rassam
+and George Smith.
+Previous to
+the British Museum
+publication,
+Alfred Boissier had published three volumes
+of divination texts
+of all kinds
+under the title of Documents Assyriens relatifs aux Presages (Paris 1894—99)
+
+Babylonian-Assyrian Birth-Omens
+7
+more
+dealing
+with
+Astrology
+1
+,
+apart
+from
+the many
+hundreds
+of
+texts
+dealing
+with
+miscellaneous
+omens
+of which
+up
+to
+the
+present
+only
+a
+small
+proportion
+has
+been
+published 2
+.
+From
+this
+division
+of the great
+collection gathered
+by Ashurbanapal's
+scribes
+chiefly
+from
+the
+temple archives
+of Babylonia,
+it appears that the bar u- priests made extensive
+collections
+of
+all kinds
+of omens which served
+the purpose
+of
+official
+hand-books
+to
+be
+consulted
+in
+case
+of
+questions put to the
+priests as to the significance
+of any particular
+phenomenon,
+and
+which
+w
+Tere
+also
+used
+as
+textbooks
+for
+the
+training
+of
+the
+aspirants
+to the priesthood.
+Confining ourselves
+to the birth-omens s
+, the first question
+that
+arises is wliether the signs entered
+are based on
+actual
+occurrences
+or
+are
+fanciful.
+In the case of many
+entries,
+as
+will presently be made evident, the anomalies noted rest upon
+actual
+observation,
+but
+with
+the
+desire
+of
+the
+priests
+to
+embrace
+in their collections all possible contingencies
+so
+as
+to
+be
+prepared for any question that might
+at
+any time
+arise,
+a large number of signs were entered which the diviners thought
+might occur.
+In other words,
+in order to be on the
+safe
+side
+the
+diviners
+allowed
+their
+fancy
+free
+rein
+and
+registered
+many things that we can positively say never did occur and
+never could occur 4
+.
+With the help
+of hand-books on human
+and
+in
+his Choix de
+Textes relatifs a
+la Divination Assyro-Babylonienne
+(Paris 1905—06).
+1 The
+chief
+publications
+of
+astrological
+texts
+is
+by
+Ch. Virolleaud
+under the title L'Astrologie Chaldeenne
+(Paris 1903— 13), consisting up to
+the present
+of
+four parts and two supplements containing
+texts, and four
+parts
+with two supplements containing the
+transliteration
+of these
+texts.
+Besides
+this publication,
+M. Virolleaud has published numerous
+fragments
+of texts in the periodical Babyloniaca,
+founded and
+edited by him.
+Cun.
+Texts, Part XXX
+PI. 43—50
+also
+contains astrological texts
+; Part XXXIII
+PI
+1—12 are
+aids to astrology.
+2 Chiefly by
+Boissier in the two works mentioned in note 2 on p.
+6.
+3 Copious specimens of liver divinations texts in German translation with
+comments will be found in the
+author's Religion Babyloniens und Assyriens
+II 227-412; of Astrological Texts ib II 458—740; Oil and Water, Divination
+ib II 749-775;
+of Animal
+omens
+ib
+II 775—826;
+of
+Birth omens ib II
+837—941 and
+a summary view
+of the miscellaneous omens ib
+II 946—969.
+4 The same
+is the case
+with
+the
+collections
+of liver signs
+and
+to a
+large extent
+also
+in the case
+of the
+astrological
+collections.
+
+8
+Morris Jastrow
+and animal pathology, we
+can without
+difficulty distinguish
+between two
+classes.
+Thus,
+twins being
+regarded as
+significant
+and
+triplets
+even
+more
+so,
+the
+priests
+did not stop
+at
+this point
+but
+provided
+for cases when
+four,
+five
+six up
+to eight and more
+infants were
+born
+at one time
+1
+.
+Again
+in
+regard
+to
+animals,
+inasmuch
+as
+bitches
+and
+sows may
+throw
+a
+litter
+of
+ten
+and
+even
+more,
+the
+priests
+in
+their
+collections
+carried
+the
+number
+up
+to
+thirty
+2
+which
+is,
+of
+course, out of the
+question.
+For sheep and goats the number
+was extended up
+to
+ten,
+though
+it probably never happened
+that more than triplets were ever born to an ewe or to a mothergoat.
+Even twins are
+rare, and I am told that there
+are few
+authenticated cases of triplets.
+Malformations
+among infants
+and the young
+of animals
+were
+of course
+plentiful, but here too the anomalies and monstrosities
+are not as numerous
+and varied
+as
+were
+entered
+in the
+handbooks
+of
+the Babylonian
+and Assyrian
+diviners.
+The factor of fancy to which I have
+referred
+enters even more
+largely
+in the
+entries
+of many actual malformations, through
+the assumption of a more or less fanciful resemblance of some
+feature
+or of some
+part
+of an infant
+or of the young of an
+animal with the features
+or parts
+of some animal.
+An
+excess number of limbs — three
+legs or four arms
+in
+the
+case
+of an
+infant,
+or
+five
+or six legs
+in the case of a
+lamb, puppy, pig or foal, or two heads — is not uncommon.
+On
+this
+basis the priests entered cases
+of excess
+legs
+and arms
+and heads up
+to nine and more 3
+;
+and similarly
+in regard to
+ears and
+eyes.
+1 Cun. Texts XXVII
+PI. 24 Cases
+of more
+than
+three
+births
+at one
+time are extremely rare.
+A case
+of quintuplets
+in Groningen in the year
+1897
+is vouched for by Prof. Doderlein of Munich and one was reported in
+the newspapers recently as occurring in the United States. A case of sextuplets
+is noted by Vasalli in the
+Boll. Med.
+della Svizzera
+Italiana,
+1894, Nos. 3
+and 4.
+This seems to be the highest mark, though Pliny,
+Hist. Nat. VII
+3,
+on the authority
+of Trogus records that a woman
+in Egypt
+gave birth to
+seven infants at one time; Lycosthenes, Prodigiorum
+ac. Ostentorum Chronicon (Basel
+1557)
+p. 284 reports
+the same number
+born
+in
+the days
+of
+Algemundus, King of the Lombards.
+2 Cun. Texts XXVII PL
+3.
+8 E. g. Cun. Texts XXVII
+PI. 45 (K. 12050); XXVIII PI.
+42,
+20.
+
+Babylonian-Assyrian Birth-Omens
+9
+That, however,
+despite the largely
+fanciful
+character
+of
+the
+entries
+in
+the
+omen
+texts,
+these
+collections
+not
+onlyrested
+on
+a
+firm
+basis
+of actual
+observation, but served a
+practical purpose
+is shown by the examples that we have of
+official
+reports made
+by
+the
+baru-priests
+of human
+and
+animal anomalies, with
+the interpretations attached that represent quotations from the collections *.
+A report of this kind
+in
+reference
+to
+an
+animal
+monstrosity
+reads
+in
+part
+as
+follows 2
+:
+cIf
+it
+is a double
+foetus, but with one head, a double
+spine, two
+tails and one body, the land that is now ruled
+by two
+will be ruled by one person.
+If
+it
+is a double foetus with one head, the land will
+be safe/
+We
+have
+here
+two
+quotations
+from
+a
+text
+furnishing
+all kinds
+of peculiarities connected with a double foetus and
+we
+are
+fortunate
+in having
+the
+text
+from
+which
+the
+quotations
+are made 3
+.
+Evidently
+an ewe has given
+birth
+to
+a
+monstrosity such as is here described, the case has been reported
+to the
+diviners who furnish the king
+* with
+this
+report,
+indicating that since the monstrosity has only one head, what
+might have been
+an
+unfavorable omen
+is
+converted
+into a
+favorable
+one.
+1 In the same way we have hundreds
+of
+official reports
+of occurences
+and
+observed phenomena
+in
+the
+heavens
+with
+the
+interpretations taken
+from the
+astrological
+texts;
+and we
+also have a large number
+of
+official
+reports
+of
+the
+same
+character
+dealing
+with
+the
+results
+of the inspection
+of the
+liver
+of a
+sacrificial animal,
+killed
+and
+inspected
+at
+a given time
+for the purpose
+of obtaining an
+answer to a question put.
+These
+reports
+are made
+in
+all
+cases
+to the
+rulers,
+which
+thus stamps them as
+official.
+See copious
+examples
+in Jastrow, Religion
+II 227—271;
+275—319
+(Liver
+texts); 458—542; 578-584; 613—616; 639-652; 656—673; 688—692 (Astrological Texts).
+2 Cun. Texts XXVII
+PI.
+28.
+3 The
+first omen
+is
+taken
+from Cun. Texts XXVII
+PI.
+26,
+11
+;
+the
+second from
+ib.
+line
+10.
+* The omens
+were
+always
+supposed
+to
+bear
+on
+events
+of a public
+import; hence the reports may always be assumed to be addressed
+to the
+reigning king, even when
+this
+is not expressly
+stated.
+
+10
+Morris Jastrow
+Another report
+x regarding a monstrosity born
+of a sow
+reads
+:
+'If a foetus has
+eight
+feet
+and two
+tails,
+the
+ruler
+will
+acquire
+universal
+sway.'
+A
+butcher, Uddanu
+by
+name, reported as follows: A sow gave birth (to a young)
+having eight feet
+and
+two
+tails.
+I have
+preserved
+it
+in
+salt and kept it
+in the
+house.
+From Nergal-etir V
+Here we have the name
+of the baru- priest who made
+the report
+expressly
+indicated.
+The
+report
+begins
+with
+a
+quotation from
+the
+collections,
+indicating
+the
+interpretation
+to be put upon the occurrence,
+after which the report
+of the
+actual event that took place
+is given
+in
+detail; and Nergaletir
+is careful to add that he has preserved the specimen as
+a proof of
+its occurrence,
+precisely
+as
+to-day
+such a
+monstrosity would be bottled and kept
+in a pathological museum.
+In
+another
+report
+3
+containing
+various
+quotations
+from the
+collections
+of
+birth-omens
+and
+closing
+with
+one
+in
+regard
+to
+a
+mare
+that
+had
+given
+birth
+to
+two
+colts,
+one
+male
+and one female,
+with
+smooth
+hair
+over
+the
+ears,
+over
+the
+feet,
+mouth
+and
+hoofs,
+which
+is
+interpreted
+as
+a
+favorable sign
+4
+,
+the
+one who makes
+the
+report
+adds 'Whether
+this
+is
+so,
+I shall ascertain.
+It will be investigated according
+to
+instructions'.
+Evidently, the facts had not been definitely
+ascertained and the diviner, while furnishing the interpretations
+for various
+possibilities, promises
+to inform himself definitely
+and report again
+as
+to the exact nature
+of the unusual
+occurrence.
+Frequently these omen reports
+contain interesting
+and important
+allusions
+to

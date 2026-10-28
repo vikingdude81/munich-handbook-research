@@ -1,0 +1,624 @@
+ot dcalt
+with in this volume.
+
+Tr.:
+Vlct0Iy spell:
+Spell to be
+S p D h
+IAO SABA~TH
+ADONAI
+Refercnccs and Textual Signs
+An asterisk introduces an independent spell or a spell that con-
+tains most of the constituent parts necessary to effect the whole
+charm, though organic connections with adjacent spells can be
+recognized (e.g., spells entitled "Anothw . . . ," or the like).
+The asterisk directs the reader to the contributor, whose name
+is given at the end of the spell. Some introductory comments
+may be found here as well. Bibliographical data, if appropriate,
+may also be listed.
+This abbreviation stands for "translator" or "transcriber" (if
+the text contains no recognizable words that can be translated).
+Phrases set in roman boldface type refer to general titles of
+charms which usually stand at the beginning of the spell and
+which are often followed by one or more subtitles. Many spells
+do not possess a title, either because of a scribal omission or
+because it has been lost in a lacuna in the text.
+Phrases set in italic boldface type refer to various subtitles and a
+number of types of rubrics (subsumed under the main title)
+that function in a titular sense to introduce a component fea-
+ture of a spell. These may introduce ingredients, additional in-
+structions, invocations, figures, magical names and characters,
+and so on, which are mentioned in the instructions in the text.
+In a long, multifunctional spell (cf. PGM IV. 2145-2240 and
+PGM XIII. 1-343), general titles are subordinate to the larger
+title, which describes an often elaborate ritual. In description,
+these general titles are identical to the main titles of most spells
+but are set as subtitles since they usually depend on a prior set
+of conditions to guarantee their efficacy.
+Small capital letters indicate magical names (voces mqicae)
+which are usually untranslatable and often meaningless to the
+reader. In some instances, small capital letters preserve recog-
+nizable Greek, Egyptian, or Semitic words that merit special at-
+tention. Portions of texts whose fragmentary nature precludes
+the possibility of proper translation, but which may in fact have
+been readable in the original, are also set in small capitals.
+A diagonal slash indicates every fifth line of translated text, cor-
+responding to the number given in the left-hand margin. Usu-
+ally these are numbered consecutively until a new papyrus num-
+ber is introduced.
+A bracketed number alongside the regular number refers to the
+line number of the original edition (in a GreekIDemotic text).
+Occasionally at the beginning the column number and line arc
+also cited (e.g., [Col. III,5].
+A numberin parentheses refers to the original line of Preisen-
+danz in a GreekIDcmotic spell. The number corresponds to the
+PGM reference given within the bracketed number at the head
+of the spell.
+
+Rcferenccs and Tcrtual Signs
+rxxiii
+. . .
+An ellipsis in the body of the text refers to a lost portion rc-
+gardless of the size of the lacuna. Some punctuation (e:g., a
+comma or a period) may also be added at the end of the ellipsis.
+[spell]
+Brackets cnclosina a
+\$,or& indicate that tlic words are not prc-
+served in the original tcxt. These include (1) suggested rcs-
+torations of lacuiiac; (2) editorial cspansions of thc tcst to
+elucidate the sense of the original language; and (3) phrases
+traditionally scr of by pointed brackets ( ), namely. nlodern
+corrections to scr;bal omissions or errors. Scholars interested
+in determining which use thc bracketed tcxt rcfcrs to are rcc-
+ominended to consult the texts of the original editions. As a
+general rule, bracketed texts will not divide a word, but rvill
+surround the whole word if its reading is fairly uncertain.
+(add the usual)
+Parentheses enclosing words simply indicate material in thc
+original texts best understood as parenthetical comments of the
+ancient authors and redactors.
+"Come to
+Quotation marks enclosing words indicate material that is
+me. . ."
+spoken (or intended to be spoken) or written (or intended to
+be written). Material not enclosed in quotation marks usuall)~
+refers to parts of a formulary that contain instructions and di-
+rections apart from the matcrial to be written or spokcn. Such
+instructions are peculiar to the papyri that have prcscned mag-
+ical formularies, whereas the actual amulets and phylacteries
+found on papyrus usually contain simple invocations that have
+been transcribed as a result of following the instructions in
+such magical handbooks.
+Incantations originally writtcn in Greek meter are sct as verse,
+that is, they are indented en bloc, with the first letter of cach line
+capitalized. In cases where the meter falters within such a hym-
+nic portion, the original margin is restored to indicatc prose.
+In the magical formularies, this abbreviation stands for a name
+or names to be inserted by the rcadcr, the names of the persons
+against or for whom the magic is to be carried out. In the case
+of "(the) NN matter," the reader understands that spccilic re-
+quests are to be named at this point.
+[R.K.K.]
+At thc end of each foomote, the bracketed initials refer to the
+contributing scholar responsible for the matcrial immediately
+preceding. Notes that carry no initials represent the joint ef-
+forts of the contributors and scholars.
+
+Abbreviations of Periodicals,
+Series Titles, and
+General Reference Works
+AJA
+AKA
+APAW
+APAWPH
+ANET
+ANRW
+ARW
+BASP
+Bauer
+BCH
+BIFAO
+BoJ
+Bonnet, R&G
+BYZ
+CAH
+CE8
+&mi., Coptic
+E ~ o l o ~ i c d
+Dictionary
+C m , Coptic
+Dictwaary
+DMP
+EPRO
+Erman and
+Grapow,
+Worte&uch
+GGA
+GM
+HR
+HSCP
+NTR
+JAC
+JBL
+Amwican Journal ofiirchaeolo8y
+A~beitept zur. Ki~che~zg~schichle
+Abhandlungen dm (K.) preussischen Ahadentie dev
+Wissenschafm
+Philosophisch-historische Khse
+J. B. Pritchard, Ancient Near Eastern Texts Related to the Old
+Testament (Princeton: Princeton University Press, 1969)
+AuJFtieg undNiedeygan8 dev romischen Welt
+Archiv fir Religionmissemchaf
+Bulletin ofthe American Society of Papymlogists
+W. Bauer, W. F. Arndt, and F. Wilbur Gingrich, A Greek-
+English Lexicon ofthe New Testament and Other Early C h r i ~
+tian Literature. 2d ed. (Chicago: University of Chicago
+Press, 1979)
+Bulletin de coruesponduuce hellinique
+Bulletin de l'lnstitut Fran~aG dXrchdolo8ie Orientale, Le Caire
+Bonner Jahrbiicher
+Hans Bonnet, Redlaikon der a~yptischen ReligMnsge~chichte
+(Berlin: de Gmyter, 1952)
+Byzantinische Zeitschnift
+Carnbrd~e Ancient History
+Chronique d&ypte
+J. Cerni., CopticEqmlogicdDictiona~y (Cambridge: Cam-
+bridge University, 1976)
+Clmicnl Re&&w
+W. E. Crum, A Coptic Dictwnary (Oxford: Clarendon, 1962)
+Demotic Mqicd Pa+
+(sce Griffith and Thompson)
+Etudes piliminaires aux religions mientales dans l'empire rumin
+A. Erma11 and H. Grapour, W&-terbuch der ae@tischen Sprache
+im Anftyage der deutschen Akademien 5 vols. (Berlin:
+Akadcmie-lTerlag, 1971 repr.)
+Gottingischegelehee Anzeigen
+Gottinge?, Miszellen
+Hirtory ?f Religwns
+Harva7.d Studies in Clmsical Philology
+Harvnrd Theological Review
+Jahrbuch fur Antike und Chvistentum
+Journal of Biblical Litmture
+
+JEA
+JHS
+INES
+Pa
+KP
+Kropp, Kuptische
+Zaubertexte
+LCL
+LdA
+N.F.
+NHSt
+hT.S
+OMRM
+l? OX?.
+PDM
+PGM
+PRE
+PRE.S
+Preisendanz
+RAC
+RARG
+RhM
+Roscher
+R W
+SCHNT
+SO
+StPapy
+TAPA
+WSt
+ZAS
+ZPE
+I'criodicals, Scrics Tirlcs, Rcfcrcnce Works
+Journal ofE8,ytian Archaeology
+Journal ofHellenic Studies
+Journal ofNear Eastern Studies
+Journal ofthe Warburg and Courtauld Institzrte
+Der bleine Pauly
+A. M . Kropp, Ansgewahlte Koptische Zaubertmte 3 vols.
+(Brussels: Fondation Rcine Elisaheth, 1930-31)
+Loeb Classical Libra9
+Ledon d e ~ ~ ~ ~ t o l o g i e ,
+cd. by W. Hclck and E. Otto
+(Wiesbadcn: Harrasso\vin, 1975- )
+Liddcl-Scott-Jones, A Geek-English Leuikon (Oxford: Claren-
+don, 1968)
+Neue Fohe
+N ~ J
+Hamnzadi Studies
+No%m Testamentzmz, Supplments
+Oudheidkundke medehlin~en uit het nijbcmwenm van oudheden
+.
+.
+te Leiden
+Olphzum*m Fragments, ed. 0. Kern (Dublin and Ziirich:
+Weidmaml, 1972)
+PapPyrcrs Oxyyhpchus
+Pap,w'Demoticae Magicae (as citcd in this volumc only)
+Pap,w. Graecae Magicae. Die Griechirchen Zanberpapyi, 2 vols.,
+cd. K. Preisendanz, st al. (Stuttgart: Teubner, 21973-74)
+Pauly-Wissowa, Real-Encyclopadie dm dmsicchea
+Altertumnvissenschaften
+Pauly-Wissowa, Real-Encyclopidie dm classischen Alter-
+tnmnuissenschaften, Supplements
+See PGM; on Preiscndanz, vol. 111, see the Introduction be-
+low, n. 37
+Reallexikon fir Antike nnd CMentum
+See ~onnei, R k G
+Rheinisches Museum fir Philologie
+W. H. Roschcr, Aq%uhrliches Lexicon dmgviechicchen und
+ramischen Mythologie
+Religionges~hichtliche Venuche und TGrarbeiten
+Studia ad Colpw Helhnisticum Novi Testamenti
+Symbolae Osloenses
+Studia papyrologica
+Tra$zsactions and Proceedings ofthe A h a n Philological
+Associatwn
+Theological Dictionafy ofthe N m Testament
+Texte nnd Untersnchungen znr Geschichte a'er altch&lichen
+Literatur
+Wiener Studien
+Zeitschrzftfi~ agjptirche Sprache und Altmumrbund
+Zeitsclmftfi~ I'apyrologie und Ep&vaphik
+
+Abbreviations of Major Titles
+Used in This Volume
+Ancicnt authors are cited with name and title, the latter following the customary
+abbreviations. In cases of doubt, see LSJ, pp. xvi-miii: "Authors and Works."
+Abt, Apologie
+Audollcnt, Defwcionum Tabellae
+Bell, Nock, and Thompson,
+Mqical Texts
+Bergman, Ich bin Isis
+Berthelot and Ruelle, Collection
+des anciens alchimzjtesgvecr
+Blau, Dm altjiidirche Zaubenvesen
+Betz, 'The Delphic Maxim"
+Be=, "Fragments"
+Bctz. Lukian
+Bleeker, Hathor and Thoth
+Bonuer, SMA
+Borghouts, Ancient Eayptian
+Magical Texts
+Boussct, Hanptprnblena
+A. Abt, Die Apologie desiipuleius van
+Madaura und die antike Zaubwei. Bcitrigc
+zur Erlautemng der Schrift de w i a
+(Giessen: Topelmann, 1908)
+A. Audollent, D&imzum Tabellae qwtquot
+innotnm~nt. . . (Paris: Fontemoing, 1904)
+H. I. Bell, A. D. Nock, and Herbert
+Thompson, Magical Textsflam a Bilingual
+Papps in the Bn'tish Mnxeum (Oxford:
+Oxford University Press, 1933)
+J. Bergman, Ich bin Isis. Stndien zum
+memphitischen Hinterpnd dergriechirchen
+Isisaretolagien, Ada Univemitatzj Upsaliensis 3
+(Uppsala: Almqvist and Wiksell, 1968)
+M. Berthelot and C:E. Ruelle, Collection des
+anciens dchimistes~sgrecl- (Paris: Steinheil,
+1888)
+L. Blau, Das altjiidische Zaubmesen
+(Strassburg: T ~ b n e r , 1898)
+H. D. Betz, 'Thc Delphic Maxim 'Know
+Yourself' in the Greek Magical Papyri," HR
+21 (1981): 156-71
+H. D. Betz, "Fragments from a Catabasis
+Ritual in a Greek Magical Papyrus," H R 19
+(1980) : 287-95
+H. D. Betz, Lukian van Samnsata nnd das
+Neue Testament, TU 76 (Berlin: Akadcmie-
+Verlag, 1961)
+C. J. Blecker, Hathor and Thoth (Leiden:
+Brill, 1973)
+C. Bonner, Studies in Maoical Amulets ChiefEy
+Graeco-Egyptian (Aun Arbor: University of
+Michigan Press, 1950)
+J. F. Borghouts, AncientEByptian Magical
+Tats, Nzjaba 9 (Leidcn: Brill, 1978)
+W. Bousset, Hauptprobleme dm Gnosis (Get-
+tingcn: V'andenhoeck and Ruprecht, 1907)
+
+Major Titles Uscd in This Volu~nc
+Bousset, Rel&ims~eschichtliche
+Studien
+Budge, Amulets and Talismans
+Burkert, GriechischeRel&ion
+Cook Zew
+Darby, Food: The Gzft ofOsiric
+Deissmann, Lightfiom the
+Ancient E m
+Delatte, Anecdota Atheniensia
+Delatte and Derchain, Les intailles
+Dicterich, Abrmas
+Dicterich, Mithraslitu~ie
+Dornseiff, Das Alphabet
+Faulkncr, Coffin Texts
+Gager, Moses in Gem-Roman
+Pa~anirm
+Gardiner, Onomastics
+Ginzbcrg, The Legcnds ufthelaur
+Griffith and Thompson, The
+W. Bousset, Rel&zons~eschichtliche Studien.
+Aufjatze zur Religionsgeschichte des hellen-
+irtischenZeitalters, ed. A. F. Vcrhcule, NT.S
+50 (Leidcn: Brill, 1979)
+E. A. Wallis Budge, Amulets and Talismam
+(Ncw York: Dover, 1978)
+W. Burkcrt, G+ecl?ische Rel&ion der archa-
+zjchen nnd dlmsissiren Epoche, Die Religonen
+der Menschheit 15 (Stuttgart: Kohlhammer,
+1977)
+A. B. Cook, Zeus: A Study in Ancient Reli-
+gion, 3 vols. (Cambridge: Cambridge Uni-
+versity Press, 1914-40)
+W. T. Darby ct al., Food: The Gzft ofOsiric,
+2 vols. (London, New York, and San Fran-
+cisco: Acadcrnic Press, 1977)
+A. Deissmann, Lightfiom the Ancient East
+(Grand Rapids: Baker, 1978, repr.)
+A. Delatte, Anecdota Atheniensia, vol. I
+(Paris: Champion, 1927)
+A. Delatte and Ph. Derchain, Les intailles
+mgiyuesgrico-grptiennes de la Bibliothiyue
+Nationale (Paris: Bibliothkquc Nationale,
+1964)
+A. Dietcrich, Abraxas. Studien zur Reli-
+~ionrgechichte der spitem Alterturn (Leipzig:
+Tcubner, 1891)
+A. Dietcrich, Eirie Mithrasliturgie
+(Darmstadt: Wissenschaftliche
+Buchgesellschaft, 31966)
+F. Dornseiff, Das Alphabet in Mystk und
+M ~ i e
+(Leipzig: Teubncr, 21925)
+R. 0. Faulkner, The Ancient E~yptian Cofin
+Teas, 3 vols. (Warminster, England: Aris
+and Phillips, 1973-78)
+A. J. Festugik, La rivilation d'Herm2s Tric-
+mi@%, 4 vols. (Paris: SociM d'6dition "Les
+belles lcttres," 31981)
+J. G. Gager, Moses in Greco-Roman Paganism,
+Socieiy $Biblical Lizerature Mongraph Series
+15 (Nashville and New York: Abingdon,
+1972)
+A. H. Gardincr, Ancient E~@tian Onomm-
+tica, 2 vols. (Oxford: Oxford University
+Press, 1947)
+L. Ginzberg, The Legends of the Jews, 7 vols.
+(I'hiladclphia: The Jewish Publication So-
+clety of kcrica, 1909-38)
+F. LI. Griffith and H. Thompson, cds., The
+
+Major Titles Uscd in This Volume
+Leyden Papynis
+Griffiths, Plntarch'sDe Iside et
+Oslvide
+Griffiths, The Isis-Book
+Gundel, AstYoologumena
+Gundel, Debane nnd
+Delzansternbilder
+Harris, Minerals
+Hopfncr, OZ
+Hornung, Dm Amdua
+Johnson, "Dialcct"
+Johnson, Verbal System
+Klauck, Hwrenmahl
+Lichtheim, Ancient Egyptian
+Literature
+Mormz, Egyptian Rel&wn
+Nilsson, GGR
+Nock Essqs
+xxxix
+Leydzn Papy-us: An Emtian Magical Book
+(New York: Dover, 1974; repr. of 1904 ed.)
+J. G. Griffiths, Plutarch's De Iside et Osiride
+(Cambridge: University of Wales Press,
+1970)
+J. G. Griffiths, Apuleiu ofMahuros: The Isis-
+Boob (Metamlphoses, BookXIJ, EPRO 39
+(Leidcn: Brill, 1975)
+W Gundel and H. G. Gundcl, AstYolo-
+pmena. Die amologiche Lite~atnr in der
+Antike und ihre Geschichte, Sudhofi Archiv 6
+(Wicsbaden: Steiner, 1966)
+W. Gundel, Debane und Dekansternbilder
+(Darmstadt: Wissenschafiliche Buch-
+gcsellschaft, "969)
+J. R. Harris, Lexicographical Studies in Ancient
+Egyptian Minerals, Deutsche Abademie der
+Wissenschafen zu Berlin. Institutfir Orient-
+forschung, 54 (Berlin: Akademie-Verlag,
+1961)
+T. Hopfner, Griechisch-Wtischer Offm-
+barun@zaubw, 2 vols., Studien zur Palaeo-
+graphie und Pappsknnde, 21,23 (Lcipzig:
+Haessel, 1921, 1924)
+E. Hornung, Dm Anzdnat o
+h
+
+die Schzfi des
+verbopenen Raumes, 3 vols., Agyptologische
+Abhandlnnp 7; 13 (Wiesbaden: Har-
+rassowiu, 1963-67)
+J. H. Johnson, "The Dialect of thc Demotic
+Magical Papyrus of London and Lcidcn," in
+Studies in Honor ofGeorge R. Hu&es, January
+12,1977, ed. by J. H. Johnson and E. F.
+Wente (Chicago: Thc Oriental Institute,
+1977), pp. 110-25
+J. H. Johnson, TheDemotic Vwbal System,
+Studies in Oriental Civilization 38 (Chicago:
+The Oriental Institute, 1976)
+H.-J. Klauck, Hwrennzahl und hellenistischw
+I(2*lt. Eine rel&iougeschichtliche Untenuchung
+zum m e n Kwintherbriej NTA, N.F. 15
+(Miinster: Aschcndorff, 1982)
+M. Lichtheim, Ancient Eayptian Literature, 3
+vols. (Berkeley and Los Angeles: University
+of California Press, 1973-80)
+S. Morcnz, Egyptian Rel&ion (London:
+Mcthuen, 1973)
+M. P. Nilsson, Geschichte derg~iechischen Reli-
+gion, 2 vols. (Miuichcn: Beck, 31967, '1961)
+A. D. Nock, Essays on Rel&ion and the An-
+
+Major Titlcs Uscd in This V<~lurnc
+Nock and Fesmgitre, Herm2s
+Trlmz&ite
+Preisigke, Namenbuch
+Ranke, Agrptisrhe Penonennamen
+Robinson, The Nag Haminudi
+Libra? in En@&
+Smith, Jesus the Mgician
+cknt Wovld, 2 vols. (Cambridge, Mass.: Har-
+vard University l'rcss, 1972)
+A. D. Nock and A.-J. Fesmgitre, Hermis
+Trism&iste. Corpw Hermeticum, 4 vols.
+(Paris: Les belles lettres, 1946-54)
+K. Prcisigke, Namenbuch (Heidelberg:
+Selbstverlag des Herausgebers, 1922)
+H. Ranke, Die imtisrhen Penonennamen, 2
+vols. (Hamburg: Selbsn~crlag des Verfassers,
+1932-52)
+R. Reinenstein, Poimandres. Studien znr
+griechisch-agyptirchen und@ch&lichen
+Lite-
+vatur (Leipzig: Teubner, 1904)
+J. M. Robinson, ed., TheNag HammadiLi-
+bvary in English (Leiden: Brill, 1977)
+M. Smith, Jesus the M e a n (San Francisco:
+Harper and Row, 1978)
+
+Introduction to the
+Greek Magical Papyri
+Hans Diete~ Betz
+"The Greek magical papyri" is a name given by scholars to a body of papyri from
+Grcco-Roman Egypt containing a variety of magical spells and formulae, hymns
+and rituals. The extant texts are mainly from the second century R.C. to the fifth
+cenrury A.D. TO be sure, this body of material represents only a small numbcr of all
+the magical spells that once existed.' Beyond these papyri we possess many other
+kinds of material: artifacts, symbols and inscriptions on gemstones, on ostraka and
+clay bowls, and on tablets of gold, silver, lead, tin and so forth."
+I
+The history of the discovery of the Greek magical papyri is a fascinating subject."
+We know from literary sources that a large number ofmagical books in which spells
+were collected existed in antiquity. Most of them, however, have disappeared as the
+result of systematic suppression and destruction. The episode about the burning of
+the magical books in Ephesus in the Acts of the Apostles (Acts 19: 10) is well
+known and typical of many such instances. According to Suetoniu~,~
+Augustus or-
+dered 2,000 magical scrolls to be burned in the year 13 B.C. Indeed, the first ccn-
+turics of the Christian era saw many bumings of books, often of magical books,
+and not a few burnings that included the magicians themselves.
+As a result of these acts of suppression, the magicians and their literature went
+underground. The papyri themselves testify to this by the constantly recurring ad-
+monition to keep the books secret.' Yet the systematic destruction of the magical
+literature over a long period of time resulted in the disappearance of most of the
+original texts by the end of antiquity. To us in the nventieth century, terms such as
+"underground literature" and "suppressed literature" are well known as descriptions
+of contemporary phenomena. We also know that such literature is extremely impor-
+tant for the understanding of what people are really thinking and doing in a par-
+ticular time, geographical area, or cultural context. Magical beliefs and practices
+can hardly be overestimated in their importance for the daily life of the people. The
+religious beliefs and practices of most people wcrc identical with some form of
+magic, and the neat distinctions we make today between approved and disapproved
+forms of religion-calling
+the former "religion" and "church" and the latter "magic"
+and "cult"-did
+not exist in antiquity except among a few intellectuals."
+Thus the suppression of this magical literature has deprived us of one of our most
+important sources of ancient religious life. Modem views of Greek and Roman reli-
+gions have long suffered from certain deformities because they were unconsciously
+shaped by the only remaining sources: the literature of the culmral elite, and the
+archeological remains of the official cults of the states and cities.
+But not everything was lost.' At the end of antiquity, some philosophers and
+theologians, astrologers and alchemists collected magical books and spells that wcrc
+still available. Literary writcrs included some of the material in their works, if only
+
+slii
+Intrtlduction n, rhc Grcck 1Magical l'.~pyri
+to make fun of it. It is known that philosophers of the Neopythagorcan and Nco-
+platonic schools, as well as Gnostic and Hermetic groups, used magical books and
+hence must havc possessed copies. But most ofthcir matcrial vanished and what
+have left arc their quotations.
+The Grcek magical papyri arc, howcvcr, original documents and priman sources.
+Their discovery is as important for Grcco-Roman religions as is the discovery of the
+Qumran tests for Judaism or the Nag Hanunadi library for Gnosti~ism.~
+Like these manuscript discoveries, the disco\.cn of the Greek magical papyri \\,as
+and oftcn still is the outcome of sheer luck and almost incredible coincidences. In
+the case of the major portion ofthc collection, the so-called Anastasi collection. thc
+discovery and rescue is owcd to the efforts (and, if one may use the term, coopcra-
+tion) of nvo individuals separated by morc than a thousand years: the modern col-
+lector d'hastasi and the original collector at Thcbcs.
+In the nineteenth century, there was among the "diplomatic" reprcsentativcs at
+the court in Alexandria a man who called himself Jean d'hastasi (17801-1857).
+Believed to be Armenian by birth, lie ingratiated himself enough with the pasha to
+become the consular representative of Swede~i.~
+It was a time when diplomats and
+military men oftcn were passionate collectors of antiquities, and M. d'Anastasi hap-
+pened to be at the right place at tlie right time. He succeeded in bringing together
+large collections of papyri from Egypt, among them sizable magical books, some of
+which he said he had obtained in Thebes.'" These collections he shipped to Europe,
+where they were auctioned oEand bought by various libraries: the British Museum
+in London, the Bibliothtque Nationale and the Louvre in Paris, tlie Staatlichc Mu-
+seen in Berlin, and the Rijksmuscum in Leiden. Another papyrus was acquired
+by Jean Fransois Mimaut ( 1 7 7 4 1837), also a diplomat, whose acquisition ended
+up in the Biblioth2que Nationale (PGM III)." Unfortunately, we know almost
+nothing about the circumstances of the actual findings. But it is highly likely that
+many i f the papyri from the Anastasi collection came from the same place, perhaps
+a tomb or a temple library.'"f
+this ass~~mption
+is correct, about half a dozen of the
+best-preserved A d largest extant papyri may havc come from the collection of one
+man in Thebes. He is of course unknown to us, but we may supposc that he col-
+lected the magical matcrial for his own use. Perhaps he was morc than a magician.
+We may attribute his almost systematic collcctions of q i c a to a man who was also
+a scholar,'~robably philosophically inclined, as well as a bibliophile and archivist
+concerned about the preservation of this material.I4
+Although the person who collected the Anastasi papyri remains unknown, com-
+parable figures are known from later Egyptian literature. In the Demotic Papyrus
+no. 30646 in the Cairo Museum, there appears Prince Khamwas, the fourth son of
+King Ramses I1 and high priest of Ptah in Memphis. This legendary figure belongs
+to the Stories ofthe High Priests ofMemphis, published by Francis Llewelyn Griffith,'"
+stories that in many ways can serve as illustrative companions to the Grcek magical
+papyri. Miriam Lichthcim has given this summary portrait in the third volume of
+her Ancieut E~yptian Literature:
+Prince Khamwas, son of King Ramses I1 and high priest of Ptah at
+Memphis, was a very learned scribe and magician who spent his time in
+the study of ancient monuments and books. One day he was told of the
+existence of a book of magic written by the god Thoth himself and kept
+in the tomb of a prince named Naneferkaptah (Na-nefer-ka-ptah), who
+lived in the distant past and was buried somewhere in the vast nec-
+ropolis of Memphis. After a long search, Prince Khamwas, accom-
+
+Intrt~duction to the Grcek h.iagic.ll Papyri
+xliii
+panied by his foster brother I~iaros, found the tomb of Nancferkaptah
+and entered it. He saw the magic book, which radiated a strong light,
+and tried to scizc it. But the spirits of Naneferkaptah and of his wife
+Ahwcrc rose up to defend their cherished possession. . . .'"
+The collection of the Anastasi papyri, if it was brought together by one pcr-
+son, may have been buried with him, either in his tomb or in the rithblc of col-
+lapsed buildings. At any rate, whcn d'hastasi came to Thebes and the papyri were
+offered to him, he sensed their value and acquired them, thus saving them from
+destruction.
+It took almost another centur): however, before scholars learned to appreciate
+the value of the papyri and started investigating them. It is noteworthy that the
+auction catalog of d'hastasi's collection calls the material simply "fromagc mys-
+tique."" Until the middle of the nineteenth centur): the papyri were stored in the
+museums simply as curiosities.
+Scholarly investigations began when the great Dutch scholar Caspar Jacob Chris-
+tiaan Reuvcns (1793-1835) dcscribcd some of the content of the Lciden papyrus
+J 395 (PGM XIII) in his Lemes a M. Letronne published in 1830.'This work was
+reviewed almost immediately by the German historian of religion Karl Otfricd
+Miiller (1797-1840), who also translated Reuvens's excerpts into German.'' But
+Reuvens died before his edition of the Leiden papyri could appear. It was forty
+years before another Dutch scholar, the Egyptologist Conrad Lccmans (1809-93),
+published the edition (PGM XII, XIII)'o together with a Latin translation (1885)."'
+The first publication, however, is due to the efforts of the British scholar Charles
+Wycliffe Goodwin (1817-78), who published one of the papyri (PGM V) to-
+gether with an English translation and commentarj for the Cambridge Antiquarian
+Society in 1853.22 Then the German philologist Gustav Parthey (1798-1872)

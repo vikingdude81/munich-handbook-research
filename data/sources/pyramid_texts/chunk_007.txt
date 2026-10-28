@@ -1,0 +1,434 @@
+ Deir
+
+66
+el Bahari IV, pl. 110; MMA 12.186.2a–c + 11.155.3a (relief of Ramesses I)) no doubt demonstrate a
+M.K. misunderstanding of the original meaning of wHa Apd, which passed to the N.K., as they give
+wjA aq and {boat} aq (MMA 12.186.2a–c is damaged and has only […] aq) respectively. But even that
+can hardly be read as "one with access to (lit. who enters) the (Sun’s) boat", for it is written wjA aq, not
+aq wjA. On the inscribed fragment from the mastaba of Ankhimahor and on one of the walls
+(Kanawati-Hassan, Ankhmahor, pl. 42, 72, TNE95:F150) the bird sign used in the title (j)m(j)-r wHa
+Apd "head of the bird-catcher(s)" really resembles (and probably is) the aq-{cormorant}-G35 sign.
+
+Work teams (jzwt) and phyles (zAw) were named after the names of boat’s parts in ancient Egypt: jmjwrt "starboard", tA wr "larboard", jmj-nfrt/nfrt ~ jmj nDst/nDst "stern", wADt "prow", even thought
+they did not deal with sailing. This is probably the reason of the occurrence of a {boat} determinative
+after jmj jrt nTr in §124e (a boat sign can undoubtedly be a determinative, cf. §1228b: jrt Xnm "(the
+boat) that Khnum made"). So, "Sun’s Eye" and "God’s Eye" are probably the names of working teams.
+See Roth, Phyles, p. 43: “The clearest connection between boats and phyles is a very rare title [zSA n
+zA dpt – T. S.], “boatman, scribe of a phyle” or “scribe of a boat phyle.””.
+
+W 142 (PT 209)
+§125с: wHm jnww jAbtjw t.k pw
+Allen "The eastern fetchers shall repeat: “It is your bread”"
+Shmakov "The eastern fetchers shall declare/announce: “It is your bread”"
+
+For wHm as "declare/announce", cf.:
+
+CT I, 8a: jw wD.n gbb wHm.n rwtj rdj.t(w) n.k bA.k
+"Geb has commanded, Ruti has announced that your ba might be given to you"
+
+CT II, 249d-250b: jw wD m DADAt jw wHm r-gs mAatj
+"It has been commanded in the tribunal (and) announced near the Dual Maat"
+
+Translating "Geb has commanded, Ruti has repeated" and "commanded in the tribunal, repeated near
+the Dual Maat" would create the strange notion that one god or judicial body commands and that
+another repeats that command for some reason, rather than the logical notion that a command is
+expressed by the two gods and the two judicial bodies. Cf. also
+
+CT III, 151c-d (B1Bo, B2Be): jj.n.k r jSst wHm snwj
+"“Why (lit. to what (purpose)) have you come?” pronounced the two companions".
+
+CT III, 350e-f: qA kA.j wHm.n.f rn.j
+"My ka has gone high and pronounced my name"
+(also in the deity’s name wHm rn "Name Pronouncer" (CT III, 73e (T1L), 78g, CT IV, 59p).
+
+CT VI, 303j-k: jj.n N pn wHm.f mdw pn qA sDm sw
+"This N has come that he may pronounce this speech, the one who will hear it will go high"
+
+BM 828: nj zp wHm.j mdt nbt Dwt
+"I have never pronounced any bad word"
+
+To read the passage as "I have never repeated any bad word(s)" is meaningless as it is absolutely not
+clear why the man should "repeat" a swear word rather than "pronounce, say" it.
+
+67
+CT VII, 26o: nj wHm.j sDmt.n.j m bAH
+"I will not pronounce (i.e. proclaim publically) that which I heard before"
+
+W 143 (PT 210)
+§126c: pr m H(j)p(j)
+Allen "that comes from the garden"
+Shmakov "that comes from the Nileflood"
+
+The original of §126c W has H(j)p(j), and not the Hzp "garden" of later versions (TMN). Remarkably,
+Middle Kingdom (CM CG 20520) and New Kingdom (Naville, Deir el Bahari IV, pl. 110; Budge,
+BD178:14; MMA 12.186.2a–c + 11.155.3a (relief of Ramesses I)) copies of the current passage also
+give "Nileflood" (Hap(j)).
+
+2)
+§127c-128c: twr wnjs wzSt…jmr twr stS m(w)t rHw(j) jpw DAjj pt ra pj Hna DHwtj Sd n.Tn wnjs
+Hna.Tn
+Allen "Unis rejects urine...like Seth rejects the two mtrH that cross the sky.
+Sun and Thoth, take Unis with you"
+Shmakov "Unis is wary of urine...like Seth is wary of dying. Oh (jpw), two comrades, who cross the
+sky, Sun and Thoth (i. e. the Moon), take Unis with you (both)!"
+
+PT 210, §128b is an example of the misunderstanding or reinterpretation of the original text by Unis’s
+successors (this is not the only case, cp. Allen, P. T., Pepi I’s note 124 (p. 205), Pepi II’s note 47 (p.
+305), 105 (p. 307) also P 4, 6, 7, T 204, 1 (PT 355, §§572b-74c), P 326b, 1, and P 506 in this work):
+an original m(w)t rHwj "death. Comrades" becomes mtrHwj (with wood determinative as if they were
+really wooden objects), and later mtrwj "two witnesses" in the versions of Merenre and Neferkare: jmr
+twr stS mtrwj.f DAjj pt "like Seth’s bewaring of his two witnesses (i. e. accusers who saw that he killed
+Osiris) who cross the sky".
+
+The Coffin Texts descendant of the discussed passage shows us that actually m(w)t "death, dying" and
+rHwj "two comrades" were meant originally, and that rHwj begins a new sentence:
+
+CT VII, 227j-l: mkw.j Hs twrw.j wzSt mj mkt DHwtj m(w)tw j nTrw jpw wrw aAw xnz pt jT wj Hna.Tn
+"I will safeguard against excrement, I will beware of urine like Thoth’s bewaring of the dead. Oh these
+great and elder gods, who traverse the sky, take me with you!"
+
+Other derived passages showing that m(w)t "death, dying" was meant:
+
+CT III, 190e-191a: mj mkt DHwtj m(w)t nTrwj jpwj wrwj aAwj xnzwj pt
+"like Thoth’s keeping these two great (and) elder gods who traverse the sky from dying"
+
+CT III, 54g: mj bwt DAAw(j) pt mwt zp sn
+"like the abomination of the two who cross the sky is death, (repeat) two times"
+
+CT III, 194j: mj <bwt> ra <pw> qdd <twr> jtmw m(w)t
+"like the Sun<(’s abomination is)> sleep (and) Atum (bewares) of death" (split column)
+
+CT VI 198e interprets m(w)t as jmjt, rHwj as Hrwwj:
+mj mkt Hrw Hna DHwtj jmjt Hrwwj
+"like Horus and Thoth’s protection of what is in Horus and Seth"
+
+68
+(a false dual, (cf. W 5, 2), lit. "a pair of Horuses")
+
+As a "guarding" verb, twr(j) could have the meaning "beware", literally "guard (oneself)",
+
+CT III, 162c (B1BOa): twr.f sw m wzSt
+"He guards himself from urine"
+
+Cf. the same use of zAj "guard" with a reflexive (and without reflexive in CT I, 71b,d) and xwj
+"defend", for example CT VII, 488b: xw.k Hr Hr.k "beware, on your face!", ibid, 495f: xw.k Hr Hr.k
+rwj Tw "beware, on your face, remove yourself!"; CT I , 218b: xwy Tn jr.Tn aqnw-Hr nwAw wabt
+"beware, you attentive ones, of those who watch the Place of Clearing", CT III, 347f-h (T1L): sxm.f jm
+N pn sxm N pn jm.f xw.f N pn xw sw N pn "He has control of this N (and) this N has control of him; he
+bewares of this N (and) this N bewares of him", CT I, 297a: xw mH.k "Beware lest you drown", CT V,
+245d-e: xw aHA.k xr n.j zbn n.j "Beware lest you fight, fall from me, glide (away) from me" (cf.
+Urk.I:130:9: zAw xr.f "Beware lest he falls").
+
+The verb twrj often occurs in parallel to the verb mk(j):
+
+PT 534, §§1264b-1265c: j.Hm Hr.t(j) twr w(j) Hrw mk w(j) stS
+"Go back, keep away – Horus guards me, Seth protects me"
+
+CT III, 54e-f: mkw.j Hs twrw.j wzSt
+"I will safeguard against excrement, I will beware of urine"
+
+CT IV, 17f-g (B2Be): mk N pn r(m)T twr sw nTrw
+"Guard this N, people! Protect him, gods!"
+
+CT IV, 35m-n (B2L): mk w(j) xdw jmjw mw twr w(j) xdw jmjw jtrw
+"The fish in the water guard me, the fish in the river protect me"
+
+CT V, 52a-b: twr bA.j mkj HkA.j
+"Guard, my ba! Protect, my magic!"
+
+CT VII, 153h: mkj.kj ty.kj
+"I am protected, I am guarded"
+
+Urk.VII:53:20--54:1: mkt.sn zSA.f twrt.sn Xntjw.f
+"who will protect its (i. e. the tomb’s) writings, who will guard its statues".
+
+Naville II, BD 96&97:7-8 (Aa bis), p.214: mk(j).n(.j) w(j) twrj.n(.j) w(j) n bA.j pn
+"I have guarded myself, I have protected myself for this my ba"
+
+3)
+§130a-b: zH n wnjs sxt(.j) m jArw Agb n wnjs m sxt Htpt
+Allen "The booth of Unis is plaited of reeds; the flood of Unis is in the Marsh of Offerings"
+Shmakov "The (dining)-booth of Unis is plaited of reeds; the plenty of Unis is in the Marsh of
+Nourishment"
+
+zH means "(dining)-booth", rather than just being a booth for spending time. The word occurs in the
+title xrp zH "Manager of the (dining)-booth" (§§560b, 566b; Jones, Titles, # 2682) and as a name for a
+
+69
+private village, e.g. zH Tjj "The (dining)-booth of Ti" (Steindorff, Ti, Tf. 3) and zHw kA(.j)-m-nfrt "The
+(dining)-booths of Kaiemnefret" (Hassan, Giza II, fig. 137, 2, after the p. 122).
+Agb means here probably "abundance, plenty" rather than "flood", as the latter would be meaningless
+in this context. That the word has the {three ripples of water}-N35a determinative does not speak
+against this, for that determinative also occurs in the collocation baHj m "become satisfied with",
+which is about being sated, not about flooding. Moreover, the verb Agby occurs in CT VII, 227q which
+is a descendant of discussed passage: Agby.j m sxt Htp "I am being satisfied in the Marsh of
+Nourishment". Note the text actually reads sxt Htpt "Marsh of Nourishment": the spelling in Unis’s
+copy is Htpt (cf. also §§284b, 289b W), not Ht(p) (cf. §133c). Note also the determinative of Htpt,
+which is {tall bread loaf, beer jug, flat and round bread loaf}. For Htpt as "nourishment", see W 145
+just below.
+
+W 144 (PT 211)
+§131c: wnjs pj wnnt rDj.f t n ntjw
+Allen "Unis in fact is the one who will give bread to those who are"
+Shmakov "Unis in fact is the one who will give bread to those who have passed away/ancestors (lit.
+those who were)"
+
+The word ntjw may be a variant of the expression ntjw jm, lit. "those who are there", i.e.
+"those who have passed away, ancestors",  used for those who are secure in the Afterlife. Cf.
+Urk.IV:26:17: Hr HjH(j) Axt n ntjw-jm "(I) am looking for something useful for those who have passed
+away". Cf. the discussed passage with these lines:
+
+Leclant, Pepi I, pl. 9, col. 14: ja sw hdn rDj.f t n jmjw pAwt.s[n] "The broom-plant will wash him (i. e.
+Pepi) and he will give bread to those from the original time"
+
+PT 457, §859a-d: t.k pn j.xm xsD H(n)qt.k j.xmt awA rDj.k jm n (j)m(jw)-bAH.k
+"this your bread that does not mould (and) that your beer that does not sour, from which you will give
+to your predecessors/ancestors".
+
+CT III, 113q: N pn nswt ntjw jm "This N is a king of those who have passed away"
+
+In the M.K. the word ntjw has an antonym jwtjw, probably "successors (lit. those who were not)"
+
+CT I, 199b: nTr pn nfr nb n ntjw HqA n jwtjw
+"this Junior god, the lord of the ancestors, the ruler of the successors"
+
+2)
+§131d: xnmt.f t pj jAt
+Allen "The Milk-Goddess is his attendant"
+Shmakov "his bread-cook is Iat"
+
+For the relevant comments, see T 194.
+
+W 145 (PT 212)
+§133a-c: ndfdf jrt Hrw Hr bAt nt Dnw jj r.f r.f xnt(j) jmntjw jnj.n.f Df(Aw) Htpwt n(w) Hrw xnt(j) xntjw
+Allen "Horus’s eye dripped on the Dnw-bush, and Foremost of Westerners came for it, fetched
+sustenance for Horus, foremost of the houses"
+Shmakov "Horus’s eye is watering (being) on the Dnw-bush, (for) Foremost of Westerners came to it
+(i. e. the Dnw-bush ?), (and) fetched provision (DfAw) (and) nourishment (Htpt) of Horus at the fore of
+
+70
+the cookhouses".
+
+The verb ndfdf probably has a meaning that is similar to the verb nSfSf "shed, drool" (see W 67-68 and
+135, 4, note the {drops of liquid} determinative in TMN), for  the image conjured up in this passage is
+that of Horus’s eye oozing fluid as if drooling over the food which Foremost of Westerners brought. It
+is not clear what Allen had in mind with "for it" (r.f), but as the text has "he" (.f) it can refer only to the
+masculine Dnw-bush, and not  to Horus’s eye (jrt) or to the bush (bAt) which both are feminine
+(though cf. W 24).
+
+Htpwt does not have the meaning "offerings (for deceased)", but rather it refers to "nourishment, meal"
+for the living as well as the gods and the deceased, as it occurs in an Old Kingdom title along with the
+word Df(A)w "provisions": (j)m(j)-r swt Htpwt DfAw "head of the places of nourishment and
+provisions" (Jones, Titles, ## 827, 922). It occurs as food for the living (tpj(w) tA, "those upon the
+earth": CT IV, 122e (B2L): sSm.j pAqw n nTrw Htpt n tpj(w) tA prt-xrw n Axw "I distribute wafers to
+the gods, nourishment to those on earth, invocation-offerings to the akhs". Cf. also the mastaba of
+Mereruikai (Duell, Mereruikai, pl. 208 A, B), an inscription before a row of seven granaries: HAt
+Htpwt nb(t) nfrt "The best of every good nourishment", and under a pile of food: jnt Htpwt nb(t) nfrt
+n…mrj "Bringing of every good nourishment to…Meri", pPrisse 11, 4: nj jn.tw Htpt r dmj
+"Nourishment is not brought to a landing stage (i. e. food is not for free and one has to work to earn it.
+Cf. Murray, Saq. Mas., pl. 10 (village name): ptH Htp(.j) Htpt "Ptahhetep’s nourishment".
+
+Notice the use of a {papyrus scroll} determinative after food designations (Htpt, Awt) in the current
+passage and in §399c, 399d T, for unknown reasons.
+
+DfAw and Htpt are different terms (Allen translates them both as "sustenance") even though sometimes
+they are used side by side, see Urk.IV:245:2-4: rdj.n.n n.s…Htpt nbt xr.n Df(A) nb xr.n "we have given
+her all nourishment we have, all provision we have", ibid:223:13: Dj.n.(j) n.T Htpt nbt Df(A) nb "I have
+given you all nourishment, all provision".)". Also cf. Kanawati-Raziq, Neferseshemre, pl. 58: s.xp(t)
+Htpt Df(A)w "Bringing nourishment (and) provisions".
+
+The current PT passage may be compared to PT 400, §695b (see T 276, 1), which is a variant of this
+passage: in the variant, a pair of Horuses at the fore of the cookhouses (Hrwj xnt(j)wj xntw) are called
+to feed Teti, hence the n of the current passage must be genitive n(jw) "of" and was used instead of nt
+probably because DfAw, which is masculine, comes first, though cp. the following passage where Htpt
+is treated as masculine:
+
+CT I, 109b: jw Htpwt.s DA.w Hr a.s
+"Her nourishment (Htpt.s) are held out (DA.w) on her arm(s)"
+
+Other sarcophagi give s.DA.y (T1Lb) and s.DA(.w).
+
+Cf. also CT IV, 113a: jnk jn Htpt DfAw n bjt(j) pw [jAq/HqA ?] jw n s(j)sr
+"I am the one who brings nourishment (and) provision of this king, [ruler ?] of the Isle of Blazing"
+
+The current PT passage probably does not have xnt(j) prw "foremost of houses", but rather xnt(j) xntjw,
+where xntjw is "food workshops, cookhouses" with {house}-signs as ideogram. Usually this word is
+being spelled xnt, but it is actually the nisbe of xnt "front" as it occurs spelled xntj in Jéquier, Pepi II,
+pl. 6, col. 709+19). That this word xnt(j) would have the meaning "cookhouse" rather than "jar-stand",
+that is, a workshop that is the source of prepared food, is suggested by the following examples:
+
+71
+A person labeled wdpw xnt(j) wr "butler/cupbearer/cook of the great cookhouse" often partakes in the
+ritual named s.nmt Ax "feeding the akh" (xnt wr has {house plan} sign as the determinative, Junker,
+Giza II, Abb. 15, p. 146, 16, p. 147)
+
+PT 573, §1482e: s.rwD.f DfA n xnt(j).f jr(j)w tA
+"that he may make firm the (supply of) nourishment of (i. e. from) his cookhouse(s) that belong to the
+earth"
+
+PT 665, Nt 759: jw s.rwD(.j) xnt(j).k t.k
+"I have strengthen your cookhouse (and) your bread"
+
+(Allen’s) N 466, Jéquier, Pepi II, pl. 13, col. +30 (restored with CT VI, 105b-c):
+[nHm.n(.j) msw.k m-a jA]kb s.rwD.n(.j) xnt(jw).k tp(j)w tA n Dt Dt
+"[I have saved your children from mou]rning; I have strengthen your cookhouse(s) on the earth for the
+course of Dt-time (lit. of Dt-time’s ownership)"
+
+CT I, 284a-b: jA N pn mH.n.j Snaw.k xsf.n(.j) xnt(j)w.k
+"Oh, this N, I have filled your kitchens, I have promoted your cookhouses"
+
+CT III, 68a: jnk DfA wr xnt(j)w
+"I am the sustenance, great one of the cookhouses"
+
+CT V, 100d-101b: xr nTrw pyw xnt(j)w xnt(j)w.sn gm.n.j sn rxt.sn afnwt.sn jw.sn Xr xfAt nTrw jr.sn n.k
+xfAt m xd pAd m xsfyt
+"(led me) to the gods who reside in Pe at the fore of their cookhouses. I have found them putting on
+their wigs and coming with the meals of the gods – they will make for you meals while moving north,
+a bread loaf while moving south"
+
+2)
+§133f: xnD s.ASrt Awt.f pj
+Allen "A joint of roast meat, that is his offering"
+Shmakov "a haunch (and) roast meat, that is his ration"
+
+The word Awt doesn’t have the meaning "offering", but rather means "ration" as it is also used in
+connection with the living, cf. Kanawati-Raziq, Hesi, pl. 59: wn rDj Hm.f…jrt(j) Awt(.j) mj nm Xr(j)-tp
+nswt "And His Incarnation ordered…(my) ration to be made like a privilege (?) of the king’s intimate".
+The same is true for the word aAbt, which is loosely translated as "offerings", but as James Allen
+noticed it actually has the meaning "feast" (i.e. hearty meal), for it also occurs as a food for the living:
+Urk.IV:86:5-6: dd TAw.f n Sms sw aAbt.f n mjDd mjTn.f "who gives his air to the one who follows (i.
+e. serves) him (and) his feast to the adherent of his course".
+
+W 147 (PT 214)
+§139c: Dj.f n.k jm(j)t HAt Hrw bA.k jm.s sxm.k jm.s
+Allen "he will give you what is on Horus’s brow. You shall become akh through it, you shall take
+control through it"
+Shmakov "he will give you what was on Horus’s brow. You shall become impressive through it, you
+shall take control through it"
+
+Allen overlooked, the original has bA.k jm.s "You shall become impressive through it", not Ax.k jm.s
+"You shall become akh through it". The "what was on Horus’s brow" is Horus’s eye, cf. §578d-579a
+
+72
+(also §2075b): jrt.f…bA.k jm.s sxm.k jm.s "His (i. e. Horus’s) eye…you will become impressive
+through it, you will gain control through it".
+
+W 148 (PT 215)
+§141a-145a: nj nTr sb(A) jwtj rmnwtj.f…mAA w(j) mAn.k jrw mswt jt(j)w.sn j.rxw r.sn j.xm sk…nj mtwt
+nTr zjt n j<j>.f nj zj.k n j<j>.f
+Allen "“There is no star-god without his companion…See me, as you have seen the forms of the
+progeny who know their spells, the Imperishable Stars”…No god’s own seed has gone (from life): you,
+his own, will not go"
+Shmakov "(The address to Atum:) “There is no star-god without his companion…See me and you will
+see the form of the progeny, whose fathers, knowing their spell(s), (are) the Imperishable
+Stars”…(Atum’s response:) “There is no god’s seed that has gone (from life) because of his (i. e.
+Seth’s) hurt: you cannot go (from life) because of his hurt”"
+
+This passage consists of the two parts: the address to Atum and his response. nTr sb(A) is probably
+"star-god", "a god, a star". However the reading "god of star(s)" is also possible, firstly because it
+refers to Atum whose representation as a star is unknown, secondly, because CT VIII, §141a (T1NY)
+gives nTr sbAw "god of stars", and cf. §506a which deals with plural "stars" (seeing the pronoun .Tn)
+but employs the singular sHd "star" (see W 221, 1). mAn is a subjunctive that follows the imperative,
+hence the reading "See me and you will see", "See me that you may see").
+Allen overlooked jt(j)w.sn "their fathers" in his translation. The passage jt(j)w.sn j.rxw r.sn j.xm sk
+should be read "whose fathers, knowing their spell(s), (are) the Imperishable Stars", because CT VIII,
+§141b-c (B4Bo, B6C, B19C) gives jt(j)w.sn j.rxw r.sn j.xm sk.k "whose fathers, knowing their spell(s),
+(are) your Imperishable Stars", which also bolsters the reading "god of stars" (Imperishable Stars are
+yours because you are their god).
+The spelling j.f  in §145a  is the defective spelling of jj.f "his hurt" as is shown by CT VIII, §145a
+(B6C). The word jj "hurt" occurs being spelled jjj in §142b and jj in §§143b, 391a, b, 426b (in the
+latter paragraphs with the {eye} determinative). The suffix .f "his" probably refers to Seth, for it cannot
+refer to mtwt "seed" which is a feminine noun. However, it seems that §145a had been reinterpreted or
+misunderstood in Neferkare’s copy (Jéquier, Pepi II, pl. VIII, col. 709+55) and in CT VIII (all but
+B6C): nj zj.k n.f "you cannot go (from life) because of him".
+
+2)
+§142c-143a: ms.n.k pf jwr.n.k pn ms.k Hrw
+Allen "That one has been born to you, this one has been conceived to you, for you have given birth to
+Horus"
+Shmakov "You have born that one, you have conceived this one: you gave birth to Horus"
+
+Probably two sDm.n.f’s, rather than two passives.
+
+3)
+§145b, c: nj jp.f jb.k nj sx(m).f m HAt(j).k
+Allen "he will not claim your mind, he will not have control of your heart"
+Shmakov "he will not subordinate your mind, he will not have control of your heart"
+
+For the meaning of jp as "subordinate, subject, subjugate", see T 145, 9; cf. CT I, 70b-c (B1P): nj
+jp.t(w).k nj D<d>H.t(w).k nj xnr.t(w).k nj jnT.t(w).k nj zA.t(w).k "You will not be subordinated, you
+will not be imprisoned, you will not be restrained, you will not be fettered, you will not be detained". It
+is clear that all the verbs in this CT passage express actions that restrict freedom, so the verb jp must
+
+73
+have a related connotation13. Similar (positive) passages do occur:
+
+PT 217, §157c and CT VIII, 161b (B10Cb), also (damaged) on B10Ca: jp.f jbw sxm.f m HAt(j)w
+"He subordinates minds and has control of hearts"
+
+PT 357, §590b: jn n.k gbb Hrw jp.f n.k jbw.sn
+"Geb has brought Horus for you, that he may subordinate their hearts to you"
+
+PT 535, §1287a: jp jbw.sn m rn.k pw n jnpw jp jbw
+"Subordinate their hearts in this your identity of Anubis who subordinates hearts"
+
+PT 577, §1523c: jnpw jp jbw jp.f Asjr(t) pjpj m-a nTrw jr(j)w tA n nTrw jmjw pt
+"Anubis, who subordinates hearts is subordinating (i.e. withdrawing) Osiris Pepi from the gods
+attached to the earth to the gods in the sky"
+
+CT VI, 412b-c: jp.f n.k jbw.sn Sa.f jr r.k Hr zAw
+"He will subordinate to you their hearts, he will put (lit. cut off) the one who would act against you
+under (lit. on) detention"
+
+Manassa, Underworld, p. 161 (the reading is by the present author): nD.Tn bA.Tn jnpw jp.f jb.Tn
+"Tend your ba(s) as Anubis is subordinating your heart(s)"
+
+As to the difference between the jb-heart and the HAtj-heart – it does exist. It is interesting to notice
+that Egyptian has a couple (or even a triplet) of designations for each body part or organ, cf. jb ~ HAtj
+"heart", Srt ~ fnD (>fnd) "nose", anxwj ~ msDrwj "ears", ns ~ SsAw "tongue", nHbt ~ wsrt ~ bant ~ xx
+~ TAz "neck", mnt ~ wart "thigh" (see T 227), sA ~ psD (>psd) ~ jmAx "back, spine", znf ~ dSrw ~ Tr
+"blood, gore", HAt ~ wpt "forehead, brow", tp ~ DADA "head".
+The explanation of this phenomenon could be that Egyptian could have had different designations for
+the body parts and organs of animals and those of humans, and that in time the designations for the
+parts of animals came to be used for humans. That is, the difference between jb and HAtj would be that
+jb is the designation of a human heart, while HAtj is the heart of an animal, namely a bull (hence jb is
+"mind" as well as "heart", whereas HAtj is normally "heart" (as an organ)). Evidence for such a point
+of view may be found in the images of the cutting out of a bull’s heart (butchering scenes in private
+tombs of the Old Kingdom and later) that are inscribed with Sdt HAt(j) "Extracting of the (bull’s)
+heart" (e.g., PT §1286b; Moussa-Altenmüller, Niankhhnum, Tf. 86, 89; Steindorff, Ti, Tf. 13, 72, 138)
+and never *Sdt jb. Cf. also PT 477, §963a-b: Hsq.f HAtjw nw DAt.sn sn m pjpj nfr-kA-ra "It (i. e. the
+knife) will cut out the (bulls’) hearts of those who will extend themselves against (lit. for) Pepi
+Neferkare" and PT 372, §653a: stp.n Hr xpSw xftjw.k "Horus has cut off the forelegs of your
+opponents" – in both these passages with a butchering association, opponents are considered as having
+the shapes of bulls, hence in the first passage the word HAtj "bull’s heart" is used, and in the second
+xpS "bull’s foreleg". HAt(j) also occurs as "bull’s heart" among other body parts of a bull, such as xpS
+"foreleg" and psD "back", in §1547c where Seth in the form of a bull is butchered by Horus. The word
+DADA "bull’s head" occurs determined by the {bull’s head} sign and followed by xpS "foreleg" in TT
+100 (Davies, Rekh-mi-Rē, pls. 92 - 93): rdjt DADA xpS r tA "Putting of a bull’s head and foreleg to the
+ground" (cf. Wb.V:530:7, where the word also has {bull’s head} determinative).
+
+Thus jb (human) ~ HAtj (bull’s) "heart", fnD (>fnd) (human) ~ Srt (bull’s) "nose", anxwj (human) ~
+
+13 Though ‘claim’ can express restriction (‘subjugate’) in this context, James Allen reads jp as ‘claim’ only in Unis’s corpus,
+preferring to read it ‘allot’ in other corpuses.
+
+74
+msDrwj (bull’s) "ears", ns (prob. human, hence as seat of speech) ~ SsAw (prob. bull’s) "tongue", nHbt
+(human) ~ xx (bull’s) ~ bant (bird) ~ TAz (bird) "neck", mnt (human) ~ wart (bull’s) "thigh", dSrw/Tr
+(human, lit. "red one") ~  znf (bull’s) "blood, gore", sA (human) ~ psD (>psd) (bull’s) ~ jmAx (animal)
+"back", tp (human) ~ DADA (bull’s) "head". Only r "mouth", jrtj "eyes", mnD "breast, udder", Drt
+"hand, paw", and Xt "belly" don’t have a pair and are used for both humans and animals. For wart as
+"bull’s thigh", cf. PT 659, §1867a: xpS.k m tA wr wa(j)t.f m tA zt "Your bull’s foreleg is the Great Land
+district, its thigh is the Bowland". For znf as "bull’s blood", see §1286c; Steindorff, Ti, Tf. 73: s.xpt
+anD(w) Xr znf "bringing of a basin for blood".
+
+4)
+§148c, 149c: zA zAt tm
+Allen "Atum’s twins"
+Shmakov "son (and) daughter of Atum"
+
+For the reading (zA zAt rather than zAtj), see W 5, 2, iii.
+
+5)
+§149d: nj sk.k nj sk kA.k Twt kA(.j)
+Allen "You will not perish, your ka will not perish: you are ka"

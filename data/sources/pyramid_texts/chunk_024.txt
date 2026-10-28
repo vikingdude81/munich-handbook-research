@@ -1,0 +1,394 @@
+h’s personification, and as a god he could be everywhere. Cf. PT 214, §139b: jAq jr.k jr bw Xr
+jt(j).k jr bw Xr gbb "Ascend to the place where your father is, to the place where Geb is" – this passage
+has the verb jAq "ascend" that suggests that "the place where Geb is" is the sky, to which the deceased
+should ascend. Thus all instances of .f "he" in §656a-c refer to Geb, not to Khentimenutef ("Thighs
+Forward", §655c); this is also proved by §657d: m wDDt jrt n.k jn jt(j).k gbb "as what has been
+commanded by your father Geb to be done for you", and the fact that Khentimenutef cannot take the
+king to the sky and then "be aroused at meeting" (§656a) the king (as he has just been in touch with the
+king).
+Note James Allen’s earlier reading which is identical to the one of the present author: "that he might
+take you to the sky, to your father Geb. He (Geb) will be excited at meeting you…" (Allen, Inflection,
+§390, p. 263).
+
+215
+4)
+§657a-c: H(.j) n.k jt(j) Azx(.j) n.k bdt jr(.j) n tp(j)w Abdw.k jm jr(.j) n tp(j)w mDdjwnt.k jm
+Allen "Barley has been beaten for you, emmer has been reaped for you, and things made from it for
+your first-of-the-month festivals, and things made from it for your middle-of-the-month festivals"
+Shmakov "I have threshed (lit. trodden) barley for you, I have reaped emmer for you, of which I have
+prepared for the first (days) of your monthly festivals, of which I have prepared for the first (days) of
+your half-monthly festivals"
+
+All the verb-forms in this passage are perfective sDm.f. Cf. the following passages-descendants from
+the CT which have perfective sDm.f, perfect (sDm.n.f) and relative perfect forms (sDmtj.n.f, for the
+tj/wtj-ending of relative forms, see T 203, 3):
+
+CT I, 286a-d (T2C): H(.j) n.k {bdt(j)} <jt(j)> Azx.n(.j) n.k bdt(j) jrwtj.n.j rnpwt rnpwt.k jm jrwtj.n(.j)
+Abdw.k jm jrwtj.n(.j) mDdjwnt.k jm
+"I have threshed (lit. trodden) <barley> for you, I have reaped emmer for you, of which I have
+prepared fresh provisions of your years, of which I have prepared your monthly festivals (meal), of
+which I have prepared your half-monthly festivals (meal)"
+
+H(.j) n.k is either perfective sDm.f or a mistake for perfect, in which case we should emend H<.n>(.j)
+n.k. The bdt(j) "emmer" which follows in the CT text is probably a mistake for jt(j) "barley". jrwtj.n.j
+rnpwt rnpwt.k jm "of which I have made fresh provisions of your years" is a mix up of an original "of
+which I have made your fresh provisions (rnpwt)" and  the M.K. misunderstanding or reinterpretation
+"of which I have made (i. e. celebrated) your years/yearly festivals (rnpwt)".
+
+ibid (T9C): H.n(.j) n.k jt(j) Azx.n(.j) n.k bdt(j) jr.n(.j) rnpwtt.k jm jrjtj.n(.j) n Abdw.k jr.n(.j) mDdjwnt.k
+"I have threshed barley for you, I have reaped emmer for you, of which I have prepared your fresh
+provisions, of which I have prepared for your monthly festivals, (of which) I have prepared your halfmonthly festivals (meal)"
+
+ibid (Sq3C): jHw(.j) n.T jt(j) Azxw(.j) nTk bdt(j) jrw.n(.j) rnpwt.T jm jrwtj.n(.j) Abdw.T mDdjwnt.T jm
+"I have threshed barley for you, I have reaped emmer for you, of which I have prepared your yearly
+festivals (meal), of which I have prepared your monthly festivals (meal), of which I have prepared your
+half-monthly festivals (meal)" (the column is split in the original)
+
+T1C has jt(j) mH(j) "northern barley", B10C (read in T 203, 3) has relative perfects jrtj.n(.j) just like
+T2C, T9C, and Sq3C.
+
+Compare the PT sources:
+
+PT 461, §873d-74a-b N: T.k Hjpt r sxt jArw s.kA(.j) n.k jt(j) Azx(.j) n.k bdt jr(.j) rnpwt.k jm mj Hrw zA
+tm
+"You should set course to the Marsh of Reeds, for I have farmed barley for you, I have reaped emmer
+for you, and prepared your fresh provisions from them like Horus, son of Atum"
+
+§§761 (s.kA.f jt(j) s.kA.f bdt Hnk.f Tw jm, the suffix .f refers to the deceased’s son-successor), §1387b88a = Leclant, Pepi I, pl. 22, col. 16: pXr Tw jwaw.k Hr nst.k s.kA.f m jt(j) xAw xpr(.w) s.kA.f m bdt
+[…jr].f rnpwt.k jm "your heir on your throne has served you: he has farmed of barley so that thousands
+are extant, he has farmed of emmer […], of which he [has prepared] your fresh provisions", 1748b-c
+(s.kA.n(.j) jt(j) Azx.n(.j) bdt jr.n(.j) n HAbw.k jm), 1880a (bA.n(.j) n.k bdt s.kA.n(.j) n.k jt(j)), 1950a-b =
+Nt 783 (H.n(.j) jt(j) Azx.n(.j) bdt jr.n(.j) rnpwt.k jm), 2070a-b (jr.n(.j) sT(A)wt s.kA.k(j) jt(j) s.kA.k(j)
+
+216
+bdt Hnk.t(j) pjpj nfr-kA-ra pn jm, for the reading see P 41b, 3), Nt 768 (PT 666, Azx.n(.j) jt(j) n wAg.k
+bdt n rnpwt.k), Leclant, Pepi I, pl. 22, col. 29, Allen’s P 448 (Azx.n.(j) jt n Hbnnwt.k Azx(.j) bdt n
+rnpwt.k), Leclant, Pepi I, pl. 22, col. 75, Allen’s P 553 (s.kA.n(.j) jt Azx.n(.j) bdt [jr.n(.j) rnp]w[t.k jm],
+translated in section 1, just above), Nt 829: s.kA.n(.j) jt(j) Azx.n(.j) bdt jrt.n(.j) n trwt.k "I have farmed
+barley, I have reaped emmer, of which I have prepared for your seasons", cf. also PT 666, Nt 774-75:
+stp zA.k Hr tpjw.k tA jr.sn HAbw.k "Extend your protection over your descendants and they will
+celebrate (lit. make) your festivals".
+
+The verb H is used especially to express "threshing by (cattle’s) hoofs" when a herd of oxen or asses
+treads on grain. Cf. the inscription above the threshing scene with oxen in the tomb of Paheri of the
+New Kingdom:
+
+L.D.III:10c: H.tn n.tn zp 2 jHw H.tn n.tn H.tn n.tn dHAw r wnm jt(j) n nbw.tn m rdj wrd n jb.tn
+"Thresh for youselves, two times, oxen. Thresh for yourselves, thresh straw for yourselves to eat (it),
+(while) barley is for your lords, don’t become tired (lit. don’t give weariness to your heart)"
+
+The verb was used in the expression H zpt "thresh/step on a stack of spikes (on a threshing-floor)" or
+"thresh (the spikes on) a threshing-floor". Pierre Montet has "pietiner l’aire" and "fouler l’aire" for H
+zpwt (Montet, Scènes, p. 196, note 2 and pp. 182, 183). The verb has the {ass} determinative in the
+mastaba of Ptahsekhemankhi (ptH-sx(m.j)-m-anx(.j) "Ptah is in control of my life"), Mariette, Mast.,
+D41, p.287, showing that the action was performed by a herd of asses.
+
+For zpt as "a stack (of sheaves)" (rather than "threshing floor"), see Junker, Giza VI, page 146: wbs zpt
+"aufwerfen der Miete" ("pile up a stack (of sheaves)"), the mastaba of Ti, Steindorff, Ti, Tf. 124: wbs jt
+r zpt "tossing barley (sheaves) into a stack", the mastaba of Akhetihotepi (Axt(j)-Htp(.j) "He of the
+Behind the Horizon (i. e. the Sun) is content") (Davies, Ptahhetep II, pl. 8, (middle register)): zp(t) nt
+330000 "a stack of 330000 (sheaves)", and cf. the synonymous wbs pHt nt jt bdt "tossing a stack of
+barley (and) emmer" (Mariette, Mast., D15, p.212).
+
+Pierre Montet (Montet, Scènes) provides the the inscriptions belonging to the cultivation and
+harvesting scenes in the Old Kingdom tombs on pages 181-182. Because of the discussed passage we
+are interested in the examples number 3 (jwH (sic) "threshing"), 4 (H "threshing"), 6 (H aA zpwt
+"threshing a stack by an ass"), 9 (H zp(wt) "threshing of stacks"). Although Montet reads the verb in
+example number 4 from the mastaba of Akhethotep (Davies, Ptahhetep II, pl. 7) differently as "pull out
+(flax)" (H mHa), the example should be in the list as there is no scene of "pulling out of flax" on the
+wall, whereas a threshing scene does occur on the wall (ibid, pl. 8, threshing by asses and bulls (ng)),
+so this is actually "threshing" (H). To the instances gathered by Pierre Montet should be added the
+instance from the tomb chapel of Raemkai (ra-m-kA(.j), MMA 08.201.1b): Hw zpt nt jt(j) bdt
+"threshing a stack of barley (and) emmer".
+
+Pierre Montet (Montet, Scènes) translates the verb H as "fouler", Hannig, ÄR, page 781:14 "dreschen
+(a. durch Tiere)", H m spt "dreschen auf der Tenne"
+
+Moreover, see the inscriptions in the mastaba of Ti, Steindorff, Ti, Tf 131:
+mAA swH gnw H jArrt kAt nb(t) nt sxt
+"Review of the catching of orioles, the pressing of (lit. treading on) grapes, (and) every marsh-work"
+
+ibid, Tf. 130: jnt jA(rrt) r H "bringing the grapes for pressing (lit. treading)"
+
+Moussa-Altenmüller, Niankhhnum, Tf. 57: Hw m zpt "Threshing on the threshing floor".
+
+217
+
+El Bersheh I, pl.31 (the inscription above asses threshing): […] r H zp 2 H r m H […]
+"[…] thresh, thresh, thresh…thresh […]"
+
+Note that in his earlier work James Allen reads H as "thresh", §657a: "Barley has been threshed for
+you" (Allen, Inflection, §29, p. 17).
+
+T 205 (PT 374)
+§659a: wn n.k aAwj pt pr.k jm.sn
+Allen "The sky’s door has been opened to you, that you may emerge from it"
+Shmakov "The sky’s (door)-leaves have been opened to you, that you may go forth in them"
+
+This is a case of prj m "go forth in", not "emerge from", see P 528.
+
+T 220 (PT 414)
+§737a-c: hA tjt pw Szp n.k s.Sp.k Szp n.k HAtj.k Hr.k wnx.k m jrt Hrw jmjt tAjt
+Allen "Ho, Teti! Receive your dazzling garment, receive your bleached garment on you, and get
+dressed in Horus’s eye from Ta’it-Town"
+Shmakov "Ho, this Teti! Receive your bright tunic, receive your bleached garment upon you, and get
+dressed in Horus’s eye which is a linen fabric"
+
+In this passage Horus’s eye is likened to a garment, cf. also:
+
+PT 453, §844a-b: hA pjpj pw aHa jr.k wnx n.k jrt Hrw Szp n.k s(j) Hr.k
+"Ho, this Pepi! Stand up, put on Horus’s eye, receive it upon you"
+
+For the meaning of the word tAjt, see W 54. For the meaning of the m-nisbe, cf. PT 93, §63c: wnjs Szp
+n.k t.k pn jm(j) jrt Hrw "Unis, receive this your bread which is Horus’s eye", PT 155, §93a: mj n.k
+Hwnt jm(j)t jrt Hrw "Take a lass (i. e. uraeus) who is Horus’s eye"; PT 93, §63c: wnjs Szp n.k t.k pn
+jm(j) jrt Hrw "Unis, accept this your bread which is Horus’s eye"; PT 359, §601d: gs n tjt wnm jmj
+Hrw "the right side of Teti which is Horus", §601f: gs n tjt jAbt(j) jmj stS "the left side of Teti which is
+Seth". Compare the current passage with this passage with a similar sense (Horus’s eye is again a kind
+of offering) which has a non-nisbe use of m: Sethy I, Abydos II, pl. 10: mj n.k jrt Hrw m mDt "Take
+Horus’s eye as oil".
+
+2)
+§737d-f: jr.s kjjt.k xr nTrw jr.s m.sjAt.k xr nTrw jT.k wrrt jm.s xr Hrw
+Allen "it will make your acclaim with the gods, it will make your recognition with the gods, and you
+will acquire the crown through it with Horus"
+Shmakov "it will make your (welcoming) cry from the gods, it will make your recognition by the gods,
+you will acquire the crown through it from Horus"
+
+Merenre’s and Neferkare’s copies add jT.k wrrt jm.s xr nTrw "you will acquire the crown through it
+from the gods". For the meaning of the preposition xr in this passage, see W 140, 4 (xr "from") and T
+142 (xr "by").
+
+There probably is a implied word-play between m.sjAt "recognition, cognizance" in §737d and the
+(unmentioned) word sjAt "fringed kilt", which is hinting at the reading "it will function (jr.s) as (m)
+your fringed kilt (sjAt.k) from the gods", seeing the theme of this present passage which is about
+putting on a garment. For sjAt, cf. PT 675, §2004a: DbA(.j) Tw m sjAt.k tw "that I may robe you in this
+
+218
+your fringed kilt"; CT VI, 266n: Hbs.k Tw m sjAt.k "you shall dress yourself in your fringed kilt".
+
+T 221 (PT 415)
+§738b: tAjt Hr(j)t spt jwn wr snsn nTr r sn.f
+Allen "Ta’it on the lip of the great nest! Associate the god to his brother"
+Shmakov "Ta’it on the lip of the great nest which makes the god fraternize to his brother"
+
+snsn is a participle which refers to the noun jwn "nest" (this interpretation was reached independently
+from Samuel Mercer who also gives it as a participle). jwn "nest" actually has the literal meaning
+"gathering-place" and derives from the root jwn "gather together" (cf. T 145); cf. the word Xnm "nest"
+from the root Xnm "join" which occurs in the mastabas: Moussa-Altenmüller, Niankhhnum, Tf. 5, 7475: Hsb [Xnm] Apd, Hsb Xnm Apd "hunting nest(s) of birds with a throwstick" (the word for bird is
+written with bird signs, not phonetically; Xnm has a {nest with chicks} determinative in Gebrawi, I, 5),
+Kanawati-Raziq, Seankhuiptah, pl. 69: Hsb Xnm "hunting nest(s) with a throwstick" which occurs in
+Deir el Gebrawi, I, 5: ama(A) Xnm Apd "hunting nest(s) of birds with a throwstick". Thus we literally
+have: "gathering-place that makes the god fraternize to his brother (namely because of the physical
+closeness to each other in the same nest)".
+
+T 222 (PT 416)
+§740 (also Leclant, Pepi I, pl. 11, col.1): DAwt pw nw jr.n Hrw n jt(j).f Asjr(t)
+Allen "This which Horus has made for his father Osiris is a sound garment"
+Shmakov "This which Horus has made for his father Osiris is a textile"
+
+We should probably read DAwt "textile", rather than wDAt "sound garment", in the text; cf. the O.K.
+title Hr(j)-tp DA(w)t "Chief of garments" Jones, Titles, # 2378.
+
+T 223 (PT 417)
+§741e: zb.T a.f n ra r Axt
+Allen "may you send his arm to the Sun and away from the Akhet"
+Shmakov "may you send his arm to the Sun, to(ward) the Behind the Horizon"
+
+Allen’s reading of the preposition r "to" as "away" in this passage was dictated by his wish to match
+this passage with his idea that the texts of the serdab passage (to which §741e belongs) are about
+leaving the Behind the Horizon (cf. W 178, 1), but the actual meaning of the passage is really "to the
+Behind the Horizon".
+
+T 225 (PT 419)
+§743c: DbA.tj m saH.k pn jmj Axw
+Allen "arrayed in this insignia of yours as one of the akhs"
+Shmakov "robed in this dignity’s insignia of yours in (charge of) the akhs"
+
+For the use of jmj, see P 31, 2. Moreover, it would be strange if the king were just one of the akhs, for
+the PT themselves tell us about the king as governor of the akhs (§§573b, 871d, Leclant, Pepi I, pl. II
+B, col. 55 = Nt 667, 1163b, 2104).
+
+2)
+§743d: Axbx n.k aw(j) rww n.k rdwj DAm n.k Drwt
+Allen "Arms will be linked for you, feet will drum for you, hands will wave for you"
+Shmakov "Arms will move for you, feet will drum for you, hands will wave for you"
+
+219
+There is a possibility that Abxx is a case of  graphical transposition and is actually a half-reduplicated
+Axbx (the root being xbj "move, dance"), which is a variant spelling of Agbgb (§§1110a, 1615b, a case
+of /x/ ~ /g/, see P 357, 2, M 52), not a geminated Abxx for a prospective passive (Allen, M. E., 21.2.2)
+"will be linked".  Cf. transposed j.xxm (§§61b, 89c) for j.xmx in W 64. Cf. PT 29, §20d: xw.s Tw m-a
+Agb n a n stS "it (i. e. Horus’s eye) will defend you from the movement of Seth’s arm"; cf. also CT III,
+294g: T3C, G1T give Abxt awj.s Hr wrD jb "she who links her arms over Tired of Heart" while A1C
+gives xbt awj nw wrD jb "she who moves the arms of Tired of Heart". Moreover, it would be strange to
+use a passive verb and then two active ones (rww, DAm); sooner one would expect three active verbs in
+the passage, "arms move, feet drum, hands wave". Compare the text with these passages in which an
+active verb has awj as subject: PT, §1366b P (sqr n.k rdwj DAm n.k awj), §2014a N (rwj n.k awj DAm
+n.k rdwj), CT I, 272d: T1C  (DAm awj).
+
+3)
+§744b: HAj wrSw.k
+Allen "as your watchers mourn you"
+
+There is no "you" in the original, which reads "as your watchers mourn".
+
+4)
+§745b-c: xAw.k m mrHt xAw.k m Ss
+Allen "your thousands of ointment, your thousands of linen"
+Shmakov "your thousands of ointment, your thousands of alabaster vases (with unguents)"
+
+Ss is "alabaster vase/vessel", not "linen".
+
+See the mastaba of Rahoptep (Petrie, Medum, pl.13):
+tjAAt nmtj(t) aAt, aAt xsbD mAT Ss
+"porphyry vessels, white quartzite vessels, stone vessels; stone vessels: lapis-lazuli vessels, granite
+vessels, alabaster vessels"
+
+Manuelian, Slab Stelae, pl. 21-22, p. 88: xA tjAAt xA nmtt xA kAbA xA Ss
+"a thousand lug-handled porphyry vessels, a thousand lug-handled white quartzite vessels, a thousand
+granite (?) vessels, a thousand alabaster (cylinder) vessels"
+
+For Ss as "alabaster vase" and not just "alabaster", cf.
+
+Urk.IV:641:1: 7 Ss mH(.w) m (m)Dt wabt nt xt nTr
+"seven alabaster vases filled with pure ointment of the god’s property (i. e. of the temple’s property)"
+
+Urk.IV:641:5: Ss 5 "five alabaster vases"
+
+In the Old Kingdom private tombs the word Ss is normally written either without determinative or with
+{alabaster basin}-W3 determinative. But there are exceptions: Merenre’s copy of §745c gives this
+word with {alabaster vase}-W30 determinative, just like the previous word mrHt "ointment"; in the
+following mastabas and slab stelae the word also has the {alabaster vase} determinative: Manuelian,
+Slab Stelae, pl. 3-4, 5-6, 7-8; Duell, Mereruikai, pl. 57, 62, 63(= 64), 113, 207; Kanawati-Raziq,
+Watetkhethor, chamber B5, south and north walls of the alcove; Kanawati-Raziq, Meryteti, pl. 15(=49),
+50; Ptahshepses II (Murray, Saq. Mas., pl. 29 (the word is determined with {alabaster vase} sign just
+like the following mrHt "ointment" (after mnxt)), 30; Kahufuirui (kA-xw.f-w(j)-jr-w(j) "Khufu’s ka is
+the one who made me", L.D.II:17d), the word occurs here with both determinatives: {alabaster vase}
+
+220
+and {alabaster basin}; probably in Kanawati-Hassan, Ankhmahor, pl. 68; also on the stela BM 832.
+
+These exceptions show that during the Old and Middle Kingdom the word Ss does have the meaning
+"alabaster vase (with unguent)". Moreover, the word mnxt already has the meaning "linen cloth", so it
+would be superfluous for Egyptians to present "linen" twice.
+During the New Kingdom the original meaning of Ss probably disappeared because since the Middle
+Kingdom the sign is written in the free space of the mnxt sign, and step by step its original meaning
+disappeared, cf. Urk.IV:195:16: mnxt Ss(j) nswt "linen clothes, king’s linen" and ibid:821:2: mnxt nt
+Ss(j) nswt "linen clothes of king’s linen" (in this passage the word Ss(j) (< sSr ~ Ssr) "linen" is written
+with a {stone} sign as the determinative probably under the influence of Ss "alabaster").
+
+The burial chamber of the tomb of Sennefer (TT96), west side of pillar four:
+HAt(j)-a njwt rswt sn nfr mAa xrw rdjt mnxt Ss snt.f mryt
+"Mayor of the southern city, Sennefer, vindicated. Giving linen cloth (by) his sister (i. e. wife) Meryt"
+
+Here Ss is written inside the mnxt sign but only two pieces of linen cloth are presented by Meryt, and
+no alabaster vases, as is shown by the image below the inscription.
+
+However, the situation is not absolutely clear when the formula xA t xA H(n)qt xA Ss xA mnxt
+"thousand of bread, thousand of beer, thousand of alabaster vases (with ointments), thousand of
+clothes" sometimes has an additional offering xA mrHt "a thousand of ointment" as in the current
+passage. It would be illogical if xA Ss would here still stand for "a thousand of alabaster vases (with
+unguent)", unless in this case the alabaster vase had a contents that differed from mrHt or unless an
+empty alabaster vase as the package for mrHt was meant (Junker, Giza VI, Abb. 33, p. 113, Abb.38a,
+p. 122: xA mrHt; Mariette, Mast., E7, p. 396: xA mrH(t); Murray, Saq. Mas., pl. 29, 30; Simpson,
+Kawab, Khafkhufu I and II, fig. 31, 32).
+
+It may be interesting to note that hieroglyph V6 for the word "alabaster vase" in the expression xA Ss
+sometimes is written upside down as V7 (which has the phonetic value Sn), see Junker, Giza I, Abb.
+36, p. 186; Junker, Giza VIII, Abb. 58; Mastaba of Izi, block in Copengagen (= Berlev, Stelae, p. 32);
+ASAE 38, page 35, fig. 2 (the stela of Inikaf); Simpson, Qar and Idu, fig. 41; Duell, Mereruikai, pl.57,
+62, 63(=64), 113, 207; Kanawati-Raziq, Meryteti, pl. 15(=49), 50; Murray, Saq. Mas., pl. 29
+(Ptahshepses II); Kanawati-Raziq, Sankhuiptah, pl. 67; Mariette, Mast., E12, p. 412; Urk.I:147:12;
+MMA 64.100 (false door from the tomb of Metjetji).
+
+5)
+§746b-c: dr.n Hrw Dwt jr(j)t tjt m jfdt.f j.xm.n stS jrt.n.f jr tjt m xmnt.f
+Allen "Horus has repelled the bad that was against Teti on his fourth day, Seth has negated what he had
+done to Teti on his eighth day"
+Shmakov "Horus has repelled the bad stuck to Teti in his four days period, Seth has negated what he
+had done to (lit. against) Teti in his eight days period"
+
+m jfdt.k…m xmnt.k is "in his four days period…in his eight days period". There is an implied wordplay in the passage: the jfdt.f "his four days period" hints at (an unmentioned) fdt.f "his sweat" (in this
+case the sign of putrefaction), i. e. the whole passage hints at "Horus has repelled the bad stuck to Teti
+as his sweat", cf. PT 670, §1978c: fd.n.f fdt [jrt] pjpj m fdnw.f hrw "He has pulled up the sweat stuck to
+Pepi on his fourth day" and the descendant of this passage CT VI, 383k: fd.n.f fdt jrt jf.f m hrw fdnw.f
+"He has pulled up the sweat stuck to his flesh on his fourth day". In the second part of the current
+passage the explicit word-play is between j.xm.n "has negated" and xmnt "eight days period" (cf. also
+PT 670, §1978d; CT VIII, 1978d has similarly xmn "eight days period").
+
+221
+
+6)
+§747a: wn aAw Hr StAw swt
+Allen "The doors have been opened onto those whose places are inaccessible"
+Shmakov "The (sarcophagi’s) lids which are on/over those whose places are inaccessible have been
+opened"
+
+aA as "(sarcophagi’s) lid" occurs in Urk.I:66:5: jn[.t(j)] qr[sw] pn Hn[a aA].f "this sarcophagus and its
+lid were brought", ibid:67:4, 99:16, 106:15, ibid:205:5 (and 14): DD.Tn n(.j) aA pn n qrs pn Hr mwt.f
+"You shall put for me this lid of this sarcophagus upon its proper place/base (lit. mother)".
+
+The following passages also have aAwj "leaves" or "lids" over (Hr) a person: CT I, 75c: zn n.k aAwj
+Hr.k jn gbb "leaves have been flung open over you by Geb", CT VII, 174f: j.wn.f aAwj Hr.j "He will
+open the leaves over me".
+
+T 226 (PT 420)
+§750b-d: nfr.w(j) wab.k zm(j)n(j) zm(j)n(j) zm(j)n Tw m-m nTrw zm(j)n(jw) zm(j)n(j) zm(j)n Tw m-m
+zHjw nTr zm(j)n(jw)
+Allen "How beautiful is your cleanliness, settler. Settle yourself among the gods, settler. Settle yourself
+among those of the god’s booth, settler"
+Shmakov "How beautiful is your cleanliness, you of the soda solution. You of the soda solution,
+introduce yourself among the gods of the soda solution. You of the soda solution, introduce yourself
+among those of the god’s booth of the soda solution"
+
+zm(j)n(j) "you of the soda solution (i. e. perfectly clean)" is a nisbe of the noun zmjn "soda solution",
+see the spell PT 34, especially §26a-b: zmjn zmjn wpp r.k hA wnjs j.dp.k dpt.f xnt(j) zH(j)w nTr
+"Soda solution, soda solution that parts your mouth, ho, Unis! may you taste its taste, you at the fore of
+those of the god’s booth"
+
+Note, that zH(j)w nTr "those of the god’s booth" are mentioned in both these spells in connection with
+natron cleansing.
+
+For the spelling zm(j)n without mj-sign, see PT 455, §849b-c: mA.Tn wab pn n jt(j) Asjr(t) pjpj pn m
+nTrj m zm(j)n m bd "that you may see this cleansing of father Osiris, this Pepi, with natron, with soda
+solution, with soda" (In §849c of the copies of Pepi and Merenre the spelling bd m zm(j)n m reflects
+esthetic space filling, the rule "a bird sign better fits in the second position", see Supplemental notes,
+notes on the signs, 17)
+
+Omission of the middle j in words was normal for hieroglyphic writing, for example mjwt ~ mwt
+"mother", mjAz (§1999c) ~ mAz (§1560с) "stings", mnt (§872b M) ~ mnt "Moorer" (ibid N), bjk ~ bk
+"falcon" (§§748b, 1672c), sjw ~ sw "proclaim" (§597с), s(j)n "run" (§769a), njs ~ ns "call" (§950a M),
+mjzt (Wb.II:44:11) ~ mzt (§82d) "liver", p(j)zn (> przn in the Middle and New Kingdoms) "flat bread",
+s(j)A "recognition" (§§335c W, 737d TN), H(j)H "search" (§972a, the verb is 4th-weak HjHj).
+
+James Allen probably treats zm(j)n zm(j)n as the single verb form zm(j)nzm(j)n, formed through full
+reduplication of the root zm(j)n, as he translates it just "Settle yourself", but such a treatment can
+hardly be accepted. For the meaning of the verb zmn/zmjn "introduce", see P 501, 1-2.
+
+T 227 (PT 421)
+§751b: Twt jxxw Hrj wart nt pt
+
+222
+Allen "you are He of the Sunshine, who is on the shin of the sky"
+Shmakov "you are the half-light who is on the thigh of the sky"
+
+The word wart has the meaning "thigh", not "shin" which is sbq (PT 539, §1314a-c: mntj mrjjra…sbqwj mrjj-ra "Meryre’s thighs…Meryre’s shins"), cf.:
+
+CT III, 333b-f: dj mj n.j mnawt nTrw…d.sn w(j) Hr warwt.sn mnDw.sn tp r.j
+"Give me please gods’ nurses…that they may put me on their thighs (and put) their breasts upon my
+mouth"
+
+CT VI, 247i-j: Sd n.T N tp wart.T jmj n.f mnD.T pw rdj.n.T n.f
+"Take N onto your thigh, give him this your breast you used to give him"
+
+Urk.IV:1409:1-2: dj.j sDm.tn xprt xr.j…Dr prt.j m wartj mwt.j
+"I will let you hear what happened to me…since I left (lit. my coming forth from) the thighs of my
+mother (i. e. since I was no longer a baby suckled by my mother while sitting on her thighs)"
+
+It is also possible to read the latter passage as referring to a birth "since I emerged between (m) the
+thighs of my mother", with the prepositiom m used instead of the usual jmjwt(j) "between". Anyways,
+we have wart ~ mnt "thigh" as there is a similar expression pr jmj(w)t(j) mntj "emerge between the
+thighs (i. e. be born)" (§262a).
+
+The word jxxw (Wb.I:126:2) means "dusk", not "sunshine". The presence of the sign {sun with rays}-

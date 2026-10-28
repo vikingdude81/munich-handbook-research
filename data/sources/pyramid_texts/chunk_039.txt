@@ -1,0 +1,504 @@
+81a: nDr.n Hrw stS d.n.f sw Xr.k, §626d: Dj.n.sn n.k xft(j).k Xr.k, §637a: d.n n.k Hrw xftj.k Xr
+rdwj.k, §642a: d.n n.k Hrw xftj.k Xr.k, §650a: pD.n n.k Hrw xftj.k Xr.k, §1632a: Dj.n.f sw ksj Xr.k, Nt
+358: rDj.n n.k psDt xft(j).k Xr.k.
+
+M 211 (PT 595)
+§1639b-c: jw.n(.j) xr.k hrw pn Dr xAw rDj.n n.k nwt.k nw
+Allen "I have come to you at this your day on the night’s edge and given you your hunter’s hunt"
+Shmakov "I have come to you at this your day after the night which your Hunter has given you"
+
+rDj.n n.k nwt.k nw is probably a relative form "which your Hunter has given you", not a sDm.n.f with
+the subject .j unwritten ("I have given you"). For the text seems to include a standard formula "I have
+come and I have brought":
+
+§§1639b-1640a: jw.n(.j) xr.k...jn.n(.j) n.k jb.k "I have come...and brought you your heart"
+
+A standard formula that is well attested elsewhere:
+
+PT 32, §22b: jw.n(.j) jn.n(.j) n.k jrt Hrw "I have come and brought you Horus’s eye"
+
+349
+PT 106, §69b: jw.n(.j) jn.n(.j) n.k jrtj Hrw "I have come and brought you both Horus’s eyes"
+PT 605, §1681a: jj.n(.j) jn.n(.j) n.k wADw "I have come and brought you green eyepaint"
+PT 685, §2066a: jw.n.sn jn.n.sn n.k mw wabw "They have come and brought you clean water"
+PT 687, §2074a: jw.n(.j) jn.n(.j) n.k jrt Hrw jmjt tA.s "I have come and brought you Horus’s eye in
+which there is its heat"
+
+Whereas if we were to take rDj.n n.k as a sDm.n.f, the standard formula would be ruined: "I have
+come...I have given...I have brought".
+
+M 214 (PT 459)
+§866b: xw.k m abA xrp.k m jAAt
+Allen "[You shall] strike [with] the baton, direct with the sceptre"
+
+The original has "You shall defend (xw) with the baton, direct with the sceptre".
+
+M 215 (PT 597)
+§1642: m(j) wnx.k n.k jr(t) Hrw (w)DAt jmjt tAjt
+Allen "Come and get dressed in Horus’s eye from Ta’it-town"
+Shmakov "Come and get dressed in Horus’s sound eye which is a linen fabric"
+
+The text has jr(t) Hrw (w)DAt "Horus’s sound eye". For the reading, see W 54, 1.
+
+M 227 (PT 602)
+§1672a-b: Dd mdw n tA n gbb n Asjr(t) n jnpw n wr H(A)b Dj.k HAbjj nmtj-m-zA.f mr.n-ra m H(A)b n
+Hrw
+Allen "Recitation to the earth, to Geb, to Osiris, to Anubis, to the one of many festivals: May you
+(each) make Nemtiemzaf Merenre festive in the festival of Horus"
+Shmakov "Recitation to the earth, to Geb, to Osiris, to Anubis, to the Great of Catch: May you (each)
+make Nemtiemzaf Merenre jubilate at Horus’s catch"
+
+The latter H(A)b in this passage also has the meaning "catch", not "festival".
+
+2)
+§1673c: s.(j)d.Tn n.f Swtj.f
+Allen "grow for him his plumes"
+Shmakov "grow for him his two horns"
+
+For Swtj "two feathers" as a metaphor for "two horns", see T 228. Moreover Srt "nose" and msDrwj
+"ears" in §1673a-b refer to that of an animal as opposed to fnD and anxwj of a human (see W 165, 13),
+thus the deceased is represented in the passage as a bull, rather than as a bird or a human with
+headdress.
+
+3)
+§1674a-b: Dj.Tn swA nmtj-m-zA.f mr.n-ra Hr nTr mH(.j) m saHw TAww
+Allen "let Nemtiemzaf Merenre pass by the god who seizes the winds’ insignia"
+Shmakov "let Nemtiemzaf Merenre pass by the god who is full of the insignia (and) the winds"
+
+mH m "be full of", and saHw TAww "insignia (and) winds", because "winds’ insignia" sounds odd;
+probably the being filled with winds refers to the opening of the king’s nose (for breathing) in §1673a.
+
+350
+M 230 (PT 210)
+§127b: wn r n nmtj-m-zA.f mr.n-ra
+Allen "Nemtiemzaf Merenre’s name shall exist"
+Shmakov "Nemtiemzaf Merenre’s mouth is open"
+
+wn is probably the verb "open" (it occurs also without determinative in §§756c PM, 1480a MN). r n is
+probably "mouth of" (r "mouth" without determinative is also attested in §§39a, 60a, 63a, 938b N).
+The jmj in W and T (SsAw pn jmj r.f / r tjtj, "this tongue which is in his/Teti’s mouth") has been
+reinterpreted in M and N as wn, probably because the signs jmj-Z11 and wn-M42 are similar in
+hieratic.
+
+M 239 (PT 346)
+§561d (also in N 374): xt n(.j) Hmw
+Allen "—"
+Shmakov "a meal for me, servants!"
+
+Absent in Allen’s Variants.
+
+M 284 (PT 461)
+§873c: j.zn aAwj qbHw
+Allen "the Cool Waters’ door has been pulled open for you"
+
+There is no "for you" (n.k) in the original, it occurs only in Neferkare’s copy.
+
+2)
+§873c-74b: wn(.j) n.k aAwj pt j.zn(.j) aAwj qbHw T.k Hjpt r sxt jArw s.kA.k(j) jt Azx.k(j) bdt jr.k(j)
+rnpwt.k jm mj Hrw zA tm
+Allen "The sky’s door has been opened to you, the Cool Waters’ door has been pulled open for you.
+You shall set course to the Marsh of Reeds, (where you will) farm emmer, reap barley, and make your
+yearly supplies from them like Horus, Atum’s son"
+Shmakov "I have opened the sky’s (door)-leaves for you, I have pulled open the Cool Waters’ (door)-
+leaves so that you may set course to the Marsh of Reeds, (while) I have farmed barley (and) reaped
+emmer, of which I have made your fresh provisions like (did) Horus, son of Atum"
+
+This passage probably has perfective sDm.f’s (not passive sDm.f’s) and 1ms stative suffixes .k(j) (cf. P
+41b, 3), firstly because "farming" passages normally have the deceased’s son as the subject (see T 204,
+3), secondly, because Neferkare’s copy of this passage has perfective sDm.f with 1ms suffix (see ibid).
+The original has "(while) I have farmed barley (jt) (and) reaped emmer (bdt)" (James Allen mixed up
+barley and emmer, also in N 435, p. 361). For the word rnpwt "fresh provisions, fresh food products",
+see P 327, 4 (the word also occurs in Nt 783). There probably was no word rnpwt "yearly supplies", as
+all the offering-lists of the private Old Kingdom tombs use the word rnpwt "fresh provisions" of the
+root rnpj "fresh"45. Cf. PT 477, 965a-b: jn spdt…jrt rnpwt.k m rn.s pw n rnpt "Sothis…who makes your
+fresh provisions in her identity of the year", in this passage the word-play rule is valid, the rule asserts
+that a word-play is usually made up of two semantically different words that sound alike (see W 53).
+
+M 336 (PT 606)
+§1687b: wjA pw n ra…Xnnw ra jm.f jr Axt
+Allen "the boat of the sun…in which the Sun is rowed to the Akhet"
+
+45 In Meir IV, pl.9 rnp(t) has {bull’s head}-F1 determinative.
+
+351
+Shmakov "the boat of the sun…in which the Sun rows to the Behind the Horizon"
+
+This is an active relative construction, there is nothing passive here. James Allen offers the same
+reading (Xnnw Xt psDt jm.f "in which the body of the Ennead is rowed") in P 476 (PT 528, §1250e),
+probably suggesting that the Sun or the Ennead are too important to be engaged in the action of rowing
+themselves and would have rowers for this. However, "in which the Sun is rowed" would be *Xn.t(j) ra
+jm.f, but we have Xnnw ra jm.f "in which the Sun rows (himself)". Cf. also CT VII, 44e-f: D{d}<n>jt
+tw nt ra wppt mjt r msktt Xnnt ra jm.s "This dam of the Sun which parts the evening bark from the
+morning bark in (both of) which the Sun rows" (Xnnt is probably a relative form, rather than a passive
+sDm.f –Xnn.t(j)): ibid, 44h-i: hA.k r.k m ma(n)Dt ra Axtj…Xn.f Tw "Board the morning bark (and) the
+Sun of the Behind the Horizon will row you" (in this passage the Sun clearly takes the job of a rower).
+
+2)
+§1689a: m bAH X(t) psDt m jwnw
+Allen "in the presence of the Ennead in Heliopolis"
+
+The original text has X(t) psDt "the Ennead’s body (i. e. company)".
+
+3)
+§1696c: jj n.n sn.n nn
+Allen "“The brother here has come to us”"
+Shmakov "“It is (the case that) our brother has come to us”"
+
+We must read sn.n "our brother", for n is probably not a complement of sn, but a suffix.
+
+M 365 (PT 609)
+§1703e: Ax […].k m-xt mHt
+Allen "and become verdant in the wake of the north wind"
+Shmakov "your […] will become full-watered in the wake of (lit. after) the north wind"
+
+2)
+§1708b: Hmsw Hr Dab.sn
+Allen "who sit at their charcoal-burning"
+Shmakov "who are in charge of (lit. sit on) their staves"
+
+For the expression Hmsw Hr Damw.sn, see P 510. So this is a case of /b/ ~ /m/, i. e. Dab ~ Dam
+"stave", cf.:
+
+wnm ~ wnb (Nt 699) "eat",
+xAm (Wb.III:231:3) ~ xAb (pPrisse 13, 12 (448) = Wb.III:229:9, 12) "bend (arm)" (the root is probably
+SAb/XAb/xAb "become crooked", i. e. in this case "make an arm crooked"),
+Hnmmt "Sunlight people (i. e. Egyptians)" and Hnbw "sun’s rays" (the root is Hnm/Hnb),
+mnzA ~ bzA (the word-play in §32b),
+Dam ~ Dba (the word-play in §48b = Nt 317),
+am ~ abS (the word-play in §92c-d, as well as bSt ~ abS),
+m.sn ~ nbs (the word-play in §99a-b),
+j.mz kw jr ~ bzn (i. e. ’mz’’’r ~ bzn, the word-play in §101g),
+rDw jm.k ~ wrD jb.k (the word-play in §23a),
+xnt jb n ~ xnt jmntjw (i. e. xntjb ~ xntjm’’’’, the word-play in §592b),
+wp.n…mA.k ~ wpt wAwt (i. e. wp’’’’’’’’’’mA’’’ ~ wp’wA’’, the word-play in §643a),
+
+352
+mnD ( > mnd) ~ bndt "breast",
+bAgsw (Wb.I:432:4) ~ mAgsw "dagger" (ibid),
+Ddm (Wb.V:634:19) ~ Ddb "sting" (ibid:632:7),
+gmgm ~ gbgb "break up" (CT VII, 20u),
+Hwt mn-mAat-ra "Enclosure of the Firm one of the Sun’s maat (Menmaatra)" and Hwt bnbn mAat ra
+"Enclosure of the bnbn-stone of the Sun’s maat" (two names of Sethy’s I temple at Abydos), here mn
+and bnbn sound similar. See also Edel, Alta. Gr., §124.
+
+M 375 (PT 610)
+§1717a: sq(j) n.k rdw j<r> dAt jr bw nt(j) sAH jm
+Allen "A stairway has been laid down for you away from the Duat and toward the place where Orion
+is"
+Shmakov "A stairway has been laid down for you to the Duat, to the place where Orion is"
+
+In the passage dAt is bw nt(j) sAH jm "the place where Orion is", thus we cannot read "away from the
+Duat and toward the place" (for the reasons of such a reading by James Allen, see W 178, 2).
+
+2)
+§1722a: baH.k m sm pw baHw nTrw jm.f
+Allen "with your abundance from the grassland in which the gods have abundance"
+Shmakov "You will be satisfied with the grassland with which the gods are satisfied"
+
+For baH m "be satisfied with, become sated with", see P 334.
+
+3)
+§1723d: m jrw n.k jnpw
+Allen "as you for whom Anubis acts"
+Shmakov "as what Anubis did for you"
+
+M 387 (PT 614)
+§1740b: [zj].k r.k jr arwt tw nt Hwt bA
+Allen "So, you […] at that portal of the Ba’s enclosure"
+Shmakov "So, you shall [go] to this portal of the Ram’s enclosure"
+
+Cf. CT I, 273c: j.zj r.k r sn Hwt bA pf "Go to the gate of that Ram’s enclosure".
+
+In this PT passage bA pf "that Ram" is meant (see W 172, 2); for the reading of bA as "ram", see P 292,
+2.
+
+M 392 (PT 555)
+§1374c: HD n nmtj-m-zA.f mr.n-ra m a.f Ams n nmtj-m-zA.f mr.n-ra m Drt.f
+Allen "—"
+Shmakov "A mace is for Nemtiemzaf Merenre (to be) in his arm, an Ams-staff is for Nemtiemzaf
+Merenre (to be) in his hand"
+
+James Allen missed this version of M and N of §1374c, which he would probably read as "Nemtiemzaf
+Merenre has a mace in his arm, Nemtiemzaf Merenre has an Ams-staff in his hand" (while Pepi I’s
+version has HD.f m a.f Ams.f m Drt.[f] "his mace is in his arm, his Ams-staff is in [his] hand").
+
+353
+2)
+§1378b-c: pr.n nmtj-m-zA.f mr.n-ra jr pt m mnT hA.n nmtj-m-zA.f mr.n-ra m bA jbT.f m bA aSm.f
+Allen "Nemtiemzaf Merenre has gone up to the sky as Montu, Nemtiemzaf Merenre has gone down as
+the ba he has netted, as his sacred image’s ba"
+Shmakov "Nemtiemzaf Merenre has gone up to the sky as Montu, Nemtiemzaf Merenre has gone
+down as the Ram that nets, as the Ram that delights"
+
+jbT.f and aSm.f are two unmarked relative clauses, lit. "(who) he nets…(who) he delights/invokes
+reverence " (the god determinative after aSm is probably an influence of aSm "delight icon", cf.
+§1098d). For the meaning of the verb aSm, see W 180b, 2, P 460. Also cf. CT VII, 182n-o: jnk bA jw
+jj.n.j aSm.j "I am the Ram: I have come that I may delight". For bA as the "Ram", see P 292.
+
+M 399 (PT 619)
+§1752b: j.nD.k Tw m-a (j)r nn jr.k
+Allen "You shall…save yourself from the one who did this to you"
+Shmakov "You shall help yourself out from the one who would do this against you"
+
+For the reading of the verb nD "tend, help out", see P 4, 4.
+
+354
+
+Part V: Pepi Neferkare’s PT corpus
+
+N 15
+Jéquier, Pepi II, pl. I, line 577: gspw pjpj nfr-kA-ra gspw Hnw Smwt[.f Smwt] jnpw
+Allen "Pepi Neferkare’s plumes are the Sokar-boat’s plumes, [his] goings are Anubis’s [goings]"
+Shmakov "Pepi Neferkare’s meeting are the Sokar-boat’s meeting, [his] goings are Anubis’s [goings]"
+
+gspw with three {baton} signs (look like the {tree}-M1 sign) is probably a variant spelling of xsfw
+"meeting", with the two allophones being cases of /x/ ~ /g/ (see M 52) and /p/ ~ /f/ (see W 81): cf. the
+similar spelling of the word xsfw "meeting" in §1720b M (x-s-f plus three {spindle}-U34 signs). In
+Pepi I’s pyramid the word gspw was spelled with three {feather}-H6 signs (Leclant, Pepi I, pl. II B,
+col. 98) instead of Neferkare’s three {baton} signs, hence Allen’s reading "plumes". But for "plumes,
+plumage" we already have the word Swwt, plus "Sokar-boat’s plumes" makes little sense. Note also the
+parallelism to Smwt "goings", which fits "meetings" better.
+
+N 22 (PT 658)
+§1854b (Faulkner, Suppl.): s.bn Tw nTrw n Hrw
+Allen "The gods have desired you for Horus"
+Shmakov "The gods have shown you to Horus"
+
+For the verb s.bn "show, manifest", see W 180b, 8.
+
+N 25 (= W 175, PT 268)
+§371c: [AT] pjpj nfr-kA-ra jn Ast snqw sw nbt Hwt
+Allen "Pepi Neferkare [will be nurtured] by Isis, Nephthys will suckle him"
+Shmakov "Pepi Neferkare [has been nurtured] by Isis, the one whom Nephthys has suckled"
+
+Literally "whom Nephthys has suckled him", for snqw is probably a relative form (which is clear from
+the w-ending; cf. §623a: Ax…snqw nbt Hwt "an akh…whom Nephthys suckled") as 3-lit verbs do not
+have a w-ending in the prospective sDm.f.
+
+N 32 (PT 627)
+§1777b: xnz pjpj nfr-kA-ra pt Hr fdw srw
+Allen "Pepi Neferkare will course the sky on its four parts"
+Shmakov "Pepi Neferkare will course the sky on the four boards"
+
+The passage does not refer to the four directions or quarters of the sky, but to the four tools to sail to
+those directions; cf. §464b which likewise has four sailing tools (reedfloats) made available for north,
+east, south, and west. The word srw has the determinative of {board}-P92 – this determinative occurs
+after ship parts in the mastaba of Ti: Steindorff, Ti, Tf. 119-120: msH Hr-jb "fitting of the middle
+board", msH saA "fitting of the board", mnx sb "chiseling of sb-board", in which Hr-jb, saA, and sb
+have {board} determinative (the verb msH "adjust, fit", written s-m-H in the original, is probably in
+graphical transposition according to the rule "a bird sign better fits in the second position").
+
+2)
+§1785b: sSm pjpj nfr-kA-ra ra m mAattj.f
+Allen "Pepi Neferkare will lead the Sun in his two Maat-boats"
+Shmakov "Pepi Neferkare will lead the Sun in his two leading boats"
+
+355
+mAat is a nominalized participle "leading", from the verb mAa "lead, pull", cf.:
+
+CT VII, 379c-d: Ast nw nt(j)t m HAt.f m mAat sSm.s n.f wAwt m DAt pt
+"This is Isis who is in front of him as a pilot (lit. leader), she will make for him the paths at the sky’s
+crossing".
+
+CT VII, 137q: Asjr(t) N pn mj n.k jrt Hrw snTryt jmjt mAat.f
+"This Osiris N, take Horus’s eye which cense (and) which is his leader"
+
+CT VII, 138a: Asjr(t) N pn mj n.k jrt Hrw s.nTr Hr.k s.nTr jrtj.k jm.s wnn.s m mAat.k
+"This Osiris N, take Horus’s eye with which your face and eyes will be censed, it will be your leader".
+
+CT VII, 138g (also 134g): mrHt zp 2 jmjt mAat Hr wnn.T m HAt N pn
+"Ointment, Ointment which is Horus’s leader, you will be in front of this N!"
+
+CT VII, 139i: Asjr(t) N pn mj n.k jrt Hrw…wnn.s m mAat.k xft Hr.k
+"This Osiris N, take Horus’s eye…which will be your leader before your face"
+
+CT VII, 140l: Asjr(t) N [pn] mj n.k jrt Hrw… jmjt mAat Hrw
+"[This] Osiris N, take Horus’s eye…which is Horus’s leader"
+
+Leclant, Pepi I, pl. II B, col. 100: mAat Hrw mAat Tw
+"She who guides Horus is she who guides you" (Allen reads this the same, P. T., P 290, p. 118).
+(and a variant in the pyramid of Neferkare, PT 672, 1988a: jn mAat Hrw mAat pjpj nfr-kA-ra pn)
+
+The name of the goddess mAat is also a nominalized active participle, literally "Leading one" or
+"Pulling one" (see W 165, 3), or if paraphrased "She who moves in the right direction".
+
+This note also applies to PT 566, §1429c: zkr js xnt(j) mAat "being Sokar at the fore of the leading
+boat"; PT 539, §1306c: ns n pjpj pn m mAaj jr mAat "The tongue of this Pepi is (that of) the guide to
+the leading boat".
+
+N 42 (= T 199b, PT 368)
+§638a-b: pSS.n s(j) mwt.k nwt Hr.k m rn.s n Stpt rDj.n.s wn.k m nTr nj xft(j).k m rn.k n nTrj
+Allen "Your mother Nut has spread herself over you, in her identity of Shetpet. She has made you be a
+god without an opponent of yours, in your identity of god"
+Shmakov "Your mother Nut has spread herself over you, in her identity of Shetpet. She has made you
+be a god without an opponent of yours, in your identity of natron"
+
+In Neferkare’s copy of the spell there’s a nTrj (R9) "natron" sign instead of the nTr-sign (R8) that
+occurs in the other versions, and it thus makes a word-play between nTr "god" and nTrj "natron". This
+word-play we also find in CT VIII, 580b (Sq3C): d.n Tw nwt m nTr n stS m rn.k n nTrj "Nut has
+appointed (lit. put) you to be a god for Seth in your identity of natron (R9)". That the Neferkare version
+maintains the original thought is further indicated by the fact that there’s a link between natron and the
+toponym Shetpet which is mentioned in the preceding passage: "in her identity of Shetpet…in your
+identity of natron", cf. PT 35, §27e N.: Stpt nTrj TA 5 mHw "Delta natron of Shetpet, five pellets".
+
+N 59 (PT 356)
+§577c: snsn.sn sn
+Allen "—"
+
+356
+Shmakov "They have fraternized with themselves"
+
+N 67 (PT—)
+Jéquier, Pepi II, pl. VI, col. 709+17-18: wn n.k aAwj pt s.nxbxbw n.k [aAwj qbHw njs n.k s.]mnt(j)t Ast
+js Dsw n.k mjnt nbt-Hwt js
+Allen "The sky’s door has been opened to you, [the Cool Waters’ door] has been pulled open to you.
+[You shall call to] the Moorer as Isis, the Mooring-Post shall call to you as Nephthys"
+Shmakov "The sky’s (door)-leaves have been opened for you, [the Cool Waters’ (door)-leaves] have
+been drawn back for you. The Westernizer [shall call to you] being Isis, the Moorer shall call to you
+being Nephthys"
+
+The original text has s.nxbxbw "have been drawn back". For the restoration [the Cool Waters’ (door)-
+leaves], cf. §§1361b, 2009a (= Nt 615). For the reading s.mnt(j)t as "Westernizer" and mjnt as
+"Moorer", see N 70, 3, below.
+
+2)
+Jéquier, Pepi II, pl. VII, col. 709+20: jw t.k xr(.j) ra nb
+Allen "Your bread is present every day"
+Shmakov "Your bread is from me every day"
+
+For the meaning of the preposition xr, see W 140, 4. Harold Hays in his dissertation reads this passage
+same as "your bread is from me every day" (Hays, Structure, p.380).
+
+3)
+Jéquier, Pepi II, pl. VII, col. 709+20-21, §1882d (Faulkner, Suppl.): jwA.k [n.k…m pr (?)] dSr
+Allen "[You have] your ox, [your fowl, your thousand of] red"
+Shmakov "your ox [is for you…from the] red [house] (?)"
+
+It’s uncertain whether we may restore the passage as "[thousand of] red [foods]", as we do not know
+"red" meals in the Old Kingdom. But we do know a place pr dSr "red house" that occurs in the PT
+corpus as a source of supplies, cf. Leclant, Pepi I, pl. II B, col. 79: abS.k m pr dSr "your wine jar is
+from the red house".
+
+4)
+§1883a = Jéquier, Pepi II, pl. VII, col. 709+20-21 (restored with the copy of Aba): rnn.k [mw rnn.k
+rDw pr m Asjr(t)]
+Allen "[Water] shall provide nurture for you, [the outflow that comes from Osiris shall provide nurture
+for you]"
+Shmakov "You shall welcome [water, you shall welcome the outflow that came from Osiris]"
+
+The text has rnn.k, not rn n.k. The verb rnn has the meaning "nurture" as well as "meet, welcome", cf.:
+
+PT 373, §656a-b: Haw.f m xsf.k [Dj].f aw(j).k jr.k j.sn.f Tw rnn.f Tw
+"He will be aroused meeting you, he shall reach out (lit. give) his arms toward you, kiss you, and
+welcome you"
+
+CT I, 141c-d: rnn sw mAT sw dj n.T sw m Xnw awj.T
+"Welcome him, eulogize him, embrace him (lit. give him inside of your arms)"
+
+CT III, 318a-b: rdj.n n.j Hap(j) a.f rnnw.j wp wAwt
+
+357
+"The Nile Flood has given me his arm (and) I am welcoming Paths Discerner"
+
+(Allen’s) N 466 (~ CT 516) Jéquier, Pepi II, pl. 13, col. +29: rnn Tw mtj.k HDtj j.sn Tw mwtj.k HDt[j]
+"your two mothers, the two white ones, are welcoming you; your two mothers, the two white ones, are
+kissing you"
+
+N 70 (PT 458)
+§861c, Leclant, Pepi I, pl. III, col. 15: jrw n.k snt xpr n.k Dnjt
+Allen "the sixth-day meal will be made for you and [the festival calendar] will occur [for] you"
+Shmakov "the sixth-day meal will be made for you (and) the seventh-day meal will occur for you"
+
+For some reason the sign Dn of the word Dnjt "the seventh-day meal" has been spelled with {alabaster
+basin}-W3 sign; it is spelled the same way ({alabaster basin}-j-t-{alabaster basin}) in Leclant, Pepi I,
+pl. 9, col. 5 (the second copy of PT 408 in Pepi’s pyramid). Cf. also PT 408, §716a-b: sk snt n jaw tjt
+Dnjt n mswt tjt "for the sixth-day meal is for Teti’s breakfast and the seventh-day meal is for Teti’s
+supper".
+
+2)
+§863a, Leclant, Pepi I, pl. III, col. 16: rDj n.k aw(j)
+Allen "Arms will be given (in jubilation) for you"
+Shmakov "Arms will give to you"
+
+3)
+§863b, Leclant, Pepi I, pl. III, col. 16: mdw n.k mjnnt wrt Ast js Dsw n.k jmnt(j)t nbt-Hwt js
+Allen "The great Mooring-Post will speak to you as Isis, the West will call out to you [as] Nephthys"
+Shmakov "The great Moorer will speak to you as Isis, the Western goddess will call out to you as
+Nephthys"
+
+The meaning of the name of the divinity mnt/mnt wrt is probably not "Great Mooring Post" as Allen
+has suggested, but rather "Moorer", as her name occurs geminated as mjnnt wrt "Great Moorer" in this
+passage, as well as in §§884b PM, 1366a46.
+The jmnt(j)t of this passage is the nisbe of the word jmnt "West", hence it must be read as "She of the
+West, Western one". This divine name is probably a variant of the usual smntt (cf. §§1997, 2013b), and
+if that is the case then smntt probably does not have the meaning "Moorer" as was suggested by James
+Allen, for the variant jmnt(j)t shows that the root of her name is (j)mnt "west", not mjnj "moor" (cf. the
+spelling of (j)mnt "west" without initial j in §§592b PM, 650c P, 811a P, 811d P, Nt 769 xnt(j)
+(j)mntjw). Note also that smntt (or jmnt(j)t ?) has {mountain range}-N25 determinative, which surely
+indicates the presence of jmnt "west" in the name, in Jéquier, Pepi II, pl. VI, col. 709+18 and Nt 666.
+Just like in the spelling of jmntt in the discussed passage, the name smntt has two t’s, and it is clear that
+the first t belongs to the root of the noun (j)mnt "west", while the second t is that of the (nominalized)
+participle, and the initial s should be a causative prefix. Thus we probably have something like
+s.(j)mnt.t "Westernizer", "She who makes to become a westerner"; compare it with s.xAj "darken"
+(§1151c) (from the root xAw "evening"), s.dwA, and s.mSr (CT III, 96k-97a (BqC)) – causatives with
+uncertain meaning from the roots dwA "morning" and mSr "evening".
+
+N 72 (PT 628)
+§1786b: jw.n(.j)…Dj(.j) n.k jb.k n Dt.k
+Allen "I have come that I may…give you your heart for your body"
+
+46 However, according to what is asserted in P 525, this may be a variant spelling of non-geminated mjnt "mooring post".
+
+358
+Shmakov "I have come that I may…give you your own heart (lit. your heart of your person)"
+
+Cf. PT 41, §32a: tp n mn{n}D n Hrw n Dt.f "the tip of Horus’s own breast"
+
+Nt 742-743: jb.k n.k n Dt.k "your own heart (lit. your heart of your person) is yours"
+
+Nt 739: Szp n.k jb.k n Dt "receive your own heart"
+
+CT I, 56c: rdjw n.T jb.T n mwt.T HAt(j).T n Dt[.T]
+"You have been given your heart/mind of your mother, your front organ of your [person] (i. e. your
+own)"
+
+BH5C gives jb.k n Xt.k "your heart of your belly (i. e. your own)"
+
+See also W 175, 3.
+
+N 74 (PT 630)
+§1788a-b: Asjr(t) pjpj nfr-kA-ra nn aAa jm.k jw XAp.jj jw nSfSf(.jj)
+Allen "Osiris Pepi Neferkare, I have deflected the expectoration (of Seth) from you: I am streaming, I
+am dripping"
+Shmakov "Osiris Pepi Neferkare, here is that which issued from you: it has flowed out, it has been
+sheded"
+
+The variant of this spell occurs in CT VIII, 455(Sq3C): nn aAa jm.k jw XAp.w jw nSfSf bA.k n Dt.k n
+Dt "here is that which issued from you: it has run out, that which your own ba has shed during Dttime"
+
+N 78 (PT 327)
+§536b-c: jnw pjpj nfr-kA-ra r Htpt jnt.sn pjpj nfr-kA-ra jr Htpt
+Allen "and fetch Pepi Neferkare to peace, and they shall fetch Pepi Neferkare to peace".
+
+Whereas T has Htp "peace", Neferkare’s version actually has Htpt "nourishment" (cf. W 145).
+
+N 100 (PT 21)
+§13c: nwA wp wAwt
+Allen "with Anubis’s adze"
+Shmakov "with Paths Parter’s adze"
+
+The godhead is indicated with a E18 sign.
+
+2)
+§§13c, 14a: msxtjw bjA
+Allen "the metal Striker"
+Shmakov "the copper msxtjw-adze"
+
+3)
+§14b-d: Sm.f mdw.f Dt.f xr psDt aAt m Hwt sr jmjt jwnw jT.f wrrt xr Hr
+Allen "[he shall go and claim his body with the Big Ennead in the Official’s Enclosure in] Heliopolis
+and acquire the crown with Horus"
+Shmakov "he shall go (and) present himself (lit. his person) to the Elder Ennead in the Judge’s
+
+359
+Enclosure in] Heliopolis and take the crown from Horus"

@@ -1,0 +1,736 @@
+=== FILE: greater_key_mathers_bk1.pdf ===
+
+The
+Greater Key
+of
+Solomon
+Including A Clear And Precise Exposition Of King
+Solomon’s Secret Procedure,
+Its Mysteries And Magic Rites,
+Original Plates, Seals, Charms And Talismans.
+Translated From Ancient Manuscripts
+In The British Museum, London.
+By S. Liddell MacGregor Mathers
+1999
+Emperor Norton Books
+Cincinnati, Ohio
+F
+A
+f
+a
+
+Editor’s note.
+The text of this electronic edition of The Greater Key of Solomon was taken from
+the American edition of 1916 published by L.W. deLaurence. It substantially duplicates
+that edition with the following exceptions:
+•
+Several long, irrelevant interjections by deLaurence have been removed, as have
+his self-promoting frontispiece and splash pages.
+•
+The footnotes have been eliminated as contributing nothing of significance to the
+meaning of the text. They consisted largely of pompous “admonishments” by
+deLaurence, advertisements for his products, and opaque source notes.
+•
+Where possible, illustrations have been moved close to the place where they are
+referenced in the text.
+•
+The formatting has been changed to conform to modern conventions.
+The scanned illustrations have been optimized for printing at 300 dpi; with some
+combinations of computer monitor and driver software, the onscreen images may
+appear blocky or crude.
+For the best reading experience, I recommend printing this document on nonglossy paper tinted a light ecru or tan color.
+Benjamin Rowe
+March 23, 1999
+
+Book One
+Page 1
+Preface To Book One.
+The Key Of Solomon, save for a curtailed and incomplete copy published in France in
+the seventeenth century, has never yet been printed, but has for centuries remained in
+manuscript form inaccessible to all but the few fortunate scholars to whom the
+inmost recesses of the great libraries were open.
+The fountain-head and storehouse of Qabalistical Magic, and the origin of much
+of the Ceremonial Magic of Mediaeval times, the Key has been ever valued by Occult
+writers as a work of the highest authority; and notably in our own day Eliphaz Levi
+has taken it for the model on which his celebrated Dogme et Rituel de la Haute Magie
+was based. It must be evident to the initiated reader of Levi, that The Key Of Solomon
+was his text book of study, and at the end of this volume, I give a fragment of an
+ancient Hebrew Manuscript of The Key of Solomon, translated and published in the
+Philosophie Occulte, as well as an Invocation called the Qabalistical Invocation of
+Solomon, which bears close analogy to one in the First Book, being constructed in the
+same manner on the scheme of the Sephiroth.
+The history of the Hebrew original of The Key of Solomon is given in the Introductions, but there is every reason to suppose that this has been entirely lost, and
+Christian, the pupil of Levi, says as much in his Histoire de la Magie.
+I see no reason to doubt the tradition which assigns the authorship of the Key to
+King Solomon, for among others Josephus, the Jewish historian, especially mentions
+the magical works attributed to that monarch; this is confirmed by many Eastern traditions, and his magical skill is frequently mentioned by the Old Adepts.
+There are, however, two works on Black Magic, the Grimorium Verum, and the
+Clavicola di Salomone ridolta, which have been attributed to Solomon, and which have
+been in some cases especially mixed up with the present work; but which have nothing really to do therewith; they are full of evil magic, and I cannot caution the
+practical student too strongly against them.
+There is also another work called Legemeton, or the Lesser Key of Solomon the King,
+which is full of seals of various Spirits, and is not the same as the present book,
+though extremely valuable in its own department.
+In editing this volume, I have omitted one or two experiments partaking largely
+of Black Magic, and which had evidently been derived from the two Goetic works
+mentioned above; I must further caution the practical worker against the use of
+blood; the prayer, the Pentacle, and the perfumes, or Temple Incense, rightly used, are
+sufficient as the former verges dangerously on the evil path. Let him who, in spite of
+the warnings of this volume, determines to work evil, be assured that evil will recoil
+on himself and that he will be struck by the reflex current.
+This work is edited from several ancient MSS. in the British Museum which all
+differ from each other in various points, some giving what is omitted by the others,
+but all unfortunately agreeing in one thing, which is the execrable mangling of the
+Hebrew words through the ignorance of the transcribers. But it is in the Pentacles that
+the Hebrew is worse, the letters being so vilely scribbled as to be actually undecipher-
+
+The Key of Solomon
+Page 2
+able in some instances, and it has been part of my work for several years to correct
+and reinstate the proper Hebrew and Magical characters in the Pentacles. The student
+may therefore safely rely on their being now as nearly correct in their present reproduction as it is possible for them to be. I have therefore, wherever I could, corrected
+the Hebrew of the Magical Names in the Conjurations and Pentacles and in the few
+instances where it was not possible to do so, I have put them in the most usual form;
+carefully collating throughout one MS. with another. The Chapters are a little differently classed in the various MSS., in some instances the matter contained in them
+being transposed, &c. I have added notes wherever necessary.
+The MSS. from which this work is edited are: Add. MSS. 10,862; Sloane MSS. 1307
+and 3091; Harleian MSS. 3981; King’s MSS. 288; and Lansdowne MSS. 1202 and 1203;
+seven codices in all.
+Of all these 10,862 Add. MSS. is the oldest, its date being about the end of the sixteenth century; 3981 Harleian is probably about the middle of the seventeenth
+century; the others of rather later date.
+Add. MSS. 10,862 is written in contracted Latin, and is hard to read, but it contains Chapters which are omitted in the others and also an important Introduction. It
+is more concise in its wording. Its title is short, being simply The Key of Solomon,
+translated from the Hebrew language into the Latin. An exact copy of the signature of
+the writer of this MS. is given in the figure below.
+3981 Harleian MSS.; 288 King’s MSS.; and 3091 Sloane MSS., are similar, and contain the same matter and nearly the same wording; but the latter MS. has many errors
+of transcription. They are all in French. The Conjurations and wording of these are
+much fuller than in 10,862 Add. MSS. and 1202 Lansdowne MSS. The title is The Key of
+SOLOMON, King of the Hebrews, translated from the Hebrew Language into Italian by
+Abraham Colorno, by the order of his most Serene Highness of Mantua; and recently put
+into French. The Pentacles are much better drawn, are in colored inks, and in the case
+of 3091 Sloane MSS., gold and silver are employed.
+1307 Sloane MSS. is in Italian; its title is La Clavicola di Salomone Redotta et epilogata nella nostra materna lingua del dottissimo Gio Peccatrix. It is full of Black Magic,
+and is a jumble of The Key Of Solomon proper, and the two Black Magic books before
+mentioned. The Pentacles are badly drawn. It, however, gives part of the Introduction
+to 10,682 Add. MSS., and is the only other MS. which does, save the beginning of
+another Italian version which is bound up with the former MS., and bears the title
+Zecorbenei.
+1202 Lansdowne MSS. is The True Keys Of King Solomon, by Armadel. It is beautifully written, with painted initial letters, and the Pentacles are carefully drawn in
+
+Book One
+Page 3
+colored inks. It is more concise in style, but omits several Chapters. At the end are
+some short extracts from the Grimorium Verum with the Seals of evil spirits, which, as
+they do not belong to The Key Of Solomon proper, I have not given. For the evident
+classification of the Key is in two books and no more.
+1203 Lansdowne MSS. is The Veritable Keys of Solomon translated from the
+Hebrew into the Latin language by the Rabbin Agognazar. It is in French, exquisitely
+written in printing letters, and the Pentacles are carefully drawn in colored inks.
+Though containing similar matter to the others, the arrangement is utterly different;
+being all in one book, and not even divided into chapters.
+The antiquity of the Planetary Sigils is shown by the fact that, among the Gnostic
+Talismans in the British Museum, there is a ring of copper with the Sigils of Venus,
+which are exactly the same as those given by the Mediaeval writers on Magic.
+Where Psalms are referred to I have in all instances given the English and not the
+Hebrew numbering of them.
+In some places I have substituted the word AZOTH for “Alpha and Omega,” e.g.,
+on the blade of the Knife with the Black Hilt, Figure 62. I may remark that the Magical
+Sword may, in many cases, be used instead of the Knife.
+In conclusion I will only mention, for the benefit of non-Hebraists, that Hebrew
+is written from right to left, and that from the consonantal nature of the Hebrew
+Alphabet, it will require fewer letters than in English to express the same word.
+[The preface is signed by L.W. deLaurence, but believed to have been written by
+S.L. MacGregor Mathers.]
+
+The Key of Solomon
+Page 4
+INTRODUCTION.
+From Add. MSS. 10862, “The Key of Solomon,” translated into Latin from the Hebrew
+idiom.
+Treasure up, O my son Roboam! the wisdom of my words, seeing that I
+Solomon, have received it from the Lord.
+Then answered Roboam, and said: How have I deserved to follow the example of
+of my father Solomon in such things, who hath been found worthy to receive the
+knowledge of all living things through (the teaching of) an Angel of God?
+And Solomon said: Hear, O my son, and receive my sayings, and learn the wonders of God. For, on a certain night, when I laid me down to sleep, I called upon that
+most holy Name of God, IAH, and prayed for the Ineffable Wisdom, and when I was
+beginning to close mine eyes, the Angel of the Lord, even Homadiel, appeared unto
+me, spake many things courteously unto me, and said: Listen O Solomon! thy prayer
+before the Most High is not in vain, and since thou hast asked neither for long life,
+nor for much riches, nor for the souls of thine enemies, but hast asked for thyself wisdom to perform justice. Thus saith the Lord: According to thy word have I given unto
+thee a wise and understanding heart, so that before thee was none like unto thee, nor
+ever shall arise.
+And when I comprehended the speech which was made unto me, I understood
+that in me was the knowledge of all creatures, both things which are in the heavens
+and things which are beneath the heavens; and I saw that all the writings and wisdom
+of this present age were vain and futile, and that no man was perfect. And I composed
+a certain work wherein I rehearsed the secret of secrets, in which I have preserved
+them hidden, and I have also therein concealed all secrets whatsoever of magical arts
+of any masters; any secret or experiments, namely, of these sciences which is in any
+way worth being accomplished. Also I have written them in this “Key,” so that like as a
+key openeth a treasure-house, so this Key alone may open the knowledge and understanding of Magical arts and sciences.
+Therefore, O my son! thou mayest see every experiment of mine or of others, and
+let everything be properly prepared for them, as thou shalt see properly set down by
+me, both day and hour, and all things necessary; for without this there will be but
+falsehood and vanity in this my work; wherein are hidden all secrets and mysteries
+which can be performed; and that which is (set down) concerning a single divination
+or a single experiment, that same I think concerning all things which are in the Universe, and which have been, and which shall be in future time.
+Therefore, O my son Roboam, I command thee by the blessing which thou
+expectest from thy father, that thou shall make an Ivory Casket, and therein place,
+keep, and hide this my “Key”; and when I shall have passed away unto my fathers, I
+entreat thee to place the same in my Sepulchre beside me, lest at another time it might
+fall into the hands of the wicked. And as Solomon commanded, so was it done.
+And when, therefore (men) had waited for a long time, there came unto the Sepulchre certain Babylonian Philosophers and when they had assembled they at once
+
+Book One
+Page 5
+took counsel together that a certain number of men should renew the Sepulchre in his
+(Solomon’s) honour; and when the Sepulchre was dug out and repaired the Ivory
+Casket was discovered, and therein was the Key of Secrets, which they took with joyful
+mind. And when they had opened it none among them could understand it in
+account of the obscurity of the words and their Occult arrangement, and the hidden
+character of the sense and knowledge, for they were not worthy to possess this
+treasure.
+Then, therefore, arose one among them, more worthy (than the others), both in
+the sight of the gods, and by reason of his age, who was called Iohé Grevis, and said
+unto the others: Unless we shall come and ask the interpretation from the Lord, with
+tears and entreaties, we shall never arrive at the knowledge of it.
+Therefore, when each of them had retired to his bed, Iohé indeed falling upon his
+face on the earth, began to weep, and striking his breast, said:
+What have I deserved (above others), seeing that so many men can neither understand nor interpret this knowledge, even though there were no secret thing in nature
+which the Lord hath hidden from me! Wherefore are these words so obscure? Wherefore am I so ignorant?
+And then on his bended knees, stretching his hands to Heaven, he said:
+O God, the Creator of all, Thou Who knowest all things, who gavest so great Wisdom unto Solomon The Son Of David The King; grant unto me, I beseech Thee, O
+Holy Omnipotent and Ineffable Father, to receive the virtue of that wisdom, so that I
+may become worthy by Thine aid to attain unto the understanding of this Key Of
+Secrets.
+And immediately there appeared unto me, the Angel the Lord, saying:
+Do thou remember if the secrets of Solomon appear hidden and obscure unto
+thee, that the Lord hath wished it, so that such wisdom may not fall into the hands of
+wicked men; wherefore do, thou promise unto me, that thou art not willing that so
+great wisdom should ever come to any living creature, and that which thou revealest
+unto any let them know that they must keep it unto themselves, otherwise the secrets
+are profaned and no effect can follow?
+And Iohé answered: I promise unto thee that to none will I reveal (them), save to
+the honour of the Lord, and with much discipline, unto penitent, secret, and faithful
+(persons).
+Then answered the Angel: Go and read the “Key,” and its words which were
+obscure throughout shall be manifest unto thee.
+And after this the Angel ascended into Heaven in a Flame of Fire.
+Then Iohé was glad, and labouring with a clear mind, understood that which the
+Angel of the Lord had said, and he saw that The Key Of Solomon was changed, so that
+it appeared quite clear unto him plainly in all parts. And Iohé understood that this
+Work might fall into the hands of the ignorant, and he said: I conjure him into whose
+hands this secret may come, by the Power of the Creator, and His Wisdom, that in all
+things he may, desire, intend and perform, that this Treasure may come unto no
+unworthy (person), nor may he manifest it unto any who is unwise, nor unto one
+
+The Key of Solomon
+Page 6
+who feareth not God. Because if he act otherwise I pray God that he may never be
+worthy to attain unto the desired effect. And so he deposited the “Key,” which
+Solomon preserved, in the Ivory Casket. But the Words of the “Key” are as follows,
+divided into Two Books, and shown in order.
+From Lansdowne MSS. 1203, “The Veritable Clavicles of Solomon,” translated from the
+Hebrew into the Latin by the Rabbi Abognazar.
+O my Son Roboam! seeing that of all Sciences there is none more useful than the
+knowledge of Celestial Movements, I have thought it my duty, being at the point of
+death, to leave thee an inheritance more precious than all the riches which I have
+enjoyed. And in order that thou mayest understand how I have arrived at this degree
+(of wisdom), it is necessary to tell thee that one day, when I was meditating upon the
+power of the Supreme Being, the Angel of the great God appeared before me as I was
+saying, O how wonderful are the works of God! I suddenly beheld, at the end of a
+thickly-shaded vista of trees, a Light in the form of a blazing Star, which said unto me
+with a voice of thunder Solomon, Solomon, be not dismayed; the Lord is willing to
+satisfy thy desire by giving thee knowledge of whatsoever thing is most pleasant unto
+thee. I order thee to ask of Him whatsoever thou desirest. Whereupon, recovering
+from my surprise, I answered unto the Angel, that according to the Will of the Lord, I
+only desired the Gift of wisdom, and by the Grace of God I obtained in addition the
+enjoyment of all the Celestial treasures and the knowledge of all natural things.
+It is by this means, my Son, that I possess all the virtues and riches of which thou
+now seest me in the enjoyment, and in order that thou mayest be willing to be attentive to all which I am about to relate to thee, and that thou mayest retain with care all
+that I am about to tell thee, I assure thee that the Graces of the Great God will be
+familiar unto thee, and that the Celestial and Terrestrial Creatures will be obedient
+unto thee, and a science which only works by the strength and power of natural
+things, and by the pure Angels which govern them. Of which latter I will give thee the
+names in order, their exercises and particular employments to which they are destined, together with the days over which they particularly preside, in order that thou
+mayest arrive at the accomplishment of all, which thou wilt find in this my Testament.
+In all which I promise thee success, provided that all thy works only tend unto the
+honour of God, who hath given me the power to rule, not only over Terrestrial but
+also over Celestial things, that is to say, over the Angels, of whom I am able to dispose
+according to my will, and to obtain from them very considerable services.
+Firstly. It is necessary for thee to understand that God, having made all things, in
+order that they may be submitted unto Him, hath wished to bring His works to perfection, by making one which participates of the Divine and of the Terrestrial, that is
+to say, Man; whose body is gross and terrestrial, while his soul is spiritual and celestial,
+unto whom He hath made subject the whole earth and its inhabitants, and hath given
+unto Him means by which He may render the Angels familiar, as I call those Celestial
+creatures who are destined: some to regulate the motion of the Stars, others to inhabit
+the Elements, others to aid and direct men, and others again to sing continually the
+
+Book One
+Page 7
+praises of the Lord. Thou mayest then, by the use of their Seals and Characters, render
+them familiar unto thee, provided that thou abusest not this privilege by demanding
+from them things which are contrary to their nature; for accursed be he who will take
+the Name of God in vain, and who will employ for evil purposes the knowledge and
+good wherewith He hath enriched us.
+I command thee, my Son, to carefully engrave in thy memory all that I say unto
+thee, in order that it may never leave thee. If thou dost not intend to use for a good
+purpose the secrets which I here teach thee, l command thee rather to cast this Testament into the fire, than to abuse the power thou wilt have of constraining the Spirits,
+for I warn thee that the beneficial angels, wearied and fatigued by thine illicit
+demands, would to thy sorrow execute the commands of God, as well as to that of all
+such who, with evil intent, would abuse those secrets which He hath given and
+revealed unto me. Think not, however, O my, Son, that it would not be permitted thee
+to profit by the good fortune and happiness which the Divine Spirits can bring thee;
+on the contrary, it gives them great pleasure to render service to Man for whom many
+of these Spirits have great liking and affinity, God having destined them for the preservation and guidance of those Terrestrial things which are submitted to the power of
+Man.
+There are different kinds of Spirits, according to the things over which they preside, some of them govern the Empyrean Heaven, others the Primum Mobilé, others
+the First and Second Crystalline, others the Starry Heaven; there are also Spirits of the
+Heaven of Saturn, which I call Saturnites. There are Jovial, Martial, Solar, Venerean,
+Mercurial, and Lunar Spirits; there are also (Spirits) in the Elements as well as in the
+Heavens, there are some in the Fiery Region, others in the Air, others in the Water,
+and others upon the Earth, which can all render service to that man who learns their
+nature, and knows how to attract them.
+Furthermore, I wish to make thee understand that God hath destined to each one
+of us a Spirit, which watches over us and takes care of our preservation; these are
+called Genii, who are elementary like us, and who are more ready to render service to
+those whose temperament is conformed to the Element which these Genii inhabit; for
+example, shouldest thou be of a fiery temperament, that is to say sanguine, thy genius
+would be fiery and submitted to the Empire of Baël. Besides this, there are special
+times reserved for the invocation of these Spirits, in the days and hours when they
+have power and absolute empire. It is for this reason that thou wilt see in the following tables to what Planet and to what Angel each Day and Hour is submitted, together
+with the Colours which belong unto them, the Metals, Herbs, Plants, Aquatic, Aërial,
+and Terrestrial Animals, and Temple Incense, which are proper to each of them, as
+also in what quarter of the Universe they ask to be invoked. Neither are omitted, the
+Conjurations, Seals, Characters, and Divine Letters, which belong to them, by means
+of which we receive the power to sympathize with these Spirits.
+
+The Key of Solomon
+Page 8
+Table 1: Table of the Planetary Hours
+Hours
+from
+Hours
+from
+Sun.
+Mon.
+Tues.
+Wed.
+Sunset to
+Sunset
+Midnight to
+Midnight
+Thurs.
+Fri.
+Sat.
+Merc.
+Jup.
+Ven.
+Sat.
+8
+1
+Sun.
+Moon.
+Mars.
+Moon.
+Mars.
+Mer.
+Jup.
+9
+2
+Ven.
+Sat.
+Sun.
+Sat.
+Sun.
+Moon.
+Mars.
+10
+3
+Mer.
+Jup.
+Ven.
+Jup.
+Ven.
+Sat.
+Sun
+11
+4
+Moon.
+Mars.
+Mer.
+Mars.
+Mer.
+Jup.
+Ven.
+12
+5
+Sat.
+Sun.
+Moon.
+Sun.
+Moon.
+Mars
+Mer.
+1
+6
+Jup.
+Ven.
+Sat.
+Ven.
+Sat.
+Sun.
+Moon.
+2
+7
+Mars.
+Mer.
+Jup.
+Mer.
+Jup.
+Ven.
+Sat.
+3
+8
+Sun.
+Moon.
+Mars.
+Moon.
+Mars.
+Mer.
+Jup.
+4
+9
+Ven.
+Sat.
+Sun.
+Sat.
+Sun.
+Moon.
+Mars.
+5
+10
+Mer.
+Jup.
+Ven.
+Jup.
+Ven.
+Sat.
+Sun.
+6
+11
+Moon.
+Mars.
+Mer.
+Mars.
+Mer.
+Jup.
+Ven.
+7
+12
+Sat.
+Sun.
+Moon.
+Sun.
+Moon.
+Mars.
+Mer.
+8
+1
+Jup.
+Ven.
+Sat.
+Ven.
+Sat.
+Sun.
+Moon.
+9
+2
+Mars.
+Mer.
+Jup.
+Mer.
+Jup.
+Ven.
+Sat.
+10
+3
+Sun.
+Moon.
+Mars.
+Moon.
+Mars.
+Mer.
+Jup.
+11
+4
+Ven.
+Sat.
+Sun.
+Sat.
+Sun.
+Moon.
+Mars.
+12
+5
+Mer.
+Jup.
+Ven.
+Jup.
+Ven.
+Sat.
+Sun.
+1
+6
+Moon.
+Mars.
+Mer.
+Mars.
+Mer.
+Jup.
+Ven.
+2
+7
+Sat.
+Sun.
+Moon.
+Sun.
+Moon.
+Mars.
+Mer.
+3
+8
+Jup.
+Ven.
+Sat.
+Ven.
+Sat.
+Sun.
+Moon.
+4
+9
+Mars.
+Mer.
+Jup.
+Mer.
+Jup.
+Ven.
+Sat.
+5
+10
+Sun.
+Moon.
+Mars.
+Moon.
+Mars.
+Mer.
+Jup.
+6
+11
+Ven.
+Sat.
+Sun.
+Sat.
+Sun.
+Moon.
+Mars.
+7
+12
+Mer.
+Jup.
+Ven.
+
+Book One
+Page 9
+Table 2: Table of the Magical Names of the Hours, and of the Angels who rule
+them, commencing at the first hour after Midnight of each day, and ending at the
+ensuing midnight.
+Hours.
+Sunday.
+Monday.
+Tuesda.
+Wednes.
+Thursd.
+Friday.
+Saturd.
+1. Yayn
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+2. Yanor
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+3. Nasnia
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+4. Salla
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+5. Sadedali
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+6. Thamur
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+Cassiel
+7. Ourer
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+8. Thainé
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+9. Neron
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+10. Yayon
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+11. Abai.
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+12. Nathalon
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+1. Beron
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+Cassiel
+2. Barol
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+3. Thanu
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+4. Athor
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+5. Mathon
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+6. Rana
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+7. Netos
+Zamael
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+8. Tafrac
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+Anael
+Cassiel
+9. Sassur
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+Raphael
+Sachiel
+10. Agla.
+Raphael
+Sachiel
+Anael
+Cassiel
+Michael
+Gabriel
+Zamael
+11. Cäerra
+Gabriel
+Zamael
+Raphael
