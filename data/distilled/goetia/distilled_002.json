@@ -1,0 +1,203 @@
+{
+  "source_id": "goetia",
+  "chunk_id": 2,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Spirit Fragment (Preceding Spirit 40)",
+      "type": "spirit",
+      "attributes": {
+        "rank": "Mighty President and Powerful",
+        "legions": "40 Legions of Spirits",
+        "appearance": "Human Shape at the request of the Exorcist, speak with a hoarse Voice",
+        "functions": "build Houses and High Towers, bring to thy Knowledge Enemies' Desires and Thoughts, giveth Good Familiars"
+      },
+      "page_ref": "37",
+      "raw_quote": "He is a Mighty President and Powerful. He can build Houses and High Towers... He governeth 40 Legions of Spirits"
+    },
+    {
+      "name": "Raum",
+      "type": "spirit",
+      "attributes": {
+        "number": "40",
+        "alternate_names": "Räum",
+        "rank": "Great Earl",
+        "legions": "30 Legions of Spirits",
+        "appearance": "Form of a Crow, but after the Command of the Exorcist he putteth on Human Shape",
+        "functions": "steal Treasures out King's Houses, destroy Cities and Dignities of Men, tell all things Past, Present, and What Will Be, cause Love between Friends and Foes",
+        "order": "Order of Thrones"
+      },
+      "page_ref": "37-38",
+      "raw_quote": "The Fortieth Spirit is Räum. He is a Great Earl; and appeareth at first in the Form of a Crow... governeth 30 Legions of Spirits"
+    },
+    {
+      "name": "Focalor",
+      "type": "spirit",
+      "attributes": {
+        "number": "41",
+        "alternate_names": "Forcalor, Furcalor",
+        "rank": "Mighty Duke and Strong",
+        "legions": "30 Legions of Spirits",
+        "appearance": "Form of a Man with Gryphon's Wings",
+        "functions": "slay Men, drown them in the Waters, overthrow Ships of War, Power over both Winds and Seas",
+        "order": "hopes to return to the Seventh Throne after 1,000 years"
+      },
+      "page_ref": "38",
+      "raw_quote": "The Forty-first Spirit is Focalor... He appeareth in the Form of a Man with Gryphon's Wings. His office is to slay Men, and to drown them in the Waters"
+    },
+    {
+      "name": "Vepar",
+      "type": "spirit",
+      "attributes": {
+        "number": "42",
+        "alternate_names": "Vephar",
+        "rank": "Duke Great and Strong",
+        "legions": "29 Legions of Spirits",
+        "appearance": "like a Mermaid",
+        "functions": "govern the Waters, guide Ships laden with Arms... cause the seas to be right stormy, maketh men to die in Three Days by Putrefying Wounds"
+      },
+      "page_ref": "38-39",
+      "raw_quote": "The Forty-second Spirit is Vepar... appeareth like a Mermaid. His office is to govern the Waters, and to guide Ships laden with Arms"
+    },
+    {
+      "name": "Sabnock",
+      "type": "spirit",
+      "attributes": {
+        "number": "43",
+        "alternate_names": "Savnok",
+        "rank": "Marquis, Mighty, Great and Strong",
+        "legions": "50 Legions of Spirits",
+        "appearance": "Form of an Armed Soldier with a Lion's Head, riding on a pale-coloured horse",
+        "functions": "build high Towers, Castles and Cities, furnish them with Armour... afflict Men for many days with Wounds and with Sores rotten and full of Worms"
+      },
+      "page_ref": "39",
+      "raw_quote": "The Forty-third Spirit... is called Sabnock... appearing in the Form of an Armed Soldier with a Lion's Head, riding on a pale-coloured horse"
+    },
+    {
+      "name": "Shax",
+      "type": "spirit",
+      "attributes": {
+        "number": "44",
+        "alternate_names": "Shaz, Shass",
+        "rank": "Great Marquis",
+        "legions": "30 Legions of Spirits",
+        "appearance": "Form of a Stock-Dove, speaking with a voice hoarse, but yet subtle",
+        "functions": "take away the Sight, Hearing, or Understanding... steal money out of the houses of Kings... discover all things that are Hidden"
+      },
+      "page_ref": "39-40",
+      "raw_quote": "The Forty-fourth Spirit is Shax... appeareth in the Form of a Stock-Dove... His Office is to take away the Sight, Hearing, or Understanding of any Man or Woman"
+    },
+    {
+      "name": "Viné",
+      "type": "spirit",
+      "attributes": {
+        "number": "45",
+        "alternate_names": "Vinea",
+        "rank": "Great King, and an Earl",
+        "legions": "36 Legions of Spirits",
+        "appearance": "Form of a Lion riding upon a Black Horse, and bearing a Viper in his hand",
+        "functions": "discover Things Hidden, Witches, Wizards... build Towers, overthrow Great Stone Walls, make the Waters rough with Storms"
+      },
+      "page_ref": "40",
+      "raw_quote": "The Forty-fifth Spirit is Viné... appeareth in the Form of a Lion riding upon a Black Horse... His Office is to discover Things Hidden, Witches, Wizards"
+    },
+    {
+      "name": "Bifrons",
+      "type": "spirit",
+      "attributes": {
+        "number": "46",
+        "alternate_names": "Bifröus, Bifrovs",
+        "rank": "Earl",
+        "legions": "6 Legions of Spirits",
+        "appearance": "Form of a Monster; but after a while... putteth on the shape of a Man",
+        "functions": "make one knowing in Astrology, Geometry... teacheth the Virtues of Precious Stones and Woods... changeth Dead Bodies"
+      },
+      "page_ref": "40-41",
+      "raw_quote": "The Forty-sixth Spirit is called Bifrons... appeareth in the Form of a Monster; but after a while, at the Command of the Exorcist, he putteth on the shape of a Man"
+    },
+    {
+      "name": "Vual",
+      "type": "spirit",
+      "attributes": {
+        "number": "47",
+        "alternate_names": "Uvall, Voval",
+        "rank": "Duke, Great, Mighty, and Strong",
+        "legions": "37 Legions of Spirits",
+        "appearance": "Form of a Mighty Dromedary at the first... putteth on Human Shape, and speaketh the Egyptian Tongue",
+        "functions": "procure the Love of Woman, tell Things Past, Present, and to Come, procureth Friendship between Friends and Foes"
+      },
+      "page_ref": "41",
+      "raw_quote": "The Forty-seventh Spirit Uvall, or Vual... appeareth in the Form of a Mighty Dromedary at the first... His Office is to procure the Love of Woman"
+    },
+    {
+      "name": "Haagenti",
+      "type": "spirit",
+      "attributes": {
+        "number": "48",
+        "alternate_names": null,
+        "rank": "President",
+        "legions": "33 Legions of Spirits",
+        "appearance": "Form of a Mighty Bull with Gryphon's Wings... putteth on Human Shape",
+        "functions": "make Men wise... Transmute all Metals into Gold; and to change Wine into Water, and Water into Wine"
+      },
+      "page_ref": "41-42",
+      "raw_quote": "The Forty-eighth Spirit is Haagenti. He is a President, appearing in the Form of a Mighty Bull with Gryphon's Wings... Transmute all Metals into Gold"
+    },
+    {
+      "name": "Crocell",
+      "type": "spirit",
+      "attributes": {
+        "number": "49",
+        "alternate_names": "Crokel",
+        "rank": "Duke Great and Strong",
+        "legions": "48 Legions of Spirits",
+        "appearance": "Form of an Angel... speaking something Mystically of Hidden Things",
+        "functions": "teacheth the Art of Geometry and the Liberal Sciences... produce Great Noises like the Rushings of many Waters, warmeth Waters"
+      },
+      "page_ref": "42",
+      "raw_quote": "The Forty-ninth Spirit is Crocell... He is a Duke Great and Strong... teacheth the Art of Geometry and the Liberal Sciences"
+    },
+    {
+      "name": "Furcas",
+      "type": "spirit",
+      "attributes": {
+        "number": "50",
+        "alternate_names": null,
+        "rank": "Knight",
+        "legions": "20 Legions of Spirits",
+        "appearance": "Form of a Cruel Old Man with a long Beard and a hoary Head, riding upon a pale-coloured Horse, with a Sharp Weapon in his hand",
+        "functions": "teach the Arts of Philosophy, Astrology, Rhetoric, Logic, Cheiromancy, and Pyromancy"
+      },
+      "page_ref": "42-43",
+      "raw_quote": "The Fiftieth Spirit is Furcas. He is a Knight... appeareth in the Form of a Cruel Old Man with a long Beard... teach the Arts of Philosophy, Astrology"
+    },
+    {
+      "name": "Balam",
+      "type": "spirit",
+      "attributes": {
+        "number": "51",
+        "alternate_names": "Balaam",
+        "rank": "Terrible, Great, and Powerful King",
+        "legions": "40 Legions of Spirits",
+        "appearance": "three Heads: Bull, Man, Ram... Tail of a Serpent, Flaming Eyes. rideth upon a furious Bear, carrieth a Boshawk upon his Fist",
+        "functions": "give True Answers of Things Past, Present, and to Come. maketh men to go Invisible, and also to be Witty"
+      },
+      "page_ref": "43",
+      "raw_quote": "The Fifty-first Spirit is Balam... appeareth with three Heads: the first is like that of a Bull; the second is like that of a Man; the third is like that of a Ram"
+    },
+    {
+      "name": "Alloces",
+      "type": "spirit",
+      "attributes": {
+        "number": "52",
+        "alternate_names": "Alocas",
+        "rank": "Duke, Great, Mighty, and Strong",
+        "legions": "36 Legions of Spirits",
+        "appearance": "Form of a Soldier riding upon a Great Horse. Face is like that of a Lion, very Red, and having Flaming Eyes",
+        "functions": "teach the Art of Astronomy, and all the Liberal Sciences. bringeth unto thee Good Familiars"
+      },
+      "page_ref": "43-44",
+      "raw_quote": "The Fifty-second Spirit is Alloces... appearing in the Form of a Soldier riding upon a Great Horse. His Face is like that of a Lion, very Red"
+    }
+  ]
+}

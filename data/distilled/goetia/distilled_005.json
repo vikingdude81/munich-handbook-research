@@ -1,0 +1,74 @@
+{
+  "source_id": "goetia",
+  "chunk_id": 5,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Spirit N.",
+      "type": "spirit",
+      "attributes": {
+        "status": "placeholder for specific spirit name",
+        "role": "servant of fealty and obedience"
+      },
+      "page_ref": "102-104",
+      "raw_quote": "O thou Spirit . . . N. beautiful and praiseworthy!"
+    },
+    {
+      "name": "Seal of Solomon",
+      "type": "tool",
+      "attributes": {
+        "description": "secret wisdom of Solomon",
+        "function": "calls the spirit"
+      },
+      "page_ref": "102-103",
+      "raw_quote": "By the seal of the secret wisdom of Solomon thou art called!"
+    },
+    {
+      "name": "Octinomos",
+      "type": "concept",
+      "attributes": {
+        "role": "lord of thy governments"
+      },
+      "page_ref": "102",
+      "raw_quote": "whose Name is called Octinomos."
+    },
+    {
+      "name": "Circle",
+      "type": "ritual",
+      "attributes": {
+        "description": "circle of the living breath"
+      },
+      "page_ref": "102",
+      "raw_quote": "centre of the circle of the living breath"
+    },
+    {
+      "name": "License to Depart",
+      "type": "ritual",
+      "attributes": {
+        "function": "allows spirit to descend unto dwelling without terror"
+      },
+      "page_ref": "103-104",
+      "raw_quote": "YE LICENSE TO YE SPIRIT YT HE MAYE DEPART."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Spirit N.",
+      "to": "Octinomos",
+      "type": "obeys"
+    },
+    {
+      "from": "Seal of Solomon",
+      "to": "Spirit N.",
+      "type": "calls"
+    }
+  ],
+  "summary": "This chunk contains general conjuration formulas for welcoming and licensing spirits, referencing the Seal of Solomon and a protective circle. It includes instructions for commanding the spirit's appearance and departure but does not list specific names or attributes of the 72 Goetia spirits.",
+  "key_passages": [
+    "Behold the mysteries of the seal of Solomon which I bring forth unto thy power and presence!",
+    "Obey, therefore, my power as a reasoning creature -in the name of the Lord.",
+    "YE WELCOME UNTO YE SPIRIT DYGNYTIE.",
+    "By the seal of the secret wisdom of Solomon thou art called!",
+    "Descend unto thy dwelling place in pleasure: let there be the mercies of God upon thee"
+  ]
+}

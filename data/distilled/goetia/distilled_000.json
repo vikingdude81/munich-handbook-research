@@ -1,0 +1,126 @@
+{
+  "source_id": "goetia",
+  "chunk_id": 0,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Bornless One",
+      "type": "spirit",
+      "attributes": {
+        "context": "Preliminary Invocation"
+      },
+      "page_ref": "3",
+      "raw_quote": "Thee I invoke, the Bornless one."
+    },
+    {
+      "name": "Osorronophris",
+      "type": "spirit",
+      "attributes": {
+        "context": "Preliminary Invocation"
+      },
+      "page_ref": "3",
+      "raw_quote": "Thou art Osorronophris: Whom no man has seen at any time."
+    },
+    {
+      "name": "Cimieries",
+      "type": "spirit",
+      "attributes": {
+        "context": "Example in Interpretation"
+      },
+      "page_ref": "9",
+      "raw_quote": "\"The Spirit Cimieries teaches logic\""
+    },
+    {
+      "name": "Solomon",
+      "type": "person",
+      "attributes": {
+        "role": "King, Author of Lemegeton"
+      },
+      "page_ref": "12",
+      "raw_quote": "CLAVICULA SALOMONIS REGIS, which containeth all the Names, Offices, and Orders of all the Spirits that ever he had converse with"
+    },
+    {
+      "name": "Aleister Crowley",
+      "type": "person",
+      "attributes": {
+        "role": "Completer of translation"
+      },
+      "page_ref": "1",
+      "raw_quote": "ask Mr. Aleister Crowley, a poet, and skilled student of Magical Lore, and an expert Kabbalist, to complete openly that which had been begun in secret."
+    },
+    {
+      "name": "Goetia",
+      "type": "book",
+      "attributes": {
+        "part": "First Part of Lemegeton"
+      },
+      "page_ref": "13",
+      "raw_quote": "(1) THE FIRST PART is a Book of Evil Spirits, called GOETIA, showing how he bound up those Spirits"
+    },
+    {
+      "name": "Lemegeton",
+      "type": "book",
+      "attributes": {
+        "also_known_as": "Clavicula Salomonis Regis"
+      },
+      "page_ref": "12",
+      "raw_quote": "LEMEGETON VEL CLAVICULA SALOMONIS REGIS."
+    },
+    {
+      "name": "Magical Circle",
+      "type": "tool",
+      "attributes": {
+        "listed_in": "Contents"
+      },
+      "page_ref": "6",
+      "raw_quote": "The Magical Circle"
+    },
+    {
+      "name": "Magical Triangle Of Solomon",
+      "type": "tool",
+      "attributes": {
+        "listed_in": "Contents"
+      },
+      "page_ref": "6",
+      "raw_quote": "The Magical Triangle Of Solomon"
+    },
+    {
+      "name": "Vessel Of Brass",
+      "type": "tool",
+      "attributes": {
+        "listed_in": "Contents"
+      },
+      "page_ref": "6",
+      "raw_quote": "The Vessel Of Brass"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Solomon",
+      "to": "Lemegeton",
+      "type": "author_of"
+    },
+    {
+      "from": "Aleister Crowley",
+      "to": "G. H. Fra. D.D.C.F.",
+      "type": "completed_work_of"
+    },
+    {
+      "from": "Goetia",
+      "to": "Lemegeton",
+      "type": "part_of"
+    },
+    {
+      "from": "Cimieries",
+      "to": "Logic",
+      "type": "teaches"
+    }
+  ],
+  "summary": "This chunk contains the Preface, Preliminary Invocation (Bornless One), and introductory definitions of the Lemegeton/Goetia. It lists the contents including ritual apparatus like the Magical Circle and Triangle but does not yet detail the 72 spirits beyond a single mention of Cimieries.",
+  "key_passages": [
+    "\"The Spirit Cimieries teaches logic\"",
+    "(1) THE FIRST PART is a Book of Evil Spirits, called GOETIA",
+    "Hear Me:-- Ar: Thiao: Rheibet: Atheleberseth:",
+    "I invoke Thee, the Terrible and Invisible God: Who dwellest in the Void Place of the Spirit"
+  ]
+}

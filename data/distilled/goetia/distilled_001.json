@@ -1,0 +1,324 @@
+{
+  "source_id": "goetia",
+  "chunk_id": 1,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Bael",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "1",
+        "rank": "King",
+        "direction": "East",
+        "legions": "66 Legions of Infernal Spirits",
+        "form": "Cat, Toad, Man, or all at once",
+        "voice": "Hoarse",
+        "functions": "Maketh thee to go Invisible"
+      },
+      "page_ref": "17",
+      "raw_quote": "The First Principal Spirit is a King ruling in the East, called Bael. He maketh thee to go Invisible."
+    },
+    {
+      "name": "Agares",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "2",
+        "alternate_names": "Agreas",
+        "rank": "Duke",
+        "direction": "East",
+        "legions": "31 Legions of Spirits",
+        "order": "Virtues",
+        "form": "Old fair Man, riding upon a Crocodile, carrying a Goshawk",
+        "functions": "Maketh them to run that stand still, bringeth back runaways, teaches all Languages, destroy Dignities, causeth Earthquakes"
+      },
+      "page_ref": "18",
+      "raw_quote": "The Second Spirit is a Duke called Agreas, or Agares. He is under the Power of the East, and cometh up in the form of an old fair Man."
+    },
+    {
+      "name": "Vassago",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "3",
+        "rank": "Prince",
+        "nature": "Good Nature",
+        "legions": "26 Legions of Spirits",
+        "functions": "Declare things Past and to Come, discover all things Hid or Lost"
+      },
+      "page_ref": "18",
+      "raw_quote": "The Third Spirit is a Mighty Prince, being of the same nature as Agares. He is called Vassago."
+    },
+    {
+      "name": "Samigina",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "4",
+        "alternate_names": "Gamigm",
+        "rank": "Marquis",
+        "legions": "30 Legions of Inferiors",
+        "form": "Little Horse or Ass, then Human shape",
+        "voice": "Hoarse voice",
+        "functions": "Teaches all Liberal Sciences, giveth account of Dead Souls that died in sin"
+      },
+      "page_ref": "19",
+      "raw_quote": "The Fourth Spirit is Samigina, a Great Marquis. He appeareth in the form of a little Horse or Ass."
+    },
+    {
+      "name": "Marbas",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "5",
+        "rank": "President",
+        "legions": "36 Legions of Spirits",
+        "form": "Great Lion, then Human Shape",
+        "functions": "Answereth truly of things Hidden or Secret, causeth Diseases and cureth them, Wisdom in Mechanical Arts, change men into other shapes"
+      },
+      "page_ref": "19",
+      "raw_quote": "The fifth Spirit is Marbas. He is a Great President, and appeareth at first in the form of a Great Lion."
+    },
+    {
+      "name": "Valefor",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "6",
+        "rank": "Duke",
+        "legions": "10 Legions of Spirits",
+        "form": "Lion with an Ass's Head, bellowing",
+        "functions": "Good Familiar, tempteth them he is a familiar of to steal"
+      },
+      "page_ref": "20",
+      "raw_quote": "The Sixth Spirit is Valefor. He is a mighty Duke, and appeareth in the shape of a Lion with an Ass's Head."
+    },
+    {
+      "name": "Amon",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "7",
+        "rank": "Marquis",
+        "legions": "40 Legions of Spirits",
+        "form": "Wolf with a Serpents tail, vomiting flames; or Man with Dog's teeth/Raven head",
+        "functions": "Telleth all things Past and to Come, procureth feuds and reconcileth controversies"
+      },
+      "page_ref": "20",
+      "raw_quote": "The Seventh Spirit is Amon. He is a Marquis great in power, and most stern."
+    },
+    {
+      "name": "Barbatos",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "8",
+        "rank": "Duke",
+        "planetary_association": "Sun in Sagittary",
+        "legions": "30 Legions of Spirits",
+        "order": "Virtues",
+        "form": "With four noble Kings and their companies",
+        "functions": "Understanding of singing of Birds, breaketh Hidden Treasures open, knoweth Past/Future, conciliateth Friends"
+      },
+      "page_ref": "21",
+      "raw_quote": "The Eighth Spirit is Barbatos. He is a Great Duke, and appeareth when the Sun is in Sagittary."
+    },
+    {
+      "name": "Paimon",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "9",
+        "rank": "King",
+        "direction": "West",
+        "legions": "200 Legions of Spirits (part Angels, part Potentates)",
+        "order": "Dominations",
+        "form": "Man sitting upon a Dromedary with a Crown most glorious",
+        "functions": "Teach all Arts and Sciences, discover Earth/Mind, giveth Dignity, bindeth man subject unto Magician"
+      },
+      "page_ref": "21",
+      "raw_quote": "The Ninth Spirit in this Order is Paimon, a Great King, and very obedient unto LUCIFER."
+    },
+    {
+      "name": "Buer",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "10",
+        "rank": "President",
+        "planetary_association": "Sagittary (Sun there)",
+        "legions": "50 Legions of Spirits",
+        "form": "Appeareth in Sagittary",
+        "functions": "Teaches Philosophy Moral and Natural, Logic Art, Virtues of Herbs, healeth distempers"
+      },
+      "page_ref": "22",
+      "raw_quote": "The Tenth Spirit is Buer, a Great President. He appeareth in Sagittary."
+    },
+    {
+      "name": "Gusion",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "11",
+        "rank": "Duke",
+        "legions": "40 Legions of Spirits",
+        "form": "Like a Xenopilus",
+        "functions": "Telleth Past/Present/Future, showeth meaning of questions, conciliateth friendships, giveth Honour"
+      },
+      "page_ref": "23",
+      "raw_quote": "The Eleventh Spirit in order is a great and strong Duke, called Gusion."
+    },
+    {
+      "name": "Sitri",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "12",
+        "rank": "Prince",
+        "legions": "60 Legions of Spirits",
+        "form": "Leopard's head and Wings of a Gryphon, then Human shape beautiful",
+        "functions": "Enflameth men with Women's love, causeth them to show themselves naked"
+      },
+      "page_ref": "23",
+      "raw_quote": "The Twelfth Spirit is Sitri. He is a Great Prince and appeareth at first with a Leopard's head."
+    },
+    {
+      "name": "Beleth",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "13",
+        "alternate_names": "Bileth, Bilet",
+        "rank": "King",
+        "legions": "85 Legions of Spirits",
+        "order": "Powers",
+        "form": "Pale horse with trumpets and musical instruments playing before him",
+        "ritual_requirements": "Hazel Wand, Triangle without Circle, Silver Ring on middle finger left hand"
+      },
+      "page_ref": "23",
+      "raw_quote": "The Thirteenth Spirit is called Beleth (or Bileth, or Bilet). He is a mighty King and terrible."
+    },
+    {
+      "name": "Leraie",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "14",
+        "alternate_names": "Leraje, Leraike",
+        "rank": "Marquis",
+        "planetary_association": "Sagittary",
+        "legions": "30 Legions of Spirits",
+        "form": "Archer clad in Green, carrying a Bow and Quiver",
+        "functions": "Causeth all great Battles and Contests, maketh wounds to putrefy"
+      },
+      "page_ref": "24",
+      "raw_quote": "The Fourteenth Spirit is called Leraje (or Leraie). He is a Marquis Great in Power."
+    },
+    {
+      "name": "Eligos",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "15",
+        "rank": "Duke",
+        "legions": "60 Legions of Spirits",
+        "form": "Goodly Knight, carrying a Lance, an Ensign, and a Serpent",
+        "functions": "Discovereth hidden things, knoweth things to come, Wars, Love of Lords"
+      },
+      "page_ref": "24",
+      "raw_quote": "The Fifteenth Spirit in Order is Eligos, a Great Duke."
+    },
+    {
+      "name": "Zepar",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "16",
+        "rank": "Duke",
+        "legions": "26 Legions of Inferior Spirits",
+        "form": "Red Apparel and Armour, like a Soldier",
+        "functions": "Cause Women to love Men, bring them together in love, maketh them barren"
+      },
+      "page_ref": "25",
+      "raw_quote": "The Sixteenth Spirit is Zepar. He is a Great Duke, and appeareth in Red Apparel."
+    },
+    {
+      "name": "Botis",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "17",
+        "rank": "President/Earl",
+        "legions": "60 Legions of Spirits",
+        "form": "Ugly Viper, then Human shape with Great Teeth and two Horns, carrying Sword",
+        "functions": "Telleth Past/Future, reconcileth Friends and Foes"
+      },
+      "page_ref": "25",
+      "raw_quote": "The Seventeenth Spirit is Botis, a Great President, and an Earl."
+    },
+    {
+      "name": "Bathin",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "18",
+        "rank": "Duke",
+        "legions": "30 Legions of Spirits",
+        "form": "Strong Man with the tail of a Serpent, sitting upon a Pale-Coloured Horse",
+        "functions": "Knoweth Virtues of Herbs and Precious Stones, transport men suddenly"
+      },
+      "page_ref": "26",
+      "raw_quote": "The Eighteenth Spirit is Bathin. He is a Mighty and Strong Duke."
+    },
+    {
+      "name": "Sallos",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "19",
+        "alternate_names": "Saleos",
+        "rank": "Duke",
+        "legions": "30 Legions of Spirits",
+        "form": "Gallant Soldier riding on a Crocodile, with a Ducal Crown",
+        "functions": "Causeth the Love of Women to Men"
+      },
+      "page_ref": "26",
+      "raw_quote": "The Nineteenth Spirit is Sallos (or Saleos). He is a Great and Mighty Duke."
+    },
+    {
+      "name": "Purson",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "20",
+        "rank": "King",
+        "legions": "22 Legions of Spirits (Virtues/Thrones)",
+        "form": "Man with a Lion's face, carrying a cruel Viper, riding upon a Bear",
+        "functions": "Knoweth hidden things, discover Treasure, Past/Present/Future, Creation of World"
+      },
+      "page_ref": "27",
+      "raw_quote": "The Twentieth Spirit is Purson, a Great King. His appearance is comely."
+    },
+    {
+      "name": "Marax",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "21",
+        "alternate_names": "Morax",
+        "rank": "Earl/President",
+        "legions": "30 Legions of Spirits",
+        "form": "Great Bull with a Man's face",
+        "functions": "Make Men knowing in Astronomy, Liberal Sciences, give good Familiars"
+      },
+      "page_ref": "27",
+      "raw_quote": "The Twenty-first Spirit is Marax. He is a Great Earl and President."
+    },
+    {
+      "name": "Ipos",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "22",
+        "rank": "Earl/Prince",
+        "legions": "36 Legions of Spirits",
+        "form": "Angel with a Lion's Head, and a Goose's Foot, and Hare's Tail",
+        "functions": "Knoweth Past/Present/Future, maketh men witty and bold"
+      },
+      "page_ref": "28",
+      "raw_quote": "The Twenty-second Spirit is Ipos. He is an Earl, and a Mighty Prince."
+    },
+    {
+      "name": "Aim",
+      "type": "spirit",
+      "attributes": {
+        "sequence_number": "23",
+        "rank": "Duke",
+        "legions": "26 Legions of Inferior Spirits",
+        "form": "Handsome Man with three Heads (Serpent, Man w/ Stars, Calf), riding Viper",
+        "functions": "Maketh thee witty, giveth true answers unto private matters"
+      },
+      "page_ref": "28",
+      "raw_quote": "The Twenty-third Spirit is Aim. He is a Great Strong Duke."
+    }
+  ]
+}

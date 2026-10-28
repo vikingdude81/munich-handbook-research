@@ -1,0 +1,11 @@
+[2026-10-27 16:13:12] === DISTILL goetia | server=http://localhost:11434/v1 model=qwen3.5:122b num_ctx=32768 ===
+[2026-10-27 16:33:46]   chunk 0: NO OUTPUT (1234s)
+[2026-10-27 16:33:46] === DONE goetia: 0 entities | 0 relevant | 1 errors | 0 cached | 20.6 min ===
+[2026-10-27 16:44:44] === DISTILL goetia | server=http://localhost:11434/v1 model=qwen3.5:122b num_ctx=32768 ===
+[2026-10-27 17:20:28]   chunk 0: OK (10 entities, 2144s)
+[2026-10-27 17:26:47]   chunk 1: OK (23 entities, 379s)
+[2026-10-27 17:33:09]   chunk 2: OK (14 entities, 382s)
+[2026-10-27 17:37:00]   chunk 3: OK (12 entities, 231s)
+[2026-10-27 17:40:28]   chunk 4: OK (14 entities, 208s)
+[2026-10-27 17:42:31]   chunk 5: OK (5 entities, 124s)
+[2026-10-27 17:42:31] === DONE goetia: 78 entities | 6 relevant | 0 errors | 0 cached | 57.8 min ===

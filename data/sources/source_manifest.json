@@ -5,9 +5,9 @@
   "sources": [
     {
       "id": "necro",
-      "status": "ok",
-      "path": "H:\\NECRO.txt",
-      "description": "Kieckhefer, Forbidden Rites \u2014 full text of Munich Handbook study",
+      "status": "ingested",
+      "path": "data/sources/original_pdfs/NECRO.txt",
+      "description": "Kieckhefer, Forbidden Rites — full text of Munich Handbook study",
       "total_chars": 925451,
       "total_chunks": 39,
       "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\necro",
@@ -285,13 +285,17 @@
           "end_char": 925451,
           "chars": 9661
         }
-      ]
+      ],
+      "chunks_dir": "data/sources/necro",
+      "chunk_count": 39,
+      "title": "necro",
+      "notes": "manifest normalized 2026-10-27 (legacy entry)"
     },
     {
       "id": "forbidden_rites_pdf",
-      "status": "ok",
-      "path": "H:\\Forbidden Rites - A Necromancer's Manual of the Fifteenth Century (Magic in History) - Richard Kieckhefer (1).pdf",
-      "description": "Kieckhefer, Forbidden Rites \u2014 PDF version (cross-reference)",
+      "status": "ingested",
+      "path": "data/sources/original_pdfs/Forbidden Rites - A Necromancer's Manual of the Fifteenth Century (Magic in History) - Richard Kieckhefer (1).pdf",
+      "description": "Kieckhefer, Forbidden Rites — PDF version (cross-reference)",
       "total_chars": 911762,
       "total_chunks": 39,
       "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\forbidden_rites_pdf",
@@ -569,12 +573,16 @@
           "end_char": 911762,
           "chars": 6850
         }
-      ]
+      ],
+      "chunks_dir": "data/sources/forbidden_rites_pdf",
+      "chunk_count": 39,
+      "title": "forbidden_rites_pdf",
+      "notes": "manifest normalized 2026-10-27 (legacy entry)"
     },
     {
       "id": "worship_dead",
-      "status": "ok",
-      "path": "H:\\The_Worship_of_the_Dead_A_Rigorous_Inqui.pdf",
+      "status": "ingested",
+      "path": "data/sources/original_pdfs/The_Worship_of_the_Dead_A_Rigorous_Inqui.pdf",
       "description": "Garnier, The Worship of the Dead (1909) - MODERN secondary comparative-mythology text, NOT a medieval grimoire; background context only",
       "total_chars": 1126710,
       "total_chunks": 48,
@@ -916,20 +924,25 @@
           "end_char": 1126710,
           "chars": 21520
         }
-      ]
+      ],
+      "chunks_dir": "data/sources/worship_dead",
+      "chunk_count": 48,
+      "title": "worship_dead",
+      "notes": "manifest normalized 2026-10-27 (legacy entry)"
     },
     {
       "id": "aurora_consurgens",
       "status": "scanned_images",
-      "path": "H:\\AuroraConsurgenszrichZentralbibliothekMs.Rh.172.pdf",
-      "description": "Aurora Consurgens (Zurich MS Rh.172) \u2014 scanned images, no extractable text",
-      "note": "This PDF contains scanned images only. OCR would be needed."
+      "path": "data/sources/original_pdfs/AuroraConsurgenszrichZentralbibliothekMs.Rh.172.pdf",
+      "description": "Aurora Consurgens (Zurich MS Rh.172) — scanned images, no extractable text",
+      "note": "This PDF contains scanned images only. OCR would be needed.",
+      "notes": "image-only scan; OCR decision pending (Phase 5)"
     },
     {
       "id": "ars_notoria",
-      "status": "ok",
-      "path": "C:\\Users\\akbon\\Downloads\\ars_notoria.pdf",
-      "description": "Ars Notoria \u2014 angelic art of knowledge acquisition through prayer and notation",
+      "status": "ingested",
+      "path": "data/sources/original_pdfs/ars_notoria.pdf",
+      "description": "Ars Notoria — angelic art of knowledge acquisition through prayer and notation",
       "total_chars": 140603,
       "total_chunks": 6,
       "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\ars_notoria",
@@ -976,13 +989,17 @@
           "end_char": 140603,
           "chars": 20818
         }
-      ]
+      ],
+      "chunks_dir": "data/sources/ars_notoria",
+      "chunk_count": 6,
+      "title": "ars_notoria",
+      "notes": "manifest normalized 2026-10-27 (legacy entry)"
     },
     {
       "id": "liber_juratus",
-      "status": "ok",
-      "path": "C:\\Users\\akbon\\Downloads\\Sworn Book of Honorius Liber - Juratus Honorii - Joseph Peterson.pdf",
-      "description": "Liber Juratus Honorii \u2014 the Sworn Book of Honorius (Peterson ed.)",
+      "status": "ingested",
+      "path": "data/sources/original_pdfs/Sworn Book of Honorius Liber - Juratus Honorii - Joseph Peterson.pdf",
+      "description": "Liber Juratus Honorii — the Sworn Book of Honorius (Peterson ed.)",
       "total_chars": 659348,
       "total_chunks": 28,
       "chunk_dir": "E:\\munich_handbook_research\\data\\sources\\liber_juratus",
@@ -1183,7 +1200,11 @@
           "end_char": 659348,
           "chars": 16958
         }
-      ]
+      ],
+      "chunks_dir": "data/sources/liber_juratus",
+      "chunk_count": 28,
+      "title": "liber_juratus",
+      "notes": "manifest normalized 2026-10-27 (legacy entry)"
     },
     {
       "id": "malleus_maleficarum",
@@ -1194,9 +1215,14 @@
       ],
       "year": 1486,
       "project": "malleus_marx",
-      "status": "ingested",
+      "status": "analysis",
       "chunks": "data/sources/malleus_marx/malleus_maleficarum",
-      "description": "Medieval heresy prosecution manual \u2014 deconstructionist rhetoric analysis"
+      "description": "Medieval heresy prosecution manual — deconstructionist rhetoric analysis",
+      "chunks_dir": "data/sources/malleus_marx/malleus_maleficarum",
+      "chunk_count": 162,
+      "distilled_dir": "data/distilled/malleus_marx",
+      "notes": "not part of unified-DB 8 tracks; consolidated malleus_marx dirs; normalized 2026-10-27",
+      "path": "data/sources/original_pdfs/The Malleus Maleficarum.pdf"
     },
     {
       "id": "karl_marx",
@@ -1206,9 +1232,141 @@
       ],
       "year": 1848,
       "project": "malleus_marx",
-      "status": "ingested",
+      "status": "analysis",
       "chunks": "data/sources/malleus_marx/karl_marx",
-      "description": "Revolutionary socialist critique \u2014 deconstructionist rhetoric analysis"
+      "description": "Revolutionary socialist critique — deconstructionist rhetoric analysis",
+      "chunks_dir": "data/sources/malleus_marx/karl_marx",
+      "chunk_count": 61,
+      "distilled_dir": "data/distilled/malleus_marx",
+      "notes": "not part of unified-DB 8 tracks; consolidated malleus_marx dirs; normalized 2026-10-27",
+      "path": "data/sources/original_pdfs/selected-works-karl-marx.pdf"
+    },
+    {
+      "id": "splendor_solis",
+      "title": "Splendor Solis (illuminated alchemical manuscript, facsimile)",
+      "author": "attributed to 'Solomon Trismostibos' / Philip of the Trinity",
+      "date": "facsimile ed.",
+      "language": "de/la (plates)",
+      "pages": 112,
+      "license": "facsimile edition — personal copy",
+      "sha256": "f7e7b1433bbe246f28df11d3930f972aab991e102037e377bf88e6b4daeb7e32",
+      "path": "data/sources/original_pdfs/splendor_solis_taschen.pdf",
+      "source": "D:/EBOOK (97 MB hi-res copy; 39 MB dup also in Downloads)",
+      "ingest": "2026-10-27",
+      "status": "staged",
+      "note": "Image-only scan — requires --ocr path. Paired alchemical MS with aurora_consurgens. Track not yet opened (OCR cost decision)."
+    },
+    {
+      "id": "goetia",
+      "status": "ingested",
+      "label": "The Lesser Key of Solomon (Lemegeton Regum) — Mathers 1904 trans.",
+      "path": "data/sources/original_pdfs/lesser_key_of_solomon_1904.pdf",
+      "description": "The Lesser Key of Solomon, S.L. MacGregor Mathers translation (1904), 1904 Schleier reprint scan, 107 pp. Part I Goetia: 72 spirits with titles, ranks, planetary alignments, seals and conjurations. Priority-1 expansion source (docs/expansion_sources.md); 1:1 merge check vs Munich commander tier. sha256 7f84607342...fffc2.",
+      "mode": "native",
+      "total_chars": 121284,
+      "total_chunks": 6,
+      "chunk_dir": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\goetia",
+      "chunks": [
+        {
+          "chunk_id": 0,
+          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\goetia\\chunk_000.txt",
+          "start_char": 0,
+          "end_char": 24187,
+          "chars": 24187
+        },
+        {
+          "chunk_id": 1,
+          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\goetia\\chunk_001.txt",
+          "start_char": 23687,
+          "end_char": 47933,
+          "chars": 24246
+        },
+        {
+          "chunk_id": 2,
+          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\goetia\\chunk_002.txt",
+          "start_char": 47433,
+          "end_char": 72066,
+          "chars": 24633
+        },
+        {
+          "chunk_id": 3,
+          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\goetia\\chunk_003.txt",
+          "start_char": 71566,
+          "end_char": 96233,
+          "chars": 24667
+        },
+        {
+          "chunk_id": 4,
+          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\goetia\\chunk_004.txt",
+          "start_char": 95733,
+          "end_char": 119586,
+          "chars": 23853
+        },
+        {
+          "chunk_id": 5,
+          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\goetia\\chunk_005.txt",
+          "start_char": 119086,
+          "end_char": 121284,
+          "chars": 2198
+        }
+      ],
+      "sha256": "7f84607342627d27f9a58207eb3f1d8abf671b0e45c305abdc122963816fffc2",
+      "author": "S.L. MacGregor Mathers (trans.)",
+      "date": "1904",
+      "pages": 107,
+      "license": "public domain (translation 1904; scan is 1904 Schleier reprint)",
+      "ingest": "2026-10-27",
+      "provenance": "user Downloads; staged original_pdfs; see _meta/ingest-log.md",
+      "chunks_dir": "data/sources/goetia"
+    },
+    {
+      "id": "otherworld_glimmerings",
+      "status": "staged",
+      "title": "Otherworld Glimmerings",
+      "author": "Boott Lee",
+      "date": "1895",
+      "pages": 308,
+      "language": "en",
+      "license": "public domain",
+      "sha256": "3eb59d71e67ffd61c461d56542111500018ca523d5e87911e3cd93dcb1d6f823",
+      "path": "data/sources/original_pdfs/otherworldorglim01leef.pdf",
+      "source": "D:\\\\EBOOK (identical copy in Downloads)",
+      "ingest": "2026-10-27",
+      "description": "Boott Lee, Otherworld Glimmerings (1895) — comparative afterlife/dead-worship folklore; secondary source paired with worship_dead (Garnier 1909). Full text layer (no OCR needed); track not opened yet — deliberate ingest decision pending (AGENTS.md pitfall note)."
+    },
+    {
+      "id": "alchemy_mysticism",
+      "status": "ingested",
+      "path": "data/sources/original_pdfs/Alchemy___Mysticism_-_Taschen__2003__text.pdf",
+      "chunks_dir": "data/sources/alchemy_mysticism",
+      "chunk_count": 30,
+      "title": "alchemy_mysticism",
+      "notes": "manifest normalized 2026-10-27 (legacy entry)"
+    },
+    {
+      "id": "discoverie",
+      "status": "ingested",
+      "title": "Scot, The Discoverie of Witchcraft (1584)",
+      "chunks_dir": "data/sources/discoverie",
+      "chunk_count": 76,
+      "path": null,
+      "notes": "public-domain text fetch (2026); original binary not staged; normalized 2026-10-27"
+    },
+    {
+      "id": "de_occultis",
+      "status": "analysis",
+      "chunks_dir": "data/sources/de_occultis",
+      "chunk_count": 29,
+      "notes": "hocr distillation experiment (scripts/distill_de_occultis.py); analysis corpus"
+    },
+    {
+      "id": "de_occultis_translated",
+      "status": "analysis",
+      "chunks_dir": "data/sources/de_occultis_translated",
+      "chunk_count": 26,
+      "notes": "translation pass feeding heresy/analysis docs; no distilled dir"
     }
-  ]
+  ],
+  "schema_version": "1.2",
+  "updated": "2026-10-27"
 }

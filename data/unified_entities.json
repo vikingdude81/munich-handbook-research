@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated": "2026-07-22",
+    "generated": "2026-10-27",
     "sources": [
       "necro",
       "forbidden_rites_pdf",
@@ -8,7 +8,8 @@
       "ars_notoria",
       "liber_juratus",
       "discoverie",
-      "alchemy_mysticism"
+      "alchemy_mysticism",
+      "goetia"
     ],
     "distinct_works": [
       "ars_notoria",
@@ -16,12 +17,13 @@
       "kieckhefer_clm849",
       "liber_juratus",
       "scot_1584",
-      "taschen_2003"
+      "taschen_2003",
+      "goetia_lemegeton"
     ],
-    "total_raw_entities": 3982,
-    "total_merged_entities": 2763,
-    "total_relationships": 1260,
-    "total_chunk_summaries": 147
+    "total_raw_entities": 4060,
+    "total_merged_entities": 2828,
+    "total_relationships": 1275,
+    "total_chunk_summaries": 151
   },
   "entities": [
     {
@@ -671,7 +673,8 @@
           "Medicine of God, Protector",
           "the medicine of God",
           "archangel intercessor",
-          "archangel"
+          "archangel",
+          "general of thy heavenly host"
         ],
         "rank": [
           "archangel",
@@ -712,14 +715,16 @@
         "[59v]",
         "[99r]",
         "experiment no. 16",
-        "p. 336–345"
+        "p. 336–345",
+        "93"
       ],
       "raw_quotes": [
         "send the angels Michael, Gabriel and Raphael to reveal whatever information",
         "Wed.: Michael — King Saba [...] freeing captives",
         "arguant te Michael et Gabriel [et] Raphael",
         "Coniuro super te, angele magne Michahel, qui es prepositus diei 4o",
-        "...et per 3es angelos, scilicet Michael, Gabriel, Raphael..."
+        "...et per 3es angelos, scilicet Michael, Gabriel, Raphael...",
+        "Michael.--Let Michael, who is, under Thee, general of thy heavenly host:"
       ],
       "sources": [
         "ars_notoria:chunk_4",
@@ -736,15 +741,17 @@
         "necro:chunk_22",
         "necro:chunk_31",
         "necro:chunk_33",
-        "necro:chunk_36"
+        "necro:chunk_36",
+        "goetia:chunk_4"
       ],
       "distinct_works": [
         "ars_notoria",
         "kieckhefer_clm849",
-        "liber_juratus"
+        "liber_juratus",
+        "goetia_lemegeton"
       ],
       "cross_work": true,
-      "occurrence_count": 15
+      "occurrence_count": 16
     },
     {
       "canonical_name": "lucifer",
@@ -854,6 +861,9 @@
           "Y-V-E",
           "HX-V-V-HV",
           "Y-V-E-X"
+        ],
+        "context": [
+          "divine name used in conjurations"
         ]
       },
       "page_refs": [
@@ -869,14 +879,16 @@
         "fol 3r",
         "p. 376 (100r)",
         "p. 42, M2, 1M, 115, 135, 138, MQ, HI (index)",
-        "p.21"
+        "p.21",
+        "86"
       ],
       "raw_quotes": [
         "...Adonay, Tetragramaton, Albumav...",
         "...Tetragramaton, Elyoram, Ryon...",
         "occidens and Tetragramaton at the right...",
         "Tetragramaton, Saday...",
-        "Tetragrammaton, 42, M2,1M, 115,135,138, MQ, HI"
+        "Tetragrammaton, 42, M2,1M, 115,135,138, MQ, HI",
+        "by the power and dignity of these three names, TETRAGRAMMATON, ANAPHAXETON, and PRIMEUMATON"
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_1",
@@ -891,13 +903,15 @@
         "necro:chunk_30",
         "necro:chunk_33",
         "necro:chunk_36",
-        "necro:chunk_38"
+        "necro:chunk_38",
+        "goetia:chunk_4"
       ],
       "distinct_works": [
-        "kieckhefer_clm849"
+        "kieckhefer_clm849",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 13
+      "cross_work": true,
+      "occurrence_count": 15
     },
     {
       "canonical_name": "beelzebub",
@@ -1056,10 +1070,14 @@
         ],
         "rank": [
           "demon",
-          "king"
+          "king",
+          "King"
         ],
         "function": "appears in circles and conjurations",
-        "functions": "mentioned among named demons",
+        "functions": [
+          "mentioned among named demons",
+          "Teach all Arts and Sciences, discover Earth/Mind, giveth Dignity, bindeth man subject unto Magician"
+        ],
         "description": [
           "One of three spirits that can be raised with wonderful things effected through their assistance",
           "A king who is more obedient to Lucifer than other kings."
@@ -1080,7 +1098,20 @@
           "dominations",
           "cherubim",
           "angels",
-          "potestates"
+          "potestates",
+          "Dominations"
+        ],
+        "sequence_number": [
+          "9"
+        ],
+        "direction": [
+          "West"
+        ],
+        "legions": [
+          "200 Legions of Spirits (part Angels, part Potentates)"
+        ],
+        "form": [
+          "Man sitting upon a Dromedary with a Crown most glorious"
         ]
       },
       "page_refs": [
@@ -1093,14 +1124,16 @@
         "p. 108",
         "p. 266–267, No. 12",
         "p. 87, 156, 173, 174 (index)",
-        "section 7, Demons and Daimons"
+        "section 7, Demons and Daimons",
+        "21"
       ],
       "raw_quotes": [
         "\"Thou, Belial, and thou Astaroth, and thou, Paymon, be my helpers in this undertaking.\"",
         "A few of the experiments list demons whose names are familiar from other sources: Astaroth, Baruch, Belial, Belzebub, Berith, Castiel, Lucifer, Mirael, Paymon and Satan or Sathan.",
         "Tu Belial, tu Astaroth, tu Paymon...",
         "Tu Belial, tu Astarothtf tu Paymon",
-        "Paymon, 87, 156, 173, 174"
+        "Paymon, 87, 156, 173, 174",
+        "The Ninth Spirit in this Order is Paimon, a Great King, and very obedient unto LUCIFER."
       ],
       "sources": [
         "discoverie:chunk_43",
@@ -1113,14 +1146,16 @@
         "necro:chunk_19",
         "necro:chunk_21",
         "necro:chunk_27",
-        "necro:chunk_38"
+        "necro:chunk_38",
+        "goetia:chunk_1"
       ],
       "distinct_works": [
         "kieckhefer_clm849",
-        "scot_1584"
+        "scot_1584",
+        "goetia_lemegeton"
       ],
       "cross_work": true,
-      "occurrence_count": 11
+      "occurrence_count": 13
     },
     {
       "canonical_name": "munich handbook (clm 849)",
@@ -1865,7 +1900,8 @@
           "source of magical characters",
           "recipient of revelation",
           "Recipient of the Orations, King",
-          "Recipient of inspiration, speaker"
+          "Recipient of inspiration, speaker",
+          "King, Author of Lemegeton"
         ],
         "status": "biblical king and magician",
         "title": "King",
@@ -1881,14 +1917,16 @@
         "40",
         "74-75",
         "p. 374 (98v)",
-        "page 8"
+        "page 8",
+        "12"
       ],
       "raw_quotes": [
         "...his rings invoked...seven signs, his seal, and his characters",
         "...per omnes karacteres Salomonis...",
         "Solomon, 24, 85, 108, 115, 139, 159, 171",
         "The Notory Art revealed by the Most High Creator to Solomon",
-        "Solomon witnesseth: Therefore it is called, The Notary Art, because in certain brief Notes, it teacheth and comprehendeth the Knowledge of all Arts"
+        "Solomon witnesseth: Therefore it is called, The Notary Art, because in certain brief Notes, it teacheth and comprehendeth the Knowledge of all Arts",
+        "CLAVICULA SALOMONIS REGIS, which containeth all the Names, Offices, and Orders of all the Spirits that ever he had converse with"
       ],
       "sources": [
         "ars_notoria:chunk_0",
@@ -1898,15 +1936,17 @@
         "forbidden_rites_pdf:chunk_36",
         "forbidden_rites_pdf:chunk_38",
         "liber_juratus:chunk_0",
-        "liber_juratus:chunk_5"
+        "liber_juratus:chunk_5",
+        "goetia:chunk_0"
       ],
       "distinct_works": [
         "ars_notoria",
         "kieckhefer_clm849",
-        "liber_juratus"
+        "liber_juratus",
+        "goetia_lemegeton"
       ],
       "cross_work": true,
-      "occurrence_count": 8
+      "occurrence_count": 9
     },
     {
       "canonical_name": "sword",
@@ -1975,7 +2015,10 @@
         "function": "conjuration authority",
         "usage": "inscribed on circles, essential for conjurations",
         "variant_found": "Ioth He Vau Deleth",
-        "context": "names to be said during separation",
+        "context": [
+          "names to be said during separation",
+          "divine name used in conjurations"
+        ],
         "English": "Agla",
         "Hebrew": "Heloy",
         "Arabic": "Iaym",
@@ -1992,14 +2035,16 @@
         "273-274",
         "324",
         "45v, 46r, 47r, 49r",
-        "p. 206"
+        "p. 206",
+        "86"
       ],
       "raw_quotes": [
         "per hoc nomen domini: Tetragramaton...",
         "The Tetragrammaton must be inscribed on all circles, because without it 'all conjurations of the spirits will fail...'",
         "unusual variation of the Tetragrammaton, “Ioth He Vau Deleth,” found in two places",
         "Tetragrammaton, respice, Domine, Deus",
-        "Agla, Monhon, Tetragramaton, Ely Deus"
+        "Agla, Monhon, Tetragramaton, Ely Deus",
+        "by the power and dignity of these three names, TETRAGRAMMATON, ANAPHAXETON, and PRIMEUMATON"
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_21",
@@ -2009,14 +2054,16 @@
         "liber_juratus:chunk_18",
         "liber_juratus:chunk_22",
         "liber_juratus:chunk_26",
-        "necro:chunk_29"
+        "necro:chunk_29",
+        "goetia:chunk_4"
       ],
       "distinct_works": [
         "kieckhefer_clm849",
-        "liber_juratus"
+        "liber_juratus",
+        "goetia_lemegeton"
       ],
       "cross_work": true,
-      "occurrence_count": 8
+      "occurrence_count": 10
     },
     {
       "canonical_name": "alpha et o",
@@ -3318,32 +3365,39 @@
           "single band inscribed within a square"
         ],
         "symbolic_form": "drawn by magician",
-        "elements": "seven spirits’ names, four cardinal directions, student/master labels"
+        "elements": "seven spirits’ names, four cardinal directions, student/master labels",
+        "description": [
+          "circle of the living breath"
+        ]
       },
       "page_refs": [
         "147",
         "CLM 849 passim",
         "n/a (exemplum narrative)",
-        "p.157–158"
+        "p.157–158",
+        "102"
       ],
       "raw_quotes": [
         "\"a circle, which is simple in form but important in its effects...\"",
         "made a circle according to his art",
         "The circle required for this first experiment is a single band inscribed within a square. Inscribed in and around the band are the names of seven spirits...",
-        "by your dwelling place, of which this [circle] is the form"
+        "by your dwelling place, of which this [circle] is the form",
+        "centre of the circle of the living breath"
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_16",
         "forbidden_rites_pdf:chunk_16/39",
         "necro:chunk_11",
         "necro:chunk_16",
-        "necro:chunk_21"
+        "necro:chunk_21",
+        "goetia:chunk_5"
       ],
       "distinct_works": [
-        "kieckhefer_clm849"
+        "kieckhefer_clm849",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 5
+      "cross_work": true,
+      "occurrence_count": 8
     },
     {
       "canonical_name": "cutroy",
@@ -4529,32 +4583,39 @@
           "ritual boundary for conjurations"
         ],
         "dimensions": "9 feet across, two circles 1 foot apart",
-        "purpose": "ritual operation and defense"
+        "purpose": "ritual operation and defense",
+        "description": [
+          "circle of the living breath"
+        ]
       },
       "page_refs": [
         "18, 23, 25, 29, 36, 42, 44–53, 55–60, 57, 62–3, 70–1, 74, 80, 84–7, 91, 100, 103, 106, 110–13, 115–6, 141, 142, 187",
         "239",
         "CLM 849 experiments nos. 3,7,8,9,11",
-        "pp. 18-23, 25, 29, 36, 42–53, 55–60, 70–74, 80, 84n, 100, 103, 106, 110–13, 115, 117–19, 126, 128, 133, 139, 144, 159, 170–6, 178, 186–7 (index)"
+        "pp. 18-23, 25, 29, 36, 42–53, 55–60, 70–74, 80, 84n, 100, 103, 106, 110–13, 115, 117–19, 126, 128, 133, 139, 144, 159, 170–6, 178, 186–7 (index)",
+        "102"
       ],
       "raw_quotes": [
         "The circles have power to convoke the demons (no. 9) and to terrify them (no. 7).",
         "circles, 18, 23, 25, 29, 36, 42-53 . 55-60 . 57, 62H, 70^4, 74, 80, 84£Z, 21, 100, 103,106, 110-13 . 115 . 117-19 . 126 . 128 . 133 .139,144,159, 170-6 . 178 . 186-7",
         "circles, 18, 23, 25, 29, 36, 42, 44–53, 55–60, 57, 62–3, 70–1, 74, 80, 84–7, 91, 100, 103, 106, 110–13, 115–6, 141, 142, 187",
-        "protrahat circulum 9 pedum dicens... duos circulos protrahat, quorum unus distet ab alio per unum pedem"
+        "protrahat circulum 9 pedum dicens... duos circulos protrahat, quorum unus distet ab alio per unum pedem",
+        "centre of the circle of the living breath"
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_38",
         "liber_juratus:chunk_19",
         "necro:chunk_22",
-        "necro:chunk_38"
+        "necro:chunk_38",
+        "goetia:chunk_5"
       ],
       "distinct_works": [
         "kieckhefer_clm849",
-        "liber_juratus"
+        "liber_juratus",
+        "goetia_lemegeton"
       ],
       "cross_work": true,
-      "occurrence_count": 4
+      "occurrence_count": 7
     },
     {
       "canonical_name": "clm 849",
@@ -8358,27 +8419,34 @@
       "name_variants": [],
       "attributes": {
         "role": "divine name used in conjurations",
-        "function": "divine name invoked for power"
+        "function": "divine name invoked for power",
+        "context": [
+          "divine name used in conjurations"
+        ]
       },
       "page_refs": [
         "42, 109, 110, 115, 135, 138, 160, 171",
-        "[59r]"
+        "[59r]",
+        "86"
       ],
       "raw_quotes": [
         "by the name of the Lord Tetragrammaton",
         "Tetragramaton",
-        "Tetragrammaton, 42, 109, 110, 115, 135, 138, 160, 171"
+        "Tetragrammaton, 42, 109, 110, 115, 135, 138, 160, 171",
+        "by the power and dignity of these three names, TETRAGRAMMATON, ANAPHAXETON, and PRIMEUMATON"
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_38",
         "necro:chunk_14",
-        "necro:chunk_31"
+        "necro:chunk_31",
+        "goetia:chunk_4"
       ],
       "distinct_works": [
-        "kieckhefer_clm849"
+        "kieckhefer_clm849",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 3
+      "cross_work": true,
+      "occurrence_count": 4
     },
     {
       "canonical_name": "toth",
@@ -16780,26 +16848,34 @@
       "attributes": {
         "function": [
           "controlling demons",
-          "protection and defense"
+          "protection and defense",
+          "calls the spirit"
+        ],
+        "description": [
+          "secret wisdom of Solomon"
         ]
       },
       "page_refs": [
         "243",
-        "page 16"
+        "page 16",
+        "102-103"
       ],
       "raw_quotes": [
         "The great seal is called the Seal of Solomon (as well as the Seal of God), famous from antiquity for controlling demons.",
-        "Signum Salomonis ad salvacionem et defensionem pono supra me"
+        "Signum Salomonis ad salvacionem et defensionem pono supra me",
+        "By the seal of the secret wisdom of Solomon thou art called!"
       ],
       "sources": [
         "liber_juratus:chunk_0",
-        "liber_juratus:chunk_19"
+        "liber_juratus:chunk_19",
+        "goetia:chunk_5"
       ],
       "distinct_works": [
-        "liber_juratus"
+        "liber_juratus",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 2
+      "cross_work": true,
+      "occurrence_count": 3
     },
     {
       "canonical_name": "seductor",
@@ -17674,25 +17750,32 @@
       "name_variants": [],
       "attributes": {
         "function": "compels demons to adopt pleasing forms",
-        "use": "inscribed on ring for conjuration"
+        "use": "inscribed on ring for conjuration",
+        "context": [
+          "divine name used in conjurations"
+        ]
       },
       "page_refs": [
         "58",
-        "text body (Roger Bacon treatise)"
+        "text body (Roger Bacon treatise)",
+        "86"
       ],
       "raw_quotes": [
         "bold use of the Tetragrammaton and the sign of the cross will compel them to adopt pleasing forms.",
-        "a ring with the Tetragrammaton inscribed on it"
+        "a ring with the Tetragrammaton inscribed on it",
+        "by the power and dignity of these three names, TETRAGRAMMATON, ANAPHAXETON, and PRIMEUMATON"
       ],
       "sources": [
         "forbidden_rites_pdf:chunk_5",
-        "necro:chunk_20"
+        "necro:chunk_20",
+        "goetia:chunk_4"
       ],
       "distinct_works": [
-        "kieckhefer_clm849"
+        "kieckhefer_clm849",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 2
+      "cross_work": true,
+      "occurrence_count": 3
     },
     {
       "canonical_name": "the_devil/sathan",
@@ -20141,8 +20224,14 @@
       "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "rank": "duke",
-        "direction": "east",
+        "rank": [
+          "duke",
+          "Duke"
+        ],
+        "direction": [
+          "east",
+          "East"
+        ],
         "appearance": [
           "fair old man",
           "riding a crocodile",
@@ -20154,22 +20243,45 @@
           "makes people stand still",
           "causes earthquakes"
         ],
-        "order": "virtues",
+        "order": [
+          "virtues",
+          "Virtues"
+        ],
         "legions_under_command": 31,
-        "description": "A duke of the power of the east appearing as a fair old man riding a crocodile."
+        "description": "A duke of the power of the east appearing as a fair old man riding a crocodile.",
+        "sequence_number": [
+          "2"
+        ],
+        "alternate_names": [
+          "Agreas"
+        ],
+        "legions": [
+          "31 Legions of Spirits"
+        ],
+        "form": [
+          "Old fair Man, riding upon a Crocodile, carrying a Goshawk"
+        ],
+        "functions": [
+          "Maketh them to run that stand still, bringeth back runaways, teaches all Languages, destroy Dignities, causeth Earthquakes"
+        ]
       },
       "page_refs": [
-        "Page 412"
+        "Page 412",
+        "18"
       ],
-      "raw_quotes": [],
+      "raw_quotes": [
+        "The Second Spirit is a Duke called Agreas, or Agares. He is under the Power of the East, and cometh up in the form of an old fair Man."
+      ],
       "sources": [
-        "discoverie:chunk_43"
+        "discoverie:chunk_43",
+        "goetia:chunk_1"
       ],
       "distinct_works": [
-        "scot_1584"
+        "scot_1584",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "agla",
@@ -21594,7 +21706,10 @@
       "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "rank": "marques",
+        "rank": [
+          "marques",
+          "Marquis"
+        ],
         "alias": "Aamon",
         "appearance": [
           "wolf",
@@ -21608,20 +21723,37 @@
           "reconciles friends and foes"
         ],
         "legions_under_command": 40,
-        "description": "A mighty marques appearing as a wolf with a serpent's tail."
+        "description": "A mighty marques appearing as a wolf with a serpent's tail.",
+        "sequence_number": [
+          "7"
+        ],
+        "legions": [
+          "40 Legions of Spirits"
+        ],
+        "form": [
+          "Wolf with a Serpents tail, vomiting flames; or Man with Dog's teeth/Raven head"
+        ],
+        "functions": [
+          "Telleth all things Past and to Come, procureth feuds and reconcileth controversies"
+        ]
       },
       "page_refs": [
-        "Page 412"
+        "Page 412",
+        "20"
       ],
-      "raw_quotes": [],
+      "raw_quotes": [
+        "The Seventh Spirit is Amon. He is a Marquis great in power, and most stern."
+      ],
       "sources": [
-        "discoverie:chunk_43"
+        "discoverie:chunk_43",
+        "goetia:chunk_1"
       ],
       "distinct_works": [
-        "scot_1584"
+        "scot_1584",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "an",
@@ -24574,7 +24706,8 @@
         "rank": [
           "count",
           "earl",
-          "duke"
+          "duke",
+          "Duke"
         ],
         "appearance": [
           "Signo sagittarii sylvestris"
@@ -24585,22 +24718,45 @@
           "knows past and future",
           "reconciles friends"
         ],
-        "order": "virtues",
+        "order": [
+          "virtues",
+          "Virtues"
+        ],
         "legions_under_command": 30,
-        "description": "A duke or earl who understands the voices of animals."
+        "description": "A duke or earl who understands the voices of animals.",
+        "sequence_number": [
+          "8"
+        ],
+        "planetary_association": [
+          "Sun in Sagittary"
+        ],
+        "legions": [
+          "30 Legions of Spirits"
+        ],
+        "form": [
+          "With four noble Kings and their companies"
+        ],
+        "functions": [
+          "Understanding of singing of Birds, breaketh Hidden Treasures open, knoweth Past/Future, conciliateth Friends"
+        ]
       },
       "page_refs": [
-        "Page 412"
+        "Page 412",
+        "21"
       ],
-      "raw_quotes": [],
+      "raw_quotes": [
+        "The Eighth Spirit is Barbatos. He is a Great Duke, and appeareth when the Sun is in Sagittary."
+      ],
       "sources": [
-        "discoverie:chunk_43"
+        "discoverie:chunk_43",
+        "goetia:chunk_1"
       ],
       "distinct_works": [
-        "scot_1584"
+        "scot_1584",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "barian",
@@ -24788,20 +24944,40 @@
       "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "description": "One of three spirits that can be raised with wonderful things effected through their assistance"
+        "description": "One of three spirits that can be raised with wonderful things effected through their assistance",
+        "sequence_number": [
+          "18"
+        ],
+        "rank": [
+          "Duke"
+        ],
+        "legions": [
+          "30 Legions of Spirits"
+        ],
+        "form": [
+          "Strong Man with the tail of a Serpent, sitting upon a Pale-Coloured Horse"
+        ],
+        "functions": [
+          "Knoweth Virtues of Herbs and Precious Stones, transport men suddenly"
+        ]
       },
       "page_refs": [
-        "Appendix I, Chap. III"
+        "Appendix I, Chap. III",
+        "26"
       ],
-      "raw_quotes": [],
+      "raw_quotes": [
+        "The Eighteenth Spirit is Bathin. He is a Mighty and Strong Duke."
+      ],
       "sources": [
-        "discoverie:chunk_8"
+        "discoverie:chunk_8",
+        "goetia:chunk_1"
       ],
       "distinct_works": [
-        "scot_1584"
+        "scot_1584",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "baysyn",
@@ -26810,7 +26986,10 @@
       "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "rank": "president",
+        "rank": [
+          "president",
+          "President"
+        ],
         "power": [
           "teaches moral and natural philosophy",
           "teaches logic",
@@ -26818,18 +26997,39 @@
           "heals diseases"
         ],
         "legions_under_command": 50,
-        "description": "A president who teaches philosophy and the virtue of herbs."
+        "description": "A president who teaches philosophy and the virtue of herbs.",
+        "sequence_number": [
+          "10"
+        ],
+        "planetary_association": [
+          "Sagittary (Sun there)"
+        ],
+        "legions": [
+          "50 Legions of Spirits"
+        ],
+        "form": [
+          "Appeareth in Sagittary"
+        ],
+        "functions": [
+          "Teaches Philosophy Moral and Natural, Logic Art, Virtues of Herbs, healeth distempers"
+        ]
       },
-      "page_refs": [],
-      "raw_quotes": [],
+      "page_refs": [
+        "22"
+      ],
+      "raw_quotes": [
+        "The Tenth Spirit is Buer, a Great President. He appeareth in Sagittary."
+      ],
       "sources": [
-        "discoverie:chunk_43"
+        "discoverie:chunk_43",
+        "goetia:chunk_1"
       ],
       "distinct_works": [
-        "scot_1584"
+        "scot_1584",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "bulla",
@@ -44956,43 +45156,58 @@
       "name_variants": [],
       "attributes": {
         "spirits_count": "seventy-two demons",
-        "page_refs": "p. 192"
+        "page_refs": "p. 192",
+        "also_known_as": [
+          "Clavicula Salomonis Regis"
+        ]
       },
       "page_refs": [
-        "p. 192"
+        "p. 192",
+        "12"
       ],
       "raw_quotes": [
-        "The Lemegeton lists seventy-two demons with their functions, including Asmoday..."
+        "The Lemegeton lists seventy-two demons with their functions, including Asmoday...",
+        "LEMEGETON VEL CLAVICULA SALOMONIS REGIS."
       ],
       "sources": [
-        "forbidden_rites_pdf:chunk_20"
+        "forbidden_rites_pdf:chunk_20",
+        "goetia:chunk_0"
       ],
       "distinct_works": [
-        "kieckhefer_clm849"
+        "kieckhefer_clm849",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "lemegeton",
       "display_name": "Lemegeton",
       "type": "ritual",
       "name_variants": [],
-      "attributes": {},
+      "attributes": {
+        "also_known_as": [
+          "Clavicula Salomonis Regis"
+        ]
+      },
       "page_refs": [
-        "161"
+        "161",
+        "12"
       ],
       "raw_quotes": [
-        "Lemegeton, 161"
+        "Lemegeton, 161",
+        "LEMEGETON VEL CLAVICULA SALOMONIS REGIS."
       ],
       "sources": [
-        "forbidden_rites_pdf:chunk_38"
+        "forbidden_rites_pdf:chunk_38",
+        "goetia:chunk_0"
       ],
       "distinct_works": [
-        "kieckhefer_clm849"
+        "kieckhefer_clm849",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "lemogethom, hegemochom, hazachay hazatha, azamachar, azacham, cohathay, geomothay logomothay, zathana, lachanma, legomezon, legornozon, lembdemachom, zegomaday, haihanayos, hatamam, helesymom, vagedaren, vadeyabar, lamnanath, lamadai, gomongchor, gemecher, ellemay, gecromal, gecrohahi, colomanos, colomaythos",
@@ -47060,7 +47275,10 @@
       "type": "spirit",
       "name_variants": [],
       "attributes": {
-        "rank": "president",
+        "rank": [
+          "president",
+          "President"
+        ],
         "alias": "Barbas",
         "appearance": [
           "mighty lion",
@@ -47074,20 +47292,37 @@
           "shape-shifting"
         ],
         "legions_under_command": 36,
-        "description": "A great president appearing as a mighty lion or a man."
+        "description": "A great president appearing as a mighty lion or a man.",
+        "sequence_number": [
+          "5"
+        ],
+        "legions": [
+          "36 Legions of Spirits"
+        ],
+        "form": [
+          "Great Lion, then Human Shape"
+        ],
+        "functions": [
+          "Answereth truly of things Hidden or Secret, causeth Diseases and cureth them, Wisdom in Mechanical Arts, change men into other shapes"
+        ]
       },
       "page_refs": [
-        "Page 412"
+        "Page 412",
+        "19"
       ],
-      "raw_quotes": [],
+      "raw_quotes": [
+        "The fifth Spirit is Marbas. He is a Great President, and appeareth at first in the form of a Great Lion."
+      ],
       "sources": [
-        "discoverie:chunk_43"
+        "discoverie:chunk_43",
+        "goetia:chunk_1"
       ],
       "distinct_works": [
-        "scot_1584"
+        "scot_1584",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "mare",
@@ -48403,22 +48638,29 @@
       "type": "divine_name",
       "name_variants": [],
       "attributes": {
-        "usage": "divine name / archangel"
+        "usage": "divine name / archangel",
+        "role": [
+          "general of thy heavenly host"
+        ]
       },
       "page_refs": [
-        "p. 207"
+        "p. 207",
+        "93"
       ],
       "raw_quotes": [
-        "Agla / Michael virtus dei / Gabriel fortitudo..."
+        "Agla / Michael virtus dei / Gabriel fortitudo...",
+        "Michael.--Let Michael, who is, under Thee, general of thy heavenly host:"
       ],
       "sources": [
-        "forbidden_rites_pdf:chunk_21"
+        "forbidden_rites_pdf:chunk_21",
+        "goetia:chunk_4"
       ],
       "distinct_works": [
-        "kieckhefer_clm849"
+        "kieckhefer_clm849",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "michael camille",
@@ -59845,22 +60087,32 @@
       "type": "ritual",
       "name_variants": [],
       "attributes": {
-        "description": "Contains three characters"
+        "description": [
+          "Contains three characters",
+          "secret wisdom of Solomon"
+        ],
+        "function": [
+          "calls the spirit"
+        ]
       },
       "page_refs": [
-        "Fol. 95v, no. 37r"
+        "Fol. 95v, no. 37r",
+        "102-103"
       ],
       "raw_quotes": [
-        "Fol. 95v, no. 37r: Seal of Solomon (three characters)."
+        "Fol. 95v, no. 37r: Seal of Solomon (three characters).",
+        "By the seal of the secret wisdom of Solomon thou art called!"
       ],
       "sources": [
-        "necro:chunk_38"
+        "necro:chunk_38",
+        "goetia:chunk_5"
       ],
       "distinct_works": [
-        "kieckhefer_clm849"
+        "kieckhefer_clm849",
+        "goetia_lemegeton"
       ],
-      "cross_work": false,
-      "occurrence_count": 1
+      "cross_work": true,
+      "occurrence_count": 2
     },
     {
       "canonical_name": "seals for planets and days of the week",
@@ -69708,6 +69960,2329 @@
       ],
       "cross_work": false,
       "occurrence_count": 1
+    },
+    {
+      "canonical_name": "bornless one",
+      "display_name": "Bornless One",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "context": [
+          "Preliminary Invocation"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "3"
+      ],
+      "raw_quotes": [
+        "Thee I invoke, the Bornless one."
+      ],
+      "sources": [
+        "goetia:chunk_0"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "osorronophris",
+      "display_name": "Osorronophris",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "context": [
+          "Preliminary Invocation"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "3"
+      ],
+      "raw_quotes": [
+        "Thou art Osorronophris: Whom no man has seen at any time."
+      ],
+      "sources": [
+        "goetia:chunk_0"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "cimieries",
+      "display_name": "Cimieries",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "context": [
+          "Example in Interpretation"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "9"
+      ],
+      "raw_quotes": [
+        "\"The Spirit Cimieries teaches logic\""
+      ],
+      "sources": [
+        "goetia:chunk_0"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "aleister crowley",
+      "display_name": "Aleister Crowley",
+      "type": "person",
+      "name_variants": [],
+      "attributes": {
+        "role": [
+          "Completer of translation"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "1"
+      ],
+      "raw_quotes": [
+        "ask Mr. Aleister Crowley, a poet, and skilled student of Magical Lore, and an expert Kabbalist, to complete openly that which had been begun in secret."
+      ],
+      "sources": [
+        "goetia:chunk_0"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "goetia",
+      "display_name": "Goetia",
+      "type": "book",
+      "name_variants": [],
+      "attributes": {
+        "part": [
+          "First Part of Lemegeton"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "13"
+      ],
+      "raw_quotes": [
+        "(1) THE FIRST PART is a Book of Evil Spirits, called GOETIA, showing how he bound up those Spirits"
+      ],
+      "sources": [
+        "goetia:chunk_0"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "magical circle",
+      "display_name": "Magical Circle",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "listed_in": [
+          "Contents"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "6"
+      ],
+      "raw_quotes": [
+        "The Magical Circle"
+      ],
+      "sources": [
+        "goetia:chunk_0"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "magical triangle of solomon",
+      "display_name": "Magical Triangle Of Solomon",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "listed_in": [
+          "Contents"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "6"
+      ],
+      "raw_quotes": [
+        "The Magical Triangle Of Solomon"
+      ],
+      "sources": [
+        "goetia:chunk_0"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "vessel of brass",
+      "display_name": "Vessel Of Brass",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "listed_in": [
+          "Contents"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "6"
+      ],
+      "raw_quotes": [
+        "The Vessel Of Brass"
+      ],
+      "sources": [
+        "goetia:chunk_0"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "bael",
+      "display_name": "Bael",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "1"
+        ],
+        "rank": [
+          "King"
+        ],
+        "direction": [
+          "East"
+        ],
+        "legions": [
+          "66 Legions of Infernal Spirits"
+        ],
+        "form": [
+          "Cat, Toad, Man, or all at once"
+        ],
+        "voice": [
+          "Hoarse"
+        ],
+        "functions": [
+          "Maketh thee to go Invisible"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "17"
+      ],
+      "raw_quotes": [
+        "The First Principal Spirit is a King ruling in the East, called Bael. He maketh thee to go Invisible."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "vassago",
+      "display_name": "Vassago",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "3"
+        ],
+        "rank": [
+          "Prince"
+        ],
+        "nature": [
+          "Good Nature"
+        ],
+        "legions": [
+          "26 Legions of Spirits"
+        ],
+        "functions": [
+          "Declare things Past and to Come, discover all things Hid or Lost"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "18"
+      ],
+      "raw_quotes": [
+        "The Third Spirit is a Mighty Prince, being of the same nature as Agares. He is called Vassago."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "samigina",
+      "display_name": "Samigina",
+      "type": "spirit",
+      "name_variants": [
+        "Gamigm"
+      ],
+      "attributes": {
+        "sequence_number": [
+          "4"
+        ],
+        "alternate_names": [
+          "Gamigm"
+        ],
+        "rank": [
+          "Marquis"
+        ],
+        "legions": [
+          "30 Legions of Inferiors"
+        ],
+        "form": [
+          "Little Horse or Ass, then Human shape"
+        ],
+        "voice": [
+          "Hoarse voice"
+        ],
+        "functions": [
+          "Teaches all Liberal Sciences, giveth account of Dead Souls that died in sin"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "19"
+      ],
+      "raw_quotes": [
+        "The Fourth Spirit is Samigina, a Great Marquis. He appeareth in the form of a little Horse or Ass."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "valefor",
+      "display_name": "Valefor",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "6"
+        ],
+        "rank": [
+          "Duke"
+        ],
+        "legions": [
+          "10 Legions of Spirits"
+        ],
+        "form": [
+          "Lion with an Ass's Head, bellowing"
+        ],
+        "functions": [
+          "Good Familiar, tempteth them he is a familiar of to steal"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "20"
+      ],
+      "raw_quotes": [
+        "The Sixth Spirit is Valefor. He is a mighty Duke, and appeareth in the shape of a Lion with an Ass's Head."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "gusion",
+      "display_name": "Gusion",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "11"
+        ],
+        "rank": [
+          "Duke"
+        ],
+        "legions": [
+          "40 Legions of Spirits"
+        ],
+        "form": [
+          "Like a Xenopilus"
+        ],
+        "functions": [
+          "Telleth Past/Present/Future, showeth meaning of questions, conciliateth friendships, giveth Honour"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "23"
+      ],
+      "raw_quotes": [
+        "The Eleventh Spirit in order is a great and strong Duke, called Gusion."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "sitri",
+      "display_name": "Sitri",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "12"
+        ],
+        "rank": [
+          "Prince"
+        ],
+        "legions": [
+          "60 Legions of Spirits"
+        ],
+        "form": [
+          "Leopard's head and Wings of a Gryphon, then Human shape beautiful"
+        ],
+        "functions": [
+          "Enflameth men with Women's love, causeth them to show themselves naked"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "23"
+      ],
+      "raw_quotes": [
+        "The Twelfth Spirit is Sitri. He is a Great Prince and appeareth at first with a Leopard's head."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "beleth",
+      "display_name": "Beleth",
+      "type": "spirit",
+      "name_variants": [
+        "Bileth, Bilet"
+      ],
+      "attributes": {
+        "sequence_number": [
+          "13"
+        ],
+        "alternate_names": [
+          "Bileth, Bilet"
+        ],
+        "rank": [
+          "King"
+        ],
+        "legions": [
+          "85 Legions of Spirits"
+        ],
+        "order": [
+          "Powers"
+        ],
+        "form": [
+          "Pale horse with trumpets and musical instruments playing before him"
+        ],
+        "ritual_requirements": [
+          "Hazel Wand, Triangle without Circle, Silver Ring on middle finger left hand"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "23"
+      ],
+      "raw_quotes": [
+        "The Thirteenth Spirit is called Beleth (or Bileth, or Bilet). He is a mighty King and terrible."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "leraie",
+      "display_name": "Leraie",
+      "type": "spirit",
+      "name_variants": [
+        "Leraje, Leraike"
+      ],
+      "attributes": {
+        "sequence_number": [
+          "14"
+        ],
+        "alternate_names": [
+          "Leraje, Leraike"
+        ],
+        "rank": [
+          "Marquis"
+        ],
+        "planetary_association": [
+          "Sagittary"
+        ],
+        "legions": [
+          "30 Legions of Spirits"
+        ],
+        "form": [
+          "Archer clad in Green, carrying a Bow and Quiver"
+        ],
+        "functions": [
+          "Causeth all great Battles and Contests, maketh wounds to putrefy"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "24"
+      ],
+      "raw_quotes": [
+        "The Fourteenth Spirit is called Leraje (or Leraie). He is a Marquis Great in Power."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "eligos",
+      "display_name": "Eligos",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "15"
+        ],
+        "rank": [
+          "Duke"
+        ],
+        "legions": [
+          "60 Legions of Spirits"
+        ],
+        "form": [
+          "Goodly Knight, carrying a Lance, an Ensign, and a Serpent"
+        ],
+        "functions": [
+          "Discovereth hidden things, knoweth things to come, Wars, Love of Lords"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "24"
+      ],
+      "raw_quotes": [
+        "The Fifteenth Spirit in Order is Eligos, a Great Duke."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "zepar",
+      "display_name": "Zepar",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "16"
+        ],
+        "rank": [
+          "Duke"
+        ],
+        "legions": [
+          "26 Legions of Inferior Spirits"
+        ],
+        "form": [
+          "Red Apparel and Armour, like a Soldier"
+        ],
+        "functions": [
+          "Cause Women to love Men, bring them together in love, maketh them barren"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "25"
+      ],
+      "raw_quotes": [
+        "The Sixteenth Spirit is Zepar. He is a Great Duke, and appeareth in Red Apparel."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "botis",
+      "display_name": "Botis",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "17"
+        ],
+        "rank": [
+          "President/Earl"
+        ],
+        "legions": [
+          "60 Legions of Spirits"
+        ],
+        "form": [
+          "Ugly Viper, then Human shape with Great Teeth and two Horns, carrying Sword"
+        ],
+        "functions": [
+          "Telleth Past/Future, reconcileth Friends and Foes"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "25"
+      ],
+      "raw_quotes": [
+        "The Seventeenth Spirit is Botis, a Great President, and an Earl."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "sallos",
+      "display_name": "Sallos",
+      "type": "spirit",
+      "name_variants": [
+        "Saleos"
+      ],
+      "attributes": {
+        "sequence_number": [
+          "19"
+        ],
+        "alternate_names": [
+          "Saleos"
+        ],
+        "rank": [
+          "Duke"
+        ],
+        "legions": [
+          "30 Legions of Spirits"
+        ],
+        "form": [
+          "Gallant Soldier riding on a Crocodile, with a Ducal Crown"
+        ],
+        "functions": [
+          "Causeth the Love of Women to Men"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "26"
+      ],
+      "raw_quotes": [
+        "The Nineteenth Spirit is Sallos (or Saleos). He is a Great and Mighty Duke."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "purson",
+      "display_name": "Purson",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "20"
+        ],
+        "rank": [
+          "King"
+        ],
+        "legions": [
+          "22 Legions of Spirits (Virtues/Thrones)"
+        ],
+        "form": [
+          "Man with a Lion's face, carrying a cruel Viper, riding upon a Bear"
+        ],
+        "functions": [
+          "Knoweth hidden things, discover Treasure, Past/Present/Future, Creation of World"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "27"
+      ],
+      "raw_quotes": [
+        "The Twentieth Spirit is Purson, a Great King. His appearance is comely."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "marax",
+      "display_name": "Marax",
+      "type": "spirit",
+      "name_variants": [
+        "Morax"
+      ],
+      "attributes": {
+        "sequence_number": [
+          "21"
+        ],
+        "alternate_names": [
+          "Morax"
+        ],
+        "rank": [
+          "Earl/President"
+        ],
+        "legions": [
+          "30 Legions of Spirits"
+        ],
+        "form": [
+          "Great Bull with a Man's face"
+        ],
+        "functions": [
+          "Make Men knowing in Astronomy, Liberal Sciences, give good Familiars"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "27"
+      ],
+      "raw_quotes": [
+        "The Twenty-first Spirit is Marax. He is a Great Earl and President."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "ipos",
+      "display_name": "Ipos",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "22"
+        ],
+        "rank": [
+          "Earl/Prince"
+        ],
+        "legions": [
+          "36 Legions of Spirits"
+        ],
+        "form": [
+          "Angel with a Lion's Head, and a Goose's Foot, and Hare's Tail"
+        ],
+        "functions": [
+          "Knoweth Past/Present/Future, maketh men witty and bold"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "28"
+      ],
+      "raw_quotes": [
+        "The Twenty-second Spirit is Ipos. He is an Earl, and a Mighty Prince."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "aim",
+      "display_name": "Aim",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "sequence_number": [
+          "23"
+        ],
+        "rank": [
+          "Duke"
+        ],
+        "legions": [
+          "26 Legions of Inferior Spirits"
+        ],
+        "form": [
+          "Handsome Man with three Heads (Serpent, Man w/ Stars, Calf), riding Viper"
+        ],
+        "functions": [
+          "Maketh thee witty, giveth true answers unto private matters"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "28"
+      ],
+      "raw_quotes": [
+        "The Twenty-third Spirit is Aim. He is a Great Strong Duke."
+      ],
+      "sources": [
+        "goetia:chunk_1"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "spirit fragment (preceding spirit 40)",
+      "display_name": "Spirit Fragment (Preceding Spirit 40)",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "Mighty President and Powerful"
+        ],
+        "legions": [
+          "40 Legions of Spirits"
+        ],
+        "appearance": [
+          "Human Shape at the request of the Exorcist, speak with a hoarse Voice"
+        ],
+        "functions": [
+          "build Houses and High Towers, bring to thy Knowledge Enemies' Desires and Thoughts, giveth Good Familiars"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "37"
+      ],
+      "raw_quotes": [
+        "He is a Mighty President and Powerful. He can build Houses and High Towers... He governeth 40 Legions of Spirits"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "raum",
+      "display_name": "Raum",
+      "type": "spirit",
+      "name_variants": [
+        "Räum"
+      ],
+      "attributes": {
+        "number": [
+          "40"
+        ],
+        "alternate_names": [
+          "Räum"
+        ],
+        "rank": [
+          "Great Earl"
+        ],
+        "legions": [
+          "30 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Crow, but after the Command of the Exorcist he putteth on Human Shape"
+        ],
+        "functions": [
+          "steal Treasures out King's Houses, destroy Cities and Dignities of Men, tell all things Past, Present, and What Will Be, cause Love between Friends and Foes"
+        ],
+        "order": [
+          "Order of Thrones"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "37-38"
+      ],
+      "raw_quotes": [
+        "The Fortieth Spirit is Räum. He is a Great Earl; and appeareth at first in the Form of a Crow... governeth 30 Legions of Spirits"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "focalor",
+      "display_name": "Focalor",
+      "type": "spirit",
+      "name_variants": [
+        "Forcalor, Furcalor"
+      ],
+      "attributes": {
+        "number": [
+          "41"
+        ],
+        "alternate_names": [
+          "Forcalor, Furcalor"
+        ],
+        "rank": [
+          "Mighty Duke and Strong"
+        ],
+        "legions": [
+          "30 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Man with Gryphon's Wings"
+        ],
+        "functions": [
+          "slay Men, drown them in the Waters, overthrow Ships of War, Power over both Winds and Seas"
+        ],
+        "order": [
+          "hopes to return to the Seventh Throne after 1,000 years"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "38"
+      ],
+      "raw_quotes": [
+        "The Forty-first Spirit is Focalor... He appeareth in the Form of a Man with Gryphon's Wings. His office is to slay Men, and to drown them in the Waters"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "vepar",
+      "display_name": "Vepar",
+      "type": "spirit",
+      "name_variants": [
+        "Vephar"
+      ],
+      "attributes": {
+        "number": [
+          "42"
+        ],
+        "alternate_names": [
+          "Vephar"
+        ],
+        "rank": [
+          "Duke Great and Strong"
+        ],
+        "legions": [
+          "29 Legions of Spirits"
+        ],
+        "appearance": [
+          "like a Mermaid"
+        ],
+        "functions": [
+          "govern the Waters, guide Ships laden with Arms... cause the seas to be right stormy, maketh men to die in Three Days by Putrefying Wounds"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "38-39"
+      ],
+      "raw_quotes": [
+        "The Forty-second Spirit is Vepar... appeareth like a Mermaid. His office is to govern the Waters, and to guide Ships laden with Arms"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "sabnock",
+      "display_name": "Sabnock",
+      "type": "spirit",
+      "name_variants": [
+        "Savnok"
+      ],
+      "attributes": {
+        "number": [
+          "43"
+        ],
+        "alternate_names": [
+          "Savnok"
+        ],
+        "rank": [
+          "Marquis, Mighty, Great and Strong"
+        ],
+        "legions": [
+          "50 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of an Armed Soldier with a Lion's Head, riding on a pale-coloured horse"
+        ],
+        "functions": [
+          "build high Towers, Castles and Cities, furnish them with Armour... afflict Men for many days with Wounds and with Sores rotten and full of Worms"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "39"
+      ],
+      "raw_quotes": [
+        "The Forty-third Spirit... is called Sabnock... appearing in the Form of an Armed Soldier with a Lion's Head, riding on a pale-coloured horse"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "shax",
+      "display_name": "Shax",
+      "type": "spirit",
+      "name_variants": [
+        "Shaz, Shass"
+      ],
+      "attributes": {
+        "number": [
+          "44"
+        ],
+        "alternate_names": [
+          "Shaz, Shass"
+        ],
+        "rank": [
+          "Great Marquis"
+        ],
+        "legions": [
+          "30 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Stock-Dove, speaking with a voice hoarse, but yet subtle"
+        ],
+        "functions": [
+          "take away the Sight, Hearing, or Understanding... steal money out of the houses of Kings... discover all things that are Hidden"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "39-40"
+      ],
+      "raw_quotes": [
+        "The Forty-fourth Spirit is Shax... appeareth in the Form of a Stock-Dove... His Office is to take away the Sight, Hearing, or Understanding of any Man or Woman"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "viné",
+      "display_name": "Viné",
+      "type": "spirit",
+      "name_variants": [
+        "Vinea"
+      ],
+      "attributes": {
+        "number": [
+          "45"
+        ],
+        "alternate_names": [
+          "Vinea"
+        ],
+        "rank": [
+          "Great King, and an Earl"
+        ],
+        "legions": [
+          "36 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Lion riding upon a Black Horse, and bearing a Viper in his hand"
+        ],
+        "functions": [
+          "discover Things Hidden, Witches, Wizards... build Towers, overthrow Great Stone Walls, make the Waters rough with Storms"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "40"
+      ],
+      "raw_quotes": [
+        "The Forty-fifth Spirit is Viné... appeareth in the Form of a Lion riding upon a Black Horse... His Office is to discover Things Hidden, Witches, Wizards"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "bifrons",
+      "display_name": "Bifrons",
+      "type": "spirit",
+      "name_variants": [
+        "Bifröus, Bifrovs"
+      ],
+      "attributes": {
+        "number": [
+          "46"
+        ],
+        "alternate_names": [
+          "Bifröus, Bifrovs"
+        ],
+        "rank": [
+          "Earl"
+        ],
+        "legions": [
+          "6 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Monster; but after a while... putteth on the shape of a Man"
+        ],
+        "functions": [
+          "make one knowing in Astrology, Geometry... teacheth the Virtues of Precious Stones and Woods... changeth Dead Bodies"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "40-41"
+      ],
+      "raw_quotes": [
+        "The Forty-sixth Spirit is called Bifrons... appeareth in the Form of a Monster; but after a while, at the Command of the Exorcist, he putteth on the shape of a Man"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "vual",
+      "display_name": "Vual",
+      "type": "spirit",
+      "name_variants": [
+        "Uvall, Voval"
+      ],
+      "attributes": {
+        "number": [
+          "47"
+        ],
+        "alternate_names": [
+          "Uvall, Voval"
+        ],
+        "rank": [
+          "Duke, Great, Mighty, and Strong"
+        ],
+        "legions": [
+          "37 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Mighty Dromedary at the first... putteth on Human Shape, and speaketh the Egyptian Tongue"
+        ],
+        "functions": [
+          "procure the Love of Woman, tell Things Past, Present, and to Come, procureth Friendship between Friends and Foes"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "41"
+      ],
+      "raw_quotes": [
+        "The Forty-seventh Spirit Uvall, or Vual... appeareth in the Form of a Mighty Dromedary at the first... His Office is to procure the Love of Woman"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "haagenti",
+      "display_name": "Haagenti",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "number": [
+          "48"
+        ],
+        "rank": [
+          "President"
+        ],
+        "legions": [
+          "33 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Mighty Bull with Gryphon's Wings... putteth on Human Shape"
+        ],
+        "functions": [
+          "make Men wise... Transmute all Metals into Gold; and to change Wine into Water, and Water into Wine"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "41-42"
+      ],
+      "raw_quotes": [
+        "The Forty-eighth Spirit is Haagenti. He is a President, appearing in the Form of a Mighty Bull with Gryphon's Wings... Transmute all Metals into Gold"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "crocell",
+      "display_name": "Crocell",
+      "type": "spirit",
+      "name_variants": [
+        "Crokel"
+      ],
+      "attributes": {
+        "number": [
+          "49"
+        ],
+        "alternate_names": [
+          "Crokel"
+        ],
+        "rank": [
+          "Duke Great and Strong"
+        ],
+        "legions": [
+          "48 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of an Angel... speaking something Mystically of Hidden Things"
+        ],
+        "functions": [
+          "teacheth the Art of Geometry and the Liberal Sciences... produce Great Noises like the Rushings of many Waters, warmeth Waters"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "42"
+      ],
+      "raw_quotes": [
+        "The Forty-ninth Spirit is Crocell... He is a Duke Great and Strong... teacheth the Art of Geometry and the Liberal Sciences"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "furcas",
+      "display_name": "Furcas",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "number": [
+          "50"
+        ],
+        "rank": [
+          "Knight"
+        ],
+        "legions": [
+          "20 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Cruel Old Man with a long Beard and a hoary Head, riding upon a pale-coloured Horse, with a Sharp Weapon in his hand"
+        ],
+        "functions": [
+          "teach the Arts of Philosophy, Astrology, Rhetoric, Logic, Cheiromancy, and Pyromancy"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "42-43"
+      ],
+      "raw_quotes": [
+        "The Fiftieth Spirit is Furcas. He is a Knight... appeareth in the Form of a Cruel Old Man with a long Beard... teach the Arts of Philosophy, Astrology"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "balam",
+      "display_name": "Balam",
+      "type": "spirit",
+      "name_variants": [
+        "Balaam"
+      ],
+      "attributes": {
+        "number": [
+          "51"
+        ],
+        "alternate_names": [
+          "Balaam"
+        ],
+        "rank": [
+          "Terrible, Great, and Powerful King"
+        ],
+        "legions": [
+          "40 Legions of Spirits"
+        ],
+        "appearance": [
+          "three Heads: Bull, Man, Ram... Tail of a Serpent, Flaming Eyes. rideth upon a furious Bear, carrieth a Boshawk upon his Fist"
+        ],
+        "functions": [
+          "give True Answers of Things Past, Present, and to Come. maketh men to go Invisible, and also to be Witty"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "43"
+      ],
+      "raw_quotes": [
+        "The Fifty-first Spirit is Balam... appeareth with three Heads: the first is like that of a Bull; the second is like that of a Man; the third is like that of a Ram"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "alloces",
+      "display_name": "Alloces",
+      "type": "spirit",
+      "name_variants": [
+        "Alocas"
+      ],
+      "attributes": {
+        "number": [
+          "52"
+        ],
+        "alternate_names": [
+          "Alocas"
+        ],
+        "rank": [
+          "Duke, Great, Mighty, and Strong"
+        ],
+        "legions": [
+          "36 Legions of Spirits"
+        ],
+        "appearance": [
+          "Form of a Soldier riding upon a Great Horse. Face is like that of a Lion, very Red, and having Flaming Eyes"
+        ],
+        "functions": [
+          "teach the Art of Astronomy, and all the Liberal Sciences. bringeth unto thee Good Familiars"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "43-44"
+      ],
+      "raw_quotes": [
+        "The Fifty-second Spirit is Alloces... appearing in the Form of a Soldier riding upon a Great Horse. His Face is like that of a Lion, very Red"
+      ],
+      "sources": [
+        "goetia:chunk_2"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "magical circle of king solomon",
+      "display_name": "Magical Circle of King Solomon",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "dimensions": [
+          "9 feet across"
+        ],
+        "colors": [
+          "Outer/inner space bright deep yellow; centre square red; names black; Hexagram triangles yellow, centres blue or green; Pentagrams outside circle yellow, centres red"
+        ],
+        "names_written": [
+          "Beginning at EHYEH, ending at LEVANAH, Luna"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "58-60"
+      ],
+      "raw_quotes": [
+        "This Magical Circle is to be made 9 feet across, and the Divine Names are to be written around it, beginning at EHYEH, and ending at LEVANAH, Luna."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "magical triangle of solomon",
+      "display_name": "Magical Triangle of Solomon",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "dimensions": [
+          "3 feet across"
+        ],
+        "placement": [
+          "2 feet distance from the Magical Circle"
+        ],
+        "orientation": [
+          "Base nearest unto the Circle, apex pointing in the direction of the quarter of the Spirit"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "60-61"
+      ],
+      "raw_quotes": [
+        "It is to be made at 2 feet distance from the Magical Circle and it is 3 feet across. Note that this triangle is to be placed toward that quarter whereunto the Spirit belongeth."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "hexagram of solomon",
+      "display_name": "Hexagram of Solomon",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "material": [
+          "Parchment of a calf's skin"
+        ],
+        "usage": [
+          "Worn at the skirt of thy white vestment, covered with cloth of fine linen white and pure"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "62"
+      ],
+      "raw_quotes": [
+        "the figure whereof is to be made on parchment of a calf's skin, and worn at the skirt of thy white vestment... so that they be compelled to take human shape upon them and be obedient."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "pentagram of solomon",
+      "display_name": "Pentagram of Solomon",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "material": [
+          "Sol or Luna (Gold or Silver)"
+        ],
+        "usage": [
+          "Worn upon thy breast; having the Seal of the Spirit required upon the other side thereof"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "63"
+      ],
+      "raw_quotes": [
+        "the figure whereof is to be made in Sol or Luna (Gold or Silver), and worn upon thy breast... It is to preserve thee from danger, and also to command the Spirits by."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "magic ring or disc of solomon",
+      "display_name": "Magic Ring or Disc of Solomon",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "material": [
+          "Gold or silver"
+        ],
+        "usage": [
+          "Held before the face of the exorcist"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "64"
+      ],
+      "raw_quotes": [
+        "the figure whereof is to be made in gold or silver. It is to be held before the face of the exorcist to preserve him from the stinking sulphurous fumes and flaming breath of the Evil Spirits."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "vessel of brass",
+      "display_name": "Vessel of Brass",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "material": [
+          "Bronze"
+        ],
+        "seal": [
+          "Figure 160 made in brass to cover this vessel with at the top"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "65-66"
+      ],
+      "raw_quotes": [
+        "THIS is the Form of the Vessel of Brass wherein King Solomon did shut up the Evil Spirits, etc."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "secret seal of solomon",
+      "display_name": "Secret Seal of Solomon",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "creation_time": [
+          "Day of Mars or Saturn (Tuesday or Saturday) at night at 12 o'clock"
+        ],
+        "material": [
+          "Virgin parchment with the blood of a black cock that never trode hen"
+        ],
+        "perfume": [
+          "Alum, raisins dried in the sun, dates, cedar and lignum aloes"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "67-74"
+      ],
+      "raw_quotes": [
+        "It is to be made on the day of Mars or Saturn (Tuesday or Saturday) at night at 12 o'clock, and written upon virgin parchment with the blood of a black cock that never trode hen."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "other magical requisites",
+      "display_name": "Other Magical Requisites",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "items": [
+          "Sceptre, sword, mitre, cap, long white robe of linen, girdle of lion's skin three inches broad, perfumes, chafing-dish, anointing oil, fair water"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "75"
+      ],
+      "raw_quotes": [
+        "THE other magical requisites are: a sceptre, a sword, a mitre, a cap, a long white robe of linen... also a girdle of lion's skin three inches broad..."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "conjuration to call forth any of the aforesaid spirits",
+      "display_name": "Conjuration to Call Forth Any of the Aforesaid Spirits",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "purpose": [
+          "Command spirit to appear in fair human shape before Circle"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "77-78"
+      ],
+      "raw_quotes": [
+        "I do strongly command thee, by Him Who spake and it was done, and unto whom all creatures be obedient... that thou dost forthwith appear unto me here before this Circle in a fair human shape."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "the constraint",
+      "display_name": "The Constraint",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "names_used": [
+          "ADONAI, PREYAI or PRERAI, TETRAGRAMMATON, ANAPHAXETON, INESSENFATOAL, PATHTUMON, ITEMON"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "81"
+      ],
+      "raw_quotes": [
+        "I conjure and constrain thee... by these seven great names wherewith Solomon the Wise bound thee and thy companions in a Vessel of Brass..."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "king amaymon",
+      "display_name": "King Amaymon",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rank": [
+          "KING"
+        ],
+        "domain": [
+          "Dominion of the East"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "83"
+      ],
+      "raw_quotes": [
+        "O THOU great, powerful, and mighty KING AMAIMON, who bearest rule by the power of the SUPREME GOD EL over all spirits both superior and inferior of the Infernal Orders in the Dominion of the East"
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "halaheh",
+      "display_name": "Halaheh",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "rule": [
+          "Under the rule of BAEL"
+        ],
+        "nature": [
+          "Mixed nature, partly good and partly evil"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "74-75"
+      ],
+      "raw_quotes": [
+        "In Figure 175 is given the Seal of the Spirit HALAHEL. This Spirit is said to be under the rule of BAEL..."
+      ],
+      "sources": [
+        "goetia:chunk_3"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "strong black box",
+      "display_name": "Strong Black Box",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "material": [
+          "metal or something which does not take fire easily"
+        ],
+        "usage": [
+          "enclose spirit seal"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "85"
+      ],
+      "raw_quotes": [
+        "write thou his seal on parchment and put thou it into a strong black box;36 with brimstone, assafœtida, and such like things that bear a stinking smell"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "iron wire",
+      "display_name": "Iron Wire",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "usage": [
+          "bind the box up round"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "85"
+      ],
+      "raw_quotes": [
+        "and then bind the box up round with an iron wire, and bang it upon the point of thy sword"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "pentacle of solomon",
+      "display_name": "Pentacle of Solomon",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "location": [
+          "at tile bottom of your vesture covered with a linen cloth"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "87"
+      ],
+      "raw_quotes": [
+        "showing unto him the Pentacle that is at tile bottom of your vesture covered with a linen cloth"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "vessel of brass",
+      "display_name": "Vessel of Brass",
+      "type": "tool",
+      "name_variants": [],
+      "attributes": {
+        "usage": [
+          "command these spirits into... in the same manner as thou dost into the triangle"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "89"
+      ],
+      "raw_quotes": [
+        "Thou mayest command these spirits into the Vessel of Brass in the same manner as thou dost into the triangle"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "conjuration of the fire",
+      "display_name": "Conjuration of the Fire",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "purpose": [
+          "torment, burn, and consume this Spirit N."
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "85"
+      ],
+      "raw_quotes": [
+        "I CONJURE thee, O fire, by him who made thee and all other creatures for good in the world"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "greater curse",
+      "display_name": "Greater Curse",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "alternate_name": [
+          "Spirits' Chain (in some codices)"
+        ],
+        "purpose": [
+          "bind thee in the depths of the Bottomless Abyss"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "86"
+      ],
+      "raw_quotes": [
+        "I do in the name, and by the power and dignity of the Omnipresent and Immortal Lord God of Hosts IEHOVAH TETRAGRAMMATON... curse thee"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "license to depart",
+      "display_name": "License to Depart",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "condition": [
+          "after thou hast given the Spirit license to depart, thou art not to go out of the circle until he or they be gone"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "89"
+      ],
+      "raw_quotes": [
+        "I do here license thee to depart unto thy proper place; without causing harm or danger unto man or beast."
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "spirit n.",
+      "display_name": "Spirit N.",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "status": [
+          "generic placeholder for summoned entity"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "85"
+      ],
+      "raw_quotes": [
+        "torment, burn, and consume this Spirit N., for everlasting."
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "octinimos",
+      "display_name": "Octinimos",
+      "type": "person",
+      "name_variants": [],
+      "attributes": {
+        "role": [
+          "master/exorcist name in address"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "87"
+      ],
+      "raw_quotes": [
+        "even him, thy master, who is called OCTINIMOS."
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "eheie",
+      "display_name": "Eheie",
+      "type": "concept",
+      "name_variants": [],
+      "attributes": {
+        "meaning": [
+          "Almighty God, whose dwelling is in the highest Heavens"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "91"
+      ],
+      "raw_quotes": [
+        "Eheie. Kether.--Almighty God, whose dwelling is in the highest Heavens:"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "soluzen",
+      "display_name": "Soluzen",
+      "type": "concept",
+      "name_variants": [],
+      "attributes": {
+        "function": [
+          "command spirit to come unto this circle"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "94"
+      ],
+      "raw_quotes": [
+        "Soluzen.--I command thee, thou Spirit of whatsoever region thou art, to come unto this circle:"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "primeumaton",
+      "display_name": "Primeumaton",
+      "type": "concept",
+      "name_variants": [],
+      "attributes": {
+        "function": [
+          "let all spirits be subject unto us"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "95"
+      ],
+      "raw_quotes": [
+        "Primeumaton.--Thou Who art the First and Last, let all spirits be subject unto us"
+      ],
+      "sources": [
+        "goetia:chunk_4"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "spirit n.",
+      "display_name": "Spirit N.",
+      "type": "spirit",
+      "name_variants": [],
+      "attributes": {
+        "status": [
+          "placeholder for specific spirit name"
+        ],
+        "role": [
+          "servant of fealty and obedience"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "102-104"
+      ],
+      "raw_quotes": [
+        "O thou Spirit . . . N. beautiful and praiseworthy!"
+      ],
+      "sources": [
+        "goetia:chunk_5"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "octinomos",
+      "display_name": "Octinomos",
+      "type": "concept",
+      "name_variants": [],
+      "attributes": {
+        "role": [
+          "lord of thy governments"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "102"
+      ],
+      "raw_quotes": [
+        "whose Name is called Octinomos."
+      ],
+      "sources": [
+        "goetia:chunk_5"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
+    },
+    {
+      "canonical_name": "license to depart",
+      "display_name": "License to Depart",
+      "type": "ritual",
+      "name_variants": [],
+      "attributes": {
+        "function": [
+          "allows spirit to descend unto dwelling without terror"
+        ],
+        "goetia_exclusive": [
+          "not attested in the seven prior source tracks under any exact name match (2026-10-27 merge); doublet review pending"
+        ]
+      },
+      "page_refs": [
+        "103-104"
+      ],
+      "raw_quotes": [
+        "YE LICENSE TO YE SPIRIT YT HE MAYE DEPART."
+      ],
+      "sources": [
+        "goetia:chunk_5"
+      ],
+      "distinct_works": [
+        "goetia_lemegeton"
+      ],
+      "cross_work": false,
+      "occurrence_count": 1
     }
   ],
   "relationships": [
@@ -77270,6 +79845,96 @@
       "to": "bed of hay and ashes",
       "type": "written_around",
       "source": "liber_juratus"
+    },
+    {
+      "from": "solomon",
+      "to": "lemegeton",
+      "type": "author_of",
+      "source": "goetia"
+    },
+    {
+      "from": "aleister crowley",
+      "to": "g. h. fra. d.d.c.f.",
+      "type": "completed_work_of",
+      "source": "goetia"
+    },
+    {
+      "from": "goetia",
+      "to": "lemegeton",
+      "type": "part_of",
+      "source": "goetia"
+    },
+    {
+      "from": "cimieries",
+      "to": "logic",
+      "type": "teaches",
+      "source": "goetia"
+    },
+    {
+      "from": "secret seal of solomon",
+      "to": "vessel of brass",
+      "type": "binds_spirits_in",
+      "source": "goetia"
+    },
+    {
+      "from": "magical circle",
+      "to": "evil spirits",
+      "type": "preserves_from_malice_of",
+      "source": "goetia"
+    },
+    {
+      "from": "magical triangle of solomon",
+      "to": "evil spirits",
+      "type": "commands_into",
+      "source": "goetia"
+    },
+    {
+      "from": "king amaymon",
+      "to": "infernal orders",
+      "type": "rules_over_in_dominion_of_the_east",
+      "source": "goetia"
+    },
+    {
+      "from": "halaheh",
+      "to": "bael",
+      "type": "under_rule_of",
+      "source": "goetia"
+    },
+    {
+      "from": "strong black box",
+      "to": "pentacle of solomon",
+      "type": "contains_seal_shown_with",
+      "source": "goetia"
+    },
+    {
+      "from": "vessel of brass",
+      "to": "triangle",
+      "type": "alternative_to",
+      "source": "goetia"
+    },
+    {
+      "from": "greater curse",
+      "to": "spirit n.",
+      "type": "binds",
+      "source": "goetia"
+    },
+    {
+      "from": "license to depart",
+      "to": "spirit n.",
+      "type": "releases",
+      "source": "goetia"
+    },
+    {
+      "from": "spirit n.",
+      "to": "octinomos",
+      "type": "obeys",
+      "source": "goetia"
+    },
+    {
+      "from": "seal of solomon",
+      "to": "spirit n.",
+      "type": "calls",
+      "source": "goetia"
     }
   ],
   "chunk_summaries": [
@@ -78807,6 +81472,26 @@
       "chunk_id": 26,
       "summary": "The passage explores the intersection of literary, alchemical, and geometric symbolism in works like Joyce's Finnegans Wake and the philosophies of Giordano Bruno. It details complex systems of correspondences between elements, winds, humours, and angelic hierarchies.",
       "key_passages": []
+    },
+    {
+      "source_id": "goetia",
+      "chunk_id": 0,
+      "summary": "This chunk contains the Preface, Preliminary Invocation (Bornless One), and introductory definitions of the Lemegeton/Goetia. It lists the contents including ritual apparatus like the Magical Circle and Triangle but does not yet detail the 72 spirits beyond a single mention of Cimieries."
+    },
+    {
+      "source_id": "goetia",
+      "chunk_id": 3,
+      "summary": "This chunk details the construction and usage of Solomon's ritual apparatus including the Magical Circle, Triangle, Hexagram, Pentagram, Ring, Vessel of Brass, and Secret Seal. It provides full text for general conjurations, constraints, and invocations used to command spirits, specifically mentioning King Amaymon and Spirit Halaheh."
+    },
+    {
+      "source_id": "goetia",
+      "chunk_id": 4,
+      "summary": "This chunk contains detailed ritual instructions for binding, conjuring, welcoming, and licensing spirits (generic 'Spirit N.'), including the Conjuration of Fire, Greater Curse, and License to Depart. It also provides explanations of divine names used in the Lemegeton and specific commands for Solomon's Triangle, but does not list the individual 72 Goetia spirits."
+    },
+    {
+      "source_id": "goetia",
+      "chunk_id": 5,
+      "summary": "This chunk contains general conjuration formulas for welcoming and licensing spirits, referencing the Seal of Solomon and a protective circle. It includes instructions for commanding the spirit's appearance and departure but does not list specific names or attributes of the 72 Goetia spirits."
     }
   ]
 }

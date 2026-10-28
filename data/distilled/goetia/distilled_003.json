@@ -1,0 +1,162 @@
+{
+  "source_id": "goetia",
+  "chunk_id": 3,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Magical Circle of King Solomon",
+      "type": "ritual",
+      "attributes": {
+        "dimensions": "9 feet across",
+        "colors": "Outer/inner space bright deep yellow; centre square red; names black; Hexagram triangles yellow, centres blue or green; Pentagrams outside circle yellow, centres red",
+        "names_written": "Beginning at EHYEH, ending at LEVANAH, Luna"
+      },
+      "page_ref": "58-60",
+      "raw_quote": "This Magical Circle is to be made 9 feet across, and the Divine Names are to be written around it, beginning at EHYEH, and ending at LEVANAH, Luna."
+    },
+    {
+      "name": "Magical Triangle of Solomon",
+      "type": "ritual",
+      "attributes": {
+        "dimensions": "3 feet across",
+        "placement": "2 feet distance from the Magical Circle",
+        "orientation": "Base nearest unto the Circle, apex pointing in the direction of the quarter of the Spirit"
+      },
+      "page_ref": "60-61",
+      "raw_quote": "It is to be made at 2 feet distance from the Magical Circle and it is 3 feet across. Note that this triangle is to be placed toward that quarter whereunto the Spirit belongeth."
+    },
+    {
+      "name": "Hexagram of Solomon",
+      "type": "tool",
+      "attributes": {
+        "material": "Parchment of a calf's skin",
+        "usage": "Worn at the skirt of thy white vestment, covered with cloth of fine linen white and pure"
+      },
+      "page_ref": "62",
+      "raw_quote": "the figure whereof is to be made on parchment of a calf's skin, and worn at the skirt of thy white vestment... so that they be compelled to take human shape upon them and be obedient."
+    },
+    {
+      "name": "Pentagram of Solomon",
+      "type": "tool",
+      "attributes": {
+        "material": "Sol or Luna (Gold or Silver)",
+        "usage": "Worn upon thy breast; having the Seal of the Spirit required upon the other side thereof"
+      },
+      "page_ref": "63",
+      "raw_quote": "the figure whereof is to be made in Sol or Luna (Gold or Silver), and worn upon thy breast... It is to preserve thee from danger, and also to command the Spirits by."
+    },
+    {
+      "name": "Magic Ring or Disc of Solomon",
+      "type": "tool",
+      "attributes": {
+        "material": "Gold or silver",
+        "usage": "Held before the face of the exorcist"
+      },
+      "page_ref": "64",
+      "raw_quote": "the figure whereof is to be made in gold or silver. It is to be held before the face of the exorcist to preserve him from the stinking sulphurous fumes and flaming breath of the Evil Spirits."
+    },
+    {
+      "name": "Vessel of Brass",
+      "type": "tool",
+      "attributes": {
+        "material": "Bronze",
+        "seal": "Figure 160 made in brass to cover this vessel with at the top"
+      },
+      "page_ref": "65-66",
+      "raw_quote": "THIS is the Form of the Vessel of Brass wherein King Solomon did shut up the Evil Spirits, etc."
+    },
+    {
+      "name": "Secret Seal of Solomon",
+      "type": "ritual",
+      "attributes": {
+        "creation_time": "Day of Mars or Saturn (Tuesday or Saturday) at night at 12 o'clock",
+        "material": "Virgin parchment with the blood of a black cock that never trode hen",
+        "perfume": "Alum, raisins dried in the sun, dates, cedar and lignum aloes"
+      },
+      "page_ref": "67-74",
+      "raw_quote": "It is to be made on the day of Mars or Saturn (Tuesday or Saturday) at night at 12 o'clock, and written upon virgin parchment with the blood of a black cock that never trode hen."
+    },
+    {
+      "name": "Other Magical Requisites",
+      "type": "tool",
+      "attributes": {
+        "items": "Sceptre, sword, mitre, cap, long white robe of linen, girdle of lion's skin three inches broad, perfumes, chafing-dish, anointing oil, fair water"
+      },
+      "page_ref": "75",
+      "raw_quote": "THE other magical requisites are: a sceptre, a sword, a mitre, a cap, a long white robe of linen... also a girdle of lion's skin three inches broad..."
+    },
+    {
+      "name": "Conjuration to Call Forth Any of the Aforesaid Spirits",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "Command spirit to appear in fair human shape before Circle"
+      },
+      "page_ref": "77-78",
+      "raw_quote": "I do strongly command thee, by Him Who spake and it was done, and unto whom all creatures be obedient... that thou dost forthwith appear unto me here before this Circle in a fair human shape."
+    },
+    {
+      "name": "The Constraint",
+      "type": "ritual",
+      "attributes": {
+        "names_used": "ADONAI, PREYAI or PRERAI, TETRAGRAMMATON, ANAPHAXETON, INESSENFATOAL, PATHTUMON, ITEMON"
+      },
+      "page_ref": "81",
+      "raw_quote": "I conjure and constrain thee... by these seven great names wherewith Solomon the Wise bound thee and thy companions in a Vessel of Brass..."
+    },
+    {
+      "name": "King Amaymon",
+      "type": "spirit",
+      "attributes": {
+        "rank": "KING",
+        "domain": "Dominion of the East"
+      },
+      "page_ref": "83",
+      "raw_quote": "O THOU great, powerful, and mighty KING AMAIMON, who bearest rule by the power of the SUPREME GOD EL over all spirits both superior and inferior of the Infernal Orders in the Dominion of the East"
+    },
+    {
+      "name": "Halaheh",
+      "type": "spirit",
+      "attributes": {
+        "rule": "Under the rule of BAEL",
+        "nature": "Mixed nature, partly good and partly evil"
+      },
+      "page_ref": "74-75",
+      "raw_quote": "In Figure 175 is given the Seal of the Spirit HALAHEL. This Spirit is said to be under the rule of BAEL..."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Secret Seal of Solomon",
+      "to": "Vessel of Brass",
+      "type": "binds_spirits_in"
+    },
+    {
+      "from": "Magical Circle",
+      "to": "Evil Spirits",
+      "type": "preserves_from_malice_of"
+    },
+    {
+      "from": "Magical Triangle of Solomon",
+      "to": "Evil Spirits",
+      "type": "commands_into"
+    },
+    {
+      "from": "King Amaymon",
+      "to": "Infernal Orders",
+      "type": "rules_over_in_Dominion_of_the_East"
+    },
+    {
+      "from": "Halaheh",
+      "to": "Bael",
+      "type": "under_rule_of"
+    }
+  ],
+  "summary": "This chunk details the construction and usage of Solomon's ritual apparatus including the Magical Circle, Triangle, Hexagram, Pentagram, Ring, Vessel of Brass, and Secret Seal. It provides full text for general conjurations, constraints, and invocations used to command spirits, specifically mentioning King Amaymon and Spirit Halaheh.",
+  "key_passages": [
+    "This Magical Circle is to be made 9 feet across, and the Divine Names are to be written around it, beginning at EHYEH, and ending at LEVANAH, Luna.",
+    "It is to be made on the day of Mars or Saturn (Tuesday or Saturday) at night at 12 o'clock, and written upon virgin parchment with the blood of a black cock that never trode hen.",
+    "I do strongly command thee, by Him Who spake and it was done, and unto whom all creatures be obedient... that thou dost forthwith appear unto me here before this Circle in a fair human shape.",
+    "O THOU great, powerful, and mighty KING AMAIMON, who bearest rule by the power of the SUPREME GOD EL over all spirits both superior and inferior of the Infernal Orders in the Dominion of the East",
+    "I curse thee into the depth of the Bottomless Abyss, there to remain unto the Day of Doom in chains, and in fire and brimstone unquenchable, unless thou forthwith appear here before this Circle"
+  ]
+}

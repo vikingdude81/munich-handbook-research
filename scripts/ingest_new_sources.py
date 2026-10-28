@@ -39,6 +39,20 @@ CHUNK_OVERLAP = 500
 
 # ── source definitions ──────────────────────────────────────────
 SOURCES = {
+    "goetia": {
+        "id": "goetia",
+        "label": "The Lesser Key of Solomon (Lemegeton Regum) — Mathers 1904 trans.",
+        "path": str(Path(__file__).resolve().parent.parent / "data" / "sources"
+                    / "original_pdfs" / "lesser_key_of_solomon_1904.pdf"),
+        "mode": "native",
+        "description": (
+            "The Lesser Key of Solomon, S.L. MacGregor Mathers translation (1904), "
+            "1904 Schleier reprint scan, 107 pp. Part I Goetia: 72 spirits with "
+            "titles, ranks, planetary alignments, seals and conjurations. "
+            "Priority-1 expansion source (docs/expansion_sources.md); 1:1 merge "
+            "check vs Munich commander tier. sha256 7f84607342...fffc2."
+        ),
+    },
     "discoverie": {
         "id": "discoverie",
         "label": "Reginald Scot — Discoverie of Witchcraft (1584 / 1886 reprint)",

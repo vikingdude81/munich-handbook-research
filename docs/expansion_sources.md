@@ -9,6 +9,19 @@ Current source status:
 - `necro` — Necromancy text (38 chunks) ✓
 - `worship_dead` — Worship of the Dead (49 chunks) ✓
 
+> **CORRECTION — 2026-10-27 audit.** The four April-era "expansion" texts (Agrippa,
+> Picatrix/"Liber Apoteles", FTTF/Fournier trial records, Bavarian Stadtbuch) that this
+> plan staged under `data/sources/expansion/` were **synthetic pseudo-sources** — LLM stubs
+> with impossible provenance (e.g. "Fournier v. The Accused, Toulouse 1598–1602" against
+> the real Montaillou register of 1318–25). They were never distilled and are quarantined
+> at `data/sources/_quarantine_april_stubs/` with full rationale. The *plans* below remain
+> valid — only verified scholarly editions (or faithful public-domain translations with
+> recorded provenance) may now be ingested.
+>
+> **2026-10-27:** priority-1 source `goetia` (*The Lesser Key of Solomon*, Mathers 1904,
+> from the 1904 Schleier reprint PDF) ingested as a separate track — chunked, distillation
+> queued. See `_meta/ingest-log.md`.
+
 ---
 
 ## Priority Sources

@@ -1,0 +1,165 @@
+{
+  "source_id": "goetia",
+  "chunk_id": 4,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Strong Black Box",
+      "type": "tool",
+      "attributes": {
+        "material": "metal or something which does not take fire easily",
+        "usage": "enclose spirit seal"
+      },
+      "page_ref": "85",
+      "raw_quote": "write thou his seal on parchment and put thou it into a strong black box;36 with brimstone, assafœtida, and such like things that bear a stinking smell"
+    },
+    {
+      "name": "Iron Wire",
+      "type": "tool",
+      "attributes": {
+        "usage": "bind the box up round"
+      },
+      "page_ref": "85",
+      "raw_quote": "and then bind the box up round with an iron wire, and bang it upon the point of thy sword"
+    },
+    {
+      "name": "Pentacle of Solomon",
+      "type": "tool",
+      "attributes": {
+        "location": "at tile bottom of your vesture covered with a linen cloth"
+      },
+      "page_ref": "87",
+      "raw_quote": "showing unto him the Pentacle that is at tile bottom of your vesture covered with a linen cloth"
+    },
+    {
+      "name": "Vessel of Brass",
+      "type": "tool",
+      "attributes": {
+        "usage": "command these spirits into... in the same manner as thou dost into the triangle"
+      },
+      "page_ref": "89",
+      "raw_quote": "Thou mayest command these spirits into the Vessel of Brass in the same manner as thou dost into the triangle"
+    },
+    {
+      "name": "Conjuration of the Fire",
+      "type": "ritual",
+      "attributes": {
+        "purpose": "torment, burn, and consume this Spirit N."
+      },
+      "page_ref": "85",
+      "raw_quote": "I CONJURE thee, O fire, by him who made thee and all other creatures for good in the world"
+    },
+    {
+      "name": "Greater Curse",
+      "type": "ritual",
+      "attributes": {
+        "alternate_name": "Spirits' Chain (in some codices)",
+        "purpose": "bind thee in the depths of the Bottomless Abyss"
+      },
+      "page_ref": "86",
+      "raw_quote": "I do in the name, and by the power and dignity of the Omnipresent and Immortal Lord God of Hosts IEHOVAH TETRAGRAMMATON... curse thee"
+    },
+    {
+      "name": "License to Depart",
+      "type": "ritual",
+      "attributes": {
+        "condition": "after thou hast given the Spirit license to depart, thou art not to go out of the circle until he or they be gone"
+      },
+      "page_ref": "89",
+      "raw_quote": "I do here license thee to depart unto thy proper place; without causing harm or danger unto man or beast."
+    },
+    {
+      "name": "Spirit N.",
+      "type": "spirit",
+      "attributes": {
+        "status": "generic placeholder for summoned entity"
+      },
+      "page_ref": "85",
+      "raw_quote": "torment, burn, and consume this Spirit N., for everlasting."
+    },
+    {
+      "name": "Tetragrammaton",
+      "type": "concept",
+      "attributes": {
+        "context": "divine name used in conjurations"
+      },
+      "page_ref": "86",
+      "raw_quote": "by the power and dignity of these three names, TETRAGRAMMATON, ANAPHAXETON, and PRIMEUMATON"
+    },
+    {
+      "name": "Octinimos",
+      "type": "person",
+      "attributes": {
+        "role": "master/exorcist name in address"
+      },
+      "page_ref": "87",
+      "raw_quote": "even him, thy master, who is called OCTINIMOS."
+    },
+    {
+      "name": "Eheie",
+      "type": "concept",
+      "attributes": {
+        "meaning": "Almighty God, whose dwelling is in the highest Heavens"
+      },
+      "page_ref": "91",
+      "raw_quote": "Eheie. Kether.--Almighty God, whose dwelling is in the highest Heavens:"
+    },
+    {
+      "name": "Michael",
+      "type": "concept",
+      "attributes": {
+        "role": "general of thy heavenly host"
+      },
+      "page_ref": "93",
+      "raw_quote": "Michael.--Let Michael, who is, under Thee, general of thy heavenly host:"
+    },
+    {
+      "name": "Soluzen",
+      "type": "concept",
+      "attributes": {
+        "function": "command spirit to come unto this circle"
+      },
+      "page_ref": "94",
+      "raw_quote": "Soluzen.--I command thee, thou Spirit of whatsoever region thou art, to come unto this circle:"
+    },
+    {
+      "name": "Primeumaton",
+      "type": "concept",
+      "attributes": {
+        "function": "let all spirits be subject unto us"
+      },
+      "page_ref": "95",
+      "raw_quote": "Primeumaton.--Thou Who art the First and Last, let all spirits be subject unto us"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Strong Black Box",
+      "to": "Pentacle of Solomon",
+      "type": "contains_seal_shown_with"
+    },
+    {
+      "from": "Vessel of Brass",
+      "to": "Triangle",
+      "type": "alternative_to"
+    },
+    {
+      "from": "Greater Curse",
+      "to": "Spirit N.",
+      "type": "binds"
+    },
+    {
+      "from": "License to Depart",
+      "to": "Spirit N.",
+      "type": "releases"
+    }
+  ],
+  "summary": "This chunk contains detailed ritual instructions for binding, conjuring, welcoming, and licensing spirits (generic 'Spirit N.'), including the Conjuration of Fire, Greater Curse, and License to Depart. It also provides explanations of divine names used in the Lemegeton and specific commands for Solomon's Triangle, but does not list the individual 72 Goetia spirits.",
+  "key_passages": [
+    "write thou his seal on parchment and put thou it into a strong black box;36 with brimstone, assafœtida, and such like things that bear a stinking smell",
+    "I do in the name, and by the power and dignity of the Omnipresent and Immortal Lord God of Hosts IEHOVAH TETRAGRAMMATON... curse thee, and deprive thee of all thine office, joy, and place",
+    "BEHOLD thy confusion if thou refusest to be obedient! Behold the Pentacle of Solomon which I have brought here before thy presence!",
+    "I do here license thee to depart unto thy proper place; without causing harm or danger unto man or beast.",
+    "Soluzen.--I command thee, thou Spirit of whatsoever region thou art, to come unto this circle:"
+  ]
+}

@@ -2,7 +2,7 @@
 
 **AI-driven entity extraction, SOM topology mapping, and structural analysis of medieval grimoires**
 
-Mapping medieval conjuration protocols to modern AI agent orchestration patterns. Built with a multi-GPU cluster running distillation, normalization, SOM training, and experiment automation across 5 historical sources.
+Mapping medieval conjuration protocols to modern AI agent orchestration patterns. Built with a multi-GPU cluster running distillation, normalization, SOM training, and experiment automation across seven source tracks.
 
 ## What This Is
 
@@ -16,7 +16,7 @@ The Munich Handbook (Bayerische Staatsbibliothek, CLM 849) is a 15th-century nec
 |------|-------------|
 | [`munich_handbook_guide.txt`](munich_handbook_guide.txt) | **Comprehensive guide** — 1,254 spirits, cross-grimoire rituals, ingredients, Table D references (270K chars) |
 | [`necromancy_to_ai_mapping.txt`](necromancy_to_ai_mapping.txt) | **Necromancy → AI mapping** — every structural element of medieval conjuration mapped to its AI agent counterpart (40K chars) |
-| [`data/unified_entities.json`](data/unified_entities.json) | **Unified database** — 2,467 merged entities, 1,200 relationships, 99 chunk summaries across 5 sources |
+| [`data/unified_entities.json`](data/unified_entities.json) | **Unified database** — 2,828 merged entities, 1,275 relationships, 151 chunk summaries across 8 source tracks |
 | [`som_output/`](som_output/) | **SOM Infernal Topology** — trained 15×15 Self-Organizing Map with cluster assignments, court labels, and visualizations |
 | [`experiment_results/`](experiment_results/) | **6 conjuration experiments** re-implemented as multi-GPU AI agent workflows |
 
@@ -37,14 +37,14 @@ The Munich Handbook (Bayerische Staatsbibliothek, CLM 849) is a 15th-century nec
 ## Database Statistics
 
 ```
-Source ingests:                  5  (see note below)
-Genuine distinct works:          3  grimoires
-Unique entities after merge:     2,763  (regenerated 2026-07-22; incl. Discoverie + Alchemy tracks)
-Total relationships:             1,260
-Chunk summaries:                 147
+Source tracks in unified DB:     8  (see note below)
+Genuine distinct magical works:  4  (3 medieval + Lemegeton/Goetia, 17th c.)
+Unique entities after merge:     2,828  (regenerated 2026-10-27; +goetia track)
+Total relationships:             1,275
+Chunk summaries:                 151
 
-All spirit records:              1,330  (see caveat)
-Multi-WORK spirits:              21     (corrected — was reported as 266)
+All spirit records:              1,367  (see caveat)
+Multi-WORK spirits:              28     (Goetia attestation +7; corrected — was reported as 266)
   incl. 9 cross-attested in Scot's Discoverie (1584): Astaroth, Beelzebub,
   Lucifer, Paymon, Raphael, Satan — independent English attestation of the
   Munich commander tier.
@@ -58,6 +58,12 @@ Multi-WORK spirits:              21     (corrected — was reported as 266)
 > - `worship_dead` is **Garnier, *The Worship of the Dead* (1909)** — a modern
 >   comparative-mythology book, **not** a medieval grimoire. It is excluded from
 >   the grimoire count.
+> - `goetia` is the **Lemegeton Regum** (the 72-spirit Goetia; 17th-century compilation,
+>   Mathers 1904 translation), ingested 2026-10-27: 78 extracted entities — 13 exact-name
+>   attested in prior tracks, 65 flagged `goetia_exclusive`. Of the 72 spirits only
+>   **Paimon (#9)** matches the Munich CLM 849 set under an exact name; near-miss doublets
+>   (Bael~baell/bel/bal, Balam~balaam, Beleth~bileth, Purson~curson, Alloces~aloes,
+>   Octinomos~occinomos) sit in a review queue and are **not** auto-merged.
 > - So the corpus is **3 genuine magical works** (Clm 849, *Ars Notoria*, *Liber
 >   Juratus*), not "5 grimoires."
 > - "1,254 spirits" is inflated by OCR fragments, Latin case-variants, and noise:
@@ -192,7 +198,7 @@ Based on analysis of:
 
 ```
 ├── data/
-│   ├── unified_entities.json       # Final merged database (2,467 entities)
+│   ├── unified_entities.json       # Final merged database (2,828 entities)
 │   ├── distilled/                  # Per-chunk distillation outputs
 │   │   ├── ars_notoria/            # Ars Notoria distillations
 │   │   ├── forbidden_rites_pdf/    # CLM 849 distillations (39 chunks)

@@ -283,7 +283,16 @@ class DistillSourceChunk(BaseTool):
                  source_id, chunk_id, len(chunk_text), model_id)
 
         try:
-            client = OpenAI(base_url=server, api_key=api_key)
+            client = OpenAI(base_url=server, api_key=api_key,
+                            timeout=int(getattr(config, 'REASONING_TIMEOUT_SEC', 600)))
+            num_ctx = int(getattr(config, 'REASONING_NUM_CTX', 0) or 0)
+            keep_alive = str(getattr(config, 'REASONING_KEEP_ALIVE', '') or '')
+            opts = {}
+            if num_ctx:
+                opts["num_ctx"] = num_ctx
+            if keep_alive:
+                opts["keep_alive"] = keep_alive
+            extra_body = {"options": opts} if opts else None
             response = client.chat.completions.create(
                 model=model_id,
                 messages=[
@@ -297,6 +306,7 @@ class DistillSourceChunk(BaseTool):
                 temperature=0.1,
                 max_tokens=getattr(config, 'REASONING_MAX_TOKENS', 8192),
                 top_p=0.9,
+                extra_body=extra_body,
             )
             result_text = response.choices[0].message.content or ""
         except Exception as e:
