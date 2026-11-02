@@ -293,6 +293,13 @@ class DistillSourceChunk(BaseTool):
             if keep_alive:
                 opts["keep_alive"] = keep_alive
             extra_body = {"options": opts} if opts else None
+            # Ollama >=0.13 thinking models (qwen3.5 etc.): default thinking blows
+            # past request timeouts on extraction tasks. MHR_REASONING_THINK=false
+            # sends think:false (top-level, as Ollama's OpenAI-compat expects).
+            think = str(getattr(config, 'REASONING_THINK', '') or '').lower()
+            if think in ("false", "off", "0", "no"):
+                extra_body = dict(extra_body or {})
+                extra_body["think"] = False
             response = client.chat.completions.create(
                 model=model_id,
                 messages=[

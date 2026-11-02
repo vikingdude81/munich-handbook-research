@@ -23,6 +23,9 @@ REASONING_NUM_CTX=int(os.environ.get("MHR_REASONING_NUM_CTX", "0"))
 # OpenAI SDK default (600 s). Also keeps the model resident between chunks.
 REASONING_TIMEOUT_SEC=int(os.environ.get("MHR_REASONING_TIMEOUT_SEC", "600"))
 REASONING_KEEP_ALIVE=os.environ.get("MHR_REASONING_KEEP_ALIVE", "")  # e.g. "60m"
+# Ollama >=0.13 thinking models: "false" sends think:false (extraction tasks,
+# avoids 30-min thinking timeouts). Empty = server default.
+REASONING_THINK=os.environ.get("MHR_REASONING_THINK", "")
 
 # ── Context limits ───────────────────────────────────────────────────────────
 # Max chars returned to the caller when echoing a chunk or distillation back.

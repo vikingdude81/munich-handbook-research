@@ -1,0 +1,114 @@
+{
+  "source_id": "ccru_pandemonium",
+  "chunk_id": 1,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Madame Centauri",
+      "type": "person",
+      "attributes": {
+        "alias": "Mme C.",
+        "identity": "likely Zelda Maria de Monterre",
+        "role": "fortune teller in New York"
+      },
+      "page_ref": "Source Text Intro",
+      "raw_quote": "Referred to as \"Mme C.\" in the letter, likely Zelda Maria de Monterre, a fortune teller in New York."
+    },
+    {
+      "name": "Peter Vysparov",
+      "type": "person",
+      "attributes": {
+        "association": "William Burroughs and Lemurian time travel",
+        "research_focus": "topic of research for the Ccru"
+      },
+      "page_ref": "Source Text Intro",
+      "raw_quote": "Vysparov is linked to William Burroughs and Lemurian time travel, a topic of research for the Ccru."
+    },
+    {
+      "name": "Tic(k)",
+      "type": "concept",
+      "attributes": {
+        "definition": "quantum of disruption, anomaly, complexity, and rhythm",
+        "aspects": [
+          "marker of difference",
+          "beats that measure time and create rhythm",
+          "compulsively repetetive behaviours consistuing quanta of non-personal trauma"
+        ]
+      },
+      "page_ref": "CCRU WIKI PAGE: Tic(k)",
+      "raw_quote": "Tic(k) is a quantum of disruption, anomaly, complexity, and rhythm."
+    },
+    {
+      "name": "Architectonic Order of the Eschaton (AOE)",
+      "type": "organization",
+      "attributes": {
+        "mission": "establishment and fortification of the institutions of time",
+        "enemy": "Lemurian polyculture, combating all its various forms of time-sorcery, demon-traffic, and endless untime",
+        "tradition": "White Atlantean tradition"
+      },
+      "page_ref": "CCRU WIKI PAGE: Architectonic_Order_of_the_Eschaton_(AOE)",
+      "raw_quote": "The society is bound by divine covenant to marshal the forces of light against Lemurian polyculture, combating all its various forms of time-sorcery"
+    },
+    {
+      "name": "Oecumenic Calendar",
+      "type": "tool",
+      "attributes": {
+        "function": "sign and register of its Great Work"
+      },
+      "page_ref": "CCRU WIKI PAGE: Architectonic_Order_of_the_Eschaton_(AOE)",
+      "raw_quote": "using the Oecumenic Calendar as a sign and register of its Great Work."
+    },
+    {
+      "name": "Spheres / Degrees of the AOE",
+      "type": "structure",
+      "attributes": {
+        "notation": [
+          "·",
+          "(·)",
+          "((·))",
+          "(((·)))",
+          "((((·))))"
+        ],
+        "levels": [
+          "Oecumenon",
+          "Atlantis",
+          "Axsys",
+          "AC Metamind",
+          "Origin"
+        ]
+      },
+      "page_ref": "CCRU WIKI PAGE: Spheres_and_Degrees_of_the_AOE",
+      "raw_quote": "The AOE structure and belief system follows a tiered structure, often symbolised as Concentric rings or radiations"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Architectonic Order of the Eschaton (AOE)",
+      "to": "Lemurian polyculture",
+      "type": "combats"
+    },
+    {
+      "from": "Peter Vysparov",
+      "to": "William Burroughs",
+      "type": "linked to"
+    },
+    {
+      "from": "Architectonic Order of the Eschaton (AOE)",
+      "to": "Oecumenic Calendar",
+      "type": "uses"
+    },
+    {
+      "from": "Tic(k)",
+      "to": "time, memory, identity",
+      "type": "disrupts"
+    }
+  ],
+  "summary": "This chunk provides background on CCRU research figures and defines the concept of Tic(k) as a disruption quantum. It details the Architectonic Order of the Eschaton (AOE), its mission against Lemurian time-sorcery, and its tiered sphere structure. Note explicitly this is a modern fiction-theory system, not a historical grimoire.",
+  "key_passages": [
+    "Tic(k) is a quantum of disruption, anomaly, complexity, and rhythm.",
+    "The society is bound by divine covenant to marshal the forces of light against Lemurian polyculture",
+    "Quasiparticle of intensive multiplicity. Tics (or ticks) are intrinsically several components of autonomously numbering anorganic populations",
+    "AOE magic involves producing effective spells or command-codes through the metatronic naturalization of restricted reality structures.",
+    "The AOE structure and belief system follows a tiered structure, often symbolised as Concentric rings or radiations"
+  ]
+}

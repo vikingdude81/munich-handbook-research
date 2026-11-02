@@ -1,0 +1,28 @@
+{
+ "verdict": "PASS",
+ "rite_recall": 1.0,
+ "found_rites": [
+  "1872",
+  "18723",
+  "1872563",
+  "1890",
+  "271",
+  "271890",
+  "27541",
+  "27541890"
+ ],
+ "fabrications": [],
+ "demon_poles_ok": [
+  "Lurgo (pole present, unbound format)",
+  "Duoddod (pole present, unbound format)",
+  "Doogu (pole present, unbound format)",
+  "Ixigool (pole present, unbound format)"
+ ],
+ "definitions_missing": [
+  "currents",
+  "demon_nature",
+  "necronomicon_link"
+ ],
+ "fails": [],
+ "warns": []
+}

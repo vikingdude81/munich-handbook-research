@@ -1,0 +1,242 @@
+CCRU PANDEMONIUM / NUMOGRAM WEB CORPUS
+Source family: Cybernetic Culture Research Unit fandom wiki (ccru.fandom.com).
+TIER-C MODERN RETROFIT / FICTION-THEORY ACCELERATIONIST APPARATUS — not a historical grimoire. Texts below are wiki page bodies as of fetch date.
+
+===== CCRU WIKI PAGE: Pandemonium_Matrix =====
+Page URL: https://ccru.fandom.com/wiki/Pandemonium_Matrix
+Fetched: 2026-11-02T08:18Z (CCRU fandom wiki, MediaWiki action=parse wikitext)
+SHA256(raw response): 889dcc7c38ff3a9be2ccb38d6eb3f5cb6e3846753a68d94c8abb6f95d5e8f740
+
+Pandemonium Matrix is a comprehensive system that encapsulates Lemurian demonism and time sorcery, incorporating two main elements: the Numogram (time-map) and the Matrix (a catalogue detailing the names, numbers, and characteristics of demons). The system is structured according to the inherent properties of decimal numeracy and incorporates fundamental arithmetic operations.
+
+== Overview ==
+The '''Numogram''', or Decimal Labyrinth, is constructed from ten zones numbered 0-9 and their links. These zones are grouped into five pairs, or syzygies, by a twinning process known as zygonovism. Each syzygy's arithmetic difference defines a current, or link to a tractor zone. These currents are the numogram's main flows.
+
+The '''Matrix''' part of the system lists the names, numbers, and attributes of the demons, creating a vast demonological codex. Each demon, or entity, within the Matrix is uniquely identified by a specific zone-net couple, assigned a particular tonality or pitch, and defined by its role within the system.
+
+== System Components ==
+The entire Pandemonium Matrix system is comprised of several interconnected and interdependent components:
+
+=== 1. Time-Systems ===
+Three primary time-systems are formed by the arrangement of currents in the Numogram:
+
+* '''Time-Circuit''': A cycle created by the mutual composition of the currents of the central syzygies, rotating in anticlockwise steps.
+* '''Warp and Plex''': Currents in both upper and lower syzygies fold back into themselves, creating individual loops. They are seen as being of intrinsically cryptic nature, representing Outer-time.
+
+=== 2. Gates and Channels ===
+Each zone number in the numogram, when digitally cumulated, defines a gate's value. These gates and their corresponding channels form the secondary flows or secret interconnections in the numogram, creating routes for sorcerous traffic.
+
+=== 3. Demons and Distances ===
+The demons are singular entities characterized by irreducible distances between any pair of zones. Each demon is simultaneously a gap, link, hole, and entity with specific traits, features, aspects, and potentials.
+
+== Demonic Groupings ==
+Demons are grouped according to several properties:
+
+* '''Chronodemons''': These represent varieties of distance within the time-circuit.
+* '''Amphidemons''': They represent ruptures in the time-circuit, signifying openings to the Outside.
+* '''Xenodemons''': These are considered the inhabitants of the outer abysses.
+
+In addition to these categories, demons are also grouped by phase, each opened by a door attributed with a domain, planetary affinity, and spinal level.
+
+== The Rites ==
+The rites represent the various paths that the demons trace through the hyper-time of the maze. Each demon's rite is determined by how its net-span can be integrated or traced across the numogram's flows. Each rite corresponds to a particular omen and power.
+
+== Necronomicon ==
+In Western hyperfictional lore, the Matrix of all demons (Pandemonium) is called Necronomicon, or The Book of Dead Names. This text lists all entities excluded from the white-magic book of life, and it's said to be a copy of an original document that was retroactively sent from the future into the distant past, thus mixing elements of science fiction with ancient legend.
+
+===== CCRU WIKI PAGE: Pandemonium_concordance_for_the_Book_of_Paths =====
+Page URL: https://ccru.fandom.com/wiki/Pandemonium_concordance_for_the_Book_of_Paths
+Fetched: 2026-11-02T08:18Z (CCRU fandom wiki, MediaWiki action=parse wikitext)
+SHA256(raw response): 39606cdb2d3933d069820f4be1ab07c53fd319e79df62d34fbf1c16be0bea45f
+
+== General Information ==
+
+* Author: Peter Vysparov
+* Translator: Chaim Horowitz
+* First Published: August 12, 2004
+
+== Overview ==
+Following Chaim Horowitz’s translation of the ancient text, the Book of Paths, Peter Vysparov embarked on an extensive effort to decipher the cryptic script. His journey was guided by Horowitz's hypothesis, suggesting a potential correlation between the text and the rites of Lemurian demonism outlined in his Pandemonium Matrix. Despite a few minor discrepancies, the hypothesis was found to be accurate. The concordance was reportedly completed in the early 1960s.
+
+The Vysparov Library, custodians of the Book of Paths, made available a copy of the concordance for further studies and research.
+
+== Rites and Paths ==
+The concordance includes detailed analysis and mapping of several rites and paths.
+
+=== Rites of Lurgo (1::0) ===
+
+* Rt-1:[1890] = Pth-1. Original Subtraction
+
+=== Rites of Duoddod (2::0) ===
+
+* Rt-1:[271890] = Pth-2. Extreme Regression
+* Rt-2:[27541890] = Pth-3. Abysmal Comprehension
+
+=== Rites of Doogu (2::1) ===
+
+* Rt-1:[1872] = Pth-4. Primordial Breath
+* Rt-2:[271] = Pth-5. Slipping Backwards
+* Rt-3:[27541] = Pth-6. Attaining Balance
+
+=== Rites of Ixigool (3::1) ===
+
+* Rt-1:[18723] = Pth-7. Progressive Levitation
+* Rt-2:[1872563] = Pth-8. Eternal Digression
+
+For the full list of Rites and Paths, please refer to the original document.
+
+== Legacy ==
+Vysparov’s Pandemonium Concordance for the Book of Paths is an important contribution to the understanding of the Lemurian demonism rites. The deep insights offered by the concordance have paved the way for a better understanding of the ancient text, the Book of Paths.
+
+== See Also ==
+
+* Book of Paths
+* Lemurian Demonism
+* [[Pandemonium Matrix]]
+* Chaim Horowitz
+* Vysparov Library
+
+== References ==
+
+# Nick Land (2004). Vysparov’s Pandemonium Concordance for the Book of Paths.
+
+===== CCRU WIKI PAGE: Numogram =====
+Page URL: https://ccru.fandom.com/wiki/Numogram
+Fetched: 2026-11-02T08:18Z (CCRU fandom wiki, MediaWiki action=parse wikitext)
+SHA256(raw response): b8123cc107fa3c9bb2610505eac7b9b60c6fd4dc24e09aa597f203823652bd07
+
+A system for the practise of Lumerian Time-Sorcery.
+
+===== CCRU WIKI PAGE: Decimal =====
+Page URL: https://ccru.fandom.com/wiki/Decimal
+Fetched: 2026-11-02T08:18Z (CCRU fandom wiki, MediaWiki action=parse wikitext)
+SHA256(raw response): 0762e65c623e7a498291ab201299d79ecaa046d88feb55c02d29adc00cf103e5
+
+Decimal numeracy (or base-ten positional numeral system) is the most widespread, historically and currently, system for denoting integer and real numbers. It is of especial importance for Ccru being a base for [[Barker Spiral]] and the [[Numogram]] (or Decimal Labyrinth).
+
+Most historic numeral systems are decimal due to the human body plan. Hindu-Arabic positional decimal numeracy became a standard for much of the contemporary world. It is very conceptually compact in using the same set of ten digits in each position; this also means that digits are scale-indifferent. Also notably, positional numeracy explicitly notates [[Zero|zero]].
+
+<blockquote>''The numerical simplicity of the Numogram is functionally necessitated by its replication as the 'viral' propagation unit of Lemurian hyperstition - its extremely modest coding requirements directly correspond to its virulence. It demands nothing but elementary arithmetic and the globalized decimal signs.''
+
+''Ultimately, the Numogram is nothing more than the disgrammatic implex of decimal numeracy - capable of spontaneous emergence out of any decimal-numeric culture. It is the virtual content of decimalism, spread by the unprecedented and unparalleled cultural virulence of the 'Hindu numbers' (although Stillwell traces things back much further).''
+
+[…] ''The War Machine counts itself in simple compositional numbers. The function of this numeracy is immanent to the assemblage, indexical and nominal, having no reference to measurement (the representation of transcendent magnitude - lying beyond the communicative plane of the machine itself). It thus has no need for 'higher numbers' (rationals, reals, complex numbers etc.) requiring only naturals - in fact simple naturals (typically mere numerals) for its semiotic.''
+
+''To be crude, there is a 3rd Army, not a 3.14th Army or a Pi Army etc. - a fact holding for every compositional level of the war machine in question. Making culture operate as a war machine requires the disintegration of all semiotics into numbers and a complementary numerical simplification. (Both aspects essential to 'numerization').''
+
+''The currencies - or concrete semiotics - of commercial war machines, share these characteristics of digital 'granularity' and pre-eminence of modularity (typically on a decimal base) or the compositional aspect of number.''<ref>[http://hyperstition.abstractdynamics.org/archives/003417.html Why Numogram numbers are simple]</ref></blockquote>
+
+===== CCRU WIKI PAGE: Numeric_and_numerical =====
+Page URL: https://ccru.fandom.com/wiki/Numeric_and_numerical
+Fetched: 2026-11-02T08:18Z (CCRU fandom wiki, MediaWiki action=parse wikitext)
+SHA256(raw response): df60653e592244b5de71e0d96afde76601f237f168ed9c3b6f1afb544c675eac
+
+The distinction between the terms '''numeric''' and '''numerical''' is that the first denotes things consisting of numbers, and the second, things having to do, e.g. operating on, numbers. '''Numeral''' is a noun meaning the way of writing down a number with digits, characters, etc — and the ''number'' itself is a mathematical object.
+
+Why are numbers important to CCRU? The obvious thing is that it is rooted in the digital nature of computerized information and signals. Further, numbers are asignifying: numbers can mean anything, but by default they refer to nothing, nothing other than themselves, that is.
+
+<blockquote>''The asignifying codes of synthetic culture are not at all to be identified with the great inarticulable deferred transcendental object blearily hallucinated by senescent Bavarian Catholicism and lingua-Francophony neo-communitarian dessicated Judaism in their post-theoretical guises. Materially functional numerical systems, these codes represent nothing, but are real parts of abstract machines, hooking up desiring machines by way of a continually complexifying axiomatic.''<ref>[http://ccru.net/swarm1/1_pomo.htm Mark Fisher & Robin Mackay- Pomophobia]</ref></blockquote>
+
+<blockquote>''Although Y2K is sheer semiotic event it is not textual, ideological, representational, intentional, or phenomenological - Y2K, Teotwawki, C -1, OK+100 - mix dates and acronyms in criterial semiotic clusters that are not signifiers or arbitrary signs because what they say is no different from the way they are built. They can mean whatever Hummpa-Taddum chooses, but none of that matters. Beyond the domain of the fuzz-god lies the nonsignifying-chatter of unconscious-numeric Pandemonium, where names are cryptomodules, meaningless packets of effective information, immanently productive machine-jargons.''<ref>[http://ccru.net/occultures/AOE1.htm The Excruciation of Hummpa-Taddum]</ref></blockquote>
+
+The immanence of numbers is the original, or one of the most early, ideas of Ccru. Numbers and operations on them are non-representational (asignifying), practical, productive but the production=discovery.
+
+<blockquote>''Simultaneously, Ccru was exploring mechanomics, gematria and the schizonumerics of digital reduction through the work of the infamous Professor Barker. . .in order to develop their previous work regarding flat numeric cultures which did not rely on a system of belief in some transcendent entity but rather a certainty in the immanent traits of number itself.''<ref>[http://harkonnen.pudelrock.com/unsafe/articles/030.html Interview with kode9]</ref></blockquote>
+
+<blockquote>''In one piece, Eglash describes the parallels between Senagelese sand divination systems and the Cantor set. No-one is seriously suggesting that there is a line of influence or evolution here; there are parallel routes to the same discovery. Numbers and what they do are no more something we invent than they’re already sitting in some Platonic heaven." Hence mechanomics. "Mech because numeric dabbling is not representational, but practical. Following what numbers do is an act of production, but only because all production is really a matter of discovery not ex nihilo creation. Making things up is always a matter of subtracting from zero."''<ref>[http://www.ccru.net/syzygy/apoc.htm APOCALYPSE – BEEN IN EFFECT? – Maria De Rosario - from the New England Educational Review, August, 1998]</ref></blockquote>
+
+Why is numeracy important? It is trickier question; on one side, numeracy allows us access numbers symbolically — but on the other hand, numerals are almost indistinguishable from numbers in the popular consciousness, and so while formally, a numeral is a sign for a number, practically they meld together into a complex asignifying object. Such an object is distinct from a pure abstract mathematical number by having a radix – and additional intricacies and possibilities, such as on operation of reduction (digital root). Mathematically (in “serious” math), the closest object I know is modular arithmetic.
+
+Positional numeracy is also important because of employment of [[Zero|zero]] (or [[Cypher|cypher]]):
+
+<blockquote>''Y2K is simultaneously about friction (between humans and computers) and convergence (of time systems). Things click together on the machinic unconscious just as they fall apart in the social world. At the moment of Y2K, the two-digit convention converges the date with the time: 99 becomes 00 at 00:00 hours precisely. This string of noughts should give pause to PoMo relativists who insists that any sign will do; it is the very precise function of zero that allows Y2K to happen as (and when) it does, effectuating a collision of the Hindu-Arab numeric system with Roman numerals. Although translated into Hindu-Arab numerals, the Gregorian calendar still effectively runs on a Roman numeric system ignorant of zero. Y2K ciphers what will not happen in undebugged cyberspace: the Gregorian Year 2000. Skipping SF's 2000 AD, computers will cyberpunk the date, counting what the Gregorian calendar never has: zero. An anti-PoMo and anti-Gregorian weapon, Y2K quite literally signifies nothing. The effect is a calendric revolution carried out entirely by the machinic unconscious. Unraveling the virtual computer calendar is complicated. When is Y2K's year zero: the Gregorian year 2000, or Greg year 1900? Both are candidates, since, in addition to treating January 1st "2000" as year zero, the implicit computer calendar has retrospectively coded January 1st "1900" as its start-date. And, at the level of the unconscious, anyone logging onto a computer has been in complicity with the computer-calendar. On the darkside of the Net, news is breaking of 00-cults dedicated to the computer-generated calendric system…''<ref>[http://ccru.net/id(entity)/ccruhistory.htm A Short Prehistory of Ccru]</ref></blockquote>
+
+There is a lot of philosophical context via Robin Mackay, including Alain Badiou’s ''Number and Numbers'' and Quentin Meillassoux’s ''The Number and the Siren''; numbers also play an important role in ''A Thousand Plateaus'', starting with the idea of rhizome one of most important aspect of which is that it is multiple; and further in numbering and numbered numbers of nomadology.
+
+===== CCRU WIKI PAGE: Zone =====
+Page URL: https://ccru.fandom.com/wiki/Zone
+Fetched: 2026-11-02T08:18Z (CCRU fandom wiki, MediaWiki action=parse wikitext)
+SHA256(raw response): 45599e7c9a443b583ad06ca6f6c0d6be93e5ce4d035f9f4c2d82ddbf8f05fd77
+
+Zone is one of the most basic elements of [[Numogram]]. At its most basic, it is simply a decimal digit. Digits are almost like numbers, but not the same (see discussion at [[Numeric and numerical]]) - they have additional intricacies with respect to radix, and they are scale-indifferent—i.e. a given digit, e.g. 9, can refer to numbers 9, 90, 900, etc; depending on its context (position).
+
+Mathematically, a zone is almost like a member of ''the ring of integers modulo 9''. Almost - because in the ring, there is no member 9, only 0; or we can say, 0 and 9 are the same; while among the zones, 0 and 9 are equal but not exactly the same.
+
+While from [[Architectonic Order of the Eschaton (AOE)|AOE]] perspective, digits can be conceptualized as precise points, lemurian zones are loose, nebulous and diffuse in themselves:
+
+<blockquote>''With Stillwell's epoch-switching discovery of the Numogram - and subsequent mapping of this 'digital labyrinth' - it became possible to compile cartographies of these zones, in which numbers distribute themselves throughout tropics, clusters, and regions. The zones thus function as diagrammatic components of flat cosmic maps (variously charting systems of coincidence, nebular circulations, spinal nestings, and the folds of inner/outer time).''<ref>[http://www.ccru.net/zones/Zn.htm The Zones]</ref></blockquote>
+
+Also from lemurian perspective, zones are secondary in genesis to [[Demon|demons]] and, in a way, do not exist at all:
+
+<blockquote>''Obviously the AOE is into the Stillwell numogram and the whole Syzygy system, but they cannot see it for what it is, which is slightly wrong, because it isn’t anything, it’s a [[becoming]], but they see it in a systematically distorted way. One key issue here comes out of this Deleuze quote where he says Gods aren’t the same as demons. Gods have fixed attributes and territories, whereas demons are more or less to do with intensities. There is all sorts of implications of this – the zones in the numogram, from the point of view of Lemurian time sorcery, or what everything on the schizo side is immersed in, the zones don’t exist in a way, which is to say that they are not becomings. [...] So you treat the 1 and the 8 as unified rather than singular. So at every level you are just atomizing things, so you are seeing 1:8 as a meta-entity, and you are seeing 1 and 8 as meta-entities. But obviously the way Lemurian Time Sorcery sees it is, no that’s not right, you can always subtract that, multiplicity composed of forces in tension. Zones are just tension-accumulation zones. [...] the zones emerge out of tensions between the demons.''<ref>[https://sonicwarfare.wordpress.com/2023/01/13/ccru-syzygy-conversation-between-mark-fisher-steve-goodman-24-11-98/ Syzygy Conversation between Mark Fisher & Steve Goodman 24/11/98]</ref></blockquote>
+
+<blockquote>''Zones form the surface level of the numogram: the [[Net]].''<ref>[http://www.ccru.net/id(entity)/glossary.htm CCRU Glossary]</ref></blockquote>
+
+{| class="article-table"
+|+ Some of the zone associations
+! Zone !! Pandemonium Matrix !! Neolemurian primer || Lemunumycon
+|-
+| 0 || Cosmic, digital || Abyss, cosmic void, endless cyberspace, incomprehensible labyrinth, numbers, information, snow, ice || Divinity, ancient
+|-
+| 1 || Water, healing || Stability, shallow water, memory, shells of mollusks or tortoises, bones, galleries, towers || Nature (especially sea), transformation
+|-
+| 2 || Artificiality, addiction || Separation, linkage, duplicates, illusions, artificial, butterflies, fog, vampirism, contagion ||Psychology, time and space
+|-
+| 3 || Apocalypse || Constant flight and transformation, mystical, occult, mysteries of time, spirals, possession. || Mysticism, obscurity, paradoxes
+|-
+| 4 || Destruction || Catastrophes, fires, floods, melting ice, rivers, cycles, delirium, gloomy skies, abandoned  industrial facilities, cats. ||Struggle, rebirth
+|-
+| 5 || Calendar, balance, systems || Interpenetration, concentration, pressure, complex mechanisms, desert, mountains, stormy skies, dragons and snakes || Art, creativity
+|-
+| 6 || Extraterrestrial, infiltration, turbulence, unseen || Maximum abstraction, otherworldly, complex non-linear multidimensional geometric constructions, captivation. || Learning, experimentation, exploration of existence
+|-
+| 7 || Regression, mutation, hybridity, ancestry || Blood, slime, DNA as a historical chronicle, swamp, moss, mushrooms, swarms, amphibians, labyrinths || Water, vitality, evolution
+|-
+| 8 || Ocean, collapse, bacteria || Multiplicity, tentacles, cell division and endosymbiosis, ocean depths || Cosmic, universal, eternal
+|-
+| 9 || Void, atonality, subterranean, metallism, coincidence, tension || Iron core of the earth, inconsequence, darkness, heaviness, engine room, communications || Finality, esoteric
+|}
+
+[https://docs.google.com/spreadsheets/d/1GlJya7bKsjhtoSAsT5LYOP_WCpbVdRk3MQP0VzixbSM/edit?usp=sharing A summary of Zones information across the sources]
+
+===== CCRU WIKI PAGE: Time-Sorcery =====
+Page URL: https://ccru.fandom.com/wiki/Time-Sorcery
+Fetched: 2026-11-02T08:18Z (CCRU fandom wiki, MediaWiki action=parse wikitext)
+SHA256(raw response): ea9a53b8d36ab97277461b915b0f26b2d9e35cf39625321cfa9d1a6cdaf93365
+
+A practise of altering the causal passage of time.
+
+===== CCRU WIKI PAGE: The_Book_of_Paths =====
+Page URL: https://ccru.fandom.com/wiki/The_Book_of_Paths
+Fetched: 2026-11-02T08:18Z (CCRU fandom wiki, MediaWiki action=parse wikitext)
+SHA256(raw response): 28e7cfa0ab20c0a522f42b37075c2678c1e9d1d9726db7d53fcaab515849c5be
+
+The Book of Paths is a mysterious work tied to Lemurian demonism and time sorcery, which was first referenced within the Kaye Materials obtained by the Cybernetic Culture Research Unit (Ccru) in January 2000. Despite being referred to as the "definitive confirmation of Stillwell’s basic insight," the Ccru was initially unable to locate the text. The Book of Paths, while a rare and cryptic text, stands as a testament to the intriguing web of occult history and the continuing allure of the unknown. The Ccru's discovery and subsequent dissemination of the text represent a significant contribution to understanding the intricacies of Lemurian demonism and time sorcery.
+
+== Discovery ==
+The first breakthrough in accessing the Book of Paths came in 2003 during an investigation by the Ccru into references linking William Burroughs, Peter Vysparov, and Lemurian time travel. The research led the Ccru to correspond with the Vysparov estate, primarily focusing on the contents of the Vysparov Library, where William Kaye had previously worked.
+
+The Vysparov Library, notorious for its collection of occult works, eventually yielded a photocopy of The Book of Paths. The document came with an attached page from a letter penned by Chaim Horowitz to Peter Vysparov, dated February 1949. It was identified as the 'B Manuscript' of The Book of Paths, being one of three type-copies of Horowitz’s first English translation from Tibetan.
+
+== The Letter ==
+In his letter to Vysparov, Horowitz indicates that translating the Old Book took over a year and required some difficult choices to preserve the work's systematic coherence. He hints at the troubled circumstances under which he obtained the copy from 'the place,' believed by William Kaye to be a concealed sub-basement of the Potala Palace in Lhasa.
+
+Horowitz also notes Echidna Stillwell's interesting findings about the text's history, tracing it back to the Warring States period in China. Even at that time, the book was considered profoundly ancient. There were suggestions that it predated the I Ching and rumors that the text was destroyed in Chin Shi Huang Di’s great burning, considered one of the yaoshu or 'devilish books.'
+
+Echidna Stillwell believed that the book served as an oracle for the Shu Kingdom 5,000 years ago and mentioned persistent rumors about 84 bronze tablets removed from the Shu excavation site by 'looters' or 'senior officials.'
+
+Despite the translation's crude production, Horowitz expresses hope that the text would prove invaluable to Vysparov's work on the 'Pandemonium System,' though as of May 2004, the Ccru had not determined any such profound relevance.
+
+== Notes on Key Figures ==
+
+==== '''Chaim Horowitz''' ====
+A researcher who worked in the Mu Archives, located possibly in a concealed sub-basement of the Potala Palace in Lhasa, Tibet. He was the primary translator of The Book of Paths.
+
+==== '''Echidna Stillwell''' ====
+An esteemed Lemurologist who met with Horowitz in Rangoon in 1949 and who found traces of The Book of Paths' history within Chinese sources dating back to the Warring States period.
+
+==== '''Madame Centauri''' ====
+Referred to as "Mme C." in the letter, likely Zelda Maria de Monterre, a fortune teller in New York. Horowitz hoped that she might shed light on the oracular dimension of The Book of Paths.
+
+==== '''Peter Vysparov''' ====
+A scholar with whom Horowitz corresponded, Vysparov is linked to William Burroughs and Lemurian time travel, a topic of research for the Ccru.

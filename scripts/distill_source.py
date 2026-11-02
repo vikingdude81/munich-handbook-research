@@ -38,6 +38,20 @@ GOALS = {
         "seal of Solomon, the call/general conjurations, and the classified rank list. "
         "Preserve page refs from the scan (PAGE n markers) and exact quotes."
     ),
+    "ccru_pandemonium": (
+        "Extract the full apparatus of the CCRU Lemurian Time-Sorcery system from these "
+        "wiki pages. For the Numogram/Decimal structure capture: zones (0-9 and each "
+        "zone's named properties), syzygies (zygonovism pairing), currents and tractor "
+        "zones, the three time-systems (Time-Circuit, Warp, Plex), gates/channels and how "
+        "a gate value is computed. For the Pandemonium Matrix capture: demon entries with "
+        "their zone-net pole pair identifiers (e.g. 'n::m'), rite path strings exactly as "
+        "printed (digit sequences in brackets), path names (Pth-n titles), demon classes "
+        "(chronodemons, amphidemons, xenodemons) and their definitions, phase/door "
+        "groupings (domain, planetary affinity, spinal level) from the AOE pages, and any "
+        "counts stated. Preserve exact quoted definitions and the page title each fact "
+        "came from. Note explicitly this is a modern fiction-theory system, not a "
+        "historical grimoire."
+    ),
 }
 
 

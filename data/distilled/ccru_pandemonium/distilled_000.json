@@ -1,0 +1,262 @@
+{
+  "source_id": "ccru_pandemonium",
+  "chunk_id": 0,
+  "has_relevant_content": true,
+  "entities": [
+    {
+      "name": "Numogram",
+      "type": "concept",
+      "attributes": {
+        "definition": "Decimal Labyrinth constructed from ten zones numbered 0-9 and their links.",
+        "structure": "Grouped into five pairs, or syzygies, by a twinning process known as zygonovism.",
+        "source_page": "Pandemonium_Matrix"
+      },
+      "page_ref": "Pandemonium_Matrix",
+      "raw_quote": "The Numogram, or Decimal Labyrinth, is constructed from ten zones numbered 0-9 and their links."
+    },
+    {
+      "name": "Zone 0",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Cosmic, digital",
+        "Neolemurian primer": "Abyss, cosmic void, endless cyberspace, incomprehensible labyrinth, numbers, information, snow, ice",
+        "Lemunumycon": "Divinity, ancient"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "0 || Cosmic, digital || Abyss, cosmic void, endless cyberspace..."
+    },
+    {
+      "name": "Zone 1",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Water, healing",
+        "Neolemurian primer": "Stability, shallow water, memory, shells of mollusks or tortoises, bones, galleries, towers",
+        "Lemunumycon": "Nature (especially sea), transformation"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "1 || Water, healing || Stability, shallow water, memory..."
+    },
+    {
+      "name": "Zone 2",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Artificiality, addiction",
+        "Neolemurian primer": "Separation, linkage, duplicates, illusions, artificial, butterflies, fog, vampirism, contagion",
+        "Lemunumycon": "Psychology, time and space"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "2 || Artificiality, addiction || Separation, linkage, duplicates..."
+    },
+    {
+      "name": "Zone 3",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Apocalypse",
+        "Neolemurian primer": "Constant flight and transformation, mystical, occult, mysteries of time, spirals, possession.",
+        "Lemunumycon": "Mysticism, obscurity, paradoxes"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "3 || Apocalypse || Constant flight and transformation..."
+    },
+    {
+      "name": "Zone 4",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Destruction",
+        "Neolemurian primer": "Catastrophes, fires, floods, melting ice, rivers, cycles, delirium, gloomy skies, abandoned industrial facilities, cats.",
+        "Lemunumycon": "Struggle, rebirth"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "4 || Destruction || Catastrophes, fires, floods..."
+    },
+    {
+      "name": "Zone 5",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Calendar, balance, systems",
+        "Neolemurian primer": "Interpenetration, concentration, pressure, complex mechanisms, desert, mountains, stormy skies, dragons and snakes",
+        "Lemunumycon": "Art, creativity"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "5 || Calendar, balance, systems || Interpenetration..."
+    },
+    {
+      "name": "Zone 6",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Extraterrestrial, infiltration, turbulence, unseen",
+        "Neolemurian primer": "Maximum abstraction, otherworldly, complex non-linear multidimensional geometric constructions, captivation.",
+        "Lemunumycon": "Learning, experimentation, exploration of existence"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "6 || Extraterrestrial, infiltration, turbulence..."
+    },
+    {
+      "name": "Zone 7",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Regression, mutation, hybridity, ancestry",
+        "Neolemurian primer": "Blood, slime, DNA as a historical chronicle, swamp, moss, mushrooms, swarms, amphibians, labyrinths",
+        "Lemunumycon": "Water, vitality, evolution"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "7 || Regression, mutation, hybridity..."
+    },
+    {
+      "name": "Zone 8",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Ocean, collapse, bacteria",
+        "Neolemurian primer": "Multiplicity, tentacles, cell division and endosymbiosis, ocean depths",
+        "Lemunumycon": "Cosmic, universal, eternal"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "8 || Ocean, collapse, bacteria || Multiplicity..."
+    },
+    {
+      "name": "Zone 9",
+      "type": "spirit",
+      "attributes": {
+        "Pandemonium Matrix": "Void, atonality, subterranean, metallism, coincidence, tension",
+        "Neolemurian primer": "Iron core of the earth, inconsequence, darkness, heaviness, engine room, communications",
+        "Lemunumycon": "Finality, esoteric"
+      },
+      "page_ref": "Zone",
+      "raw_quote": "9 || Void, atonality, subterranean..."
+    },
+    {
+      "name": "Time-Circuit",
+      "type": "concept",
+      "attributes": {
+        "definition": "A cycle created by the mutual composition of the currents of the central syzygies, rotating in anticlockwise steps.",
+        "nature": "Main flows of the numogram"
+      },
+      "page_ref": "Pandemonium_Matrix",
+      "raw_quote": "Time-Circuit: A cycle created by the mutual composition of the currents of the central syzygies..."
+    },
+    {
+      "name": "Warp and Plex",
+      "type": "concept",
+      "attributes": {
+        "definition": "Currents in both upper and lower syzygies fold back into themselves, creating individual loops.",
+        "nature": "Represent Outer-time"
+      },
+      "page_ref": "Pandemonium_Matrix",
+      "raw_quote": "Warp and Plex: Currents in both upper and lower syzygies fold back into themselves..."
+    },
+    {
+      "name": "Chronodemons",
+      "type": "spirit",
+      "attributes": {
+        "definition": "These represent varieties of distance within the time-circuit."
+      },
+      "page_ref": "Pandemonium_Matrix",
+      "raw_quote": "Chronodemons: These represent varieties of distance within the time-circuit."
+    },
+    {
+      "name": "Amphidemons",
+      "type": "spirit",
+      "attributes": {
+        "definition": "They represent ruptures in the time-circuit, signifying openings to the Outside."
+      },
+      "page_ref": "Pandemonium_Matrix",
+      "raw_quote": "Amphidemons: They represent ruptures in the time-circuit..."
+    },
+    {
+      "name": "Xenodemons",
+      "type": "spirit",
+      "attributes": {
+        "definition": "These are considered the inhabitants of the outer abysses."
+      },
+      "page_ref": "Pandemonium_Matrix",
+      "raw_quote": "Xenodemons: These are considered the inhabitants of the outer abysses."
+    },
+    {
+      "name": "Rites of Lurgo (1::0)",
+      "type": "ritual",
+      "attributes": {
+        "zone_net_pole_pair": "1::0",
+        "paths": [
+          "Pth-1. Original Subtraction [1890]"
+        ]
+      },
+      "page_ref": "Pandemonium_concordance_for_the_Book_of_Paths",
+      "raw_quote": "Rt-1:[1890] = Pth-1. Original Subtraction"
+    },
+    {
+      "name": "Rites of Duoddod (2::0)",
+      "type": "ritual",
+      "attributes": {
+        "zone_net_pole_pair": "2::0",
+        "paths": [
+          "Pth-2. Extreme Regression [271890]",
+          "Pth-3. Abysmal Comprehension [27541890]"
+        ]
+      },
+      "page_ref": "Pandemonium_concordance_for_the_Book_of_Paths",
+      "raw_quote": "Rt-1:[271890] = Pth-2. Extreme Regression"
+    },
+    {
+      "name": "Rites of Doogu (2::1)",
+      "type": "ritual",
+      "attributes": {
+        "zone_net_pole_pair": "2::1",
+        "paths": [
+          "Pth-4. Primordial Breath [1872]",
+          "Pth-5. Slipping Backwards [271]",
+          "Pth-6. Attaining Balance [27541]"
+        ]
+      },
+      "page_ref": "Pandemonium_concordance_for_the_Book_of_Paths",
+      "raw_quote": "Rt-1:[1872] = Pth-4. Primordial Breath"
+    },
+    {
+      "name": "Rites of Ixigool (3::1)",
+      "type": "ritual",
+      "attributes": {
+        "zone_net_pole_pair": "3::1",
+        "paths": [
+          "Pth-7. Progressive Levitation [18723]",
+          "Pth-8. Eternal Digression [1872563]"
+        ]
+      },
+      "page_ref": "Pandemonium_concordance_for_the_Book_of_Paths",
+      "raw_quote": "Rt-1:[18723] = Pth-7. Progressive Levitation"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Numogram",
+      "to": "Syzygies",
+      "type": "composed_of"
+    },
+    {
+      "from": "Syzygies",
+      "to": "Currents",
+      "type": "defines"
+    },
+    {
+      "from": "Currents",
+      "to": "Tractor Zone",
+      "type": "links_to"
+    },
+    {
+      "from": "Zone Number",
+      "to": "Gate Value",
+      "type": "computed_by_digital_cumulation"
+    },
+    {
+      "from": "Pandemonium Matrix",
+      "to": "Numogram",
+      "type": "incorporates"
+    }
+  ],
+  "summary": "This chunk details the CCRU Pandemonium Matrix system, a modern fiction-theory apparatus for Lemurian Time-Sorcery. It defines the Numogram structure (zones 0-9 with specific properties), time-systems (Time-Circuit, Warp, Plex), demon classes (Chronodemons, Amphidemons, Xenodemons), and specific Rites/Paths with zone-net identifiers from the Book of Paths concordance.",
+  "key_passages": [
+    "TIER-C MODERN RETROFIT / FICTION-THEORY ACCELERATIONIST APPARATUS — not a historical grimoire.",
+    "Each syzygy's arithmetic difference defines a current, or link to a tractor zone. These currents are the numogram's main flows.",
+    "Each zone number in the numogram, when digitally cumulated, defines a gate's value.",
+    "Chronodemons: These represent varieties of distance within the time-circuit.",
+    "Amphidemons: They represent ruptures in the time-circuit, signifying openings to the Outside."
+  ]
+}

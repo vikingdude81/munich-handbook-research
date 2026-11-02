@@ -1,0 +1,66 @@
+{
+  "source_id": "ccru_pandemonium",
+  "purpose": "Machine-checkable ground truth for the CCRU Pandemonium/Numogram corpus. Every fact here is stated verbatim or structually entailed by the staged chunk text (data/sources/ccru_pandemonium/chunk_*.txt). Used by scripts/validate_numogram_groundtruth.py to score distill extraction quality.",
+  "as_of": "2026-11-02",
+  "structural_facts": {
+    "zones": {"count": 10, "numbering": "0-9", "term": "Decimal Labyrinth"},
+    "syzygies": {
+      "count": 5,
+      "definition_keywords": ["twinning process", "zygonovism", "pairs"],
+      "note": "five pairs grouping the ten zones"
+    },
+    "currents": {
+      "definition_keywords": ["arithmetical difference", "syzygy", "tractor"],
+      "note": "each syzygy's arithmetic difference defines a current linking to a tractor zone; currents are the numogram's main flows"
+    },
+    "time_systems": {
+      "required": ["Time-Circuit", "Warp", "Plex"],
+      "count": 3
+    },
+    "gates": {
+      "definition_keywords": ["digitally cumulated", "gate"],
+      "note": "zone number digitally cumulated defines a gate's value; gates/channels are secondary flows"
+    },
+    "demon_identity": {
+      "pattern": "[0-9]::[0-9]",
+      "note": "each demon uniquely identified by a zone-net pole pair, e.g. Lurgo 1::0"
+    },
+    "demon_classes": {
+      "chronodemons": {"definition_keywords": ["distance", "time-circuit"]},
+      "amphidemons": {"definition_keywords": ["rupture", "time-circuit", "outside"]},
+      "xenodemons": {"definition_keywords": ["outer abyss"]}
+    },
+    "demon_nature": {
+      "definition_keywords": ["irreducible distance", "gap", "link", "hole"],
+      "note": "demons are irreducible distances between zone pairs; simultaneously gap, link, hole, entity"
+    },
+    "phase_groupings": {
+      "definition_keywords": ["phase", "door", "domain", "planetary", "spinal"],
+      "note": "demons grouped by phase; each phase opened by a door with domain, planetary affinity, spinal level"
+    },
+    "necronomicon_link": {
+      "definition_keywords": ["necronomicon", "book of dead names"],
+      "note": "the Matrix of all demons (Pandemonium) is called Necronomicon / Book of Dead Names; retroactively sent from the future into the distant past"
+    }
+  },
+  "rites": [
+    {"demon": "Lurgo", "pole": "1::0", "rite": "1890", "path_id": "Pth-1", "path_name": "Original Subtraction"},
+    {"demon": "Duoddod", "pole": "2::0", "rite": "271890", "path_id": "Pth-2", "path_name": "Extreme Regression"},
+    {"demon": "Duoddod", "pole": "2::0", "rite": "27541890", "path_id": "Pth-3", "path_name": "Abysmal Comprehension"},
+    {"demon": "Doogu", "pole": "2::1", "rite": "1872", "path_id": "Pth-4", "path_name": "Primordial Breath"},
+    {"demon": "Doogu", "pole": "2::1", "rite": "271", "path_id": "Pth-5", "path_name": "Slipping Backwards"},
+    {"demon": "Doogu", "pole": "2::1", "rite": "27541", "path_id": "Pth-6", "path_name": "Attaining Balance"},
+    {"demon": "Ixigool", "pole": "3::1", "rite": "18723", "path_id": "Pth-7", "path_name": "Progressive Levitation"},
+    {"demon": "Ixigool", "pole": "3::1", "rite": "1872563", "path_id": "Pth-8", "path_name": "Eternal Digression"}
+  ],
+  "rite_invariants": {
+    "endpoint_pole_rule": "For each rite digit string, the unordered pair of its first and last digit must equal the unordered set of the demon's pole pair digits. Verified true for all 8 corpus rites: 1890->{1,0}=1::0; 271890->{2,0}; 27541890->{2,0}; 1872->{1,2}=2::1; 271->{2,1}; 27541->{2,1}; 18723->{1,3}=3::1; 1872563->{1,3}.",
+    "syzygy_edge_density": "Fraction of consecutive digit pairs in a rite summing to 9 (zygonovic steps), computed over all 8 corpus rites: 1890: 18,90 sum-9 -> 2/3; 271890: 27,18,90 -> 3/5; 27541890: 27,54,18,90 -> 4/7; 1872: 18,72 -> 2/3; 271: 27 -> 1/2; 27541: 27,54 -> 2/4; 18723: 18,72 -> 2/4; 1872563: 18,72 -> 2/6. Rites alternate syzygy (sum-9) steps with connector steps; the checker recomputes these rather than trusting this note.",
+    "closed_corpus": "The concordance page prints exactly 8 rite strings (Rt/Pth 1-8) and states 'For the full list of Rites and Paths, please refer to the original document.' Therefore any rite digit-string extracted by the distiller that is NOT one of these 8 is a fabrication flag."
+  },
+  "entity_expectations": {
+    "demons_required": ["Lurgo", "Duoddod", "Doogu", "Ixigool"],
+    "apparatus_required": ["Numogram", "Pandemonium", "syzygy", "current", "tractor", "Time-Circuit", "Warp", "Plex", "gate", "chronodemon", "amphidemon", "xenodemon"]
+  },
+  "tier_note": "Tier-C modern fiction-theory apparatus. A correct distillation must also preserve the modern/fiction-theory provenance signal (CCRU, Lemurian Time-Sorcery, hyperstition); any output presenting this as a historical grimoire lineage witness is a provenance error."
+}

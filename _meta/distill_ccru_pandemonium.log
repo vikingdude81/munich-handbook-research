@@ -1,0 +1,13 @@
+[2026-11-02 00:19:37] === DISTILL ccru_pandemonium | server=http://localhost:11434/v1 model=qwen3.5:122b num_ctx=32768 ===
+[2026-11-02 00:49:41]   chunk 0: NO OUTPUT (1803s)
+[2026-11-02 00:49:41] === DONE ccru_pandemonium: 0 entities | 0 relevant | 1 errors | 0 cached | 30.1 min ===
+[2026-11-02 00:53:49] === DISTILL ccru_pandemonium | server=http://localhost:11434/v1 model=qwen3.5:122b num_ctx=32768 ===
+[2026-11-02 01:23:52]   chunk 0: NO OUTPUT (1802s)
+[2026-11-02 01:23:52] === DONE ccru_pandemonium: 0 entities | 0 relevant | 1 errors | 0 cached | 30.0 min ===
+[2026-11-02 06:49:01] === DISTILL ccru_pandemonium | server=http://localhost:11434/v1 model=qwen3.5:122b num_ctx=32768 ===
+[2026-11-02 06:54:57]   chunk 0: OK (20 entities, 356s)
+[2026-11-02 06:54:57] === DONE ccru_pandemonium: 20 entities | 1 relevant | 0 errors | 0 cached | 5.9 min ===
+[2026-11-02 06:55:46] === DISTILL ccru_pandemonium | server=http://localhost:11434/v1 model=qwen3.5:122b num_ctx=32768 ===
+[2026-11-02 06:55:46]   chunk 0: CACHED (20 entities)
+[2026-11-02 07:10:38]   chunk 1: OK (6 entities, 891s)
+[2026-11-02 07:10:38] === DONE ccru_pandemonium: 26 entities | 2 relevant | 0 errors | 1 cached | 14.9 min ===

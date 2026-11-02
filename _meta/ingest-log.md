@@ -6,6 +6,30 @@ gets an entry here (see `AGENTS.md`). Historical entries backfilled from
 
 ---
 
+## 2026-11-02 — CCRU Pandemonium/Numogram track distilled + ground-truth validator
+- **Tier-C retrofit** track `ccru_pandemonium`: CCRU Lemurian Time-Sorcery wiki corpus
+  (ccru.fandom.com, 11 pages fetched via MediaWiki API, sha256'd JSON snapshots in
+  `data/sources/ccru_pandemonium/web_snapshots/`, 2 chunks). Fiction-theory apparatus,
+  NOT a historical grimoire — manifest description states lineage limits explicitly.
+- Built `scripts/numogram_groundtruth.json`: machine-checkable ground truth (zones,
+  sum-9 syzygy partition, currents, 8 printed rite strings, pole pairs) +
+  `scripts/validate_numogram_groundtruth.py` scoring distill output on rite recall,
+  **fabrication tripwire**, pole binding, endpoint-pole invariant.
+- **Distiller blocker found+fixed:** qwen3.5:122b on Ollama >=0.13 defaults to thinking
+  mode; two chunk-0 attempts died at ~30 min (NO OUTPUT). Fix: `think:false` passthrough
+  (`tools/source_distill.py` + `MHR_REASONING_THINK` env in `config.py`). Chunk 0 then
+  356s, chunk 1 891s. Model used: **Ollama qwen3.5:122b**, num_ctx 32768, think off.
+- Result: 26 entities, 9 rels, 10 passages. Ground-truth verdict **PASS**: rite recall
+  8/8, fabrications 0, poles 4/4, endpoint invariant 12/12, apparatus 12/12,
+  time-systems 3/3. Definition fidelity 5/8 — missed `necronomicon_link`
+  (Numogram-as-true-Necronomicon framing not extracted); noted, not ingested as fact.
+- Comparison doc `docs/numogram_pandemonium.md` (script `scripts/goetia_pandemonium_compare.py`):
+  Goetia enumerates (closed 72-roster) vs Pandemonium generates (C(10,2)=45 pole space).
+- Status: manifest `ingested`. **NOT yet merged** into unified DB — Tier-C merge is
+  retrofit-lineage only and awaits explicit user go-ahead (goetia 1:1 precedent).
+
+---
+
 ## 2026-10-27 (evening) — LBP Grimoire Collection staged (H:\), ingestion GATED
 - Source: `H:\THE GRIMOIRE COLLECTION\THE LBP GRIMOIRE COLLECTION` — 58 real books
   (59th "ritos.pdf" = Mexican death-ritual folklore; `__MACOSX` junk ignored), ~690 MB.

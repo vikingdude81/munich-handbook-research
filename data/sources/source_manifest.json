@@ -2377,6 +2377,135 @@
       ],
       "pages": 34,
       "mode": "scanned_images"
+    },
+    {
+      "id": "ccru_pandemonium",
+      "status": "ingested",
+      "label": "CCRU Pandemonium / Numogram wiki corpus (ccru.fandom.com)",
+      "path": null,
+      "description": "TIER-C MODERN RETROFIT — fiction-theory accelerationist apparatus, NOT a historical grimoire. Cybernetic Culture Research Unit's Lemurian Time-Sorcery system: the Pandemonium demon lattice defined over the Numogram (ten zones 0-9, five syzygy pairs by 'zygonovism', currents as syzygy differences linking to tractor zones, Time-Circuit/Warp/Plex time-systems, gates by digital cumulation, demons as irreducible zone-distances identified by zone-net pairs (e.g. Lurgo 1::0), pole-classified rite path strings (Vysparov Concordance), demon classes chronodemon/amphidemon/xenodemon, AOE phase/door/planet/spinal groupings). Staged as a fully formalized demonology with machine-checkable rite strings to stress-test the distill pipeline and serve as a ground-truth validation target for the historical Goetia track. Provenance per page: URL + fetch date + sha256 of saved API JSON below; page/line anchors do not exist (web source).",
+      "mode": "web",
+      "paths": [
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Pandemonium_Matrix.json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Pandemonium_concordance_for_the_Book_of_Paths.json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Numogram.json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Decimal.json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Numeric_and_numerical.json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Zone.json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Time-Sorcery.json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\The_Book_of_Paths.json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Tic(k).json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Architectonic_Order_of_the_Eschaton_(AOE).json",
+        "data\\sources\\ccru_pandemonium\\web_snapshots\\Spheres_and_Degrees_of_the_AOE.json"
+      ],
+      "web_snapshots": [
+        {
+          "page": "Pandemonium_Matrix",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Pandemonium_Matrix&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Pandemonium_Matrix",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "889dcc7c38ff3a9be2ccb38d6eb3f5cb6e3846753a68d94c8abb6f95d5e8f740",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Pandemonium_Matrix.json"
+        },
+        {
+          "page": "Pandemonium_concordance_for_the_Book_of_Paths",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Pandemonium_concordance_for_the_Book_of_Paths&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Pandemonium_concordance_for_the_Book_of_Paths",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "39606cdb2d3933d069820f4be1ab07c53fd319e79df62d34fbf1c16be0bea45f",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Pandemonium_concordance_for_the_Book_of_Paths.json"
+        },
+        {
+          "page": "Numogram",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Numogram&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Numogram",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "b8123cc107fa3c9bb2610505eac7b9b60c6fd4dc24e09aa597f203823652bd07",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Numogram.json"
+        },
+        {
+          "page": "Decimal",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Decimal&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Decimal",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "0762e65c623e7a498291ab201299d79ecaa046d88feb55c02d29adc00cf103e5",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Decimal.json"
+        },
+        {
+          "page": "Numeric_and_numerical",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Numeric_and_numerical&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Numeric_and_numerical",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "df60653e592244b5de71e0d96afde76601f237f168ed9c3b6f1afb544c675eac",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Numeric_and_numerical.json"
+        },
+        {
+          "page": "Zone",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Zone&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Zone",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "45599e7c9a443b583ad06ca6f6c0d6be93e5ce4d035f9f4c2d82ddbf8f05fd77",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Zone.json"
+        },
+        {
+          "page": "Time-Sorcery",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Time-Sorcery&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Time-Sorcery",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "ea9a53b8d36ab97277461b915b0f26b2d9e35cf39625321cfa9d1a6cdaf93365",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Time-Sorcery.json"
+        },
+        {
+          "page": "The_Book_of_Paths",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=The_Book_of_Paths&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/The_Book_of_Paths",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "28e7cfa0ab20c0a522f42b37075c2678c1e9d1d9726db7d53fcaab515849c5be",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\The_Book_of_Paths.json"
+        },
+        {
+          "page": "Tic(k)",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Tic(k)&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Tic(k)",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "b939f5b2d2332b07f4f4522dd57036ea772d6eec489fc9c0819949f4b4243762",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Tic(k).json"
+        },
+        {
+          "page": "Architectonic_Order_of_the_Eschaton_(AOE)",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Architectonic_Order_of_the_Eschaton_(AOE)&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Architectonic_Order_of_the_Eschaton_(AOE)",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "63a9ddaa278de0be0fdb0181ecb90bbb4e398dfae8a83cfb2302e938d90c62de",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Architectonic_Order_of_the_Eschaton_(AOE).json"
+        },
+        {
+          "page": "Spheres_and_Degrees_of_the_AOE",
+          "url": "https://ccru.fandom.com/api.php?action=parse&page=Spheres_and_Degrees_of_the_AOE&prop=wikitext&format=json",
+          "page_url": "https://ccru.fandom.com/wiki/Spheres_and_Degrees_of_the_AOE",
+          "fetched_utc": "2026-11-02T08:18Z",
+          "sha256": "cf91c0df69d9b34f61cb51f736f204ed1d756e110ac3b15383504706a1bf37ac",
+          "snapshot_file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\web_snapshots\\Spheres_and_Degrees_of_the_AOE.json"
+        }
+      ],
+      "total_chars": 32040,
+      "total_chunks": 2,
+      "chunk_count": 2,
+      "chunk_dir": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium",
+      "chunks": [
+        {
+          "chunk_id": 0,
+          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\chunk_000.txt",
+          "start_char": 0,
+          "end_char": 24957
+        },
+        {
+          "chunk_id": 1,
+          "file": "C:\\Users\\akbon\\OneDrive\\Documents\\GitHub\\munich-handbook-research\\data\\sources\\ccru_pandemonium\\chunk_001.txt",
+          "start_char": 24457,
+          "end_char": 32040
+        }
+      ]
     }
   ],
   "schema_version": "1.2",
