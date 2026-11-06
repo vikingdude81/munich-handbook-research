@@ -1,0 +1,5 @@
+# Lint gate used by CI.
+extend-exclude = ["logs", "_quarantine"]  # artifact dumps, not active source
+
+[lint.per-file-ignores]
+"scripts/build_graph.py" = []
