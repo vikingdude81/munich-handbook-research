@@ -1,4 +1,6 @@
+import json
 import os
+from collections import OrderedDict
 
 def analyze_json_errors(input_dir):
     error_patterns = {}
