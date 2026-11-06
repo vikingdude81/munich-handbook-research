@@ -135,7 +135,7 @@ def main():
     
     print(f"\nManifest written to: {output_path}")
     print(f"Total chunks generated: {len(all_chunks)}")
-    print(f"Average embedding dimension: 768")
+    print("Average embedding dimension: 768")
     print(f"Sources processed: {manifest['metadata']['sources_processed']}")
 
 if __name__ == "__main__":

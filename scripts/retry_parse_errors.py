@@ -227,7 +227,7 @@ def main():
         log(f"  [{i+1}/{len(phase2_needed)}] {src} chunk {cid}: sending to 120B...")
         t0 = time.time()
         try:
-            result = tool.call(json.dumps({
+            tool.call(json.dumps({
                 "project_dir": PROJECT_DIR,
                 "source_id": src,
                 "chunk_id": cid,
@@ -272,7 +272,7 @@ def main():
     # ==============================
     total_fixed = phase1_fixed + phase2_fixed
     log(f"\n{'='*70}")
-    log(f"RETRY COMPLETE")
+    log("RETRY COMPLETE")
     log(f"  Phase 1 (local re-parse): {phase1_fixed} recovered")
     log(f"  Phase 2 (LLM re-run):     {phase2_fixed} recovered, {phase2_errors} still failing")
     log(f"  Total recovered:           {total_fixed} / {len(errors)}")

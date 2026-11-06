@@ -28,7 +28,6 @@ Usage:
 import os
 import json
 import logging
-import time
 import datetime
 from dataclasses import dataclass, asdict
 from typing import Optional

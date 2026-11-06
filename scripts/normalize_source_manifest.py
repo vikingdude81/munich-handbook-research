@@ -10,7 +10,7 @@ Repairs rot found by the modernized lint:
   and distilled_dir pointed at data/{sources,distilled}/malleus_marx/...
 - goetia path made repo-relative
 """
-import json, os
+import json
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]

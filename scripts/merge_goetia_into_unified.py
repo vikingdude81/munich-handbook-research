@@ -8,7 +8,7 @@ Doctrine (AGENTS.md):
 - cross_work recomputed from distinct_works (never chunk overlap).
 - necro == forbidden_rites_pdf == kieckhefer_clm849 (never double-count).
 """
-import json, glob, difflib, sys, datetime, collections
+import json, glob, difflib
 
 WORK = "goetia_lemegeton"
 SRC = "goetia"

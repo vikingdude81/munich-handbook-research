@@ -1,5 +1,4 @@
-from typing import Dict, List, Optional, Any, TypedDict
-from enum import Enum
+from typing import List, Optional, TypedDict
 
 # =============================================================================
 # SCHEMA DEFINITION: Ars Notoria Knowledge Graph

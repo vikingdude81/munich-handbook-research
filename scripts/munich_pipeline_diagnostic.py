@@ -9,7 +9,7 @@ logs. This version enforces the invariants declared in AGENTS.md:
   - README.md / RESEARCH_MANIFEST.md statistics match the DB
 Exit code 1 on any FAIL; WARNs are informational.
 """
-import json, re, sys
+import json, sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]

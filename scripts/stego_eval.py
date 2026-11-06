@@ -31,7 +31,6 @@ Model: nvidia/nemotron-3-nano-omni via LM Studio at http://192.168.50.150:1234
 
 import argparse
 import json
-import re
 import time
 from datetime import datetime
 from pathlib import Path

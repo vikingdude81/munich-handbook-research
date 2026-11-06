@@ -13,8 +13,6 @@ from minisom import MiniSom
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from matplotlib.patches import RegularPolygon
-from collections import Counter
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "som_output")
 
@@ -127,7 +125,7 @@ def plot_feature_planes(som, feature_labels, filepath):
     for i in range(n_features):
         ax = axes[i]
         plane = weights[:, :, i]
-        im = ax.imshow(plane, cmap="viridis", interpolation="nearest", origin="lower")
+        ax.imshow(plane, cmap="viridis", interpolation="nearest", origin="lower")
         ax.set_title(feature_labels[i], fontsize=7)
         ax.set_xticks([])
         ax.set_yticks([])

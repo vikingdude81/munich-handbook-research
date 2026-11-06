@@ -49,6 +49,11 @@ import math
 from collections import defaultdict, Counter
 from typing import Optional
 
+try:
+    import networkx as nx
+except ImportError:  # guarded; main() reports and exits
+    nx = None
+
 # Ensure root is importable
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
@@ -444,7 +449,6 @@ def build_matplotlib_png(G: "nx.DiGraph", output_path: str) -> None:
 
 def generate_report(G: "nx.DiGraph", stats: dict, output_path: str) -> None:
     """Generate a human-readable markdown analysis report."""
-    import networkx as nx
 
     lines = [
         "# Munich Handbook Entity Relationship Graph Report\n",
@@ -545,9 +549,7 @@ def main() -> None:
                         help=f"Path to unified_entities.json (default: {DATA_PATH})")
     args = parser.parse_args()
 
-    try:
-        import networkx as nx
-    except ImportError:
+    if nx is None:
         print("networkx not installed. Install with: pip install networkx>=3.0")
         sys.exit(1)
 

@@ -1,5 +1,5 @@
 """analyze_discoverie.py — Extract spirits, operations, and experiments from Discoverie of Witchcraft."""
-import fitz, re, json
+import fitz, re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -64,10 +64,10 @@ lines = [
     "",
     "| Metric | Value |",
     "|--------|-------|",
-    f"| Total pages | 694 |",
-    f"| Extractable pages | 683 |",
-    f"| Total chars | 1,786,094 |",
-    f"| Chunks (25k chars) | 76 |",
+    "| Total pages | 694 |",
+    "| Extractable pages | 683 |",
+    "| Total chars | 1,786,094 |",
+    "| Chunks (25k chars) | 76 |",
     f"| Named spirits extracted | {len(spirits)} |",
     f"| Conjuration hits | {ops.get('conjur', 0)} |",
     f"| Circle mentions | {ops.get('circle', 0)} |",

@@ -6,7 +6,7 @@ Outputs: E:\munich_handbook_research\munich_handbook_guide.txt
 import json
 import os
 import textwrap
-from collections import Counter, defaultdict
+from collections import defaultdict
 
 DB_PATH = r"E:\munich_handbook_research\data\unified_entities.json"
 OUT_PATH = r"E:\munich_handbook_research\munich_handbook_guide.txt"
@@ -91,7 +91,7 @@ out("=" * 90)
 out()
 out(f"  Generated from {db['metadata']['total_raw_entities']} extracted entities")
 out(f"  across {db['metadata']['total_chunk_summaries']} source text sections")
-out(f"  Covering: Forbidden Rites (text), Forbidden Rites (PDF), Worship of the Dead")
+out("  Covering: Forbidden Rites (text), Forbidden Rites (PDF), Worship of the Dead")
 out()
 
 # ================================================================
@@ -133,12 +133,12 @@ for spirit_name, description in TABLE_D_SPIRITS.items():
         if s.get("name_variants"):
             out(f"  Name Variants: {', '.join(s['name_variants'])}")
         
-        out(f"  Attributes:")
+        out("  Attributes:")
         for k, v in attrs.items():
             out(f"    {k}: {attr_str(attrs, k)}")
         
         if s.get("raw_quotes"):
-            out(f"  Key Passages:")
+            out("  Key Passages:")
             for q in s["raw_quotes"][:3]:
                 out(wrap(f'"{q}"', indent=4, width=86))
         
@@ -150,8 +150,8 @@ for spirit_name, description in TABLE_D_SPIRITS.items():
                 direction = "-->" if r["from"] == s["canonical_name"] else "<--"
                 out(f"    {direction} [{r['type']}] {other}")
     else:
-        out(f"  Status: NOT FOUND in extracted data")
-        out(f"  Note: May appear in unparsed chunks or under variant spelling")
+        out("  Status: NOT FOUND in extracted data")
+        out("  Note: May appear in unparsed chunks or under variant spelling")
     out()
 
 # ================================================================
@@ -331,7 +331,7 @@ if inscriptions:
         use = attr_str(attrs, "use", attr_str(attrs, "role", attr_str(attrs, "function", "")))
         out(f"    {ig['display_name']:35s} x{ig['occurrence_count']}  | {use[:45]}")
 
-out(f"\n  All Other Ingredients:")
+out("\n  All Other Ingredients:")
 other_ing = [ig for ig in ingredients if ig not in fumigations and ig not in sacrificial and ig not in inscriptions]
 for ig in other_ing:
     attrs = ig.get("attributes", {})
@@ -437,7 +437,7 @@ for summary in sorted(summaries, key=lambda x: (x["source_id"], str(x["chunk_id"
     out(f"  [{summary['source_id']} chunk {summary['chunk_id']}]")
     out(wrap(summary["summary"], indent=4, width=86))
     if summary.get("key_passages"):
-        out(f"    Key passages:")
+        out("    Key passages:")
         for kp in summary["key_passages"][:3]:
             out(wrap(f'"{kp[:150]}"', indent=6, width=84))
     out()
@@ -477,5 +477,5 @@ with open(OUT_PATH, "w", encoding="utf-8") as f:
 
 print(f"Guide written to {OUT_PATH}")
 print(f"Size: {len(guide_text):,} chars / {os.path.getsize(OUT_PATH):,} bytes")
-print(f"Sections: 9 parts + appendix")
+print("Sections: 9 parts + appendix")
 print(f"Lines: {len(lines)}")

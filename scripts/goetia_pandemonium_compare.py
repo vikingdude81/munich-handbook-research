@@ -77,14 +77,14 @@ md.append(f"- syzygies (stated: five; pairs derived as the unique sum-9 partitio
           f"cross-checked against sum-9 edges in all 8 printed rites): {SYZYGIES}")
 md.append(f"- currents (derived: arithmetic difference of each syzygy): "
           f"sorted = {TRACTORS}")
-md.append(f"- => tractor zones = odd digits: the 'tractors are odd' property follows "
-          f"from the difference rule (each syzygy has one odd + one even member, odd difference).")
+md.append("- => tractor zones = odd digits: the 'tractors are odd' property follows "
+          "from the difference rule (each syzygy has one odd + one even member, odd difference).")
 md.append(f"- demon space (stated: demons are irreducible zone-pair distances): "
           f"C(10,2) = {len(DEMON_SPACE)} possible demons; pole notation n::m.")
 md.append(f"- sampled rites (from Vysparov concordance): {len(GOLD['rites'])}; "
           f"endpoint-pole rule verified on every one.")
-md.append(f"- Time-Circuit vs Warp/Plex: currents fold into one cycle plus two "
-          f"self-loops (stated in Matrix page).")
+md.append("- Time-Circuit vs Warp/Plex: currents fold into one cycle plus two "
+          "self-loops (stated in Matrix page).")
 md.append("")
 md.append("## 2. The Goetia track (as distilled)")
 md.append(f"- goetia-track entities: {len(go)}; relationships: {len(go_rels)}")

@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from typing import List, Optional, Dict
+from typing import List, Optional
 import os
 
 @dataclass
@@ -26,7 +26,7 @@ def load_distilled_spirts(directory: str) -> List[Spirit]:
     for filename in os.listdir(directory):
         if filename.endswith('.json'):
             with open(os.path.join(directory, filename), 'r') as f:
-                data = f.read()
+                f.read()
                 # Parse JSON data into Spirit object
                 # (Implementation details depend on file structure)
                 spirits.append(Spirit(id=1, name='Sample', description='Description'))

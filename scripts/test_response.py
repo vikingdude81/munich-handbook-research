@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Test actual LLM response format."""
 
-import json
 from pathlib import Path
 from openai import OpenAI
 

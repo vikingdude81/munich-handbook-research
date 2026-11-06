@@ -1,4 +1,3 @@
-import json
 import time
 import functools
 from jsonschema import validate, ValidationError
@@ -51,7 +50,7 @@ def main():
             if result["status"] == "failure":
                 print(f"Re-distilling chunk {chunk_id}")
                 # Re-process with strict mode
-                reprocessed_result = batch_distill_source(chunk_id, strict=True)
+                batch_distill_source(chunk_id, strict=True)
                 print(f"Processed chunk {chunk_id} successfully")
     except ValidationError as e:
         print(f"Validation error: {e.message}")

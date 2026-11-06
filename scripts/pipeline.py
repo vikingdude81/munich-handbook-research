@@ -24,11 +24,8 @@ Model: nvidia/nemotron-3-nano-omni via LM Studio at http://192.168.50.150:1234
 import argparse
 import json
 import re
-import sys
 import time
 import csv
-import io
-from datetime import datetime
 from pathlib import Path
 
 from openai import OpenAI
@@ -780,7 +777,6 @@ def main():
 
     if args.command == "run":
         cfg = SOURCES[args.source]
-        skip_chunks = set()
         chunk_numbers = None
         if args.chunks:
             chunk_numbers = set(int(x.strip()) for x in args.chunks.split(",") if x.strip())

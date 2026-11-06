@@ -1,4 +1,3 @@
-import json
 
 def parse_chunk_jsons(chunk_jsons):
     unified_list = []

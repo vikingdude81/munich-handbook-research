@@ -1,5 +1,4 @@
 # src/spirit_vectors.pyi
-from typing import List
 
 class SpiritVector:
     chunk_id: int

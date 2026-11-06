@@ -11,7 +11,7 @@ def analyze_json_errors(input_dir):
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     json_data = f.read()
-                    data = json.loads(json_data)
+                    json.loads(json_data)
             except json.JSONDecodeError as e:
                 error_type = type(e).__name__
                 if error_type not in error_patterns:

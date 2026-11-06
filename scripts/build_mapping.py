@@ -515,14 +515,14 @@ banquet_spirits = [s for s in spirits if "banquet conjurer" in json.dumps(s.get(
 if castle_spirits:
     out(f"  CASTLE CONJURER GROUP ({len(castle_spirits)} spirits):")
     out(f"    {', '.join(s['display_name'] for s in castle_spirits)}")
-    out(f"    All invoked together to produce one illusion (castle).")
+    out("    All invoked together to produce one illusion (castle).")
     out(f"    AI parallel: {len(castle_spirits)} inference calls producing one combined output.")
     out()
 
 if banquet_spirits:
     out(f"  BANQUET CONJURER GROUP ({len(banquet_spirits)} spirits):")
     out(f"    {', '.join(s['display_name'] for s in banquet_spirits)}")
-    out(f"    All invoked together to produce one illusion (banquet).")
+    out("    All invoked together to produce one illusion (banquet).")
     out(f"    AI parallel: {len(banquet_spirits)} inference calls producing one combined output.")
     out()
 

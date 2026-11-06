@@ -312,7 +312,7 @@ if __name__ == "__main__":
     labels = get_feature_labels()
     print(f"Vectorized {len(names)} spirits -> shape {data.shape}")
     print(f"Feature labels ({len(labels)}): {labels}")
-    print(f"\nFeature stats:")
+    print("\nFeature stats:")
     for i, label in enumerate(labels):
         col = data[:, i]
         nonzero = np.count_nonzero(col)

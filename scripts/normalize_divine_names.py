@@ -164,7 +164,7 @@ def main():
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
     
-    print(f"Successfully processed divine names.")
+    print("Successfully processed divine names.")
     print(f"Found {len(normalized_names)} variants to normalize.")
     print(f"Output written to: {OUTPUT_FILE}")
 

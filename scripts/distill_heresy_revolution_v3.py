@@ -426,7 +426,7 @@ def cross_document_analysis():
 
     entropy_delta = xs['avg_entropy'] - ms['avg_entropy']
     void_delta    = xs['high_void_count'] - ms['high_void_count']
-    print(f"\nDELTAS")
+    print("\nDELTAS")
     print(f"  Entropy delta:  {entropy_delta:+.2f}  (Marx {'more' if entropy_delta > 0 else 'less'} destructive)")
     print(f"  Void delta:     {void_delta:+d}   (Marx {'more' if void_delta > 0 else 'less'} void-heavy)")
 
@@ -442,7 +442,7 @@ def cross_document_analysis():
         if a.get("scapegoat", {}).get("name", "").strip()
     })
 
-    print(f"\nSCAPEGOATS")
+    print("\nSCAPEGOATS")
     print(f"  Malleus: {malleus_scapegoats[:10]}")
     print(f"  Marx:    {marx_scapegoats[:10]}")
 

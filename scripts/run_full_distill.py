@@ -13,7 +13,7 @@ import time
 # Add project root to path
 sys.path.insert(0, os.path.dirname(__file__))
 
-from tools.source_distill import DistillSourceChunk, BatchDistillSource
+from tools.source_distill import DistillSourceChunk
 
 PROJECT_DIR = r"E:\munich_handbook_research"
 LOG_FILE = os.path.join(PROJECT_DIR, "distill_log.txt")

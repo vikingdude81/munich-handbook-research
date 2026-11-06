@@ -45,7 +45,7 @@ for cid in [5, 10, 15, 20, 25, 30]:
     
     # Show any table-like content from the PDF that txt missed
     if len(p_table_lines) > len(n_table_lines) + 2:
-        print(f"  PDF has more structured content. Sample:")
+        print("  PDF has more structured content. Sample:")
         for line in p_table_lines[:3]:
             print(f"    | {line.strip()[:100]}")
 

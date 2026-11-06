@@ -14,7 +14,6 @@ Skips: __MACOSX junk, exact sha256 duplicates, books already distilled in repo.
 """
 import hashlib
 import json
-import os
 import shutil
 import sys
 from pathlib import Path

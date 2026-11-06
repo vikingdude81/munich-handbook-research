@@ -1,7 +1,7 @@
 """Audit summoning, experiment, and conjuration data from the unified database."""
 import json
 import os
-from collections import Counter, defaultdict
+from collections import Counter
 
 _ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 _DB_PATH = os.environ.get("MHR_UNIFIED_DB",
@@ -39,7 +39,7 @@ for t, c in rel_types.most_common(30):
     print(f"  {t:45s} x{c}")
 
 # 4. Conjuration / summoning keywords in rituals
-print(f"\n=== CONJURING/SUMMONING RITUALS ===")
+print("\n=== CONJURING/SUMMONING RITUALS ===")
 conjure_words = ["conjur", "summon", "invok", "invoc", "call", "appear", "evoc", "bind", "compel", "command"]
 conjure_rituals = []
 for r in rituals:
@@ -54,7 +54,7 @@ for r, hits in sorted(conjure_rituals, key=lambda x: -x[0]["occurrence_count"])[
     print(f"  [{','.join(hits):20s}] {r['display_name'][:45]:45s} x{r['occurrence_count']}  | {purpose[:50]}")
 
 # 5. Experiment numbering (Kieckhefer numbers experiments)
-print(f"\n=== NUMBERED EXPERIMENTS ===")
+print("\n=== NUMBERED EXPERIMENTS ===")
 exp_entities = [e for e in entities if "experiment" in e["display_name"].lower() or "no." in e["display_name"].lower()]
 for e in sorted(exp_entities, key=lambda x: x["display_name"])[:30]:
     attrs = e.get("attributes", {})
@@ -62,7 +62,7 @@ for e in sorted(exp_entities, key=lambda x: x["display_name"])[:30]:
     print(f"  [{e['type']:12s}] {e['display_name'][:50]:50s} | {purpose[:55]}")
 
 # 6. Detailed ritual attributes breakdown
-print(f"\n=== RITUAL ATTRIBUTE KEYS ===")
+print("\n=== RITUAL ATTRIBUTE KEYS ===")
 all_keys = Counter()
 for r in rituals:
     for k in r.get("attributes", {}).keys():
@@ -71,7 +71,7 @@ for k, c in all_keys.most_common(30):
     print(f"  {k:35s} x{c}")
 
 # 7. Spirits with summoning method details
-print(f"\n=== SPIRITS WITH SUMMONING DETAILS ===")
+print("\n=== SPIRITS WITH SUMMONING DETAILS ===")
 spirits = [e for e in entities if e["type"] == "spirit"]
 for s in spirits:
     attrs = s.get("attributes", {})
@@ -86,7 +86,7 @@ for s in spirits:
             print(f"  {s['display_name'][:30]:30s} | {'; '.join(method_bits[:3])[:80]}")
 
 # 8. Tools used in conjuration
-print(f"\n=== RITUAL TOOLS ===")
+print("\n=== RITUAL TOOLS ===")
 tools = [e for e in entities if e["type"] == "tool"]
 for t in sorted(tools, key=lambda x: -x["occurrence_count"])[:20]:
     attrs = t.get("attributes", {})
@@ -94,7 +94,7 @@ for t in sorted(tools, key=lambda x: -x["occurrence_count"])[:20]:
     print(f"  {t['display_name'][:40]:40s} x{t['occurrence_count']}  | {use[:50]}")
 
 # 9. Count entities by type
-print(f"\n=== ENTITY TYPE COUNTS ===")
+print("\n=== ENTITY TYPE COUNTS ===")
 type_counts = Counter(e["type"] for e in entities)
 for t, c in type_counts.most_common():
     print(f"  {t:20s} {c}")

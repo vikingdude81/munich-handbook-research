@@ -1,6 +1,9 @@
 from pydantic import BaseModel
 from typing import List
 
+# experiment references are catalog sigils, e.g. "CLM I.12"
+ExpRef = str
+
 class SpiritModel(BaseModel):
     name: str
     rank: int | None = None

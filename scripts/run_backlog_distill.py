@@ -58,7 +58,7 @@ def main():
         try:
             result = json.load(open(path, encoding="utf-8"))
             if result.get("parse_error"):
-                print(f"  -> STILL parse_error")
+                print("  -> STILL parse_error")
                 fail += 1
             else:
                 print(f"  -> OK: {len(result.get('entities', []))} entities")

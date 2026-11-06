@@ -9,7 +9,7 @@ The output is serialized as valid JSON-LD schema.
 """
 
 import json
-from typing import Any, Dict, List
+from typing import Any, Dict
 
 # Define the JSON-LD Context for the ontology
 CONTEXT = {

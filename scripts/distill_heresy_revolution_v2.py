@@ -12,7 +12,6 @@ Usage:
 import argparse
 import json
 import re
-import sys
 import time
 from pathlib import Path
 from openai import OpenAI
@@ -218,12 +217,12 @@ def cross_document_analysis():
     print("CROSS-DOCUMENT ANALYSIS: Malleus Maleficarum vs. Karl Marx")
     print("="*80)
     
-    print(f"\nMALLEUS MALEFICARUM (1486):")
+    print("\nMALLEUS MALEFICARUM (1486):")
     print(f"  Avg Entropy: {malleus_data['stats']['avg_entropy']:.2f} (1=constructive, 10=destructive)")
     print(f"  Avg Rhetorical Intensity: {malleus_data['stats']['avg_intensity']:.2f}")
     print(f"  High-Void Chunks: {malleus_data['stats']['high_void_count']} (intense but no solutions)")
     
-    print(f"\nKARL MARX (1848):")
+    print("\nKARL MARX (1848):")
     print(f"  Avg Entropy: {marx_data['stats']['avg_entropy']:.2f}")
     print(f"  Avg Rhetorical Intensity: {marx_data['stats']['avg_intensity']:.2f}")
     print(f"  High-Void Chunks: {marx_data['stats']['high_void_count']}")

@@ -1,5 +1,5 @@
 import logging
-from typing import List, Dict
+from typing import List
 
 def run_distillation(chunk_id: int) -> bool:
     """Simulate distillation process for a given chunk."""

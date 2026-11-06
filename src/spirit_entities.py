@@ -1,5 +1,4 @@
 from datetime import datetime
-import uuid
 
 class SpiritEntity:
     def __init__(self, name, description, legion_count=None):

@@ -14,7 +14,6 @@ import os
 
 from openai import OpenAI
 import config
-import json
 
 class BaseTool:
     def __init__(self): pass
@@ -90,7 +89,7 @@ class ListSourceChunks(BaseTool):
                 lines.append(f"    Chunk IDs: 0 to {n_chunks - 1}")
             elif status == 'scanned_images':
                 lines.append(f"  [{src_id}] {desc}")
-                lines.append(f"    SCANNED IMAGES — no extractable text (needs OCR)")
+                lines.append("    SCANNED IMAGES — no extractable text (needs OCR)")
             elif status == 'missing':
                 lines.append(f"  [{src_id}] FILE NOT FOUND: {src.get('path', '?')}")
             else:
@@ -536,7 +535,7 @@ class BatchDistillSource(BaseTool):
                 continue
 
             # Distill this chunk
-            result = single.call(json.dumps({
+            single.call(json.dumps({
                 "project_dir": project_dir,
                 "source_id": source_id,
                 "chunk_id": i,

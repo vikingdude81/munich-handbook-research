@@ -4,7 +4,7 @@ Reads data/unified_entities.json, filters to entities tagged with the
 kieckhefer_clm849 work, scores by richness, and writes a JS constant
 to ../porta-cipher-wheel/munich_graph.js for the app's crossref tab.
 """
-import json, os, sys
+import json, os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..", "data", "unified_entities.json")

@@ -8,10 +8,9 @@ rulerships, elemental affinities, and temporal window matching.
 
 from __future__ import annotations
 from dataclasses import dataclass, field
-from enum import Enum, auto
-from typing import Any, Dict, List, Literal, Optional, Tuple, Union
+from enum import Enum
+from typing import Dict, List, Literal, Optional, Tuple
 import re
-from datetime import datetime
 
 
 # =============================================================================

@@ -1,4 +1,4 @@
-from typing import TypeVar, Generic, Optional, Dict, List
+from typing import Optional, Dict, List
 from typing_extensions import TypedDict
 
 class Spirit(TypedDict):

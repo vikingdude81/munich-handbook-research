@@ -8,7 +8,7 @@ import os
 import json
 import time
 from pathlib import Path
-from subprocess import run, PIPE
+from subprocess import run
 
 def check_distilled_chunks(project_dir):
     """Check which necro chunks have already been distilled."""
@@ -88,7 +88,6 @@ def main():
             results['success'].append(chunk_id)
             continue
         
-        success_count = 0
         last_error = None
         
         for attempt in range(1, max_retries + 1):

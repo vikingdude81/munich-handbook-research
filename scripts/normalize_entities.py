@@ -148,7 +148,6 @@ TYPE_MAP = {
     "ritual_tool": "tool",
     "ritual instrument": "tool",
     "tool/ingredient": "tool",
-    "tool|ritual": "tool",
 
     # Person variants
     "person": "person",
@@ -497,7 +496,7 @@ def main():
 
     # Type distribution after normalization
     norm_types = Counter(e["type"] for e in merged)
-    print(f"\n  Normalized type distribution:")
+    print("\n  Normalized type distribution:")
     for t, c in norm_types.most_common():
         print(f"    {t:15s}: {c:4d} unique entities")
 
@@ -510,7 +509,7 @@ def main():
     print(f"  Normalized relationships: {len(norm_rels)} (from {len(relationships)} raw)")
 
     rel_types = Counter(r["type"] for r in norm_rels)
-    print(f"\n  Relationship type distribution:")
+    print("\n  Relationship type distribution:")
     for t, c in rel_types.most_common():
         print(f"    {t:20s}: {c:4d}")
 
@@ -549,7 +548,7 @@ def main():
     print(f"{'='*70}")
 
     # Top spirits by occurrence
-    print(f"\nTop 30 spirits by cross-reference count:")
+    print("\nTop 30 spirits by cross-reference count:")
     for i, s in enumerate(spirits[:30]):
         src_count = len(s["sources"])
         attr_keys = list(s["attributes"].keys())[:4]

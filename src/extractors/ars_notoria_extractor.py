@@ -13,8 +13,8 @@ Date: 2023-10-27
 
 import json
 import re
-from dataclasses import dataclass, field
-from typing import List, Dict, Optional
+from dataclasses import dataclass
+from typing import List, Optional
 
 
 @dataclass

@@ -15,7 +15,6 @@ session so the brain has digestible chunks to work with.
 import os
 import sys
 import json
-import textwrap
 import logging
 
 # Canonical text cleaner (strips OCR garbage / page markers before chunking).

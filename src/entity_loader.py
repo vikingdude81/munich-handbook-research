@@ -76,7 +76,7 @@ class EntityLoader:
             return []
 
         json_files = list(self.base_directory.glob("*.json"))
-        logger.info(f"Primary file 'munich_entities.json' not found. Scanned for alternatives.")
+        logger.info("Primary file 'munich_entities.json' not found. Scanned for alternatives.")
         return json_files
 
     def _validate_json_structure(self, data: Dict[str, Any]) -> bool:

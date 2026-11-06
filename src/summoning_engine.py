@@ -24,9 +24,7 @@ import argparse
 import json
 import logging
 import os
-import random
 import sys
-import time
 import traceback
 from datetime import datetime
 from pathlib import Path

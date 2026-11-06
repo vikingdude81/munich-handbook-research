@@ -1,8 +1,7 @@
-import os
 import json
 import logging
 from pathlib import Path
-from typing import Optional, List, Dict, Any
+from typing import List, Dict, Any
 
 # Configure logger once at module level if not already done
 logger = logging.getLogger(__name__)
@@ -30,7 +29,6 @@ class DataLoader:
             Path.cwd() / filename              # Current working directory
         ]
 
-        loaded_path: Optional[Path] = None
         
         for candidate in candidates:
             if candidate.exists():

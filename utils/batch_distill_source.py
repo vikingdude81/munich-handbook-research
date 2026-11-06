@@ -1,4 +1,5 @@
 import os
+import json
 import time
 
 def batch_distill_source(data, filename, max_retries=2, delay=1):
@@ -9,11 +10,11 @@ def batch_distill_source(data, filename, max_retries=2, delay=1):
                 json.dump(data, f)
             os.rename(temp_filename, filename)
             return
-        except (FileExistsError, PermissionError) as e:
+        except (FileExistsError, PermissionError):
             if attempt < max_retries:
                 time.sleep(delay)
                 continue
-        except Exception as e:
+        except Exception:
             if attempt < max_retries:
                 time.sleep(delay)
             else:

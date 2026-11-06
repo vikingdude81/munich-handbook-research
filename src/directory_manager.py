@@ -90,7 +90,7 @@ class ResearchDirectoryManager:
             logger.error(f"Permission denied accessing path: {self._resolved_path}. Error: {e}")
             return {}
 
-        except Exception as e:
+        except Exception:
             # Catch-all for unexpected errors during resolution
             logger.exception(f"Unexpected error checking path: {self._resolved_path}")
             return {}

@@ -1,6 +1,5 @@
 """Break down spirits and rituals by source, with Munich Handbook focus."""
 import json
-from collections import Counter, defaultdict
 
 db = json.load(open(r"E:\munich_handbook_research\data\unified_entities.json", "r", encoding="utf-8"))
 
@@ -47,7 +46,7 @@ print(f"  Appear in multiple sources:    {len(multi_source)}")
 
 # Top Munich spirits
 print(f"\n{'='*70}")
-print(f"TOP 40 MUNICH HANDBOOK SPIRITS (by occurrence count)")
+print("TOP 40 MUNICH HANDBOOK SPIRITS (by occurrence count)")
 print(f"{'='*70}")
 for i, s in enumerate(sorted(munich_spirits, key=lambda x: -x["occurrence_count"])[:40]):
     srcs = sorted(set(src.split(":")[0] for src in s["sources"]))
@@ -74,7 +73,7 @@ munich_rituals = [r for r in rituals if any(
 print(f"\n  Munich Handbook rituals: {len(munich_rituals)}")
 
 # Top rituals with details
-print(f"\n  Top 30 rituals by detail:")
+print("\n  Top 30 rituals by detail:")
 for i, r in enumerate(sorted(munich_rituals, key=lambda x: -x["occurrence_count"])[:30]):
     attrs = r.get("attributes", {})
     purpose = attrs.get("purpose", attrs.get("function", attrs.get("type", attrs.get("role", ""))))
@@ -105,7 +104,7 @@ munich_tools = [t for t in tools if any(
 )]
 
 print(f"\n{'='*70}")
-print(f"RITUAL MATERIALS — Munich Handbook")
+print("RITUAL MATERIALS — Munich Handbook")
 print(f"{'='*70}")
 print(f"\n  Ingredients: {len(munich_ingredients)}")
 for i, ig in enumerate(sorted(munich_ingredients, key=lambda x: -x["occurrence_count"])[:20]):
@@ -127,7 +126,7 @@ for i, t in enumerate(sorted(munich_tools, key=lambda x: -x["occurrence_count"])
 # RITUAL-SPIRIT RELATIONSHIPS
 # ================================================================
 print(f"\n{'='*70}")
-print(f"SPIRIT-RITUAL CONNECTIONS")
+print("SPIRIT-RITUAL CONNECTIONS")
 print(f"{'='*70}")
 
 # Find relationships linking spirits to rituals/ingredients

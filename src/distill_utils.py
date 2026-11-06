@@ -1,5 +1,4 @@
 import json
-from requests import Session
 from time import sleep
 
 def batch_distill_source(pipeline, sources):

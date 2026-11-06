@@ -156,7 +156,7 @@ class HerasyRevolutionDistiller:
             return False
         
         # Save analyses
-        output_dir = Path(f'data/distilled/malleus_marx')
+        output_dir = Path('data/distilled/malleus_marx')
         output_dir.mkdir(parents=True, exist_ok=True)
         
         # Individual analysis files

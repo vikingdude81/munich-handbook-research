@@ -11,7 +11,7 @@ def retry_failed_chunks():
     for i in range(1, 6):  # Process chunks 1 to 5
         try:
             batch_distill_source(i)
-        except Exception as e:
+        except Exception:
             if os.path.exists(f"data_{i}.json") and os.path.getsize(f"data_{i}.json"):
                 print(f"Output exists for chunk {i}")
             else:

@@ -12,7 +12,7 @@ Usage:
 import json
 import sys
 from pathlib import Path
-from typing import List, Dict, Optional
+from typing import List, Dict
 import logging
 
 # Try to import PyPDF2 for PDF extraction
@@ -99,7 +99,7 @@ def ingest_malleus(chunk_size: int = 10000):
         logger.error(f"PDF not found: {pdf_path}")
         return False
     
-    logger.info(f"Extracting [Malleus Maleficarum] …")
+    logger.info("Extracting [Malleus Maleficarum] …")
     
     output_dir.mkdir(parents=True, exist_ok=True)
     
@@ -135,7 +135,7 @@ def ingest_marx(chunk_size: int = 10000):
         logger.error(f"PDF not found: {pdf_path}")
         return False
     
-    logger.info(f"Extracting [Selected Works of Karl Marx] …")
+    logger.info("Extracting [Selected Works of Karl Marx] …")
     
     output_dir.mkdir(parents=True, exist_ok=True)
     

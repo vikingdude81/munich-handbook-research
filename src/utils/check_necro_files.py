@@ -8,7 +8,7 @@ def check_necro_files(folder_path):
         file_path = os.path.join(folder_path, file)
         try:
             with open(file_path, 'rb') as f:
-                data = f.read(1024)  # Read first 1024 bytes to check if file is empty
+                f.read(1024)  # Read first 1024 bytes to check if file is empty
                 size = os.path.getsize(file_path)
                 encoding = "UTF-8"  # Default text encoding for .chunk files
             print(f"Filenames: {file}, Size: {size} bytes, Encoding: {encoding}")

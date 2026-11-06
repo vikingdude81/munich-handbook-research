@@ -10,7 +10,7 @@ def run_batch_distill(chunk_id):
         "JSON decode error": False
     }
     
-    if error_logs.get(f"not found", False):
+    if error_logs.get("not found", False):
         print(f"Re-running batch_distill_source for chunk {chunk_id} due to 'not found' error.")
         # Simulate retry logic with exponential backoff
         time.sleep(2)  # First attempt

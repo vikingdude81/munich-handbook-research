@@ -1,5 +1,4 @@
-from datetime import date, timedelta
-from typing import List, Dict, Any
+from typing import Dict, Any
 
 class ArsNotoriaRitualEngine:
     """
@@ -33,27 +32,10 @@ class ArsNotoriaRitualEngine:
         # Step 1: Define Prerequisites (Day -3 to Day -1)
         # Source: "The Operator ought to be clean, chaste, to repent of his sins..."
         # We model this as a preparation phase before the first canonical day.
-        preparation_phase = {
-            'start_day': '-3',
-            'end_day': '-1',
-            'actions': [
-                'Assess spiritual state (cleanliness and chastity)',
-                'Perform repentance for sins',
-                'Cultivate earnest desire to cease sinning'
-            ],
-            'notes': 'Continuous state required throughout the cycle.'
-        }
 
         # Step 2: Define Fasting Phase (Days -2 to -1 or Day 0)
         # Source: "it is good to fast two or three dayes"
         # We place this immediately preceding the first major rite.
-        fasting_phase = {
-            'start_day': '-2',
-            'end_day': '-1',
-            'duration_days': self.fasting_duration_options,
-            'action': 'Fasting (2 or 3 days)',
-            'purpose': 'To discern if desires are good or evil'
-        }
 
         # Step 3: Define Main Rites based on Lunation Days
         # Source: "fourth day of the Moon, the eighth and twelfth"

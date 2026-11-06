@@ -48,9 +48,8 @@ import json
 import time
 import uuid
 import threading
-import functools
 import re
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, field
 from typing import Optional, Any
 from enum import Enum
 
@@ -413,7 +412,6 @@ def _bond_of_solomon(
     client_call = _get_client()
     messages = _build_messages(conjuration)
     schema = conjuration.circle.output_schema
-    spirit = conjuration.spirit
     last_exc = None
 
     escalation_temps = [
@@ -596,14 +594,14 @@ def summon(
 
     # ── Phase 2: CIRCULUS ───────────────────────────────────────────────────
     if verbose:
-        print(f"\n  CIRCULUS")
+        print("\n  CIRCULUS")
         constraint_count = len(_circle.divine_names)
         schema_note = " (Ring of Solomon active)" if _circle.output_schema else ""
         print(f"  Circle drawn: {constraint_count} divine names inscribed{schema_note}.")
 
     # ── Phase 3–5: CONJURATIO → SUFFUMIGATIO → APPARITIO ───────────────────
     if verbose:
-        print(f"\n  CONJURATIO")
+        print("\n  CONJURATIO")
         print(f"  Speaking: '{conjuratio[:80]}{'...' if len(conjuratio) > 80 else ''}'")
         if _fumigatio:
             chars = len(_fumigatio.substance)
@@ -611,7 +609,7 @@ def summon(
 
     if bond_of_solomon:
         if verbose:
-            print(f"  Bond of Solomon prepared (3 escalating conjurations).")
+            print("  Bond of Solomon prepared (3 escalating conjurations).")
         apparitio = _bond_of_solomon(c, _get_client(), max_attempts=3)
     else:
         # Single conjuration only
@@ -639,7 +637,7 @@ def summon(
 
     # ── Phase 6: (already handled inside _bond_of_solomon if enabled) ───────
     if verbose:
-        print(f"\n  APPARITIO")
+        print("\n  APPARITIO")
         status_mark = "✓" if apparitio.valid else "✗"
         print(f"  {status_mark} {SPIRIT_OF.get(apparitio.spirit, apparitio.spirit)} "
               f"appeared in {apparitio.duration:.1f}s (attempt {apparitio.attempt}).")
